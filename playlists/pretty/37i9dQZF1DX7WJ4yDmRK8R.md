@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Sublime on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,681 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,709 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 29 | [One Step Beyond](https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [One Step Beyond...](https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA) | 2:18 |
 | 30 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 |
 | 31 | [Too Much Pressure](https://open.spotify.com/track/5UwELoOykVTB1WiVknlyh4) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Too Much Pressure](https://open.spotify.com/album/5wnNTpK8zZCzbEblOvKmUV) | 3:51 |
-| 32 | [Rat Race](https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Too Much Too Young](https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB) | 3:09 |
-| 33 | [Lost Again](https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [Honey I'm Homely](https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX) | 3:23 |
+| 32 | [Lost Again](https://open.spotify.com/track/2fCV2Wko0b4ToipDJS6yun) | [Dance Hall Crashers](https://open.spotify.com/artist/7cIsuRDa9Q68n6Ui6GZsVj) | [Honey I'm Homely](https://open.spotify.com/album/1ykysjJVAuKPL3bpTxv6oX) | 3:23 |
+| 33 | [Rat Race](https://open.spotify.com/track/40WVjx6iopjm9jbRLgWUno) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Too Much Too Young](https://open.spotify.com/album/1fQdhVhPHskHwwMYkJqPwB) | 3:09 |
 | 34 | [La Última Carta](https://open.spotify.com/track/2A66FBk36QAMcOychXojNS) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/3zz6uN6pTbTVNHNmzVrTXq) | 3:32 |
 | 35 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
 | 36 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 45 | [One Step Beyond](https://open.spotify.com/track/2JX6SE1ZsNGWDcb3kDZVfJ) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Ska and Rocksteady Collection, Vol\. 1](https://open.spotify.com/album/5q2Knpcgb67Fm9sWM01cX4) | 2:39 |
 | 46 | [Lost It](https://open.spotify.com/track/0BvtEvt2oftqEAwOLl4ujT) | [The Hippos](https://open.spotify.com/artist/6glQCSuzgkNeB7oVMIkiYi) | [Heads Are Gonna Roll](https://open.spotify.com/album/1ShvLX5xWw2wwvBMu3ENWn) | 2:24 |
 | 47 | [You Can Get It If You Really Want](https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae Greats](https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0) | 2:39 |
-| 48 | [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 |
-| 49 | [Honey](https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Bersinar](https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn) | 3:45 |
+| 48 | [Honey](https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Bersinar](https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn) | 3:45 |
+| 49 | [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 |
 | 50 | [Madness](https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 2:45 |
 | 51 | [180 Degrees](https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:10 |
 | 52 | [2Tone Army](https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 3:17 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 67 | [Ma and Pa](https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [The Essential Fishbone](https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H) | 3:19 |
 | 68 | [The Tears of a Clown](https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb) | [The Beat](https://open.spotify.com/artist/4R90PNicCsCsEoRm8XwiMS) | [Tears of a Clown](https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw) | 2:40 |
 | 69 | [Hey Road](https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [Kosmopoliturbo](https://open.spotify.com/album/0RGMKEJfpeWIUbSkZVWNYP) | 3:49 |
-| 70 | [Lleva](https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Lleva](https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj) | 3:34 |
-| 71 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
+| 70 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 |
+| 71 | [Lleva](https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Lleva](https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj) | 3:34 |
 | 72 | [Ska Wars](https://open.spotify.com/track/6JU13nFxmo7lQKFcY1MTUr) | [Capdown](https://open.spotify.com/artist/4klVRld7OkKd0qSFKhMvcb) | [Civil Disobedients](https://open.spotify.com/album/75c0XEuvFGLKz5IqYFZwOs) | 4:11 |
 | 73 | [Ruby Cumulous](https://open.spotify.com/track/5MOKQJ6HMqpEoD04eqVFyB) | [Rx Bandits](https://open.spotify.com/artist/47bGK00zHXcGlUWfrE0dvi) | [Gemini, Her Majesty](https://open.spotify.com/album/5dYI3qu8vNj3K4qEtWhJVF) | 4:51 |
 | 74 | [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 88 | [You've Got A Friend](https://open.spotify.com/track/5YmqNKWDpbGZKCPapGHDrN) | [The Mighty Rootsmen](https://open.spotify.com/artist/3HZNJxRu48Cxt6dlPcIhnH), [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q), [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [You've Got A Friend](https://open.spotify.com/album/0oCrAr6VXADGTvcHTBhywJ) | 4:23 |
 | 89 | [Stepping Out](https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6) | [Big D and the Kids Table](https://open.spotify.com/artist/7rCVe3W6E37VMHBHJXB6xD) | [Stomp](https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI) | 3:01 |
 | 90 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
-| 91 | [Underdog](https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Flyover Renaissance](https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK) | 3:24 |
-| 92 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
+| 91 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
+| 92 | [Underdog](https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Flyover Renaissance](https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK) | 3:24 |
 | 93 | [On My Radio](https://open.spotify.com/track/7kNNi7Wv4LQcYS4k2E1TZA) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [Indie Singles Collection 1991\-1996](https://open.spotify.com/album/3gwVOnYIvRJFJyrJzaPnWF) | 3:06 |
 | 94 | [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 |
 | 95 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Good Times](https://open.spotify.com/track/7GcBhU9KW2cdxWQ39VY0Ri) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi) | [Good Times](https://open.spotify.com/album/0N4VKJj7FPmaeueGOv25C9) | 3:29 |
 | 100 | [Eu Nasci Há Dez Mil Anos Atrás](https://open.spotify.com/track/1wzoyCLQEleUN366W2LinG) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [Raul 80](https://open.spotify.com/album/06IdI1z4rnehKaSUsXJSlP) | 4:00 |
 
-Snapshot ID: `AAAAAIvwdx6vZ93hrWeSg565XA3GGd6b`
+Snapshot ID: `AAAAADoOFw3kK+P/sURInNE7vcBA3L3x`

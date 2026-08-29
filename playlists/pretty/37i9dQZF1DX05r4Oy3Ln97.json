@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
-  "num_followers": 1585191,
+  "num_followers": 1585277,
   "original_name": "Summer House 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACv7ffWKIVWXyBsXjAvO7RURFuK0",
+  "snapshot_id": "AAAAAPFJty9w2fJT85drZLeNu/7foDHa",
   "tracks": [
     {
       "added_at": "2026-08-21 12:33:44",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-08-21 12:33:44",
       "album": {
+        "name": "Hey Everybody",
+        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Hey Everybody",
+      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+    },
+    {
+      "added_at": "2026-08-21 12:33:44",
+      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 121874,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7"
-    },
-    {
-      "added_at": "2026-08-21 12:33:44",
-      "album": {
-        "name": "Hey Everybody",
-        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 156498,
-      "name": "Hey Everybody",
-      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {
       "added_at": "2026-08-21 12:33:44",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-21 12:33:44",
       "album": {
-        "name": "A Gira",
-        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
-      },
-      "artists": [
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 152325,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
-    },
-    {
-      "added_at": "2026-08-21 12:33:44",
-      "album": {
         "name": "Amplified Heart (2026 Deluxe Edition)",
         "url": "https://open.spotify.com/album/2taGgFWPxGnnmsmdii1LFB"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 236293,
       "name": "Missing - Todd Terry Remix Radio Edit",
       "url": "https://open.spotify.com/track/5ueQXMgZeKbgYToD8AUhco"
+    },
+    {
+      "added_at": "2026-08-21 12:33:44",
+      "album": {
+        "name": "A Gira",
+        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 152325,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
     },
     {
       "added_at": "2026-08-21 12:33:44",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-08-21 12:33:44",
       "album": {
-        "name": "Famax",
-        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
-      },
-      "artists": [
-        {
-          "name": "RAFFA GUIDO",
-          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
-        }
-      ],
-      "duration_ms": 335194,
-      "name": "Famax",
-      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
-    },
-    {
-      "added_at": "2026-08-21 12:33:44",
-      "album": {
         "name": "The Boy Is Mine",
         "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 201713,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
+    },
+    {
+      "added_at": "2026-08-21 12:33:44",
+      "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
     },
     {
       "added_at": "2026-08-21 12:33:44",
@@ -1463,22 +1463,22 @@
     {
       "added_at": "2026-08-21 12:33:44",
       "album": {
-        "name": "What A Life (feat. Florence Arman)",
-        "url": "https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2"
+        "name": "Walking On A Dream (BLOND:ISH Remix)",
+        "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         },
         {
-          "name": "Florence Arman",
-          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 189398,
-      "name": "What A Life (feat. Florence Arman)",
-      "url": "https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ"
+      "duration_ms": 191849,
+      "name": "Walking On A Dream - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
     },
     {
       "added_at": "2026-08-21 12:33:44",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2026-08-21 12:33:44",
       "album": {
-        "name": "Walking On A Dream (BLOND:ISH Remix)",
-        "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
+        "name": "What A Life (feat. Florence Arman)",
+        "url": "https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         },
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Florence Arman",
+          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
         }
       ],
-      "duration_ms": 191849,
-      "name": "Walking On A Dream - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
+      "duration_ms": 189398,
+      "name": "What A Life (feat. Florence Arman)",
+      "url": "https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ"
     },
     {
       "added_at": "2026-08-21 12:33:44",

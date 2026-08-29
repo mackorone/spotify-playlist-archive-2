@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,260 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,261 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 13 | [Bye Bye](https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 2:58 |
 | 14 | [Eternamente](https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme) | [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Slap Sessions: Melly \(Ao Vivo\)](https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn) | 2:46 |
 | 15 | [Compartilhando o céu](https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 2:59 |
-| 16 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 |
+| 16 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
 | 17 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 18 | [Gaveta/Onironauta](https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Allefez](https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 3:45 |
-| 19 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
+| 19 | [Fiquei assim](https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Fiquei assim](https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN) | 3:38 |
 | 20 | [Sexto Sentido](https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Sexto Sentido](https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK) | 2:31 |
 | 21 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 |
 | 22 | [Vai dar Bom \(Ao Vivo\)](https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr) | [Neverlândia Sessions \(Ao Vivo\)](https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT) | 3:26 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 35 | [amor não é suficiente](https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [amor não é suficiente](https://open.spotify.com/album/5lJ3be5dBEoJHnyprHg4mF) | 2:40 |
 | 36 | [Me Amas](https://open.spotify.com/track/0ui76V04K1vmUplSX3BZM4) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Como é bom poder dizer eu te amo](https://open.spotify.com/album/21295uHlotpc6pU7N7dso1) | 2:23 |
 | 37 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Murilo Orum](https://open.spotify.com/artist/6NwIrTXWOBJQRNrsIkY1yP) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
-| 38 | [Azul](https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo Deluxe \(DELUXE\)](https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ) | 3:03 |
-| 39 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
-| 40 | [Vícios q eu gosto](https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Vícios q eu gosto](https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN) | 2:32 |
+| 38 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
+| 39 | [Vícios q eu gosto](https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Vícios q eu gosto](https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN) | 2:32 |
+| 40 | [Azul](https://open.spotify.com/track/1nsjzuCsNlpx2fk0rkcr87) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Esse É Meu Mundo Deluxe \(DELUXE\)](https://open.spotify.com/album/5WcwM4mohIDlkFdcRwsHfJ) | 3:03 |
 | 41 | [Tudo o Que Sou](https://open.spotify.com/track/0pc7uFEfMbjbU8KIQdTfU0) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [LAR](https://open.spotify.com/album/17HW9qCYB9V3WBBDQgEgUQ) | 2:52 |
 | 42 | [Mais Prazer](https://open.spotify.com/track/35Lw74EetsAZzUFpi9Wa3P) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Mais Prazer](https://open.spotify.com/album/7s7ygL3e8FaDH7A1z4vB90) | 2:39 |
 | 43 | [\(Des\)conectar](https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31) | [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [\(Des\)conectar](https://open.spotify.com/album/57phCII157BEvM0camoMvd) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [Aurora](https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aurora](https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL) | 2:31 |
 | 50 | [Música](https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8) | [YAZI](https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [Música](https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L) | 3:23 |
 
-Snapshot ID: `AAAAAIuBRkbJIfckJ7wqkIyxkTbeylNI`
+Snapshot ID: `AAAAAECmG34X9fnDFPwAj4y3DEtdzCHY`

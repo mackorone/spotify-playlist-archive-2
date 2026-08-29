@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,495 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,500 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 14 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
 | 15 | [Add the Bassline](https://open.spotify.com/track/1oQbDSv5togt85za7IsTsc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 2:38 |
 | 16 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
-| 17 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
-| 18 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 |
+| 17 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 |
+| 18 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
 | 19 | [Krispy](https://open.spotify.com/track/6ZizKmm2kQY7e77rXrlwWs) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 3:41 |
 | 20 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 |
 | 21 | [Alright](https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 4:35 |
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 60 | [Cheap Cigars](https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Hutch](https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB) | [Cheap Cigars](https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx) | 3:19 |
 | 61 | [Just Come Home With Me Tonight \- Live at 45](https://open.spotify.com/track/4m9dFksHdnXQ0UR77VCyeb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home With Me Tonight \(Live at 45\)](https://open.spotify.com/album/6xLZX3BctRo9ETHG0uQh5f) | 4:40 |
 | 62 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 |
-| 63 | [Look What You've Done](https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Look What You've Done](https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc) | 5:12 |
-| 64 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 |
+| 63 | [Woe Is Me](https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Woe Is Me](https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX) | 3:40 |
+| 64 | [Look What You've Done](https://open.spotify.com/track/6fvNQAjbTdqEBjCoCx7v2U) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Look What You've Done](https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc) | 5:12 |
 | 65 | [At What Cost](https://open.spotify.com/track/45dq2Tj670CC0WOZEFashZ) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [At What Cost](https://open.spotify.com/album/0EMkOcbLfE9zCeDVjxLqsL) | 4:16 |
-| 66 | [So Far](https://open.spotify.com/track/7hADXOuwRKNu7U2SCd9Hct) | [Causier](https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [So Far](https://open.spotify.com/album/5LEB36Hao9h6bdTzTB5g1F) | 2:52 |
-| 67 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
+| 66 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
+| 67 | [So Far](https://open.spotify.com/track/7hADXOuwRKNu7U2SCd9Hct) | [Causier](https://open.spotify.com/artist/1qkumKhqyNt9jlyDoaLFcu), [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [So Far](https://open.spotify.com/album/5LEB36Hao9h6bdTzTB5g1F) | 2:52 |
 | 68 | [Fall](https://open.spotify.com/track/2AHW2ayyGYmoiYpJuHPEyC) | [Elsa](https://open.spotify.com/artist/0p8v04edfy3IA0VW4hu2yv) | [Fall](https://open.spotify.com/album/190nDHUMVR2vy6pqumS7kp) | 2:52 |
 | 69 | [Near Enough A Woman](https://open.spotify.com/track/1ncO5CMaYySNsnOrBXuFYd) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [Near Enough A Woman](https://open.spotify.com/album/3L341kxmBXonqWSRNLPLCT) | 3:34 |
 | 70 | [Shade](https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl), [Jordan Tait](https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Shade](https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 99 | [Try a Little Tenderness](https://open.spotify.com/track/0JykQXWGNwVGjV2HleUPuo) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Try a Little Tenderness](https://open.spotify.com/album/7pNPnsQmwf86kDUcUbJQH0) | 3:12 |
 | 100 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 |
 
-Snapshot ID: `AAAAAP+ABHzV0U4OU3zGmX1jBdUCV1a9`
+Snapshot ID: `AAAAANkVlC1lfuylc4M9Lal/LO/Sr73M`

@@ -1,12 +1,12 @@
 {
   "description": " \ud83e\udd40",
-  "num_followers": 123224,
+  "num_followers": 123232,
   "original_name": "piangere fortissimo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAISR9SZ9HeyvvXnz5RA/J5NVVxGf",
+  "snapshot_id": "AAAAANB5byiCawx85Fptx6m3sEpyjbHl",
   "tracks": [
     {
       "added_at": "2026-08-27 22:02:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-08-27 22:02:30",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 120026,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
-    },
-    {
-      "added_at": "2026-08-27 22:02:30",
-      "album": {
         "name": "In A Perfect World (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "added_at": "2026-08-27 22:02:30",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
     },
     {
       "added_at": "2026-08-27 22:02:30",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-08-27 22:02:30",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
-    },
-    {
-      "added_at": "2026-08-27 22:02:30",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 241920,
       "name": "Knowing Me, Knowing You",
       "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
+    },
+    {
+      "added_at": "2026-08-27 22:02:30",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
     },
     {
       "added_at": "2026-08-27 22:02:30",

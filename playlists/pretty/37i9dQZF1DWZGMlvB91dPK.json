@@ -1,29 +1,13 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 4055,
+  "num_followers": 4056,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOTq4wrTP0HVoLMQzlJpAicuFyjY",
+  "snapshot_id": "AAAAAPaCz8Aus2vtjVj+gK8CAaqZ0Gz6",
   "tracks": [
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Dressed Like Boys",
-        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 227408,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
-    },
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 212183,
       "name": "3 D\u00c9FAUTS",
       "url": "https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Dressed Like Boys",
+        "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 227408,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -99,6 +99,26 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "\u00c0 demain",
+        "url": "https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta"
+      },
+      "artists": [
+        {
+          "name": "Peet",
+          "url": "https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l"
+        },
+        {
+          "name": "White Corbeau",
+          "url": "https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Comme les autres",
+      "url": "https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "Dressed Like Boys",
         "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
       },
@@ -111,22 +131,6 @@
       "duration_ms": 301277,
       "name": "Jaouad",
       "url": "https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Dog Day",
-        "url": "https://open.spotify.com/album/70vSMHeeSJ9Z2xmOX08RBr"
-      },
-      "artists": [
-        {
-          "name": "Gen",
-          "url": "https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G"
-        }
-      ],
-      "duration_ms": 87406,
-      "name": "No Rnb",
-      "url": "https://open.spotify.com/track/3ISk54mlwwOqYvb8QkASqn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -147,22 +151,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "\u00c0 demain",
-        "url": "https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta"
+        "name": "Dog Day",
+        "url": "https://open.spotify.com/album/70vSMHeeSJ9Z2xmOX08RBr"
       },
       "artists": [
         {
-          "name": "Peet",
-          "url": "https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l"
-        },
-        {
-          "name": "White Corbeau",
-          "url": "https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH"
+          "name": "Gen",
+          "url": "https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G"
         }
       ],
-      "duration_ms": 207560,
-      "name": "Comme les autres",
-      "url": "https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3"
+      "duration_ms": 87406,
+      "name": "No Rnb",
+      "url": "https://open.spotify.com/track/3ISk54mlwwOqYvb8QkASqn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "GROSSE MAISON",
-        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
-      },
-      "artists": [
-        {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "TIP TOP",
-      "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Un chant d'amour",
         "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 221690,
       "name": "Un chant d'amour",
       "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "GROSSE MAISON",
+        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "TIP TOP",
+      "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "ECHO ECHO",
+        "url": "https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0"
+      },
+      "artists": [
+        {
+          "name": "Gen",
+          "url": "https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "La patte",
+      "url": "https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "GROSSE MAISON",
         "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 222272,
       "name": "HALLELUJAH",
       "url": "https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "ECHO ECHO",
-        "url": "https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0"
-      },
-      "artists": [
-        {
-          "name": "Gen",
-          "url": "https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "La patte",
-      "url": "https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Down the Row",
-        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
-      },
-      "artists": [
-        {
-          "name": "The Chainsaw Motel",
-          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
-        }
-      ],
-      "duration_ms": 209396,
-      "name": "Down the Row",
-      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Oxyballad",
         "url": "https://open.spotify.com/album/2gBVbWyEoofNBmuEHrkULI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 178698,
       "name": "Oxyballad",
       "url": "https://open.spotify.com/track/40lhbdDvg4gUMJHnv8ofJ8"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Down the Row",
+        "url": "https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy"
+      },
+      "artists": [
+        {
+          "name": "The Chainsaw Motel",
+          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
+        }
+      ],
+      "duration_ms": 209396,
+      "name": "Down the Row",
+      "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
     },
     {
       "added_at": "2025-11-20 17:00:08",

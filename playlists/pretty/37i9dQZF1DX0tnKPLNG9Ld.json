@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 131855,
+  "num_followers": 131876,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiSeM5cwVGJ2fKviVYUFwUu10qF",
+  "snapshot_id": "AAAAAMqZS7mSRmLME6LifROBT/HJd++B",
   "tracks": [
     {
       "added_at": "2026-07-14 11:41:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
+      "duration_ms": 122800,
+      "name": "You Couldn't Be Cuter",
+      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
     },
     {
       "added_at": "2026-07-14 11:41:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
-        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
       "artists": [
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 122800,
-      "name": "You Couldn't Be Cuter",
-      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": "2026-07-14 11:41:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-14 11:41:00",
       "album": {
-        "name": "Julie... At Home",
-        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
-    },
-    {
-      "added_at": "2026-07-14 11:41:00",
-      "album": {
         "name": "Songs For Swingin' Lovers! (Remastered)",
         "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 165933,
       "name": "How About You? - Remastered 1998",
       "url": "https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX"
+    },
+    {
+      "added_at": "2026-07-14 11:41:00",
+      "album": {
+        "name": "Julie... At Home",
+        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
     },
     {
       "added_at": "2026-07-14 11:41:00",

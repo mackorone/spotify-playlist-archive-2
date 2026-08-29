@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 667696,
+  "num_followers": 667775,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABWxQz9jHBZbjtfQCMzLSPsg4r8J",
+  "snapshot_id": "AAAAACmP1JcBw/orFF0JiZhMJux0KZY5",
   "tracks": [
     {
       "added_at": "2025-10-17 18:07:08",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 447960,
+      "name": "Restitui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 453106,
       "name": "Grande \u00e9 o Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 447960,
-      "name": "Restitui - Ao Vivo",
-      "url": "https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD"
     },
     {
       "added_at": "2025-10-17 18:07:08",

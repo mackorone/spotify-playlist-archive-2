@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,047 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,922,032 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 22 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 |
 | 23 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
 | 24 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |
-| 25 | [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 |
-| 26 | [A.D.H.D](https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 |
+| 25 | [A.D.H.D](https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 |
+| 26 | [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 |
 | 27 | [United In Grief](https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:15 |
 | 28 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
 | 29 | [King Kunta](https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 49 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 |
 | 50 | [Bad Blood](https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Bad Blood](https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE) | 3:20 |
 
-Snapshot ID: `ao4sgAAAAACdIa6guplkM5RtMRVTzyo1`
+Snapshot ID: `ao9+AAAAAABaWf4oRYFlo/9JgFRQMhNU`

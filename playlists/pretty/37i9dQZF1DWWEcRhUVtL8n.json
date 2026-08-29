@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Remi Wolf",
-  "num_followers": 1663418,
+  "num_followers": 1663335,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYrkYKopFi0so6+4/7wFOFXWm3e",
+  "snapshot_id": "AAAAAOHDMYaWsrXOKPWoV1wMqzloCMMT",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:45",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "From Down Here",
         "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 241470,
       "name": "From Down Here",
       "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "double edged sword",
-        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
-      },
-      "artists": [
-        {
-          "name": "Hailey Picardi",
-          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
-        }
-      ],
-      "duration_ms": 208023,
-      "name": "double edged sword",
-      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "double edged sword",
+        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "duration_ms": 208023,
+      "name": "double edged sword",
+      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "Whatever You Wanna",
         "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 211486,
       "name": "Whatever You Wanna",
       "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "Bottle",
-        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 258353,
-      "name": "Bottle",
-      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "eat the pavement",
-        "url": "https://open.spotify.com/album/1BplCRhETbabreZMRIgkfx"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 224950,
-      "name": "eat the pavement",
-      "url": "https://open.spotify.com/track/5WnxvPtkEJ31yXF8ZPwQr2"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Take A Drive",
         "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 225000,
       "name": "Take A Drive",
       "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "eat the pavement",
+        "url": "https://open.spotify.com/album/1BplCRhETbabreZMRIgkfx"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 224950,
+      "name": "eat the pavement",
+      "url": "https://open.spotify.com/track/5WnxvPtkEJ31yXF8ZPwQr2"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 200874,
-      "name": "Blue Dream",
-      "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Take Me Out To The Disco",
         "url": "https://open.spotify.com/album/3c5VO9D0LOzYjmMvKNYuvL"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 202402,
       "name": "Take Me Out To The Disco",
       "url": "https://open.spotify.com/track/7d7hc9QrLJMZGchzyGd0r2"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 200874,
+      "name": "Blue Dream",
+      "url": "https://open.spotify.com/track/4TpzhjLWWM5r4EShwPf6Ci"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Endless Sundays",
-        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 248281,
-      "name": "Endless Sundays",
-      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "The Fall",
         "url": "https://open.spotify.com/album/2fWLjKOm4gIFsJmWGt1lzC"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 218433,
       "name": "The Fall - Shadow",
       "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Endless Sundays",
+        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 248281,
+      "name": "Endless Sundays",
+      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "Come On",
-        "url": "https://open.spotify.com/album/6ZJfqMj8FwDh9wVk7Mxf1N"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 193319,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
         "name": "Suburbia",
         "url": "https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 133270,
       "name": "wasted time",
       "url": "https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
+        "name": "Come On",
+        "url": "https://open.spotify.com/album/6ZJfqMj8FwDh9wVk7Mxf1N"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 193319,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "will you be coming around?",
+        "url": "https://open.spotify.com/album/4K7Uw9hrsjMBsatjmmBXCq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "will you be coming around?",
+      "url": "https://open.spotify.com/track/1nsj01MrKqdLb0dVPUqTG2"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "Water The Flowers",
         "url": "https://open.spotify.com/album/18OwtNEeXcKttR8Y4WsNV2"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
-        "name": "will you be coming around?",
-        "url": "https://open.spotify.com/album/4K7Uw9hrsjMBsatjmmBXCq"
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
         }
       ],
-      "duration_ms": 169548,
-      "name": "will you be coming around?",
-      "url": "https://open.spotify.com/track/1nsj01MrKqdLb0dVPUqTG2"
+      "duration_ms": 156640,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1367,22 +1383,6 @@
       "duration_ms": 153400,
       "name": "Coldplay",
       "url": "https://open.spotify.com/track/5kxmDMKJYO8tj5FDX2x09w"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/5omifXCLUvR9btSGKw90En"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP"
     },
     {
       "added_at": "2026-08-28 04:02:45",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-08-28 04:02:45",
       "album": {
+        "name": "She Doesn't Love Me",
+        "url": "https://open.spotify.com/album/60jdlddHSUAyXN8sRKClsI"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 193762,
+      "name": "She Doesn't Love Me",
+      "url": "https://open.spotify.com/track/3kskExKEDexW78Fl3N99hG"
+    },
+    {
+      "added_at": "2026-08-28 04:02:45",
+      "album": {
         "name": "plum",
         "url": "https://open.spotify.com/album/61jHjRFqnc0XBx4hxcA6rG"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 188253,
       "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
-    },
-    {
-      "added_at": "2026-08-28 04:02:45",
-      "album": {
-        "name": "She Doesn't Love Me",
-        "url": "https://open.spotify.com/album/60jdlddHSUAyXN8sRKClsI"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 193762,
-      "name": "She Doesn't Love Me",
-      "url": "https://open.spotify.com/track/3kskExKEDexW78Fl3N99hG"
     },
     {
       "added_at": "2026-08-28 04:02:45",

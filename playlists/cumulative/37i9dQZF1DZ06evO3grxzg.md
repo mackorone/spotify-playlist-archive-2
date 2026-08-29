@@ -4,7 +4,7 @@
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-143 songs - 7 hr 36 min
+144 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Know Me Too Well](https://open.spotify.com/track/3evNCP0dfoI8lXvSF1tRnN) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Know Me Too Well](https://open.spotify.com/album/6g86dBoCblCdA4kNcZQKdW) | 3:20 | 2025-03-28 | 2025-06-23 |
 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 | 2023-03-19 |  |
 | [La Chica Yeye \- Version Grupera](https://open.spotify.com/track/5KFEHWX96AtTKGlaCb9k7E) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Chiquita Pero Picosa](https://open.spotify.com/album/1KA4HvOgc7mbV6AxLRq56J) | 2:35 | 2026-03-18 | 2026-04-09 |
-| [La Fogata](https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Lilibeth Lilibeth](https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3), [Luis Fernando Madriz](https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:00 | 2026-05-15 |  |
+| [La Fogata](https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Lilibeth Lilibeth](https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3), [Luis Fernando Madriz](https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:00 | 2026-05-15 | 2026-08-29 |
 | [Ladrones](https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:03 | 2023-03-19 | 2026-05-15 |
 | [Late Mi Corazón \- Version Pop](https://open.spotify.com/track/1445hOsDuFX6aVKfvBtWgi) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 4:02 | 2026-05-17 |  |
 | [Lo Que No Sabes](https://open.spotify.com/track/0N0AD9mvFdUn4eEpLskdzV) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:54 | 2025-01-16 | 2025-06-26 |
@@ -125,6 +125,7 @@
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/1xnxZtx5pcXC6UpPZydZr3) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Rockea Bien Duro](https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN) | 3:54 | 2025-02-17 | 2026-03-27 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2023-03-19 | 2026-04-02 |
 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 | 2023-03-19 | 2026-04-02 |
+| [Take A Chance On Me](https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dancing Queens Un Tributo Para ABBA](https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL) | 3:29 | 2026-08-29 |  |
 | [Te Quiero Tanto](https://open.spotify.com/track/0WXSnjqHBvN7dHNCzWmTPk) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 3:24 | 2023-03-19 |  |
 | [TENEMOS QUE HABLAR](https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [TENEMOS QUE HABLAR](https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU) | 3:10 | 2023-08-05 | 2024-05-07 |
 | [TENEMOS QUE HABLAR](https://open.spotify.com/track/7yhKchyWUfVj4BGM7yhjX7) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:10 | 2024-09-14 | 2026-04-02 |

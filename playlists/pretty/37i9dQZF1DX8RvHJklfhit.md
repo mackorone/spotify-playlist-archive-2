@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,754 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,811 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 35 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
 | 36 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 37 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 |
-| 38 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 |
-| 39 | [Agüitaecoco](https://open.spotify.com/track/2uKYlHL8AVryiFPeQLQQLR) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:19 |
+| 38 | [Agüitaecoco](https://open.spotify.com/track/2uKYlHL8AVryiFPeQLQQLR) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:19 |
+| 39 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 |
 | 40 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
 | 41 | [Vienen A Verme \(From "El Chapo" Soundtrack\) \- Theme from "El Chapo"](https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Chapo \(Original Television Soundtrack\)](https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6) | 3:20 |
 | 42 | [Cycles of Existential Rhyme](https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Cycles of Existential Rhyme](https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3) | 4:15 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 68 | [Play Your Game](https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Santa Cecilia](https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo) | 3:03 |
 | 69 | [La Vida Mejor](https://open.spotify.com/track/4dkjZa9RAkz1RKZAAxQnUD) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Será](https://open.spotify.com/album/3pmsaPjaLVhM7In7eZKEre) | 4:17 |
 | 70 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
-| 71 | [Lejos \(feat\. Coco Santos\)](https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Coco Santos](https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg) | [Adiós](https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA) | 2:46 |
-| 72 | [Shining in the Dark](https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT) | [Shining in the Dark](https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6) | 4:20 |
+| 71 | [Shining in the Dark](https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT) | [Shining in the Dark](https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6) | 4:20 |
+| 72 | [Lejos \(feat\. Coco Santos\)](https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Coco Santos](https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg) | [Adiós](https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA) | 2:46 |
 | 73 | [Drooling](https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Drooling](https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu) | 3:39 |
 | 74 | [The Feel](https://open.spotify.com/track/3ibKHCLcR8yChARBe32WKy) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [The Feel](https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ) | 3:00 |
 | 75 | [Sunlight](https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9) | [Besos](https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk) | [Sunlight](https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb) | 3:06 |
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 81 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
 | 82 | [Missed Connection](https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:51 |
 | 83 | [Drive \- Edit](https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Drive](https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf) | 3:56 |
-| 84 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 |
-| 85 | [I Don't Mind](https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [I Don't Mind](https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9) | 3:36 |
+| 84 | [I Don't Mind](https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [I Don't Mind](https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9) | 3:36 |
+| 85 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 |
 | 86 | [And Ever.](https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37) | [Daniela Garcia](https://open.spotify.com/artist/134p1mQ6nux5QPalFAupOM) | [And Ever.](https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk) | 2:55 |
 | 87 | [Hate My Face](https://open.spotify.com/track/7h631DjBj4j7aFMFwEA7ma) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Hate My Face](https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ) | 3:01 |
 | 88 | [Miénteme](https://open.spotify.com/track/6JwZcf1tj0DdPxaxMdiVv5) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Óleos](https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z) | 3:37 |
 | 89 | [Eres Tú](https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 3:48 |
 | 90 | [Reflexión del Pasto](https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Reflexión del Pasto](https://open.spotify.com/album/28GYUNMKd575GwnofewUEI) | 1:46 |
-| 91 | [Whatchu Know?](https://open.spotify.com/track/2aIBLMcUJzzBFj0jgQC7bN) | [Sam Sky](https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU) | [Whatchu Know?](https://open.spotify.com/album/29JesIS2vuVrFVtoOp3mur) | 3:48 |
-| 92 | [I Know It](https://open.spotify.com/track/7uLJUEnHIbLNyjRltSd1Eg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/6SVzbiS8FloyayLerrRMiY) | 2:31 |
-| 93 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
-| 94 | [Me Gustas Tu](https://open.spotify.com/track/6t0fYRoZlM5kQ9qT19JnbZ) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/6V5K77ZC7Gq3I1GgOVSoVs) | 3:59 |
+| 91 | [I Know It](https://open.spotify.com/track/7uLJUEnHIbLNyjRltSd1Eg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/6SVzbiS8FloyayLerrRMiY) | 2:31 |
+| 92 | [Whatchu Know?](https://open.spotify.com/track/2aIBLMcUJzzBFj0jgQC7bN) | [Sam Sky](https://open.spotify.com/artist/2YiWowjyYqKEXuAle5oNDU) | [Whatchu Know?](https://open.spotify.com/album/29JesIS2vuVrFVtoOp3mur) | 3:48 |
+| 93 | [Me Gustas Tu](https://open.spotify.com/track/6t0fYRoZlM5kQ9qT19JnbZ) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/6V5K77ZC7Gq3I1GgOVSoVs) | 3:59 |
+| 94 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 95 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 |
 | 96 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
-| 97 | [Lo Que Siento](https://open.spotify.com/track/3oyf4dalm17kzTE8LJDbgR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/04rhYQT6GJgWQQuRE6FfEW) | 5:12 |
-| 98 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 |
-| 99 | [1977](https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S) | 3:24 |
-| 100 | [American Spirits](https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [III](https://open.spotify.com/album/2C3iXsSSv1K73fxClTDgEW) | 2:50 |
+| 97 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 |
+| 98 | [Lo Que Siento](https://open.spotify.com/track/3oyf4dalm17kzTE8LJDbgR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/04rhYQT6GJgWQQuRE6FfEW) | 5:12 |
+| 99 | [American Spirits](https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [III](https://open.spotify.com/album/2C3iXsSSv1K73fxClTDgEW) | 2:50 |
+| 100 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
 
-Snapshot ID: `AAAAAJyXvSnBSpEdNsT2aHJinrFfuoV6`
+Snapshot ID: `AAAAAI9AV53ehDqpiHSg+6JXXw2zWySk`

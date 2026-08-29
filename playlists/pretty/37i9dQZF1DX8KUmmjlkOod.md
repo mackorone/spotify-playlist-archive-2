@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,175 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,178 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 53 | [Selva](https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 4:08 |
 | 54 | [Nene de Antes](https://open.spotify.com/track/0VZpqCugL1y5mBGPkw0foP) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Gol De Mujer](https://open.spotify.com/album/5qNbbDBwCJn5haKSWxsBJS) | 4:10 |
 | 55 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 |
-| 56 | [Porque Te Vas...](https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Ángeles Caídos](https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0) | 2:54 |
-| 57 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 |
+| 56 | [Y Volo Volo](https://open.spotify.com/track/1faBzm1I3IbISY15BWEWcT) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:21 |
+| 57 | [Porque Te Vas...](https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Ángeles Caídos](https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0) | 2:54 |
 | 58 | [Traición A La Mexicana](https://open.spotify.com/track/3TB8yNtLqwugHCols5sPx3) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc) | [Positiva Vibración](https://open.spotify.com/album/79ObMjPYMUaP3pu8fp7PLd) | 4:10 |
 | 59 | [El Arriero](https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 6:38 |
 | 60 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 67 | [Me Enamoré De Una Zamba](https://open.spotify.com/track/3HaGUHpK1zyL3BqbIz2cCO) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Tiempo De Amor](https://open.spotify.com/album/5OwelDcaYYS0UhTpkugIOO) | 4:05 |
 | 68 | [Si Tu Supieras](https://open.spotify.com/track/60oXNuRBSmeOMERo4jWbme) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:46 |
 | 69 | [Nunca Supe Más de Ti](https://open.spotify.com/track/3o9TaOJ5iFjHalmNEgENwj) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [Nunca Supe Más De Ti](https://open.spotify.com/album/2jqxJKn4vvVDcOkdjt1OYg) | 4:01 |
-| 70 | [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 |
-| 71 | [Sin documentos](https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Donde estabas tu..\. en el 93?](https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI) | 4:45 |
+| 70 | [Sin documentos](https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Donde estabas tu..\. en el 93?](https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI) | 4:45 |
+| 71 | [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 |
 | 72 | [Cosa Peligrosa](https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 3:23 |
 | 73 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
 | 74 | [Nada Hará Cambiar Mi Amor Por Ti](https://open.spotify.com/track/0sSYH6wPWL9SB7CDV8Bb0I) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 79 | [Un Poco Loco](https://open.spotify.com/track/48NK3TYEBDBCEwoDPIcC5p) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [Un Poco Loco](https://open.spotify.com/album/4MgEbkH0Fxs1QZ6bWQswGc) | 4:16 |
 | 80 | [Besándote \- Remastered 2001](https://open.spotify.com/track/0hLkWUECYBHJrzWzdwBiFN) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Reyes de la Canción](https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj) | 4:22 |
 
-Snapshot ID: `AAAAADmJHeAX5d7hw4AZBivPeWpci/EO`
+Snapshot ID: `AAAAAI7rEWAN4ZnTfA/s/76pjE1sdR5Z`

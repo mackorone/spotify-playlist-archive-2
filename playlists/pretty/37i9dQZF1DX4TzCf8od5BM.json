@@ -1,32 +1,32 @@
 {
   "description": "Sofia the First: Royal Magic is now available to watch on Disney Jr. and Disney+!",
-  "num_followers": 60558,
+  "num_followers": 60569,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKaQsK8JS1eJkzrfFHf258JCw1Ka",
+  "snapshot_id": "AAAAANZAi1lrn9Gld56hIBnxGpOWmhu1",
   "tracks": [
     {
-      "added_at": "2026-05-29 13:00:03",
+      "added_at": "2026-08-28 19:39:28",
       "album": {
-        "name": "Disney Jr. Music: Kindergarten: The Musical",
-        "url": "https://open.spotify.com/album/0NpgeY8xKDEhpNVkYZCnCD"
+        "name": "Time to Shine x Princess Things (Mashup) [From \"Disney Jr. Music: Sofia the First: Royal Magic\"]",
+        "url": "https://open.spotify.com/album/0B3dsbmhxJ4jN2MYka58ni"
       },
       "artists": [
         {
-          "name": "Kindergarten: The Musical - Cast",
-          "url": "https://open.spotify.com/artist/2bePrKPCqkcAE8rVdDDBxO"
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
         },
         {
           "name": "Disney Junior",
           "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
         }
       ],
-      "duration_ms": 58260,
-      "name": "Kindergarten: The Musical Theme Song",
-      "url": "https://open.spotify.com/track/7EyiojasZ6RX1z2JNZhIta"
+      "duration_ms": 166806,
+      "name": "Time to Shine x Princess Things (Mashup) - From \"Disney Jr. Music: Sofia the First: Royal Magic\"",
+      "url": "https://open.spotify.com/track/5ucu0vxmDOaimZ7XxXf2C2"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -109,20 +109,36 @@
       "url": "https://open.spotify.com/track/6N2wunwQewiaDXB0ZsOmky"
     },
     {
-      "added_at": "2026-05-29 13:00:03",
+      "added_at": "2026-07-31 21:08:45",
       "album": {
-        "name": "Disney Junior Music: Fancy Nancy",
-        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+        "name": "Disney Jr. Music: Mickey Mouse Clubhouse+ - Mickey's Country Farm",
+        "url": "https://open.spotify.com/album/1BRNvvA5DvJajC75aRCDLA"
       },
       "artists": [
         {
-          "name": "Fancy Nancy - Cast",
-          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Pluto",
+          "url": "https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
         }
       ],
-      "duration_ms": 53568,
-      "name": "Add a Little Fancy (Fancy Nancy Main Title)",
-      "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
+      "duration_ms": 93525,
+      "name": "Mickey and Minnie Have a Farm",
+      "url": "https://open.spotify.com/track/4C90BnsmddOBPfz0JjtJ0M"
     },
     {
       "added_at": "2026-07-03 13:00:34",
@@ -179,22 +195,6 @@
     {
       "added_at": "2026-05-29 13:00:03",
       "album": {
-        "name": "Disney Junior Music Dance Party! The Album",
-        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
-      },
-      "artists": [
-        {
-          "name": "Cast - Vampirina",
-          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
-        }
-      ],
-      "duration_ms": 54827,
-      "name": "Vampirina Theme - From \"Vampirina\"",
-      "url": "https://open.spotify.com/track/6viVSBDabjDw2kAbiIiEa5"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
         "name": "Disney Jr. Music: Mickey Mouse Clubhouse+",
         "url": "https://open.spotify.com/album/76GMnErWY4su3GrICeqntA"
       },
@@ -211,6 +211,30 @@
       "duration_ms": 148937,
       "name": "Hot Dog!",
       "url": "https://open.spotify.com/track/2sXnv5xjNtX35mrFgHgzZy"
+    },
+    {
+      "added_at": "2026-05-29 13:00:03",
+      "album": {
+        "name": "Disney Jr. Music: Minnie's Bow-Toons: Pet Hotel",
+        "url": "https://open.spotify.com/album/5dNlcsDuDNYibc3n6a4DBl"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 54869,
+      "name": "The Minnie Slide",
+      "url": "https://open.spotify.com/track/7b115NAGnfPtQ8l7WL41fk"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -391,62 +415,6 @@
       "duration_ms": 101750,
       "name": "Iron Friends Let's Go",
       "url": "https://open.spotify.com/track/3fbVHBF0iQH0ckF4t11WC8"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Disney Jr. Music: Minnie's Bow-Toons: Pet Hotel",
-        "url": "https://open.spotify.com/album/5dNlcsDuDNYibc3n6a4DBl"
-      },
-      "artists": [
-        {
-          "name": "Minnie Mouse",
-          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
-        },
-        {
-          "name": "Minnie's Bow-Toons - Cast",
-          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 54869,
-      "name": "The Minnie Slide",
-      "url": "https://open.spotify.com/track/7b115NAGnfPtQ8l7WL41fk"
-    },
-    {
-      "added_at": "2026-07-31 21:08:45",
-      "album": {
-        "name": "Disney Jr. Music: Mickey Mouse Clubhouse+ - Mickey's Country Farm",
-        "url": "https://open.spotify.com/album/1BRNvvA5DvJajC75aRCDLA"
-      },
-      "artists": [
-        {
-          "name": "Mickey Mouse",
-          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
-        },
-        {
-          "name": "Minnie Mouse",
-          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
-        },
-        {
-          "name": "Goofy",
-          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
-        },
-        {
-          "name": "Pluto",
-          "url": "https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 93525,
-      "name": "Mickey and Minnie Have a Farm",
-      "url": "https://open.spotify.com/track/4C90BnsmddOBPfz0JjtJ0M"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -967,6 +935,22 @@
       "duration_ms": 110548,
       "name": "The Hundred Acre Hop",
       "url": "https://open.spotify.com/track/6iCFCgWasWtj2hNNUGhpMQ"
+    },
+    {
+      "added_at": "2026-05-29 13:00:03",
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy",
+        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "duration_ms": 53568,
+      "name": "Add a Little Fancy (Fancy Nancy Main Title)",
+      "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -1803,6 +1787,26 @@
     {
       "added_at": "2026-05-29 13:00:03",
       "album": {
+        "name": "Disney Jr. Music: Kindergarten: The Musical",
+        "url": "https://open.spotify.com/album/0NpgeY8xKDEhpNVkYZCnCD"
+      },
+      "artists": [
+        {
+          "name": "Kindergarten: The Musical - Cast",
+          "url": "https://open.spotify.com/artist/2bePrKPCqkcAE8rVdDDBxO"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 58260,
+      "name": "Kindergarten: The Musical Theme Song",
+      "url": "https://open.spotify.com/track/7EyiojasZ6RX1z2JNZhIta"
+    },
+    {
+      "added_at": "2026-05-29 13:00:03",
+      "album": {
         "name": "Disney Junior Music: Rise Up, Sing Out",
         "url": "https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U"
       },
@@ -2547,6 +2551,22 @@
       "duration_ms": 34592,
       "name": "We're on the Case",
       "url": "https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26"
+    },
+    {
+      "added_at": "2026-05-29 13:00:03",
+      "album": {
+        "name": "Disney Junior Music Dance Party! The Album",
+        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "duration_ms": 54827,
+      "name": "Vampirina Theme - From \"Vampirina\"",
+      "url": "https://open.spotify.com/track/6viVSBDabjDw2kAbiIiEa5"
     },
     {
       "added_at": "2026-05-29 13:00:03",

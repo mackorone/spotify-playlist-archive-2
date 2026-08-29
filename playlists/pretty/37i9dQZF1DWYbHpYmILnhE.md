@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,526 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,576 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 64 | [GOVERNMENT MONEY](https://open.spotify.com/track/0ymVke4Cnp7vcb4Gd2nJ0K) | [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [GOVERNMENT MONEY](https://open.spotify.com/album/7yMzWzvx6wHpLkYQtDknvq) | 2:25 |
 | 65 | [CHASE](https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [CHASE](https://open.spotify.com/album/1cg0O9A1WBH5AtojamA5r0) | 2:19 |
 
-Snapshot ID: `AAAAAOeIau1VpEQubO8dtZjs/f0rycPV`
+Snapshot ID: `AAAAABMzpC2uYFdPHfBINpNJ+ZgWQ5bM`

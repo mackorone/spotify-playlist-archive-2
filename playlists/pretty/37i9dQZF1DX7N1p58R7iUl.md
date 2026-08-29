@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,656 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,674 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dansa \- \(Butter Rush Tech House Remix\)](https://open.spotify.com/track/6VwXAiTBDaAdUhvV6cp6JN) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [Dansa \(Butter Rush Tech House Remix\)](https://open.spotify.com/album/5WbudWgiL6nJ8R0Nk6z2Mf) | 1:48 |
+| 1 | [Dansa \- Butter Rush Tech House Remix](https://open.spotify.com/track/6VwXAiTBDaAdUhvV6cp6JN) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [Dansa \(Butter Rush Tech House Remix\)](https://open.spotify.com/album/5WbudWgiL6nJ8R0Nk6z2Mf) | 1:48 |
 | 2 | [Endless Dust](https://open.spotify.com/track/1Wa4IMflflufTvWNfhX0oc) | [Danny Howells](https://open.spotify.com/artist/404Jr6ogdJwSHAfdwD1AN2) | [Endless Dust](https://open.spotify.com/album/2T9r4QBBTV7lKoY9nQQRAC) | 4:03 |
 | 3 | [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Imael Angel](https://open.spotify.com/artist/17yREPqyU875WJnX9U082A), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 |
 | 4 | [Club Muzik](https://open.spotify.com/track/3YoTceTAaUYL7JSJfaHt2z) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ) | [Club Muzik](https://open.spotify.com/album/2Hp65JNcxaVGC8E2wKpjL5) | 3:23 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 54 | [Electricity](https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [Electricity](https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ) | 2:50 |
 | 55 | [Bounce to the Beat \- Chris Stussy Remix \- Edit](https://open.spotify.com/track/2TaePDvV47Eaju3cSi5TFz) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Sound Design](https://open.spotify.com/artist/5vcGzbf0bkGkhGhI1E72WU), [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Bounce To The Beat \(2024 Remixes\)](https://open.spotify.com/album/5HNjbuvkzxGAUKuBj1XtFx) | 4:56 |
 
-Snapshot ID: `AAAAAMLOAkxr1Uce0v72zqPrQkXeAVe9`
+Snapshot ID: `AAAAABYQAUQ9yQZDK+m7JvLsfq6kywdQ`

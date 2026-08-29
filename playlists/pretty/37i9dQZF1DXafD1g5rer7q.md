@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,940 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,970 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 40 | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN) | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9) | 2:42 |
 | 41 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 |
 | 42 | [Split \(Only U\)](https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Split \(Only U\)](https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd) | 4:16 |
-| 43 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 |
-| 44 | [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 |
+| 43 | [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 |
+| 44 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 |
 | 45 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:37 |
 | 46 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
 | 47 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
 | 50 | [Body Funk](https://open.spotify.com/track/3XTWrhdYlqXlWgbnS7FfRi) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Soulmatic](https://open.spotify.com/album/2xmmPaeB99mkJUTWDm30xi) | 4:16 |
 
-Snapshot ID: `AAAAAG0N6A7JA411JXVgwVUo96yMTr4x`
+Snapshot ID: `AAAAAJt9hqVyb+97ksP3IQj7FFiMa95V`

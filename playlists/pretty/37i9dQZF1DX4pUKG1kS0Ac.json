@@ -1,12 +1,12 @@
 {
   "description": "You say guilty, we say non stop bangers!",
-  "num_followers": 3393330,
+  "num_followers": 3393346,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACnes5RMoN4f5BXOKbuk8KHiIZx9",
+  "snapshot_id": "AAAAAGb5cF1j+PKyBC3Anf2hjHocGbHI",
   "tracks": [
     {
       "added_at": "2024-07-02 21:25:40",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Global Warming: Meltdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 204134,
-      "name": "Timber",
-      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Mail on Sunday",
         "url": "https://open.spotify.com/album/5j1wrOAOm5KFd17pPiSvle"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 231400,
       "name": "Low (feat. T-Pain)",
       "url": "https://open.spotify.com/track/0CAfXk7DXMnon4gLudAp7J"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 204134,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
       "artists": [
         {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -551,6 +551,22 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -599,22 +615,6 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
-      },
-      "artists": [
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Backstreet's Back",
         "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 225360,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Love Tracks",
         "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 296106,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Reflection (Deluxe)",
         "url": "https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 224573,
       "name": "Worth It (feat. Kid Ink)",
       "url": "https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Colour By Numbers (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 252773,
       "name": "Karma Chameleon - Remastered 2002",
       "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Any Way You Want It",
-      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Fantastic Boney M.",
         "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 220733,
       "name": "Rasputin - Single Version",
       "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Any Way You Want It",
+      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1765,7 +1765,7 @@
         }
       ],
       "duration_ms": 216453,
-      "name": "I Believe in a Thing Called Love",
+      "name": "I Believe In A Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 260893,
       "name": "Angeleyes",
       "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1991,18 +1991,18 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Banana Pancakes",
-      "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -2023,18 +2023,18 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
       },
       "artists": [
         {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
+      "duration_ms": 191906,
+      "name": "Banana Pancakes",
+      "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Eve 6",
-        "url": "https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW"
-      },
-      "artists": [
-        {
-          "name": "Eve 6",
-          "url": "https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
         "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 274160,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Eve 6",
+        "url": "https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW"
+      },
+      "artists": [
+        {
+          "name": "Eve 6",
+          "url": "https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "No Limits",
         "url": "https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 244093,
       "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
       "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "That's the Way (I Like It) - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 204800,
       "name": "The Call",
       "url": "https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
+      },
+      "artists": [
+        {
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "That's the Way (I Like It) - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
     }
   ],
   "unique_name": "Guilty Pleasures",

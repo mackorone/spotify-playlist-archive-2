@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1775,
+  "num_followers": 1780,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAATmv7PCHm2XB5icLo3snjyqjPQftkT",
+  "snapshot_id": "AAATnSLfh8NAOXiH1DQs4XdCjxnI3sOr",
   "tracks": [
     {
       "added_at": "2026-08-27 00:33:05",
@@ -1207,22 +1207,6 @@
       "duration_ms": 158516,
       "name": "Sling It Back",
       "url": "https://open.spotify.com/track/2iNhggzn11F6KTZ4wUkifX"
-    },
-    {
-      "added_at": "2026-07-28 14:33:57",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/3fspGuBdrcPdEgk5DsnXmL"
-      },
-      "artists": [
-        {
-          "name": "The Spitting Pips",
-          "url": "https://open.spotify.com/artist/7cLhcLnnXPatZWFwz81Huj"
-        }
-      ],
-      "duration_ms": 192985,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/4ag9GBwaroCkmxut89trNR"
     },
     {
       "added_at": "2026-06-18 11:56:24",
@@ -3847,6 +3831,38 @@
       "duration_ms": 184090,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1MZLhAKVUPZkcbUVmwOO3v"
+    },
+    {
+      "added_at": "2026-08-28 21:08:12",
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0BX9XhyMCcJoON2qcF3wEF"
+      },
+      "artists": [
+        {
+          "name": "EMMALISA",
+          "url": "https://open.spotify.com/artist/0uAC20tdGcRDQMNvWTnZP0"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/5mIC2serbv60vtTy02IMyU"
+    },
+    {
+      "added_at": "2026-08-28 21:02:26",
+      "album": {
+        "name": "from the couch",
+        "url": "https://open.spotify.com/album/3jiUMmRTeEbw29xFVfym2B"
+      },
+      "artists": [
+        {
+          "name": "The Walrus Project",
+          "url": "https://open.spotify.com/artist/1jsbRhM9bwcvUq1wrpy9gD"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ocean Call",
+      "url": "https://open.spotify.com/track/3IkLqtO9o3iKzXBvyh17dG"
     }
   ],
   "unique_name": "Spotify Radio",

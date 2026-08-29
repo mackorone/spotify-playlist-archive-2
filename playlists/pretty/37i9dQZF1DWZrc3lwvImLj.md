@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,517 likes - 158 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,514 likes - 158 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 157 | [Fjærland](https://open.spotify.com/track/3nFJ85TXhIoNVZTVVlGNn9) | [Erica Statværd](https://open.spotify.com/artist/5s1olurhMGBz2Qfh3p2kcv) | [Fjærland](https://open.spotify.com/album/0QTUZYk4rNk5pkcFOBZLK1) | 2:24 |
 | 158 | [Secret Garden](https://open.spotify.com/track/3yYGXW4XlXXqSRYNIC2YNH) | [Anna Kúsmierska](https://open.spotify.com/artist/7KSL6D4AfN958LTmv0jyXd) | [Secret Garden](https://open.spotify.com/album/36tCR1GpEOq3oftaSTyIKx) | 2:15 |
 
-Snapshot ID: `AAAAAHBFTS3afBd9Dq8ggtcshZxwDPAV`
+Snapshot ID: `AAAAACGV2nHk953o+WOzbPcH3SlLXc1e`

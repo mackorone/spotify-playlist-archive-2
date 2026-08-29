@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hand-picked releases from the new wave in soul. Cover: Noha Sar\u00e9",
+  "description": "Hand-picked releases from the new wave in soul. Cover: F\u00c4M",
   "name": "Soul Currents",
   "tracks": [
     {
@@ -406,6 +406,28 @@
       "duration_ms": 157733,
       "name": "Anger",
       "url": "https://open.spotify.com/track/3Ykugegz7ThqmJ3rLXjMq3"
+    },
+    {
+      "album": {
+        "name": "Any Time (feat. James Fauntleroy)",
+        "url": "https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
     },
     {
       "album": {
@@ -1076,6 +1098,24 @@
       "duration_ms": 295530,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/6hlgZtPYIwRxnjaLj0JvtB"
+    },
+    {
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/1p8FQRg8gaK3P6T6ioEkfQ"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4M",
+          "url": "https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164826,
+      "name": "Better Late Than Never",
+      "url": "https://open.spotify.com/track/6P2k5UJMqRgYN3CMg7Kk2O"
     },
     {
       "album": {
@@ -1789,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Cashmere",
+        "url": "https://open.spotify.com/album/0QZP92yZkQSDQTItXTDbcn"
+      },
+      "artists": [
+        {
+          "name": "KinKai",
+          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "Cashmere",
+      "url": "https://open.spotify.com/track/1yUusaa1hyYWRwWoRf7HPG"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/5EilDjxUUvRqY1iPoX23ix"
       },
@@ -1848,6 +1906,28 @@
       "duration_ms": 220717,
       "name": "champion",
       "url": "https://open.spotify.com/track/0JrralS6u3HaFgwLFb4FoH"
+    },
+    {
+      "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/0WfsBOOoRAC7S9mlDakToz"
+      },
+      "artists": [
+        {
+          "name": "Westheaven",
+          "url": "https://open.spotify.com/artist/6DL4MG7n0el4T6yCY2ARDo"
+        },
+        {
+          "name": "Ebony Winter",
+          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195696,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/0Loag0eZZbD2jzSyIwzPuh"
     },
     {
       "album": {
@@ -2530,7 +2610,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 203640,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7wVHlZXsN3OjGZma0RktJC"
@@ -3277,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Fast Paced Society",
+        "url": "https://open.spotify.com/album/5R3nVOD8ENM6WTNflnyF8P"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193589,
+      "name": "Fast Paced Society",
+      "url": "https://open.spotify.com/track/6FtD6D6SoPG0Xk3d19HJnX"
+    },
+    {
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/6F62edIK4IsvQ2k0ttPCC4"
       },
@@ -3731,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "Forsaken Soul",
+        "url": "https://open.spotify.com/album/3iRiaNoU3uokCM2HalNHMR"
+      },
+      "artists": [
+        {
+          "name": "Helena Casella",
+          "url": "https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248295,
+      "name": "Forsaken Soul",
+      "url": "https://open.spotify.com/track/6RRibTFwGjBFV13xmXYTtG"
+    },
+    {
+      "album": {
         "name": "Freeze Tag (feat. Phoelix)",
         "url": "https://open.spotify.com/album/40is5SPcJdMGa6HSJgB4el"
       },
@@ -3762,6 +3878,28 @@
       "duration_ms": 191936,
       "name": "Freeze Tag (feat. Phoelix)",
       "url": "https://open.spotify.com/track/3t3ZvTvH2juv335N5E1ANK"
+    },
+    {
+      "album": {
+        "name": "Good Company Vol.1",
+        "url": "https://open.spotify.com/album/3NSAioi8wnDQv2sPcUJr6k"
+      },
+      "artists": [
+        {
+          "name": "Felix Hien",
+          "url": "https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ"
+        },
+        {
+          "name": "Leonora",
+          "url": "https://open.spotify.com/artist/67Iib2EdZL9wa0vuroCEYb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154325,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/2U7XYpBBM8UoI1owH0q32D"
     },
     {
       "album": {
@@ -4629,6 +4767,32 @@
     },
     {
       "album": {
+        "name": "Here Before",
+        "url": "https://open.spotify.com/album/1hhJxU6nczVd2e6z7jFo5P"
+      },
+      "artists": [
+        {
+          "name": "Osamu Fukuzawa",
+          "url": "https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F"
+        },
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/57hGAPOECLZemqdkR9EX3Q"
+    },
+    {
+      "album": {
         "name": "here with me",
         "url": "https://open.spotify.com/album/6P0UNRtyeamCXhEraz2Tfa"
       },
@@ -4768,6 +4932,28 @@
       "duration_ms": 181279,
       "name": "Hills",
       "url": "https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI"
+    },
+    {
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/2ajcHV3SsmPVbw3UTl8z6b"
+      },
+      "artists": [
+        {
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
+        },
+        {
+          "name": "TOS",
+          "url": "https://open.spotify.com/artist/3o7iDFUagDPxmiEL8FEqMX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178659,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/0Nzpn5aTMzBfTsNxp7kANn"
     },
     {
       "album": {
@@ -5447,6 +5633,24 @@
     },
     {
       "album": {
+        "name": "I Want You To Feel It",
+        "url": "https://open.spotify.com/album/1rVx6kca80qnw8PvIpVsCr"
+      },
+      "artists": [
+        {
+          "name": "Aghogho",
+          "url": "https://open.spotify.com/artist/0CmstXIzdpY7M3pnSWi1Fm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184924,
+      "name": "I Want You To Feel It",
+      "url": "https://open.spotify.com/track/5PrGRXA33zRt2qdixZ0Gz3"
+    },
+    {
+      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/5E0vnfYJ8WJIFjEqwjettq"
       },
@@ -5572,7 +5776,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 190666,
       "name": "If The Walls Could Talk",
       "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
@@ -8308,6 +8512,14 @@
         {
           "name": "Atjazz",
           "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Audrey Powne",
+          "url": "https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm"
+        },
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
         }
       ],
       "date_added": "2026-02-14",
@@ -8382,6 +8594,28 @@
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
+    },
+    {
+      "album": {
+        "name": "One Way Love Affair",
+        "url": "https://open.spotify.com/album/17p0PLglrUfxP2bzoOhYo1"
+      },
+      "artists": [
+        {
+          "name": "XXJUL\u00cdA",
+          "url": "https://open.spotify.com/artist/00B42fUMqvYLmXc4H7Ciyi"
+        },
+        {
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184750,
+      "name": "One Way Love Affair",
+      "url": "https://open.spotify.com/track/0SqmVJ9UvxlzcLhM22VvF4"
     },
     {
       "album": {
@@ -9192,7 +9426,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 218918,
       "name": "raindance",
       "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
@@ -10084,7 +10318,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 189240,
       "name": "Shades Of Navy",
       "url": "https://open.spotify.com/track/0OCARaEpywHVK1tN5KUsKV"
@@ -11119,6 +11353,24 @@
     },
     {
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139974,
+      "name": "stupid",
+      "url": "https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0"
+    },
+    {
+      "album": {
         "name": "Spring to Summer",
         "url": "https://open.spotify.com/album/3mmkqM9wHBmzD2A4UtzDuo"
       },
@@ -11912,6 +12164,24 @@
       "duration_ms": 128627,
       "name": "The Artful Dodger",
       "url": "https://open.spotify.com/track/6EKVOr5GhKLFF5uLK1RrFA"
+    },
+    {
+      "album": {
+        "name": "The Gardener",
+        "url": "https://open.spotify.com/album/3wbp4Nw28ud1SHHTUURh8E"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148870,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/2HpdHFOZqPaxmgbXnwnyCt"
     },
     {
       "album": {
@@ -13600,6 +13870,28 @@
       "duration_ms": 202500,
       "name": "You Comfort Me (with EARTHGANG)",
       "url": "https://open.spotify.com/track/516Qt2A8vGrMBaMqafVOEm"
+    },
+    {
+      "album": {
+        "name": "you like me, huh?",
+        "url": "https://open.spotify.com/album/50J5NVKnIBNOARosz5TaRf"
+      },
+      "artists": [
+        {
+          "name": "ZYHH",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        },
+        {
+          "name": "Mitchell Yard",
+          "url": "https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147002,
+      "name": "you like me, huh?",
+      "url": "https://open.spotify.com/track/6CidorzhL2BOwzdn2iFJKE"
     },
     {
       "album": {

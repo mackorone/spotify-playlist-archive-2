@@ -2343,6 +2343,32 @@
     },
     {
       "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223892,
+      "name": "O Mundo \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/324k0ESF7Z8HjZYusqKIdc"
+    },
+    {
+      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH"
       },

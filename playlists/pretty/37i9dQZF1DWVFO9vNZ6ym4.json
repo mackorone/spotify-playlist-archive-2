@@ -1,12 +1,12 @@
 {
   "description": "Bringing the energy to hype you up",
-  "num_followers": 136245,
+  "num_followers": 136247,
   "original_name": "Sweat It Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH1ImxFRHIz9Q9GcpyTMNkTm/3sY",
+  "snapshot_id": "AAAAAAkAq4Q7UP+oBi+0QDhns2aw21pb",
   "tracks": [
     {
       "added_at": "2026-06-26 10:22:21",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-06-26 10:22:21",
       "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
-    },
-    {
-      "added_at": "2026-06-26 10:22:21",
-      "album": {
         "name": "Love Is The Only Thing",
         "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 171093,
       "name": "Love Is The Only Thing",
       "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
+    },
+    {
+      "added_at": "2026-06-26 10:22:21",
+      "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2026-06-26 10:22:21",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACE13GUGgU83Hbjm9aqOkf/",
+  "snapshot_id": "ao9+AAAAAADCvRpkaGsq5vH0DowVl1oK",
   "tracks": [
     {
       "added_at": null,
@@ -103,38 +103,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip the Night Fantastic",
-        "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
+        "name": "Freedom Now",
+        "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
       },
       "artists": [
         {
-          "name": "Terri Lyne Carrington",
-          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         },
         {
-          "name": "Social Science",
-          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
+          "name": "Golshifteh Farahani",
+          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
         },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Moor Mother",
-          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
-        },
-        {
-          "name": "Rashaan Carter",
-          "url": "https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ"
-        },
-        {
-          "name": "Morgan Guerin",
-          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
         }
       ],
-      "duration_ms": 337717,
-      "name": "Prayer Song",
-      "url": "https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ"
+      "duration_ms": 224996,
+      "name": "Freedom Now",
+      "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
     },
     {
       "added_at": null,
@@ -175,26 +163,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freedom Now",
-        "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
+        "name": "Trip the Night Fantastic",
+        "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
         },
         {
-          "name": "Golshifteh Farahani",
-          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
+          "name": "Social Science",
+          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
         },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        },
+        {
+          "name": "Rashaan Carter",
+          "url": "https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ"
+        },
+        {
+          "name": "Morgan Guerin",
+          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Freedom Now",
-      "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
+      "duration_ms": 337717,
+      "name": "Prayer Song",
+      "url": "https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 410467,
-      "name": "Rainy Streets",
-      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
+      "duration_ms": 185227,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
     },
     {
       "added_at": null,
@@ -606,31 +606,31 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 185227,
-      "name": "Starling",
-      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+      "duration_ms": 211248,
+      "name": "Abode",
+      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
     },
     {
       "added_at": null,
       "album": {
-        "name": "SPELLJAMS",
-        "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
+        "name": "Talvar",
+        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
       },
       "artists": [
-        {
-          "name": "Deru",
-          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
-        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 469421,
-      "name": "Forgotten Land",
-      "url": "https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV"
+      "duration_ms": 200189,
+      "name": "Insaaf",
+      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
     },
     {
       "added_at": null,
@@ -686,31 +686,31 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "\u0410\u043d\u043d\u0430 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/7yK1qjHgjhzJIJj5jGqLvS"
         }
       ],
-      "duration_ms": 211248,
-      "name": "Abode",
-      "url": "https://open.spotify.com/track/1QJp3p6CpuXcYdKx4DrS4I"
+      "duration_ms": 410467,
+      "name": "Rainy Streets",
+      "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Talvar",
-        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
+        "name": "SPELLJAMS",
+        "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
       },
       "artists": [
+        {
+          "name": "Deru",
+          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
+        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 200189,
-      "name": "Insaaf",
-      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
+      "duration_ms": 469421,
+      "name": "Forgotten Land",
+      "url": "https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,509 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,514 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 12 | [Baby](https://open.spotify.com/track/2nMSFMpTUlVK9vnfrOOyoA) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Leve de Feeks](https://open.spotify.com/album/7z3EaiVbSRNOSs3FsXk1Nh) | 3:27 |
 | 13 | [Alles of Niets](https://open.spotify.com/track/5OC1jrn8jYlBj3W5OmfHkJ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Alles of Niets](https://open.spotify.com/album/11b75O1vrwS4FO5YprIjkn) | 2:16 |
 | 14 | [Misschien](https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 3:02 |
-| 15 | [Of Er Nog Iets Terugkaatst](https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 3:44 |
+| 15 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
 | 16 | [Honderdduizend graden](https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Honderdduizend graden](https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ) | 2:47 |
-| 17 | [slecht idee \(let’s do it\)](https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [slecht idee \(let’s do it\)](https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t) | 3:11 |
-| 18 | [Kan Je Niet Blijven?](https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8) | [Politie Warnsveld](https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe) | [Kan Je Niet Blijven?](https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI) | 3:35 |
+| 17 | [Of Er Nog Iets Terugkaatst](https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 3:44 |
+| 18 | [slecht idee \(let’s do it\)](https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [slecht idee \(let’s do it\)](https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t) | 3:11 |
 | 19 | [Offline](https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 2:29 |
 | 20 | [Vlijmscherp](https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Vlijmscherp](https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb) | 4:31 |
 | 21 | [Ze Wil](https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [YAYO HARTJE JIMMY](https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v) | 3:09 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 47 | [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 |
 | 48 | [Magneten](https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Magneten](https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw) | 3:10 |
 | 49 | [Gefeliciteerd](https://open.spotify.com/track/14mSt9SODkDGfTawFGyIM4) | [LOT](https://open.spotify.com/artist/5WFiEpMZfNw5NgFTHfJA8K) | [Gefeliciteerd](https://open.spotify.com/album/027zmAQqyEznyL4ty6ERuG) | 2:44 |
-| 50 | [Hoofd](https://open.spotify.com/track/7DsTVwUPn3qvsTVn26kgwv) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Hoofd](https://open.spotify.com/album/5XV6LTscTMjMK9EwuqSSJ9) | 2:49 |
+| 50 | [Marco Polo](https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Marco Polo](https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4) | 3:47 |
 
-Snapshot ID: `AAAAAMxK/7rmu9QoXEKq7WAI8te7o6k8`
+Snapshot ID: `AAAAAPoC1jADgG8yYAEhmsgIuvajSiSQ`

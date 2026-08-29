@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,154 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,212 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 39 | [Something Like That](https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [A Place In The Sun](https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD) | 3:03 |
 | 40 | [Baggage](https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 2:32 |
 | 41 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
-| 42 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
-| 43 | [Drunk On A Plane](https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [RISER](https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU) | 4:14 |
+| 42 | [Drunk On A Plane](https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [RISER](https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU) | 4:14 |
+| 43 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 44 | [Woman](https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Woman](https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C) | 2:46 |
 | 45 | [Would U Still Love Me](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
 | 46 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 53 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
 | 54 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
 | 55 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:59 |
-| 56 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:33 |
-| 57 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
+| 56 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
+| 57 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:33 |
 | 58 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
 | 59 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 |
 | 60 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 95 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 |
 | 96 | [We Are Tonight](https://open.spotify.com/track/2EvddT8rcO99bKH0rDHAYG) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 3:52 |
 | 97 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
-| 98 | [No Such Thing as a Broken Heart](https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:57 |
-| 99 | [Days Go By](https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:44 |
-| 100 | [Texas](https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texas](https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz) | 2:50 |
+| 98 | [Days Go By](https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 3:44 |
+| 99 | [Texas](https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texas](https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz) | 2:50 |
+| 100 | [No Such Thing as a Broken Heart](https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:57 |
 
-Snapshot ID: `AAAAAPx7DbziFU6OS8F0wbqfkYODmtbj`
+Snapshot ID: `AAAAALnE4SpyEBsD4lVidA8jI4rQpLcn`

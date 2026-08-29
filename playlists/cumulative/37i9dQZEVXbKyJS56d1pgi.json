@@ -384,7 +384,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 211460,
       "name": "2 da Matina",
       "url": "https://open.spotify.com/track/6mHEUDWaySfb6YvLC7JgPN"
@@ -13728,7 +13728,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 183714,
       "name": "Faz Bem",
       "url": "https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa"
@@ -16064,6 +16064,44 @@
       "duration_ms": 164571,
       "name": "Groupies",
       "url": "https://open.spotify.com/track/3ua3rqwBNmeGeQfcKnA3bT"
+    },
+    {
+      "album": {
+        "name": "\u00c9 O Iguinho Da CT",
+        "url": "https://open.spotify.com/album/1YtI1rFXKXmK4FBCMYyKhs"
+      },
+      "artists": [
+        {
+          "name": "Mc Iguinho Ct",
+          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
+        },
+        {
+          "name": "Dj Aladin GDB",
+          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433846,
+      "name": "GRWM",
+      "url": "https://open.spotify.com/track/4BcymWo7t3t27RNb9mbNFx"
     },
     {
       "album": {
@@ -23996,7 +24034,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 222178,
       "name": "Meu Deus",
       "url": "https://open.spotify.com/track/6jx4yp7a9uUUN28Hr244fp"
@@ -33286,7 +33324,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 211875,
       "name": "Saloia",
       "url": "https://open.spotify.com/track/6n0jihDYFApFTZIICTHxvO"
@@ -39016,7 +39054,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,015 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,004 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 28 | [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 |
 | 29 | [Pupus](https://open.spotify.com/track/7ADK1rnMzP6PGWhoqWirBJ) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Cintailah Cinta](https://open.spotify.com/album/6ifjItwHx7S2mhoX6tWSlK) | 5:05 |
 | 30 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
-| 31 | [Lampu Kuning](https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:59 |
+| 31 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
 | 32 | [Kata Mereka Ini Berlebihan](https://open.spotify.com/track/6wj06az0WX7fClA2w319dO) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:11 |
-| 33 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |
-| 34 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
+| 33 | [Lampu Kuning](https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:59 |
+| 34 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |
 | 35 | [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 |
 | 36 | [Tanpa Pesan Terakhir](https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ) | [Seventeen](https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ) | [Dunia Yang Indah](https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5) | 4:49 |
 | 37 | [Menjaga Hati](https://open.spotify.com/track/7er7WofjVw4QwPAyxH39jH) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 49 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 |
 | 50 | [Sekali Ini Saja](https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Selamat Pagi, Dunia!](https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx) | 3:55 |
 
-Snapshot ID: `AAAAABKcJCsXvVR5N0FovZGlW+P873h0`
+Snapshot ID: `AAAAAGx201SluAKA1TpGixBVzbQMT2Sc`

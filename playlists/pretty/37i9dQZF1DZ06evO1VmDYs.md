@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,566 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,582 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 49 | [Burndt Jamb](https://open.spotify.com/track/1ytYTPuKbW0NIXb2kgmSVq) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:38 |
 | 50 | [Devotion](https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 3:11 |
 
-Snapshot ID: `ao4sgAAAAADa1QEfUbCAMNg/wnJy0ZoN`
+Snapshot ID: `ao9+AAAAAADvuV4mVW1BBKxTJijz4X9W`

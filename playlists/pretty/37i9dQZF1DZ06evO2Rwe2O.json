@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 13140,
+  "num_followers": 13141,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACwYAVdLynVMotXgylHnFs0",
+  "snapshot_id": "ao9+AAAAAAAh49zwPWe02CxjqURCG5EL",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 287143,
-      "name": "Have Your Way",
-      "url": "https://open.spotify.com/track/4hmBFGpaTLXrUqedsgzNCp"
+      "duration_ms": 180997,
+      "name": "Lions And Eagles",
+      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 180997,
-      "name": "Lions And Eagles",
-      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
+      "duration_ms": 287143,
+      "name": "Have Your Way",
+      "url": "https://open.spotify.com/track/4hmBFGpaTLXrUqedsgzNCp"
     },
     {
       "added_at": null,
@@ -615,42 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Life Would Be Like",
-        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/70KZlDFmyd2OGigiLGwOwd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        },
-        {
-          "name": "BarlowGirl",
-          "url": "https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "You're Worthy Of My Praise",
-      "url": "https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Come To Life",
         "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
       },
@@ -667,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fields Of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+        "name": "What Life Would Be Like",
+        "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
       },
       "artists": [
         {
@@ -676,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 317560,
-      "name": "Heart Cries Holy",
-      "url": "https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD"
+      "duration_ms": 281000,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/70KZlDFmyd2OGigiLGwOwd"
     },
     {
       "added_at": null,
@@ -699,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fields Of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 317560,
+      "name": "Heart Cries Holy",
+      "url": "https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When The Light Comes",
         "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 261921,
       "name": "I Want To Tell The World",
       "url": "https://open.spotify.com/track/57RNAiMB8QPGim8gwqiyGa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "BarlowGirl",
+          "url": "https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "You're Worthy Of My Praise",
+      "url": "https://open.spotify.com/track/1WUmwcfpl8FPNwDEhqMQCJ"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Come To Life: The Redeemed Edition",
+        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 288060,
+      "name": "No Other Name",
+      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 213200,
       "name": "Completely Free",
       "url": "https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Come To Life: The Redeemed Edition",
-        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 288060,
-      "name": "No Other Name",
-      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
     },
     {
       "added_at": null,

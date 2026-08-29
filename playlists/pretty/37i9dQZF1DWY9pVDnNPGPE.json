@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12013,
+  "num_followers": 12016,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLXZybtHkSZ8ZZSM3gB3D1BZfWu",
+  "snapshot_id": "AAAAAHvdloxzWZs21paa8v9tb1qHzC3a",
   "tracks": [
     {
       "added_at": "2026-07-01 09:21:31",
@@ -179,26 +179,6 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-07-01 09:21:31",
-      "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 176241,
       "name": "Maybe We Could Be a Thing",
       "url": "https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6"
+    },
+    {
+      "added_at": "2026-07-01 09:21:31",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-07-01 09:21:31",
@@ -855,18 +855,26 @@
     {
       "added_at": "2026-07-01 09:21:31",
       "album": {
-        "name": "Crazy Weather (Our Pie X LUCY)",
-        "url": "https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW"
+        "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544",
+        "url": "https://open.spotify.com/album/1Ek23crQnSnrINtWERzhrb"
       },
       "artists": [
         {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
         }
       ],
-      "duration_ms": 223093,
-      "name": "Crazy Weather (Our Pie X LUCY)",
-      "url": "https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg"
+      "duration_ms": 182833,
+      "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
+      "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
     }
   ],
   "unique_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",

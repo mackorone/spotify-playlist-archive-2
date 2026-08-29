@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,106 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,116 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 |
 | 2 | [YIMPI ENGAPHELIYO](https://open.spotify.com/track/2djKgPzgBjorXuGG0iFBB6) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [YIMPI ENGAPHELIYO](https://open.spotify.com/album/1p0wBmk6LYEmlmBb11OKsZ) | 3:53 |
 | 3 | [Farafina Mousso \- Acoustic Version](https://open.spotify.com/track/6LAbTHx8i3I8F31VLX7LR1) | [Lubiana](https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q) | [Farafina Mousso \(Acoustic Version\)](https://open.spotify.com/album/5phjIgyecPvk66vUx40tx8) | 2:21 |
-| 4 | [Time Away](https://open.spotify.com/track/3WkOq6BS0yWlyGi5nm2dYL) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [Time Away](https://open.spotify.com/album/4gqRI4PONgJxgnTp0exa8o) | 4:27 |
+| 4 | [Mmkay](https://open.spotify.com/track/3AqeEpNCUBSh7MCjwlCe2z) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [Mmkay](https://open.spotify.com/album/1dY4Q7zOwAuaUCx4SKIw6I) | 1:50 |
 | 5 | [Sorry Like You Mean It](https://open.spotify.com/track/6f9QDh2uAINwIXTfmoCO1v) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 3:29 |
 | 6 | [Be A Lover](https://open.spotify.com/track/4ulgOCX4KPIPaEOpOS6QFd) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Be A Lover](https://open.spotify.com/album/4V0X4r6sBK4R5RIQdJnSB0) | 2:45 |
 | 7 | [Heavy](https://open.spotify.com/track/2MCMoWWhsuslO8NBRAfHR0) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Heavy](https://open.spotify.com/album/5DxR3lqaovRan5jG5aP4r2) | 2:46 |
@@ -69,24 +69,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 59 | [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 |
 | 60 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 |
 | 61 | [UNGOWAM](https://open.spotify.com/track/06iPJ5s9KJ5oGmEFdiKvk9) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [UNGOWAM](https://open.spotify.com/album/02pEPun8I1XhMp8RvMXVBK) | 3:13 |
-| 62 | [Adwuma](https://open.spotify.com/track/3dGJ23oxQnLpSoboXe8IYj) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Adwuma](https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs) | 3:30 |
-| 63 | [We Will Run](https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [We Will Run](https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz) | 3:08 |
+| 62 | [Feel It All](https://open.spotify.com/track/78hUgKhprABGVtE5RbNdNh) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Feel It All](https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ) | 2:48 |
+| 63 | [Adwuma](https://open.spotify.com/track/3dGJ23oxQnLpSoboXe8IYj) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Adwuma](https://open.spotify.com/album/0aG6AoazPMX1PL8mCIVHCs) | 3:30 |
 | 64 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
 | 65 | [Echoes](https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Echoes](https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy) | 3:13 |
 | 66 | [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 |
-| 67 | [Weight Off My Shoulders](https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Weight Off My Shoulders](https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v) | 2:47 |
-| 68 | [Feel It All](https://open.spotify.com/track/78hUgKhprABGVtE5RbNdNh) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Feel It All](https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ) | 2:48 |
-| 69 | [Terranga](https://open.spotify.com/track/4d3ZHLIh4OAbvokGMwOW7v) | [Ben Aylon](https://open.spotify.com/artist/3FkvY1RH37d9vewYpzgYbr), [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Terranga](https://open.spotify.com/album/5uuF7pyR4LWUt2YH5W57gf) | 3:21 |
-| 70 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
+| 67 | [We Will Run](https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [We Will Run](https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz) | 3:08 |
+| 68 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
+| 69 | [Weight Off My Shoulders](https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Weight Off My Shoulders](https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v) | 2:47 |
+| 70 | [Terranga](https://open.spotify.com/track/4d3ZHLIh4OAbvokGMwOW7v) | [Ben Aylon](https://open.spotify.com/artist/3FkvY1RH37d9vewYpzgYbr), [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Terranga](https://open.spotify.com/album/5uuF7pyR4LWUt2YH5W57gf) | 3:21 |
 | 71 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
-| 72 | [Not Alone](https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Not Alone](https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE) | 2:53 |
-| 73 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |
-| 74 | [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 |
+| 72 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |
+| 73 | [Rest Of Your Life](https://open.spotify.com/track/5SbqZBOTw1mVo7ZVbQCgki) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [REST OF YOUR LIFE](https://open.spotify.com/album/1kX8emZvIDGcAUhkObEaFz) | 4:31 |
+| 74 | [Not Alone](https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Not Alone](https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE) | 2:53 |
 | 75 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
 | 76 | [Zama](https://open.spotify.com/track/4oUi4rp4C82sg14Lv9toXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Zama](https://open.spotify.com/album/1aIckDg233lILdqqBt0Rfh) | 4:23 |
 | 77 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
 | 78 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 |
-| 79 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
-| 80 | [Kú yâk ñtuà éyét](https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm) | [Etuk Ubong](https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7) | [Kú yâk ñtuà éyét](https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6) | 5:51 |
+| 79 | [Kú yâk ñtuà éyét](https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm) | [Etuk Ubong](https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7) | [Kú yâk ñtuà éyét](https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6) | 5:51 |
+| 80 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
 
-Snapshot ID: `AAAAAN7hHq6eoyWemKMa6IYeYgGZLyJ6`
+Snapshot ID: `AAAAAKY6QxBhjpC0Eh0dVzyYzkM04WzH`

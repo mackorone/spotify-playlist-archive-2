@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 134428,
+  "num_followers": 134434,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALW5i2c9T/X/n5KrjSoFlmEprf9X",
+  "snapshot_id": "AAAAAPm4fkIgkby7g7yett9eEgr0gWjL",
   "tracks": [
     {
       "added_at": "2026-03-02 15:12:51",
@@ -527,6 +527,26 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Destemida",
+        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
+      },
+      "artists": [
+        {
+          "name": "Adai Music",
+          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
+        },
+        {
+          "name": "Gislaine Rodrigues",
+          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
+        }
+      ],
+      "duration_ms": 298285,
+      "name": "Destemida",
+      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Clame a Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ho9koqLjvMKLuXtKStXSY"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Destemida",
-        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
-      },
-      "artists": [
-        {
-          "name": "Adai Music",
-          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
-        },
-        {
-          "name": "Gislaine Rodrigues",
-          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
-        }
-      ],
-      "duration_ms": 298285,
-      "name": "Destemida",
-      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Quem \u00e9 Esse?",
         "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Quem Disse? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
-      },
-      "artists": [
-        {
-          "name": "Julliana Silva",
-          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
-        }
-      ],
-      "duration_ms": 330005,
-      "name": "Quem Disse? - Ao Vivo",
-      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Daqui N\u00e3o Saio",
         "url": "https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 558500,
       "name": "Daqui N\u00e3o Saio",
       "url": "https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Quem Disse? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
+      },
+      "artists": [
+        {
+          "name": "Julliana Silva",
+          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
+        }
+      ],
+      "duration_ms": 330005,
+      "name": "Quem Disse? - Ao Vivo",
+      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Sua Vida Em Mim",
-        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
-      },
-      "artists": [
-        {
-          "name": "Thais Castro",
-          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Sua Vida Em Mim",
-      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 209000,
       "name": "Eterno",
       "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Sua Vida Em Mim",
+        "url": "https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p"
+      },
+      "artists": [
+        {
+          "name": "Thais Castro",
+          "url": "https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Sua Vida Em Mim",
+      "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
+        "name": "Vida Boa",
+        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
       },
       "artists": [
         {
-          "name": "Jayana Moreira",
-          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+          "name": "Marllon Ribeiro",
+          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
         }
       ],
-      "duration_ms": 291253,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
+      "duration_ms": 283947,
+      "name": "Vida Boa",
+      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Vida Boa",
-        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
       },
       "artists": [
         {
-          "name": "Marllon Ribeiro",
-          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
+          "name": "Jayana Moreira",
+          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
         }
       ],
-      "duration_ms": 283947,
-      "name": "Vida Boa",
-      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
+      "duration_ms": 291253,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
     },
     {
       "added_at": "2026-03-02 15:12:51",

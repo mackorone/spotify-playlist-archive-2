@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,827 likes - 309 songs - 15 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,826 likes - 309 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 132 | [Just for Tonight \(feat\. Chris Brown\)](https://open.spotify.com/track/35zJMcU8InijNeQnNTnyw6) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Yung Rich Nation](https://open.spotify.com/album/34DPoSeDW5fw2QW9Hl5Y92) | 3:33 |
 | 133 | [I Remember](https://open.spotify.com/track/3ZpX6hWAwnxY7pDZJm9Gcn) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 2:59 |
 | 134 | [Dream Team](https://open.spotify.com/track/2EKROPvHzQLvR7PTykU0r7) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [The Bedroom Tour Playlist](https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u) | 3:55 |
-| 135 | [Yeah Yeah \(feat\. 50 Cent and Murda Beatz\)](https://open.spotify.com/track/3OvNXm7fnRtTAwi1mYiotJ) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Don Season 2](https://open.spotify.com/album/1mWXVCy3lYeeMADCjUgVto) | 3:00 |
-| 136 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 135 | [Meet Me Outside](https://open.spotify.com/track/5Bv5DAVxABwZSwCZlSEbHU) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 4:04 |
+| 136 | [Yeah Yeah \(feat\. 50 Cent and Murda Beatz\)](https://open.spotify.com/track/3OvNXm7fnRtTAwi1mYiotJ) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Don Season 2](https://open.spotify.com/album/1mWXVCy3lYeeMADCjUgVto) | 3:00 |
 | 137 | [Can't Hang](https://open.spotify.com/track/1VycJxkDtBSEClyVPrIlWT) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Light Of Day](https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV) | 2:59 |
 | 138 | [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/2BkLXVUY6jMWcNg5snKSE9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 3:39 |
 | 139 | [New Atlanta \(feat\. Rich Homie Quan, Young Thug, Jermain Dupri\)](https://open.spotify.com/track/2X9QYkO7p7M6AMag1eupdR) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 4:40 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 308 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 309 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `AcawPAAAAAD888y6F108+C4mtpthwVhw`
+Snapshot ID: `Aca1PAAAAACp/JbUuDuYqdXJo32B7lh3`

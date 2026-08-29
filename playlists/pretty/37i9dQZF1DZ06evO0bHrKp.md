@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,099 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,113 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 4 | [War](https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:29 |
 | 5 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 6 | [The Hell Song](https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:18 |
-| 7 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 |
-| 8 | [No Reason](https://open.spotify.com/track/1lASDtTqKAfsnD6hixGKtz) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:04 |
+| 7 | [No Reason](https://open.spotify.com/track/1lASDtTqKAfsnD6hixGKtz) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:04 |
+| 8 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 |
 | 9 | [With Me](https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 4:51 |
 | 10 | [Over My Head \(Better Off Dead\)](https://open.spotify.com/track/40sl0jG01g4FZkCrBzQhZX) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:29 |
 | 11 | [Motivation](https://open.spotify.com/track/6joQ1zE0lhx0UazVTK05Xc) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:49 |
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 32 | [Rhythms](https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 33 | [Waiting On A Twist Of Fate](https://open.spotify.com/track/4UuGBLZH6ANkF51PqLeXfP) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:46 |
 | 34 | [No Brains](https://open.spotify.com/track/0pvUdDg7RELxs2XBz956r2) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:46 |
-| 35 | [Summer](https://open.spotify.com/track/46pErPIiLjAWrr5uLFomA0) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH) | 2:40 |
-| 36 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 |
+| 35 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 |
+| 36 | [Summer](https://open.spotify.com/track/46pErPIiLjAWrr5uLFomA0) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH) | 2:40 |
 | 37 | [I Can't Wait](https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:05 |
 | 38 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 |
 | 39 | [Fake My Own Death](https://open.spotify.com/track/5Puyl7jW7OkSNL4UyVFTDn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:14 |
 | 40 | [Nothing On My Back](https://open.spotify.com/track/4C1BEMFeThTt2pTxu1nZPE) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:01 |
 | 41 | [Crash](https://open.spotify.com/track/20x1lxz8foqlzvMct4cPYT) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:19 |
 | 42 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 |
-| 43 | [Never Wake Up \- Remastered 2026](https://open.spotify.com/track/1eUNQfy2pKNMJeqpyBZRAH) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer No Filler \(25th Anniversary\)](https://open.spotify.com/album/6kkD5XCCkjk9zkafiOwPrY) | 0:49 |
-| 44 | [My Direction](https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:02 |
-| 45 | [Goddamn I'm Dead Again](https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:22 |
-| 46 | [Skumf\*k](https://open.spotify.com/track/0SQWxG33k9aRva3V3V9b66) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:24 |
-| 47 | [Little Know It All](https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:33 |
+| 43 | [My Direction](https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:02 |
+| 44 | [Goddamn I'm Dead Again](https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:22 |
+| 45 | [Never Wake Up \- Remastered 2026](https://open.spotify.com/track/1eUNQfy2pKNMJeqpyBZRAH) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer No Filler \(25th Anniversary\)](https://open.spotify.com/album/6kkD5XCCkjk9zkafiOwPrY) | 0:49 |
+| 46 | [Little Know It All](https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:33 |
+| 47 | [Skumf\*k](https://open.spotify.com/track/0SQWxG33k9aRva3V3V9b66) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:24 |
 | 48 | [A Death In The Family](https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:18 |
 | 49 | [13 Voices](https://open.spotify.com/track/6StRdUhg9Fdu5X4shUZBeY) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:32 |
 | 50 | [Reason To Believe](https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:28 |
 
-Snapshot ID: `ao4sgAAAAADmisAuK+UAVCu3FoR6uSzc`
+Snapshot ID: `ao9+AAAAAAC6epz4t6DNgzVKu/1pZ40R`

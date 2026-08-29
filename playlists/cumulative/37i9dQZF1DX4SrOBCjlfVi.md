@@ -2,9 +2,9 @@
 
 ### [New Joints](https://open.spotify.com/playlist/37i9dQZF1DX4SrOBCjlfVi)
 
-> All the New Joints featuring Denzel Curry & Kenny Beats,  Mac Miller, slayr and more!
+> All the New Joints featuring AZ Chike and Tyler, The Creator,  Rod Wave, Ken Carson and more!
 
-10,880 songs - 20 day 19 hr 9 min
+10,881 songs - 20 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2856,6 +2856,7 @@
 | [Eat It Uh](https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [Eat It Uh](https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr) | 1:39 | 2026-03-13 | 2026-03-21 |
 | [Eat the Man](https://open.spotify.com/track/77mzQAyxLz1tu8FG73XPad) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Eat the Man](https://open.spotify.com/album/1y02HjHkIg56ATMcapQ3dO) | 2:37 | 2025-08-08 | 2025-08-16 |
 | [Eatcha Beatcha](https://open.spotify.com/track/4Drf6OvnI5IYz4EezDzfDD) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Eatcha Beatcha](https://open.spotify.com/album/7vVDt3q2f1btLI7wJZPHW3) | 2:27 | 2025-09-12 | 2025-09-20 |
+| [Eaters](https://open.spotify.com/track/1aQZOezVcyTJ0niV0l3hTU) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Slime Language 3](https://open.spotify.com/album/1WtVKnWze7lleZLJdkmlbB) | 4:21 | 2026-08-28 |  |
 | [EATING \(feat\. Shamar Marco\)](https://open.spotify.com/track/0RJY0nxw8RPizZEcEBzzmy) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Shamar Marco](https://open.spotify.com/artist/5XkI8ifXhJknTGNcNZBm5k) | [EATING \(feat\. Shamar Marco\)](https://open.spotify.com/album/5yWdz3wKOoqgklYWITLP0G) | 1:57 | 2025-08-08 | 2025-08-16 |
 | [Eaze Your Mind](https://open.spotify.com/track/3VOCdjPijYY314lUgl4EHL) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Eaze Your Mind](https://open.spotify.com/album/1Ts7dHjXutjCbZdb3OXLEd) | 3:11 | 2023-10-27 | 2023-11-04 |
 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-01-14 | 2022-01-29 |
@@ -6341,7 +6342,7 @@
 | [Naked \(feat\. Latto\)](https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Naked \(feat\. Latto\)](https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM) | 2:54 | 2022-06-03 | 2022-06-11 |
 | [NAKED ON A YACHT](https://open.spotify.com/track/6uEAy8KGxG5HBNQxtDCG4x) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [THE TIME OF OUR LIVES](https://open.spotify.com/album/3QXgB0PAmTYKz17aYAblyS) | 2:19 | 2026-08-28 |  |
 | [Name My Price](https://open.spotify.com/track/1fT7mEKaIgqBCcCvpHzi2x) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Name My Price](https://open.spotify.com/album/0ye3thyZPRwQzkulMm2phJ) | 2:12 | 2025-08-29 | 2025-09-06 |
-| [Name Ranging](https://open.spotify.com/track/6JSvlciyiTVukx8EZ9ORLw) | [Boosie Badazz](https://open.spotify.com/artist/48HVkCWtMzaVL2nbWUAtjB), [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x) | [Hood Stories](https://open.spotify.com/album/0DhsIuxanYdUSLoyMemgAz) | 3:43 | 2026-08-28 |  |
+| [Name Ranging](https://open.spotify.com/track/6JSvlciyiTVukx8EZ9ORLw) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x) | [Hood Stories](https://open.spotify.com/album/0DhsIuxanYdUSLoyMemgAz) | 3:43 | 2026-08-28 |  |
 | [NAN](https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [NAN](https://open.spotify.com/album/1wkQpHtCqwnHzWJ9aNHANu) | 1:55 | 2024-07-05 | 2024-07-13 |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-17 | 2024-05-25 |
 | [Nann Hoe](https://open.spotify.com/track/3umaJVPB3ux55pcPAUNOZn) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [RAW](https://open.spotify.com/album/7qjfG80Q4046ra6Pvn6yLc) | 2:04 | 2022-09-23 | 2022-10-01 |

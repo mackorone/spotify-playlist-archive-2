@@ -1,12 +1,12 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 169370,
+  "num_followers": 169423,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHOe036m8aORr97uJ/55mrQZ5f/R",
+  "snapshot_id": "AAAAAGxt0Okri4fpox4FaVBG0XDGeLdm",
   "tracks": [
     {
       "added_at": "2024-07-12 23:56:42",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Symbols",
-        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 367933,
-      "name": "Megalomaniac",
-      "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 270400,
       "name": "Drown",
       "url": "https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Symbols",
+        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 367933,
+      "name": "Megalomaniac",
+      "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Live Through This",
-        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 252266,
       "name": "Sour Times",
       "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Live Through This",
+        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Disarm - 2011 Remaster",
-      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 292586,
       "name": "Jesus Built My Hotrod",
       "url": "https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Siamese Dream (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Disarm - 2011 Remaster",
+      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Good God's Urge",
-        "url": "https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM"
+        "name": "Symbols",
+        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
       },
       "artists": [
         {
-          "name": "Porno for Pyros",
-          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
         }
       ],
-      "duration_ms": 227160,
-      "name": "Tahitian Moon",
-      "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
+      "duration_ms": 334186,
+      "name": "Anarchy",
+      "url": "https://open.spotify.com/track/0VC1EpCNjQRGWtxabI7fK6"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Symbols",
-        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
+        "name": "Good God's Urge",
+        "url": "https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM"
       },
       "artists": [
         {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+          "name": "Porno for Pyros",
+          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
         }
       ],
-      "duration_ms": 334186,
-      "name": "Anarchy",
-      "url": "https://open.spotify.com/track/0VC1EpCNjQRGWtxabI7fK6"
+      "duration_ms": 227160,
+      "name": "Tahitian Moon",
+      "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
     },
     {
       "added_at": "2024-07-12 23:56:42",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 
 > This is Silvana Estrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,103 likes - 46 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,144 likes - 46 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HABLAR DE TI \(...\)](https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [HABLAR DE TI \(...\)](https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub) | 3:38 |
-| 2 | [My One And Only Love \(feat\. Natália Lafourcade & Silvana Estrada\)](https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:01 |
-| 3 | [Como Un Pájaro](https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/2RpAWWOjVelOhj1VW39FSL) | 3:30 |
+| 1 | [My One And Only Love \(feat\. Natália Lafourcade & Silvana Estrada\)](https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 3:01 |
+| 2 | [Como Un Pájaro](https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/2RpAWWOjVelOhj1VW39FSL) | 3:30 |
+| 3 | [HABLAR DE TI \(...\)](https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [HABLAR DE TI \(...\)](https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub) | 3:38 |
 | 4 | [Te Guardo](https://open.spotify.com/track/0MbiIQrfTj9U3MXzv3AsoK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA) | 3:21 |
 | 5 | [Dividido](https://open.spotify.com/track/4xmZql4J71yDsU0krsZnBT) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Sublime](https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y) | 3:34 |
 | 6 | [Tregua](https://open.spotify.com/track/0gxO1ztpMMOy7wOw9GNrmz) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 2:10 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aqrpS.md) - [plain]
 | 45 | [La Caña](https://open.spotify.com/track/6gSwd2DF4CvniStQTuk1fi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Xinto Stevenz](https://open.spotify.com/artist/1uEiRl4WQ98wcfAdLX0Xgg), [Juan Cubas](https://open.spotify.com/artist/7mhLvp0kBLclELTbMTRcY1) | [Música por Mi México](https://open.spotify.com/album/2DNB5RNYoffk6eLSYaeIVr) | 6:43 |
 | 46 | [El Agua Y La Miel](https://open.spotify.com/track/6S32t8SspzeR7Pr9qQfe0U) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Lo Sagrado](https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2) | 4:38 |
 
-Snapshot ID: `ao4sgAAAAAAkps3oIcs8pjqfgNOJXRII`
+Snapshot ID: `ao9+AAAAAAAzNC7XZwgVhU8V/zq7Pc7l`

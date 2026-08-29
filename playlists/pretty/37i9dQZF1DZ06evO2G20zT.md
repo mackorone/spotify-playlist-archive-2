@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,536 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,591 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 40 | [Catalyst](https://open.spotify.com/track/3C6Sym0P7JxgNOegloBFcp) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NSNV](https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk) | 2:00 |
 | 41 | [Casablanca](https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:31 |
 | 42 | [Billion Dollar](https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:24 |
-| 43 | [HOW ARE YOU](https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:38 |
+| 43 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 |
 | 44 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 |
 | 45 | [Lagos](https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:25 |
 | 46 | [BD Baby](https://open.spotify.com/track/4aXHVmtQgLSk9sQFTVm2g4) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:12 |
-| 47 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 |
+| 47 | [HOW ARE YOU](https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:38 |
 | 48 | [Goated](https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Goated](https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4) | 2:18 |
 | 49 | [Richer](https://open.spotify.com/track/0gi0hs7oBAfFt8ux8yyczu) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Richer](https://open.spotify.com/album/45rYDdhaBSxKsm5iMSHnqH) | 2:29 |
 | 50 | [Hat\-trick](https://open.spotify.com/track/3oBGX5L3J3Lxupw6iD0tCK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/6pXS8h1VlReJ5QuuKNogQj) | 2:40 |
 
-Snapshot ID: `ao4sgAAAAACzz9ElHUtYX/9bAFYRxhOo`
+Snapshot ID: `ao9+AAAAAAAGUS9rn/DRqwedK+S0tlQV`

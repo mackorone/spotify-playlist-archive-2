@@ -1,12 +1,12 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234140,
+  "num_followers": 234136,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADc4EPIzyFQug9I4bi3U2ZYfuncK",
+  "snapshot_id": "AAAAAF5e/5yorIX64GMHQyc5RgK6/8nz",
   "tracks": [
     {
       "added_at": "2026-06-18 23:01:00",
@@ -385,20 +385,20 @@
       "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
-      "added_at": "2026-06-18 23:01:00",
+      "added_at": "2026-08-14 13:22:54",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+        "name": "Big World",
+        "url": "https://open.spotify.com/album/7FxTrIkmdXRF14Pmp71ezy"
       },
       "artists": [
         {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
         }
       ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+      "duration_ms": 181333,
+      "name": "What I Had",
+      "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -417,20 +417,20 @@
       "url": "https://open.spotify.com/track/0euXBVmJlWCFql9bkrRol9"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
+      "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Big World",
-        "url": "https://open.spotify.com/album/7FxTrIkmdXRF14Pmp71ezy"
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
       },
       "artists": [
         {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
         }
       ],
-      "duration_ms": 181333,
-      "name": "What I Had",
-      "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -547,26 +547,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Everything Is About You",
-        "url": "https://open.spotify.com/album/4W7Hd3QDV9RmuM7Td0GOfI"
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
       },
       "artists": [
         {
-          "name": "Asha Banks",
-          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        },
-        {
-          "name": "Lowswimmer",
-          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
         }
       ],
-      "duration_ms": 157746,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U"
+      "duration_ms": 259751,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -587,18 +579,26 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "For Mary",
-        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
+        "name": "Everything Is About You",
+        "url": "https://open.spotify.com/album/4W7Hd3QDV9RmuM7Td0GOfI"
       },
       "artists": [
         {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        },
+        {
+          "name": "Lowswimmer",
+          "url": "https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P"
         }
       ],
-      "duration_ms": 259751,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
+      "duration_ms": 157746,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
     },
     {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Singing",
+        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 185955,
+      "name": "Everyone Around Me Dancing",
+      "url": "https://open.spotify.com/track/6iAoohJqkZCOo6SdzkXyZI"
+    },
+    {
       "added_at": "2026-08-14 13:22:54",
       "album": {
         "name": "Water Under The Bridge",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Singing",
-        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 185955,
-      "name": "Everyone Around Me Dancing",
-      "url": "https://open.spotify.com/track/6iAoohJqkZCOo6SdzkXyZI"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Crash Landing",
         "url": "https://open.spotify.com/album/16yiIpsUTGRqStqX4tcc6y"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 334216,
       "name": "Crash Landing",
       "url": "https://open.spotify.com/track/38UijG8bkv7lBoo3xoSbgA"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 204202,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 200000,
       "name": "Me and My Friends",
       "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "is that all there is?",
-        "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
-      },
-      "artists": [
-        {
-          "name": "amy michelle",
-          "url": "https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR"
-        }
-      ],
-      "duration_ms": 177814,
-      "name": "welcome to the sidelines",
-      "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Margaux",
         "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "is that all there is?",
+        "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
+      },
+      "artists": [
+        {
+          "name": "amy michelle",
+          "url": "https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR"
+        }
+      ],
+      "duration_ms": 177814,
+      "name": "welcome to the sidelines",
+      "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Tractor Beam",
-        "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 214381,
-      "name": "Tractor Beam",
-      "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 166413,
       "name": "Today",
       "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Tractor Beam",
+        "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 214381,
+      "name": "Tractor Beam",
+      "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 209822,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Wavepool",
         "url": "https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL"
       },
@@ -1631,18 +1615,34 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Sad Summer",
-        "url": "https://open.spotify.com/album/3gX6kR3RhrMDD6P6gh03dI"
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
       "artists": [
         {
-          "name": "sundayclub",
-          "url": "https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM"
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
         }
       ],
-      "duration_ms": 209787,
-      "name": "Sad Summer",
-      "url": "https://open.spotify.com/track/1BK4EhT0zIW5FoD4LQRD4b"
+      "duration_ms": 209822,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4BPGLP2hhaCWdkEJGqZ6sY"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 190842,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
     },
     {
       "added_at": "2026-06-18 23:01:00",

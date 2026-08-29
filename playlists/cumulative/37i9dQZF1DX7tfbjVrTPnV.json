@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Alcohol and Adderall",
+        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212997,
+      "name": "Alcohol and Adderall",
+      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
+    },
+    {
+      "album": {
         "name": "Leftover Feelings",
         "url": "https://open.spotify.com/album/4SJHhNTj2iTatKdD1e324C"
       },
@@ -248,6 +266,24 @@
       "duration_ms": 246858,
       "name": "Am I Missing Out",
       "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
+    },
+    {
+      "album": {
+        "name": "Mr. Lincoln",
+        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284710,
+      "name": "American Midnight",
+      "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
     },
     {
       "album": {
@@ -558,6 +594,24 @@
       "duration_ms": 329880,
       "name": "California (Cast Iron Soul) - Cabin Mix",
       "url": "https://open.spotify.com/track/2uzX5gPLKBe29EZQ8qZrfm"
+    },
+    {
+      "album": {
+        "name": "California Sober / In Your Ocean (Acoustic)",
+        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200181,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
     },
     {
       "album": {
@@ -2064,7 +2118,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 221183,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT"
@@ -2642,7 +2696,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 136489,
       "name": "Just To Watch Maria Dance",
       "url": "https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP"
@@ -4942,7 +4996,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 142157,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"

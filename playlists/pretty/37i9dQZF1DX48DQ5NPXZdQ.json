@@ -1,12 +1,12 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 74723,
+  "num_followers": 74737,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO8O8Ab1eSCzL/eyVJ2kzjKn7oog",
+  "snapshot_id": "AAAAAOUF+my6AEPyf0IEOmGgUwkBrNlp",
   "tracks": [
     {
       "added_at": "2024-07-05 02:05:16",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "Diego En Los 70",
-        "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 384460,
       "name": "Heal the World",
       "url": "https://open.spotify.com/track/5zGsHa3XcLmDAsdt0LwYnu"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
+        "name": "Diego En Los 70",
+        "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
     },
     {
       "added_at": "2024-07-05 02:05:16",

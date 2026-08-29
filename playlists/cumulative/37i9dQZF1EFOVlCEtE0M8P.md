@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-358 songs - 20 hr 49 min
+359 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Honest Man](https://open.spotify.com/track/6CVOAQAtEUczusr91X6JGD) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:49 | 2024-03-07 |  |
 | [Honeycrash](https://open.spotify.com/track/2Knmi7fn4pkQttT1tgYOex) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:08 | 2025-03-09 |  |
 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 | 2024-09-13 | 2025-03-10 |
+| [House of Glass](https://open.spotify.com/track/4Bc4lG5WDXIDtKbuQxyXl7) | [AK Patterson](https://open.spotify.com/artist/6wfHKZpiShb3hhOCNrrFSt) | [House of Glass](https://open.spotify.com/album/50g0QYvToKMPfAJQC5Il2w) | 4:29 | 2026-08-28 |  |
 | [How to Love \(feat\. Sofia Reyes\)](https://open.spotify.com/track/1oUb2nyyq0IWVj1nsuft0H) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Blood, Sweat & 3 Years](https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X) | 3:39 | 2024-03-07 |  |
 | [Humours](https://open.spotify.com/track/3jUGDclkGpBuGHE8GR4UYb) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [The Dark](https://open.spotify.com/album/4gpQHITIKf01iFm9gtcmLA) | 3:53 | 2026-08-23 |  |
 | [hurt](https://open.spotify.com/track/2ULMkcWFhgiyuTQgdALlqC) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:46 | 2024-03-07 |  |

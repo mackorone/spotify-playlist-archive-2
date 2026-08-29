@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 
 > Editors’ Picks: Die besten Deutschrap Tracks des Jahres\. Cover: Ceren & Pashanim
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,941 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,944 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 66 | [Benzin](https://open.spotify.com/track/4ud2Oas5NELw0b67CK2POC) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Lifestyle](https://open.spotify.com/album/2g3gtj9Zs0c7NV6XQTJpnO) | 2:43 |
 | 67 | [augen zu](https://open.spotify.com/track/1CpQ1conzQ13VI9l0StsKT) | [ELEF](https://open.spotify.com/artist/5LjNJvBglFTGsAYikefcvH) | [augen zu](https://open.spotify.com/album/1MlC8YUHMGOXAcjx9ixcaQ) | 2:24 |
 | 68 | [acne pants](https://open.spotify.com/track/60cqXJlF4PGS2ddttZA26G) | [neji.mp3](https://open.spotify.com/artist/2rFHqnk7YxBSaFKCiNt6b8), [dusy](https://open.spotify.com/artist/38LgggGSwFlmHSG0VWsr4a) | [acne pants](https://open.spotify.com/album/5CH9Nc5eMmXMqEdEiFPY31) | 2:34 |
-| 69 | [Kopfkino](https://open.spotify.com/track/1SiJq7pwb5TDkiKHVdUy1q) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR), [Florida Juicy](https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L) | [Kopfkino](https://open.spotify.com/album/3zYJ2fV9nbcSG6n8lOJkHJ) | 2:53 |
+| 69 | [kopfkino](https://open.spotify.com/track/1SiJq7pwb5TDkiKHVdUy1q) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR), [Florida Juicy](https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L) | [kopfkino](https://open.spotify.com/album/3zYJ2fV9nbcSG6n8lOJkHJ) | 2:53 |
 | 70 | [Hoch](https://open.spotify.com/track/46J1w8OPUxruyaNPGNvt81) | [Gianni Suave](https://open.spotify.com/artist/1krJvMu9OkhIxX5cMoZGLb), [Ramzey](https://open.spotify.com/artist/4LiSTXiV4QgUW5ZmJMaAm5), [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [Ich falle in Frieden \(Deluxe\)](https://open.spotify.com/album/4FqZDl238SgxOnB2JD30RI) | 2:46 |
 | 71 | [3 Strikes](https://open.spotify.com/track/1GwxbXq4XhGcd47TFQi3N6) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [3 Strikes](https://open.spotify.com/album/5excRlF8P13zLjlIzIS1jY) | 1:51 |
 | 72 | [Neue Haare](https://open.spotify.com/track/4awpiM8YHyX5NktuntfrRb) | [longJ](https://open.spotify.com/artist/54ltP7Jm0talf5F6y3AXLD) | [Neue Haare](https://open.spotify.com/album/6Zv74hnmWdQvN23ByltfHB) | 2:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 79 | [QUALITÄT](https://open.spotify.com/track/3od4M5sqkjk2igUiuciUQC) | [Sonus030](https://open.spotify.com/artist/78wZzI7u1cOjXKuYzqZI6l), [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [QUALITÄT](https://open.spotify.com/album/5EsEwb1HCOs7KGrvIhwRry) | 2:33 |
 | 80 | [Geister](https://open.spotify.com/track/0xNIAFbDIco16rDzxrw4qI) | [beslik](https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr) | [Norderney / Geister](https://open.spotify.com/album/1PXm7yS2vZqHurUpKeUl4i) | 2:43 |
 
-Snapshot ID: `AAAAAKtp8iyFlEOe0VFZpcsyBmeZc2LS`
+Snapshot ID: `AAAAAOgv+saQ+hkhRrrJC/1jqShokhQn`

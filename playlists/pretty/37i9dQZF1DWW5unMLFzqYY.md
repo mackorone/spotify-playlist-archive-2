@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5unMLFzqYY.md) - [plain]
 | 21 | [Stage Log from NCT WISH \- Closing](https://open.spotify.com/track/2874QYBNauDXXlJV3hmNwI) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [2025 NCT WISH \[ASIA TOUR LOG in\]](https://open.spotify.com/album/5VHutEWx1K8Tybt1mdvFWI) | 2:49 |
 | 22 | [We Go!](https://open.spotify.com/track/4E4FEpgRWPdymqCckJ1C1R) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:01 |
 
-Snapshot ID: `AAAAAApnVfpgKYm7lWd51+CQzSbnkaAR`
+Snapshot ID: `AAAAAJGc9vstP/RkgJ3Kk9gj8dJR2zJJ`

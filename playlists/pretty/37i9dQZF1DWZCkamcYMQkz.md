@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,822 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,958 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 41 | [Lips Can Lie](https://open.spotify.com/track/0fhfZFkNjIlCgpQSoazP2M) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Lips Can Lie](https://open.spotify.com/album/6LvGAaHEC2H8zl4K5DOtBM) | 3:49 |
 | 42 | [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 |
 | 43 | [I've Got You Under My Skin \- 2011 Remaster](https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Desmond Blue](https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58) | 4:39 |
-| 44 | [Just You, Just Me](https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 2:24 |
-| 45 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 2:18 |
+| 44 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 2:18 |
+| 45 | [Just You, Just Me](https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 2:24 |
 | 46 | [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 |
 | 47 | [Didn’t I Tell You So?](https://open.spotify.com/track/4ufNRAVcnb2PqUadnWhXDW) | [Flore Benguigui & The Sensible Notes](https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6) | [Didn’t I Tell You So?](https://open.spotify.com/album/2qf2P1TV4lOkK4wZ1wxNvu) | 4:26 |
 | 48 | [September In The Rain](https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [September in the Rain](https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX) | 4:08 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 59 | [All Of Me](https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah! \(Expanded Edition\)](https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol) | 3:45 |
 | 60 | [Pavanne](https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 5:47 |
 | 61 | [Sunday Mornin'](https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Soul](https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt) | 6:30 |
-| 62 | [Love for Sale](https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:14 |
-| 63 | [It's Crazy](https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:06 |
+| 62 | [It's Crazy](https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 5:06 |
+| 63 | [Love for Sale](https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 2:14 |
 | 64 | [Stompin' At The Savoy \- 1956 Version](https://open.spotify.com/track/49vFXoPnbgIoLd76Szqmar) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 4:09 |
 | 65 | [I'm an Old Cowhand](https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(OJC Remaster\)](https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC) | 5:43 |
 | 66 | [The Good Life](https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd) | [Tyler Henderson](https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze) | [The Good Life](https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Summertime](https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Andreas Svendsen](https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH) | [Impressions of Evans](https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6) | 4:28 |
 | 100 | [Holiday Flight](https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Surf Ride](https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy) | 3:11 |
 
-Snapshot ID: `AAAAALvJKEDqzqJ+mFccauegeCUp3JDQ`
+Snapshot ID: `AAAAAFBXqrEyZJ522/SWiEhulnWIfTk9`

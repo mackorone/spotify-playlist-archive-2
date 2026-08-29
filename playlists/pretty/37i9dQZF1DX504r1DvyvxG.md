@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,637,093 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,637,075 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 10 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 11 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
 | 12 | [Take the World Apart](https://open.spotify.com/track/4qqUsutDnU3ZSZbZiLrzNB) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Take the World Apart](https://open.spotify.com/album/3rXiySdCNMOD2mB55SpNUd) | 2:44 |
-| 13 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
-| 14 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
-| 15 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
+| 13 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
+| 14 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
+| 15 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
 | 16 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
 | 17 | [Father And Son](https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:41 |
 | 18 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:07 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 33 | [Mr\. Tambourine Man](https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 5:26 |
 | 34 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 |
 | 35 | [Stuck In The Middle With You](https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Reservoir Dogs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF) | 3:23 |
-| 36 | [America](https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 3:35 |
-| 37 | [The First Cut Is the Deepest](https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [A Night on the Town](https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd) | 4:31 |
+| 36 | [The First Cut Is the Deepest](https://open.spotify.com/track/3FeYjbIVqvAhuTcwsE6K3v) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [A Night on the Town](https://open.spotify.com/album/6z4jnK1fRHP80RJC8x9UFd) | 4:31 |
+| 37 | [America](https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 3:35 |
 | 38 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:44 |
 | 39 | [Closer to Fine](https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Indigo Girls \(Expanded Edition\)](https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x) | 4:01 |
 | 40 | [If](https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [The Best of Bread](https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx) | 2:35 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 42 | [That's the Way That the World Goes 'Round](https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Bruised Orange](https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb) | 3:20 |
 | 43 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:00 |
 | 44 | [Human Touch](https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Human Touch](https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF) | 6:31 |
-| 45 | [Love And Affection](https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Joan Armatrading](https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx) | 4:32 |
+| 45 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
 | 46 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [In the Wind](https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli) | 3:16 |
-| 47 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 6:31 |
-| 48 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
+| 47 | [Love And Affection](https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Joan Armatrading](https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx) | 4:32 |
+| 48 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 6:31 |
 | 49 | [Hit Or Miss](https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings](https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp) | 3:54 |
 | 50 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 |
 | 51 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 97 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 |
 | 98 | [Famous Blue Raincoat](https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Love And Hate](https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B) | 5:10 |
 | 99 | [Morning Has Broken](https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat](https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo) | 3:20 |
-| 100 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
+| 100 | [Norwegian Wood \(This Bird Has Flown\) \- Remastered](https://open.spotify.com/track/4DE42oDol0KHxympBsaiYu) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz) | 2:04 |
 
-Snapshot ID: `AAAAAJtmhP8uNjDgqU6WE/jIuUQb9Z2j`
+Snapshot ID: `AAAAAPqrlWbPK/6MHU8qMC3wt13To2vp`

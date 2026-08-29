@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,438 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,331 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Club To Your Arms](https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms](https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda) | 3:11 |
-| 2 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
+| 2 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 3 | [After All](https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [After All](https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq) | 4:12 |
-| 4 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
+| 4 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 5 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
 | 6 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
-| 7 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
-| 8 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 |
+| 7 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 |
+| 8 | [CHOOM](https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [춤 \(CHOOM\)](https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7) | 2:58 |
 | 9 | [Lemon Tang](https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 2:43 |
 | 10 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
 | 11 | [Meri Zindagi Hai Tu](https://open.spotify.com/track/5RYXTC4G3RYYP6pUmaF6s2) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn) | [Meri Zindagi Hai Tu](https://open.spotify.com/album/4FWgeZQOq8g7kLQAniEdzR) | 3:46 |
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 14 | [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 |
 | 15 | [Eurosummer \- Girls Trip](https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:50 |
 | 16 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
-| 17 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
-| 18 | [Choka Choka](https://open.spotify.com/track/5WNTWK6ISkfnkth9JwxvCp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:11 |
+| 17 | [Choka Choka](https://open.spotify.com/track/5WNTWK6ISkfnkth9JwxvCp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:11 |
+| 18 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 19 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
 | 20 | [Wish I Didn't](https://open.spotify.com/track/2qX8A5UFLm1cKUuB229jl3) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:29 |
 | 21 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 |
 | 22 | [Pop Off Pop Off](https://open.spotify.com/track/3lKENzQzOnbXmo8FBtb7el) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6) | 2:21 |
 | 23 | [陪你到這](https://open.spotify.com/track/26zxMDfNVe4lAfx1VRmqSt) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [陪你到這](https://open.spotify.com/album/5k6Q1TKIjCaiXl6hd0jMhz) | 3:52 |
 | 24 | [Tú, mi bb](https://open.spotify.com/track/2GuNMjF2VUeUUgtx6CZzYf) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Tú, mi bb](https://open.spotify.com/album/3pv2BRwZhBXBxXfNYifT0h) | 3:07 |
-| 25 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
-| 26 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 |
+| 25 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 |
+| 26 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
 | 27 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 |
 | 28 | [Hungamaa Ho Gaya](https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Queen](https://open.spotify.com/album/2Rz2QGoRiNq2FcrW0bVXkj) | 4:31 |
 | 29 | [Perdón si no te llamé](https://open.spotify.com/track/6ro7G0r7NwAGpg1ooa8hIi) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Perdón si no te llamé](https://open.spotify.com/album/4ZU0IrkV79sXI6RmXlshbX) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 49 | [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 |
 | 50 | [Più in Alto](https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [SENZA FIATO](https://open.spotify.com/album/1SG8l9HK7JW4ECmURSPLVX) | 3:04 |
 
-Snapshot ID: `AAAAAMBUXe5MLde3hd0fnuXIBWjeOUdN`
+Snapshot ID: `AAAAAJE/N/Pp8c6hkyCpS8UkM2jW4RXP`

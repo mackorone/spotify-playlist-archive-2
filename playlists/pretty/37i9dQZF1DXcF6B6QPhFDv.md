@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive with The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,174,844 likes - 81 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,174,415 likes - 81 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 80 | [Bonny](https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Bonny](https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF) | 2:33 |
 | 81 | [Joyce Kilmer Service Area](https://open.spotify.com/track/287HIlovgFFLZJjDkU05R6) | [wakelee](https://open.spotify.com/artist/3AWGvay19E8Q9CIqy7zii6) | [Joyce Kilmer Service Area](https://open.spotify.com/album/4rlyJnhWxi8qxlX3OXskcM) | 3:03 |
 
-Snapshot ID: `AAAAAOBrjOiJ59zWKPp3Nn9NK/x9biaV`
+Snapshot ID: `AAAAABs9cnS2Lp0+LmXDN4JuzZPDYfVg`

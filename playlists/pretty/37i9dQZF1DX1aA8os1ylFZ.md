@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > De beste nieuwe R&B releases \| Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,302 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,286 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 61 | [SOAP](https://open.spotify.com/track/0SsQlBx10cCgIZIV2SH9wq) | [ZYHH](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [SOAP](https://open.spotify.com/album/7LnaNERJs0GUwZvnHrxiQ9) | 2:36 |
 | 62 | [Slow Down](https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Slow Down](https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a) | 2:20 |
 | 63 | [Sweet Life](https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [Sweet Life](https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9) | 2:49 |
-| 64 | [side slider](https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Mr\. Lovebomb](https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ) | 3:47 |
-| 65 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 |
+| 64 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 |
+| 65 | [side slider](https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Mr\. Lovebomb](https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ) | 3:47 |
 | 66 | [Physical \(feat.Tink\)](https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Physical](https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd) | 3:52 |
 | 67 | [Just Like You](https://open.spotify.com/track/3vUbxLf8vr3KmI5Dqpfzqz) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like You](https://open.spotify.com/album/7Aqv6M8ONnqRIjBx99XLoQ) | 3:06 |
 | 68 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 88 | [No Secrets](https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [No Secrets](https://open.spotify.com/album/1dJdsWWuEbTDh43PpZfcbT) | 3:09 |
 | 89 | [If The Walls Could Talk](https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi) | [ZYHH](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [If The Walls Could Talk](https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx) | 3:10 |
 | 90 | [10%](https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [This One Is Personal](https://open.spotify.com/album/55VroRmh4MCv27zw275clO) | 2:49 |
-| 91 | [cracks beneath my skin](https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [cracks beneath my skin](https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B) | 3:05 |
+| 91 | [Take Our Time](https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Take Our Time](https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg) | 2:25 |
 | 92 | [Saving All My Love](https://open.spotify.com/track/2aeBRy4Rb55mZEngtFeEIz) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Saving All My Love](https://open.spotify.com/album/7qPS8oM3jIPWvY1ea7BEL0) | 2:18 |
-| 93 | [Take Our Time](https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Take Our Time](https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg) | 2:25 |
+| 93 | [cracks beneath my skin](https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [cracks beneath my skin](https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B) | 3:05 |
 | 94 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
 | 95 | [LOVE ME \(feat\. Stevie Wonder\)](https://open.spotify.com/track/5HPvBWjFHAO01Zt22uDU27) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [CAMPILATION](https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD) | 3:10 |
-| 96 | [Watch You Leave](https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Watch You Leave](https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y) | 4:23 |
-| 97 | [Club](https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Club](https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll) | 2:39 |
+| 96 | [Club](https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Club](https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll) | 2:39 |
+| 97 | [Watch You Leave](https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Watch You Leave](https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y) | 4:23 |
 | 98 | [From A Distance](https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [From A Distance](https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG) | 3:03 |
-| 99 | [One More Time](https://open.spotify.com/track/2aW0YxPMcioaMvioYZgYf1) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [One More Time](https://open.spotify.com/album/2UgBgSaNVEblHh3IXBqHXN) | 2:40 |
-| 100 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 |
+| 99 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 |
+| 100 | [One More Time](https://open.spotify.com/track/2aW0YxPMcioaMvioYZgYf1) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [One More Time](https://open.spotify.com/album/2UgBgSaNVEblHh3IXBqHXN) | 2:40 |
 
-Snapshot ID: `AAAAAN5nAuI5+Q1kS9ncKfuNyVyObUdP`
+Snapshot ID: `AAAAAKIRxRRtBRs2FYNNNAoawN0SzZMI`

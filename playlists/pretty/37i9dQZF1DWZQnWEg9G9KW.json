@@ -1,12 +1,12 @@
 {
   "description": "Camp Rock 3 is available now! Head back to camp with new tracks from the movie and old favorites from Camp Rock 1 & 2",
-  "num_followers": 14606,
+  "num_followers": 15105,
   "original_name": "Camp Rock Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQfwoQM2YsUU3y6pFiAedu7+K1f",
+  "snapshot_id": "AAAAAE0VwVczTBjjUdfvjN9y9egrDyt3",
   "tracks": [
     {
       "added_at": "2026-08-14 04:00:07",
@@ -399,30 +399,6 @@
       "duration_ms": 301482,
       "name": "Score Suite",
       "url": "https://open.spotify.com/track/7wmg0bbedaKEJFArWKjaUc"
-    },
-    {
-      "added_at": "2026-08-14 04:00:07",
-      "album": {
-        "name": "One Beat Away (From \"Camp Rock 3\")",
-        "url": "https://open.spotify.com/album/1G7PEmWkUrwlOtZ733Ito8"
-      },
-      "artists": [
-        {
-          "name": "Liamani",
-          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
-        },
-        {
-          "name": "Camp Rock \u2013 Cast",
-          "url": "https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 169922,
-      "name": "One Beat Away - From \"Camp Rock 3\"",
-      "url": "https://open.spotify.com/track/7GofEArN4cvGP5AwlqbZSs"
     },
     {
       "added_at": "2026-08-14 04:00:07",
@@ -1167,6 +1143,22 @@
       "duration_ms": 193293,
       "name": "We Rock",
       "url": "https://open.spotify.com/track/1Tul06dOueO5fcTscqugqa"
+    },
+    {
+      "added_at": "2026-08-28 19:40:41",
+      "album": {
+        "name": "One Beat Away (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/6fAkVdmBqkHFiZ9OYSJ7wC"
+      },
+      "artists": [
+        {
+          "name": "IIya Toshinskiy",
+          "url": "https://open.spotify.com/artist/1LDG4c28klQcIpjPSlqVdT"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "One Beat Away (Guitar Version)",
+      "url": "https://open.spotify.com/track/0F2pr1I37fMzyqEwoHapDo"
     },
     {
       "added_at": "2026-08-14 04:00:07",

@@ -1,12 +1,12 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37607,
+  "num_followers": 37608,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIy5IGwNvZapmQU7We3nbbWFdd2E",
+  "snapshot_id": "AAAAAFnhFLV7Bu2ieovAXje3i9CZU4cB",
   "tracks": [
     {
       "added_at": "2026-08-27 22:00:34",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
-        "name": "SOLE",
-        "url": "https://open.spotify.com/album/6aHJtppoC7HW6nWfL5W4gv"
-      },
-      "artists": [
-        {
-          "name": "The Gardener & The Tree",
-          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
-        }
-      ],
-      "duration_ms": 258622,
-      "name": "warm embrace",
-      "url": "https://open.spotify.com/track/34oCJNuVbb7mbbolZZjGjv"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
         "name": "Wednesdays",
         "url": "https://open.spotify.com/album/3H3CoWLhNoe3Z1KP4th1Xp"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 210842,
       "name": "Wednesdays",
       "url": "https://open.spotify.com/track/131XfngivzGCdM0p9kzsAP"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
+        "name": "SOLE",
+        "url": "https://open.spotify.com/album/6aHJtppoC7HW6nWfL5W4gv"
+      },
+      "artists": [
+        {
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+        }
+      ],
+      "duration_ms": 258622,
+      "name": "warm embrace",
+      "url": "https://open.spotify.com/track/34oCJNuVbb7mbbolZZjGjv"
     },
     {
       "added_at": "2026-08-27 22:00:34",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
-        "name": "Too Tired",
-        "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "Too Tired",
-      "url": "https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
         "name": "backbone",
         "url": "https://open.spotify.com/album/5oJk44MiQxfydL5aTYU5S0"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 173414,
       "name": "backbone",
       "url": "https://open.spotify.com/track/4DR5gb0S6KOfLx5LGLjyuU"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
+        "name": "Too Tired",
+        "url": "https://open.spotify.com/album/3Yud4CbMR0ZnSF1HaXo1bX"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 231520,
+      "name": "Too Tired",
+      "url": "https://open.spotify.com/track/7tuA9ymEVDkY9DBEECQucK"
     },
     {
       "added_at": "2026-08-27 22:00:34",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
-        "name": "HOMECOMING",
-        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 141190,
-      "name": "HOMECOMING",
-      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
         "name": "Mundo Feliz",
         "url": "https://open.spotify.com/album/79MbLKlFq6Da47IJBl7Pr9"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 154070,
       "name": "Mundo Feliz",
       "url": "https://open.spotify.com/track/1p6iZYXOelfUiGPrz602d9"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
+        "name": "HOMECOMING",
+        "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 141190,
+      "name": "HOMECOMING",
+      "url": "https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm"
     },
     {
       "added_at": "2026-08-27 22:00:34",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
-        "name": "Blindsided",
-        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
-      },
-      "artists": [
-        {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
-        }
-      ],
-      "duration_ms": 165062,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
         "name": "Change You",
         "url": "https://open.spotify.com/album/2LSRAOLKmeqPr6ryzpErIT"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 266105,
       "name": "Change You",
       "url": "https://open.spotify.com/track/0H8TpnomHoEJaXyOGJcnfH"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
+      },
+      "artists": [
+        {
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+        }
+      ],
+      "duration_ms": 165062,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/73CnJCOx1kW7M46WsB7Zed"
     },
     {
       "added_at": "2026-08-27 22:00:34",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
-        "name": "Don't Let Him Go",
-        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 177250,
-      "name": "Don't Let Him Go",
-      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
         "name": "Jamais \u00c9t\u00e9 (Cool)",
         "url": "https://open.spotify.com/album/0dpWyeA0DSO4CgMjSGspra"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 155700,
       "name": "Jamais \u00c9t\u00e9 (Cool)",
       "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
+        "name": "Don't Let Him Go",
+        "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 177250,
+      "name": "Don't Let Him Go",
+      "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
     },
     {
       "added_at": "2026-08-27 22:00:34",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
         "name": "Room Service",
         "url": "https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 167026,
       "name": "What\u2019s a Girl Gotta Do?",
       "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2026-08-27 22:00:34",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
+        "name": "Where Do Lost Dreams Go?",
+        "url": "https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7"
+      },
+      "artists": [
+        {
+          "name": "Solong",
+          "url": "https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v"
+        }
+      ],
+      "duration_ms": 329898,
+      "name": "Where Do Lost Dreams Go?",
+      "url": "https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
         "name": "Playgrounds In Ruins (Deluxe)",
         "url": "https://open.spotify.com/album/6TuHCVJ7fwDYlZzZKwffiB"
       },
@@ -939,38 +955,6 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
-        "name": "Where Do Lost Dreams Go?",
-        "url": "https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7"
-      },
-      "artists": [
-        {
-          "name": "Solong",
-          "url": "https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v"
-        }
-      ],
-      "duration_ms": 329898,
-      "name": "Where Do Lost Dreams Go?",
-      "url": "https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
         "name": "Young Bones",
         "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 184880,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
     },
     {
       "added_at": "2026-08-27 22:00:34",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
         "name": "Roommates",
         "url": "https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 151250,
       "name": "Roommates",
       "url": "https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2026-08-27 22:00:34",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
-        "name": "House of Glass",
-        "url": "https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 193576,
-      "name": "House of Glass",
-      "url": "https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
         "name": "Prosecco",
         "url": "https://open.spotify.com/album/4fDTqKqjw8HO5gTLdyU6ug"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 199838,
       "name": "Prosecco",
       "url": "https://open.spotify.com/track/761Vzi9ixB6F1dvJ0fJqpq"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
+        "name": "House of Glass",
+        "url": "https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 193576,
+      "name": "House of Glass",
+      "url": "https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE"
     },
     {
       "added_at": "2026-08-27 22:00:34",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-08-27 22:00:34",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
-    },
-    {
-      "added_at": "2026-08-27 22:00:34",
-      "album": {
         "name": "Playgrounds In Ruins",
         "url": "https://open.spotify.com/album/1rh0TJbZ0l0rjJeJMSLsfc"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 199261,
       "name": "Hell",
       "url": "https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ"
+    },
+    {
+      "added_at": "2026-08-27 22:00:34",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
     },
     {
       "added_at": "2026-08-27 22:00:34",

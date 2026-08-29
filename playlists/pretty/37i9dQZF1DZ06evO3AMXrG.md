@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,896 likes - 43 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,920 likes - 43 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 23 | [Lento](https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Lento](https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB) | 3:49 |
 | 24 | [Donde No Alcanza Mi Verso](https://open.spotify.com/track/7gQbpyb0GTNOu8XVWwLfwK) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Diario](https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91) | 4:43 |
 | 25 | [Sube el Humo](https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 4:41 |
-| 26 | [Fuiste Cruel](https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj) | 4:57 |
-| 27 | [Solo Un Eco](https://open.spotify.com/track/4SBZcKzK0Vhat4I6u1ogXh) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5UHNIjot3Su72sWvuuy0WH) | 4:45 |
+| 26 | [Solo Un Eco](https://open.spotify.com/track/4SBZcKzK0Vhat4I6u1ogXh) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5UHNIjot3Su72sWvuuy0WH) | 4:45 |
+| 27 | [Fuiste Cruel](https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj) | 4:57 |
 | 28 | [Llevarte Allí](https://open.spotify.com/track/4YtADLDDktCAdzN2pbPABB) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 4:43 |
 | 29 | [La Noche Vibra](https://open.spotify.com/track/04LV5ZhMdkFJqvGtITa62B) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 4:08 |
 | 30 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3AMXrG.md) - [plain]
 | 42 | [Fruto de la Tierra](https://open.spotify.com/track/7DIqCBEuvWohLKYNoRLSkN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV) | 4:23 |
 | 43 | [Sobrevolando](https://open.spotify.com/track/6CM3CKkVFpNd7blvc6kpvN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G) | 4:27 |
 
-Snapshot ID: `ao4sgAAAAAAhc6YSC2B+6gF2E9fC8Ohz`
+Snapshot ID: `ao9+AAAAAACkW4JW4zXL1Ivb3s3nvcwc`

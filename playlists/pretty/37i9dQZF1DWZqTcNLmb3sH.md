@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Toxic
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,927 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,966 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Baa KARAVALIGE \(From "KARAVALI"\)](https://open.spotify.com/track/2m3NvJMD7tWv0Y3rm2TyGZ) | [Sachin Basrur](https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Baa KARAVALIGE \(From "KARAVALI"\)](https://open.spotify.com/album/1MF115WgEyL7E5yKLPZovq) | 3:04 |
 | 75 | [Mudd Muddu Putlakshmi \(From "Ayogya 2"\)](https://open.spotify.com/track/0uc6L16PhCad1SlwHTdolj) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Chethan Kumar](https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21) | [Mudd Muddu Putlakshmi \(From "Ayogya 2"\)](https://open.spotify.com/album/3iRYIALqe75nSupDOtZJ1o) | 4:54 |
 
-Snapshot ID: `AAAAANiPIfVy5kn2e44ydImuUD6KtgHl`
+Snapshot ID: `AAAAAFymJHsyRLFsgEncrPTx8zsQcoUm`

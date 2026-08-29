@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKvuMJR2hlfG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6wovS7exdnjHhyYZxYK4b5">Niall Horan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,289 likes - 64 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288 likes - 64 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKvuMJR2hlfG.md) - [plain]
 | 44 | [If You Leave Me](https://open.spotify.com/track/4tTb7uAXFqI84T3ZIDBhxf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:59 |
 | 45 | [Break My Heart](https://open.spotify.com/track/6KMkEX692kOyqJ7WuPhRab) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart](https://open.spotify.com/album/0kNjRXrrBrXGUFkGhf2HVI) | 2:59 |
 | 46 | [Science](https://open.spotify.com/track/3SRZnA66K77YZbDVJrSHNB) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:45 |
-| 47 | [Never Grow Up](https://open.spotify.com/track/4EK3I8YpESBMEKeyc05JRS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:29 |
-| 48 | [Dinner Party](https://open.spotify.com/track/1ALFQS4GSo0p2BBgpLaIP0) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:34 |
+| 47 | [Dinner Party](https://open.spotify.com/track/1ALFQS4GSo0p2BBgpLaIP0) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:34 |
+| 48 | [Never Grow Up](https://open.spotify.com/track/4EK3I8YpESBMEKeyc05JRS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:29 |
 | 49 | [Save My Life](https://open.spotify.com/track/1e9jtpVUszajrfKAJKPvCS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:57 |
 | 50 | [On A Night Like Tonight](https://open.spotify.com/track/4aPiQTOqCCeSgfTgCh7SR5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:07 |
 | 51 | [So Long feat\. The RTÉ Concert Orchestra \- Live](https://open.spotify.com/track/5scBczIdJT4YhHESvkFbY1) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [RTE Concert Orchestra](https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk) | [Flicker Featuring The RTÉ Concert Orchestra \(Live\)](https://open.spotify.com/album/49GjgqLjeT80KyTKTosuND) | 3:37 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKvuMJR2hlfG.md) - [plain]
 | 63 | [Better Man](https://open.spotify.com/track/08LWD0M1Y9UfeC5afwkD4m) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:13 |
 | 64 | [Fighting Over Nothing](https://open.spotify.com/track/7qgZV7SLUSd1wavGDjxwF7) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:30 |
 
-Snapshot ID: `AcawKAAAAAAm8Vo19ZmeQuG/3qiTJToY`
+Snapshot ID: `Aca1FAAAAAAPZKnJAbnYu9wQjwPUGugw`

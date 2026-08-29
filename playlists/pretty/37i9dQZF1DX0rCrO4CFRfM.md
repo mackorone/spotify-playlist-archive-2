@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,803 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,844 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 34 | [Youth Of The Nation \- Acoustic Version](https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 4:22 |
 | 35 | [Shooting Stars \- in the Woods](https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Shooting Stars \(in the Woods\)](https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1) | 4:23 |
 | 36 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
-| 37 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
-| 38 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
+| 37 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
+| 38 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
 | 39 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/7bSHKIEXocorAU4pvmJaeN) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/5jInHIOP1Ca3j1vza33bvu) | 5:12 |
 | 40 | [Many of Horror \- MTV Unplugged Live; Edit](https://open.spotify.com/track/1DNP8yFg3tMYmX6Afm1Lud) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Many of Horror \(MTV Unplugged Live; Edit\)](https://open.spotify.com/album/0XFIPAAY4ECJbLrWe9jBzu) | 4:14 |
 | 41 | [Legendary \- Acoustic](https://open.spotify.com/track/5l4O7VzsZhKpAJO8w2jrC9) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Acoustic\)](https://open.spotify.com/album/1hj9cR7EcEIisOX3eeke2x) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Bad Life \- acoustic](https://open.spotify.com/track/5DwJKJ3Gg5UlzsTMpYXkwT) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life \(acoustic\)](https://open.spotify.com/album/4QheMIrqrXYPKeDfB4TXzI) | 3:40 |
 | 50 | [Grand Theft Autumn / Where Is Your Boy \- Acoustic](https://open.spotify.com/track/02WfKxLdKIHi5grvCiY2cs) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [My Heart Will Always Be the B\-Side to My Tongue](https://open.spotify.com/album/2CrBpjJ4xQUAPSwns8Wi7H) | 3:12 |
 
-Snapshot ID: `AAAAAEqTxYxC3rdvVm1N1bVHvlFtR66j`
+Snapshot ID: `AAAAANMIMeh1jwVHE4ufi4jT/cNeCOrp`

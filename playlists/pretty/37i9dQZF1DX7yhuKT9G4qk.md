@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 
 > Perfect dinner playlist \| soulful music
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,746 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,750 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 | 99 | [The Way](https://open.spotify.com/track/7oHXs1fPp1oRHsmMZ2uGk7) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [The Way](https://open.spotify.com/album/0vUSt4xH41aj4mzNLUqZFr) | 3:38 |
 | 100 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
 
-Snapshot ID: `AAAAAErFi3R59RKVF3eySyUlLq1+0rdf`
+Snapshot ID: `AAAAANyn931f8HbJv1+NbETkfiaeWw6x`

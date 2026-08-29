@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ppZRbtvOX1.md) - [plain]
 | 69 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 |
 | 70 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 |
 
-Snapshot ID: `AAAAAGowjsO4sTndRFLz4Hno3I5xPhmQ`
+Snapshot ID: `AAAAAGfO+T3bkn0yltHQJ+G1r5Ko6gr1`

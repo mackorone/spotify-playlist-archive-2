@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,951 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,904 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
-| 2 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 1 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 2 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 3 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 4 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 | 5 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 42 | [Ein Lied](https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Ein Lied](https://open.spotify.com/album/60xB6sJ3lZJZBgRdyRzZmO) | 2:31 |
 | 43 | [pull me out](https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [4 songs](https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU) | 3:04 |
 | 44 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
-| 45 | [If You Wanna Be Adored](https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [If You Wanna Be Adored](https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz) | 2:25 |
+| 45 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
 | 46 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
-| 47 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
-| 48 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
+| 47 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
+| 48 | [If You Wanna Be Adored](https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [If You Wanna Be Adored](https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz) | 2:25 |
 | 49 | [BEAUTY QUEEN](https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [BEAUTY QUEEN](https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ) | 3:10 |
 | 50 | [Those Were The Days](https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Those Were The Days](https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN) | 3:00 |
 | 51 | [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 57 | [Gib mir mehr Du](https://open.spotify.com/track/6w0eHk8No2d9hAn9xym7Se) | [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Gib mir mehr Du](https://open.spotify.com/album/03ub248yWebL0kbqooEzpM) | 2:43 |
 | 58 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
 | 59 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
-| 60 | [Alles nur für mich](https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Alles nur für mich](https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP) | 2:21 |
+| 60 | [I Like You Best \- Cloud 9 Version](https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [I Like You Best \(Cloud 9 Version\)](https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b) | 2:48 |
 
-Snapshot ID: `AAAAADWQ6Lvl34HOas7zZyXMHhrWaTlz`
+Snapshot ID: `AAAAABkuhK5oTaZ0mc5rnFpemNGeG37R`

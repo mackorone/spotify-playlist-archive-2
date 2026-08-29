@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 539422,
+  "num_followers": 539489,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADTVApOHuW5Vs0o24F0jzz22QGUC",
+  "snapshot_id": "AAAAAOqzL5OjutTvPKAgJV1sUP5l7tAK",
   "tracks": [
     {
       "added_at": "2026-02-20 05:00:45",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 245732,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 245732,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
+        "name": "Light That Match",
+        "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
+      },
+      "artists": [
+        {
+          "name": "Down Like Silver",
+          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "Light That Match",
+      "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
         "name": "Good Guy (feat. Faye Webster)",
         "url": "https://open.spotify.com/album/6Ouzph5Hu9vK5cBP84ZaTW"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 241548,
       "name": "Good Guy - feat. Faye Webster",
       "url": "https://open.spotify.com/track/3SeFOhYky0cIaoEhf9cEs3"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "Light That Match",
-        "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
-      },
-      "artists": [
-        {
-          "name": "Down Like Silver",
-          "url": "https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "Light That Match",
-      "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Waves (Guitar Acoustic)",
-        "url": "https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 248427,
-      "name": "Waves - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+        "name": "Waves (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 153850,
-      "name": "Buffalo Replaced - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
+      "duration_ms": 248427,
+      "name": "Waves - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1167,6 +1151,22 @@
       "duration_ms": 214808,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/32zRM6N7CqNCsPR7innQNu"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 153850,
+      "name": "Buffalo Replaced - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
     },
     {
       "added_at": "2026-02-20 05:00:45",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-02-20 05:00:45",
       "album": {
+        "name": "Afraid of Nothing",
+        "url": "https://open.spotify.com/album/6dx3PkUd6rUBC5CaVShL0N"
+      },
+      "artists": [
+        {
+          "name": "Harrison Whitford",
+          "url": "https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8"
+        }
+      ],
+      "duration_ms": 228441,
+      "name": "Salvation Army",
+      "url": "https://open.spotify.com/track/2WKH12vONrIi0NWdUsPM5y"
+    },
+    {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
         "name": "Ever New (Reworked by Bon Iver & Flock Of Dimes)",
         "url": "https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 235474,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "Afraid of Nothing",
-        "url": "https://open.spotify.com/album/6dx3PkUd6rUBC5CaVShL0N"
-      },
-      "artists": [
-        {
-          "name": "Harrison Whitford",
-          "url": "https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8"
-        }
-      ],
-      "duration_ms": 228441,
-      "name": "Salvation Army",
-      "url": "https://open.spotify.com/track/2WKH12vONrIi0NWdUsPM5y"
     },
     {
       "added_at": "2026-02-20 05:00:45",

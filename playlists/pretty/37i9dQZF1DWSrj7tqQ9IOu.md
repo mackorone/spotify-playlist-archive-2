@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,452 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,441 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 15 | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk) | 2:02 |
 | 16 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
 | 17 | [ZWINA](https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZWINA](https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt) | 2:26 |
-| 18 | [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 |
-| 19 | [Blood](https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Role Model Hermit](https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh) | 3:56 |
+| 18 | [Blood](https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Role Model Hermit](https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh) | 3:56 |
+| 19 | [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 |
 | 20 | [Toxic](https://open.spotify.com/track/0PzKXHZLlax3utLHSAAsiF) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Toxic](https://open.spotify.com/album/4S2OSc9WPy2QK6FabRqurE) | 2:44 |
 | 21 | [what u want](https://open.spotify.com/track/68icwERFCZaV107eHjqt77) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [what u want](https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo) | 2:45 |
-| 22 | [U&I](https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [U&I](https://open.spotify.com/album/7l5I1MGwDI6j4l8wSwMs9C) | 2:32 |
-| 23 | [LA VAR](https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w) | [Supremnova](https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR), [Jemma's Palace](https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ) | [LA VAR](https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7) | 1:42 |
+| 22 | [LA VAR](https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w) | [Supremnova](https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR), [Jemma's Palace](https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ) | [LA VAR](https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7) | 1:42 |
+| 23 | [U&I](https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [U&I](https://open.spotify.com/album/7l5I1MGwDI6j4l8wSwMs9C) | 2:32 |
 | 24 | [creeper](https://open.spotify.com/track/2Dw0lHrjRQjDIM44WOU0Ao) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [creeper + seed](https://open.spotify.com/album/6ztPWOeqHhdfndBwbjlk25) | 2:40 |
 | 25 | [QVC \(feat\. Leon Thomas\)](https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 3:04 |
 | 26 | [TEMPERATURE](https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [TEMPERATURE](https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy) | 2:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [Piscine de billets avec débordement](https://open.spotify.com/track/6aWTFEVWMVPUccV0kqQqAX) | [Lexsaburo](https://open.spotify.com/artist/4gdGGF5b5CmhxYophp5yRz), [Oni Kira](https://open.spotify.com/artist/4whmrth50Dva4FQMy3qAv4) | [Tivoli](https://open.spotify.com/album/2a4RR5W80WHsCWK0jJhW78) | 2:22 |
 | 40 | [endless blooming](https://open.spotify.com/track/1rSMBhv5oAKhHxprdZf21G) | [Kaba](https://open.spotify.com/artist/18BCzFFTNty1NeevlaCjuN), [Hyas](https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA), [Goldie B](https://open.spotify.com/artist/0jFDyXLQ2Dx2TcjDOFZ0dv) | [endless blooming](https://open.spotify.com/album/7JrZPjTyVE4A0Vn9Qiq59E) | 3:49 |
 
-Snapshot ID: `AAAAANSXQkCKUf70JuMb8Iz/ioTONXHk`
+Snapshot ID: `AAAAACX4JYyGTcvUnObJXYLOXJx7kMnu`

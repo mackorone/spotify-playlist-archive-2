@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,502 likes - 70 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,506 likes - 70 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 13 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 | 14 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 15 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
-| 16 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
-| 17 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
+| 16 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
+| 17 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
 | 18 | [Palermo](https://open.spotify.com/track/3rtPfogqDQQB392GBadZ3C) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Palermo / Fractals](https://open.spotify.com/album/2yfg6aVt4CCtc8AH3YuRqM) | 3:15 |
 | 19 | [Graf Zahl](https://open.spotify.com/track/33R7eq2Yqrhjz7eP6XhCsy) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Graf Zahl](https://open.spotify.com/album/4q2KNOVojE0HcBNrjdk8RW) | 5:32 |
 | 20 | [Spectrum](https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Unspoken Words](https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk) | 4:45 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 54 | [What If I](https://open.spotify.com/track/5bGqDdq1N19rshIU3WXAcr) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [What If I](https://open.spotify.com/album/0OrRBSXrvdMEpwrx0S5TU0) | 5:54 |
 | 55 | [Harlem River](https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Harlem River / Falling](https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7) | 4:37 |
 | 56 | [Downfall](https://open.spotify.com/track/6m5dRfSREMsgBZsmKSRzNX) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Downfall](https://open.spotify.com/album/2ts9b0wTzLd7EQoNUrGGWi) | 3:14 |
-| 57 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
-| 58 | [Eye of the Storm](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Ivy Purple](https://open.spotify.com/artist/0kHMWR7Mbh9rkQGgjVtdOF) | [Eye of the Storm](https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw) | 7:38 |
+| 57 | [Eye of the Storm](https://open.spotify.com/track/0J5RmlZclG6vzuU4p6EDiu) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Ivy Purple](https://open.spotify.com/artist/0kHMWR7Mbh9rkQGgjVtdOF) | [Eye of the Storm](https://open.spotify.com/album/61I90KD5xtxdSutb8LJxCw) | 7:38 |
+| 58 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
 | 59 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
 | 60 | [Eyes Alive](https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [Eyes Alive](https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5) | 6:05 |
 | 61 | [Oh, Lover \- NTO Remix](https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Oh, Lover \(NTO Remix\)](https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N) | 5:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 |
 | 70 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
 
-Snapshot ID: `AAAAAN+AGEID7OEHpGenNHZHMDS8nnLB`
+Snapshot ID: `AAAAAK0ws/ufJShMXPwwBP15yY2cNc1z`

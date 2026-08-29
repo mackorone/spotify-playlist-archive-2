@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOz2BqXwdkF.md) - [plain]
 
 > Love was never part of the deal\. Listen to the music from and inspired by Off Campus, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,337 likes - 96 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,112 likes - 96 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOz2BqXwdkF.md) - [plain]
 | 51 | [Baby Now That I Found You](https://open.spotify.com/track/3pnVh7sYDBQ9D2tkKAWnhs) | [Ella Bright](https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr) | [Off Campus: The Mixtape](https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN) | 2:11 |
 | 52 | [Sex, Drugs & Existential Dread](https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sex, Drugs & Existential Dread](https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0) | 2:35 |
 | 53 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
-| 54 | [Whiplash \(English Version\)](https://open.spotify.com/track/4YHeXM7mgLvxpvaUGnybGK) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \(English Version\)](https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er) | 3:03 |
+| 54 | [Whiplash \- English Version](https://open.spotify.com/track/4YHeXM7mgLvxpvaUGnybGK) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \(English Version\)](https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er) | 3:03 |
 | 55 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 |
 | 56 | [Bluest Flame \- DJ Sliink Remix](https://open.spotify.com/track/1xcbBJGVb2TfqL39E3tAuh) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:44 |
 | 57 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOz2BqXwdkF.md) - [plain]
 | 95 | [Welcome To Briar U](https://open.spotify.com/track/6hoeHG1SBfpfDxPtksN9gM) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Off Campus \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/4KrtTOH0ofyACrbM6V1daP) | 0:36 |
 | 96 | [Sleeping \(Hannah & Garrett Theme\)](https://open.spotify.com/track/1koGvzvltFe1645XVYrhI3) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Off Campus \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/4KrtTOH0ofyACrbM6V1daP) | 2:58 |
 
-Snapshot ID: `AAAAALTEQTeVBz7r1kVw06EDD/olirCk`
+Snapshot ID: `AAAAAPjhJBIzhS84MyTWM3abLJNOqKQO`

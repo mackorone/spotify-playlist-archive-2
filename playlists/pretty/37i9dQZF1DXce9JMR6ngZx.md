@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,138 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,176 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 55 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
 | 56 | [Just Like Heaven \- Remastered 2006](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me \(Remastered 2006\)](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
 | 57 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
-| 58 | [Pride \(In The Name Of Love\) \- Remastered 2009](https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 3:48 |
-| 59 | [Eduardo E Mônica](https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 4:31 |
+| 58 | [Eduardo E Mônica](https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 4:31 |
+| 59 | [Pride \(In The Name Of Love\) \- Remastered 2009](https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 3:48 |
 | 60 | [Meu Erro](https://open.spotify.com/track/7pn5QXr2LTeGsgHyCaJxDo) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [O Passo Do Lui](https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ) | 3:28 |
 | 61 | [Menina Veneno](https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Vôo de Coração](https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt) | 4:41 |
 | 62 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 89 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
 | 90 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
 | 91 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 |
-| 92 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
-| 93 | [Strangelove](https://open.spotify.com/track/2dQd2qrFB5VtuUMp45G41p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:54 |
+| 92 | [Strangelove](https://open.spotify.com/track/2dQd2qrFB5VtuUMp45G41p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:54 |
+| 93 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
 | 94 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
 | 95 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 |
 | 96 | [Que Pais É Este](https://open.spotify.com/track/1bqRtNOcT1QiV1j87IoATA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Que Pais E Este](https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe) | 2:58 |
 | 97 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [LOVE](https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi) | 4:49 |
 | 98 | [Lilás](https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Lilás](https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX) | 4:43 |
-| 99 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
-| 100 | [Marvin \- Ao vivo](https://open.spotify.com/track/0z4fJEy4zHxM4SkPUk5XEX) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Go Back \(Ao vivo\)](https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm) | 4:21 |
+| 99 | [Marvin \- Ao vivo](https://open.spotify.com/track/0z4fJEy4zHxM4SkPUk5XEX) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Go Back \(Ao vivo\)](https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm) | 4:21 |
+| 100 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
 
-Snapshot ID: `AAAAAKp7SwUpC2yOsSZQrum7oLbLrYh4`
+Snapshot ID: `AAAAAJ0fUl5grOmS8wVzYg2BPUzL3378`

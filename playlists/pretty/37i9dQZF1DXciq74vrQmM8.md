@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. lake malice
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,696 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,649 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [home2hide](https://open.spotify.com/track/08nerOhK5AVYPSKhBr1uz3) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [home2hide](https://open.spotify.com/album/5aF9YbOB33YQY4B5nYOOnE) | 4:00 |
 | 80 | [Hills](https://open.spotify.com/track/5rYljsBhSYb1pSPBWg8Lhn) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hills](https://open.spotify.com/album/3PXs10CFjZCsW4pRoceGXN) | 2:20 |
 
-Snapshot ID: `AAAAAKJkgHFHUjucNRD38/9QwKxrx4m5`
+Snapshot ID: `AAAAAH9alaUK902MGxra5e7yLa+U7qLf`

@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 15137,
+  "num_followers": 15136,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMQGvhYAKQ4mfkWlQKnCOoa5Tdg2",
+  "snapshot_id": "AAAAAC+Lx32mrUgvQId786wJVas0TuZ2",
   "tracks": [
     {
       "added_at": "2025-12-03 12:16:13",
@@ -543,18 +543,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Knock Me Off My Feet",
-        "url": "https://open.spotify.com/album/26u0sUGviB0cRFSHIQpbs0"
+        "name": "BRIGHT",
+        "url": "https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P"
       },
       "artists": [
         {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+          "name": "Atura",
+          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
+        },
+        {
+          "name": "Simona Shao",
+          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
         }
       ],
-      "duration_ms": 141079,
-      "name": "Knock Me Off My Feet",
-      "url": "https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl"
+      "duration_ms": 229859,
+      "name": "BRIGHT",
+      "url": "https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -591,26 +595,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "BRIGHT",
-        "url": "https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P"
-      },
-      "artists": [
-        {
-          "name": "Atura",
-          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
-        },
-        {
-          "name": "Simona Shao",
-          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
-        }
-      ],
-      "duration_ms": 229859,
-      "name": "BRIGHT",
-      "url": "https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "idk",
         "url": "https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 173553,
       "name": "idk",
       "url": "https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Knock Me Off My Feet",
+        "url": "https://open.spotify.com/album/26u0sUGviB0cRFSHIQpbs0"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 141079,
+      "name": "Knock Me Off My Feet",
+      "url": "https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Object Permanence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 251076,
-      "name": "You Could Hate Me",
-      "url": "https://open.spotify.com/track/4FW012Xh3vSGRmw4rpGLAR"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "other boys are boring",
         "url": "https://open.spotify.com/album/64pyxehnihFcz81L645ezR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 140518,
       "name": "other boys are boring",
       "url": "https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Object Permanence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 251076,
+      "name": "You Could Hate Me",
+      "url": "https://open.spotify.com/track/4FW012Xh3vSGRmw4rpGLAR"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "Goodbyehouse",
         "url": "https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 164583,
       "name": "Woman Lake",
       "url": "https://open.spotify.com/track/13jIYWdJqaXqON3URRS6Q3"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
       "added_at": "2025-12-03 12:16:13",

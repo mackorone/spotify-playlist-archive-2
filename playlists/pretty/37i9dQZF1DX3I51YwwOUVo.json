@@ -1,12 +1,12 @@
 {
   "description": "Get to know our 2026 Artists to Watch.",
-  "num_followers": 10554,
+  "num_followers": 10575,
   "original_name": "Artists To Watch 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOPAC1QLY1Eq6/RUEjVKFX4DbRZ3",
+  "snapshot_id": "AAAAAA9RT4WvSEZVu6goO8+qxY3bbSeK",
   "tracks": [
     {
       "added_at": "2026-01-12 16:30:22",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-01-12 16:30:22",
       "album": {
-        "name": "DAISY",
-        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "malibU",
-      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
-    },
-    {
-      "added_at": "2026-01-12 16:30:22",
-      "album": {
         "name": "DIOS POR DELANTE",
         "url": "https://open.spotify.com/album/3Tq4UKvhptnjeBCG1xFDtz"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 214473,
       "name": "DIOS POR DELANTE",
       "url": "https://open.spotify.com/track/08YpPMWRDp6FwHWivbwOkw"
+    },
+    {
+      "added_at": "2026-01-12 16:30:22",
+      "album": {
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "malibU",
+      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
     },
     {
       "added_at": "2026-01-12 16:30:22",

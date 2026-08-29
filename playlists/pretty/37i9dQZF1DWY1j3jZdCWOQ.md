@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain minus the S =
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,246 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,325 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,16 +42,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 32 | [Face Down](https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:12 |
 | 33 | [SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA) | 2:27 |
 | 34 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 |
-| 35 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
-| 36 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
+| 35 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
+| 36 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 | 37 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 |
 | 38 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 39 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 40 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 41 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
 | 42 | [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 3:18 |
-| 43 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 |
-| 44 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 |
+| 43 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 |
+| 44 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 |
 | 45 | [Restless](https://open.spotify.com/track/51KaHmxJMv3AdbLohb6woO) | [untitled](https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx) | [Restless](https://open.spotify.com/album/3qVPWXNRQol9jACnhVrLVk) | 2:53 |
 | 46 | [The Drug In Me Is You](https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:38 |
 | 47 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 |
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 142 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 |
 | 143 | [I Threw Glass at My Friend's Eyes and Now I'm on Probation](https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 2:37 |
 | 144 | [LOSER!!](https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [LOSER!!](https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD) | 3:48 |
-| 145 | [You Stupid Bitch](https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:15 |
-| 146 | [Cigarette Ahegao](https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:03 |
-| 147 | [Twin Size Mattress](https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4) | 4:24 |
+| 145 | [Twin Size Mattress](https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4) | 4:24 |
+| 146 | [You Stupid Bitch](https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:15 |
+| 147 | [Cigarette Ahegao](https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:03 |
 | 148 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 |
 | 149 | [how could you do this to me?](https://open.spotify.com/track/3fLCfvAGhyi8i4MfBjHCLB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:40 |
 | 150 | [Hell](https://open.spotify.com/track/1DNrgnLWqHEC7CfTSRuvvW) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Hell](https://open.spotify.com/album/5f11kxQydj1NJONC9URJsU) | 2:06 |
 
-Snapshot ID: `AAAAALp55fNJ+Elt/+hustBJBRMK1KvM`
+Snapshot ID: `AAAAAOx5/ggwYHNlzZknMRDga1yOjFs8`

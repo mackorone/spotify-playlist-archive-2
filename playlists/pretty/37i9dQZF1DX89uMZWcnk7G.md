@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 
 > no sé porque no fuiste sincero..\. esta es para ti 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,415 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,406 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
+| 1 | [Tus Mentiras \- En Vivo](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 2 | [Él Me Mintió](https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 3:41 |
 | 3 | [Tu Infame Engaño](https://open.spotify.com/track/4j9qP0PaNo3QMFkKNtv7At) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 3:19 |
 | 4 | [La Trampa](https://open.spotify.com/track/3wqHXGjQEE5WEqCKcg8kPp) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [La Trampa](https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN) | 3:12 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89uMZWcnk7G.md) - [plain]
 | 24 | [Venganza Divina](https://open.spotify.com/track/65bERp97GR2DfCRsTrMWKU) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Corridos Pesadísimos](https://open.spotify.com/album/44YiDqXDLFF0ipL8U6tQXa) | 2:41 |
 | 25 | [La Venganza de Maria](https://open.spotify.com/track/2ADwZLQpDHJSLVJz7jRaGx) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:08 |
 
-Snapshot ID: `AAAAAJuZ0lPxn5lDbIiLRjsML9R+Tdvq`
+Snapshot ID: `AAAAALQb3n7cPzTwUl/oKbkDvXgKL2hk`

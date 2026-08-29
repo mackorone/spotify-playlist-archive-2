@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,073 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,134 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 11 | [Ojalá](https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ojalá](https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5) | 3:00 |
 | 12 | [Duelo](https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Duelo](https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy) | 2:52 |
 | 13 | [Estuve Ahí](https://open.spotify.com/track/7lkoSBTAVsOAZFko4ONiCo) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Que Tin y Que Tan](https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu) | 2:15 |
-| 14 | [EAVEMARÍA](https://open.spotify.com/track/4hsCp1AwBQwLgrV4qQNE21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [EAVEMARÍA](https://open.spotify.com/album/4HihmUvifnIJeOcJVnxeBq) | 2:18 |
-| 15 | [Paz Mental](https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Paz Mental](https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze) | 3:29 |
-| 16 | [Mi Reina](https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 3:03 |
-| 17 | [Sin Ti Estoy Bien](https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Sin Ti Estoy Bien](https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw) | 3:41 |
+| 14 | [Paz Mental](https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Paz Mental](https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze) | 3:29 |
+| 15 | [EAVEMARÍA](https://open.spotify.com/track/4hsCp1AwBQwLgrV4qQNE21) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [EAVEMARÍA](https://open.spotify.com/album/4HihmUvifnIJeOcJVnxeBq) | 2:18 |
+| 16 | [Sin Ti Estoy Bien](https://open.spotify.com/track/0aaKa3qQwpybtg9zqQMcL1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Sin Ti Estoy Bien](https://open.spotify.com/album/2jaoLU7vWAxtoVhDuFSnTw) | 3:41 |
+| 17 | [Mi Reina](https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 3:03 |
 | 18 | [Nunca Tuve Tanto](https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c) | 2:49 |
 | 19 | [En Tu Boca El Humo Me Sabe Mejor](https://open.spotify.com/track/53wSngFr6eC0yazPNJQmtg) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [En Tu Boca El Humo Me Sabe Mejor](https://open.spotify.com/album/13v0zqnBRZqZT69JGUNgVl) | 3:18 |
 | 20 | [Los No Tan Tristes](https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 |
 | 50 | [Sólo Lo Haces Tú](https://open.spotify.com/track/1kkzu6mq0HV9UjPB8Xo2lT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sólo Lo Haces Tú](https://open.spotify.com/album/43VUKcCmkvabI567ONaMyy) | 2:21 |
 
-Snapshot ID: `ao4sgAAAAAAkNnOUlJ8PYk/gSTQxwEyh`
+Snapshot ID: `ao9+AAAAAADN5+0YKKT+Ht381Nhgbtig`

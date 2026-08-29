@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,214 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,208 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 46 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
 | 47 | [Cobertor de Orelha \- Ao Vivo](https://open.spotify.com/track/5tDIwLvi7AaoY4pkA7pUBv) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Cobertor de Orelha \(Ao Vivo\)](https://open.spotify.com/album/6BFfpdvgimAEgtS8szfesm) | 2:36 |
 | 48 | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Doguinha](https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL), [MC Pupio](https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw) | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK) | 3:04 |
-| 49 | [Vem \- Ao Vivo](https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Laje 67 \(Ao Vivo\)](https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u) | 3:14 |
-| 50 | [Tudo Ok](https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Mila](https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Tudo Ok](https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA) | 2:58 |
+| 49 | [Tudo Ok](https://open.spotify.com/track/4HUZBG98TYbxSR9V1V2DWS) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Mila](https://open.spotify.com/artist/606eWexxNhc6Mj0RuCxMA9), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Tudo Ok](https://open.spotify.com/album/33h1DnrztGgynGDWwzQEiA) | 2:58 |
+| 50 | [Vem \- Ao Vivo](https://open.spotify.com/track/2xK5QiyUZufKPSvB7bLHxa) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Laje 67 \(Ao Vivo\)](https://open.spotify.com/album/7qlRgh3d6oIFPdfOPs7I5u) | 3:14 |
 | 51 | [Terra Sem CEP \- Ao Vivo](https://open.spotify.com/track/2U94QDSo9N4e1iXrjo7KAB) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:57 |
 | 52 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
 | 53 | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 69 | [Contatinho \(feat\. Luan Santana\)](https://open.spotify.com/track/47zBTlbsiXs9ooyPo7Z7VT) | [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Contatinho \(feat\. Luan Santana\)](https://open.spotify.com/album/2HYVLeXZVCgSTrwBxtV9za) | 3:00 |
 | 70 | [Só Vem! \- Ao Vivo](https://open.spotify.com/track/4bXwQ9ZcMjoN28b4J9bykr) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Só Vem! \(ao Vivo\) \- Deluxe](https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV) | 3:15 |
 
-Snapshot ID: `AAAAALaO3mtY3D3y3BXcAhuP6zMcqXIg`
+Snapshot ID: `AAAAAFHaQkDrSWa9t95AGykRn70NLzCV`

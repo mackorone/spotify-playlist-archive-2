@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,300 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,303 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 5 | [Kind](https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Kind](https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8) | 4:07 |
 | 6 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
 | 7 | [My Girl](https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [My Girl](https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR) | 3:05 |
-| 8 | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64) | 2:39 |
-| 9 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
+| 8 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
+| 9 | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/track/3ruJjAt0eybFoPw0g0h7ZT) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Scared To Start \(feat\. Joy Oladokun\)](https://open.spotify.com/album/0q98KV3tR3VAgP0W1wsO64) | 2:39 |
 | 10 | [Miles Away](https://open.spotify.com/track/2WQqvurvxYL66vN8dWj55I) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Miles Away](https://open.spotify.com/album/5M91Xs1ghKkipZgS3wjrj9) | 2:57 |
 | 11 | [Friends \(with Mt\. Joy\)](https://open.spotify.com/track/4smxhbkhynwlqp8cjVxuxg) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:21 |
 | 12 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 37 | [wish you the best \(feat\. Jensen McRae\)](https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:12 |
 | 38 | [STRONG ONES](https://open.spotify.com/track/2ZHO25QseXKr2ip1vuXvOg) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 2:29 |
 | 39 | [Blink Twice](https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Blink Twice](https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT) | 3:17 |
-| 40 | [Carry](https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:02 |
+| 40 | [Shelter](https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 3:55 |
 | 41 | [Sober](https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Sober](https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs) | 3:21 |
 | 42 | [AM I?](https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:16 |
 | 43 | [Count On Me](https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 3:16 |
-| 44 | [Shelter](https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 3:55 |
+| 44 | [Carry](https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Carry](https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt) | 4:02 |
 | 45 | [All My Time](https://open.spotify.com/track/3uO6Mi35UGMVA6tHmBFusV) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [All My Time](https://open.spotify.com/album/4qeBLSYWpeGjrJzElRrhip) | 3:02 |
 | 46 | [QUESTIONS, CHAOS & FAITH](https://open.spotify.com/track/1bHUfLczpJKKgyB5OKlBbE) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:57 |
 | 47 | [brick by brick](https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 49 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 |
 | 50 | [LETTER FROM A BLACKBIRD](https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 2:13 |
 
-Snapshot ID: `ao4sgAAAAABDFKTRS9VceO7mNjuk7BL5`
+Snapshot ID: `ao9+AAAAAAB8VDaKAmZT8fv4xFPXc3Qu`

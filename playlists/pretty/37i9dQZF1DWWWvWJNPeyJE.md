@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,685 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,743 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,21 +61,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 51 | [Needs](https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [All Have Fallen](https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9) | 3:25 |
 | 52 | [Made Love First](https://open.spotify.com/track/21csDNj3WqMPYDzW996UHL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Gossip Columns](https://open.spotify.com/album/4OmqJXPhD5FOqwdg5tBsnu) | 3:45 |
 | 53 | [Lessons in Love](https://open.spotify.com/track/4JVdfd11wMY1yOXblCTskJ) | [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Three Kings](https://open.spotify.com/album/4q9nPVz5Nt6KEqtcxk6SI8) | 3:53 |
-| 54 | [Right Now](https://open.spotify.com/track/0b4FXtGKqER9amOifVngHm) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Rough Drafts, Pt\. 1](https://open.spotify.com/album/2YM0TUs9WDl0abwVQ5xlYP) | 4:49 |
-| 55 | [get me started \(feat\. syd\)](https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 2:49 |
+| 54 | [get me started \(feat\. syd\)](https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 2:49 |
+| 55 | [Right Now](https://open.spotify.com/track/0b4FXtGKqER9amOifVngHm) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Rough Drafts, Pt\. 1](https://open.spotify.com/album/2YM0TUs9WDl0abwVQ5xlYP) | 4:49 |
 | 56 | [Alone](https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Alone](https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig) | 2:49 |
 | 57 | [Friendly Skies \(feat\. Ginuwine\)](https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:59 |
 | 58 | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u) | 3:12 |
-| 59 | [Rock wit Me \(feat\. IAMSU!\)](https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [In My Feelings](https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a) | 3:24 |
-| 60 | [Lights On](https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 2](https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX) | 3:39 |
-| 61 | [Balcony](https://open.spotify.com/track/3CBwK6H17WEX6qkVZsVVDo) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Balcony](https://open.spotify.com/album/0lIPzAZfD2t5wfOGbHr8fL) | 2:48 |
+| 59 | [Balcony](https://open.spotify.com/track/3CBwK6H17WEX6qkVZsVVDo) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Balcony](https://open.spotify.com/album/0lIPzAZfD2t5wfOGbHr8fL) | 2:48 |
+| 60 | [Rock wit Me \(feat\. IAMSU!\)](https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [In My Feelings](https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a) | 3:24 |
+| 61 | [Lights On](https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 2](https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX) | 3:39 |
 | 62 | [All You Need](https://open.spotify.com/track/7jtmFB5v6jXFsX6zVccf1U) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:44 |
 | 63 | [F With U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2kHdu1N31NkD5roBf1EHh7) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [F With U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/6d2MsVWqoCbMWCKiHtDE2r) | 2:59 |
 | 64 | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/track/1CkNm4gprWnFCdiHGoql5C) | [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/album/3dEOPmRGGZF1g9OOd3wvs2) | 3:39 |
 | 65 | [Waiting for You](https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Waiting for You](https://open.spotify.com/album/14md98nP3ELQss8GguD6dt) | 3:31 |
 | 66 | [Body](https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Body](https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im) | 4:22 |
-| 67 | [Easy \(feat\. 6LACK\)](https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX) | [Next Town Down](https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Easy \(feat\. 6LACK\)](https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb) | 3:24 |
-| 68 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 |
+| 67 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 |
+| 68 | [Easy \(feat\. 6LACK\)](https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX) | [Next Town Down](https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Easy \(feat\. 6LACK\)](https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb) | 3:24 |
 | 69 | [Lay Yo Head](https://open.spotify.com/track/31r9G4vYv3AprvPJM7AsX9) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [11](https://open.spotify.com/album/5Pp9dmBGExH4FNLlaLsLde) | 3:44 |
 | 70 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
 | 71 | [Nov 12](https://open.spotify.com/track/1ZzbD3g1K6LY2S1w5cdowm) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [Nov 12](https://open.spotify.com/album/6QCz4rp100thq8ax0CN2Ek) | 7:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 79 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 |
 | 80 | [Jazmine \(Lights Low\)](https://open.spotify.com/track/0Ljvg59UWrTiwSmRbcU9ZK) | [Mont Jake](https://open.spotify.com/artist/19rpW44F6JtXkC8TrK6VBD) | [Jazmine \(Lights Low\)](https://open.spotify.com/album/2OSfGonDcYgvCGHngFTRFC) | 3:37 |
 
-Snapshot ID: `AAAAAPzVDKVPvCONkoOT5f1fGYrDmk5+`
+Snapshot ID: `AAAAALKESADN5I+QiY3tzVg47YY03bYG`

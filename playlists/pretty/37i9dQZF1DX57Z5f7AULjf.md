@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 
 > we outside all summer 2026!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,028 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,029 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 26 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |
 | 27 | [Spin Bout U](https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:34 |
 | 28 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 |
-| 29 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
-| 30 | [Never Lose Me](https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:05 |
+| 29 | [Never Lose Me](https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:05 |
+| 30 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
 | 31 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 |
 | 32 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
 | 33 | [SOMETHING ABOUT YOU](https://open.spotify.com/track/1F6nHHDJyTHLgDDFj1ZZDt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57Z5f7AULjf.md) - [plain]
 | 49 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
 | 50 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 
-Snapshot ID: `AAAAAFbqggtC3Hn0eq8IPNSBqFVUsIGE`
+Snapshot ID: `AAAAAMrN1sxyvXVuC21J+g5Ee6bfaeIq`

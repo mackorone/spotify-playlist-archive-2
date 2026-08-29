@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,008 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,010 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,20 +65,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 55 | [erotika](https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [elterelés](https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc) | 2:48 |
 | 56 | [kamera](https://open.spotify.com/track/0lFWkfW4AshK7Fz451VdWl) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 2:42 |
 | 57 | [DUMDUM](https://open.spotify.com/track/7ppCZOGHW33FT9d9NWh1kY) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [DUMDUM](https://open.spotify.com/album/74DQzDPzD0euWtsnBClgYH) | 2:35 |
-| 58 | [PANASONIC](https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 3:08 |
-| 59 | [TOP TIER \- SPACCONE](https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [TOP TIER \(SPACCONE\)](https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx) | 2:02 |
+| 58 | [TOP TIER \- SPACCONE](https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [TOP TIER \(SPACCONE\)](https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx) | 2:02 |
+| 59 | [PANASONIC](https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 3:08 |
 | 60 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 |
-| 61 | [Ha bukok](https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Ha bukok](https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd) | 2:19 |
-| 62 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
+| 61 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
+| 62 | [Ha bukok](https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Ha bukok](https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd) | 2:19 |
 | 63 | [KERTES HÁZ](https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [KERTES HÁZ](https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd) | 2:19 |
 | 64 | [EMELEM A TÉTET](https://open.spotify.com/track/7IpQfpX3nNGfxlTBjB2CLl) | [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0) | [EMELEM A TÉTET](https://open.spotify.com/album/0v7us2KpvvfQV6IP1zwUDp) | 2:33 |
-| 65 | [utema](https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [utema](https://open.spotify.com/album/0QP8g8K8Njgn4xoWLJMUuF) | 3:56 |
-| 66 | [Beszívom](https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Beszívom](https://open.spotify.com/album/4yAG1pxLUJ6MVVjfWvCAeb) | 2:56 |
+| 65 | [Beszívom](https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Beszívom](https://open.spotify.com/album/4yAG1pxLUJ6MVVjfWvCAeb) | 2:56 |
+| 66 | [utema](https://open.spotify.com/track/6rrn0Jzt0dDSQ9B1ZBiuCt) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [utema](https://open.spotify.com/album/0QP8g8K8Njgn4xoWLJMUuF) | 3:56 |
 | 67 | [BULLSHIT](https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [BULLSHIT](https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW) | 2:18 |
 | 68 | [DADDY](https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [HATALMASABB, MINT GONDOLNÁD](https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O) | 2:17 |
 | 69 | [Fújj meg szél](https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Suttog a szél](https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY) | 4:31 |
-| 70 | [TITANIK](https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [GHO$TY](https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX) | [TITANIK](https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP) | 2:43 |
-| 71 | [Pesti bárdok](https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Pesti bárdok](https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8) | 5:55 |
+| 70 | [Pesti bárdok](https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Pesti bárdok](https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8) | 5:55 |
+| 71 | [TITANIK](https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [GHO$TY](https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX) | [TITANIK](https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP) | 2:43 |
 | 72 | [Midnight \(The Hanging Tree\)](https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs), [1979](https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6), [Jalja](https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R) | [Midnight \(The Hanging Tree\)](https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh) | 2:58 |
 | 73 | [WAY TOO HIGH](https://open.spotify.com/track/17WIFL0Bicx4Eo3133nu4S) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [SAVAGE](https://open.spotify.com/album/1vKMG0YR60YQc6L3pQ6Gaj) | 2:37 |
 | 74 | [Gate Closed](https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Four Seasons \- Spring](https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc) | 2:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 79 | [Rollercoaster](https://open.spotify.com/track/0e0rMDNx3D0xMgOAcZQ2rj) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Four Seasons \- Winter](https://open.spotify.com/album/6kCXNTI1ssjhzbKhdut4nA) | 2:11 |
 | 80 | [Diagram](https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Diagram](https://open.spotify.com/album/0H4p2cpNeUeKL4Zn5BddfM) | 3:23 |
 
-Snapshot ID: `AAAAAHKYGVuffEqKZxxmtUVT0pkIpqoS`
+Snapshot ID: `AAAAAA/dExNcZOz4O4y4upQzgLqG/dkk`

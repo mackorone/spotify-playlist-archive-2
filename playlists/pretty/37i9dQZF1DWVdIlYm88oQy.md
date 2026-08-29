@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > The Latin soundtrack of the 70s! Cover: Julio Iglesias
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,678 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,724 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 49 | [Lucia](https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 3:03 |
 | 50 | [No Tengo Dinero](https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:06 |
 
-Snapshot ID: `AAAAAFxNDwd9aiSWN+blN7JhuY6JmX5V`
+Snapshot ID: `AAAAAAlcOEjbqPsIg/97vfjm0UVBcerg`

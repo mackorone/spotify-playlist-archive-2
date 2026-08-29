@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar\. Foto: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,856 likes - 90 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,116 likes - 90 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 57 | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d) | 4:24 |
 | 58 | [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 |
 | 59 | [Si Supieras](https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 5:11 |
-| 60 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
-| 61 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
+| 60 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
+| 61 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 | 62 | [Temperatura](https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Picadillo A La Criolla](https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv) | 4:50 |
 | 63 | [A Donde Iras](https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:06 |
 | 64 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 82 | [Dicen Que Soy](https://open.spotify.com/track/6Lr6DGoVF77bNdHsfiwfPZ) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:41 |
 | 83 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 |
 | 84 | [Enamórate Bailando](https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV) | 4:27 |
-| 85 | [Camino al Barrio \- Remastered 2026](https://open.spotify.com/track/2x2ZB7JPPc7zvGKrvmqZUd) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [El Baquiné de Angelitos Negros \(Remastered 2026\)](https://open.spotify.com/album/61KpECMgFWUqWOTZdLedDd) | 3:32 |
-| 86 | [Amor Traicionero](https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 4:46 |
+| 85 | [Amor Traicionero](https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 4:46 |
+| 86 | [Camino al Barrio \- Remastered 2026](https://open.spotify.com/track/2x2ZB7JPPc7zvGKrvmqZUd) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [El Baquiné de Angelitos Negros \(Remastered 2026\)](https://open.spotify.com/album/61KpECMgFWUqWOTZdLedDd) | 3:32 |
 | 87 | [El Faisán](https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH) | 8:22 |
 | 88 | [Lagrimas](https://open.spotify.com/track/1xygRDEU3ZI63I3gISgAVn) | [Los Bravos de Panama](https://open.spotify.com/artist/6Lbj575WtaBDArzLuB3Vog) | [Salsa Dura, Vol\. 5](https://open.spotify.com/album/1uRY3jqUxtHVxvNdxD6dlR) | 6:35 |
 | 89 | [Comerte a Besos \- Salsa Version](https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Mario de Jesús](https://open.spotify.com/artist/6XjFh7IQknY7HAncX72nCU), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Por Tu Placer](https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f) | 4:29 |
 | 90 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 |
 
-Snapshot ID: `AAAAAM+TX0oveBaxPO7lyUeBytdPp92W`
+Snapshot ID: `AAAAAHVLbVc9VWauiY9bD6e9ZjeyUhX2`

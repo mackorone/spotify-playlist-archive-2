@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,612 likes - 121 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,622 likes - 121 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 120 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 |
 | 121 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 |
 
-Snapshot ID: `AAAAACvlrDi9CTvca9X9xUF+kNZoXDMV`
+Snapshot ID: `AAAAAJvaOE+i1vtU0gzVUplwZARzMwM9`

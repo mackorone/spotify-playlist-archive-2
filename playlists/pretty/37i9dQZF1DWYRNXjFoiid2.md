@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Pop to fuel your gaming\. Cover: CORTIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,794 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,845 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 8 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 |
 | 9 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 |
 | 10 | [GODDESS COMPLEX](https://open.spotify.com/track/3VQWf6zqSJXdKIyvNT9Rqn) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [GODDESS COMPLEX](https://open.spotify.com/album/1BW78TDmrECraMtBuBqjo1) | 2:28 |
-| 11 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
-| 12 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 |
+| 11 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 |
+| 12 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 |
 | 13 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 14 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 15 | [House Tour](https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:49 |
-| 16 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
-| 17 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 |
+| 16 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 |
+| 17 | [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 |
 | 18 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 |
 | 19 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 |
 | 20 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 29 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
 | 30 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 |
 | 31 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
-| 32 | [Devil in Disguise](https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Devil in Disguise](https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM) | 1:44 |
-| 33 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
+| 32 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
+| 33 | [Devil in Disguise](https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI) | [Devil in Disguise](https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM) | 1:44 |
 | 34 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 |
 | 35 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 36 | [Stephanie](https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Stephanie](https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk) | 2:06 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 58 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 59 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 |
 | 60 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
-| 61 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 |
-| 62 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 |
+| 61 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 |
+| 62 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 |
 | 63 | [That's When You Know](https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [That's When You Know](https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ) | 3:13 |
 | 64 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 65 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 99 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 |
 | 100 | [CRAZY \(English ver.\)](https://open.spotify.com/track/69MMbwpvp5I9QTIzJeinpe) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 |
 
-Snapshot ID: `AAAAAC750wgHa1pR5xeLTBybkvwW34NX`
+Snapshot ID: `AAAAAJ8g9mJ/zIXz/oS5xj4gcHTc4rsO`

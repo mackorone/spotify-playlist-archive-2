@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,241 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,231 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 4 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 |
 | 5 | [Abrázame](https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Abrázame](https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL) | 3:19 |
 | 6 | [Dime Cómo Quieres](https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw) | 2:51 |
-| 7 | [Prometiste \(En Vivo\)](https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa](https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 5:05 |
+| 7 | [Prometiste \- En Vivo](https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Melissa](https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 5:05 |
 | 8 | [Ahí Donde Me Ven](https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 4:04 |
 | 9 | [Tu Sangre en Mi Cuerpo](https://open.spotify.com/track/1EarUeWxzDC364EWOSXhNL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 3:58 |
 | 10 | [El Equivocado](https://open.spotify.com/track/6MO7vgGLIWE1fA40wuDxyV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35) | 2:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 45 | [Piensa en Mí](https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:46 |
 | 46 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 |
 | 47 | [Maldita Primavera](https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Yuri y Sus Amigos del Regional Mexicano](https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V) | 3:46 |
-| 48 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 1:53 |
-| 49 | [La Ley del Monte](https://open.spotify.com/track/59tgqSSqUMsEbwSG2GNr5X) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Tributo al Rey Con Banda \(Grandes Duetos Vol\. 1\)](https://open.spotify.com/album/2RSWtgg7UBSu2YuKI02Oug) | 3:05 |
+| 48 | [La Ley del Monte](https://open.spotify.com/track/59tgqSSqUMsEbwSG2GNr5X) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Tributo al Rey Con Banda \(Grandes Duetos Vol\. 1\)](https://open.spotify.com/album/2RSWtgg7UBSu2YuKI02Oug) | 3:05 |
+| 49 | [Amor, Amor de Mis Amores](https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 1:53 |
 | 50 | [Baila Esta Cumbia](https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 2:55 |
 
-Snapshot ID: `ao4sgAAAAACuWUYNFsdz7odpdvZRGJhe`
+Snapshot ID: `ao9+AAAAAADht3YVH33MdrOH2U5s72vh`

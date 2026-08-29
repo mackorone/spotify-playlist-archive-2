@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-588 songs - 1 day 7 hr 12 min
+590 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [MAKE BELIEVE](https://open.spotify.com/track/18w8b0tvqJyUGRb3O2Vice) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ), [Kazumi](https://open.spotify.com/artist/4mkTeXc0HFXcXFItgDMXak), [Hayden](https://open.spotify.com/artist/2JYPMgBbY6Or8BI27GV1YN) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:54 | 2024-07-22 | 2026-03-01 |
 | [Make It Last](https://open.spotify.com/track/4akjWFeO6vOQ8pjan1yJk6) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/0hlw0btDHxurzzHQvPnm5V) | 3:13 | 2026-08-27 |  |
 | [Make It Last](https://open.spotify.com/track/21a21D9bfQNXs6H8nvrrbH) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Make It Last](https://open.spotify.com/album/3v4XbrHe4CJh3TOiEoFZkV) | 3:13 | 2024-11-18 | 2025-08-13 |
+| [maybe in august](https://open.spotify.com/track/5jrnIUsdFRVmSSx037aUFW) | [bit depth](https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ), [Pulaski Day](https://open.spotify.com/artist/0cjH3tvSwHec51yifCYT7n) | [maybe in august](https://open.spotify.com/album/0nUUhSQKKIadzZp3Tvn1wP) | 5:32 | 2026-08-29 |  |
 | [me when im with u](https://open.spotify.com/track/3o3NCapGD57YZfxl1ZPdbx) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2), [fahstine](https://open.spotify.com/artist/6AniEXMCsYiZ7FxuO77U4P) | [me when im with u](https://open.spotify.com/album/1M2TrWPuXV7LlRSZlhBTg3) | 2:14 | 2026-05-20 |  |
 | [Means For Me](https://open.spotify.com/track/6u89aNSrS1wZybJ8EE7Yr0) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Means For Me](https://open.spotify.com/album/36c6YiTV5eTKfjXnZ87Doi) | 1:44 | 2026-01-23 |  |
 | [MEDICINE](https://open.spotify.com/track/6O6DxmtNsR2c52oJkqyfOo) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [TRANQUIL](https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC) | 2:58 | 2025-04-17 |  |
@@ -555,6 +556,7 @@
 | [Trash Talkin'](https://open.spotify.com/track/3kBzzYNNR5T6QRQD7FN6ST) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Trash Talkin'](https://open.spotify.com/album/2eW2mOSWttJQ6of9FhEd26) | 3:43 | 2023-06-14 |  |
 | [Tryna Be](https://open.spotify.com/track/2xPq5i3aCHq65THwUTeCJh) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [See\-Through](https://open.spotify.com/album/0ZkkL7C35NV9vevX3oSm7m) | 2:23 | 2025-09-15 |  |
 | [TUMMY](https://open.spotify.com/track/5knoabT77wyCXAq1dYGQco) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [TUMMY](https://open.spotify.com/album/7rEnBD1bxnkN2pmQnWIvun) | 2:18 | 2025-10-19 |  |
+| [Turn Back](https://open.spotify.com/track/0sFk61kDNLWaEuGloyrOih) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [\(AGAIN\)](https://open.spotify.com/album/5mlD5eRizyOvq4TGOT2w2a) | 7:42 | 2026-08-29 |  |
 | [turn tail](https://open.spotify.com/track/0ZF8y0kcVWFts8QqL4cZDA) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 3:58 | 2025-05-10 |  |
 | [Unleashed](https://open.spotify.com/track/3o4nIl4q6Rpcm2PNvKhBJT) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 5:56 | 2024-02-10 | 2025-05-21 |
 | [UNMARKETABLE](https://open.spotify.com/track/1GXQG1drYNjW9EmZ60RkLY) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal), [AQUASINE](https://open.spotify.com/artist/77ncj3o51Ng6KaJCp5wTiG) | [UNMARKETABLE](https://open.spotify.com/album/3jG4mLZZsaBBaMVNCKMQkl) | 2:06 | 2024-05-28 |  |

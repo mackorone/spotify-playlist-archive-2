@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1324592,
+  "num_followers": 1324489,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE8N6rqUF9V8H3eB1Ta7/7fgUVMH",
+  "snapshot_id": "AAAAALFB9EgHXoOJn/Kf+tWS6kBJ0L5S",
   "tracks": [
     {
       "added_at": "2026-05-08 17:21:15",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Never Be Ourselves",
-      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Austin Plaine",
         "url": "https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196240,
       "name": "Never Come Back Again",
       "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Never Be Ourselves",
+      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
+        "name": "Crumbled",
+        "url": "https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA"
+      },
+      "artists": [
+        {
+          "name": "Little Quirks",
+          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
+        }
+      ],
+      "duration_ms": 193348,
+      "name": "Crumbled",
+      "url": "https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 216038,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
-        "name": "Crumbled",
-        "url": "https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA"
-      },
-      "artists": [
-        {
-          "name": "Little Quirks",
-          "url": "https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx"
-        }
-      ],
-      "duration_ms": 193348,
-      "name": "Crumbled",
-      "url": "https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 229662,
-      "name": "Star to Star",
-      "url": "https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Prospector's Blues",
         "url": "https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 239733,
       "name": "Prospector's Blues",
       "url": "https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Mick Flannery",
+        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 229662,
+      "name": "Star to Star",
+      "url": "https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B"
     },
     {
       "added_at": "2026-05-08 17:21:15",

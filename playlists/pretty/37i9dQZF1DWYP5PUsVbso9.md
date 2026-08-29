@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,610 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,638 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 22 | [Family Tradition](https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Family Tradition](https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4) | 4:02 |
 | 23 | [Tennessee Flat Top Box](https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:15 |
 | 24 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:45 |
-| 25 | [\(Ghost\) Riders in the Sky](https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Silver](https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7) | 3:44 |
-| 26 | [Baby I'm Burnin'](https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreaker](https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh) | 2:37 |
+| 25 | [Baby I'm Burnin'](https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreaker](https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh) | 2:37 |
+| 26 | [\(Ghost\) Riders in the Sky](https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Silver](https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7) | 3:44 |
 | 27 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
 | 28 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
 | 29 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 52 | [By The Time I Get To Phoenix \- Remastered 2001](https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:44 |
 | 53 | [Snowbird](https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [This Way Is My Way](https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F) | 2:14 |
 | 54 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
-| 55 | [I Can Help](https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [The Best Of Billy Swan](https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi) | 3:58 |
+| 55 | [Two More Bottles of Wine \- 2003 Remaster](https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Quarter Moon in a Ten Cent Town \(Expanded & Remastered\)](https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y) | 3:06 |
 | 56 | [Drinkin' My Baby \(Off My Mind\) \- 2009 Remaster](https://open.spotify.com/track/0aH37hHD9bgClsjGngV974) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:25 |
 | 57 | [Talking In Your Sleep](https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:54 |
-| 58 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
+| 58 | [I Can Help](https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [The Best Of Billy Swan](https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi) | 3:58 |
 | 59 | [You and Me](https://open.spotify.com/track/0yTzqq0G5th4IKPv3Qfick) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 3:20 |
-| 60 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
-| 61 | [Two More Bottles of Wine \- 2003 Remaster](https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Quarter Moon in a Ten Cent Town \(Expanded & Remastered\)](https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y) | 3:06 |
+| 60 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
+| 61 | [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 |
 | 62 | [You Needed Me](https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 3:40 |
 | 63 | [Country Sunshine](https://open.spotify.com/track/4jE0JNXJ2H3UdhoYBeu8st) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [The Essential Dottie West](https://open.spotify.com/album/0dVCPUNJWfXOw5DZqwzmT1) | 2:03 |
 | 64 | [The Happiest Girl In The Whole U.S.A.](https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV) | [Donna Fargo](https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC) | [Winners](https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f) | 2:31 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 84 | [Out Of My Head And Back In My Bed](https://open.spotify.com/track/2cLb9n7u5iJTXNOrrJI1F1) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [The Definitive Collection](https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2) | 2:40 |
 | 85 | [Tennessee Waltz](https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 2:49 |
 | 86 | [Take This Job and Shove It](https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Johnny Paycheck \- 16 Biggest Hits](https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5) | 2:36 |
-| 87 | [Don't Let Me Cross Over](https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Good 'N' Country](https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu) | 2:19 |
-| 88 | [East Bound and Down](https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0) | 2:49 |
+| 87 | [East Bound and Down](https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0) | 2:49 |
+| 88 | [Don't Let Me Cross Over](https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Good 'N' Country](https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu) | 2:19 |
 | 89 | [Some Broken Hearts Never Mend \- Single Version](https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:48 |
 | 90 | [Mother Country Music](https://open.spotify.com/track/06z1kxyyax5xkyJVWK0U3K) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:53 |
 | 91 | [Her Name Is...](https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Anniversary \(Ten Years Of Hits\)](https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Rub It In](https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1) | [Billy 'Crash' Craddock](https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq) | [The Best Of Billy "Crash" Craddock](https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii) | 2:26 |
 | 100 | [Stop And Smell The Roses](https://open.spotify.com/track/0gXj72vNlNoh7kiC8zPEQp) | [Mac Davis](https://open.spotify.com/artist/6HX8AbXUFaYRtlqKb4CCo0) | [Stop And Smell The Roses](https://open.spotify.com/album/4vZ6eSpIwea2IIPnwG8jfx) | 3:21 |
 
-Snapshot ID: `AAAAAMqBGFWVQkuUP32G/zn50tyNbzAK`
+Snapshot ID: `AAAAAN1wk60LwV6Rzz87kQPcQZk2Lsem`

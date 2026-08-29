@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: Violet Grohl
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,176 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,212 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 44 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 | 45 | [Mirtazapine](https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 3:21 |
 | 46 | [Blood In The Cut](https://open.spotify.com/track/4q604hQba5940BbOoaenmz) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:08 |
-| 47 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
-| 48 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
+| 47 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
+| 48 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
 | 49 | [Throw Yourself to the Sword](https://open.spotify.com/track/1T4TSL2UaYjauerxFyPal0) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 2:40 |
 | 50 | [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 |
 | 51 | [Drain the Blood](https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 3:09 |
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 58 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
 | 59 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 |
 | 60 | [Only Happy When It Rains](https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 3:56 |
-| 61 | [For I Am Death](https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [For I Am Death](https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM) | 3:39 |
-| 62 | [HEARTLESS](https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [HEARTLESS](https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe) | 4:24 |
+| 61 | [HEARTLESS](https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [HEARTLESS](https://open.spotify.com/album/2rsO4Hqckpm8CXpllSaMCe) | 4:24 |
+| 62 | [For I Am Death](https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [For I Am Death](https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM) | 3:39 |
 | 63 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 64 | [Can the Can](https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4) | 3:34 |
-| 65 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
-| 66 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
+| 65 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
+| 66 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
 | 67 | [Take It Off](https://open.spotify.com/track/6QyBIZEvs11K9lKjyLYtv6) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Spend The Night \(U.S\. Version\)](https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv) | 2:41 |
 | 68 | [This Is Love](https://open.spotify.com/track/04Glred2wGdSNH11Qh4EDe) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:46 |
 | 69 | [Take It From The Top](https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [A Million Knives](https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf) | 3:52 |
@@ -84,13 +84,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 74 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
 | 75 | [Again](https://open.spotify.com/track/3ucVKI8BEpLXK3j64GDbY4) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Blame](https://open.spotify.com/album/34XU427uXpPYwocbDxstyS) | 2:35 |
 | 76 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
-| 77 | [Dig Me Out](https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 2:40 |
-| 78 | [All In My Head](https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6) | 3:21 |
+| 77 | [All In My Head](https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [No Obligation](https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6) | 3:21 |
+| 78 | [Dig Me Out](https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 2:40 |
 | 79 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 |
 | 80 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
 | 81 | [Victim Of Luck](https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Victim Of Luck](https://open.spotify.com/album/4RcM2L1fg6E8uL3t1H355B) | 3:23 |
-| 82 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 |
-| 83 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
+| 82 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
+| 83 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 |
 | 84 | [You Look Like A Drunk Phoebe Bridgers](https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:54 |
 | 85 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 86 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 95 | [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 |
 | 96 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 |
 | 97 | [Television Romance](https://open.spotify.com/track/2diAlJqrMMX7Sv9FlzcUMc) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [My Mind Makes Noises](https://open.spotify.com/album/6EuYfecmZrodq8sKWW00tZ) | 3:24 |
-| 98 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 |
-| 99 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
+| 98 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
+| 99 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 |
 | 100 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |
 
-Snapshot ID: `AAAAAKqvSgfjHN/8GXEyRt5UVPnXM9uS`
+Snapshot ID: `AAAAAN5/K+oh4SCbADHQDlttR6C9DeMT`

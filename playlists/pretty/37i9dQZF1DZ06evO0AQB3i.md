@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,083 likes - 23 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,107 likes - 23 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 |
-| 2 | [Always Alright](https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Always Alright](https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz) | 4:09 |
-| 3 | [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 |
-| 4 | [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 |
+| 1 | [Garden](https://open.spotify.com/track/6G7FXaaVK74VLH8G0gswZD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:59 |
+| 2 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 |
+| 3 | [Always Alright](https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Always Alright](https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz) | 4:09 |
+| 4 | [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 |
 | 5 | [Sound & Color](https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:02 |
 | 6 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |
 | 7 | [Hang Loose](https://open.spotify.com/track/5cDHV67TxLrdz4ITUVQswH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:24 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 22 | [Rise To The Sun](https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:08 |
 | 23 | [Guess Who](https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:15 |
 
-Snapshot ID: `ao4sgAAAAADeVkCuhKMClEiFtDNIdfKm`
+Snapshot ID: `ao9+AAAAAACOZ9orq59i9nNkjX/Lgi3B`

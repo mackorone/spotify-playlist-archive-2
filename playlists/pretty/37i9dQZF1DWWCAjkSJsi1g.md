@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,815 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,821 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
-| 2 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
-| 3 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:36 |
+| 2 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:36 |
+| 3 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
 | 4 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
 | 5 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |
 | 6 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 71 | [If It's Lovin' That You Want](https://open.spotify.com/track/1Q29dre9FCspRSarHziizl) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/19UbDbyaYRW1U7lBMYO9F2) | 3:28 |
 | 72 | [Tipsy \- Radio Mix](https://open.spotify.com/track/2lVDc57IMK6nypg2iuEWVR) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Tipsy](https://open.spotify.com/album/5Woeg9DhPiMTP0MwKRqT0t) | 4:03 |
 | 73 | [It Wasn't Me](https://open.spotify.com/track/0ec2YqaLnasKAES0iWMmhy) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rik Rok](https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ) | [The Boombastic Collection \- Best Of Shaggy \(International Version\)](https://open.spotify.com/album/0JFoLERkkPF0TMg5XnMjDs) | 3:47 |
-| 74 | [All I Want](https://open.spotify.com/track/40FFyvBiecWpeKjXHgCRsr) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Lickin' On Both Sides](https://open.spotify.com/album/5TMQsvBUkHGxOEnPEVPrj3) | 3:29 |
-| 75 | [Sweet Like Chocolate \(Radio Edit\)](https://open.spotify.com/track/3IFVskDtdJTwAZ0I8HGvoO) | [Shanks & Bigfoot](https://open.spotify.com/artist/2HdJwHponT4dLmV57ry159) | [Sweet Like Chocolate](https://open.spotify.com/album/1PZubkPoodI7JEON9ljzOC) | 3:30 |
+| 74 | [Sweet Like Chocolate \(Radio Edit\)](https://open.spotify.com/track/3IFVskDtdJTwAZ0I8HGvoO) | [Shanks & Bigfoot](https://open.spotify.com/artist/2HdJwHponT4dLmV57ry159) | [Sweet Like Chocolate](https://open.spotify.com/album/1PZubkPoodI7JEON9ljzOC) | 3:30 |
+| 75 | [All I Want](https://open.spotify.com/track/40FFyvBiecWpeKjXHgCRsr) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Lickin' On Both Sides](https://open.spotify.com/album/5TMQsvBUkHGxOEnPEVPrj3) | 3:29 |
 | 76 | [Teardrops \(Flava 7" Mix\)](https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ) | [Lovestation](https://open.spotify.com/artist/3LRRdfXOYGIcwLviuwDIf1) | [Teardrops](https://open.spotify.com/album/6AJuYuamYUyOkn34HJ2kH6) | 3:46 |
 | 77 | [Bootylicious](https://open.spotify.com/track/31CsLSgn0HdZEVC8Bnnmvr) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 3:27 |
 | 78 | [Dilemma](https://open.spotify.com/track/18vdhCWxqPohnPwicDi3Xr) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/1kh5XByhI0DDWV7m9kddr0) | 4:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 99 | [Dip It Low](https://open.spotify.com/track/3CldFq28sCroIcmc42pRmZ) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Girls' Night Out](https://open.spotify.com/album/25akGACCyuW80OnWrv8kjJ) | 3:16 |
 | 100 | [Bump, Bump, Bump \(feat\. P\. Diddy\)](https://open.spotify.com/track/5tKbrFMvQJlG1reK5aDmkc) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Playlist: The Very Best Of Omarion](https://open.spotify.com/album/2fWjB2sGEPtte5tWTQlU4v) | 4:39 |
 
-Snapshot ID: `AAAAAK8K4BvSvsu9e7yjh2dDF1jONxrG`
+Snapshot ID: `AAAAAG6GVi4xAxfW25oqTZdjZ33YlojY`

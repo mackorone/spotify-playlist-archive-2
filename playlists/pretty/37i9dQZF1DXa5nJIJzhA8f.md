@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 
 > Meticulously selected by Spotify music experts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,197 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,186 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 41 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
 | 42 | [Everything Is Peaceful Love](https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:30 |
 | 43 | [Munyon Canyon](https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:42 |
-| 44 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
-| 45 | [Uno II](https://open.spotify.com/track/4GCXxLQnqf6pP6SI7ljbZV) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:15 |
+| 44 | [Uno II](https://open.spotify.com/track/4GCXxLQnqf6pP6SI7ljbZV) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:15 |
+| 45 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
 | 46 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 |
 | 47 | [Baby!](https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:40 |
 | 48 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 65 | [Villain](https://open.spotify.com/track/0sUJVa3AFcEqdy11QtiZCY) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 4:30 |
 | 66 | [If I Had Never Lost My Mind...](https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [If I Had Never Lost My Mind...](https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah) | 3:10 |
 | 67 | [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:43 |
-| 68 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
-| 69 | [Diva](https://open.spotify.com/track/0f5JzkjAfuxwDDDkcX2lrY) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/3MAtJ9jJmvkBZTGUhAHupj) | 4:16 |
+| 68 | [Diva](https://open.spotify.com/track/0f5JzkjAfuxwDDDkcX2lrY) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/3MAtJ9jJmvkBZTGUhAHupj) | 4:16 |
+| 69 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
 | 70 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 71 | [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 |
 | 72 | [UNDEFEATED](https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [LIVE\-ACTION](https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 79 | [When Will The Love Rain Down](https://open.spotify.com/track/3gb4jKjy2PG4d5N7kl1qe3) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:43 |
 | 80 | [300 dreams](https://open.spotify.com/track/6YsFJWEFXpglxa0WuboO4A) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/0pJY5bcv2APpVdSo6uJVII) | 3:08 |
 
-Snapshot ID: `AAAAAPWkwcZesrGlbvsmAyPgiMIiK1Gs`
+Snapshot ID: `AAAAADYitElIdKSJSoUi6TuWwUFUgDAE`

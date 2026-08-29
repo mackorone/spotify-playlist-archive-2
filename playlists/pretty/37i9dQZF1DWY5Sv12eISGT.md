@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,165 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,179 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 10 | [My Cherry \(Acoustic\)](https://open.spotify.com/track/54ys4PDWm7PJvloFVexmiL) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [My Cherry \(Acoustic\)](https://open.spotify.com/album/3CbrLWotG7LDs2FUsACTvA) | 3:41 |
 | 11 | [Niwache \- Acoustic](https://open.spotify.com/track/78B5whhOznW15tw0CJMOzg) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Niwache \(Acoustic\)](https://open.spotify.com/album/40oLAdTV5bmZbodHTc9MPc) | 2:56 |
 | 12 | [Love Nwantiti \(Acoustic Version\)](https://open.spotify.com/track/22s7GSnCQ2DlIaeM3mR9Bt) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Love Notes](https://open.spotify.com/album/7yHniZiIQiLjnDFJ2bgMen) | 3:04 |
-| 13 | [i'm a mess \(stripped version\)](https://open.spotify.com/track/6YddVDwlm4iVb3XZfmxZXc) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [i'm a mess \(stripped version\)](https://open.spotify.com/album/3SMofVKK1uWJZ5fkv1EIpK) | 2:33 |
+| 13 | [i'm a mess \- stripped version](https://open.spotify.com/track/6YddVDwlm4iVb3XZfmxZXc) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [i'm a mess \(stripped version\)](https://open.spotify.com/album/3SMofVKK1uWJZ5fkv1EIpK) | 2:33 |
 | 14 | [Forgiveness \- Acoustic](https://open.spotify.com/track/3YjtREDtfGmGMIhKqLhXR0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness \(Acoustic\)](https://open.spotify.com/album/6cZfUOF3wtwV9gymqCCgAf) | 2:40 |
 | 15 | [Born Again \- Acoustic](https://open.spotify.com/track/1fQhMICbWZaN2yAwY4rPWE) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [To Be Honest \(TBH\) \(Acoustic\)](https://open.spotify.com/album/0gKuo74azjIiPGFgyNSRaR) | 2:26 |
 | 16 | [Show You Off \- Acoustic](https://open.spotify.com/track/0dRYihVN7B0XcXZ7qEK72V) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Show You Off \(Acoustic\)](https://open.spotify.com/album/5n1L7IbusiLnDxDXr6Z6SJ) | 2:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 59 | [Satisfy My Soul \- Acoustic Version](https://open.spotify.com/track/1zVOkdbHW9jlgPsjlhlbQd) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Satisfy My Soul \(Acoustic Version\)](https://open.spotify.com/album/0j91XRAE07yea6hPkMgN0e) | 3:15 |
 | 60 | [Sempe \- Acoustic](https://open.spotify.com/track/6R2gAXDiP5689wFxzP6qvl) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Sempe \(Acoustic\)](https://open.spotify.com/album/2UKtuS3AaeMsEmt5tV6rAe) | 1:38 |
 
-Snapshot ID: `AAAAAGwiL8TACI7GFkM+ZSX7E5PATte+`
+Snapshot ID: `AAAAAESbIHCG874a6RX4D53h4UzGLKP4`

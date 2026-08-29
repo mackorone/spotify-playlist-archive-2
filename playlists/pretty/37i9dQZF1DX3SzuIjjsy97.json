@@ -1,12 +1,12 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407107,
+  "num_followers": 407105,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADc8DhR6+MEkZUvnuvxHb1rqEma7",
+  "snapshot_id": "AAAAAEYOAvt/EgrQR1Qpz67cujbzeT9Y",
   "tracks": [
     {
       "added_at": "2026-07-29 10:41:14",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "As Long As You\u2019re Mine",
-      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "Chicago - Music From The Miramax Motion Picture",
         "url": "https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 442733,
       "name": "Cell Block Tango",
       "url": "https://open.spotify.com/track/28Tmk14BdrfaV2YzxpB35c"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "As Long As You\u2019re Mine",
+      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -1219,26 +1219,26 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Newsies (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk"
+        "name": "Breaking Free",
+        "url": "https://open.spotify.com/album/6q0I6xK4VkMPGELXVAxuMO"
       },
       "artists": [
         {
-          "name": "Ben Fankhauser",
-          "url": "https://open.spotify.com/artist/46yt6WJsgzPiAtnCe809UV"
+          "name": "Troy",
+          "url": "https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn"
         },
         {
-          "name": "Jeremy Jordan",
-          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7"
         },
         {
-          "name": "Newsies Original Broadway Cast",
-          "url": "https://open.spotify.com/artist/6yTc5YHDriVSWYq8vPA4Xi"
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 322940,
-      "name": "Seize The Day",
-      "url": "https://open.spotify.com/track/0BxKZikii9efSIodiQALJ5"
+      "duration_ms": 209360,
+      "name": "Breaking Free",
+      "url": "https://open.spotify.com/track/4itkS9rw2pjr9PqnOOhxpb"
     }
   ],
   "unique_name": "Hits From The Musicals",

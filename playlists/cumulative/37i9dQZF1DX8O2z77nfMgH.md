@@ -4,7 +4,7 @@
 
 > Lo nuevo de toda Iberoamérica\. Foto: Clarent y Omar Courtz
 
-14,206 songs - 31 day 5 hr 59 min
+14,207 songs - 31 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13466,6 +13466,7 @@
 | [VENENO](https://open.spotify.com/track/77BiLyjwM96hI2eogbI6dy) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [VENENO](https://open.spotify.com/album/7B0yYlF6q1fTFqm0jqpD3Z) | 3:31 | 2023-05-05 | 2023-05-13 |
 | [VENENO](https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 | 2025-12-05 | 2025-12-13 |
 | [VENENO](https://open.spotify.com/track/3Qqx9pfjWgSdOehoHqKey9) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [VENENO](https://open.spotify.com/album/0GGBTQC4nVLYK7flDA6qEa) | 3:01 | 2022-09-30 | 2022-10-08 |
+| [VENEZUELA RIAL NASTI](https://open.spotify.com/track/4ksLrfPci6eRCtfU2pm8ig) | [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2) | [VENEZUELA RIAL NASTI](https://open.spotify.com/album/3BlETqQKPs7sjaEku2yoPd) | 4:49 | 2026-08-28 |  |
 | [Venga Lo Que Venga](https://open.spotify.com/track/06bi09dAdBhxbr8jC2v3JX) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Venga Lo Que Venga](https://open.spotify.com/album/5vTLG6XHCHHopjNHzvCVkf) | 3:08 | 2025-02-28 | 2025-03-08 |
 | [Vengache Pa’ Aca](https://open.spotify.com/track/6FoFdGkO3BZ1HElmfj7PZl) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Vengache Pa’ Aca](https://open.spotify.com/album/4GOxdFhYCiDqefzmrJt4sF) | 2:43 | 2026-03-27 | 2026-04-04 |
 | [Vengo](https://open.spotify.com/track/3RHSpZwEao9A7dgOB3SMR6) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [El propio junte](https://open.spotify.com/artist/453BRGxqa4IYKVhNP3Bv7v) | [Ruda](https://open.spotify.com/album/5cdm28zQsQMqh2ZGRS2qZK) | 3:21 | 2025-10-10 | 2025-10-18 |

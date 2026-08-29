@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210750,
+  "num_followers": 210748,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAEkyChnNkXIFuUlsq3/0U/",
+  "snapshot_id": "ao9+AAAAAABd07s95X5UFew3WEfeOu67",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy (Acoustic)",
-        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 205815,
-      "name": "Holy - Acoustic",
-      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 206186,
       "name": "Cross Me (feat. Chance the Rapper & PnB Rock)",
       "url": "https://open.spotify.com/track/4wuCQX7JvAZLlrcmH4AeZF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy (Acoustic)",
+        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 205815,
+      "name": "Holy - Acoustic",
+      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
     },
     {
       "added_at": null,
@@ -888,13 +888,17 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 293050,
-      "name": "No More Old Men (feat. Jamila Woods)",
-      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
+      "duration_ms": 267692,
+      "name": "Tree (feat. Lil Wayne & Smino)",
+      "url": "https://open.spotify.com/track/58nLLDEP28jLGbqbGZD7OB"
     },
     {
       "added_at": null,
@@ -972,17 +976,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 267692,
-      "name": "Tree (feat. Lil Wayne & Smino)",
-      "url": "https://open.spotify.com/track/58nLLDEP28jLGbqbGZD7OB"
+      "duration_ms": 293050,
+      "name": "No More Old Men (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
     },
     {
       "added_at": null,

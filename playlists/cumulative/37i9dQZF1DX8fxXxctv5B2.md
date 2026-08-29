@@ -4,7 +4,7 @@
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-237 songs - 14 hr 11 min
+238 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Image](https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD) | 3:32 | 2024-08-01 | 2024-10-07 |
 | [In the Air](https://open.spotify.com/track/6r88rMGtfNgC0SJEytTA7c) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/6S2Wk7gzCsJzfArpNgPbHh) | 4:12 | 2023-11-30 |  |
 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2023-11-30 |  |
-| [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 | 2026-03-26 |  |
+| [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 | 2026-03-26 | 2026-08-29 |
 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 | 2023-11-30 | 2024-04-19 |
 | [Islands](https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:40 | 2024-03-14 |  |
 | [It Don't Matter](https://open.spotify.com/track/1BbD5gnHzob2VsddH8zoSM) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [It Don't Matter](https://open.spotify.com/album/53T5VUowP9rrmcnOJQLHNP) | 3:25 | 2024-11-28 | 2024-12-13 |
@@ -123,6 +123,7 @@
 | [Kick In The Teeth](https://open.spotify.com/track/7x5rRIvAk4uKNKnInTFbwD) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [Kick in the Teeth](https://open.spotify.com/album/7FxFm7EIMzI9Tg3hcDU1XK) | 2:48 | 2026-07-09 | 2026-07-24 |
 | [Killing Time](https://open.spotify.com/track/4Vey6RaBSbEYvBJi5mpwEE) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Killing Time](https://open.spotify.com/album/1tupvkLDJoeUuiBf0VJsy7) | 3:32 | 2026-07-09 |  |
 | [Kool Aid](https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:36 | 2024-03-14 | 2024-04-19 |
+| [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 | 2026-08-27 |  |
 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 | 2026-02-19 | 2026-03-27 |
 | [Lately, Love Is Dead](https://open.spotify.com/track/49b2ZZj6rxIwQCuMgrj8zI) | [Baby Smith](https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932) | [Lately, Love Is Dead](https://open.spotify.com/album/2uQkM9irfWIhfJKRhFMcxr) | 4:05 | 2026-03-26 | 2026-07-10 |
 | [Lazy Eye](https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/2Qr40p1sv6NYrf9NPehsrO) | 5:54 | 2023-11-30 | 2026-03-03 |

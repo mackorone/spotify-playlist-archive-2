@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Booka Shade
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,347 likes - 89 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,438 likes - 89 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 34 | [Olahni](https://open.spotify.com/track/7wySLi2cVHlf1eNK9lCgQW) | [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Fumaxohn](https://open.spotify.com/album/73KGUZi3KOSVsqWf59JKec) | 6:36 |
 | 35 | [Leave My Head Alone Brain \- Alan Dixon Remix](https://open.spotify.com/track/5tpsqxhaBmraLVNwHbMKOk) | [atsou](https://open.spotify.com/artist/6TRgIFqqTDlwIULInhGKoD), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Leave My Head Alone Brain \(Alan Dixon Remix\)](https://open.spotify.com/album/0rPkLdXZW99LUyLlDNLl4s) | 3:05 |
 | 36 | [Buka](https://open.spotify.com/track/7jGuW21OowpeOy0RYzAvr4) | [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Buka](https://open.spotify.com/album/3E8kxPUYS7yNEFy2YcDWVA) | 3:26 |
-| 37 | [I Did Not Feel Alone](https://open.spotify.com/track/6ts7SgHdpxjfk7Z1gPlgdb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [I Did Not Feel Alone](https://open.spotify.com/album/72gMVnYJFu9ZbkZZPCSErJ) | 3:46 |
+| 37 | [I Did Not Feel Alone](https://open.spotify.com/track/6ts7SgHdpxjfk7Z1gPlgdb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [I Did Not Feel Alone](https://open.spotify.com/album/72gMVnYJFu9ZbkZZPCSErJ) | 3:43 |
 | 38 | [What You Running From](https://open.spotify.com/track/2EFwTNvahjuWiSghwA2J4K) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [What You Running From](https://open.spotify.com/album/1oso4UuZvADOzOYZy6geZ9) | 3:41 |
 | 39 | [Nocturna](https://open.spotify.com/track/6iUKrmx2XxlYyfsiB3eHol) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Nocturna](https://open.spotify.com/album/6wZ6ASOlndTAQ9zyAEBfHM) | 8:34 |
 | 40 | [New Generation \- Khainz Remix](https://open.spotify.com/track/0rS3UVtKppjhP3JEAPuOTL) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Khainz](https://open.spotify.com/artist/71yD5VENn9Wy1IECnpYWvX) | [New Generation \(Khainz Remix\)](https://open.spotify.com/album/2xEXGLYXBkJiPkkbZcqdgH) | 4:20 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [this is the moment \(cuerpo\)](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 3:52 |
 | 89 | [Afterglow](https://open.spotify.com/track/7MTh3jJYMwJoegvWZKV3rF) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [NiLO.R](https://open.spotify.com/artist/13E2GSB3yfEeSXbexyoGn2) | [Afterglow](https://open.spotify.com/album/0A20N0FMFi9YonSQrpJw5p) | 2:58 |
 
-Snapshot ID: `AAAAAPfON1ByYP/4tUbMbFLEgmEjIvam`
+Snapshot ID: `AAAAACZhjiBJmL6+HNZv7SH53T7N294i`

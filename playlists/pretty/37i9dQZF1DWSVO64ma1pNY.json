@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 304012,
+  "num_followers": 304023,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgYB6I5QpofDYIuh9uo9+1bG/dG",
+  "snapshot_id": "AAAAANS5a7h2OxXYQUJay/Dpjegit1bN",
   "tracks": [
     {
       "added_at": "2024-12-03 09:27:47",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "House of Gold & Bones, Part 1",
-        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Absolute Zero",
-      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Head Up",
-        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 169977,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 190133,
       "name": "Who Needs Friends",
       "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 169977,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Fail You",
-        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 186052,
-      "name": "Fail You",
-      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Fail You",
+        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Circling the Drain",
         "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 229192,
       "name": "Circling the Drain",
       "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 265113,
+      "name": "Stingin' Belle",
+      "url": "https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1463,22 +1479,6 @@
       "duration_ms": 226889,
       "name": "Two Toned",
       "url": "https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Opposites (Deluxe)",
-        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 265113,
-      "name": "Stingin' Belle",
-      "url": "https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "All These Countless Nights (Reworked - Deluxe Version)",
         "url": "https://open.spotify.com/album/3uFlKT7oKZFybvN7IE3MBm"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 258453,
       "name": "Cassiopeia - Bonus Track",
       "url": "https://open.spotify.com/track/2lP3rtlDDTG0mgSuR2oWww"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
     },
     {
       "added_at": "2024-12-03 09:27:47",

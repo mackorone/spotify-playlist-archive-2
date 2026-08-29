@@ -1,12 +1,12 @@
 {
   "description": "For your lounge room DF!",
-  "num_followers": 788025,
+  "num_followers": 788023,
   "original_name": "House Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiiX42b+BDDEDiD/sCqlEHitV/H",
+  "snapshot_id": "AAAAAD1tY51tczLjZLx3dXeX7H+pGHx/",
   "tracks": [
     {
       "added_at": "2026-02-23 02:32:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-01-26 13:01:30",
       "album": {
-        "name": "The Kickback",
-        "url": "https://open.spotify.com/album/7jEhJ72S8vHQOmQTgIATww"
-      },
-      "artists": [
-        {
-          "name": "Cali Swag District",
-          "url": "https://open.spotify.com/artist/1EeArivTpzLNCqubV95255"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Teach Me How to Dougie",
-      "url": "https://open.spotify.com/track/61LtVmmkGr8P9I2tSPvdpf"
-    },
-    {
-      "added_at": "2025-01-26 13:01:30",
-      "album": {
         "name": "Man On The Moon: The End Of Day (Int'l Version)",
         "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 295293,
       "name": "Pursuit Of Happiness (Nightmare)",
       "url": "https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa"
+    },
+    {
+      "added_at": "2025-01-26 13:01:30",
+      "album": {
+        "name": "The Kickback",
+        "url": "https://open.spotify.com/album/7jEhJ72S8vHQOmQTgIATww"
+      },
+      "artists": [
+        {
+          "name": "Cali Swag District",
+          "url": "https://open.spotify.com/artist/1EeArivTpzLNCqubV95255"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Teach Me How to Dougie",
+      "url": "https://open.spotify.com/track/61LtVmmkGr8P9I2tSPvdpf"
     },
     {
       "added_at": "2025-01-26 13:01:30",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-01-26 13:01:30",
       "album": {
-        "name": "Nympho",
-        "url": "https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "My My My",
-      "url": "https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS"
-    },
-    {
-      "added_at": "2025-01-26 13:01:30",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 242266,
       "name": "D.A.N.C.E.",
       "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
+    },
+    {
+      "added_at": "2025-01-26 13:01:30",
+      "album": {
+        "name": "Nympho",
+        "url": "https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "My My My",
+      "url": "https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS"
     },
     {
       "added_at": "2025-01-26 13:01:30",

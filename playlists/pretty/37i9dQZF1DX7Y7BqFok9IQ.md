@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Ghost Hounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,593 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,676 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [STREET'S QUEEN](https://open.spotify.com/track/71wyFs3xWEHVCw8HBOXndJ) | [The Dream Roll](https://open.spotify.com/artist/0i36lN49PG20OUnWhEwy2x) | [SAVE YOUR SOUL](https://open.spotify.com/album/7wZHrhHK4AIjv3vhB2p4of) | 3:18 |
 | 150 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 
-Snapshot ID: `AAAAAKZgq6TMsUGzoJAESKVOyLIh+rjm`
+Snapshot ID: `AAAAAL8K7/pYfHPCsxE84XcnWkifQbGy`

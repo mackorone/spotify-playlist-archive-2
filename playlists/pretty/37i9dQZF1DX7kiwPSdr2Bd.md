@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fabiana Sinfrônio
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,200 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,205 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 50 | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo) | 4:18 |
 | 51 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 |
 | 52 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 |
-| 53 | [Seu Amor Dura Para Sempre \(Bonus Track\) \- Ao Vivo](https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Ao Vivo na Ópera de Arame \(Deluxe Edition\)](https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP) | 6:52 |
+| 53 | [Deus Proverá \- Ao Vivo](https://open.spotify.com/track/2fWLl3Iq7sv9LdA3C3KUuP) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Deus Proverá \(Ao Vivo\)](https://open.spotify.com/album/2HqzEm9b9PnjVjnbDUhyh6) | 5:32 |
 | 54 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
-| 55 | [Deus Proverá \- Ao Vivo](https://open.spotify.com/track/2fWLl3Iq7sv9LdA3C3KUuP) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Deus Proverá \(Ao Vivo\)](https://open.spotify.com/album/2HqzEm9b9PnjVjnbDUhyh6) | 5:32 |
+| 55 | [Seu Amor Dura Para Sempre \(Bonus Track\) \- Ao Vivo](https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Ao Vivo na Ópera de Arame \(Deluxe Edition\)](https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP) | 6:52 |
 | 56 | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [O Tanque de Betesda \(Ao Vivo\)](https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG) | 5:04 |
 | 57 | [Eu Tenho uma Promessa \- Ao Vivo](https://open.spotify.com/track/2M9yqk3MLhe1oYnWhxkOwY) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Tenho uma Promessa \(Ao Vivo\)](https://open.spotify.com/album/4aqGlblyh993tK9y4juEa9) | 4:31 |
 | 58 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 |
 | 80 | [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 |
 
-Snapshot ID: `AAAAAIIKbn7u9ma6sptkWwNLZrL8f4hg`
+Snapshot ID: `AAAAAEn1S5n+Wyfe6dilP+TkOis7bn58`

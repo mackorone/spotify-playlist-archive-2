@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Alabama Shakes
 
-11,650 songs - 27 day 16 hr 20 min
+11,651 songs - 27 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7481,6 +7481,7 @@
 | [Oyster City Utah](https://open.spotify.com/track/4eYLGCMHpR3r8ZtNHjF9ZI) | [best dressed ghost](https://open.spotify.com/artist/3Rh1YnnvbwePqsU1NPZhPy) | [Dead Rock](https://open.spotify.com/album/0QEVxMlGr8BmO6gr3Xcd3d) | 2:17 | 2025-08-01 | 2025-08-23 |
 | [p a r a d 0 x 1 c](https://open.spotify.com/track/2U7yZeqVPkPxEc354Tfg3G) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [p a r a d 0 x 1 c](https://open.spotify.com/album/0EzE4JLC743EsO8BMHbect) | 5:10 | 2026-08-21 |  |
 | [P.O.D](https://open.spotify.com/track/3UEUVS6vG8UIuHteAjFG2v) | [Royal Punch Club](https://open.spotify.com/artist/6J5HFxZA6piBza0YMNAJPt) | [P.O.D](https://open.spotify.com/album/1P08tmzSSrmAxyNB4JtI9e) | 3:37 | 2022-12-16 | 2023-01-06 |
+| [Pa Mis Carnales](https://open.spotify.com/track/2k5OUMIny0ZW6ls1y4ssGf) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Arriba La L](https://open.spotify.com/album/1XKtSl05ezH6lWTmVgTLUL) | 3:58 | 2026-08-28 |  |
 | [Pacific Coast Highway](https://open.spotify.com/track/1q8VvE2vA3ti6MvNMKfCOT) | [Rue de Paradis](https://open.spotify.com/artist/7EcEdJgnkzNf8IMl41JZNi) | [Pacific Coast Highway](https://open.spotify.com/album/4c1NlLtA0zqLtcuPB4W06R) | 3:29 | 2023-11-03 | 2023-11-11 |
 | [Pacific Ocean](https://open.spotify.com/track/5ClDT1S61melj4Jq0rlQ5N) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Pacific Ocean](https://open.spotify.com/album/4mmTewRsbrBcDUrMI8tHO0) | 3:16 | 2024-05-24 | 2024-06-01 |
 | [Pacific Trash Patch](https://open.spotify.com/track/77qYDsJLjTH7Ooz0BUwKFD) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Pacific Trash Patch](https://open.spotify.com/album/07WNpwGzfDNKNnWvo5UUsE) | 5:24 | 2022-03-03 | 2022-03-11 |

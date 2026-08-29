@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 105500,
+  "num_followers": 105511,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFo1j2Eyhi4UVHywDgThq3c56s1S",
+  "snapshot_id": "AAAAAHp7FaOGsuDCmHDUMrJdQTfoBbEV",
   "tracks": [
     {
       "added_at": "2024-07-18 20:57:58",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Vida Musical, Vol. 1",
+        "url": "https://open.spotify.com/album/4R5CqQ6zcAtkWcLua3mFW9"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Linares",
+          "url": "https://open.spotify.com/artist/69cQFJ1QUMfKbGBygF0YCd"
+        }
+      ],
+      "duration_ms": 217364,
+      "name": "Tihuanaco",
+      "url": "https://open.spotify.com/track/0w1Zn7sPlkIbA9RZ1aLkgF"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "I Like it Like That",
         "url": "https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Joe Bataan Anthology",
-        "url": "https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 246173,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Barretto",
         "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 338520,
       "name": "Guarar\u00e9",
       "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Joe Bataan Anthology",
+        "url": "https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 246173,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -803,22 +819,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Joey",
-        "url": "https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R"
-      },
-      "artists": [
-        {
-          "name": "Joey Pastrana and His Orchestra",
-          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
-        }
-      ],
-      "duration_ms": 452373,
-      "name": "That's How Rumors Start",
-      "url": "https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "The Original Gangster",
         "url": "https://open.spotify.com/album/0Csv84dozue6SsmJxp9t2Y"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Acid",
-        "url": "https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn"
+        "name": "Joey",
+        "url": "https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R"
       },
       "artists": [
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "Joey Pastrana and His Orchestra",
+          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
         }
       ],
-      "duration_ms": 168093,
-      "name": "A Deeper Shade Of Soul",
-      "url": "https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e"
+      "duration_ms": 452373,
+      "name": "That's How Rumors Start",
+      "url": "https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe"
     }
   ],
   "unique_name": "Boogaloo Essentials",

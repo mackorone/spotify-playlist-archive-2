@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb39rhYOQBVZ.md) - [plain]
 
 > Legendary <a href="https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva?si=96ddec9640844dda">Latin</a> songs that have reached \(or are close to\) the 1 billion streams milestone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,865 likes - 114 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,870 likes - 114 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb39rhYOQBVZ.md) - [plain]
 | 80 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 81 | [Te Boté \- Remix](https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Boté \(Remix\)](https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL) | 6:57 |
 | 82 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
-| 83 | [Soltera \(Remix\)](https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soltera \(Remix\)](https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR) | 4:26 |
+| 83 | [Soltera \- Remix](https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soltera \(Remix\)](https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR) | 4:26 |
 | 84 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 |
 | 85 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 |
 | 86 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb39rhYOQBVZ.md) - [plain]
 | 113 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 |
 | 114 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 
-Snapshot ID: `AAAAAA1FWhkNm6NBZFtoQxzA2U27TSi4`
+Snapshot ID: `AAAAAEzSnDqNz1rFsblXxWbJvo+h/XIZ`

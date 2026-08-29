@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,939 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,948 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 17 | [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 |
 | 18 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 19 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 |
-| 20 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 |
-| 21 | [Come A Little Bit Closer](https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP) | [Jay & The Americans](https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs) | [Come A Little Bit Closer: The Best Of Jay & The Americans](https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6) | 2:46 |
+| 20 | [Come A Little Bit Closer](https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP) | [Jay & The Americans](https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs) | [Come A Little Bit Closer: The Best Of Jay & The Americans](https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6) | 2:46 |
+| 21 | [This Old Heart Of Mine \(Is Weak For You\)](https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [This Old Heart Of Mine](https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN) | 2:52 |
 | 22 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [Kingsmen](https://open.spotify.com/artist/5zboR3VfqxVb7nS5mo0qRX) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
 | 23 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 | 24 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 79 | [You're All I Need To Get By](https://open.spotify.com/track/5eZ6igEpm6n3h2ygKP3Vq4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/56uffc8tCkLwRQ8HuhAfeL) | 2:53 |
 | 80 | [Stay](https://open.spotify.com/track/6xi2kRGOrdLJNo4wFyaCis) | [Maurice Williams & The Zodiacs](https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4) | [Dirty Dancing](https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg) | 1:34 |
 
-Snapshot ID: `AAAAANNfyDVqlZMuYjGDUHw6TrcsnEyZ`
+Snapshot ID: `AAAAANnG362GzhUUkKE7fJMB/o6BWBEh`

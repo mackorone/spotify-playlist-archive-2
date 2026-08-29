@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in world music\. From the continent, to the islands with Kofi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,532 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,568 likes - 99 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 5 | [Aura](https://open.spotify.com/track/5iYbLtxZqQOctW238YZLXK) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Kash Promise Move](https://open.spotify.com/artist/0n2GVhODT8CJldQoVdsMw4), [Thrill Seeker](https://open.spotify.com/artist/5PvpKHJaw2v2B5v11au4W6) | [Aura](https://open.spotify.com/album/4rv10szqmcWEde3sA3db9B) | 3:04 |
 | 6 | [CLAAT!](https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [CLAAT!](https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx) | 2:54 |
 | 7 | [Phenomenal](https://open.spotify.com/track/7tGKdDmlzMOnGXjPEXWCP7) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt), [DJ Frass](https://open.spotify.com/artist/0OV6SkCcoRHlz2uaCo0PG9) | [Phenomenal](https://open.spotify.com/album/0Ee4wGC2764dnA2cXHQgUs) | 2:34 |
-| 8 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 |
+| 8 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 9 | [God Is A Woman](https://open.spotify.com/track/3XwSaFHi5bPlGGYVq7TEvu) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Phone Home](https://open.spotify.com/album/4n40gHjRxWXXhGBjhqvSEm) | 2:53 |
 | 10 | [THAT GIRL!](https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [THAT GIRL!](https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d) | 2:12 |
 | 11 | [Round The World](https://open.spotify.com/track/2hkgZ0u6sAEE9mwzQz3ed6) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Tina](https://open.spotify.com/album/6XfBEBTw36MWgLAA1ZGkZf) | 2:33 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 98 | [Getting Paid ​\(f​eat​\. Asake, Wizkid, Skillibeng​\)](https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:28 |
 | 99 | [Too Hot \(feat\. Moliy\)](https://open.spotify.com/track/5yApOjKdnQZZb1yXtl4Owh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [International](https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF) | 2:14 |
 
-Snapshot ID: `AAAAAJrCav55G5PYS0nX8mwq+Z5vxmTF`
+Snapshot ID: `AAAAANvZPmKN2RfVvUuR7h6aFyUA2xAs`

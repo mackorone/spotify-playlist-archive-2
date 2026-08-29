@@ -1,12 +1,12 @@
 {
   "description": "No words, just chops. Cover: Bryan Sutton",
-  "num_followers": 63384,
+  "num_followers": 63400,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK6K0ZaVzk6DNJR6kTllLJSoifzH",
+  "snapshot_id": "AAAAAKSV7FyHqDJpYPDlqEdb+kvO8UG4",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:30",
@@ -331,30 +331,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Skip, Hop And Wobble",
-        "url": "https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Russ Barenberg",
-          "url": "https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Big Sciota",
-      "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Foggy Morning Breaking",
         "url": "https://open.spotify.com/album/0BDz3YhQcXKzOPUkgGvrG7"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 220533,
       "name": "Foggy Morning Breaking",
       "url": "https://open.spotify.com/track/1BmdMNhew9aApcN1YBb2oC"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Skip, Hop And Wobble",
+        "url": "https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Russ Barenberg",
+          "url": "https://open.spotify.com/artist/1Stj7mbbJFkKGqasheXUVF"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Big Sciota",
+      "url": "https://open.spotify.com/track/3bwRblhAbbkQ8GoL7YatI7"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
+      },
+      "artists": [
+        {
+          "name": "Whalebone",
+          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
+        }
+      ],
+      "duration_ms": 149369,
+      "name": "Wayfarer",
+      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Woven",
-        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
-      },
-      "artists": [
-        {
-          "name": "Whalebone",
-          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
-        }
-      ],
-      "duration_ms": 149369,
-      "name": "Wayfarer",
-      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Jubilation",
         "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 179140,
       "name": "Graveyard Fields",
       "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "A Man Must Carry On",
-        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
-        }
-      ],
-      "duration_ms": 329933,
-      "name": "Eternal Blues",
-      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -979,6 +963,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "A Man Must Carry On",
+        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "Eternal Blues",
+      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Decembering",
         "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
@@ -1015,26 +1015,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Lonesome Whistle",
-        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
       },
       "artists": [
         {
-          "name": "Mark Howard",
-          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
-        },
-        {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
         }
       ],
-      "duration_ms": 166720,
-      "name": "City Of New Orleans - Instrumental",
-      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1055,18 +1047,26 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+        "name": "Lonesome Whistle",
+        "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
       },
       "artists": [
         {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+          "name": "Mark Howard",
+          "url": "https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc"
+        },
+        {
+          "name": "Stuart Duncan",
+          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+      "duration_ms": 166720,
+      "name": "City Of New Orleans - Instrumental",
+      "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
         "name": "Celebrants",
         "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+        "name": "Addie Levy",
+        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
       },
       "artists": [
         {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+          "name": "Addie Levy",
+          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
         }
       ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
+      "duration_ms": 178946,
+      "name": "Flight Pattern",
+      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-08-28 04:01:30",
       "album": {
-        "name": "Addie Levy",
-        "url": "https://open.spotify.com/album/06I1r4BlzxYu2dHKisGfQ6"
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
       },
       "artists": [
         {
-          "name": "Addie Levy",
-          "url": "https://open.spotify.com/artist/2Kt8rsgYAxJgt1NKAhOO5a"
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
         }
       ],
-      "duration_ms": 178946,
-      "name": "Flight Pattern",
-      "url": "https://open.spotify.com/track/52kwhBirP4IEAdynKaoVrf"
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2026-08-28 04:01:30",

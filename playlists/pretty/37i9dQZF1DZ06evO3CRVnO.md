@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,905 likes - 48 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,916 likes - 48 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 25 | [Vamp Anthem](https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:04 |
 | 26 | [Foreign](https://open.spotify.com/track/500l6Cwe40hkPqS7Sf7ufY) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 2:22 |
 | 27 | [Flex](https://open.spotify.com/track/2xyBvir9n474qfsOkxXMgx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 4:00 |
-| 28 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
-| 29 | [HBA](https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:32 |
+| 28 | [HBA](https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:32 |
+| 29 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 |
 | 30 | [Place](https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:57 |
 | 31 | [Let It Go](https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:30 |
 | 32 | [FlatBed Freestyle](https://open.spotify.com/track/5nayhWICkQGMTkisxVMbRw) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:13 |
-| 33 | [wedidit \(with Playboi Carti\)](https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 3:42 |
+| 33 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 |
 | 34 | [New Tank](https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:29 |
-| 35 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 |
+| 35 | [wedidit \(with Playboi Carti\)](https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 3:42 |
 | 36 | [GOOD CREDIT \(with Kendrick Lamar\)](https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 |
 | 37 | [Smaxk Or Die \(feat\. Playboi Carti\)](https://open.spotify.com/track/37PWu4Av27EVfKwx2UVJA1) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Smaxk Or Die \(feat\. Playboi Carti\)](https://open.spotify.com/album/0X1jRt7ic4faNgXBHPD7L7) | 2:05 |
 | 38 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 47 | [Beef](https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH) | [Ethereal](https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Beef](https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR) | 3:33 |
 | 48 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
 
-Snapshot ID: `ao4sgAAAAACg1QrmElNUfX0pG/YgAkoY`
+Snapshot ID: `ao9+AAAAAACh/annO380VXwF+9MrVGaW`

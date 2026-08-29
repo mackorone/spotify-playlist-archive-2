@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEBOCnPHRb0b40BTLuFhsDH8NMf2",
+  "snapshot_id": "AAAAALamfNTrAOc5Jf54l3T5B25vzy5x",
   "tracks": [
     {
       "added_at": "2026-08-28 06:58:07",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-28 06:58:07",
       "album": {
-        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
-        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 182013,
-      "name": "Yours Sincerely",
-      "url": "https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I"
-    },
-    {
-      "added_at": "2026-08-28 06:58:07",
-      "album": {
         "name": "Sh**ting Stars (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 251537,
       "name": "My secret, My everything",
       "url": "https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV"
+    },
+    {
+      "added_at": "2026-08-28 06:58:07",
+      "album": {
+        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
+        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 182013,
+      "name": "Yours Sincerely",
+      "url": "https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I"
     },
     {
       "added_at": "2026-08-28 06:58:07",

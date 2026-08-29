@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Emanuel Satie
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,900 likes - 110 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,973 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 11 | [Ride \(feat\. Karen Harding\)](https://open.spotify.com/track/2LvrJFOTo9rLYkfGhDcOQV) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Ride \(feat\. Karen Harding\)](https://open.spotify.com/album/2v4r3Pr1BVGql4h89ZkDkS) | 3:20 |
 | 12 | [Want To Know](https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Want To Know](https://open.spotify.com/album/080Tcs0ngcJZrF8uqcvJEK) | 3:02 |
 | 13 | [Good Life](https://open.spotify.com/track/7fHxbEzsOUxL5mQdz7m3iU) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Good Life](https://open.spotify.com/album/24jZ7aj2bPldimRVQFVvyR) | 3:31 |
-| 14 | [Knife In The Heart \- \(The Magician Remix\)](https://open.spotify.com/track/0THhIWX6hGcftgzP5mYTji) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Knife In The Heart \(The Magician Remix\)](https://open.spotify.com/album/5g1aKjhxfqIqM5aHyxSKCy) | 3:41 |
+| 14 | [Knife In The Heart \- The Magician Remix](https://open.spotify.com/track/0THhIWX6hGcftgzP5mYTji) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Knife In The Heart \(The Magician Remix\)](https://open.spotify.com/album/5g1aKjhxfqIqM5aHyxSKCy) | 3:41 |
 | 15 | [Don't Go](https://open.spotify.com/track/6hYqPvgX9U7LjGKXtnyNbD) | [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Don't Go](https://open.spotify.com/album/28352Nj20VRdPkCNpQ0JOs) | 3:12 |
 | 16 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 17 | [Jazzmin](https://open.spotify.com/track/0AzjZi0cSXgcfBrvPGQB37) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803), [KADI \(IL\)](https://open.spotify.com/artist/2yBeN9JBn46atsX5eXGYRC) | [Jazzmin](https://open.spotify.com/album/2dcSf7cicOed14qvWfeG0T) | 3:06 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 109 | [Get Ready](https://open.spotify.com/track/6DrLQJZll9RhvG7sPMng6R) | [Souler \(ES\)](https://open.spotify.com/artist/2vxxV79qNNZZd6IU03fC9e), [Sera De Villalta](https://open.spotify.com/artist/36QNZGUOB4BqczrvthRI3T) | [Get Ready EP](https://open.spotify.com/album/6VGxvRqh5GyMsdPGd16TfG) | 3:35 |
 | 110 | [Snakes](https://open.spotify.com/track/7KvYoLTnCDc5DtsOqKj5T2) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Rami](https://open.spotify.com/artist/69JMnvEdSQznAmeSWKH8kQ) | [Back 2 Tha Funk EP](https://open.spotify.com/album/2J3M1KVjW4rtgoCclYylbb) | 3:56 |
 
-Snapshot ID: `AAAAAGvmZIliVcbJVE2UAKXTFUIIkBfb`
+Snapshot ID: `AAAAAP2druzo1hDn1lVrJ3SnAQSqhK9w`

@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 174375,
+  "num_followers": 174390,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAB9EZEAepGnvx/ezQZI5F+J",
+  "snapshot_id": "ao9+AAAAAABDuMe2NLjHdYfWYI8U613v",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
+        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Cassiano",
+          "url": "https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx"
+        }
+      ],
+      "duration_ms": 197841,
+      "name": "Quanto vale o show memo?",
+      "url": "https://open.spotify.com/track/60C5e5py3Ab2h21I8a63n9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emicidio",
         "url": "https://open.spotify.com/album/7JcUXadRJlfoeo4Nj597CO"
       },
@@ -499,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
-        "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
+        "name": "\u00c9 Tudo Pra Ontem",
+        "url": "https://open.spotify.com/album/3pJfsGB12RRU7KDDsRkAh1"
       },
       "artists": [
         {
@@ -508,13 +528,13 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Cassiano",
-          "url": "https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 197841,
-      "name": "Quanto vale o show memo?",
-      "url": "https://open.spotify.com/track/60C5e5py3Ab2h21I8a63n9"
+      "duration_ms": 310400,
+      "name": "\u00c9 Tudo Pra Ontem",
+      "url": "https://open.spotify.com/track/1FpjfHwVh1ziha91Ng2o4P"
     },
     {
       "added_at": null,
@@ -543,26 +563,6 @@
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/0EXqaE8m9hSzNrO9h6Yepq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9 Tudo Pra Ontem",
-        "url": "https://open.spotify.com/album/3pJfsGB12RRU7KDDsRkAh1"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 310400,
-      "name": "\u00c9 Tudo Pra Ontem",
-      "url": "https://open.spotify.com/track/1FpjfHwVh1ziha91Ng2o4P"
     },
     {
       "added_at": null,

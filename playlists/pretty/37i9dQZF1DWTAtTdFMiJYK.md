@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Temsu Clover
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,240 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,286 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 67 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 |
 | 68 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
 | 69 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 |
-| 70 | [Naina](https://open.spotify.com/track/786tJX7yEXubSAyvmBlgvg) | [Anand S Bajpai](https://open.spotify.com/artist/3vcJ5Hy223Tc24058Ei5lw), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Naina](https://open.spotify.com/album/16u0hCKXEmbfM66kvDOhjM) | 2:01 |
-| 71 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
+| 70 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
+| 71 | [Naina](https://open.spotify.com/track/786tJX7yEXubSAyvmBlgvg) | [Anand S Bajpai](https://open.spotify.com/artist/3vcJ5Hy223Tc24058Ei5lw), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Naina](https://open.spotify.com/album/16u0hCKXEmbfM66kvDOhjM) | 2:01 |
 | 72 | [Le Jaa](https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr) | [Adeetiiya](https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s), [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Le Jaa](https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA) | 2:34 |
 | 73 | [Dariya](https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 2:52 |
 | 74 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
 | 75 | [Naina](https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e) | [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Naina](https://open.spotify.com/album/1VcvGG0fZipohfDRaoA5gh) | 2:18 |
 
-Snapshot ID: `AAAAAF00qoyGKtioxHCTuP5w/nK8EVcm`
+Snapshot ID: `AAAAAFnICsnYtIKq22Z5qs5HVYhok8rM`

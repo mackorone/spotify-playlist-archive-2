@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,390 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,421 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 61 | [Who Do You Call](https://open.spotify.com/track/0GkuN9Zy932IzxFC6rolo8) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Something New](https://open.spotify.com/album/5RvKtXooRfP5QEbil7kQ95) | 2:10 |
 | 62 | [Selel Abliyom](https://open.spotify.com/track/43fUkKR4gUeF2eckTp2nSA) | [Ethiocolor](https://open.spotify.com/artist/6dHtzroZBCifurd5ByOGfe) | [Ethiocolor](https://open.spotify.com/album/68ySLbK7Xq1IMlrlbP19cS) | 7:00 |
 | 63 | [Fulani](https://open.spotify.com/track/3HS62i8kDcfuq2MkcB6OCM) | [The Nile Project](https://open.spotify.com/artist/1LwX3TYza2Yek1QdH3OLoX) | [Tana](https://open.spotify.com/album/19gZ7DkaEvTw5jWPRo3peP) | 8:29 |
-| 64 | [Let's Start \(Edit with Intro\)](https://open.spotify.com/track/2pBCnp1nDhmkHb4YVWyVMj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Let's Start \(Edit\)](https://open.spotify.com/album/6TQzQnxoIGoF34pk8V5Mfu) | 3:41 |
+| 64 | [Let's Start \- Edit with Intro](https://open.spotify.com/track/2pBCnp1nDhmkHb4YVWyVMj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Let's Start \(Edit\)](https://open.spotify.com/album/6TQzQnxoIGoF34pk8V5Mfu) | 3:41 |
 | 65 | [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 |
 | 66 | [Salama](https://open.spotify.com/track/2376s7G0bYFg86hnW42xE7) | [Liboi](https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp), [Jam Session Band](https://open.spotify.com/artist/58GicmmfATVxSWBWoK497J) | [Salama](https://open.spotify.com/album/2aOrubpmIFRaoYtkjKRwk3) | 4:33 |
 | 67 | [Kumisa ye](https://open.spotify.com/track/5Lm2TuHuLPsde8vlOBP8ke) | [Kanda Bongo Man](https://open.spotify.com/artist/4vW2jrWYJT4wDkjbhpubca) | [Kekete bue](https://open.spotify.com/album/0bWyy4kW167YrikgdCM26A) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Bahouche](https://open.spotify.com/track/6XW5F3Pl2kej7UfE4EibIX) | [Amaria Hamadalher](https://open.spotify.com/artist/7tEjTXOcxGi1LSgDagCZsy) | [Agrim Agadez \- Musique Guitare de la Republique du Niger](https://open.spotify.com/album/2VqrQg7pWmXSt19Kym8elf) | 3:04 |
 | 100 | [Biwamiel](https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Biwamiel](https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa) | 2:35 |
 
-Snapshot ID: `AAAAAOdJqSafgDeAgkOppkTsJq4H9ktl`
+Snapshot ID: `AAAAAOuEZ60EYoGHuhaTT9M5goQcOcX4`

@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
@@ -486,7 +504,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -677,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv"
+    },
+    {
+      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
       },
@@ -688,7 +724,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 170859,
       "name": "Boston",
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
@@ -1010,6 +1046,24 @@
     {
       "album": {
         "name": "Clean Baby Sleep Multi Color Noises (Loopable)",
+        "url": "https://open.spotify.com/album/5HgYJl8I4fnSDyF0HnWimQ"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Clean Baby Sleep White Noise (Loopable no fade)",
+      "url": "https://open.spotify.com/track/3BgK59BTBUs8iQtnegfMfz"
+    },
+    {
+      "album": {
+        "name": "Clean Baby Sleep Multi Color Noises (Loopable)",
         "url": "https://open.spotify.com/album/2H7n4za6FUcXi3UyNxbjOc"
       },
       "artists": [
@@ -1310,7 +1364,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/7gkZNvBHfI30qG7hA0eopT"
@@ -2502,7 +2556,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
@@ -2911,6 +2965,28 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251960,
+      "name": "Islands In the Stream",
+      "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
+    },
+    {
+      "album": {
         "name": "It Feels Like Christmas (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn"
       },
@@ -3086,6 +3162,24 @@
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "album": {
@@ -3392,7 +3486,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -3630,6 +3724,24 @@
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
+    },
+    {
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
       "album": {
@@ -3916,7 +4028,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 217380,
       "name": "My Body Isn't Ready",
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
@@ -4368,7 +4480,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
@@ -5770,7 +5882,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2k3MdyqMHmfZubFg3pmtby"
@@ -5990,6 +6102,24 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
+    },
+    {
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "album": {

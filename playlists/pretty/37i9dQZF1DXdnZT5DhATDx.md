@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 
 > Listen to the most memorable tracks from Game of Thrones, House of the Dragon, and A Knight of the Seven Kingdoms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,908 likes - 79 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,916 likes - 79 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 | 78 | [The Last of the Starks](https://open.spotify.com/track/4fXqpIzgHDBhylBBOLOKVX) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 4:52 |
 | 79 | [A Song of Ice and Fire](https://open.spotify.com/track/1AvLUHxSunGMWWRfEFmWSC) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 2:11 |
 
-Snapshot ID: `AAAAAPOGYBLCZmrskW8Q5hB7f4g08br7`
+Snapshot ID: `AAAAAF+NUH5aOoUbxzHvVCEzBEJFuT5z`

@@ -8115,6 +8115,32 @@
     },
     {
       "album": {
+        "name": "In Luce Gratiae",
+        "url": "https://open.spotify.com/album/4g0YssVJuDpqZya7TyaqxJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Goldmund Quartet",
+          "url": "https://open.spotify.com/artist/0FnOdHfjxgm6gvr5B0us9t"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235003,
+      "name": "In Luce Gratiae",
+      "url": "https://open.spotify.com/track/4mRFXmLKlkX23U4uPhW80p"
+    },
+    {
+      "album": {
         "name": "In Paradisum",
         "url": "https://open.spotify.com/album/7aBPTOIQycGBJDZHGjAV7d"
       },
@@ -19657,6 +19683,24 @@
     },
     {
       "album": {
+        "name": "Theme from Samson and Delilah (arr. Nina Simone)",
+        "url": "https://open.spotify.com/album/6KXmXf0AHeN8DOSxzTi4kQ"
+      },
+      "artists": [
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306401,
+      "name": "Theme from Samson and Delilah - arr. Nina Simone",
+      "url": "https://open.spotify.com/track/6pphfcdaEUbRc4EuMCurNW"
+    },
+    {
+      "album": {
         "name": "Themes from \"Chocolat\"",
         "url": "https://open.spotify.com/album/5tXgdLtcqaE4UgKCDlJauV"
       },
@@ -21456,6 +21500,36 @@
       "duration_ms": 106853,
       "name": "Violin Concerto No. 4 in F Minor, RV 297 \"Winter\": II. Largo",
       "url": "https://open.spotify.com/track/4dFPaQkHKPW6ZOoBrzsf03"
+    },
+    {
+      "album": {
+        "name": "Bruch: Violin Concerto",
+        "url": "https://open.spotify.com/album/2vjVmFsJ9QoDOewYDrs2tC"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Eldbj\u00f8rg Hemsing",
+          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+        },
+        {
+          "name": "Oslo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5cp6B8bMNsXdQKgE6exdzx"
+        },
+        {
+          "name": "Gergely Madaras",
+          "url": "https://open.spotify.com/artist/3jiXjdEZDytG3lzR7HZYKc"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239556,
+      "name": "Violin Concerto No.1, Op.26: II. Adagio - Short Edit",
+      "url": "https://open.spotify.com/track/2X99cUsbFJihFw1atlZH0g"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,818 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,819 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [Brand New Theater!](https://open.spotify.com/track/4otzfY3aH0sR0u8lIXe1EI) | [765 MILLION ALLSTARS](https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU) | [THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!](https://open.spotify.com/album/1Qf0OVZGtS3qhAYgUPabnW) | 5:09 |
 | 75 | [あたためますか？](https://open.spotify.com/track/6XnhvnxghOAQx36G7SUA0i) | [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 01](https://open.spotify.com/album/0qkGod4E6EYVBEfsOVijcx) | 4:16 |
 
-Snapshot ID: `AAAAAI2eNrfhN6jxNXhEFPc9tD4Ugep+`
+Snapshot ID: `AAAAAPLtRJRUjOK+F2Yiewnz0+RNRIle`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 
 > This is Måneskin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,365 likes - 32 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,352 likes - 32 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 13 | [Torna a casa](https://open.spotify.com/track/3590AAEoqH50z4UmhMIY85) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 3:50 |
 | 14 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 |
 | 15 | [THE LONELIEST](https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 4:07 |
-| 16 | [FOR YOUR LOVE](https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:50 |
+| 16 | [LA PAURA DEL BUIO](https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:29 |
 | 17 | [Fear for Nobody](https://open.spotify.com/track/7t3fuKd5h73oppjIgkxZ25) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:30 |
 | 18 | [TRASTEVERE](https://open.spotify.com/track/3wy4se12ucUNAfRwZpmDuz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:02 |
 | 19 | [MAMMAMIA](https://open.spotify.com/track/7oJ3Nb3LIY1ond1fHF3xio) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:06 |
-| 20 | [LA PAURA DEL BUIO](https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:29 |
+| 20 | [FOR YOUR LOVE](https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:50 |
 | 21 | [Chosen](https://open.spotify.com/track/2lDgdWIGLYuk74pDeRPgPF) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:42 |
 | 22 | [Are You Ready?](https://open.spotify.com/track/2Du09hJBFkE49xA4JqWvXS) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:33 |
 | 23 | [SUPERMODEL](https://open.spotify.com/track/0eJmsdfbAOM1KD0w50EhlD) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:28 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 31 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 |
 | 32 | [Recovery](https://open.spotify.com/track/01GZjSSjSSpvTnDNdR8r3Y) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:55 |
 
-Snapshot ID: `ao4sgAAAAACA2I1ClYOZZB1UeYLMyccF`
+Snapshot ID: `ao9+AAAAAAB1DxiXCatKrxp/8eEgZdMY`

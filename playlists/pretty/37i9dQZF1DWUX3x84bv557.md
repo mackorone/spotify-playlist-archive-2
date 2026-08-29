@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Samuel Welten & Russo
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,289 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,304 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [de laatste zomer](https://open.spotify.com/track/38CzuqJ1HtzsPinaZLmNy7) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [lieve monsters: epiloog](https://open.spotify.com/album/6xMq7H65IFjuxIJ5JWLnmr) | 3:24 |
 | 80 | [Vergeten](https://open.spotify.com/track/6Yj1i2nGfRgGQTslGK5But) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vergeten](https://open.spotify.com/album/4eqi0DD0szFvErxaNCwX9R) | 2:48 |
 
-Snapshot ID: `AAAAABqnymnLPCSAuM7b79l97cF0k+rE`
+Snapshot ID: `AAAAAL07Nz0CqEWRv5v/Co+8c1KYOVzH`

@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 399805,
+  "num_followers": 399776,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvlT9LRRTsbE7vp00HikmJQmgMT",
+  "snapshot_id": "AAAAAJ4uVfoUxGU3YnVnPaFYdLaecGQl",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
-        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
-      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "When I Write The Song",
         "url": "https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 248053,
       "name": "Two First Names",
       "url": "https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
+        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
+      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1167,18 +1167,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Another Man",
-        "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "Caiden Wallace",
-          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 196970,
-      "name": "Another Man",
-      "url": "https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Settle for a Beer (with Triston Marez)",
-        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
+        "name": "Another Man",
+        "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Caiden Wallace",
+          "url": "https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua"
         }
       ],
-      "duration_ms": 174327,
-      "name": "Settle for a Beer (with Triston Marez)",
-      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
+      "duration_ms": 196970,
+      "name": "Another Man",
+      "url": "https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Carry Me Home",
         "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 212346,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
     },
     {
       "added_at": "2026-08-07 04:01:44",

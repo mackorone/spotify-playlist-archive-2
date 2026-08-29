@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 36231,
+  "num_followers": 36240,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABi3Ew0bw2bZsIK1Qj9+B8V",
+  "snapshot_id": "ao9+AAAAAABmrq+NcvZMzz/2DPEKm1G9",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+        "name": "Young Man's Blues",
+        "url": "https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Hell of a Year",
-      "url": "https://open.spotify.com/track/0kz85nFVQ3JzZo0CRG5SQc"
+      "duration_ms": 206037,
+      "name": "Young Man's Blues",
+      "url": "https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Man's Blues",
-        "url": "https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 206037,
-      "name": "Young Man's Blues",
-      "url": "https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Probably Wrong",
         "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
       },
@@ -132,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 257773,
-      "name": "I Can't Breathe",
-      "url": "https://open.spotify.com/track/02ZvAl0VJLTMa4cfvjtCwB"
+      "duration_ms": 232653,
+      "name": "Hell of a Year",
+      "url": "https://open.spotify.com/track/0kz85nFVQ3JzZo0CRG5SQc"
     },
     {
       "added_at": null,
@@ -155,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parker McCollum",
-        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Solid Country Gold",
-      "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -187,6 +155,38 @@
       "duration_ms": 223062,
       "name": "Love (feat. Parker McCollum)",
       "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parker McCollum",
+        "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Solid Country Gold",
+      "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/02ZvAl0VJLTMa4cfvjtCwB"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 251520,
-      "name": "High Above the Water",
-      "url": "https://open.spotify.com/track/4oJU2pJNmtAlduLSAMJ7QE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 225801,
       "name": "Tails I Lose",
       "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 251520,
+      "name": "High Above the Water",
+      "url": "https://open.spotify.com/track/4oJU2pJNmtAlduLSAMJ7QE"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 265906,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/30qsfPMvKe7oMgrqHb5OXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 204489,
       "name": "I Ain't Going Nowhere",
       "url": "https://open.spotify.com/track/3Vk6skjOvvFMVYOGNaCaSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/30qsfPMvKe7oMgrqHb5OXN"
     },
     {
       "added_at": null,
@@ -635,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "Paper Umbrellas",
+        "url": "https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz"
       },
       "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 221986,
-      "name": "Hallie Ray Light",
-      "url": "https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty"
+      "duration_ms": 209968,
+      "name": "Paper Umbrellas",
+      "url": "https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO"
     },
     {
       "added_at": null,
@@ -667,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paper Umbrellas",
-        "url": "https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz"
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
       "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 209968,
-      "name": "Paper Umbrellas",
-      "url": "https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO"
+      "duration_ms": 221986,
+      "name": "Hallie Ray Light",
+      "url": "https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty"
     },
     {
       "added_at": null,

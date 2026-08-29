@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,689 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,695 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 74 | [Kunnikkuru](https://open.spotify.com/track/2kJ5S7VLdpwC4PblqJdZ5R) | [Crishna](https://open.spotify.com/artist/2MH6exyP2K90nuxJ4bqZvi) | [Kunnikkuru](https://open.spotify.com/album/7L29FFnRLDxCC91dLD1eJt) | 4:08 |
 | 75 | [WILLING](https://open.spotify.com/track/1gXE2FuQb6xJvHjZRn0Rr8) | [EKAN](https://open.spotify.com/artist/5qljCniMsqgTU5K4as7ISP), [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO) | [WILLING](https://open.spotify.com/album/2P1xCCbxu9qGlVgp0IO4OB) | 3:07 |
 
-Snapshot ID: `AAAAAGG8ISvvUPWPySdSy//efrxxHqoV`
+Snapshot ID: `AAAAAEeM9HsGHXsA0cFG+EeQlhbNddBm`

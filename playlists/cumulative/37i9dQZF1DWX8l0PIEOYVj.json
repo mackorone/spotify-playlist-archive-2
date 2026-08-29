@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 183066,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Before We Say Goodbye",
       "url": "https://open.spotify.com/track/0Ew01g0wdjESoidUYRfWW6"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 233807,
       "name": "Cold as Snow",
       "url": "https://open.spotify.com/track/5KuU7DxFZtPwchzqdfodPc"
@@ -2964,6 +2964,28 @@
       "duration_ms": 199285,
       "name": "Colorblind (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/45CwQAnBujkKzbDKX5wJmv"
+    },
+    {
+      "album": {
+        "name": "PROJECT: SOLACE",
+        "url": "https://open.spotify.com/album/1nW1DWN0cCLtcZnM0vHxIV"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "sennoh",
+          "url": "https://open.spotify.com/artist/67LhwXEg9noC6G6kge5ANj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5cpKi1At5Qq4QXJChy8l8e"
     },
     {
       "album": {
@@ -4714,7 +4736,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 176800,
       "name": "Ellowyn",
       "url": "https://open.spotify.com/track/4bYhgOsuIUukEhEh2UfL0R"
@@ -5700,7 +5722,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 190449,
       "name": "Feel",
       "url": "https://open.spotify.com/track/49pwMUsPve9VZw4yooft4n"
@@ -6832,7 +6854,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 148800,
       "name": "Glitter & Gold",
       "url": "https://open.spotify.com/track/6WAD0F28oPL1xthLnWudRh"
@@ -7749,6 +7771,32 @@
     },
     {
       "album": {
+        "name": "Hear Me Now",
+        "url": "https://open.spotify.com/album/6YDLIVYbDwJ4GNaM6sJHgJ"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199781,
+      "name": "Hear Me Now",
+      "url": "https://open.spotify.com/track/0ktwSpjmTtx3RkQkeRFk0C"
+    },
+    {
+      "album": {
         "name": "North Star",
         "url": "https://open.spotify.com/album/7eP2OC3vqDPo4LxhKG4aZj"
       },
@@ -8598,7 +8646,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 219195,
       "name": "How To Say Goodbye",
       "url": "https://open.spotify.com/track/1RT0Je4Df24UXmPMCh7JTy"
@@ -8810,7 +8858,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 138918,
       "name": "I Am Not My Body",
       "url": "https://open.spotify.com/track/5ibkAu0ZTsHYhJtNK3xm7v"
@@ -9040,6 +9088,28 @@
       "duration_ms": 140800,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/1wFIzp2i41BqnKauWxWrrs"
+    },
+    {
+      "album": {
+        "name": "I Need",
+        "url": "https://open.spotify.com/album/1vljf6DgdCNGRX3GZz5Rul"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189937,
+      "name": "I Need",
+      "url": "https://open.spotify.com/track/7xCNiQp9kNdBjo8SYllMtc"
     },
     {
       "album": {
@@ -9418,7 +9488,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 286779,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/67lUp5rf0rzq8PhAZ805Lc"
@@ -10820,7 +10890,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 217687,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/5Iby2CpAUke1noXR6mg51K"
@@ -13372,7 +13442,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 221250,
       "name": "Otherside Of You",
       "url": "https://open.spotify.com/track/3VEr7bswZsSZXZK5HvQo8b"
@@ -14348,7 +14418,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 192000,
       "name": "Right Love",
       "url": "https://open.spotify.com/track/6FYqPYLJP5huWmoNRh4lee"
@@ -16513,6 +16583,32 @@
     },
     {
       "album": {
+        "name": "Stay Away",
+        "url": "https://open.spotify.com/album/6lEm7rBODLnjVafJjHfK26"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/3Ytk6FIYM46CD9IpS8GTG5"
+    },
+    {
+      "album": {
         "name": "Stay The Night",
         "url": "https://open.spotify.com/album/1eMdAJDIE94nXFxI56HkFZ"
       },
@@ -16634,7 +16730,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 163862,
       "name": "Stormy Eyes",
       "url": "https://open.spotify.com/track/257D7KPdufE77OCPtT6Uk8"
@@ -16842,7 +16938,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 328890,
       "name": "Superluminal",
       "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"
@@ -18730,7 +18826,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 290910,
       "name": "Waking up in a Dream",
       "url": "https://open.spotify.com/track/2kDzRYSeJpr7fOqRklgiYd"
@@ -19806,6 +19902,36 @@
       "duration_ms": 176258,
       "name": "Without You (feat. Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/57LQfowCxQ3BmdlsyN9leg"
+    },
+    {
+      "album": {
+        "name": "Without You (Remixes)",
+        "url": "https://open.spotify.com/album/2JlC4FjC1cclukHKdRfhUl"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "St. Mary",
+          "url": "https://open.spotify.com/artist/053q2D9p8VzxaIzwGZhCUM"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210612,
+      "name": "Without You - St. Mary Remix",
+      "url": "https://open.spotify.com/track/5lmbCYwxVb8P1pXA39txka"
     },
     {
       "album": {

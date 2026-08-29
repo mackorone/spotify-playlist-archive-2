@@ -108,7 +108,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 180013,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/3tLAAzVOXdrORIALmSfKV3"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -3724,7 +3724,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
@@ -4801,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
@@ -4986,7 +5004,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -5142,7 +5160,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 220360,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
@@ -5214,7 +5232,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -5586,7 +5604,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
@@ -7722,6 +7740,24 @@
     {
       "album": {
         "name": "Maladie",
+        "url": "https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
+    },
+    {
+      "album": {
+        "name": "Maladie",
         "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
       },
       "artists": [
@@ -7732,7 +7768,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
@@ -8576,6 +8612,24 @@
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt"
+    },
+    {
+      "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
     },
     {
       "album": {
@@ -9454,7 +9508,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -9692,7 +9746,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/2qfAnCOsLPFs8zOQc2pNKI"
@@ -9732,6 +9786,24 @@
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
+    },
+    {
+      "album": {
+        "name": "L'undertaker, Pt.1",
+        "url": "https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
     },
     {
       "album": {
@@ -13724,7 +13796,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -13902,7 +13974,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"

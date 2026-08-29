@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,409 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,414 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 26 | [Wicked Game](https://open.spotify.com/track/5XenUjG7cRnTkUe8AVuuMX) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Greatest Love Songs Vol\. 666](https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD) | 3:53 |
 | 27 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 |
 | 28 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:43 |
-| 29 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 |
+| 29 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
 | 30 | [Awaken](https://open.spotify.com/track/5HZS0Vq4lzPyXR3s1qfjvg) | [Youth Never Dies](https://open.spotify.com/artist/2zPGFp4GWeCgriWz13XR6r), [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU), [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Awaken](https://open.spotify.com/album/6zgPifPQ5uMdWS09mGHwjd) | 4:45 |
-| 31 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
+| 31 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 |
 | 32 | [Summer Breeze](https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses](https://open.spotify.com/album/127mCJhPsHAB33rOYybK04) | 4:49 |
 | 33 | [In the Air Tonight](https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Recoil \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G) | 4:33 |
 | 34 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 49 | [Johnny B\. Goode](https://open.spotify.com/track/307B0j257d72HTyAiohF8N) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 4:39 |
 | 50 | [How It's Done](https://open.spotify.com/track/5IXGxvewBsrfHtfym01YfL) | [Andrew Baena](https://open.spotify.com/artist/31Jtwuc3XU8MypjID0ZuIm), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Phasestep](https://open.spotify.com/artist/0pJjEJ9Nr9LP0Ioq8hH9f3) | [How It's Done](https://open.spotify.com/album/64ubOftES7s24r5sMpraAb) | 2:54 |
 
-Snapshot ID: `AAAAAK4KOHNA8hLxj9t12VCOBepuVZoL`
+Snapshot ID: `AAAAAIHkTbg25T3cDEx1IlMamVoW7S/4`

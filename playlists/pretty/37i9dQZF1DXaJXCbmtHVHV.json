@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Morgan Wallen",
-  "num_followers": 694332,
+  "num_followers": 694403,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANIxa0YmpuEuexpE2K3HPfY87TyG",
+  "snapshot_id": "AAAAALV84k1ucj4yox7BDglKSydEdKG8",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:52",
@@ -427,42 +427,6 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2026-08-28 04:01:52",
-      "album": {
-        "name": "Mount Pleasant",
-        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 136746,
-      "name": "Emerald City",
-      "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
-    },
-    {
-      "added_at": "2026-08-28 04:01:52",
-      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -483,18 +447,38 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/2jvpJVr7HjZh61bEyp5gKC"
       },
       "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 136746,
+      "name": "Emerald City",
+      "url": "https://open.spotify.com/track/2W6KXuxXkZHhdsfMiYkFi2"
+    },
+    {
+      "added_at": "2026-08-28 04:01:52",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 160901,
-      "name": "20 Cigarettes",
-      "url": "https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg"
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -511,6 +495,22 @@
       "duration_ms": 139173,
       "name": "Brunette",
       "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
+    },
+    {
+      "added_at": "2026-08-28 04:01:52",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 160901,
+      "name": "20 Cigarettes",
+      "url": "https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -563,22 +563,18 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/1n1qfuzOvQlnH6HKdSsXmY"
       },
       "artists": [
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
         }
       ],
-      "duration_ms": 218946,
-      "name": "Don't Mind If I Do",
-      "url": "https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG"
+      "duration_ms": 185986,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/14xGdSrAmwpSz0TPTyx3yM"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -615,18 +611,22 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/1n1qfuzOvQlnH6HKdSsXmY"
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
       "artists": [
         {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 185986,
-      "name": "Sunburn",
-      "url": "https://open.spotify.com/track/14xGdSrAmwpSz0TPTyx3yM"
+      "duration_ms": 218946,
+      "name": "Don't Mind If I Do",
+      "url": "https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "Back in the Saddle",
-        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 213062,
-      "name": "Back in the Saddle",
-      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
-    },
-    {
-      "added_at": "2026-08-28 04:01:52",
-      "album": {
         "name": "White Horse",
         "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2026-08-28 04:01:52",
+      "album": {
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 213062,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 207878,
-      "name": "Traitor (Roles Reversed)",
-      "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
-    },
-    {
-      "added_at": "2026-08-28 04:01:52",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 175026,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
+    },
+    {
+      "added_at": "2026-08-28 04:01:52",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 207878,
+      "name": "Traitor (Roles Reversed)",
+      "url": "https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj"
     },
     {
       "added_at": "2026-08-28 04:01:52",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-08-28 04:01:52",
       "album": {
+        "name": "Jack and Diet Coke",
+        "url": "https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5"
+      },
+      "artists": [
+        {
+          "name": "Redferrin",
+          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
+        }
+      ],
+      "duration_ms": 193399,
+      "name": "Jack and Diet Coke",
+      "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
+    },
+    {
+      "added_at": "2026-08-28 04:01:52",
+      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 237493,
       "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
-    },
-    {
-      "added_at": "2026-08-28 04:01:52",
-      "album": {
-        "name": "Jack and Diet Coke",
-        "url": "https://open.spotify.com/album/4JbUjpi4rUoHTxEtlkiFj5"
-      },
-      "artists": [
-        {
-          "name": "Redferrin",
-          "url": "https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF"
-        }
-      ],
-      "duration_ms": 193399,
-      "name": "Jack and Diet Coke",
-      "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
     },
     {
       "added_at": "2026-08-28 04:01:52",

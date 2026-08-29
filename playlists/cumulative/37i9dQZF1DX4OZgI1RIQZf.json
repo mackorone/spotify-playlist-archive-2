@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Holiday in Lily Dale",
+        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
+      },
+      "artists": [
+        {
+          "name": "Get Well Soon",
+          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293901,
+      "name": "Holiday in Lily Dale",
+      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
+    },
+    {
+      "album": {
         "name": "Samhain",
         "url": "https://open.spotify.com/album/486TNLvAmoExeXdB9Iiu4n"
       },
@@ -2078,7 +2096,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 162320,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
@@ -2132,7 +2150,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 185400,
       "name": "Right On, Frankenstein!",
       "url": "https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5"
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 217880,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn"

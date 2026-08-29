@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Alok",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Beltran",
   "name": "mint brasil",
   "tracks": [
     {
@@ -274,7 +274,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 181417,
       "name": "Amor en Miami",
       "url": "https://open.spotify.com/track/0AGXJn0vNyFHJNA4B5oF13"
@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Baby Do You Wanna Bump",
+        "url": "https://open.spotify.com/album/1KnYyxYPqjIfIi6epO99wm"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Baby Do You Wanna Bump",
+      "url": "https://open.spotify.com/track/6dL7IcJKZsMk2ClvsW65GX"
+    },
+    {
+      "album": {
         "name": "Bacilando",
         "url": "https://open.spotify.com/album/4NAKAQ39iDgxXEF2lDKmzF"
       },
@@ -580,6 +598,28 @@
       "duration_ms": 185806,
       "name": "Beat, Slow, Check",
       "url": "https://open.spotify.com/track/6wTbJIaTtp14XhndssikxH"
+    },
+    {
+      "album": {
+        "name": "Beatzinho de Bandido",
+        "url": "https://open.spotify.com/album/5cT7b1GLTuQbRCCK9xYGP9"
+      },
+      "artists": [
+        {
+          "name": "DOB\u00ca",
+          "url": "https://open.spotify.com/artist/5EdI5k1CIveXTaJxtkmnVv"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149826,
+      "name": "Beatzinho de Bandido",
+      "url": "https://open.spotify.com/track/35nEJJMKB3W30qVF4g7hE1"
     },
     {
       "album": {
@@ -1219,6 +1259,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/48RVKGaIgOru7CP3kKhqi3"
+      },
+      "artists": [
+        {
+          "name": "RED\u00dcKT",
+          "url": "https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH"
+        },
+        {
+          "name": "Kaala Shaw",
+          "url": "https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4HJ0zn4lCBt9GsqM3lwP7j"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/290BpL6mrDRNMUCEACrPeC"
       },
@@ -1710,7 +1772,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 241874,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/5pLFOpNdud49iK0GHLgFbE"
@@ -3306,7 +3368,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 196186,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/3O5zzdH0etphaiTJMBAVCJ"
@@ -3618,6 +3680,24 @@
       "duration_ms": 175555,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn"
+    },
+    {
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/0BWHItIN8Po4HdmjTgRJpu"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/5SlgO3tndAkHsew4j09cbE"
     },
     {
       "album": {
@@ -4417,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "M A M I",
+        "url": "https://open.spotify.com/album/0vzPOMvyveOXKIbCZ2lBoz"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "M A M I",
+      "url": "https://open.spotify.com/track/4kNKhrMcTemETjYXtvVYiM"
+    },
+    {
+      "album": {
         "name": "Human Experience",
         "url": "https://open.spotify.com/album/4Gv0T3z8IBCxGaohWJvoBf"
       },
@@ -4944,7 +5042,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 146484,
       "name": "My Time",
       "url": "https://open.spotify.com/track/6qWI0OPscA0MW4G6kjWGUg"
@@ -6150,7 +6248,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 205984,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/53OLMfDeaFJgosZsxNSLT9"

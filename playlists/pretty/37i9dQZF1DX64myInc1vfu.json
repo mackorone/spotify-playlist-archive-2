@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
-  "num_followers": 106216,
+  "num_followers": 106218,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH0MN4kDWutlgstl5DCFHxq2hwdg",
+  "snapshot_id": "AAAAAEmHCGvHTyBieHVzpnQacsoRySJV",
   "tracks": [
     {
       "added_at": "2025-10-24 04:00:22",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "\u00bfPara qu\u00e9?",
-        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\u00bfPara qu\u00e9?",
-      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Casi algo",
         "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 165229,
       "name": "Casi algo",
       "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "\u00bfPara qu\u00e9?",
+        "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u00bfPara qu\u00e9?",
+      "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Ojos de Serpiente",
-        "url": "https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt"
-      },
-      "artists": [
-        {
-          "name": "DORA",
-          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
-        }
-      ],
-      "duration_ms": 171145,
-      "name": "Ojos de Serpiente",
-      "url": "https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "traguito",
         "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Ojos de Serpiente",
+        "url": "https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt"
+      },
+      "artists": [
+        {
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
+        }
+      ],
+      "duration_ms": 171145,
+      "name": "Ojos de Serpiente",
+      "url": "https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Agua por el rio",
-        "url": "https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio"
-      },
-      "artists": [
-        {
-          "name": "CES",
-          "url": "https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE"
-        },
-        {
-          "name": "omarverso",
-          "url": "https://open.spotify.com/artist/4VNxOXL24ht0hPmJMUXrWw"
-        },
-        {
-          "name": "Delusion Bay",
-          "url": "https://open.spotify.com/artist/0rQX6hHB09a9yf7tBLPXzz"
-        }
-      ],
-      "duration_ms": 188150,
-      "name": "Agua por el rio",
-      "url": "https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "No te vayas",
         "url": "https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 184461,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Agua por el rio",
+        "url": "https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio"
+      },
+      "artists": [
+        {
+          "name": "CES",
+          "url": "https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE"
+        },
+        {
+          "name": "omarverso",
+          "url": "https://open.spotify.com/artist/4VNxOXL24ht0hPmJMUXrWw"
+        },
+        {
+          "name": "Delusion Bay",
+          "url": "https://open.spotify.com/artist/0rQX6hHB09a9yf7tBLPXzz"
+        }
+      ],
+      "duration_ms": 188150,
+      "name": "Agua por el rio",
+      "url": "https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih"
     },
     {
       "added_at": "2025-10-24 04:00:22",

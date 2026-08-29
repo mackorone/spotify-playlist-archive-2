@@ -4,7 +4,7 @@
 
 > HITS 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Bruno Mars
 
-163 songs - 9 hr 5 min
+164 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 | 2026-02-27 | 2026-05-02 |
 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-02-23 |  |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-05-29 |  |
+| [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 | 2026-08-28 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2025-12-17 | 2026-08-15 |
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2026-02-13 | 2026-02-28 |
 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 | 2025-12-17 | 2026-01-24 |

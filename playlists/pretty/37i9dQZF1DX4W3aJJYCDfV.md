@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from F3miii, Alex Warren, Olivia Rodrigo, Chase &  Status and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,863 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,439 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 53 | [No Other](https://open.spotify.com/track/5ykKgXjoriGkSfhhQH1smq) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Into The Sky](https://open.spotify.com/album/3j1aeN9AH2K5AgESFkY8lI) | 3:43 |
 | 54 | [Talk to Me](https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nicole Miglis](https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2) | [Talk to Me](https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg) | 3:42 |
 | 55 | [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 |
-| 56 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 |
+| 56 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 57 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 |
 | 58 | [Zombie](https://open.spotify.com/track/5BiwgI8EvARjyeYrl0TTwa) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Zombie](https://open.spotify.com/album/3VddMbNgo0HnMehO6PjQer) | 2:48 |
 | 59 | [YoYo](https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [YoYo](https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [Quantum Loop](https://open.spotify.com/track/1GMjcZBvlOwh0p049TQ3lT) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Quantum Loop](https://open.spotify.com/album/5KqUNU7Ins1qaVeBwtFYGf) | 3:30 |
 | 100 | [I'M NOT CRAZY, YOU ARE](https://open.spotify.com/track/45oKOagooBsz0SQoACoXym) | [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA), [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [FOR THE HELL OF IT](https://open.spotify.com/album/4T0WS2ZJPHTY48Szqz4Ml0) | 3:04 |
 
-Snapshot ID: `AAAAAD8UXMSWHbqopiNGYdO6WbgwGnI+`
+Snapshot ID: `AAAAAFMZLHFMm1sa46tUG7pnJO+D1Ocf`

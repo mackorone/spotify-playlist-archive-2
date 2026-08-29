@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,445 likes - 49 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,474 likes - 49 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 17 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
 | 18 | [Psalm 8 \(Hallé\)](https://open.spotify.com/track/5gpm7e3PJgsxHH8bLKNAwC) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Psalm 8 \(Hallé\)](https://open.spotify.com/album/52RP6I8Cdgw9OG4u8vqqJm) | 3:48 |
 | 19 | [The King Is In The Room](https://open.spotify.com/track/7g5XHIyUEAOIAVgQvPx7uW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:02 |
-| 20 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 |
+| 20 | [Great Things](https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:50 |
 | 21 | [Psalm 23](https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:34 |
-| 22 | [Great Things](https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:50 |
+| 22 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 |
 | 23 | [Praise The Lord Forever](https://open.spotify.com/track/70LE3Qk0VsT1Hw5MtHaueA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Praise The Lord Forever](https://open.spotify.com/album/4p6kzgFOhScjUElxQddUFN) | 5:25 |
 | 24 | [The Stand \(Amen\)](https://open.spotify.com/track/2bFZNTrKGU2NovAq9tX6T2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 2:02 |
 | 25 | [The Jesus Way](https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:43 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 48 | [Fear Has No Power](https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Fear Has No Power](https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo) | 4:17 |
 | 49 | [Living Hope](https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 6:22 |
 
-Snapshot ID: `ao4sgAAAAADGpQ0stN6t7xoxY43qs3q9`
+Snapshot ID: `ao9+AAAAAABzO8OaB3hugpdZRdKwj8e3`

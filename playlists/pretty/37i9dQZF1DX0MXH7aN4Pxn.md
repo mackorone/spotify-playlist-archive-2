@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,914 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,869 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 30 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
 | 31 | [REHAB](https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [REHAB](https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas) | 3:15 |
 | 32 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
-| 33 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
-| 34 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
+| 33 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
+| 34 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
 | 35 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 36 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 |
 | 37 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 42 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
 | 43 | [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 |
 | 44 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
-| 45 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 |
-| 46 | [You Little Beauty](https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [You Little Beauty](https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b) | 3:26 |
+| 45 | [You Little Beauty](https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [You Little Beauty](https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b) | 3:26 |
+| 46 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 |
 | 47 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 |
 | 48 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
 | 49 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 99 | [They Don't Know \- Radio Edit](https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [They Don't Know \(Radio Edit\)](https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV) | 2:41 |
 | 100 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 |
 
-Snapshot ID: `AAAAAPb19y7DtWpjuu7fK3pdJunGpurC`
+Snapshot ID: `AAAAALSz/DUIH3C7+yHhQXmiJ/c94lAb`

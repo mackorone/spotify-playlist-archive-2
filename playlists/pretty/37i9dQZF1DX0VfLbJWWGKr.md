@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VfLbJWWGKr.md) - [plain]
 
 > Chug chug chug to some 90s/00s throwbacks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,158 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,235 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VfLbJWWGKr.md) - [plain]
 | 49 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 |
 | 50 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 |
 
-Snapshot ID: `AAAAALpwEm9eTq2yYzNlOSLGBSc35Njy`
+Snapshot ID: `AAAAADRUvrOez5YCx8aGbqF2IUgNNSp+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Mix yalnızca Premium'da\. Kapak: Bora Uzer
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,291 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,288 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 49 | [Vertigo](https://open.spotify.com/track/64aXxgrtA3T2gYdxzJhIA4) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Vertigo](https://open.spotify.com/album/5nS0sCJUWnextYkGXuKfKn) | 2:38 |
 | 50 | [Bubblegum Moonlight](https://open.spotify.com/track/6xP0ntDwDUHZPtdrKJfBDx) | [Cagan Tunali](https://open.spotify.com/artist/4J4jrBN4VwLUYCrZ0I0L69) | [Bubblegum Moonlight](https://open.spotify.com/album/4AkOPYDLYRHcPj9nkxwUe5) | 4:08 |
 
-Snapshot ID: `AAAAAKrQJEHod9DM9csmyNzsZkodzjW+`
+Snapshot ID: `AAAAAFwMida9iamROFf7DWq2bjCzROLs`

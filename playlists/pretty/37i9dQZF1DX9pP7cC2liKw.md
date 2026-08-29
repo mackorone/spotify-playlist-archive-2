@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,713 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,874 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 21 | [All Night Long](https://open.spotify.com/track/1241XE9zZ2r4EmimoH9znZ) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 4:20 |
 | 22 | [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 |
 | 23 | [Lo Bueno Está Aquí](https://open.spotify.com/track/3VZszH38QS6BWiKEWeZIw8) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/5R5CPGWYyfFJNaGPZ32v8i) | 4:22 |
-| 24 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
-| 25 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 |
+| 24 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 |
+| 25 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
 | 26 | [Bella](https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Los Miranda](https://open.spotify.com/artist/1gEJUDZiXSNjVJBDzpZh8f) | [Bella](https://open.spotify.com/album/6govxhovGzVddUXNOlA74I) | 3:08 |
 | 27 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 |
 | 28 | [Santa Teresa](https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Santa Teresa](https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT) | 4:58 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 42 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 |
 | 43 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
 | 44 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
-| 45 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 |
+| 45 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
 | 46 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
 | 47 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
-| 48 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
+| 48 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 |
 | 49 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 |
 | 50 | [Trago Coqueto](https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:02 |
 | 51 | [La de la terraza](https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Sonidos enraizados](https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw) | [La de la terraza](https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g) | 2:43 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 58 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 59 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
 | 60 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
-| 61 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
-| 62 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
+| 61 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
+| 62 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
 | 63 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
 | 64 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 |
 | 65 | [Guadalupe](https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Guadalupe](https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS) | 3:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 69 | [Encerrada](https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Encerrada](https://open.spotify.com/album/5jCdPRTOcPLQNPZNHugD0s) | 3:03 |
 | 70 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
 
-Snapshot ID: `AAAAADaqmXvvcvrLhN5xQ+thLjvWrf6R`
+Snapshot ID: `AAAAAPsbLkFVNVaCriab2ecPVSpIMPoB`

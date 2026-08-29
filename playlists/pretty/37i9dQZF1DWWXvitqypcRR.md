@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,639 likes - 45 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,650 likes - 45 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 32 | [Dreams](https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Free Your Mind](https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ) | 3:56 |
 | 33 | [Flying Away With You \- Meera Remix](https://open.spotify.com/track/44hSXkJy30LXwqWrZYoWca) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [meera](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Flying Away With You Remixes](https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q) | 8:59 |
 | 34 | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s) | [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi), [Mixmasters](https://open.spotify.com/artist/4ccqZWdI5OZP6twQ3c8GV9) | [My Life Is A Disco \(In The Mix\)](https://open.spotify.com/album/5Ewcwq6g95vO2qXiXN1AKc) | 2:55 |
-| 35 | [Chica \(Extended\)](https://open.spotify.com/track/1kQKx4quUZKvfvQRH2fK3T) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica \(Extended\)](https://open.spotify.com/album/0vVc6L8XW8avoLJyrRoUNI) | 5:20 |
+| 35 | [Chica \- Extended](https://open.spotify.com/track/1kQKx4quUZKvfvQRH2fK3T) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica \(Extended\)](https://open.spotify.com/album/0vVc6L8XW8avoLJyrRoUNI) | 5:20 |
 | 36 | [Runi](https://open.spotify.com/track/5RJQ2hrUhA3r8ZhuYe6fEt) | [Tony Shades](https://open.spotify.com/artist/05mqqOutOMYYx1n1vjYO7K) | [Runi](https://open.spotify.com/album/5r0y5EG6VrXH5s9lwh1ScG) | 4:58 |
 | 37 | [Burning \- Art Department Remix](https://open.spotify.com/track/4pUsOhHb9btd7e0frfTCNA) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx), [Nick Maurer](https://open.spotify.com/artist/6z70ncdIFVoybnZoh3O5F1), [Art Department](https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x) | [Burning](https://open.spotify.com/album/2wPCzQEXLV1bmPzOkmgor4) | 8:58 |
 | 38 | [I'm Tango](https://open.spotify.com/track/0B6cQPlHYg5fJQBSRSgiMo) | [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [I'm Tango](https://open.spotify.com/album/1OiRWYDvJBDwsPk8o24yzM) | 4:39 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 44 | [The Naked Now](https://open.spotify.com/track/4lH5gha8A37wzZ4Kk50ULq) | [Panthera Krause](https://open.spotify.com/artist/6vpvDZ1hqY1GUPUjvyiCjU) | [Uncanny Valley 50 YELLOW](https://open.spotify.com/album/2hywpYwe6v0SFmzeu6oqeA) | 6:36 |
 | 45 | [Apocalypse \- Tripolism Remix](https://open.spotify.com/track/5CU5ozmWAvfa8LjOYNdsSI) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Max Zotti](https://open.spotify.com/artist/3po7iOEDHDHM8gnpoe7DY3), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Apocalypse \(Tripolism Remix\)](https://open.spotify.com/album/2jSlFnFQ0sUQwV1YRxwFMn) | 4:21 |
 
-Snapshot ID: `AAAAAJrwUIsPzf0CAxKFJWYGafC/d44o`
+Snapshot ID: `AAAAAMOFxQ4SlQk0d9Lh4lhxjisOEXqH`

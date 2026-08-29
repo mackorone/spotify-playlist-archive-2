@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Fcukers on the cover bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,975 likes - 99 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,004 likes - 99 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 23 | [Allbarone](https://open.spotify.com/track/4c2aIzS237QA5qLwC53wds) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Allbarone](https://open.spotify.com/album/4TO7Aq1Rx4tHk9evwzxtUA) | 4:28 |
 | 24 | [Aux Romanticiser](https://open.spotify.com/track/58mbHzbxSRXmhkRAdvYvFS) | [The Itch](https://open.spotify.com/artist/64Db5ZXKSHKOKC7h1brQck) | [Aux Romanticiser](https://open.spotify.com/album/532yLPbM08MOlMR4bPIksS) | 5:41 |
 | 25 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 |
-| 26 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
+| 26 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
 | 27 | [Read My Lips](https://open.spotify.com/track/27yzgKLVz9UZ40aPpFSdTu) | [aka Vinnie](https://open.spotify.com/artist/6UnSeTHLUTc13ReMW40rJe) | [Read My Lips](https://open.spotify.com/album/0DkRtOUeRlLA5Hi5JrAiVU) | 3:18 |
-| 28 | [Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj) | [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Writer's Block](https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2) | 4:36 |
+| 28 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 |
 | 29 | [Mujeres Unidas](https://open.spotify.com/track/44SWB3l9YVJyYAIk2vvbZE) | [Soltera](https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do), [Sonido Sex](https://open.spotify.com/artist/6ximajflym2CSoL7aawUjR) | [Mujeres Unidas](https://open.spotify.com/album/3mNJQYlxSly7ZbWpHiDdgt) | 2:56 |
 | 30 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
 | 31 | [\[club edit\]](https://open.spotify.com/track/0SwcqAkiL6FiymURyhkuWE) | [SOIRÉ](https://open.spotify.com/artist/21j6laAL26HtT9939yXKeM), [Eva Rawlings](https://open.spotify.com/artist/7omWUGMmDCBGBomOyem294) | [\[club edit\]](https://open.spotify.com/album/7vQ7k6KrYlm1I2sHoyLR75) | 3:12 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 57 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 |
 | 58 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
 | 59 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
-| 60 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
-| 61 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
+| 60 | [Fall In Love](https://open.spotify.com/track/5imUTBF35uIoABlV9g9da2) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC) | 3:43 |
+| 61 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
 | 62 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
 | 63 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
 | 64 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 98 | [I'm Good, I'm Gone](https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:09 |
 | 99 | [My Girl](https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Girl](https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2) | 2:45 |
 
-Snapshot ID: `AAAAAANeprfkKFi+OfhtlQPxoLUbMK0V`
+Snapshot ID: `AAAAAP5tz/7ZScmHD0Gc2p48iHEwtWrS`

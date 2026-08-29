@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 146042,
+  "num_followers": 146058,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADtn4qnl4cjtax/NxXymsEF",
+  "snapshot_id": "ao9+AAAAAAAZlhFqSHE4II3U/UeWO7ez",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 299557,
-      "name": "Resurrection Man",
-      "url": "https://open.spotify.com/track/53xXTqz8QfadLsXbs411si"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Floods of Triton",
         "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 269583,
       "name": "Floods of Triton",
       "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 299557,
+      "name": "Resurrection Man",
+      "url": "https://open.spotify.com/track/53xXTqz8QfadLsXbs411si"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 226493,
-      "name": "Set To Fail",
-      "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As The Palaces Burn (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/3d4wfa7dIdOJktclcAcNDy"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 283000,
       "name": "Vigil",
       "url": "https://open.spotify.com/track/2kGdo6DcwxnQ2WF3oS6ksx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Set To Fail",
+      "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
     },
     {
       "added_at": null,
@@ -603,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
       "artists": [
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "Jamey Jasta",
+          "url": "https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL"
         }
       ],
-      "duration_ms": 324666,
-      "name": "In Your Words",
-      "url": "https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY"
+      "duration_ms": 297713,
+      "name": "Poison Dream",
+      "url": "https://open.spotify.com/track/6CSdZhtJ2hmsp5OyEfzTz2"
     },
     {
       "added_at": null,
@@ -651,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "In Your Words",
+      "url": "https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lamb of God",
         "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
@@ -658,15 +678,43 @@
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "Jamey Jasta",
-          "url": "https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL"
         }
       ],
-      "duration_ms": 297713,
-      "name": "Poison Dream",
-      "url": "https://open.spotify.com/track/6CSdZhtJ2hmsp5OyEfzTz2"
+      "duration_ms": 270508,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 275924,
+      "name": "Nevermore",
+      "url": "https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/1zbNLo00Ye1fqf1Pdk2GId"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Dead Seeds",
+      "url": "https://open.spotify.com/track/3jadFJbzgsjaBcZyp8x5X6"
     },
     {
       "added_at": null,
@@ -696,54 +744,6 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 275924,
-      "name": "Nevermore",
-      "url": "https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 270508,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
       "duration_ms": 221309,
       "name": "Ill Designs",
       "url": "https://open.spotify.com/track/7sJbCv83nl2S94j8ZJz2WP"
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Dead Seeds",
-      "url": "https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW"
+      "duration_ms": 236466,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
     },
     {
       "added_at": null,

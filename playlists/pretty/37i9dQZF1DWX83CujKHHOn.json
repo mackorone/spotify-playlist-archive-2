@@ -1,12 +1,12 @@
 {
   "description": "Songs to keep you company.",
-  "num_followers": 3304633,
+  "num_followers": 3304538,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAkh+LbbS5JyEwORDkK9QVld49oU",
+  "snapshot_id": "AAAAAOp6eSuZBVITtIaKpBXBuHRSnv7D",
   "tracks": [
     {
       "added_at": "2025-08-08 04:00:42",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "We Hug Now",
-        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 248821,
-      "name": "We Hug Now",
-      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 212960,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "We Hug Now",
+        "url": "https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 248821,
+      "name": "We Hug Now",
+      "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
         "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 169226,
       "name": "Heartless (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207520,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "The Hardest Part (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 176048,
       "name": "The Hardest Part (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Never Say Never",
+      "url": "https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 237493,
       "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Never Say Never",
-      "url": "https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Lost Boy",
-        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 275280,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 332960,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Lost Boy",
+        "url": "https://open.spotify.com/album/7drYNu2imHk188vP81icR3"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "lovestrong.",
-        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "arms",
-      "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 306440,
       "name": "Possibility",
       "url": "https://open.spotify.com/track/39Odj4vLKRarATkCA31gaW"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "lovestrong.",
+        "url": "https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "arms",
+      "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "In My Blood",
-        "url": "https://open.spotify.com/album/0OrcP3iH5AnzeEmvlpunlN"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "In My Blood",
-      "url": "https://open.spotify.com/track/79jX8RM5CgPqDKdGEKNW9K"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "I'll Be Waiting",
         "url": "https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR"
       },
@@ -2151,18 +2135,18 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Wish You The Best",
-        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+        "name": "In My Blood",
+        "url": "https://open.spotify.com/album/0OrcP3iH5AnzeEmvlpunlN"
       },
       "artists": [
         {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
+      "duration_ms": 211600,
+      "name": "In My Blood",
+      "url": "https://open.spotify.com/track/79jX8RM5CgPqDKdGEKNW9K"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2179,6 +2163,22 @@
       "duration_ms": 287693,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2247,38 +2247,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Let Me Down Slowly",
-        "url": "https://open.spotify.com/album/0mRjvB3HLxs4Myma1f8vps"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Let Me Down Slowly",
-      "url": "https://open.spotify.com/track/2uaiyLKnYvazyfR0Ky3Kbk"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui"
       },
@@ -2307,6 +2275,58 @@
       "duration_ms": 190266,
       "name": "Coping",
       "url": "https://open.spotify.com/track/0RjKWagIjeOoxpsiCT4gls"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1qHaLcG3LOeh6ZB8vii5ZZ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Let Me Down Slowly",
+        "url": "https://open.spotify.com/album/0mRjvB3HLxs4Myma1f8vps"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2uaiyLKnYvazyfR0Ky3Kbk"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2343,42 +2363,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 162732,
-      "name": "Make It To Me",
-      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/1qHaLcG3LOeh6ZB8vii5ZZ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "hopeless fountain kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/1fV3TdIojhb9lQXd72HiPq"
       },
@@ -2411,6 +2395,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 162732,
+      "name": "Make It To Me",
+      "url": "https://open.spotify.com/track/2uCMaUojwuqr8CRGsLoPa6"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Somewhere Somehow",
         "url": "https://open.spotify.com/album/1d5UvO6jHEchSbMIV0qrTM"
       },
@@ -2427,6 +2427,26 @@
       "duration_ms": 226330,
       "name": "Sad Song (feat. Elena Coats)",
       "url": "https://open.spotify.com/track/7xpraKSakDJ6WWgjQEtvgT"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Beneath Your Beautiful",
+        "url": "https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2459,26 +2479,6 @@
       "duration_ms": 215840,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/2K4qtTAE8fjFaIUBFTuj1a"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Beneath Your Beautiful",
-        "url": "https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
-      "url": "https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy"
     }
   ],
   "unique_name": "Alone Again",

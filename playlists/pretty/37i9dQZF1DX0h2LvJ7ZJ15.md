@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,654,054 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,654,204 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 11 | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Slowed + Reverb\)](https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK) | 2:30 |
 | 12 | [The Lost Soul Down \- Slowed & Reverb](https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [The Lost Soul Down \(Slowed & Reverb\)](https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk) | 4:01 |
 | 13 | [AVANGARD \- Slowed](https://open.spotify.com/track/1EPi3TSB6vGbGQ4IHVpxco) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD \(Slowed\)](https://open.spotify.com/album/5n9EF7hP2GRMiklzLpPY0E) | 3:19 |
-| 14 | [Sem Tempo \- Super Slowed](https://open.spotify.com/track/780ZnY2NatxOl1olIhXSF9) | [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb) | [Sem Tempo](https://open.spotify.com/album/6uglHzHW6I7Byh9WXHH8bc) | 2:00 |
-| 15 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 |
+| 14 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 |
+| 15 | [Sem Tempo \- Super Slowed](https://open.spotify.com/track/780ZnY2NatxOl1olIhXSF9) | [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb) | [Sem Tempo](https://open.spotify.com/album/6uglHzHW6I7Byh9WXHH8bc) | 2:00 |
 | 16 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 |
 | 17 | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv) | 2:06 |
 | 18 | [Nevada \- Slowed + Reverb](https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
 | 50 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
 
-Snapshot ID: `AAAAAN8bkV+vOOvCo19+CIL62tb9+6Fu`
+Snapshot ID: `AAAAAP2VhTUhvb/maQYi2w6KdFXvXZ/Q`

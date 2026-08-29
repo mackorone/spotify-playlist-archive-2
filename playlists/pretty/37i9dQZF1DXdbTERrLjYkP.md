@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Savanna Leigh
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,449 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,450 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 74 | [how2get2me](https://open.spotify.com/track/1uRKG3qQlihYCSQVEop2lA) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [how2get2me / pocket](https://open.spotify.com/album/3yCcg5MsSClD2TnUIbu5p4) | 2:53 |
 | 75 | [Toothpaste](https://open.spotify.com/track/7gf02EFnPEN4kCD6c5jKND) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Toothpaste](https://open.spotify.com/album/72XPx3NuXX2Np9lqjHKudB) | 3:25 |
 
-Snapshot ID: `AAAAAIs1tUq51/HAuuFyIg+sR87cQqCE`
+Snapshot ID: `AAAAAJKTcuS65O1yDZXOlHXnjVs3uQBi`

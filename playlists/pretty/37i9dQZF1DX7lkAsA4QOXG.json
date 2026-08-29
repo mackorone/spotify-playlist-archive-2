@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 159585,
+  "num_followers": 159598,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABVhhg2qN0aC4unsdrxtxS9jmy4Z",
+  "snapshot_id": "AAAAALTbPWnwN/ThtSzKCKALqLDonWhv",
   "tracks": [
     {
       "added_at": "2025-03-13 14:12:56",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Suzanne (feat. Gregory Porter)",
-      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 173253,
       "name": "A Hard Day's Night",
       "url": "https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Suzanne (feat. Gregory Porter)",
+      "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/0eOoiQwGbk0shviMULCBF7"
-      },
-      "artists": [
-        {
-          "name": "Eric Scott Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 243906,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/7HO5mJHH5wLjTOb5lfqe0J"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 321256,
       "name": "Someone Like You - Spotify Singles",
       "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/0eOoiQwGbk0shviMULCBF7"
+      },
+      "artists": [
+        {
+          "name": "Eric Scott Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 243906,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/7HO5mJHH5wLjTOb5lfqe0J"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -639,6 +639,26 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Steer Your Way",
+        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 288880,
+      "name": "Steer Your Way (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -691,26 +711,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Steer Your Way",
-        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 288880,
-      "name": "Steer Your Way (feat. Norah Jones)",
-      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
         "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
-        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 258398,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
+        "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Champagne & Declarations",
-        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        },
-        {
-          "name": "Thana Alexa",
-          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
-        }
-      ],
-      "duration_ms": 277411,
-      "name": "Walk On The Wildside",
-      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Stockholm Underground",
         "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 303807,
       "name": "A Whiter Shade of Pale",
       "url": "https://open.spotify.com/track/5EQoSCrUMefedwvGUUl6ey"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Champagne & Declarations",
+        "url": "https://open.spotify.com/album/5AY7Msz86fX5pNuQtHtPL7"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
+        },
+        {
+          "name": "Thana Alexa",
+          "url": "https://open.spotify.com/artist/6jvFT2wqxaFL9lcPTrzjyV"
+        }
+      ],
+      "duration_ms": 277411,
+      "name": "Walk On The Wildside",
+      "url": "https://open.spotify.com/track/7FTnotwGzyx6fdVYfkxuTT"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Staying in Touch",
-        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        }
-      ],
-      "duration_ms": 254066,
-      "name": "The Long and Winding Road",
-      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Accelerando",
         "url": "https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF"
       },
@@ -1167,22 +1147,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+        "name": "Staying in Touch",
+        "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
       "artists": [
         {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
         },
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
         }
       ],
-      "duration_ms": 226693,
-      "name": "Bird On The Wire",
-      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
+      "duration_ms": 254066,
+      "name": "The Long and Winding Road",
+      "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1199,6 +1179,26 @@
       "duration_ms": 281333,
       "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
       "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Bird On The Wire",
+      "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "What Took You so Long",
-        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 271922,
-      "name": "We Don\u00b4t Need Another Hero",
-      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 309810,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "What Took You so Long",
+        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 271922,
+      "name": "We Don\u00b4t Need Another Hero",
+      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Yester-Me, Yester-You, Yesterday",
-        "url": "https://open.spotify.com/album/0mimWvWVLStmf5bMWepQbs"
-      },
-      "artists": [
-        {
-          "name": "Anders Widmark",
-          "url": "https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef"
-        }
-      ],
-      "duration_ms": 292249,
-      "name": "Yester-Me, Yester-You, Yesterday",
-      "url": "https://open.spotify.com/track/6d4dTwuc2FwcVLJbJvdERg"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/49ZdyLXkMzzRE01tsrM61s"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+        "name": "Yester-Me, Yester-You, Yesterday",
+        "url": "https://open.spotify.com/album/0mimWvWVLStmf5bMWepQbs"
       },
       "artists": [
         {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+          "name": "Anders Widmark",
+          "url": "https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef"
         }
       ],
-      "duration_ms": 335720,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
+      "duration_ms": 292249,
+      "name": "Yester-Me, Yester-You, Yesterday",
+      "url": "https://open.spotify.com/track/6d4dTwuc2FwcVLJbJvdERg"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "River Man (feat. Sara Caswell)",
         "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
       },
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "What's It All About?",
-        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
       },
       "artists": [
         {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
         }
       ],
-      "duration_ms": 262573,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
+      "duration_ms": 335720,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0lU9XZ3I8uyGSHLIAjG5vI"
     },
     {
       "added_at": "2025-03-13 14:12:56",

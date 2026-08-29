@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Lina\-Mariah
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,017 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,024 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 48 | [isy](https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [isy](https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL) | 2:30 |
 | 49 | [Dienstag](https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dienstag](https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH) | 2:41 |
 
-Snapshot ID: `AAAAAOXb07jPgJDk8nLg/sPflgKREd/J`
+Snapshot ID: `AAAAABIuLUGXf9xCOZlCJlnHZqa0ZW69`

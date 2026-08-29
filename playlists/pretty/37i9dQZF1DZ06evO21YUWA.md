@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,977 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,976 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 44 | [Let Us Go Into The House Of The Lord/Butterfly Sunday](https://open.spotify.com/track/4z5mBEeCOoWqqbK8rOwDN1) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 6:22 |
 | 45 | [She is My Weakness](https://open.spotify.com/track/7fdElFPQEnakOMsl9xrx8o) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 3:41 |
 | 46 | [Adult](https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 3:03 |
-| 47 | [A Child In A Sylvan Field](https://open.spotify.com/track/1G3j8I8FUIG3TeQ7edEvCA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:36 |
-| 48 | [The Names of Those Never Here](https://open.spotify.com/track/4pSAxFCffknwbI6Cdr8LXn) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 4:25 |
+| 47 | [Deva C](https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:51 |
+| 48 | [A Child In A Sylvan Field](https://open.spotify.com/track/1G3j8I8FUIG3TeQ7edEvCA) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:36 |
 | 49 | [L'enfant Perdu \- 2013 Remaster](https://open.spotify.com/track/28D8V8CbAC4hXYRTU2ljeW) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 2:13 |
 | 50 | [I Returned Her Glance](https://open.spotify.com/track/7yTlofobt0uETfyd6Gh3Ry) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 3:43 |
 
-Snapshot ID: `ao4sgAAAAAAkHvFXp2Lv86J+PGVjBYI6`
+Snapshot ID: `ao9+AAAAAABDyYzh/cclb/y3TI7ZSPGC`

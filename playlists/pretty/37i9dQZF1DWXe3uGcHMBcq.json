@@ -1,12 +1,12 @@
 {
   "description": "Rock out to the *perfect* songs from all your favorite Disney Channel shows and movies!",
-  "num_followers": 122799,
+  "num_followers": 122807,
   "original_name": "Disney Channel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEJh07QRNTIZfm8mIABrYb3soY0P",
+  "snapshot_id": "AAAAAOMRTUIRAP0wsRTQf2kReBHgatnP",
   "tracks": [
     {
       "added_at": "2026-07-14 07:00:09",
@@ -395,6 +395,30 @@
       "duration_ms": 203840,
       "name": "Wouldn't Change a Thing - From \"Camp Rock 2: The Final Jam\"",
       "url": "https://open.spotify.com/track/0Di5p4ItolIUZB8c2P0pvs"
+    },
+    {
+      "added_at": "2026-08-28 19:31:35",
+      "album": {
+        "name": "Camp Rock 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
+      },
+      "artists": [
+        {
+          "name": "Connect 3",
+          "url": "https://open.spotify.com/artist/5VO7OPvja8CKKy7zvmmb8F"
+        },
+        {
+          "name": "Camp Rock \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 164448,
+      "name": "We Rock",
+      "url": "https://open.spotify.com/track/7LAvnWNp8sojHaKwTgAY1q"
     },
     {
       "added_at": "2026-07-14 07:00:09",
@@ -947,6 +971,26 @@
       "duration_ms": 229813,
       "name": "If Only",
       "url": "https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV"
+    },
+    {
+      "added_at": "2026-08-28 19:31:35",
+      "album": {
+        "name": "Camp Rock 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7AsM74VTRiioLdXffW05lh"
+      },
+      "artists": [
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 201207,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/7fWqPukuuFHFuZO8AXBtQh"
     },
     {
       "added_at": "2026-07-14 07:00:09",
@@ -2087,22 +2131,6 @@
     {
       "added_at": "2026-07-14 07:00:09",
       "album": {
-        "name": "Camp Rock",
-        "url": "https://open.spotify.com/album/1v1i6nqVmLWXKv2a7ByqxJ"
-      },
-      "artists": [
-        {
-          "name": "Cast Of Camp Rock",
-          "url": "https://open.spotify.com/artist/6BaEtrOzEuvmxmHZRR1nNa"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "We Rock",
-      "url": "https://open.spotify.com/track/7r6ubHsaieaig4kORmmsDy"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
         "name": "Phineas and Ferb The Movie: Candace Against the Universe (Original Soundtrack)",
         "url": "https://open.spotify.com/album/17UaoAh0UsPryIa6Em6zRL"
       },
@@ -2299,22 +2327,6 @@
       "duration_ms": 156159,
       "name": "Us Against the Universe",
       "url": "https://open.spotify.com/track/71uRQNVoTpvgBPjMj0LDO8"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
-        "name": "Camp Rock 2: The Final Jam",
-        "url": "https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "Brand New Day - From \"Camp Rock 2: The Final Jam\"",
-      "url": "https://open.spotify.com/track/7MG5A5HdsYjlHNjFp6Z7ec"
     },
     {
       "added_at": "2026-07-14 07:00:09",
@@ -2847,30 +2859,6 @@
       "duration_ms": 162066,
       "name": "Rotten to the Core",
       "url": "https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd"
-    },
-    {
-      "added_at": "2026-07-14 07:00:09",
-      "album": {
-        "name": "Camp Rock 2: The Final Jam",
-        "url": "https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        },
-        {
-          "name": "Alyson Stoner",
-          "url": "https://open.spotify.com/artist/5ZuWrQzWBgJXbAfcLx2WTL"
-        },
-        {
-          "name": "Anna Maria Perez de Tagl\u00e9",
-          "url": "https://open.spotify.com/artist/4Sq9ZAY2paQJhzhuBSRoKf"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Can't Back Down - From \"Camp Rock 2: The Final Jam\"",
-      "url": "https://open.spotify.com/track/51NrdlQOSTeq0d6U7xRKsz"
     },
     {
       "added_at": "2026-07-14 07:00:09",

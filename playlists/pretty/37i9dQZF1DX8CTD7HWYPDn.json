@@ -1,12 +1,12 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1634609,
+  "num_followers": 1634504,
   "original_name": "Karaoke 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHbBtVlCj4WqJikdohcqJ7fygYIq",
+  "snapshot_id": "AAAAAKu0BlBrwmxP6D5YnPoLe173F9/6",
   "tracks": [
     {
       "added_at": "2026-03-17 11:58:46",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 206200,
       "name": "This Love",
       "url": "https://open.spotify.com/track/6ECp64rv50XVz93WvxXMGF"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "I'm Still Standing",
+      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "I'm Still Standing",
-      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 298666,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Corinne Bailey Rae",
         "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 243026,
       "name": "Let It Be - Remastered 2009",
       "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -943,22 +959,6 @@
       "duration_ms": 215160,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Everytime We Touch (Premium Edition)",
-        "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Just Once In My Life",
         "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 218013,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Everytime We Touch (Premium Edition)",
+        "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Abraxas",
-        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 260229,
-      "name": "Oye Como Va",
-      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "I Will Survive (Phil Kelsey Remix)",
         "url": "https://open.spotify.com/album/0afBUyhZUpKrvV9gxWWXM1"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 198373,
       "name": "I Will Survive - Original 7\" Version",
       "url": "https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Abraxas",
+        "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 260229,
+      "name": "Oye Como Va",
+      "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Desde Abajo",
-        "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
-      },
-      "artists": [
-        {
-          "name": "Mach & Daddy",
-          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Desde Abajo",
+        "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
+      },
+      "artists": [
+        {
+          "name": "Mach & Daddy",
+          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Mi gran noche",
-      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/5QXK9xXDSYvSOXYSJHdwOD"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 292400,
       "name": "Don't Worry Be Happy",
       "url": "https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Mi gran noche",
+      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Animales",
-        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 216999,
-      "name": "Princesas",
-      "url": "https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Glorious: The Singles 97-07",
         "url": "https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 244813,
       "name": "Torn",
       "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Animales",
+        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 216999,
+      "name": "Princesas",
+      "url": "https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 339290,
-      "name": "Piano Man",
-      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
       },
@@ -2275,18 +2259,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Sin Enchufe",
-        "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
       "artists": [
         {
-          "name": "M-Clan",
-          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 263679,
-      "name": "Carolina - En directo 2000",
-      "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
+      "duration_ms": 339290,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/3FCto7hnn1shUyZL42YgfO"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2303,6 +2287,22 @@
       "duration_ms": 223186,
       "name": "Marta, Sebas, Guille y los dem\u00e1s",
       "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Sin Enchufe",
+        "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
+      },
+      "artists": [
+        {
+          "name": "M-Clan",
+          "url": "https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6"
+        }
+      ],
+      "duration_ms": 263679,
+      "name": "Carolina - En directo 2000",
+      "url": "https://open.spotify.com/track/4UtREbGYnd1nZLckEb5y8J"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 232880,
       "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "We Are The Champions - Remastered 2011",
-      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "El Vals Del Obrero",
         "url": "https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 265426,
       "name": "Cannabis",
       "url": "https://open.spotify.com/track/0DjSa6czo5ywsf6iCtZW5A"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "The Rhythm of the Night",
-        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
-      },
-      "artists": [
-        {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "The Rhythm of the Night",
-      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Nevermind (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1f3yAtsJtY87CTmM8RLnxf"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3075,6 +3075,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "No Need To Argue",
         "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
       },
@@ -3103,22 +3119,6 @@
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285040,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Exodus (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
       },
@@ -3295,6 +3279,22 @@
       "duration_ms": 295493,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/7f0jXNMu2xjQUtmKMuWhGA"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
     },
     {
       "added_at": "2026-03-17 11:58:46",

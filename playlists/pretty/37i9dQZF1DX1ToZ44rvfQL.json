@@ -1,12 +1,12 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 524915,
+  "num_followers": 524955,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD6uO2f2kUxBng/K87HuF0wSExhq",
+  "snapshot_id": "AAAAAFzYZ7+CCIpwIR/AaOdiddEhWk2I",
   "tracks": [
     {
       "added_at": "2026-08-05 13:24:38",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-05 13:24:38",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "Traicionero",
-      "url": "https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ"
-    },
-    {
-      "added_at": "2026-08-05 13:24:38",
-      "album": {
         "name": "Circolog\u00eda",
         "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 168133,
       "name": "Waitin'",
       "url": "https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA"
+    },
+    {
+      "added_at": "2026-08-05 13:24:38",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Traicionero",
+      "url": "https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ"
     },
     {
       "added_at": "2026-08-05 13:24:38",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-08-05 13:24:38",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Sapo de Otro Pozo",
-      "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
-    },
-    {
-      "added_at": "2026-08-05 13:24:38",
-      "album": {
         "name": "Pericos & Friends",
         "url": "https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 233267,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC"
+    },
+    {
+      "added_at": "2026-08-05 13:24:38",
+      "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Sapo de Otro Pozo",
+      "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
     },
     {
       "added_at": "2026-08-05 13:24:38",

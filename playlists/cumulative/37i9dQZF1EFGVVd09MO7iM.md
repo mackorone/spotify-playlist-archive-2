@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,035 songs - 2 day 17 hr 33 min
+1,036 songs - 2 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 | 2025-12-18 |  |
 | [ADD SUV \(feat\. Pharrell Williams\) \- Armand Van Helden Club Remix](https://open.spotify.com/track/7kE1g5T0Mmc84izq9DirqZ) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [ADD SUV](https://open.spotify.com/album/7iAhrXrGRbPcXWL6E8xiIW) | 4:44 | 2024-01-29 |  |
 | [Aerosol Can](https://open.spotify.com/track/4o7o1lqpAwGTfMZDPh4EAE) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Apocalypse Soon](https://open.spotify.com/album/4PHyhh0POpgHjIB140dlFZ) | 3:02 | 2024-01-29 |  |
-| [Aim High](https://open.spotify.com/track/3ZvmOf48d9zZGrVs90CsRH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:18 | 2024-09-12 |  |
+| [Aim High](https://open.spotify.com/track/3ZvmOf48d9zZGrVs90CsRH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:18 | 2024-09-12 | 2026-08-29 |
 | [Ain't Cha \(feat\. Re\-Up Gang\)](https://open.spotify.com/track/7fS6emd0HfVz5DZCPBH2VW) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Re\-Up Gang](https://open.spotify.com/artist/7M4Mb6ruvn3SuMNWcmfQZv) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 4:41 | 2024-09-12 |  |
 | [Ain't No Doubt About It](https://open.spotify.com/track/0wIkzlWdfUvuHGw9FqOQLI) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Goin' All Out](https://open.spotify.com/album/119TqT324LissrAdkAKxf9) | 4:22 | 2024-09-12 |  |
 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 | 2024-09-28 |  |
@@ -838,6 +838,7 @@
 | [Smile](https://open.spotify.com/track/1CtBWfrEodNcQNebJXK7lG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:46 | 2024-09-12 |  |
 | [So Ambitious](https://open.spotify.com/track/0Oi1wJRbRy3ZP5phE9kNMC) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:12 | 2024-01-29 |  |
 | [So Good](https://open.spotify.com/track/7wSgOKGffpFf3EZz1mDLkJ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Miss Little Havana \(Latin America/Iberia Version\)](https://open.spotify.com/album/42GRzHxjVcoWr5jdNRkS9u) | 3:16 | 2024-06-20 | 2024-06-22 |
+| [So Hot](https://open.spotify.com/track/4yoabe3QGptxp735vqWHY0) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [So Hot](https://open.spotify.com/album/5JD0x3VbSxXvGKF8TVJ7pB) | 2:31 | 2026-08-28 |  |
 | [So Many Pros](https://open.spotify.com/track/1cnbQIZmuKlMQLENaGl6Bo) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:06 | 2024-01-29 |  |
 | [So Many Pros](https://open.spotify.com/track/4IKe8LUX0pIre0iE86X7yb) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [So Many Pros \(Video\)](https://open.spotify.com/album/2Qq5zptRXJcjlvG9YwyCMi) | 4:32 | 2024-01-30 | 2024-02-01 |
 | [Sociopath \(feat\. Kash Doll\)](https://open.spotify.com/track/4xR7m33ECxSjY1nXyWmAx0) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf) | [Sociopath](https://open.spotify.com/album/3v452sweoHYSYqZ3oVOM7c) | 2:42 | 2024-06-20 |  |

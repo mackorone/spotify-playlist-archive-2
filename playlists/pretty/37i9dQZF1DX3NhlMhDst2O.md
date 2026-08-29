@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Sintoniza los éxitos románticos del siglo pasado 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,617 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,639 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El primer tonto](https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Antología\. \. \. Los Freddy's](https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta) | 3:03 |
 | 2 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 |
 | 3 | [Qué Ironía](https://open.spotify.com/track/1iYMRwuL9vFX1R8hPAOtpi) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Sus Grandes Exitos](https://open.spotify.com/album/2Lc1RuuE6ODJ32UTX3JL6W) | 3:14 |
-| 4 | [A Donde Vayas](https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:28 |
+| 4 | [Acepto Mi Derrota](https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 4:08 |
 | 5 | [Siempre Estoy Pensando en Ella](https://open.spotify.com/track/5NqBvjxFa4Depd6VFhefjG) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Siempre Estoy Pensando en Ella](https://open.spotify.com/album/24UqV0ZmTxSeLGG5V3lyAg) | 3:43 |
 | 6 | [Oro](https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:10 |
 | 7 | [Tu Última Canción](https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Tu Última Canción](https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa) | 4:22 |
 | 8 | [La Última Canción](https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [El Quinto Trago](https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du) | 4:18 |
-| 9 | [Acepto Mi Derrota](https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Inalcanzable](https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF) | 4:08 |
+| 9 | [A Donde Vayas](https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:28 |
 | 10 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 |
 | 11 | [Dos Cartas y una Flor](https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 3:32 |
 | 12 | [Mi Vida Eres Tú](https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Mi Vida Eres Tú](https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE) | 4:10 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 57 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
 | 58 | [Ding Dong, Ding Dong, Estas Cosas del Amor](https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh) | 3:31 |
 | 59 | [Anoche Me Enamore](https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc) | [Polo Y Los Apson](https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV) | [15 Exitos Del Recuerdo](https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2) | 2:21 |
-| 60 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
-| 61 | [Porque Nos Dijimos Adios](https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:07 |
+| 60 | [Porque Nos Dijimos Adios](https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:07 |
+| 61 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
 | 62 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 |
 | 63 | [Un Sueño](https://open.spotify.com/track/713S1nCNk4yzpR8WbJcQF1) | [La Tropa Loca](https://open.spotify.com/artist/3yRt7RrCEFnIIEgenUFElv) | [El Disco de Oro de la Tropa Loca](https://open.spotify.com/album/4DfcRh0MYcnlcZOUMLGyX3) | 3:25 |
 | 64 | [Por qué?](https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:03 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 124 | [El](https://open.spotify.com/track/23fzU7JXLsFE0c7UUkdkcr) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [20 Super Exitos](https://open.spotify.com/album/3G8ZrnPcNB8SB0Uy3l68Yj) | 3:08 |
 | 125 | [Vecina](https://open.spotify.com/track/7alsNrwD1PXfQ1vDiffB8J) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Sucesos Musicales](https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5) | 2:44 |
 
-Snapshot ID: `AAAAAIdSk8Dvf8ZCS4nOCw818UFpoKAE`
+Snapshot ID: `AAAAAELRrbkJCbPedrHwE5Mip1pHDZJQ`

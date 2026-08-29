@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,841 likes - 200 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,870 likes - 200 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Change](https://open.spotify.com/track/4jAKnQfdSCC0CILVGtr1nC) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Change](https://open.spotify.com/album/4NkwHEXLQ1eTEo0NY9r6hy) | 5:25 |
 | 200 | [Romanticize](https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Romanticize](https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0) | 3:35 |
 
-Snapshot ID: `AAAAAAA0TWuK+rkUwOTXldBlX5HHFSWO`
+Snapshot ID: `AAAAADFdxzOT9eywY+sJ33HOAfaRJlHT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,892 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,882 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 17 | [Feijoada Completa](https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 2:51 |
 | 18 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
 | 19 | [Deixa A Vida Me Levar \- Ao Vivo](https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Uma Prova De Amor Ao Vivo \(Deluxe\)](https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC) | 3:14 |
-| 20 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 |
-| 21 | [Banho de Folhas](https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Banho de Folhas](https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R) | 3:51 |
+| 20 | [Banho de Folhas](https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Banho de Folhas](https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R) | 3:51 |
+| 21 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 |
 | 22 | [Quando Eu Me Chamar Saudade](https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF) | [Nelson Cavaquinho](https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5) | [Série Documento \- Nelson Cavaquinho](https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k) | 3:27 |
 | 23 | [Sambista Perfeito](https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 3:46 |
 | 24 | [Menina Você Bebeu](https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Jovelina Pérola Negra](https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf) | 3:36 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 49 | [Nosso Bem Maior](https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Nosso Bem Maior](https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v) | 4:03 |
 | 50 | [Coração Imprudente](https://open.spotify.com/track/52bhuRTX975WLB5tpGguvL) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Grupo Semente](https://open.spotify.com/artist/2bp9eOh1MD4xwxUgFQll36) | [Fundamental \- Teresa Cristina e Grupo Semente](https://open.spotify.com/album/5SYSqHKFkkeHj6HmjK6Ctv) | 2:36 |
 | 51 | [Todo Santo Dia](https://open.spotify.com/track/2eq3QByQSisn1BMigva2O5) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Todo Santo Dia](https://open.spotify.com/album/4a2772OB2irMyFceTNVP4i) | 2:55 |
-| 52 | [Gente](https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:55 |
-| 53 | [Traço De União](https://open.spotify.com/track/26bA7oKwbeJs5GvNRRBBqd) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Traço De União](https://open.spotify.com/album/06sqEby97VgsMr7ZrKuhDB) | 3:31 |
-| 54 | [Rede Velha](https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Rede Velha](https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa) | 3:12 |
+| 52 | [Traço De União](https://open.spotify.com/track/26bA7oKwbeJs5GvNRRBBqd) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Traço De União](https://open.spotify.com/album/06sqEby97VgsMr7ZrKuhDB) | 3:31 |
+| 53 | [Rede Velha](https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Rede Velha](https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa) | 3:12 |
+| 54 | [Gente](https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:55 |
 | 55 | [Tive Razão \- Live](https://open.spotify.com/track/3GKOAWCxKK7y1Rhb0Q0FaG) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco Vol.1 Ao Vivo \(Deluxe Edition\)](https://open.spotify.com/album/3RnUHSj1pNqVeWvQbEvqzI) | 9:11 |
 | 56 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
 | 57 | [Amiga da Minha Mulher / Cilada \- Ao Vivo](https://open.spotify.com/track/7wkn5YzIbYWtub1jgwp2D8) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode do Pericão \(Ao Vivo\)](https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak) | 4:52 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 64 | [Perdoa](https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Nova Bis \- Paulinho da Viola](https://open.spotify.com/album/2QipO0phbQmxu1yiR0TcEa) | 3:58 |
 | 65 | [Coragem](https://open.spotify.com/track/1Pt5sw50mjvMMCsN71R1Q9) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Munduê](https://open.spotify.com/album/6kJ0JRouLgeP9Pg45kev9v) | 3:31 |
 
-Snapshot ID: `AAAAAE51C8MNcUQ8+gwLL+xnuMkLSZAF`
+Snapshot ID: `AAAAAN4ulbLY5O/x2anFZkIdwupdOVC+`

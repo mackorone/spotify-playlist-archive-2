@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:7oHPIc7BYAIUhYFF6hSggI">Belly Gang Kushington</a>
 
-3,018 songs - 5 day 12 hr 16 min
+3,019 songs - 5 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [CAUTIOUS](https://open.spotify.com/track/5qF7knZoOT4pPq6A7xlOSw) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [CAUTIOUS](https://open.spotify.com/album/6Hz60yvlonoL9NJxKA2u15) | 2:25 | 2021-12-03 | 2022-03-05 |
 | [CBFW](https://open.spotify.com/track/6UIuQmtmOONWEnM3u4OMCh) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [CBFW](https://open.spotify.com/album/5MPPIrLYVXgyRpggIzgznd) | 2:06 | 2026-04-24 |  |
 | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/track/4e2HCzAsq32hsGabDi02v0) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CBFW \(feat\. Lil Baby\)](https://open.spotify.com/album/65yeE7D5vaPkt7pkgXeNxj) | 2:53 | 2024-01-19 | 2024-10-05 |
+| [CEILING \(feat\. Babybartier\)](https://open.spotify.com/track/7kdAP4ESxkm7IcHWejcHBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [BabyBartier](https://open.spotify.com/artist/1XNYNLCPH2kILEL73Kp1y9) | [WE ALL WE NEEDED](https://open.spotify.com/album/02maAhdqLDuf6fDwbX7jzx) | 1:41 | 2026-08-28 |  |
 | [Celine Frames](https://open.spotify.com/track/0Gmi0VeJIjybMPkJwLlS80) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Last Man Standing](https://open.spotify.com/album/2aFnmYzaupGK12iAYejKC4) | 2:35 | 2022-09-30 | 2023-01-14 |
 | [Cell Tales](https://open.spotify.com/track/3DhYADlDxFqDcxbnPDHYud) | [Lil Loaded](https://open.spotify.com/artist/7scapvSjZLSm0fBgqGM0Mn) | [Cell Tales](https://open.spotify.com/album/1E3AT2xwudhRQSFCv70XMk) | 2:10 | 2022-06-03 | 2022-07-16 |
 | [Cemetery Freestyle](https://open.spotify.com/track/4bDgMYC4RfOrc3n1oVLXfX) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW) | [Cemetery Freestyle](https://open.spotify.com/album/79j5iEvu1BVgQZlGuiQGKy) | 2:39 | 2022-03-04 | 2022-04-16 |
@@ -903,7 +904,7 @@
 | [FLASHING PINTS](https://open.spotify.com/track/7gepPsM0FUpczvCzKS0CW9) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [FLASHING PINTS](https://open.spotify.com/album/6gg4hYBTs0tGRUDC5s8p9l) | 2:50 | 2025-08-08 | 2025-09-13 |
 | [FLEEK](https://open.spotify.com/track/2BQMGNScdPTSB7OdZiwE0U) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [FLEEK](https://open.spotify.com/album/4QDkFgUYaGqqB7m079sRuS) | 2:30 | 2022-12-16 | 2023-02-11 |
 | [Flex On My Ex \(with Bankrol Hayden\)](https://open.spotify.com/track/0C8yEqa9DemIs3nm5YuzHw) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Flex On My Ex \(with Bankrol Hayden\)](https://open.spotify.com/album/6E72Jcc9G1kOPBamFeV8Zw) | 2:46 | 2022-07-29 | 2022-09-10 |
-| [FLEXED UP \(feat\. UNITUS, Sir Untre & Babybartier\)](https://open.spotify.com/track/7jlZHUs45BqtsBTPNoPLdN) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Unitus](https://open.spotify.com/artist/4i2MeDBaCWuskZDgkCVAlS), [Sir Untre](https://open.spotify.com/artist/0PxbXmWt9rzhb3VDzcYn3H), [BabyBartier](https://open.spotify.com/artist/1XNYNLCPH2kILEL73Kp1y9) | [WE ALL WE NEEDED](https://open.spotify.com/album/02maAhdqLDuf6fDwbX7jzx) | 1:34 | 2026-08-14 |  |
+| [FLEXED UP \(feat\. UNITUS, Sir Untre & Babybartier\)](https://open.spotify.com/track/7jlZHUs45BqtsBTPNoPLdN) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Unitus](https://open.spotify.com/artist/4i2MeDBaCWuskZDgkCVAlS), [Sir Untre](https://open.spotify.com/artist/0PxbXmWt9rzhb3VDzcYn3H), [BabyBartier](https://open.spotify.com/artist/1XNYNLCPH2kILEL73Kp1y9) | [WE ALL WE NEEDED](https://open.spotify.com/album/02maAhdqLDuf6fDwbX7jzx) | 1:34 | 2026-08-14 | 2026-08-29 |
 | [Flights](https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc) | [BandoPop](https://open.spotify.com/artist/3OMeFBBc6FX5Q55CxKVFjW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Flights](https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd) | 3:26 | 2022-01-21 | 2022-03-18 |
 | [Flip Phone \(with Rylo Rodriguez\)](https://open.spotify.com/track/5OytywJPZvMreSx6JCfInS) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [The Largest](https://open.spotify.com/album/49p52K2THX4ITtv8Hu6Uj0) | 2:40 | 2022-11-25 | 2023-02-04 |
 | [Flood](https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Flood](https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY) | 2:07 | 2025-08-29 | 2025-09-20 |

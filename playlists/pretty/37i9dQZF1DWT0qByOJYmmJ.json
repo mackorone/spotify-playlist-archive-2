@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 627761,
+  "num_followers": 627741,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGW5Jid9/xiAoA3PCoDrdNeh6e3u",
+  "snapshot_id": "AAAAAAzFKdTuKwonZTxRTADBYnR0gahE",
   "tracks": [
     {
       "added_at": "2024-07-11 01:38:58",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "L\u00e1grimas De Miel",
-        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "L\u00e1grimas De Miel",
-      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Fuentes de Ort\u00edz (Live session)",
         "url": "https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 179417,
       "name": "Fuentes de Ort\u00edz (Live session)",
       "url": "https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "L\u00e1grimas De Miel",
+        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "L\u00e1grimas De Miel",
+      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "pero qu\u00e9 cosa",
         "url": "https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 165500,
       "name": "pero qu\u00e9 cosa",
       "url": "https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Ni Modo",
-        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 185582,
-      "name": "Ni Modo",
-      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Olvidarme",
         "url": "https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 171305,
       "name": "Olvidarme",
       "url": "https://open.spotify.com/track/52XioIzucenybSvvimJ1hk"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Ni Modo",
+        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 185582,
+      "name": "Ni Modo",
+      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/2kM3apVttjWFLjGPMrEwCS"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 289619,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0eQpNMgtRDmG3XKypbvhsc"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Lluvia",
         "url": "https://open.spotify.com/album/5CNV03tgJu1WWidrLr2kdo"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 228852,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/5TtLmNQnPO0zOJnqTcbnX9"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/2kM3apVttjWFLjGPMrEwCS"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 289619,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0eQpNMgtRDmG3XKypbvhsc"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Deja Que Me Duela (D. Q. M. D.) - Cap.5",
-        "url": "https://open.spotify.com/album/3zqY9PDGsDWS2zSbK1LVbV"
-      },
-      "artists": [
-        {
-          "name": "Erick Mendoza",
-          "url": "https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4"
-        }
-      ],
-      "duration_ms": 226701,
-      "name": "Deja Que Me Duela (D. Q. M. D.) - Cap.5",
-      "url": "https://open.spotify.com/track/21Ebz1yXTtWQQLFFX45bmz"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/7qlpuc4FbwRwUgAbCe8XsD"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 148927,
       "name": "Alma",
       "url": "https://open.spotify.com/track/4ntfDDzYtwkw2NdStMTrER"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Deja Que Me Duela (D. Q. M. D.) - Cap.5",
+        "url": "https://open.spotify.com/album/3zqY9PDGsDWS2zSbK1LVbV"
+      },
+      "artists": [
+        {
+          "name": "Erick Mendoza",
+          "url": "https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4"
+        }
+      ],
+      "duration_ms": 226701,
+      "name": "Deja Que Me Duela (D. Q. M. D.) - Cap.5",
+      "url": "https://open.spotify.com/track/21Ebz1yXTtWQQLFFX45bmz"
     }
   ],
   "unique_name": "Qu\u00e9 Sad!",

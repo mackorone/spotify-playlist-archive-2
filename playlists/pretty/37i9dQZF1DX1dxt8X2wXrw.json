@@ -1,12 +1,12 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 83829,
+  "num_followers": 83822,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFbFQuRGKbFAizneKCtYxBWe0B/A",
+  "snapshot_id": "AAAAAHnTamrTdggg4oTR6VZsOqtVr5v4",
   "tracks": [
     {
       "added_at": "2026-08-11 03:36:42",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-08-11 03:36:42",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
-    },
-    {
-      "added_at": "2026-08-11 03:36:42",
-      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 201869,
       "name": "Ring Ring Ring",
       "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+    },
+    {
+      "added_at": "2026-08-11 03:36:42",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
     },
     {
       "added_at": "2026-08-11 03:36:42",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-08-11 03:36:42",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2026-08-11 03:36:42",
-      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "added_at": "2026-08-11 03:36:42",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2026-08-11 03:36:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-11 03:36:42",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
-    },
-    {
-      "added_at": "2026-08-11 03:36:42",
-      "album": {
         "name": "Fuck The Pain Away (Lost Tapes 2022)",
         "url": "https://open.spotify.com/album/01F1U7aavzuTAo0Rdw0eeB"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 137142,
       "name": "Fuck The Pain Away (Lost Tapes 2022)",
       "url": "https://open.spotify.com/track/1qZUQIWMamlw2iONSC10tT"
+    },
+    {
+      "added_at": "2026-08-11 03:36:42",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
     },
     {
       "added_at": "2026-08-11 03:36:42",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-08-11 03:36:42",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2026-08-11 03:36:42",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 169024,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
+    },
+    {
+      "added_at": "2026-08-11 03:36:42",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2026-08-11 03:36:42",

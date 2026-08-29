@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Lily Meola
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,355 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,353 likes - 54 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
 | 34 | [Pathetic](https://open.spotify.com/track/13QihOzLoI07UwMONgspKh) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Pathetic](https://open.spotify.com/album/2dkeoGaV6dphpNcup8KVMK) | 3:22 |
 | 35 | [Daddy Died](https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV) | [earthsignchels](https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu) | [Daddy Died](https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp) | 4:12 |
-| 36 | ['Til We Meet Again](https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | ['Til We Meet Again](https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda) | 4:19 |
-| 37 | [Raining Inside](https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Pink Pocket Pistol](https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v) | 3:40 |
-| 38 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
-| 39 | [Ethereal Redneck Shit](https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Ethereal Redneck Shit](https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D) | 3:53 |
-| 40 | [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 |
-| 41 | [High Pony](https://open.spotify.com/track/5INLroy9fRR1w5NdshKuxw) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [High Pony](https://open.spotify.com/album/2AfwyV0pnRmPb55yNXlgfO) | 2:54 |
+| 36 | [Raining Inside](https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Pink Pocket Pistol](https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v) | 3:40 |
+| 37 | ['Til We Meet Again](https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | ['Til We Meet Again](https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda) | 4:19 |
+| 38 | [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 |
+| 39 | [High Pony](https://open.spotify.com/track/5INLroy9fRR1w5NdshKuxw) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [High Pony](https://open.spotify.com/album/2AfwyV0pnRmPb55yNXlgfO) | 2:54 |
+| 40 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
+| 41 | [Ethereal Redneck Shit](https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Ethereal Redneck Shit](https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D) | 3:53 |
 | 42 | [I GO PUNK](https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [I GO PUNK](https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW) | 2:08 |
 | 43 | [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 |
 | 44 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
@@ -61,6 +61,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 51 | [Living Room Floor](https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Living Room Floor](https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO) | 4:19 |
 | 52 | [Scoreboard](https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [I Just Wanna Be Loved](https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg) | 3:24 |
 | 53 | [Ain't Over Me Yet](https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Ain't Over Me Yet](https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p) | 3:24 |
-| 54 | [junebug!](https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [junebug!](https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm) | 2:19 |
+| 54 | [Shine](https://open.spotify.com/track/3c4MBlHdGeDQgpbzk6glMG) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Shine](https://open.spotify.com/album/79sl7pH8FhvSRfazOKQdOI) | 3:14 |
 
-Snapshot ID: `AAAAABkn5qXPG8geeG7exwpQWq89v8av`
+Snapshot ID: `AAAAAE786NY4GTOYhF6KVLMNzCNHwKgW`

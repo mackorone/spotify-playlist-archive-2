@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 163056,
+  "num_followers": 163054,
   "original_name": "Los 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKip29syY5d1HxT7FF5TBmVQ7LRu",
+  "snapshot_id": "AAAAANPY4I8YBGYSfJfvQh9E4xh6+MIZ",
   "tracks": [
     {
       "added_at": "2024-05-14 17:33:16",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "QUE PRETENDES",
+      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -403,22 +423,18 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 222346,
-      "name": "QUE PRETENDES",
-      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+      "duration_ms": 229848,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -443,22 +459,6 @@
       "duration_ms": 270740,
       "name": "Adicto (with Anuel AA & Ozuna)",
       "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 229848,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Me Dej\u00e9 Llevar",
-        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
+        "name": "Me Dej\u00e9 Llevar",
+        "url": "https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
         "name": "Te Bot\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 215082,
-      "name": "Dembow",
-      "url": "https://open.spotify.com/track/30LBoQSk8gjcN0hWCWtdbF"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 215082,
+      "name": "Dembow",
+      "url": "https://open.spotify.com/track/30LBoQSk8gjcN0hWCWtdbF"
     },
     {
       "added_at": "2024-05-14 17:33:16",

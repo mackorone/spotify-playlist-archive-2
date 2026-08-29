@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-368 songs - 1 day 3 hr 6 min
+369 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Seconds and Circles](https://open.spotify.com/track/7zYGm9rxgXGenwz0tQvT2s) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A) | [Seconds and Circles](https://open.spotify.com/album/7k4psYXqD38YZviHC2Yyqm) | 3:43 | 2024-01-05 | 2024-11-23 |
 | [Sketchbook of Dreams \(Radio Edit\)](https://open.spotify.com/track/1RITW3YPUzPuuf6tqrHSEt) | [Tom van der Zaal](https://open.spotify.com/artist/38Mcg9FMChGYBabmXGr9au) | [Sketchbook of Dreams](https://open.spotify.com/album/0kKiSQBFbPZUaV8WrMl29k) | 3:45 | 2023-05-30 | 2025-11-15 |
 | [Skylark](https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Skylark](https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF) | 4:34 | 2023-02-16 |  |
-| [So it goes](https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [So it goes](https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb) | 2:36 | 2026-06-25 |  |
+| [So it goes](https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [So it goes](https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb) | 2:36 | 2026-06-25 | 2026-08-29 |
 | [Some Other Time](https://open.spotify.com/track/59289Inc7bBbite5iJyP9z) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh), [Sigurður Flosason](https://open.spotify.com/artist/1UVuPV1MM978oSl0hQG0hI) | [Some Other Time](https://open.spotify.com/album/6ODc6zxEpBCmPk9OeKbUjz) | 4:26 | 2025-01-17 | 2025-04-05 |
 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 | 2022-02-18 | 2023-11-17 |
 | [Some Other Time](https://open.spotify.com/track/6OCapkDSgkM1Nv2gOz9E29) | [Johanna Linnea Jakobsson](https://open.spotify.com/artist/69am8UyQyXz2KgO2bnxkfP) | [Some Other Time](https://open.spotify.com/album/2ZUrlorLVAPZVxEv06G3fD) | 5:23 | 2023-12-06 |  |
@@ -356,6 +356,7 @@
 | [What Love Will Do to You](https://open.spotify.com/track/4bOsrHAmfULYx4PmkLV7nr) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 2:51 | 2022-08-30 | 2022-10-13 |
 | [What'll I Do](https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [What'll I Do](https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz) | 4:05 | 2021-12-17 |  |
 | [When I Grow Too Old To Dream \- Remastered 1999](https://open.spotify.com/track/1CANiqTKDkdkLklQnvGjvf) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:34 | 2021-12-17 | 2022-05-03 |
+| [When Sunny Gets Blue](https://open.spotify.com/track/5j7yib5tny1OfNMCJiH4r7) | [Ale Nuñez](https://open.spotify.com/artist/1wYyN8M81H8KrxdkgCGzda), [Neil Swainson](https://open.spotify.com/artist/1N4zd0vJcrt52wU0wMwfCn) | [Blue Room](https://open.spotify.com/album/7kzeXA3MF9joYgh7XAcLaa) | 4:24 | 2026-08-28 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/2ttCdSWedaPtOltZLPZVAT) | [Stína Ágústsdóttir](https://open.spotify.com/artist/7tn2NxdUjOm9WuvEXQNhLi), [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [When Sunny Gets Blue](https://open.spotify.com/album/2tcBjPtxrfZLep0WKsdVAR) | 4:24 | 2023-10-13 |  |
 | [When The World Was Young](https://open.spotify.com/track/041C0yfThCF0m5dKdrO3zZ) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Anita O'Day And The Three Sounds](https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX) | 3:29 | 2021-12-17 |  |
 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 | 2023-09-15 |  |

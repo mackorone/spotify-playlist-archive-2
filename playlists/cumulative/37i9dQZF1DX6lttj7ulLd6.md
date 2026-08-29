@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-214 songs - 15 hr 35 min
+216 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Clover Club](https://open.spotify.com/track/4xWyp4noK69mf5RF8sAt47) | [Skylineer](https://open.spotify.com/artist/59QpQv4bZfkh1PgqVrxwii) | [Clover Club](https://open.spotify.com/album/49LIEfwT6jcZJ1cjmsLGOL) | 3:53 | 2025-11-10 |  |
 | [Contemplations](https://open.spotify.com/track/7EwmPnpDQsAhGNdFvI9tKE) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Contemplations](https://open.spotify.com/album/6TyHCzyKbB1ON15RPiCdYu) | 2:35 | 2025-01-20 | 2025-02-14 |
 | [Costa del Soul](https://open.spotify.com/track/0pfYPKBNCIu7WPq293pRqG) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3wQ4KYqdrJHqPq2yuuYVC9) | 5:18 | 2024-01-09 | 2024-04-19 |
-| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 | 2026-07-01 |
+| [Costa del Soul](https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU) | [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK) | [It's Love](https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG) | 5:18 | 2022-05-06 |  |
 | [Days Of Soul](https://open.spotify.com/track/5d55M6BUwHsxXPneoiXb84) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Seven Large](https://open.spotify.com/album/1jqCVKzF972INDR51m9NUR) | 6:13 | 2022-05-06 | 2023-05-12 |
 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 | 2022-05-06 |  |
 | [Divine Morning](https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7) | [Delorme & Co](https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W) | [Divine Morning](https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS) | 3:33 | 2023-08-15 |  |
@@ -74,7 +74,7 @@
 | [Givin’ It Up](https://open.spotify.com/track/7cU5eciL5P82afz3luTiTd) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Smooth Jazz Hits: \#1 Chart\-Toppers](https://open.spotify.com/album/6QrxQS2l68ht5NzNzLAFf8) | 4:01 | 2022-11-08 | 2022-11-13 |
 | [Givin’ It Up](https://open.spotify.com/track/31gDZG7i3ui4oLmWnhN0mG) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4) | 4:01 | 2022-08-10 | 2023-10-17 |
 | [Golden Hour](https://open.spotify.com/track/4wrtUe9qECKed9kfHXDUIK) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [Golden Hour](https://open.spotify.com/album/54RpcdBLgMwKUGp3gctg8A) | 3:31 | 2026-05-08 |  |
-| [Golden Hour](https://open.spotify.com/track/72hAIzB2mQRITHaWCtcAyH) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Golden Hour](https://open.spotify.com/album/79T28R4Pzi3AsZ4riDAUH8) | 2:54 | 2026-03-06 |  |
+| [Golden Hour](https://open.spotify.com/track/72hAIzB2mQRITHaWCtcAyH) | [Rosello Blue](https://open.spotify.com/artist/25oZlFal7MonBvnIataENe) | [Golden Hour](https://open.spotify.com/album/79T28R4Pzi3AsZ4riDAUH8) | 2:54 | 2026-03-06 | 2026-08-29 |
 | [Golden Hour Groove](https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt) | [Wellington Groove](https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8) | [Golden Hour Groove](https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS) | 3:16 | 2025-11-10 |  |
 | [Grinnell Street](https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Grinnell Street](https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX) | 3:55 | 2023-02-02 |  |
 | [Groove Up](https://open.spotify.com/track/0ZfygqWQPcOOvqIvN2Jiue) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE) | [Groove Up](https://open.spotify.com/album/346sBJNKPWK7q6XxtcPCAH) | 4:15 | 2024-09-09 | 2025-11-11 |
@@ -128,7 +128,7 @@
 | [Melrose Avenue](https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA) | [Melrose Avenue](https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1) | [Melrose Avenue](https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0) | 2:55 | 2023-03-16 | 2025-11-11 |
 | [Midnight At The Oasis](https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Love's Melody](https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM) | 5:20 | 2022-05-06 |  |
 | [Miss Bane](https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Got 2 Be Groovin'](https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA) | 4:51 | 2022-05-06 |  |
-| [Moonglow](https://open.spotify.com/track/1XZP9OAmx1naSx1BQLGc6l) | [The Ember Tones](https://open.spotify.com/artist/4nj0ihTitDydUAi1GFHy0F) | [Moonglow](https://open.spotify.com/album/5RRNoD1LWO66CAgINFrjgd) | 4:22 | 2026-06-30 |  |
+| [Moonglow](https://open.spotify.com/track/1XZP9OAmx1naSx1BQLGc6l) | [The Ember Tones](https://open.spotify.com/artist/4nj0ihTitDydUAi1GFHy0F) | [Moonglow](https://open.spotify.com/album/5RRNoD1LWO66CAgINFrjgd) | 4:22 | 2026-06-30 | 2026-08-29 |
 | [Moonlit Ocean](https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO) | 4:58 | 2022-05-06 | 2023-08-11 |
 | [More Or Les Paul](https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [White Sand](https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8) | 4:39 | 2022-08-16 |  |
 | [Mr\. Groove](https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Born 2 Groove](https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l) | 5:01 | 2022-05-06 |  |
@@ -155,7 +155,7 @@
 | [Peaceful Horizon](https://open.spotify.com/track/6EkB8OluCOTk6ziNVm4Tpc) | [ABCastillo Skyline Band](https://open.spotify.com/artist/41dJTxLdwWQXWXtCaIDjlu) | [Peaceful Horizon](https://open.spotify.com/album/7yYreUchmftSbB7h0EkDC0) | 3:38 | 2024-03-19 | 2026-01-22 |
 | [Peas And Carrots](https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Peas And Carrots](https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK) | 3:04 | 2023-03-09 |  |
 | [Perfect Moment](https://open.spotify.com/track/3GP271M8xEpmtEFEfC56df) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:45 | 2022-05-06 |  |
-| [Perfect Moments](https://open.spotify.com/track/0ntbWAy6aBZnDZ66Pa9LIY) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [Perfect Moments](https://open.spotify.com/album/5cKmoWnvGQp1uCfhEcGIPC) | 3:35 | 2026-05-08 |  |
+| [Perfect Moments](https://open.spotify.com/track/0ntbWAy6aBZnDZ66Pa9LIY) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [Perfect Moments](https://open.spotify.com/album/5cKmoWnvGQp1uCfhEcGIPC) | 3:35 | 2026-05-08 | 2026-08-29 |
 | [Picante](https://open.spotify.com/track/3YSonOZutvi9PoFiNxLcrS) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [Picante](https://open.spotify.com/album/0ZHhbsQQI6wFPYU4pClcaw) | 5:02 | 2026-01-14 |  |
 | [Pineapple](https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam) | [Three Peats](https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco) | [Pineapple](https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx) | 3:36 | 2023-08-18 |  |
 | [Pop's Cool Groove](https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:23 | 2022-05-06 |  |
@@ -165,6 +165,7 @@
 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 | 2022-05-06 |  |
 | [Rozil](https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:29 | 2022-05-06 |  |
 | [Saturday Cool](https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:37 | 2022-05-06 |  |
+| [Sea Mist](https://open.spotify.com/track/20sWNc5wIeri6hAdEUJM6Z) | [Amber Skyline](https://open.spotify.com/artist/3gpevXdRR0fMWy13RZYJUq) | [Sea Mist](https://open.spotify.com/album/6fLdKesHkBK25UZ9aMGhf3) | 3:51 | 2026-08-28 |  |
 | [Secret Affair](https://open.spotify.com/track/06gw3rpzTWZjqe0ff8y2kN) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 5:39 | 2022-05-06 |  |
 | [Show Me The Way](https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Looking Up](https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y) | 4:57 | 2022-08-16 |  |
 | [simply delicious](https://open.spotify.com/track/0j7PqCoTnjdE4dIxHOUo7n) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [simply delicious](https://open.spotify.com/album/0OEZ89P3GA7p9ZJlqJpMPV) | 3:13 | 2026-05-08 |  |
@@ -180,6 +181,7 @@
 | [Straight to the Heart](https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Secrets](https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc) | 3:53 | 2022-05-06 |  |
 | [Summer Groove](https://open.spotify.com/track/2oXfaASoAr4XVmubahCw08) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [This Is What I Hear](https://open.spotify.com/album/3wKbSf1poINjnQB7A1tLkl) | 4:39 | 2022-05-06 | 2026-01-22 |
 | [Summer Groove](https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:40 | 2022-06-28 | 2024-01-15 |
+| [Sunset Love](https://open.spotify.com/track/1BgzBNaZlKiLK8mRr2mKXC) | [Amber Skyline](https://open.spotify.com/artist/3gpevXdRR0fMWy13RZYJUq) | [Sunset Love](https://open.spotify.com/album/2JWMThtGv3GxgdUKaDeACQ) | 4:17 | 2026-08-28 |  |
 | [Surrender \(feat\. Boney James\)](https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD), [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Surrender](https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd) | 4:42 | 2022-05-06 | 2026-01-15 |
 | [Take It Higher](https://open.spotify.com/track/2n3CS2o8W2zUzOvGHaAynw) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Don't Stop Now!](https://open.spotify.com/album/1uVPlYMIp6GoyWWflqm9cm) | 4:23 | 2023-02-23 | 2023-03-01 |
 | [Take Me There](https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 5:14 | 2022-05-06 | 2022-10-05 |

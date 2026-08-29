@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG5M261s5FZF0MawdoKwyv/jRlzu",
+  "snapshot_id": "AAAAAG1byPR+Rv9af/6jpGNxU39TdrqO",
   "tracks": [
     {
       "added_at": "2026-08-28 04:03:47",
@@ -401,20 +401,20 @@
       "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
     },
     {
-      "added_at": "2026-07-24 04:03:38",
+      "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Famous to You",
-        "url": "https://open.spotify.com/album/6kfzInEq7MP3gwjxUdusf6"
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/7bUVYoQv3CqY6yMZdSO5F8"
       },
       "artists": [
         {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
         }
       ],
-      "duration_ms": 216261,
-      "name": "Famous to You",
-      "url": "https://open.spotify.com/track/4fk3Kq7uZYVCZGsaVJKcY3"
+      "duration_ms": 193469,
+      "name": "Your Nonsense Makes Sense",
+      "url": "https://open.spotify.com/track/3WqN67qY3EMX536LcHIknO"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -453,20 +453,20 @@
       "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
+      "added_at": "2026-07-24 04:03:38",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/7bUVYoQv3CqY6yMZdSO5F8"
+        "name": "Famous to You",
+        "url": "https://open.spotify.com/album/6kfzInEq7MP3gwjxUdusf6"
       },
       "artists": [
         {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
         }
       ],
-      "duration_ms": 193469,
-      "name": "Your Nonsense Makes Sense",
-      "url": "https://open.spotify.com/track/3WqN67qY3EMX536LcHIknO"
+      "duration_ms": 216261,
+      "name": "Famous to You",
+      "url": "https://open.spotify.com/track/4fk3Kq7uZYVCZGsaVJKcY3"
     },
     {
       "added_at": "2026-06-26 04:03:10",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
     },
     {
-      "added_at": "2026-06-26 04:03:10",
-      "album": {
-        "name": "Too Young to Die",
-        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Traffic Jam",
-          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Too Young to Die",
-      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Prizefighter",
@@ -559,6 +543,22 @@
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "added_at": "2026-06-26 04:03:10",
+      "album": {
+        "name": "Too Young to Die",
+        "url": "https://open.spotify.com/album/7b9deG3fNXBxkptJEyUW6r"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "Too Young to Die",
+      "url": "https://open.spotify.com/track/5oCG2Xp4fJlm1UGVhsCFQZ"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV"
     },
     {
+      "added_at": "2026-08-14 04:03:35",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
+    },
+    {
       "added_at": "2026-07-24 04:03:38",
       "album": {
         "name": "Home Depot",
@@ -707,22 +723,6 @@
       "duration_ms": 193039,
       "name": "Home Depot",
       "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
-    },
-    {
-      "added_at": "2026-07-17 04:02:58",
-      "album": {
-        "name": "Dustpiles",
-        "url": "https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        }
-      ],
-      "duration_ms": 243960,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/4pbQxmny6x7hYojKtu77SW"
     },
     {
       "added_at": "2026-07-10 08:00:27",
@@ -741,20 +741,20 @@
       "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
     },
     {
-      "added_at": "2026-08-14 04:03:35",
+      "added_at": "2026-07-17 04:02:58",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
+        "name": "Dustpiles",
+        "url": "https://open.spotify.com/album/7wLlEZobDhLqAYs7slQGBo"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
         }
       ],
-      "duration_ms": 169351,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
+      "duration_ms": 243960,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/4pbQxmny6x7hYojKtu77SW"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -771,6 +771,22 @@
       "duration_ms": 285466,
       "name": "Eatin' Big Time",
       "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
+    },
+    {
+      "added_at": "2026-07-24 04:03:38",
+      "album": {
+        "name": "Too Little, Too Late",
+        "url": "https://open.spotify.com/album/0o8K4r2kU6Jv6XUJiX5r3P"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 172725,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
     },
     {
       "added_at": "2026-08-14 04:03:35",
@@ -791,22 +807,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Pretty Little Liar",
-        "url": "https://open.spotify.com/album/24dL04mo8rbTz1UjztM9Um"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        }
-      ],
-      "duration_ms": 242578,
-      "name": "Pretty Little Liar",
-      "url": "https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
       },
@@ -821,36 +821,20 @@
       "url": "https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ"
     },
     {
-      "added_at": "2026-07-24 04:03:38",
+      "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Too Little, Too Late",
-        "url": "https://open.spotify.com/album/0o8K4r2kU6Jv6XUJiX5r3P"
+        "name": "Pretty Little Liar",
+        "url": "https://open.spotify.com/album/24dL04mo8rbTz1UjztM9Um"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
         }
       ],
-      "duration_ms": 172725,
-      "name": "Too Little, Too Late",
-      "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
-    },
-    {
-      "added_at": "2026-07-17 04:02:58",
-      "album": {
-        "name": "if you wanna know",
-        "url": "https://open.spotify.com/album/4aUPBUhqt0jyOhULbLR7K3"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 178095,
-      "name": "if you wanna know",
-      "url": "https://open.spotify.com/track/2raU5tgnnM697qeoIJMEL6"
+      "duration_ms": 242578,
+      "name": "Pretty Little Liar",
+      "url": "https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN"
     },
     {
       "added_at": "2026-06-26 04:03:10",
@@ -871,6 +855,22 @@
       "duration_ms": 264256,
       "name": "Ride Lonesome (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
+    },
+    {
+      "added_at": "2026-07-17 04:02:58",
+      "album": {
+        "name": "if you wanna know",
+        "url": "https://open.spotify.com/album/4aUPBUhqt0jyOhULbLR7K3"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 178095,
+      "name": "if you wanna know",
+      "url": "https://open.spotify.com/track/2raU5tgnnM697qeoIJMEL6"
     },
     {
       "added_at": "2026-07-31 04:03:48",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Double Infinity",
-        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 227070,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Frostbite",
         "url": "https://open.spotify.com/album/1kGSdeHUwCRfN1Fi7v02i4"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 202674,
       "name": "Frostbite",
       "url": "https://open.spotify.com/track/1bJPV0YFBxytUqVWnwngq5"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 227070,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "The Pines",
-        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "The Pines",
-      "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Ain't As Pretty A Blue",
         "url": "https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 237884,
       "name": "Ain't As Pretty A Blue",
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "The Pines",
+        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "The Pines",
+      "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "MISERY",
-        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
-      },
-      "artists": [
-        {
-          "name": "CARV",
-          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
-        }
-      ],
-      "duration_ms": 212581,
-      "name": "MISERY",
-      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "A Crater Wide",
         "url": "https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 190781,
       "name": "Heavy, Heavy Love",
       "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "MISERY",
+        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 212581,
+      "name": "MISERY",
+      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1625,20 +1625,20 @@
       "url": "https://open.spotify.com/track/2e04cKbyM0Zpe3nDorXhV5"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
+      "added_at": "2026-07-10 08:00:27",
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV"
+        "name": "Bad Bad Women",
+        "url": "https://open.spotify.com/album/55IToxJrbccNeyGNztfcKG"
       },
       "artists": [
         {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+          "name": "Damhnait Doyle",
+          "url": "https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB"
         }
       ],
-      "duration_ms": 203830,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
+      "duration_ms": 186794,
+      "name": "Bad Bad Women",
+      "url": "https://open.spotify.com/track/55O5z2DPUJnmOttl91NYMr"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 203830,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
         "name": "South of the Suburbs",
         "url": "https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 168000,
       "name": "South of the Suburbs",
       "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
-    },
-    {
-      "added_at": "2026-07-10 08:00:27",
-      "album": {
-        "name": "Bad Bad Women",
-        "url": "https://open.spotify.com/album/55IToxJrbccNeyGNztfcKG"
-      },
-      "artists": [
-        {
-          "name": "Damhnait Doyle",
-          "url": "https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB"
-        }
-      ],
-      "duration_ms": 186794,
-      "name": "Bad Bad Women",
-      "url": "https://open.spotify.com/track/55O5z2DPUJnmOttl91NYMr"
     }
   ],
   "unique_name": "Renegades",

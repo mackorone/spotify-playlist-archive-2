@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 24753,
+  "num_followers": 24763,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAA00WdYWWCLbkJsObKpN32t",
+  "snapshot_id": "ao9+AAAAAAAaSragG0C0aWge5m4FbWnW",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194634,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BROWN",
         "url": "https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 266276,
       "name": "Fallin' (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/40GjjsfvHz6hdeBbd8jSdG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194634,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE"
     },
     {
       "added_at": null,
@@ -331,6 +331,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 293571,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fly U Out",
+        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Fly U Out",
+      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -360,49 +416,9 @@
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 293571,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/1vHTfYiYGGwgqM2XmMCtZY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Friends Again",
-        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 218122,
-      "name": "Friends Again",
-      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fly U Out",
-        "url": "https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Fly U Out",
-      "url": "https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP"
+      "duration_ms": 179478,
+      "name": "Sneak",
+      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
     },
     {
       "added_at": null,
@@ -423,22 +439,6 @@
       "duration_ms": 251326,
       "name": "Sweetness (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Sneak",
-      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 282181,
+      "name": "CATCH A STRAY",
+      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fix Your Face",
         "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 184450,
       "name": "QVC (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 282181,
-      "name": "CATCH A STRAY",
-      "url": "https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 172844,
-      "name": "PRIZE",
-      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Documentary III",
         "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
       },
@@ -887,6 +871,26 @@
       "duration_ms": 298920,
       "name": "Run It Up (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/6bJLLoNHb5PETQM2cfjzGW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 171814,
+      "name": "PARTY FAVORS (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
     },
     {
       "added_at": null,
@@ -927,22 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+        "name": "Catching Feelings (feat. Leon Thomas) [Remix]",
+        "url": "https://open.spotify.com/album/4XwwREVubuF8cJFJ7U9rIS"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
         },
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 171814,
-      "name": "PARTY FAVORS (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
+      "duration_ms": 224001,
+      "name": "Catching Feelings (feat. Leon Thomas) - Remix",
+      "url": "https://open.spotify.com/track/2CTvSuX8S3XhbIYZ2SRiZ4"
     }
   ],
   "unique_name": "This Is Leon Thomas",

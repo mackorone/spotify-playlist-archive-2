@@ -1,12 +1,12 @@
 {
   "description": "The hip-hop party soundtrack of summer, past and present.",
-  "num_followers": 42526,
+  "num_followers": 42574,
   "original_name": "Dear Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPkSc8Vxjc5zgvh+kQPNsoCS+Dp",
+  "snapshot_id": "AAAAACQdvlqkjBxOKV0G5QGbZtML9fNN",
   "tracks": [
     {
       "added_at": "2026-05-29 18:22:24",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-05-29 18:22:24",
       "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+    },
+    {
+      "added_at": "2026-05-29 18:22:24",
+      "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 247183,
       "name": "Ran To Atlanta (feat. Future & Molly Santana)",
       "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
-      "added_at": "2026-05-29 18:22:24",
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
       "added_at": "2026-05-29 18:22:24",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-05-29 18:22:24",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2026-05-29 18:22:24",
-      "album": {
         "name": "Whatever She Wants",
         "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2026-05-29 18:22:24",
       "album": {
-        "name": "BIANCA (Extended)",
-        "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 168533,
-      "name": "WE ON GO",
-      "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2026-05-29 18:22:24",
@@ -807,6 +791,22 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "added_at": "2026-05-29 18:22:24",
+      "album": {
+        "name": "BIANCA (Extended)",
+        "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
     },
     {
       "added_at": "2026-05-29 18:22:24",

@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-301 songs - 19 hr 40 min
+302 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Seven Years](https://open.spotify.com/track/3oBsEd0mQKKge4HSSt5yV8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 2:25 | 2022-07-14 | 2022-11-14 |
 | [Since I Fell For You](https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe) | 2:58 | 2024-04-12 | 2025-09-06 |
 | [Since I Fell For You](https://open.spotify.com/track/6VRvhiVLih80IWCTXY8Sxr) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Guitar Man](https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0) | 2:58 | 2022-09-08 | 2024-04-19 |
+| [Singin’ In The Rain](https://open.spotify.com/track/5OzBwkThTUAsS7wIaKQinq) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Singin' In The Rain](https://open.spotify.com/album/444nPI4yUw6wwRSKMKELoQ) | 3:49 | 2026-08-28 |  |
 | [Smile](https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd) | 4:17 | 2021-12-21 |  |
 | [Smile](https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:17 | 2022-08-19 | 2024-04-19 |
 | [Smile](https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:57 | 2022-09-08 | 2023-08-19 |
@@ -278,7 +279,7 @@
 | [To Love You All Over Again](https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Bare Bones](https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha) | 3:57 | 2021-12-21 | 2023-08-19 |
 | [Too Young To Go Steady](https://open.spotify.com/track/1FgSAyf4cQTVTgtqnmNRDp) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 5:41 | 2021-12-21 |  |
 | [Try Your Wings](https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [Try Your Wings](https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT) | 2:54 | 2023-05-18 | 2024-04-19 |
-| [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-12-01 |  |
+| [Try Your Wings](https://open.spotify.com/track/5PXI1R8o162Ts7gJiQiv0X) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [Try Your Wings](https://open.spotify.com/album/41ff0V2xBRKpKTAOORTfZ5) | 2:54 | 2022-12-01 | 2026-08-29 |
 | [Twentysomething](https://open.spotify.com/track/5WRac8CFT4G9xIFG8bMNfP) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:40 | 2021-12-21 | 2022-09-07 |
 | [Un homme et une femme](https://open.spotify.com/track/70DFIIL8qvunU5PWwsFDtw) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Frenchy](https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o) | 3:00 | 2021-12-21 | 2023-11-10 |
 | [Waiting in Vain](https://open.spotify.com/track/4hsEJ43P9oQmIx5btLLoAV) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/5o3acBzPBPJUsT4S2VUMJo) | 4:59 | 2022-11-22 | 2024-04-19 |

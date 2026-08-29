@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,743 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,781 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 4 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:52 |
 | 5 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 |
 | 6 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 |
-| 7 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:18 |
-| 8 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
-| 9 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:05 |
-| 10 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
+| 7 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
+| 8 | [Uptown Girl](https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:18 |
+| 9 | [Don't Dream It's Over](https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Crowded House](https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG) | 3:56 |
+| 10 | [Dancing In the Dark](https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:05 |
 | 11 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 12 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
 | 13 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 20 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 21 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
 | 22 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
-| 23 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
-| 24 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
+| 23 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 |
+| 24 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 25 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 26 | [Red Red Wine](https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [The Very Best Of](https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum) | 3:03 |
 | 27 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 35 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Finest](https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM) | 3:39 |
 | 36 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
 | 37 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
-| 38 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:53 |
+| 38 | [Gold](https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:51 |
 | 39 | [Pride \(In The Name Of Love\) \- Remastered 2009](https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 3:48 |
-| 40 | [Gold](https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:51 |
+| 40 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:53 |
 | 41 | [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM) | [Black](https://open.spotify.com/artist/0KmvHxNnawB6P5yqdWktCW) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:47 |
 | 42 | [Lessons In Love](https://open.spotify.com/track/3EGI5qmVmGlfgy9BmNb1R8) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family](https://open.spotify.com/album/1yAkrIyJL8D55sWTjS6U1n) | 4:06 |
 | 43 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 62 | [Slippery People \- Live](https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 4:00 |
 | 63 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:24 |
 | 64 | [Belgie ..\. \(Is Er Leven Op Pluto ...\)](https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 6:00 |
-| 65 | [De Bom](https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 2:41 |
-| 66 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 |
+| 65 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 |
+| 66 | [De Bom](https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doe Maar \- De Singles \(Het Complete Singles Overzicht\)](https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S) | 2:41 |
 | 67 | [Come On Eileen](https://open.spotify.com/track/0lj15qHIbi7gsO6CLfWbvF) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC) | 4:33 |
 | 68 | [Africa](https://open.spotify.com/track/5tJjo5JDF9zhzYD7yQfATH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Hold The Line: The Ultimate Toto Collection](https://open.spotify.com/album/2suiqJpTmKoWWY84sOT3XN) | 4:56 |
 | 69 | [In The Army Now](https://open.spotify.com/track/6TPAhgpBvhMIDUzmDnWJmj) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [In The Army Now \- The Collection](https://open.spotify.com/album/15v7lAf1Hfp2eqgKsD80cg) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 99 | [Invisible Touch \- Remastered 2007](https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP) | 3:30 |
 | 100 | [Walk Of Life](https://open.spotify.com/track/4tyl9OMKMG8F2L0RUYQMH3) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms \(Remastered\)](https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh) | 4:09 |
 
-Snapshot ID: `AAAAAMm4wpYLkfAg+ThQ0NQElP6nD3z/`
+Snapshot ID: `AAAAALJvzFuMm0ZAKk23NY1HniyzU9z6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,729 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,745 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 17 | [Al Bostah](https://open.spotify.com/track/6GzuaEPTnBhfvZtDeeHzTl) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 8:54 |
 | 18 | [Khayal](https://open.spotify.com/track/2CWsTZRHy24PwrtQSPfXCn) | [Kazdoura](https://open.spotify.com/artist/7zm6lF98wKwyohB2zFetum) | [Ghoyoum](https://open.spotify.com/album/1ClZnjc27poFIrvyGscC0y) | 3:26 |
 | 19 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
-| 20 | [Al Bint El Chalabeya](https://open.spotify.com/track/2OxygAH92guaY9kliJboul) | [Dorsaf Hamdani](https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF) | [Dorsaf Hamdani chante Barbara & Fairouz](https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm) | 3:06 |
-| 21 | [Bel Ahlam](https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 2:49 |
+| 20 | [Bel Ahlam](https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 2:49 |
+| 21 | [Al Bint El Chalabeya](https://open.spotify.com/track/2OxygAH92guaY9kliJboul) | [Dorsaf Hamdani](https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF) | [Dorsaf Hamdani chante Barbara & Fairouz](https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm) | 3:06 |
 | 22 | [El Waet Hdiye](https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Waet Hdiye](https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi) | 3:16 |
 | 23 | [Bayni Wa Baynak](https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [Hoda Collection, Vol\. 4](https://open.spotify.com/album/28MaTReQz0UvddQKn2Gc87) | 2:32 |
 | 24 | [Ya M'safer](https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA) | [Ghalia Benali](https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy) | [Romeo & Leila](https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl) | 5:22 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 62 | [Dessine\-moi Un Pays](https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Dessine\-moi Un Pays](https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9) | 3:28 |
 | 63 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1sOql4GlcQ2dlpwtXv8P3v) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 |
 | 64 | [Badi Nsafer](https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w) | [JOHANNA MORKOS](https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22) | [Badi Nsafer](https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX) | 3:44 |
-| 65 | [thank you, goodnight](https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:22 |
-| 66 | [Despite the Flop](https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 2:51 |
+| 65 | [Despite the Flop](https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 2:51 |
+| 66 | [thank you, goodnight](https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:22 |
 | 67 | [قل للمليحة](https://open.spotify.com/track/4NAdNTSdk7RIWDmpOgbaXV) | [Badr Rami](https://open.spotify.com/artist/4NuqxOwvo7JvpI2jwzZDeB) | [قل للمليحة](https://open.spotify.com/album/1pi3jFZkvEZuZ75C4PEoym) | 12:52 |
 | 68 | [Ya Ashikata Al Wardi](https://open.spotify.com/track/6gkq5hlwu8ZVK6JUUcLgkI) | [Samer Doumet](https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47) | [Ya Ashikata Al Wardi](https://open.spotify.com/album/19UIdLolCgvbCkZrSsofqc) | 1:52 |
 | 69 | [El Dal'ona](https://open.spotify.com/track/3ImUnIXIkbP00e25eyBSGP) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [Mahlana Sawa Sawa](https://open.spotify.com/album/6kJqfhhmJhHJKor3FqlHsi) | 11:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 74 | [Fi 7eta Tanya](https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [Fi 7eta Tanya](https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n) | 3:15 |
 | 75 | [Sabahek](https://open.spotify.com/track/4cnTGRpVDnBXgD2MQYQOfS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Tokaa We Tkoom](https://open.spotify.com/album/7APkDKEvXGWOWtr76tBOJM) | 3:38 |
 
-Snapshot ID: `AAAAABe7b6GaJcucaE1AJc9lONX6czDE`
+Snapshot ID: `AAAAAJLb4Dc5rMFhcqVvFHOiNzWK65B2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,793 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,826 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 36 | [Bahusha Vo Chanchalaa](https://open.spotify.com/track/2GphUfrmDT8gKiiVBfZXBN) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Varudu](https://open.spotify.com/album/2Cdq5sn8NfDaB3kgIznsHF) | 6:13 |
 | 37 | [Yedha Okka Prayamu](https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l) | [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Ashok Anand](https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn) | [Psych Siddhartha](https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw) | 3:20 |
 | 38 | [Orori Sanchari](https://open.spotify.com/track/6WiG6Ufy3q0Cj8101MMSLf) | [Sachin Balu](https://open.spotify.com/artist/079wIH2YkZpPmlvg4C9Pjr) | [Ante Sundaraniki](https://open.spotify.com/album/0uoXlF20x75anQ9kMbo7tu) | 5:24 |
-| 39 | [Seetaaloo Nuvveleka](https://open.spotify.com/track/2gHh47zmMSM6FfapMfi2ZD) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Donga Donga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5KMG2UKnAQbbkVXtu7KYRM) | 4:27 |
-| 40 | [Samajavaragamana \- Female \- Telugu](https://open.spotify.com/track/7kmJKCLcHSx0SYQ65FBCeR) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3HMcwOnORhVISxVRb9FNFj) | 4:01 |
+| 39 | [Samajavaragamana \- Female \- Telugu](https://open.spotify.com/track/7kmJKCLcHSx0SYQ65FBCeR) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3HMcwOnORhVISxVRb9FNFj) | 4:01 |
+| 40 | [Seetaaloo Nuvveleka](https://open.spotify.com/track/2gHh47zmMSM6FfapMfi2ZD) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Donga Donga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5KMG2UKnAQbbkVXtu7KYRM) | 4:27 |
 | 41 | [Anuvanuvuu](https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb) | [Sunny M.R.](https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Om Bheem Bush](https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr) | 3:31 |
 | 42 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 |
 | 43 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 49 | [Jare Jare](https://open.spotify.com/track/4xZ8dDLwc8H3K5ZAJrRyR7) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Rambabu Gosala](https://open.spotify.com/artist/6dEfOjGcbT3HYATS6jETvH) | [Majnu](https://open.spotify.com/album/5QvmLuPj3Q9AlEIAgSLlxF) | 4:59 |
 | 50 | [Gala Gala Paruthunna](https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L) | [Nihal](https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl) | [Pokiri](https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX) | 4:33 |
 
-Snapshot ID: `AAAAANY6eSrWNRtdGer6NDyjCuCXlGnx`
+Snapshot ID: `AAAAAP41cjWGKxautJhm7QdNIABD1Ri/`

@@ -7137,6 +7137,28 @@
     },
     {
       "album": {
+        "name": "I Believe It (The Life of Jesus)",
+        "url": "https://open.spotify.com/album/27PCWVvB1vNzjUr35g8Ude"
+      },
+      "artists": [
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298983,
+      "name": "I Believe It (The Life of Jesus)",
+      "url": "https://open.spotify.com/track/3JekGJJ3Cssoeik2S2Wwcp"
+    },
+    {
+      "album": {
         "name": "I Fear No Evil (Live)",
         "url": "https://open.spotify.com/album/5EGU4gtXBUo1Fdsv3BFaqd"
       },
@@ -7962,6 +7984,28 @@
       "duration_ms": 284234,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/1mDuP7qIDNlE4CKJhotWyl"
+    },
+    {
+      "album": {
+        "name": "Inhabit",
+        "url": "https://open.spotify.com/album/70QywhCdqNxe6jJu8d50Aw"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Leeland Mooring",
+          "url": "https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598703,
+      "name": "Inhabit",
+      "url": "https://open.spotify.com/track/1r6TwfwbAWCJSd4kiPXJuI"
     },
     {
       "album": {

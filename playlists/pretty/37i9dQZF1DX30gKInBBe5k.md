@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,996 likes - 84 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,000 likes - 84 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 42 | [Black Fly](https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Reaching For Indigo](https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg) | 7:26 |
 | 43 | [Sun Drawing](https://open.spotify.com/track/6AtRvRFkhSiP9518S48WBj) | [Movietone](https://open.spotify.com/artist/71ZjnwAyCVUWd6UsMbRtqf) | [Day And Night](https://open.spotify.com/album/64SmrtVEj2HwkQyz2Z9GXf) | 3:57 |
 | 44 | [Consolation Prize](https://open.spotify.com/track/1rvsWurvB8VkqYT63XmJLD) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Because I Was In Love](https://open.spotify.com/album/3r8mKxg4RO934B6fksLCqN) | 4:03 |
-| 45 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
-| 46 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
+| 45 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
+| 46 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
 | 47 | [glowing hands](https://open.spotify.com/track/4R5bWuBSkvxFLOc3SDjq3Z) | [forlorn](https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT), [friendly to crows](https://open.spotify.com/artist/1KOecUxfQdUJA8mNaRaiAR) | [i hope everything goes well](https://open.spotify.com/album/747L9aHFJZ6tN7rwnyNC4c) | 2:10 |
 | 48 | [I Never Did Get That Call](https://open.spotify.com/track/2u4YAeYmJPcFU9OlDyPKja) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [I Never Did Get That Call](https://open.spotify.com/album/3EP72o1hUz4jHUUjeZrMk3) | 1:39 |
 | 49 | [Sloth](https://open.spotify.com/track/5u02Kr3YXTSbNO19hSeEK2) | [Brendan Perry](https://open.spotify.com/artist/448GEwyUiojEHd8vsFheaB) | [Eye of the Hunter](https://open.spotify.com/album/5Cx1d1H2EqaOs3OrYP64bR) | 3:32 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 52 | [Bold Marauder](https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:33 |
 | 53 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
 | 54 | [Exit Music \(For a Film\)](https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:27 |
-| 55 | [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 |
-| 56 | [Hold On Magnolia](https://open.spotify.com/track/5qpMqMGCu9tXD4gNqtpxrT) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:51 |
-| 57 | [Maybe Not](https://open.spotify.com/track/2WEMLmGP6s5ZLccFD8lQGA) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [You Are Free](https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6) | 4:16 |
-| 58 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 |
+| 55 | [Inside Out](https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 2:21 |
+| 56 | [Katy Song](https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Red House Painters I](https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5) | 8:22 |
+| 57 | [Stop Waiting](https://open.spotify.com/track/5nSWSCnhIgUDlxK4TX2wtT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 6:02 |
+| 58 | [Hold On Magnolia](https://open.spotify.com/track/5qpMqMGCu9tXD4gNqtpxrT) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:51 |
 | 59 | [How To Disappear Completely](https://open.spotify.com/track/69pwmeyvQMuHMtkCmpEWhQ) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 5:56 |
-| 60 | [Katy Song](https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Red House Painters I](https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5) | 8:22 |
-| 61 | [Inside Out](https://open.spotify.com/track/2gZ6I0MB9XaKmWOPwNJuqt) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH) | 2:21 |
+| 60 | [Maybe Not](https://open.spotify.com/track/2WEMLmGP6s5ZLccFD8lQGA) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [You Are Free](https://open.spotify.com/album/38CsAH6IM7fKMN0XnZReR6) | 4:16 |
+| 61 | [Return From The Ice](https://open.spotify.com/track/3vtMKnsC5A2Sk8ylRxyU10) | [Acetone](https://open.spotify.com/artist/7DnDHNnkHER4ompBXz1ibL) | [1992 \- 2001](https://open.spotify.com/album/6vUZbXDPOX59fKA8hacgyW) | 5:19 |
 | 62 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 |
 | 63 | [Didn't It Rain](https://open.spotify.com/track/7LVRbiFiUi1XwxcGy7rFdS) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Didn't It Rain \(Deluxe Edition\)](https://open.spotify.com/album/1pcDNDsUKweDsbxF5aFLvM) | 7:52 |
 | 64 | [Good Morning, Captain](https://open.spotify.com/track/154qGmayKVoKeeqv8Yy0QC) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU) | 7:39 |
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 77 | [Coward](https://open.spotify.com/track/11XhGYbYtuh2bKv3DXtjA2) | [Vic Chesnutt](https://open.spotify.com/artist/7EFfGZiKL1Ud3cspnlMq4H) | [At The Cut](https://open.spotify.com/album/5vsxgGRWQkDiUQlcD0csyu) | 5:16 |
 | 78 | [Bedside Table](https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:44 |
 | 79 | [My Life in Art](https://open.spotify.com/track/6kh7ySeueeG6ojSbChAAo2) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Excuses for Travellers](https://open.spotify.com/album/3v7tUWRIJsQ0BaYGntOJbZ) | 7:21 |
-| 80 | [Emp\. Man's Blues](https://open.spotify.com/track/08AaYagr9AUBTcjwyYxNfV) | [The For Carnation](https://open.spotify.com/artist/7LMO4vkA2xYpGYbzsggPbk) | [The For Carnation](https://open.spotify.com/album/76jj5JVBFyQZqKvtVTJiFC) | 8:12 |
-| 81 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 |
-| 82 | [Drinking At The Dam](https://open.spotify.com/track/7H2mfh89I55v2Rd81389fY) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [A River Ain't Too Much To Love](https://open.spotify.com/album/2ntUs6XUdXoZvG5Be0d09n) | 4:07 |
-| 83 | [The End's Not Near](https://open.spotify.com/track/1AgvhVeIile1724nDOZbgb) | [The New Year](https://open.spotify.com/artist/58bGdoz5bUtPMOTzueTBOy) | [The End Is Near](https://open.spotify.com/album/5FZnZleJX967mKT6ljJjSS) | 3:43 |
-| 84 | [Able Bodies](https://open.spotify.com/track/7ARle8Du0mMGM7zHddkBlJ) | [Spokane](https://open.spotify.com/artist/3cr4dt9xFGBcEPMulGzSAY) | [Able Bodies](https://open.spotify.com/album/31L3WqXAFPZWOK3CWineay) | 2:09 |
+| 80 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 |
+| 81 | [Drinking At The Dam](https://open.spotify.com/track/7H2mfh89I55v2Rd81389fY) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [A River Ain't Too Much To Love](https://open.spotify.com/album/2ntUs6XUdXoZvG5Be0d09n) | 4:07 |
+| 82 | [The End's Not Near](https://open.spotify.com/track/1AgvhVeIile1724nDOZbgb) | [The New Year](https://open.spotify.com/artist/58bGdoz5bUtPMOTzueTBOy) | [The End Is Near](https://open.spotify.com/album/5FZnZleJX967mKT6ljJjSS) | 3:43 |
+| 83 | [Able Bodies](https://open.spotify.com/track/7ARle8Du0mMGM7zHddkBlJ) | [Spokane](https://open.spotify.com/artist/3cr4dt9xFGBcEPMulGzSAY) | [Able Bodies](https://open.spotify.com/album/31L3WqXAFPZWOK3CWineay) | 2:09 |
+| 84 | [Let Me Go Let Me Go Let Me Go](https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg) | [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Let Me Go, Let Me Go, Let Me Go](https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca) | 6:39 |
 
-Snapshot ID: `AAAAANZrwAUozY2aY0sDzaVgTsW0hbe/`
+Snapshot ID: `AAAAANBGdNh9NXl/YktUsnhVLKR+7yrV`

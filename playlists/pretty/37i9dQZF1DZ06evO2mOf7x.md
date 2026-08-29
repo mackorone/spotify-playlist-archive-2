@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,643 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,642 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 15 | [Mi Corazón](https://open.spotify.com/track/2oK0C7gT4VOoYSG80I0DPo) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:04 |
 | 16 | [Color Esperanza / Sólo le Pido a Dios \- Versión México](https://open.spotify.com/track/6Z48v2xlf3H66cgxz6Rxg3) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh), [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n), [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Mario Domm](https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh), [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Sabo Romo](https://open.spotify.com/artist/2xqM9QBD5UgmHWfUbqfs1M) | [Color Esperanza / Sólo le Pido a Dios \(Versión México\)](https://open.spotify.com/album/1eQ25ITdG0bmvBlRCtACk2) | 3:43 |
 | 17 | [Todo Lo Aprendí De Ti](https://open.spotify.com/track/0MmLN1vEnUBPPlVdIbajUL) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ana Barbara](https://open.spotify.com/album/5mc5YQDRvnlquuDzUXcaEa) | 3:03 |
-| 18 | [Es Culpa Mía](https://open.spotify.com/track/7iwhHQCvNcf1zYx8SxWQGc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Es Culpa Mía](https://open.spotify.com/album/1uJ6SwcDkq8bpm9Vw2ckuJ) | 3:12 |
+| 18 | [Me Asusta Pero Me Gusta](https://open.spotify.com/track/3oQJqw3WEIoPw319xNd6V8) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [La Trampa](https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN) | 2:40 |
 | 19 | [El Consejo](https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:59 |
-| 20 | [Me Asusta Pero Me Gusta](https://open.spotify.com/track/3oQJqw3WEIoPw319xNd6V8) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [La Trampa](https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN) | 2:40 |
+| 20 | [Es Culpa Mía](https://open.spotify.com/track/7iwhHQCvNcf1zYx8SxWQGc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Es Culpa Mía](https://open.spotify.com/album/1uJ6SwcDkq8bpm9Vw2ckuJ) | 3:12 |
 | 21 | [Solos](https://open.spotify.com/track/3byH3GMx87vBLSFF3tzh9n) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:06 |
 | 22 | [Te Metiste](https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Metiste](https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37) | 3:44 |
 | 23 | [La Jugada](https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Nuestra Canción](https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Vozes](https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR) | 3:33 |
 | 50 | [Ahora Te Llamas Ex](https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Ahora Te Llamas Ex](https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO) | 2:29 |
 
-Snapshot ID: `ao4sgAAAAACswhD/9HdQ6v1SQpKXYXne`
+Snapshot ID: `ao9+AAAAAAACEZiyMGMnsO2Wn2pbxCGi`

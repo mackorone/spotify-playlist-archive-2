@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 181098,
+  "num_followers": 181133,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADcNPQ4JlAf1oFYWsQ7MobU",
+  "snapshot_id": "ao9+AAAAAACiksReH/rzKuFxa4ZUQfmv",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Brickell",
-      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 205320,
       "name": "Como Es Que Se Hace",
       "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Brickell",
+      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CNCO",
-        "url": "https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 206922,
-      "name": "Hey DJ",
-      "url": "https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 270173,
       "name": "No Me Digas Que No",
       "url": "https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CNCO",
+        "url": "https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 206922,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4"
     },
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/30YDfz90cdslkFPfoPBR9U"
       },
       "artists": [
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 152134,
-      "name": "Rondando",
-      "url": "https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf"
+      "duration_ms": 136026,
+      "name": "Te Suelto el Pelo",
+      "url": "https://open.spotify.com/track/4YlhOXm12hH7qWsRb4MZYV"
     },
     {
       "added_at": null,
@@ -627,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Contra Mi",
-        "url": "https://open.spotify.com/album/30YDfz90cdslkFPfoPBR9U"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 136026,
-      "name": "Te Suelto el Pelo",
-      "url": "https://open.spotify.com/track/4YlhOXm12hH7qWsRb4MZYV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome To The Jungle",
         "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 168720,
       "name": "Vamos Hacerlo",
       "url": "https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 152134,
+      "name": "Rondando",
+      "url": "https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf"
     },
     {
       "added_at": null,
@@ -999,26 +999,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desperte Sin Ti (Remix)",
-        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
+        "name": "Alta Jerarquia (El Patr\u00f3n)",
+        "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
       },
       "artists": [
         {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 319586,
-      "name": "Desperte Sin Ti - Remix",
-      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
+      "duration_ms": 229560,
+      "name": "A Que No Te Atreves (Remix)",
+      "url": "https://open.spotify.com/track/1Yt5zFq14CsNug0YstbkfP"
     },
     {
       "added_at": null,
@@ -1075,30 +1079,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alta Jerarquia (El Patr\u00f3n)",
-        "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
+        "name": "Desperte Sin Ti (Remix)",
+        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
       },
       "artists": [
         {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 229560,
-      "name": "A Que No Te Atreves (Remix)",
-      "url": "https://open.spotify.com/track/1Yt5zFq14CsNug0YstbkfP"
+      "duration_ms": 319586,
+      "name": "Desperte Sin Ti - Remix",
+      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
     },
     {
       "added_at": null,

@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMY0ixwq0Pqq+sS2BPvP1138wHDG",
+  "snapshot_id": "AAAAAE76XD6RBwKPQp5ItFWbS3ReGcG4",
   "tracks": [
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 233712,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
-    },
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 199440,
       "name": "There's Nothing Holdin' Me Back",
       "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 233712,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -299,38 +315,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
-        "name": "She's So Unusual",
-        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Girls Just Want to Have Fun",
-      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 217308,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -563,38 +563,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 236001,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 258004,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -611,6 +579,22 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 236001,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
         "name": "Eye To The Telescope",
         "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 258004,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Harleys In Hawaii",
         "url": "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 185815,
       "name": "Harleys In Hawaii",
       "url": "https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 196226,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2026-01-20 13:00:04",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-01-20 13:00:04",
       "album": {
-        "name": "Crimes Of Passion",
-        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
-      },
-      "artists": [
-        {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Hit Me With Your Best Shot",
-      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
-    },
-    {
-      "added_at": "2026-01-20 13:00:04",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2026-01-20 13:00:04",
+      "album": {
+        "name": "Crimes Of Passion",
+        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Hit Me With Your Best Shot",
+      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
     },
     {
       "added_at": "2026-01-20 13:00:04",

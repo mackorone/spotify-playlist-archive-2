@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,472 songs - 3 day 8 hr 10 min
+1,473 songs - 3 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,6 +660,7 @@
 | [Judgement Day](https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Judgement Day](https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF) | 4:28 | 2023-04-21 | 2023-07-10 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2021-08-07 | 2021-10-05 |
 | [Just Feels Tight](https://open.spotify.com/track/7wT85929YTgiyb2cQDe2fb) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/0hETamGnqdcM4TuUDqV378) | 3:17 | 2021-09-25 | 2022-02-12 |
+| [Keep Control](https://open.spotify.com/track/2ldf5EYPaRXPqPlX50Sgbx) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Keep Control](https://open.spotify.com/album/5TQ88IYim8ADpDkDWnZWUA) | 3:06 | 2026-08-21 |  |
 | [Keep The Love \- Tom Staar Remix](https://open.spotify.com/track/3FnsZSRG13NVRg00B1Tfeh) | [Money Chocolate](https://open.spotify.com/artist/4LBxzTncqBkT87aCP7Dqpk), [Sarah Webb](https://open.spotify.com/artist/16VW8zsBN1gv8D1VjTO0IN), [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u) | [Keep The Love \(Tom Staar Remix\)](https://open.spotify.com/album/0gQhkTqf5yzb1bXseIv0qS) | 3:11 | 2020-09-21\* | 2020-11-03 |
 | [Kill Me Better](https://open.spotify.com/track/7MtJ0dU4m3F6JQG9qdyaPk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Kill Me Better](https://open.spotify.com/album/0X2wKcQKmWG5Jn9ajbbD4G) | 3:13 | 2020-11-03 | 2021-09-11 |
 | [Killing Me Softly](https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [Killing Me Softly](https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk) | 2:39 | 2022-04-22 | 2023-03-05 |
@@ -947,7 +948,7 @@
 | [Percu Social Club](https://open.spotify.com/track/6j7ShkX2wTd7pXSmRQQtrK) | [Sandjake](https://open.spotify.com/artist/634n3stmOXuue7AsDg7FM4) | [Percu Social Club](https://open.spotify.com/album/62CCHSjxaNG976SLShRA0J) | 3:42 | 2020-09-21\* | 2021-01-23 |
 | [Physical](https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:13 | 2020-10-10 | 2021-02-06 |
 | [Physically Fit \(Move It\)](https://open.spotify.com/track/2DFMEY4PUNyQXRLBDYNeIC) | [Mike Bond](https://open.spotify.com/artist/4yroY1dUWxiROWLei7Mude), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc), [DJ Yoyo](https://open.spotify.com/artist/3Gq6dAMNEtp5hHJMBBRf0M) | [Physically Fit \(Move It\)](https://open.spotify.com/album/34U31b5wxi9MMPfX3oMtXp) | 3:19 | 2021-09-25 | 2021-10-05 |
-| [Picasso](https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Picasso](https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi) | 4:20 | 2026-07-10 |  |
+| [Picasso](https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Picasso](https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi) | 4:20 | 2026-07-10 | 2026-08-29 |
 | [Pick Me Up](https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Pick Me Up](https://open.spotify.com/album/3T9hIEz1oe5vAOy4nU8Vk0) | 2:54 | 2021-05-29 | 2021-09-18 |
 | [Pictures Of You](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:55 | 2024-04-12 | 2024-04-19 |
 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-09 | 2024-08-03 |

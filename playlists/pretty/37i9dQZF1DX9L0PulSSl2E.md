@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,577 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,600 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 49 | [It's Me](https://open.spotify.com/track/03rnbVMhzvcpTBYi1X2HFb) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Bugzy](https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz) | [VELORA](https://open.spotify.com/album/2plRiyaMQOlEgUqXV89jbT) | 3:01 |
 | 50 | [Kalla Kalla Taara](https://open.spotify.com/track/6qrZ6fu864a4lB0LXhxdbY) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Kalla Kalla Taara](https://open.spotify.com/album/0UVhcHIqIDQFyrcsSt9Vuo) | 3:25 |
 
-Snapshot ID: `AAAAAN/lbVwaI5ieq7PmnWlWJOwk2+uA`
+Snapshot ID: `AAAAAIaFTENI7+WF0ym7I7I/T9EVE6aN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Parakh
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,881 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,888 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Cali](https://open.spotify.com/track/71HSD36mdiU6P3XpRTODUS) | [Bobby Singh](https://open.spotify.com/artist/5JmMagrV8JJMqVgBCWNzn8), [Crmxl](https://open.spotify.com/artist/3smYVKoONOJM0YoUF2Q0M9), [MANNA](https://open.spotify.com/artist/204QY5sNR8iBp0IBy9LHJW) | [Cali](https://open.spotify.com/album/60lI8VkakGoiHKGJYmTfoy) | 2:26 |
 | 50 | [Novella](https://open.spotify.com/track/2TSL8yfTaoZxrd2Um4Edkx) | [Gill Ranjodh](https://open.spotify.com/artist/4VYsiN2BVC3o8wlmhd1Mu2), [Jeffrick](https://open.spotify.com/artist/5HD6kCaoqjrDx8W5ES0YC3) | [Novella](https://open.spotify.com/album/7yIxyqUTWtWXyTQK1E1HBq) | 2:13 |
 
-Snapshot ID: `AAAAAHrJRanZtVUUD6NGVK3qvNUSrDs3`
+Snapshot ID: `AAAAAGGG3+VE0aa4407mw4fyQ4RYRGGl`

@@ -4,13 +4,13 @@
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 24 min
+126 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 | 2026-05-24 |  |
 | [Adrenaline](https://open.spotify.com/track/0KCeHr5HbTyj3GQ4mzCXgW) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:12 | 2025-02-11 | 2025-05-24 |
-| [AFFECTION](https://open.spotify.com/track/4Rvy8GeJtCFNBOB88fdmbU) | [$TARFACE](https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [AFFECTION](https://open.spotify.com/album/5oD1LPc040XUltS10pavAM) | 2:48 | 2026-07-12 |  |
+| [AFFECTION](https://open.spotify.com/track/4Rvy8GeJtCFNBOB88fdmbU) | [$TARFACE](https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [AFFECTION](https://open.spotify.com/album/5oD1LPc040XUltS10pavAM) | 2:48 | 2026-07-12 | 2026-08-29 |
 | [AT THA PARTY](https://open.spotify.com/track/377dVGvTzyYem2eKZI08a0) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [FinallyFed](https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C) | 2:11 | 2025-07-31 | 2025-09-19 |
 | [Ayo](https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:45 | 2023-06-07 |  |
 | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:31 | 2023-06-07 |  |
@@ -68,6 +68,7 @@
 | [Ibiza](https://open.spotify.com/track/01sApbVbtNG0WpMQKieOwm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ibiza](https://open.spotify.com/album/7EqqyC03PtpmRqCVXe269Q) | 3:00 | 2023-06-14 | 2024-07-15 |
 | [Ice Cream Man](https://open.spotify.com/track/6ZA3Q8Dj5BrnmOsT300DCh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuk Wat They Talkin Bout](https://open.spotify.com/album/6p6Wab5m1yqyp4NzRevTft) | 3:06 | 2023-06-07 |  |
 | [In My Room \- €URO TRA$H Remix](https://open.spotify.com/track/5xdowKbFi2qOKYkxB7UT3v) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9) | [In My Room \(€URO TRA$H Remix\)](https://open.spotify.com/album/1n9bEn5K9ieTkvMs3fRoXh) | 2:33 | 2023-07-21 | 2023-08-26 |
+| [In The Way](https://open.spotify.com/track/1n2BgOnlFIO1Ih8lNyNHR6) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [The Documentary III](https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo) | 3:50 | 2026-08-29 |  |
 | [It Ain't Safe](https://open.spotify.com/track/10FUBoAjYTJzGcphHbvPkF) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [NSFW](https://open.spotify.com/album/0HFmXICO7WgVoqLAXc7Rhw) | 2:08 | 2025-02-10 | 2025-05-07 |
 | [Juicy](https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:23 | 2023-06-07 |  |
 | [Just the Bro \(feat\. Tyga & Ty Dolla $ign\)](https://open.spotify.com/track/0Q54gKsmxMlXzY23r1qbAj) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:24 | 2026-06-21 |  |

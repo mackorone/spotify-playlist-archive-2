@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 > Geleceğin seslerini dinle! Kapak: üçkuruş
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,460 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,456 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 33 | [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 |
 | 34 | [Unutturamaz İhanetini](https://open.spotify.com/track/0t5FqehcILFau9guTZ4IIk) | [rody dünyada](https://open.spotify.com/artist/2PPVH8rUFlN2zzJrrP8Cjg) | [Unutturamaz İhanetini](https://open.spotify.com/album/1mWIpe3hQuxo3peujX1jj5) | 2:44 |
 | 35 | [Gözyaşında Sakla Beni](https://open.spotify.com/track/76WCSXEisEykLYINetFA4k) | [Beyza Başak](https://open.spotify.com/artist/38awyHzw1soCVVfDYjLevO) | [Gözyaşında Sakla Beni](https://open.spotify.com/album/32ZhjWIZoo1kVRj1i5HW80) | 2:47 |
-| 36 | [Bile Bile](https://open.spotify.com/track/3GZMQGYymBSOIyKnTZOXBg) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [Bile Bile](https://open.spotify.com/album/6m5GB5l0Y3spjQVUeGRH6t) | 2:46 |
+| 36 | [bile bile](https://open.spotify.com/track/3GZMQGYymBSOIyKnTZOXBg) | [Uzak Mesafe](https://open.spotify.com/artist/3ZXkUz93SrRufiCgdIVODL) | [bile bile](https://open.spotify.com/album/6m5GB5l0Y3spjQVUeGRH6t) | 2:46 |
 | 37 | [olsaydın yanımda](https://open.spotify.com/track/3WHU6ASNzybwyQvFtj7Azp) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [olsaydın yanımda](https://open.spotify.com/album/2H4o5OAvY21uM4jsxk1UOL) | 2:11 |
 | 38 | [Yana Yana](https://open.spotify.com/track/372o63OFKXAni65PUS3IOu) | [Polen](https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl) | [Yana Yana](https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW) | 2:27 |
 | 39 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 49 | [Gittiğinden Beri](https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB) | [Bade](https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz) | [Gittiğinden Beri](https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7) | 2:46 |
 | 50 | [Yine Seni Severim](https://open.spotify.com/track/1cwaAXBp74JnMXBOdhLfjD) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Yine Seni Severim](https://open.spotify.com/album/0h3PL3HJJ8bw4qqSWF9gAn) | 3:13 |
 
-Snapshot ID: `AAAAAPqRFnD4ae/NhxKXPRLcNjaTfa7c`
+Snapshot ID: `AAAAAD4n2UkkaC9DibQVFMBynZVtR2rW`

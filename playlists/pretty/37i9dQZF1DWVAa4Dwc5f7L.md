@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,810 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,790 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 72 | [Borracho Me Dolió](https://open.spotify.com/track/2z6vCpMGkY9vmJqMCsbrnj) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Borracho Me Dolió](https://open.spotify.com/album/6AE77a72SdgWl4W55LcSny) | 3:08 |
 | 73 | [Estás Enamorada](https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Historia](https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H) | 4:03 |
 | 74 | [La Reunión 5 : La Bailadora / El Amor Más Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / Tú Eres Ajena / Borracha \- En Vivo](https://open.spotify.com/track/4tLNxU08ccx6jrj3MK14ol) | [La Reunión](https://open.spotify.com/artist/2DYGASY9WYBWoUkjwqq9c4), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [La Reunión 5 : La Bailadora / El Amor Más Grande del Planeta / Si Tu Te Vas / Tu Hombre Soy Yo / Un Idiota / Voy a Beber / Nuestro Amor / Mi Celosa Hermosa / Tú Eres Ajena / Borracha \(En Vivo\)](https://open.spotify.com/album/05Fh3kXjqRuHSZ6lDLX7zR) | 15:47 |
-| 75 | [Coqueta y Sabrosa](https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:37 |
+| 75 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 |
 | 76 | [Volveré](https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:25 |
-| 77 | [La Faldita](https://open.spotify.com/track/3glDtaaom1yLlf8aVkHllx) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [La Faldita](https://open.spotify.com/album/7svwKm81mrsEdnGgtgrgRz) | 3:50 |
+| 77 | [Coqueta y Sabrosa](https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:37 |
 | 78 | [Quiero Quemar La Pista](https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [LIMI\-T Para Siempre](https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM) | 2:33 |
 | 79 | [Vivo De Tus Recuerdos](https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF) | [Vivo De Tus Recuerdos](https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf) | 3:18 |
 | 80 | [Parece Una Nena](https://open.spotify.com/track/5WBOFWb8gpwzuSXiSqSVYL) | [Zona Roja](https://open.spotify.com/artist/2zXofGxFg93OZHBFAiweAI) | [15 Exitos De Pura Candela](https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6) | 4:34 |
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 88 | [Ni Tu Ni Yo](https://open.spotify.com/track/77cE5knaNTdMi3xwD4qpBv) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Juntos](https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X) | 4:37 |
 | 89 | [La Suegra](https://open.spotify.com/track/7bDoTCEpyesQRjPk0x8ky1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Best Of The Best](https://open.spotify.com/album/3HSBkBA1hv9drUjHVhF3oA) | 4:41 |
 | 90 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 |
-| 91 | [Ganas \- Versión Merengue](https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ganas \(Versión Merengue\)](https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf) | 3:35 |
+| 91 | [A Las Ilusas De Mi Marido](https://open.spotify.com/track/4jLiMmLFOY5xfms4LSfmVg) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [A Las Ilusas De Mi Marido](https://open.spotify.com/album/7DyuSQm2UGYw1GvWajnJr2) | 3:41 |
 | 92 | [Me Miras Y Te Miro \- New Version](https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [22 Ultimate Merengue Hits 2002](https://open.spotify.com/album/0eTqDy2Pkmo7REdNrXBBGQ) | 2:51 |
 | 93 | [La Ventanita](https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor de Lo Mejor \- Tropical](https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i) | 4:46 |
-| 94 | [A Las Ilusas De Mi Marido](https://open.spotify.com/track/4jLiMmLFOY5xfms4LSfmVg) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [A Las Ilusas De Mi Marido](https://open.spotify.com/album/7DyuSQm2UGYw1GvWajnJr2) | 3:41 |
+| 94 | [Ganas \- Versión Merengue](https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ganas \(Versión Merengue\)](https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf) | 3:35 |
 | 95 | [No Me Veran Caer](https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M) | [Barbosa](https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG) | [No Me Veran Caer](https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8) | 3:42 |
 | 96 | [Te Gusta Eh](https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE) | [Shino Aguakate](https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI) | [Out of Control](https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08) | 5:27 |
 | 97 | [Sacala, Bailala y Pegala](https://open.spotify.com/track/64fiC7TQMy43uuyTROGjE2) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Hombres De Honor](https://open.spotify.com/album/5cJhc5kSYS9770vR7TE0fJ) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [QUIERO](https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH), [El Completo Rd](https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb) | [QUIERO](https://open.spotify.com/album/6xIvpqSVmpAIWyXMHE5ceU) | 3:47 |
 | 100 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
 
-Snapshot ID: `AAAAAHRcY/B0eRg3xSYaavR5+vVvOYUe`
+Snapshot ID: `AAAAAGo5B2dNB+vl6aA/NJM1fvsggnPb`

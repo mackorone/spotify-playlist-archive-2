@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,186 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,164 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 77 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
 | 78 | [THRILLER](https://open.spotify.com/track/7LopZ3UNl7NoG7atKmrSII) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [THRILLER](https://open.spotify.com/album/6laEHwhR20jSXj687VxtH2) | 6:02 |
 | 79 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 |
-| 80 | [A Shrine to Madness](https://open.spotify.com/track/0VEk1PEMmFPb0dwoAK30sk) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Ritual](https://open.spotify.com/album/787iiwJUZgZLZzRIZWzNeK) | 4:40 |
+| 80 | [Teenage Frankenstein](https://open.spotify.com/track/3YBIjZM0WDEQRpVcXyH4vx) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Constrictor](https://open.spotify.com/album/3F3JU1MJDN9PgHFwbCvFvV) | 3:40 |
 
-Snapshot ID: `AAAAANsGJLKw8Hi2u71beIbxs+oqzP2b`
+Snapshot ID: `AAAAAEXXI2SZVeMQ5utKTCtcY+sEzaMC`

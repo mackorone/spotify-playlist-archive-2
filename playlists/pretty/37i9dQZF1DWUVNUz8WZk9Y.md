@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 
 > Enjoy music from Doraemon the movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2026
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,654 likes - 41 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,683 likes - 41 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 | 40 | [時の旅人](https://open.spotify.com/track/5ttmfswQyE5tZadNGjJk2T) | [Toshiyuki Nishida](https://open.spotify.com/artist/4djumM1qrx3qrRNTQworSy) | [エッセンシャル・ベスト　西田敏行](https://open.spotify.com/album/2Ks5h8LcTOGitndh3KTbzv) | 4:00 |
 | 41 | [さよならに さよなら](https://open.spotify.com/track/484QMEcJmYvoV0QmJfSJaw) | [Kaientai](https://open.spotify.com/artist/1DsKJnZ0VeVD4ZEpDIegQF) | [ドラえもん映画主題歌集](https://open.spotify.com/album/6ClSL3281Uc1W0zBgOoViV) | 3:28 |
 
-Snapshot ID: `AAAAAHJ13Q31m/kA0IwEBrDQslALniE1`
+Snapshot ID: `AAAAAFGAFspkkgflASIcCnApXv5yIi1c`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock with a drop. Cover: Madeon \\m/",
+  "description": "Rock with a drop. Cover: HVDES \\m/",
   "name": "Rocktronic",
   "tracks": [
     {
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 261239,
       "name": "DON\u2019T KILL YOURSELF - PERTURBATOR RMX",
       "url": "https://open.spotify.com/track/0Ta4HHZ327dKwJEAotCQE8"
@@ -6171,6 +6171,28 @@
     },
     {
       "album": {
+        "name": "Lately (feat. Jex)",
+        "url": "https://open.spotify.com/album/4DQKQpEGu6a7wG4zCAa4xH"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209828,
+      "name": "Lately (feat. Jex)",
+      "url": "https://open.spotify.com/track/3WSDoGL8yrK4xq0bBJQgbp"
+    },
+    {
+      "album": {
         "name": "Lean Onto Me",
         "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
       },
@@ -8020,6 +8042,28 @@
       "duration_ms": 231739,
       "name": "Playing Chess",
       "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+    },
+    {
+      "album": {
+        "name": "Point of No Return",
+        "url": "https://open.spotify.com/album/4xvjV9r15J4tlMuSuF9R0P"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        },
+        {
+          "name": "Space Wizard",
+          "url": "https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Point of No Return",
+      "url": "https://open.spotify.com/track/3uXwLpj0yInIrDi9PvTFby"
     },
     {
       "album": {
@@ -10382,7 +10426,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 251034,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"

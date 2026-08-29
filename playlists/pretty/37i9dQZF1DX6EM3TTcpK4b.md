@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Lola Beltrán
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,430 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,526 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 47 | [Inocente Pobre Amigo](https://open.spotify.com/track/2CvbBW72Rj5MXokvLpWsXZ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con el Mariachi de América de Jesús Rodríguez de Hijar](https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws) | 4:05 |
 | 48 | [Mátalas](https://open.spotify.com/track/2uZX6rf2otrXvGx8vby7Xd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 2:54 |
 | 49 | [Flor sin retoño](https://open.spotify.com/track/14B84dgQLpq7av8d62UdY9) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:08 |
-| 50 | [Aquí Abajo](https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aquí Abajo](https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H) | 2:24 |
-| 51 | [Ebrio De Amor](https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Orgullo Ranchero](https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni) | 3:38 |
+| 50 | [Ebrio De Amor](https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Orgullo Ranchero](https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni) | 3:38 |
+| 51 | [Aquí Abajo](https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aquí Abajo](https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H) | 2:24 |
 | 52 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 |
 | 53 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 |
 | 54 | [El Rey](https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:09 |
@@ -83,16 +83,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 73 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
 | 74 | [Libro Abierto](https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:08 |
 | 75 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
-| 76 | [Besando La Cruz \- Versión Mariachi](https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:31 |
+| 76 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
 | 77 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
-| 78 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
+| 78 | [Besando La Cruz \- Versión Mariachi](https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:31 |
 | 79 | [Media Vuelta](https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Boleros\-Boleros\-Bole](https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl) | 2:11 |
 | 80 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
-| 81 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
-| 82 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 |
-| 83 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 |
+| 81 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 |
+| 82 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
+| 83 | [Asi Te Quiero \- Con Mariachi](https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Exitos De Oro](https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d) | 3:53 |
 | 84 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
-| 85 | [Asi Te Quiero \- Con Mariachi](https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Exitos De Oro](https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d) | 3:53 |
+| 85 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 |
 | 86 | [Ya No Me Interesas](https://open.spotify.com/track/359vq12J0koGowGV9pxek4) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 |
 | 87 | [La Muerte del Palomo](https://open.spotify.com/track/29jt9wuHaMVwQhw4M5X4R9) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:26 |
 | 88 | [Un Puño De Tierra](https://open.spotify.com/track/7EGYbyTTEmmdqUu4MV6eHD) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño de Tierra](https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3) | 3:08 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 149 | [Animas Que No Amanezca](https://open.spotify.com/track/1p4GW96SNwjd2F3fDmrLgu) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc), [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rancheras Inmortales](https://open.spotify.com/album/0iUJCHEI8fSd8jk08nmqFo) | 2:26 |
 | 150 | [La bikina \- En vivo](https://open.spotify.com/track/05woJhVT0g1pzHnHccf1ib) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 2:59 |
 
-Snapshot ID: `AAAAAJrdwC5s37sFB4xvTeRKDwz/aYCD`
+Snapshot ID: `AAAAAMXDTpYZh1uukI3qugK5fNgrUYha`

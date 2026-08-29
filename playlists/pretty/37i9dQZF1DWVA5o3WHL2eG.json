@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Luna Simao",
-  "num_followers": 50908,
+  "num_followers": 50905,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIei3bPGM6Hh4uE5+LnHRxzrC/BB",
+  "snapshot_id": "AAAAAP/JGK6QTy0Z8Aq181rSS2BeGOb/",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:28",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Alles nur f\u00fcr mich",
-        "url": "https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP"
-      },
-      "artists": [
-        {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
-        }
-      ],
-      "duration_ms": 141188,
-      "name": "Alles nur f\u00fcr mich",
-      "url": "https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "Bist du noch da?",
         "url": "https://open.spotify.com/album/6CNCgL41X0tHnuIlYHNE7P"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 202363,
       "name": "Bist du noch da?",
       "url": "https://open.spotify.com/track/4jzbviiDmqAPZuqP3KBJxS"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "Alles nur f\u00fcr mich",
+        "url": "https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        }
+      ],
+      "duration_ms": 141188,
+      "name": "Alles nur f\u00fcr mich",
+      "url": "https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "c.260611",
-        "url": "https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu"
-      },
-      "artists": [
-        {
-          "name": "elimako",
-          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
-        }
-      ],
-      "duration_ms": 105234,
-      "name": "c.260611",
-      "url": "https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "chasing love and missing people",
         "url": "https://open.spotify.com/album/1aopweZWLHNYjHoYJwJvqn"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 173773,
       "name": "chasing love and missing people",
       "url": "https://open.spotify.com/track/0b0mBhKTaAbLyFcUanja51"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "c.260611",
+        "url": "https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "duration_ms": 105234,
+      "name": "c.260611",
+      "url": "https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4"
     },
     {
       "added_at": "2026-08-04 22:00:28",

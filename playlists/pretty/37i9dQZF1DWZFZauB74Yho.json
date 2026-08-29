@@ -1,12 +1,12 @@
 {
   "description": "The latest releases from bluegrass and string bands alike. Cover: Two Runner",
-  "num_followers": 33837,
+  "num_followers": 33836,
   "original_name": "New Grass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFqEE0foQ+Ku/s8ozSpzad0FOYXc",
+  "snapshot_id": "AAAAADSKapC3kKEF2e6s9LpirCCiUoxE",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:35",
@@ -272,10 +272,6 @@
           "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
         },
         {
-          "name": "Bronwyn Keith-Hynes",
-          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
-        },
-        {
           "name": "AJ Lee",
           "url": "https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG"
         },
@@ -290,6 +286,10 @@
         {
           "name": "Wila Frank",
           "url": "https://open.spotify.com/artist/5BytlUovIxRBOBPdbC3UWu"
+        },
+        {
+          "name": "Bronwyn",
+          "url": "https://open.spotify.com/artist/24S2vTDYhK9PESL4DvCWtq"
         }
       ],
       "duration_ms": 237874,

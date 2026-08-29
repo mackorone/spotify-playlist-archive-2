@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 340134,
+  "num_followers": 340183,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFf+MpBGZexAG9iBe7OO973wMGa3",
+  "snapshot_id": "AAAAAD3MLnnoPAUT/broH1LmB7GNKCgP",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best Of Canned Heat",
-        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Going Up The Country",
-      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 139733,
       "name": "Think",
       "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best Of Canned Heat",
+        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Going Up The Country",
+      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Four Tops",
-        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Baby I Need Your Loving",
-      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Beatles For Sale (Remastered)",
         "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+        "name": "Four Tops",
+        "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+      "duration_ms": 166026,
+      "name": "Baby I Need Your Loving",
+      "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -743,6 +727,22 @@
       "duration_ms": 166666,
       "name": "Come A Little Bit Closer",
       "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Take Good Care Of My Baby",
-        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Take Good Care Of My Baby",
-      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Take Good Care Of My Baby",
+        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Take Good Care Of My Baby",
+      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Rick Is 21",
         "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 138546,
       "name": "Hello Mary Lou, Goodbye Heart - Remastered",
       "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Summer Days (And Summer Nights) [Remastered]",
-        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Help Me, Rhonda - Single Version/Remastered 2001",
-      "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Summer Days (And Summer Nights) [Remastered]",
+        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Help Me, Rhonda - Single Version/Remastered 2001",
+      "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "These Boots Are Made for Walkin'",
-      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "No Place To Hide",
         "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 129758,
       "name": "It's In The Kiss (The Shoop Shoop Song)",
       "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "These Boots Are Made for Walkin'",
+      "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
-      },
-      "artists": [
-        {
-          "name": "The Exciters",
-          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Tell Him - Single Version",
-      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best Of Chubby Checker 1959-1963",
         "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 153760,
       "name": "The Twist",
       "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
+      },
+      "artists": [
+        {
+          "name": "The Exciters",
+          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Tell Him - Single Version",
+      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Keep On Running",
-        "url": "https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 173973,
-      "name": "Gimme Some Lovin' - Single Mix",
-      "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 163293,
       "name": "Friday on My Mind",
       "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Keep On Running",
+        "url": "https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1963,6 +1963,22 @@
       "duration_ms": 175066,
       "name": "Uptight (Everything's Alright)",
       "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "More Hits By The Supremes - Expanded Edition",
+        "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Stop! In The Name Of Love",
+      "url": "https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2091,22 +2107,6 @@
       "duration_ms": 193293,
       "name": "Waterloo Sunset - Stereo Mix",
       "url": "https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "More Hits By The Supremes - Expanded Edition",
-        "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Stop! In The Name Of Love",
-      "url": "https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj"
     },
     {
       "added_at": "2022-06-16 22:02:00",

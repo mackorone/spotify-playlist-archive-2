@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,903 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747,849 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 38 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
 | 39 | [Shake Dat Ass \(Twerk Song\)](https://open.spotify.com/track/1vkpe29DP5EvAxYnWVq5C1) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Too Slippery](https://open.spotify.com/album/3ESmtTRJZkIjPShkV48tdL) | 3:17 |
 | 40 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 |
-| 41 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
-| 42 | [B.B.B.](https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.B.B.](https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd) | 2:20 |
+| 41 | [B.B.B.](https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.B.B.](https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd) | 2:20 |
+| 42 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 |
 | 43 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 |
-| 44 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 |
+| 44 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 45 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
 | 46 | [We Not Humping \- Remix](https://open.spotify.com/track/4ue41gFbAjoU0P1EberJWm) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [We Not Humping \(Remix\)](https://open.spotify.com/album/1V9eCkZxExdad79zHEE6Dk) | 2:23 |
 | 47 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 49 | [FTCU \(feat\. Travis Scott, Chris Brown & Sexyy Red\) \- SLEEZEMIX](https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FTCU \(SLEEZEMIX\)](https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2) | 3:59 |
 | 50 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 
-Snapshot ID: `AAAAADTDTp+NPhyN3zcym0bTpzk6BXD1`
+Snapshot ID: `AAAAAFuUJCbhIHQeBqNI5LD5uxt2fMTu`

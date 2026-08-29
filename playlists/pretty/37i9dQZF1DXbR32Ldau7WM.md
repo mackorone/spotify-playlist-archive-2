@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Official HIGE DANdism Official髭男dism
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,639 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,644 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 46 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 |
 | 47 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 48 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
-| 49 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 |
-| 50 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
+| 49 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
+| 50 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 |
 | 51 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
-| 52 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 |
-| 53 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
+| 52 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
+| 53 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 |
 | 54 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
 | 55 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 |
 | 56 | [Wherever you are](https://open.spotify.com/track/1TZjEATJpF5LaVL7oJHDMn) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/0jrBCq3JJBpBW80voXMzXu) | 4:55 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 79 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 |
 | 80 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 81 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
-| 82 | [ある未来より愛を込めて](https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ある未来より愛を込めて](https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A) | 4:07 |
-| 83 | [呼び声](https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [呼び声](https://open.spotify.com/album/3RhkGySFESW5d50IlNWuP1) | 3:54 |
+| 82 | [呼び声](https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [呼び声](https://open.spotify.com/album/3RhkGySFESW5d50IlNWuP1) | 3:54 |
+| 83 | [ある未来より愛を込めて](https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ある未来より愛を込めて](https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A) | 4:07 |
 | 84 | [THE REVO](https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE REVO](https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix) | 4:00 |
 | 85 | [いらないもの](https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [いらないもの](https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl) | 3:05 |
 | 86 | [サンダーボルト](https://open.spotify.com/track/3xwcoxhjy2vg1O1bb4IQ1m) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [サンダーボルト](https://open.spotify.com/album/1iShXaXcWgFIuCEYn4gqyD) | 3:46 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 90 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 |
 | 91 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 92 | [だよ](https://open.spotify.com/track/2P29b4IhpipUwq6OKMwda8) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [だよ](https://open.spotify.com/album/5HMF0jFGPGqtHka0GoIoge) | 3:19 |
-| 93 | [クライマックス](https://open.spotify.com/track/1UowM2V8rZu1mFubRzss9P) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 4:20 |
-| 94 | [ワールドエンドガールフレンド](https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 3:13 |
+| 93 | [ワールドエンドガールフレンド](https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 3:13 |
+| 94 | [クライマックス](https://open.spotify.com/track/1UowM2V8rZu1mFubRzss9P) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [人生](https://open.spotify.com/album/6MSc4uxOu8fBkR3ejzVyJY) | 4:20 |
 | 95 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 |
 | 96 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
 | 97 | [Dogs](https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Dogs](https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC) | 4:56 |
-| 98 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
-| 99 | [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 |
+| 98 | [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 |
+| 99 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
 | 100 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 
-Snapshot ID: `AAAAACPw0GLWzuqLq8a0vCx1UJBsbwJz`
+Snapshot ID: `AAAAAOWbz13eg5JTqXqi+vSLyWrdqw3J`

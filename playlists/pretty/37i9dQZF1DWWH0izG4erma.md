@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,997 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,203 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 32 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 |
 | 33 | [Change](https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Change](https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB) | 3:08 |
 | 34 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 |
-| 35 | [No More Tears \- live from the let go letters tour](https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [No More Tears \(live from the let go letters tour\)](https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL) | 3:51 |
-| 36 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 |
-| 37 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
+| 35 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
+| 36 | [No More Tears \- live from the let go letters tour](https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [No More Tears \(live from the let go letters tour\)](https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL) | 3:51 |
+| 37 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 |
 | 38 | [Relapse](https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3) | 2:38 |
 | 39 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 |
 | 40 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
-| 41 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
-| 42 | [Southern Rock](https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:38 |
+| 41 | [Southern Rock](https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:38 |
+| 42 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
 | 43 | [Searchlight](https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Searchlight](https://open.spotify.com/album/4O3TIz80IlOC5Ya0PbfUlJ) | 3:34 |
 | 44 | [I ain't Country](https://open.spotify.com/track/7HoqLd4ZXftkWF1TkQgSt2) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P), [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Heart On Ice](https://open.spotify.com/album/59AFllTisSU6QjmiBjIO82) | 2:40 |
 | 45 | [I HATE ME TOO](https://open.spotify.com/track/5rgZbwCHPZKP32NG0g66ar) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [I HATE ME TOO](https://open.spotify.com/album/7mhU3F2Qk5PryU0KHv9lqy) | 3:05 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 50 | [Don't Come Lookin'](https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Jackson Dean](https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp) | 3:07 |
 | 51 | [Cowboys Did Cocaine](https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [Cowboys Did Cocaine](https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6) | 3:52 |
 | 52 | [Heavy Metal](https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Heavy Metal](https://open.spotify.com/album/33bWo4vFIyoC62phzfjEKy) | 2:34 |
-| 53 | [Whiskey Lullaby](https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc) | [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0), [Caitlynne Curtis](https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf) | [Whiskey Lullaby](https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM) | 4:29 |
-| 54 | [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 |
-| 55 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
+| 53 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
+| 54 | [Whiskey Lullaby](https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc) | [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0), [Caitlynne Curtis](https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf) | [Whiskey Lullaby](https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM) | 4:29 |
+| 55 | [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 |
 | 56 | [Up To No Good](https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Up To No Good](https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW) | 2:13 |
 | 57 | [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 |
 | 58 | [Redneck Rockstar](https://open.spotify.com/track/5GMTJruaIyRZ14xXn59mfC) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Redneck Rockstar](https://open.spotify.com/album/4Y7web9v5SP8zapdG8UsYO) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
 | 100 | [Back in the Bottle](https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [From Me](https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ) | 2:50 |
 
-Snapshot ID: `AAAAAA4vUuRVsDC8Aw8ciBAVfcZ6Z1O2`
+Snapshot ID: `AAAAAGjBWZh7nq0baEDAr+e38cyuNut+`

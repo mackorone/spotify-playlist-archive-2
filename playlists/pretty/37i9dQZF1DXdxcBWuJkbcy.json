@@ -1,12 +1,12 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7827676,
+  "num_followers": 7827441,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANU/gmHssRIsQ1jxfxISW4dVpMSo",
+  "snapshot_id": "AAAAAOs7/bw+gPyd6bzvxeNk3jun9zCO",
   "tracks": [
     {
       "added_at": "2026-08-20 22:01:08",
@@ -643,30 +643,18 @@
     {
       "added_at": "2026-08-20 22:01:08",
       "album": {
-        "name": "LET'S GET FKD UP (feat. Tribbs)",
-        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
+        "name": "Comes and Goes",
+        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        },
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         }
       ],
-      "duration_ms": 121500,
-      "name": "LET'S GET FKD UP",
-      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+      "duration_ms": 262170,
+      "name": "Comes and Goes",
+      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
     },
     {
       "added_at": "2026-08-20 22:01:08",
@@ -691,18 +679,30 @@
     {
       "added_at": "2026-08-20 22:01:08",
       "album": {
-        "name": "Comes and Goes",
-        "url": "https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs"
+        "name": "LET'S GET FKD UP (feat. Tribbs)",
+        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
         }
       ],
-      "duration_ms": 262170,
-      "name": "Comes and Goes",
-      "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
+      "duration_ms": 121500,
+      "name": "LET'S GET FKD UP",
+      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
       "added_at": "2026-08-20 22:01:08",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-08-20 22:01:08",
       "album": {
+        "name": "Makeba (Ian Asher Remix)",
+        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 125178,
+      "name": "Makeba - Ian Asher Remix",
+      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
+    },
+    {
+      "added_at": "2026-08-20 22:01:08",
+      "album": {
         "name": "Sad Girls",
         "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 171717,
       "name": "It's That Time - FISHER Remix",
       "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
-    },
-    {
-      "added_at": "2026-08-20 22:01:08",
-      "album": {
-        "name": "Makeba (Ian Asher Remix)",
-        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 125178,
-      "name": "Makeba - Ian Asher Remix",
-      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
     },
     {
       "added_at": "2026-08-20 22:01:08",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-08-20 22:01:08",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 194890,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
-    },
-    {
-      "added_at": "2026-08-20 22:01:08",
-      "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 136580,
       "name": "These Words",
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
+    },
+    {
+      "added_at": "2026-08-20 22:01:08",
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
     },
     {
       "added_at": "2026-08-20 22:01:08",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-08-20 22:01:08",
       "album": {
-        "name": "Desire (with Sam Smith)",
-        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Desire (with Sam Smith)",
-      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2026-08-20 22:01:08",
-      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 170270,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
+    },
+    {
+      "added_at": "2026-08-20 22:01:08",
+      "album": {
+        "name": "Desire (with Sam Smith)",
+        "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "Desire (with Sam Smith)",
+      "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
       "added_at": "2026-08-20 22:01:08",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2026-08-20 22:01:08",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa"
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 216115,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg"
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2026-08-20 22:01:08",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2026-08-20 22:01:08",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa"
       },
       "artists": [
         {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+      "duration_ms": 216115,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg"
     },
     {
       "added_at": "2026-08-20 22:01:08",

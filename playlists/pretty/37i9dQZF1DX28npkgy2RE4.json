@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 417251,
+  "num_followers": 417241,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1T8rervylbQfQyn4ige17PmIiV",
+  "snapshot_id": "AAAAAK60KJMdEV27kVF6HngeiiOyUA5E",
   "tracks": [
     {
       "added_at": "2025-02-07 05:00:36",
@@ -175,18 +175,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+        "name": "Tales Of America",
+        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+      "duration_ms": 229906,
+      "name": "Saying Goodbye",
+      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -207,18 +207,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Tales Of America",
-        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
       "artists": [
         {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 229906,
-      "name": "Saying Goodbye",
-      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186269,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "The Blues Have Blown Away",
         "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 167400,
       "name": "The Blues Have Blown Away",
       "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186269,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "The Jacket",
-        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 259181,
-      "name": "Everything Is Simple",
-      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "The Jacket",
+        "url": "https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 259181,
+      "name": "Everything Is Simple",
+      "url": "https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Teeth Marks",
-        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Teeth Marks",
-      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "We Watch The Stars",
         "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
       },
@@ -1263,22 +1247,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
+        "name": "Teeth Marks",
+        "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
       "artists": [
         {
-          "name": "Jenn Grant",
-          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
-        },
-        {
-          "name": "Kim Harris",
-          "url": "https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Judy",
-      "url": "https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw"
+      "duration_ms": 217130,
+      "name": "Teeth Marks",
+      "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1299,6 +1279,26 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
+      },
+      "artists": [
+        {
+          "name": "Jenn Grant",
+          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
+        },
+        {
+          "name": "Kim Harris",
+          "url": "https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Judy",
+      "url": "https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Fish Pond Fish",
         "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 198750,
       "name": "Raglan",
       "url": "https://open.spotify.com/track/2w2cEcgcSTkCE3TiHCmPxM"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "The Fight",
-        "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/2Nh201cURlNgpcMDnDlNaL"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
-      },
-      "artists": [
-        {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
-        }
-      ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "I Want The Door To Open",
         "url": "https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl"
       },
@@ -1727,38 +1711,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
       "artists": [
         {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
         }
       ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Mount Airy Hill (Way Gone)",
-        "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1775,6 +1739,22 @@
       "duration_ms": 281880,
       "name": "Stranger Danger",
       "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Mount Airy Hill (Way Gone)",
+        "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1843,22 +1823,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Mouth (feat. Luke Krutzke)",
-        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
         },
         {
-          "name": "Luke Krutzke",
-          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 236032,
-      "name": "Mouth (feat. Luke Krutzke)",
-      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1879,6 +1859,26 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Mouth (feat. Luke Krutzke)",
+        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        },
+        {
+          "name": "Luke Krutzke",
+          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
+        }
+      ],
+      "duration_ms": 236032,
+      "name": "Mouth (feat. Luke Krutzke)",
+      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Narcissist - EP",
         "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 241000,
       "name": "Not Healthy Anymore",
       "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Ignorance (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 173008,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "We Cannot Resist",
         "url": "https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 237985,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Ignorance (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 173008,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Bummer Year",
-        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
-      },
-      "artists": [
-        {
-          "name": "Good Looks",
-          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
-        }
-      ],
-      "duration_ms": 271120,
-      "name": "Bummer Year",
-      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Big Star (Alt)",
         "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 244632,
       "name": "Big Star - Alt",
       "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Bummer Year",
+        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
+      },
+      "artists": [
+        {
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+        }
+      ],
+      "duration_ms": 271120,
+      "name": "Bummer Year",
+      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Standing On The Moon",
+        "url": "https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 299536,
+      "name": "Standing On The Moon",
+      "url": "https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Buzz The Leaf",
         "url": "https://open.spotify.com/album/3bkZxrc6DGqLh5soumIC2b"
       },
@@ -2267,22 +2283,6 @@
       "duration_ms": 214149,
       "name": "Buzz The Leaf",
       "url": "https://open.spotify.com/track/1QLkRZhST9p1k4Xe3SL6nR"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Standing On The Moon",
-        "url": "https://open.spotify.com/album/5NbG7i8fTUc4eJzl4KJUQK"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 299536,
-      "name": "Standing On The Moon",
-      "url": "https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2323,34 +2323,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Head of Roses: Phantom Limb",
-        "url": "https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH"
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks"
       },
       "artists": [
         {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 222371,
-      "name": "The Weakness in Me",
-      "url": "https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+      "duration_ms": 239056,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/7z2MAtdSKCY0bAVy2ItYP0"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2371,18 +2355,34 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks"
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
       "artists": [
         {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
         }
       ],
-      "duration_ms": 239056,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/7z2MAtdSKCY0bAVy2ItYP0"
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Head of Roses: Phantom Limb",
+        "url": "https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH"
+      },
+      "artists": [
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 222371,
+      "name": "The Weakness in Me",
+      "url": "https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Do Re Mi",
-        "url": "https://open.spotify.com/album/6DqZwnuYAGTA99eqhLogCl"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 268195,
-      "name": "Do Re Mi",
-      "url": "https://open.spotify.com/track/7vBPOWYgtgQ0G7m7TMPFPC"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Claim Your Prize",
         "url": "https://open.spotify.com/album/0a3QmUqjU2YA1bz9xUSBvu"
       },
@@ -2443,18 +2427,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Worldender",
-        "url": "https://open.spotify.com/album/1Hs5Q0WA0rAHoFA8a6j77D"
+        "name": "Do Re Mi",
+        "url": "https://open.spotify.com/album/6DqZwnuYAGTA99eqhLogCl"
       },
       "artists": [
         {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
         }
       ],
-      "duration_ms": 253465,
-      "name": "Worldender",
-      "url": "https://open.spotify.com/track/6VDvcEeDNYuUwUjgVg72QO"
+      "duration_ms": 268195,
+      "name": "Do Re Mi",
+      "url": "https://open.spotify.com/track/7vBPOWYgtgQ0G7m7TMPFPC"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2475,18 +2459,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML"
+        "name": "Worldender",
+        "url": "https://open.spotify.com/album/1Hs5Q0WA0rAHoFA8a6j77D"
       },
       "artists": [
         {
-          "name": "Mapache",
-          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
         }
       ],
-      "duration_ms": 266961,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw"
+      "duration_ms": 253465,
+      "name": "Worldender",
+      "url": "https://open.spotify.com/track/6VDvcEeDNYuUwUjgVg72QO"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2507,18 +2491,34 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Was Always You",
-        "url": "https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML"
       },
       "artists": [
         {
-          "name": "Camille Jansen",
-          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
         }
       ],
-      "duration_ms": 196575,
-      "name": "Was Always You",
-      "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
+      "duration_ms": 266961,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "The Saddest Song",
+        "url": "https://open.spotify.com/album/5X1aa8zc8YsN4eatUsDkNE"
+      },
+      "artists": [
+        {
+          "name": "Metaxas",
+          "url": "https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9"
+        }
+      ],
+      "duration_ms": 213054,
+      "name": "The Saddest Song",
+      "url": "https://open.spotify.com/track/1jFPb2lw9llGvXcFEMXmD5"
     }
   ],
   "unique_name": "Modern Eclectic",

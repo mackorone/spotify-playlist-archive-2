@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 2000s. ",
-  "num_followers": 1522325,
+  "num_followers": 1522643,
   "original_name": "Party Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANnUQFTd+4SIGXYeE5P1tXRzfZOe",
+  "snapshot_id": "AAAAAFQZSEksDMNZwCTKhnyK78dYdKKc",
   "tracks": [
     {
       "added_at": "2024-11-25 16:41:21",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 251244,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
-    },
-    {
-      "added_at": "2024-11-25 16:41:21",
-      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "added_at": "2024-11-25 16:41:21",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 251244,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
       "added_at": "2024-11-25 16:41:21",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
-        "name": "souljaboytellem.com",
-        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Crank That (Soulja Boy)",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
-    },
-    {
-      "added_at": "2024-11-25 16:41:21",
-      "album": {
         "name": "One Of The Boys",
         "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV"
+    },
+    {
+      "added_at": "2024-11-25 16:41:21",
+      "album": {
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
     },
     {
       "added_at": "2024-11-25 16:41:21",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "LoveGame",
+      "url": "https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx"
+    },
+    {
+      "added_at": "2024-11-25 16:41:21",
+      "album": {
         "name": "La Roux",
         "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
       },
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 216333,
-      "name": "LoveGame",
-      "url": "https://open.spotify.com/track/0eH2eHURaXUP15D8gQlfjx"
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2024-11-25 16:41:21",
@@ -1299,22 +1315,6 @@
       "duration_ms": 228000,
       "name": "Breathe (feat. Sean Paul) - Rap Version",
       "url": "https://open.spotify.com/track/1BPybPVkDfUjFDvqG04l58"
-    },
-    {
-      "added_at": "2024-11-25 16:41:21",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2024-11-25 16:41:21",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
+        "name": "Love. Angel. Music. Baby.",
+        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
+    },
+    {
+      "added_at": "2024-11-25 16:41:21",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
-    },
-    {
-      "added_at": "2024-11-25 16:41:21",
-      "album": {
-        "name": "Love. Angel. Music. Baby.",
-        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Hollaback Girl",
-      "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
     },
     {
       "added_at": "2024-11-25 16:41:21",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
-        "name": "Shock Value II",
-        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
-      },
-      "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 292706,
-      "name": "If We Ever Meet Again (Featuring Katy Perry)",
-      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
-    },
-    {
-      "added_at": "2024-11-25 16:41:21",
-      "album": {
         "name": "The Cookbook",
         "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 226863,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
+    },
+    {
+      "added_at": "2024-11-25 16:41:21",
+      "album": {
+        "name": "Shock Value II",
+        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 292706,
+      "name": "If We Ever Meet Again (Featuring Katy Perry)",
+      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
     },
     {
       "added_at": "2024-11-25 16:41:21",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
-    },
-    {
-      "added_at": "2024-11-25 16:41:21",
-      "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/2knAf4wg8Gff8q1bXiXCTz"
       },
@@ -2103,18 +2087,18 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
       },
       "artists": [
         {
-          "name": "GIGI D'AGOSTINO",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
+      "duration_ms": 242013,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
     },
     {
       "added_at": "2024-11-25 16:41:21",
@@ -2131,6 +2115,22 @@
       "duration_ms": 405693,
       "name": "Played-A-Live (The Bongo Song)",
       "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
+    },
+    {
+      "added_at": "2024-11-25 16:41:21",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "GIGI D'AGOSTINO",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2024-11-25 16:41:21",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
-        "name": "Just a Little More Love",
-        "url": "https://open.spotify.com/album/51fJbB1qe3EfUvb3fMK2jr"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Love Don't Let Me Go",
-      "url": "https://open.spotify.com/track/0mIAWTIXUP9Os5RBXKclO6"
-    },
-    {
-      "added_at": "2024-11-25 16:41:21",
-      "album": {
         "name": "Feels So Good",
         "url": "https://open.spotify.com/album/10ZcEPnqq7VPUfGytiVTuw"
       },
@@ -2271,18 +2255,18 @@
     {
       "added_at": "2024-11-25 16:41:21",
       "album": {
-        "name": "Coast To Coast (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
+        "name": "Just a Little More Love",
+        "url": "https://open.spotify.com/album/51fJbB1qe3EfUvb3fMK2jr"
       },
       "artists": [
         {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 186440,
-      "name": "Uptown Girl - Radio Edit",
-      "url": "https://open.spotify.com/track/2sFp6E7lNBbblJGmUtCfFH"
+      "duration_ms": 216893,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/0mIAWTIXUP9Os5RBXKclO6"
     },
     {
       "added_at": "2024-11-25 16:41:21",
@@ -2299,6 +2283,22 @@
       "duration_ms": 215800,
       "name": "What a Girl Wants",
       "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
+    },
+    {
+      "added_at": "2024-11-25 16:41:21",
+      "album": {
+        "name": "Coast To Coast (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Uptown Girl - Radio Edit",
+      "url": "https://open.spotify.com/track/2sFp6E7lNBbblJGmUtCfFH"
     },
     {
       "added_at": "2024-11-25 16:41:21",

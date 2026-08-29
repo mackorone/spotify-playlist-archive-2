@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Shakira & Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,397 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,430 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [silent treatment](https://open.spotify.com/track/6roRnD4IGhs5z8GSMGh4Yt) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2tPMXmAmKZho6vhIv4vjVG) | 2:22 |
 | 50 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 |
 
-Snapshot ID: `AAAAAPhruYEff9IjrgxLHmOri4/wOwAU`
+Snapshot ID: `AAAAAC5asgjI4kMmE4WdzUCekb4J5sL1`

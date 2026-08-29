@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Mrozu, Kacperczyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,806 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,851 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 4 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
 | 5 | [na błysk](https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [na błysk](https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG) | 3:49 |
 | 6 | [na zabój](https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [Alien BSC](https://open.spotify.com/artist/33wR1nI0o5pJgyl4ft8BWT), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [na zabój](https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj) | 3:45 |
-| 7 | [LOT](https://open.spotify.com/track/0A9VVbdNzuSBsBm2XoQEEr) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [LOT](https://open.spotify.com/album/6MiCXhjKttU1iurCMYMc7S) | 2:49 |
+| 7 | [LOT](https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [LOT](https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC) | 2:49 |
 | 8 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
 | 9 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
 | 10 | [Nie muszę udawać](https://open.spotify.com/track/0wN4h1bIlVY2a3ID4ty7DM) | [Zuzia Małaj](https://open.spotify.com/artist/0eTrgCpiEtWyaQ5sR73h8L), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ), [Krystian Piotrak](https://open.spotify.com/artist/4kBiE0S3ecFv46gWbLDwjf) | [Nie muszę udawać](https://open.spotify.com/album/7fOwMj9KZEaaq6iAn4MPtW) | 2:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Gdy będziesz sam](https://open.spotify.com/track/2D3KypXOFJWiZMz40ZwJCy) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Gdy będziesz sam](https://open.spotify.com/album/0nJhmSMbbrIbkVjGSyz31i) | 3:01 |
 | 60 | [aż nie chce się wracać](https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [aż nie chce się wracać](https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW) | 2:14 |
 
-Snapshot ID: `AAAAAMnxc9ztoLtSa3hL1lL0z9/GV15V`
+Snapshot ID: `AAAAAPCqSdvDvfq73VhgOXFiBDoB4z9F`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,426 likes - 48 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,435 likes - 48 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Olvida Que Te Olvide](https://open.spotify.com/track/7f9kaG29f9CfyIwHpNJGOH) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Olvida Que Te Olvide](https://open.spotify.com/album/6EwixuIBcRFYSZPoxeS0ng) | 3:46 |
 | 48 | [Nube Pasajera](https://open.spotify.com/track/1vqojH8o4mxfyP2qJF0vyb) | [Michel Maza](https://open.spotify.com/artist/010Zn5OLvL9eKVBBxP4bur) | [Que Hablen, Los Habladores...](https://open.spotify.com/album/68wjw2t8xtDo0ttFCYRHtD) | 6:53 |
 
-Snapshot ID: `AAAAAN0p9KRqNIOGEU9/CgEnFn+b32xH`
+Snapshot ID: `AAAAAIfYjrzySLGVP7ciGRe/YlDpCngU`

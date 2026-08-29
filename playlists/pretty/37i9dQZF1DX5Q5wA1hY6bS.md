@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,324,592 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,324,489 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 40 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 |
 | 41 | [Broken Horses](https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 5:03 |
 | 42 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 |
-| 43 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 |
-| 44 | [Never Come Back Again](https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9) | [Austin Plaine](https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN) | [Austin Plaine](https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN) | 3:16 |
+| 43 | [Never Come Back Again](https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9) | [Austin Plaine](https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN) | [Austin Plaine](https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN) | 3:16 |
+| 44 | [Never Be Ourselves](https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 3:40 |
 | 45 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
 | 46 | [Moving Mountains](https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL) | [The Brevet](https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM) | [American Novel: Ch\. I](https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX) | 4:39 |
 | 47 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 55 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 |
 | 56 | [Get Up](https://open.spotify.com/track/61YuCtYvNxDecX2qlR62z3) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Reckless Skyline](https://open.spotify.com/album/7DjQyYdYrfB3DcgoULegGK) | 3:44 |
 | 57 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
-| 58 | [Come Find Me](https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Eric Straube](https://open.spotify.com/artist/1JqWg1y0s3ZAqHYbfuAAJZ), [Chris Qualls](https://open.spotify.com/artist/1Q0uAs7926hdflLJ58XUvZ) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
-| 59 | [Crumbled](https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Crumbled](https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA) | 3:13 |
+| 58 | [Crumbled](https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Crumbled](https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA) | 3:13 |
+| 59 | [Come Find Me](https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Eric Straube](https://open.spotify.com/artist/1JqWg1y0s3ZAqHYbfuAAJZ), [Chris Qualls](https://open.spotify.com/artist/1Q0uAs7926hdflLJ58XUvZ) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
 | 60 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
 | 61 | [October \(October Version\)](https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [October \(October Version\)](https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse) | 4:37 |
 | 62 | [Backpush](https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Backpush](https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj) | 3:02 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 82 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
 | 83 | [Summertime Mama](https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 2:56 |
 | 84 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
-| 85 | [Star to Star](https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:49 |
-| 86 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
+| 85 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
+| 86 | [Star to Star](https://open.spotify.com/track/3Ju1WFIZEe5hEZsKpfjC4B) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:49 |
 | 87 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
 | 88 | [Ghost](https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Ghost](https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS) | 3:25 |
 | 89 | [Gimme the Beat Back](https://open.spotify.com/track/056W9KxE1pktCEsiydW6ZX) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Gimme the Beat Back](https://open.spotify.com/album/76VRoxpT60WNLRxMwovLfY) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 99 | [Fields of Gold](https://open.spotify.com/track/72EsFNeQy959UicF9Q6H4i) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:31 |
 | 100 | [Love Gone Wrong](https://open.spotify.com/track/4x3c8AbiCt9HV9E4rXsseZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [What Will We Do](https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X) | 3:56 |
 
-Snapshot ID: `AAAAAE8N6rqUF9V8H3eB1Ta7/7fgUVMH`
+Snapshot ID: `AAAAALFB9EgHXoOJn/Kf+tWS6kBJ0L5S`

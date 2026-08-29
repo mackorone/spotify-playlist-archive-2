@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  Paloma Morphy en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,461 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,476 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [si la ves](https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [si la ves](https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R) | 2:57 |
-| 2 | [PARAMICORAZON:](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON:](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
+| 2 | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
 | 3 | [PARANOIA](https://open.spotify.com/track/4WDNXnX9auUjkd5kEhV726) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [PARANOIA](https://open.spotify.com/album/4uvON3YWe2ToqAO3I0cCvB) | 2:44 |
 | 4 | [mAldito](https://open.spotify.com/track/5lzzIQiRMy37c90TFzXocj) | [Emiliano Athie](https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr) | [mAldito](https://open.spotify.com/album/3L8HcFlC3bEgM0miV0Yvmd) | 2:40 |
 | 5 | [La gravedad y el tiempo.](https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [La gravedad y el tiempo.](https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 49 | [Distinto](https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Distinto](https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7) | 2:45 |
 | 50 | [me olvidarás \(como lo haces ya\)](https://open.spotify.com/track/4yxdGAEtZSDh1mggFiBXZ3) | [incluso si nunca despiertas](https://open.spotify.com/artist/1U15da7scYhZb2sdEs4sFI) | [soñé que me llevabas](https://open.spotify.com/album/4wGUWrq6AkysMLGxjvcN3c) | 2:57 |
 
-Snapshot ID: `AAAAADqjjMwRZTLQTxAf4DIm0ybTkWgU`
+Snapshot ID: `AAAAAPJH1L7UF/iQUoiLpQjw8l8T7N5u`

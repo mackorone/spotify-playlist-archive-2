@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "La BO officielle de l'\u00e9t\u00e9 2026 \ud83c\udf1e Photo : GIMS",
+  "description": "La BO officielle de l'\u00e9t\u00e9 2026 \ud83c\udf1e Photo : Bebe Rexha",
   "name": "hits de l'\u00e9t\u00e9 2026",
   "tracks": [
     {
@@ -5236,6 +5236,24 @@
     {
       "album": {
         "name": "Maladie",
+        "url": "https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
+    },
+    {
+      "album": {
+        "name": "Maladie",
         "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
       },
       "artists": [
@@ -5246,7 +5264,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
@@ -6760,10 +6778,28 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+    },
+    {
+      "album": {
+        "name": "L'undertaker, Pt.1",
+        "url": "https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
     },
     {
       "album": {
@@ -9314,10 +9350,28 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 117691,
       "name": "Wagyu",
       "url": "https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX"
+    },
+    {
+      "album": {
+        "name": "Wagyu",
+        "url": "https://open.spotify.com/album/4Fo2W6EjxT9OzSRyLftqNV"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117691,
+      "name": "Wagyu",
+      "url": "https://open.spotify.com/track/7DVtpzEq51TFOYufMlMcD8"
     },
     {
       "album": {

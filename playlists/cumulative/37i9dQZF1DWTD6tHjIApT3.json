@@ -13792,7 +13792,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 206291,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt"
@@ -65684,6 +65684,24 @@
       "duration_ms": 383361,
       "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
       "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
+    },
+    {
+      "album": {
+        "name": "\u7fe0\u8272\u306b\u8d08\u308b",
+        "url": "https://open.spotify.com/album/0nin4jnECyXBVEYztBA7S3"
+      },
+      "artists": [
+        {
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
+        }
+      ],
+      "date_added": "2026-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208693,
+      "name": "\u6b8b\u9177\u306b\u306a\u308a\u307e\u3059\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/7wOydiUwoKbAybdgLyjJlw"
     },
     {
       "album": {

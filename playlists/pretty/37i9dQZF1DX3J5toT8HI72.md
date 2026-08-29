@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,568 likes - 95 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,542 likes - 95 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 21 | [Menino Bonito \- Ao Vivo](https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Menino Bonito \(Ao Vivo\)](https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah) | 2:49 |
 | 22 | [All Star \- Ao Vivo](https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Nando Reis \- Voz e Violão \- No Recreio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX) | 3:53 |
 | 23 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
-| 24 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
+| 24 | [Devolva\-me \- Ao Vivo](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 25 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
-| 26 | [Devolva\-me \- Ao Vivo](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
+| 26 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
 | 27 | [Mais Ninguém](https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 2:48 |
 | 28 | [É Isso Aí \(The Blower'S Daughter\) \- Ao Vivo](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge \(Ao Vivo\)](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 |
 | 29 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 75 | [Velha Infancia \- 2004 Digital Remaster;](https://open.spotify.com/track/3KYlOzxN5xO7eEauO1VF06) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/7tkP1p2yTttMg2SY45nB5Y) | 4:10 |
 | 76 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
 | 77 | [Amor I Love You / Citação: Trecho Da Obra Intitulada "Primo Basilio" De Eça De Queiroz Declamado Por Arnaldo Antunes](https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memorias Cronicas E Declaracoes De Amor "Textos, Provas E Desmentidos"](https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn) | 3:11 |
-| 78 | [Singular](https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:26 |
-| 79 | [Sem Nome, Mas Com Endereço](https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 4:29 |
-| 80 | [Eu Me Lembro \(feat\. Silva\)](https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99) | 3:37 |
+| 78 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
+| 79 | [Singular](https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:26 |
+| 80 | [Aliança](https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Aliança](https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM) | 3:56 |
 | 81 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 |
-| 82 | [Aliança](https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Aliança](https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM) | 3:56 |
-| 83 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
+| 82 | [Sem Nome, Mas Com Endereço](https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 4:29 |
+| 83 | [Eu Me Lembro \(feat\. Silva\)](https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99) | 3:37 |
 | 84 | [Insista Em Mim](https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama de Gato Que Eu Sou Sua](https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW) | 3:32 |
 | 85 | [Fica](https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5) | 3:04 |
 | 86 | [Medo Bobo](https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV) | 3:18 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 94 | [Totalmente Seu](https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 2:12 |
 | 95 | [Minha Flor Meu Bebê](https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [A Arte De Cazuza](https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi) | 3:06 |
 
-Snapshot ID: `AAAAAOIvVjErxBnBMkspTcUHr6P8vz/l`
+Snapshot ID: `AAAAALqR86hGSbRjeqMPhWht3LVqBOBV`

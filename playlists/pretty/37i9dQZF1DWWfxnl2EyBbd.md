@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,980 likes - 82 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,999 likes - 82 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 19 | [in bloom](https://open.spotify.com/track/2HD8hrsF93st2QU00boQea) | [Hans DeGeer](https://open.spotify.com/artist/3r7uTBA2KM7UeghyK1jUye) | [in bloom](https://open.spotify.com/album/1AbaoCmTtSjSB77bQjGlRq) | 2:04 |
 | 20 | [Marais Morning](https://open.spotify.com/track/6GSgdG0O4OqlcNHAdnXHdO) | [James Auren](https://open.spotify.com/artist/7Ds0cZCPbFyORBS5NSvQaQ) | [Marais Morning](https://open.spotify.com/album/0O7kC4qvVPPSxYcgHBBsnN) | 3:26 |
 | 21 | [A Second To None](https://open.spotify.com/track/4UsTV4FO3ipzTby6LNOh1I) | [Jacob Concord](https://open.spotify.com/artist/4DK5fFescw1SzfGrThWjKi) | [A Second To None](https://open.spotify.com/album/48zRVACVygfO4YqbG0N3M8) | 2:54 |
-| 22 | [Vortex](https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1) | [A\. Mayven](https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU) | [Vortex](https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh) | 2:22 |
-| 23 | [Some Other Time](https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ) | [Adriel Holt](https://open.spotify.com/artist/7khUUnooMekTzkQgH047PV) | [Some Other Time](https://open.spotify.com/album/20uWc4oFHGcrvtsFp1iWIp) | 2:45 |
-| 24 | [Midnight Promises](https://open.spotify.com/track/3LOcyi3pPJ0v5dQJXbTohF) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Midnight Promises](https://open.spotify.com/album/6zGj4Fb4JqTrX37cDGLRXI) | 2:35 |
+| 22 | [Some Other Time](https://open.spotify.com/track/3rFFpestLu0mdxj5mTQ3KQ) | [Adriel Holt](https://open.spotify.com/artist/7khUUnooMekTzkQgH047PV) | [Some Other Time](https://open.spotify.com/album/20uWc4oFHGcrvtsFp1iWIp) | 2:45 |
+| 23 | [Midnight Promises](https://open.spotify.com/track/3LOcyi3pPJ0v5dQJXbTohF) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Midnight Promises](https://open.spotify.com/album/6zGj4Fb4JqTrX37cDGLRXI) | 2:35 |
+| 24 | [Vortex](https://open.spotify.com/track/6jNd8Wmbgr0wOfr8gO72W1) | [A\. Mayven](https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU) | [Vortex](https://open.spotify.com/album/6gdhiFG1DK28gHBTn31Lhh) | 2:22 |
 | 25 | [Let's Take a Chance](https://open.spotify.com/track/2ssY14WTj7YcA6RaZhItHc) | [Wiz Senega](https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP) | [Let's Take a Chance](https://open.spotify.com/album/4wZUH0xUUnZdvHonSugHCA) | 2:47 |
 | 26 | [Another sunset](https://open.spotify.com/track/5O0WWwQUYGm1DEO9floJoB) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Another sunset](https://open.spotify.com/album/3V4hFs6nLMwBnAYDyypcWo) | 2:58 |
 | 27 | [Seat for Two](https://open.spotify.com/track/1OfaNgaWjSA9HiedH84LPE) | [Suwonah Nolja](https://open.spotify.com/artist/1HFudkZUUEr5MiMSsPng4B) | [Seat for Two](https://open.spotify.com/album/6jcfxHvEQhlBqNr45FAgY5) | 2:38 |
@@ -59,19 +59,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 49 | [promenade](https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [promenade](https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb) | 2:43 |
 | 50 | [Bewitched](https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Bewitched](https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ) | 2:39 |
 | 51 | [A Fourth Thought](https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V) | [Alur Mcrose](https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF) | [A Fourth Thought](https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE) | 2:27 |
-| 52 | [More than love](https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [More than love](https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m) | 2:53 |
+| 52 | [Downtown](https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3) | [TS Eklund](https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp) | [Downtown](https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B) | 2:36 |
 | 53 | [I miss your laughter](https://open.spotify.com/track/7J43Mh4UvelypkEw3VfzAp) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [I miss your laughter](https://open.spotify.com/album/0pAU1cL8tBWrwH65s1NLe7) | 2:39 |
-| 54 | [Downtown](https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3) | [TS Eklund](https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp) | [Downtown](https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B) | 2:36 |
+| 54 | [More than love](https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [More than love](https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m) | 2:53 |
 | 55 | [Midnight on 5th Avenue](https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv) | [Hans Bukowski](https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi) | [Midnight on 5th Avenue](https://open.spotify.com/album/5e3YlISXye6cegkORKd27J) | 3:00 |
 | 56 | [A Touch of Kindness](https://open.spotify.com/track/30Ts0oF1ycdLf7hxQCD1sF) | [Johnny Blackwood](https://open.spotify.com/artist/0Cp7RkxzaI0pJm1GvYHuSe) | [A Touch of Kindness](https://open.spotify.com/album/3bUEwUGZO7l2nr4WPZwwx3) | 2:16 |
 | 57 | [Skógafoss](https://open.spotify.com/track/0yGxX6e3dXHreh1YXjQJxs) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Skógafoss](https://open.spotify.com/album/6mYArGcIpsQxuUXvVQ03qK) | 3:21 |
 | 58 | [Moonlit Moods](https://open.spotify.com/track/1l3zd90ouLAM4yEwmRSQUK) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Moonlit Moods](https://open.spotify.com/album/75mZ4x4uJIz5pdvOpvdjls) | 2:12 |
-| 59 | [Heart And Soul](https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs) | [Randall Peterson](https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140) | [Heart And Soul](https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4) | 3:13 |
-| 60 | [No More Talk](https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [No More Talk](https://open.spotify.com/album/6NB7QDJfD9DbmkoHKrSwA0) | 2:42 |
-| 61 | [Be Calm My Friend](https://open.spotify.com/track/1if9t68jDrFkOqFyrAKHVz) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Be Calm My Friend](https://open.spotify.com/album/07deTUhd4hd0QK8DBnhgCW) | 3:17 |
-| 62 | [It's Probably True](https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5) | [Kim Lawrence](https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4) | [It's Probably True](https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7) | 2:52 |
+| 59 | [No More Talk](https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [No More Talk](https://open.spotify.com/album/6NB7QDJfD9DbmkoHKrSwA0) | 2:42 |
+| 60 | [Heart And Soul](https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs) | [Randall Peterson](https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140) | [Heart And Soul](https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4) | 3:13 |
+| 61 | [It's Probably True](https://open.spotify.com/track/5IyPuOrKPiLirp64hEfvG5) | [Kim Lawrence](https://open.spotify.com/artist/6uRFzRVkhIKxnOohUy45N4) | [It's Probably True](https://open.spotify.com/album/0Txq2OlEdEfyh8eUXpuPz7) | 2:52 |
+| 62 | [For One Night Only](https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [For One Night Only](https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap) | 2:45 |
 | 63 | [Our Last Night](https://open.spotify.com/track/1kn5wHyoMHdVWG7nGfK4uq) | [Lecce Mchano](https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR) | [Our Last Night](https://open.spotify.com/album/0MWb0DUPUyt6bMaRWbPDSs) | 2:28 |
-| 64 | [For One Night Only](https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [For One Night Only](https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap) | 2:45 |
+| 64 | [Be Calm My Friend](https://open.spotify.com/track/1if9t68jDrFkOqFyrAKHVz) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Be Calm My Friend](https://open.spotify.com/album/07deTUhd4hd0QK8DBnhgCW) | 3:17 |
 | 65 | [Glimpses](https://open.spotify.com/track/0VnkjcBfivHlr8mVOUBhJd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Glimpses](https://open.spotify.com/album/648vxZjA8JRJ27UqggddM3) | 2:43 |
 | 66 | [A clear sky](https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [A Clear Sky](https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY) | 2:50 |
 | 67 | [A Few Horizons](https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD) | [Harper Avery](https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L) | [A Few Horizons](https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP) | 2:20 |
@@ -79,16 +79,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 69 | [Last thought](https://open.spotify.com/track/4NxOiE9mgIrdo3aCyD0vCi) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Last thought](https://open.spotify.com/album/3xJcKbBZtAWKeSEOOeLDAe) | 2:49 |
 | 70 | [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 |
 | 71 | [Right Up](https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Right Up](https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i) | 3:12 |
-| 72 | [Staying for Tomorrow](https://open.spotify.com/track/61MUfbGgxhdkzlVlgx2ur3) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [Staying for Tomorrow](https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc) | 3:23 |
-| 73 | [Says Nothing](https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Says Nothing](https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m) | 2:44 |
+| 72 | [Says Nothing](https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [Says Nothing](https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m) | 2:44 |
+| 73 | [Staying for Tomorrow](https://open.spotify.com/track/61MUfbGgxhdkzlVlgx2ur3) | [Hveiti Brauo](https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK) | [Staying for Tomorrow](https://open.spotify.com/album/4nACEscwiD9bixym2zCTmc) | 3:23 |
 | 74 | [I'm Coming Home](https://open.spotify.com/track/2HcSR6uNSe18KXGrHEG3Oi) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [I'm Coming Home](https://open.spotify.com/album/3KqaOrhsc00OigqSepxDUT) | 2:42 |
 | 75 | [Grindavik](https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Grindavik](https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB) | 3:04 |
 | 76 | [Strangers by Midnight](https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Strangers by Midnight](https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h) | 3:20 |
-| 77 | [Beneath the Paris Sky](https://open.spotify.com/track/2rmEd94aBrpFFvMpQag04W) | [Nimelle](https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME) | [Beneath the Paris Sky](https://open.spotify.com/album/42uGAxoZa4OG9lQfwihx9e) | 2:48 |
-| 78 | [At The Core](https://open.spotify.com/track/6T5aKm6NU1JGdhYe4dqRVT) | [Luke Marantz](https://open.spotify.com/artist/0TDN86diVFoP3zBNOBg1nP) | [At The Core](https://open.spotify.com/album/37eEka6JOchS6lvRD1k9VF) | 3:10 |
+| 77 | [At The Core](https://open.spotify.com/track/6T5aKm6NU1JGdhYe4dqRVT) | [Luke Marantz](https://open.spotify.com/artist/0TDN86diVFoP3zBNOBg1nP) | [At The Core](https://open.spotify.com/album/37eEka6JOchS6lvRD1k9VF) | 3:10 |
+| 78 | [Beneath the Paris Sky](https://open.spotify.com/track/2rmEd94aBrpFFvMpQag04W) | [Nimelle](https://open.spotify.com/artist/0rFMKPWPxL6DpWH4aFDDME) | [Beneath the Paris Sky](https://open.spotify.com/album/42uGAxoZa4OG9lQfwihx9e) | 2:48 |
 | 79 | [Too Close for Comfort](https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Too Close for Comfort](https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV) | 2:41 |
 | 80 | [The old train](https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [The old train](https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ) | 3:03 |
 | 81 | [A Phonecall Away](https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [A Phonecall Away](https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD) | 2:32 |
 | 82 | [You're glowing](https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [You're glowing](https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02) | 2:41 |
 
-Snapshot ID: `AAAAAGDkqfkvipaJhTuwneFVADLLPCbf`
+Snapshot ID: `AAAAAERBT77oTjCSS4q6Mp3SmutWtTCe`

@@ -524,7 +524,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 210234,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 265408,
       "name": "alone",
       "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
@@ -758,6 +758,28 @@
       "duration_ms": 285093,
       "name": "Angie (i\u2019ve been lost) [feat. Angie McMahon]",
       "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
+    },
+    {
+      "album": {
+        "name": "Another Life / Shadows",
+        "url": "https://open.spotify.com/album/5oLYXRhwMV7JBLD6lGkfhN"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6IqBed2aAEcB9s6QHn56zF"
     },
     {
       "album": {
@@ -5648,6 +5670,24 @@
       "duration_ms": 169813,
       "name": "I Can See You Everywhere",
       "url": "https://open.spotify.com/track/6QAPEfO3Nno6X4jbXOMaKE"
+    },
+    {
+      "album": {
+        "name": "I Did Not Feel Alone",
+        "url": "https://open.spotify.com/album/72gMVnYJFu9ZbkZZPCSErJ"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223923,
+      "name": "I Did Not Feel Alone",
+      "url": "https://open.spotify.com/track/6ts7SgHdpxjfk7Z1gPlgdb"
     },
     {
       "album": {
@@ -11471,6 +11511,32 @@
     },
     {
       "album": {
+        "name": "sofardown",
+        "url": "https://open.spotify.com/album/5lGHetlsWUiP9Hr8ncROdf"
+      },
+      "artists": [
+        {
+          "name": "informal.",
+          "url": "https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie"
+        },
+        {
+          "name": "DEEGAN",
+          "url": "https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi"
+        },
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "sofardown",
+      "url": "https://open.spotify.com/track/6G0dfZka1NETRzvh9oQxHH"
+    },
+    {
+      "album": {
         "name": "Someone Like You",
         "url": "https://open.spotify.com/album/28LLfqnS8wZ4NPhDYS1cYX"
       },
@@ -14612,7 +14678,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 147187,
       "name": "You Said Forever",
       "url": "https://open.spotify.com/track/5fjIr7fMC19Jmz97GmmSB7"

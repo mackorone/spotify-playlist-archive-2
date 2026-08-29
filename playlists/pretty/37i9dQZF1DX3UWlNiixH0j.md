@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Nagakumo
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,188 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,236 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [into the house\(remake\)](https://open.spotify.com/track/3IzuJXALsf828cPfFwPP50) | [the perfect me](https://open.spotify.com/artist/4lIWDVV24qRp0ULdEEDYTf) | [into the house\(remake\)](https://open.spotify.com/album/58EVCZKfwKJ9U6QB19dv2n) | 3:45 |
 | 100 | [マイライフ](https://open.spotify.com/track/5McIVtDw974DUsKjdI63Gi) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [マイライフ](https://open.spotify.com/album/07Pft2kI3lo01oJFUCEmKe) | 3:16 |
 
-Snapshot ID: `AAAAAOZsLw/K7LzrQyP1MDvXnRue79oX`
+Snapshot ID: `AAAAAK+L0FxiujARkHZfuUKhrBjNHbAV`

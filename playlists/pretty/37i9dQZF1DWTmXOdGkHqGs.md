@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 
 > Pinches cumbiones bien locos para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,810 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,863 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 15 | [Yo Soy Tu Maestro](https://open.spotify.com/track/23EzYG5WcweDqh5RX9nFaW) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 4:36 |
 | 16 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 |
 | 17 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 |
-| 18 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |
-| 19 | [Rumba Frenesi](https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 5:11 |
+| 18 | [Rumba Frenesi](https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 5:11 |
+| 19 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |
 | 20 | [Gritaría](https://open.spotify.com/track/0t1UDIDBS2u8k0TltYUHaE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Muévete](https://open.spotify.com/album/2wlGJHKt8joZ35jI0nfzF1) | 3:45 |
 | 21 | [Si No La Tengo](https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk) | [Diablos Locos](https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY) | [15 Grandes](https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj) | 5:08 |
 | 22 | [El Amor de Mi Vida](https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor de Mi Vida](https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG) | 3:04 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 72 | [Reyna de Mi Vida](https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb) | [Grupo Macao de Alex y Jhonny](https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z) | [La Potencia Quiero y Deseo y Mas Exitos](https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE) | 3:54 |
 | 73 | [El Burro Loco](https://open.spotify.com/track/1daCaKKKumwrRr8vMqyn6A) | [El Compa Sebas Y Su Teclado](https://open.spotify.com/artist/7yFKqPasXxhmMvQgPrpsdu) | [El Burro Loco](https://open.spotify.com/album/0lLCNXX3w4XBNukORTkd7u) | 3:24 |
 | 74 | [La Bachata](https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valeria Gau](https://open.spotify.com/artist/1BfR4gQyjlhLAssULX0wDr), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [La Bachata](https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY) | 3:14 |
-| 75 | [Hay El Amor](https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Hay El Amor](https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK) | 3:04 |
-| 76 | [Antes](https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Antes](https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f) | 3:58 |
+| 75 | [Antes](https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Antes](https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f) | 3:58 |
+| 76 | [Hay El Amor](https://open.spotify.com/track/1H44XT1xN2Ubxa2wLqjCDT) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Hay El Amor](https://open.spotify.com/album/3oIHwQmrJ8MwEx00jIT1tK) | 3:04 |
 | 77 | [Amor Pirata](https://open.spotify.com/track/1R9JnADAGmTTKm2fXDMgDi) | [Grupo Pesadilla](https://open.spotify.com/artist/0RT9458AUQAWcE4cmYHClB) | [Grandes Exitos](https://open.spotify.com/album/69jH1bpOlDvg57wbK7cJ5J) | 3:27 |
 | 78 | [Que Nadie Se Entere \- Remix](https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Que Nadie Se Entere \(Remix\)](https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM) | 3:06 |
 | 79 | [Contigo Tengo Todo](https://open.spotify.com/track/6Bg1q5anwMP5SWjygN9yUt) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Versiones Unicas de los Reyes](https://open.spotify.com/album/5hm1RWrfhuyfltmRfdk0Zj) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmXOdGkHqGs.md) - [plain]
 | 99 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
 | 100 | [Inocente](https://open.spotify.com/track/1DFDbSWdESvzWHHAe6BCQ3) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:10 |
 
-Snapshot ID: `AAAAAJ6BN6i/p6RnhhXK1iU3NejUXXk7`
+Snapshot ID: `AAAAAAIvfTjpV2wtSipLmvEqOSh+1/p2`

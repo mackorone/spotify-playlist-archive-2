@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerőn Magyarország női hangjait! Cover: SOFI
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,543 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,544 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [dopamin](https://open.spotify.com/track/5qsmtJk0jyxgSAzhSqEapr) | [tigris szofi](https://open.spotify.com/artist/2fIizSOK3nM71fc1TFLyex) | [dopamin](https://open.spotify.com/album/1nhESosaPCbrwQsRebV9EK) | 3:21 |
 | 50 | [Ce rêve](https://open.spotify.com/track/46qRgQMpoH7ZGOrkwcD7tF) | [Boggie](https://open.spotify.com/artist/1wsHBdxTTaTeHybht0ch2a) | [Ce rêve](https://open.spotify.com/album/43edi3HfMEf08abSBtURbY) | 3:17 |
 
-Snapshot ID: `AAAAAHu+UE8sDK/rIh9iZkyD8lYxGF9N`
+Snapshot ID: `AAAAAFeyerYq4QRhHTBTCZEtGxqtEgiF`

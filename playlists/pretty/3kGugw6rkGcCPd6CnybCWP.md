@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,160 likes - 51 songs - 2 hr 59 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,162 likes - 59 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,13 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 49 | [Stuck 4 Ever](https://open.spotify.com/track/6IbUHoJ5Kxp86xWB6yuIjx) | [Sophie Valerie](https://open.spotify.com/artist/7APioRa2ZqrBCG0O9Z6N8b) | [Stuck 4 Ever](https://open.spotify.com/album/0Ab4SlL146rVeC0Dn0QGbl) | 2:19 |
 | 50 | [Drumfire Of The Hurricane](https://open.spotify.com/track/1mPmKidyJz0UpKpMkLfLyO) | [Kate Schutt](https://open.spotify.com/artist/0BP5VbdPYLMvEmQplKEBYY) | [Drumfire Of The Hurricane](https://open.spotify.com/album/6ya8EZKRzTpa6lGqAAKs9E) | 4:00 |
 | 51 | [Mud Butt](https://open.spotify.com/track/3zs9eTZb45KZZjUfx4Cmcg) | [The Acid Stains](https://open.spotify.com/artist/6djbTl6sUDFLV4uQN0vF5B) | [Mud Butt](https://open.spotify.com/album/2NahQibkDMz0qAtzsvos28) | 3:48 |
+| 52 | [Tensions](https://open.spotify.com/track/5DPJxyipM450G96MiBe1K0) | [Circus Trees](https://open.spotify.com/artist/7D0Mn9mtyH3m7UnCQh9jzX) | [Tensions](https://open.spotify.com/album/2TfXkb6npqIcFMMVhk2mvA) | 4:19 |
+| 53 | [Vitanova](https://open.spotify.com/track/0btWnV5EiS7kzDlDbkgsTH) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Vitanova](https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL) | 3:15 |
+| 54 | [Elephant](https://open.spotify.com/track/1vD7qqQPcjIW8PDCUenNYM) | [Who's Molly?](https://open.spotify.com/artist/5cdF3kdHKfTkPS9t9778wp) | [Elephant](https://open.spotify.com/album/2rczZm3w9D610sdyrezjbj) | 3:19 |
+| 55 | [Lo Tengo](https://open.spotify.com/track/4vMV2D8SgSeGAr8EhxPMHI) | [VIAN LANE](https://open.spotify.com/artist/6O9j7mNmMn3icFoeQ9l5RW) | [Lo Tengo](https://open.spotify.com/album/1rRk5EmcOPXyNToxAOz540) | 4:08 |
+| 56 | [I Just Wanna Sleep](https://open.spotify.com/track/3JoRWWJEVx1eu3QWs1n0zd) | [myrtia](https://open.spotify.com/artist/4snVfrqMghFCKtboUSTKRZ) | [I Just Wanna Sleep](https://open.spotify.com/album/7C1xQ22rdHDeVHIuEujTI9) | 2:31 |
+| 57 | [Chemicals](https://open.spotify.com/track/43PAtXAIIMItWW4B2kJAiQ) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Almost There](https://open.spotify.com/album/3EE1IuA4bLvWiYNL6RyeOZ) | 2:30 |
+| 58 | [Queen in Jean](https://open.spotify.com/track/1sUs9h3q5rebfy6ztPWQdK) | [Astrid Pflaum](https://open.spotify.com/artist/30q7EKGQD9fRamv3ZrSa6z) | [Queen in Jean](https://open.spotify.com/album/6xpeNxfXUN0oVl4S9JAZod) | 2:53 |
+| 59 | [Permeate](https://open.spotify.com/track/4azd1Y7g9cWYGumNTMZcFq) | [fifth forgotten](https://open.spotify.com/artist/4joGAdzSMqBIPbovcTaHUM) | [Permeate](https://open.spotify.com/album/2PrloaxRVjvxR9PoOPJtUp) | 2:19 |
 
-Snapshot ID: `AAAQEWW7WG1VOTHa8dmDAuY4Z+tqOOni`
+Snapshot ID: `AAAQGWXBwFOyTaLx5oqu8XzEv/0vR6fy`

@@ -1,12 +1,12 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2180837,
+  "num_followers": 2180849,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPnaychgFzjsuje4r3j/dX1wXBpq",
+  "snapshot_id": "AAAAAGWqXD6WUZCBX72XqomoNoTTa30H",
   "tracks": [
     {
       "added_at": "2026-08-21 09:02:19",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
-        "name": "Omega",
-        "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
-      },
-      "artists": [
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "The Dreamer",
-      "url": "https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
         "name": "Approaching Standards",
         "url": "https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 372493,
       "name": "Ruby My Dear",
       "url": "https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
+        "name": "Omega",
+        "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
-        "name": "A Nightingale Sang In Berkeley Square",
-        "url": "https://open.spotify.com/album/26aj13BUEGult7sBwx0Ivi"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        }
-      ],
-      "duration_ms": 380444,
-      "name": "A Nightingale Sang In Berkeley Square",
-      "url": "https://open.spotify.com/track/3ospmAgXO287SaBU6RV4Gw"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
         "name": "Opaline",
         "url": "https://open.spotify.com/album/2tgpBIpWdTo8Yp5j6zwvbv"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 197413,
       "name": "Opaline",
       "url": "https://open.spotify.com/track/3NqpZ8OSEUIGl59cpx5XBo"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
+        "name": "A Nightingale Sang In Berkeley Square",
+        "url": "https://open.spotify.com/album/26aj13BUEGult7sBwx0Ivi"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        }
+      ],
+      "duration_ms": 380444,
+      "name": "A Nightingale Sang In Berkeley Square",
+      "url": "https://open.spotify.com/track/3ospmAgXO287SaBU6RV4Gw"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
+        "name": "Silent World",
+        "url": "https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Haffner",
+          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
+        }
+      ],
+      "duration_ms": 272280,
+      "name": "Forever and Ever",
+      "url": "https://open.spotify.com/track/0AaTNHKAophhP8sZuGqg1I"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
         "name": "MoonDial",
         "url": "https://open.spotify.com/album/4aomKJKtVLDAcWojmg9fvA"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 205651,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/4ODfxzVSPvIJOBs7OIGwvd"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
-        "name": "Silent World",
-        "url": "https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Haffner",
-          "url": "https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh"
-        }
-      ],
-      "duration_ms": 272280,
-      "name": "Forever and Ever",
-      "url": "https://open.spotify.com/track/0AaTNHKAophhP8sZuGqg1I"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
+        "name": "Tango for One",
+        "url": "https://open.spotify.com/album/4NUENIWtAH1KL422uAhE5A"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 264248,
+      "name": "Tango for One",
+      "url": "https://open.spotify.com/track/66zKqUaMX5F445Ux0FRNwt"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
         "name": "Lady Day",
         "url": "https://open.spotify.com/album/45ibai2qs9gxFefDxJiXHw"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
-        "name": "Tango for One",
-        "url": "https://open.spotify.com/album/4NUENIWtAH1KL422uAhE5A"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 264248,
-      "name": "Tango for One",
-      "url": "https://open.spotify.com/track/66zKqUaMX5F445Ux0FRNwt"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
         "name": "Layers of Life",
         "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
-        "name": "Second Strike",
-        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
-      },
-      "artists": [
-        {
-          "name": "Gathering in Jazz",
-          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
-        }
-      ],
-      "duration_ms": 267565,
-      "name": "Blue Sunday",
-      "url": "https://open.spotify.com/track/4Xv1uPcCBF6vnh6cIEGJcR"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
         "name": "There Will Always Be We",
         "url": "https://open.spotify.com/album/3tOVSgsrHavqZWIY6Vuywv"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 241840,
       "name": "There Will Always Be We",
       "url": "https://open.spotify.com/track/2mPUBvYmCo2XEmcFPqptd8"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
+        "name": "Second Strike",
+        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        }
+      ],
+      "duration_ms": 267565,
+      "name": "Blue Sunday",
+      "url": "https://open.spotify.com/track/4Xv1uPcCBF6vnh6cIEGJcR"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
-        "name": "Little River",
-        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 411996,
-      "name": "Little River",
-      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/5JkcUSh4jjHSz7o7C3R2Qw"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 292956,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/4Efyso6yJGSWAWnVHt88sp"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
+        "name": "Little River",
+        "url": "https://open.spotify.com/album/5SYtJ3WCN5c2nEinWR9csr"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 411996,
+      "name": "Little River",
+      "url": "https://open.spotify.com/track/1kmKV67WowGUUR9KpklaMT"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
-        "name": "Balanced",
-        "url": "https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ"
-      },
-      "artists": [
-        {
-          "name": "Jan Harbeck Quartet",
-          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
-        }
-      ],
-      "duration_ms": 296920,
-      "name": "One Step at a Time",
-      "url": "https://open.spotify.com/track/4C85BJqQN5Ma1IG6klsRov"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
         "name": "Ballad For Bernt",
         "url": "https://open.spotify.com/album/2YkspzNzQEkKA7byABIRmh"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 357734,
       "name": "Ballad For Bernt",
       "url": "https://open.spotify.com/track/4Jl4pV7gwpSGav8VC2UQaD"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
+        "name": "Balanced",
+        "url": "https://open.spotify.com/album/2TWBfz1Ob14EujlQGy34KJ"
+      },
+      "artists": [
+        {
+          "name": "Jan Harbeck Quartet",
+          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
+        }
+      ],
+      "duration_ms": 296920,
+      "name": "One Step at a Time",
+      "url": "https://open.spotify.com/track/4C85BJqQN5Ma1IG6klsRov"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
-        "name": "Oblique Two-Step",
-        "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
-      },
-      "artists": [
-        {
-          "name": "Le Boeuf Brothers",
-          "url": "https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "Oblique Two-Step",
-      "url": "https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
         "name": "Orange Sea",
         "url": "https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM"
       },
@@ -1739,18 +1723,18 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
-        "name": "Le plus longtemps possible",
-        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
+        "name": "Oblique Two-Step",
+        "url": "https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6"
       },
       "artists": [
         {
-          "name": "Flash Pig",
-          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+          "name": "Le Boeuf Brothers",
+          "url": "https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7"
         }
       ],
-      "duration_ms": 208896,
-      "name": "Voyageur",
-      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
+      "duration_ms": 220493,
+      "name": "Oblique Two-Step",
+      "url": "https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -1779,6 +1763,22 @@
       "duration_ms": 384560,
       "name": "Monet",
       "url": "https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
+        "name": "Le plus longtemps possible",
+        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
+      },
+      "artists": [
+        {
+          "name": "Flash Pig",
+          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Voyageur",
+      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
-        "name": "Love Letters (The Ballad Sessions)",
-        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
-      },
-      "artists": [
-        {
-          "name": "JD Allen",
-          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
-        }
-      ],
-      "duration_ms": 310182,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
         "name": "Casa",
         "url": "https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 204040,
       "name": "Falsa Balada",
       "url": "https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
+        "name": "Love Letters (The Ballad Sessions)",
+        "url": "https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO"
+      },
+      "artists": [
+        {
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
+        }
+      ],
+      "duration_ms": 310182,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2026-08-21 09:02:19",
       "album": {
+        "name": "Outside Introspections",
+        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
+      },
+      "artists": [
+        {
+          "name": "Federica Lorusso",
+          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
+        }
+      ],
+      "duration_ms": 309960,
+      "name": "Just Go Ahead",
+      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
         "name": "Waltz for an Absent Lover",
         "url": "https://open.spotify.com/album/7eeM5Bv1i8Rnb1Egus1RJX"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 244040,
       "name": "Waltz for an Absent Lover",
       "url": "https://open.spotify.com/track/3NOaSvn1vaUuKMZ6r6kJfX"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
-        "name": "Outside Introspections",
-        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
-      },
-      "artists": [
-        {
-          "name": "Federica Lorusso",
-          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
-        }
-      ],
-      "duration_ms": 309960,
-      "name": "Just Go Ahead",
-      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -2219,6 +2219,26 @@
       "duration_ms": 277597,
       "name": "La Sentencia",
       "url": "https://open.spotify.com/track/0w7QdJZVUSgkvtCqSY3AjV"
+    },
+    {
+      "added_at": "2026-08-21 09:02:19",
+      "album": {
+        "name": "Theme for Ernie",
+        "url": "https://open.spotify.com/album/4GuZjxfEnM6RDYTUBmEdNh"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Trio",
+          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
+        },
+        {
+          "name": "Jerry Bergonzi",
+          "url": "https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ"
+        }
+      ],
+      "duration_ms": 302722,
+      "name": "Theme for Ernie",
+      "url": "https://open.spotify.com/track/6T0wTF7RhPphuQxhappP2u"
     },
     {
       "added_at": "2026-08-21 09:02:19",
@@ -2595,26 +2615,6 @@
       "duration_ms": 311400,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/34RyZXVz5kuOcywbFIPosB"
-    },
-    {
-      "added_at": "2026-08-21 09:02:19",
-      "album": {
-        "name": "Theme for Ernie",
-        "url": "https://open.spotify.com/album/4GuZjxfEnM6RDYTUBmEdNh"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Trio",
-          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
-        },
-        {
-          "name": "Jerry Bergonzi",
-          "url": "https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ"
-        }
-      ],
-      "duration_ms": 302722,
-      "name": "Theme for Ernie",
-      "url": "https://open.spotify.com/track/6T0wTF7RhPphuQxhappP2u"
     },
     {
       "added_at": "2026-08-21 09:02:19",

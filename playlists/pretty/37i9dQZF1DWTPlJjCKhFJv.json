@@ -1,12 +1,12 @@
 {
   "description": "If the music is loud enough, maybe the house will clean itself",
-  "num_followers": 34040,
+  "num_followers": 34038,
   "original_name": "Spring Clean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANCzoGw7Fy5eCmMMmMcHuGXFsw2r",
+  "snapshot_id": "AAAAAHvct198+bBLgpaPSUV5+oSIluqf",
   "tracks": [
     {
       "added_at": "2026-03-13 10:59:50",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 198866,
       "name": "making the bed",
       "url": "https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "Crimes Of Passion",
-        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
       "artists": [
         {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Hit Me With Your Best Shot",
-      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -1039,6 +1023,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "Crimes Of Passion",
+        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Hit Me With Your Best Shot",
+      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
     },
     {
       "added_at": "2026-03-13 10:59:50",

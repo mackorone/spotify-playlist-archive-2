@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Turnstile✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,119 likes - 297 songs - 16 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,169 likes - 297 songs - 16 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 101 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 102 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 |
 | 103 | [Song and dance man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and dance man + Let's go camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 |
-| 104 | [Sick Of Love \(Mura Masa Remix\)](https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Sick Of Love \(Mura Masa Remix\)](https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n) | 5:34 |
+| 104 | [Sick Of Love \- Mura Masa Remix](https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Sick Of Love \(Mura Masa Remix\)](https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n) | 5:34 |
 | 105 | [Baby It's Ok](https://open.spotify.com/track/0QeeLXQcpdj55gTu1X6JqR) | [Julia Sandstorm](https://open.spotify.com/artist/1TI4FT4B9A2viw05OLhMpm) | [Baby It's Ok](https://open.spotify.com/album/41Am8AHJNaKvibkc0VjhTO) | 4:46 |
 | 106 | [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 |
 | 107 | [Have You Noticed There’s A Mirror In The Ground](https://open.spotify.com/track/6coH6ZwJkKQVSoba4gk1b3) | [Fred Soila](https://open.spotify.com/artist/7ngrF0C7lWTaTI8Ei0ja8E) | [Reality Tourism](https://open.spotify.com/album/1tJTuqJec9hzvbGg1aPuU4) | 4:10 |
@@ -306,4 +306,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 296 | [last man standing – lauren’s version](https://open.spotify.com/track/0VgwfJanW8QjhJ7f0EdFsA) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [last man standing – lauren’s version](https://open.spotify.com/album/0jS3L39Cq4qz8dJApN2Eb5) | 3:35 |
 | 297 | [peach](https://open.spotify.com/track/1lBi4AcyxeJyoe8Qhx4Hye) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [peach](https://open.spotify.com/album/6ea02No4KgESvZYXEp1RVH) | 2:19 |
 
-Snapshot ID: `AAAAABkRP0HkiBwjs9tFjQAUegpwXOd9`
+Snapshot ID: `AAAAAHGLo69c/ph3D84yXo37amyZhDga`

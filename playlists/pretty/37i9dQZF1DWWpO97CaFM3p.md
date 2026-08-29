@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,874 likes - 125 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,853 likes - 125 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 87 | [Last Man On Earth](https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Last Man On Earth](https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY) | 3:08 |
 | 88 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 |
 | 89 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 |
-| 90 | [Climbing Bear](https://open.spotify.com/track/36lEFwL7po0THo1sTAmAtO) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 3:18 |
-| 91 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 |
+| 90 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 |
+| 91 | [Climbing Bear](https://open.spotify.com/track/36lEFwL7po0THo1sTAmAtO) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 3:18 |
 | 92 | [Go Home](https://open.spotify.com/track/5qbHBepTowbMldhK8RVhTl) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 5:25 |
 | 93 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
 | 94 | [Stranger](https://open.spotify.com/track/1xn1htwSeRr3HhOlYToFEx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:54 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 119 | [C'mon Let's Go](https://open.spotify.com/track/0ywr83QNlqjfWukYZvaxaG) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Country](https://open.spotify.com/album/0tHfPZikpvAMB16u7A7HIf) | 5:06 |
 | 120 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 121 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
-| 122 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
-| 123 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
-| 124 | [Sleepless in Seattle](https://open.spotify.com/track/1NwqQ7E9NfQ4GW2a9LDMNI) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 4:00 |
-| 125 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 |
+| 122 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
+| 123 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
+| 124 | [Natural Disaster](https://open.spotify.com/track/6TODc3kSKReFGryDNCHUbR) | [Bethany Cosentino](https://open.spotify.com/artist/22T82q6dMFYUMb287TzRoI) | [Natural Disaster](https://open.spotify.com/album/4wiAcRUnwqGvAwKdZ7fLM3) | 3:38 |
+| 125 | [Sleepless in Seattle](https://open.spotify.com/track/1NwqQ7E9NfQ4GW2a9LDMNI) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 4:00 |
 
-Snapshot ID: `AAAAAMmi1B8xA9w9/L6G3M9GMF2FNuEL`
+Snapshot ID: `AAAAAOX8y8lTNSLtE00oelsxb+p0/Itf`

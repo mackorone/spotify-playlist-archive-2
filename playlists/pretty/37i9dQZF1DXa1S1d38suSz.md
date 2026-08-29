@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 
 > Tú, nosotros y esta lista de canciones\. Foto: KAROL G, Marco Antonio Solís
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,280 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,418 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1S1d38suSz.md) - [plain]
 | 49 | [No \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0J6dOwflFSy3h1AoKmkqKc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 4:45 |
 | 50 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
 
-Snapshot ID: `AAAAACOHsomeB2hREqb03dAQbPTacK6i`
+Snapshot ID: `AAAAAJKdY5VPaMoyCSdcNlBYlYDgHm7F`

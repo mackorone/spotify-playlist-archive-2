@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Mariana Soane y Majo Aguilar en portada \ud83d\udd25",
-  "num_followers": 10596,
+  "num_followers": 10614,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKjbC6WnbYEE+edcmQXVs+ZZVu4B",
+  "snapshot_id": "AAAAACts74VRkeq2qrmzXQ1z7bLUTtNN",
   "tracks": [
     {
       "added_at": "2026-08-28 06:00:15",
@@ -679,18 +679,22 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "LA PENSI\u00d3N",
-        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
+        "name": "Uno Pal Otro",
+        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
       },
       "artists": [
         {
-          "name": "Mariana Ochoa",
-          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 162429,
-      "name": "LA PENSI\u00d3N",
-      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
+      "duration_ms": 203276,
+      "name": "Uno Pal Otro",
+      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -711,22 +715,18 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "Uno Pal Otro",
-        "url": "https://open.spotify.com/album/3QI0g8iiqh6w48ULgTqMh2"
+        "name": "LA PENSI\u00d3N",
+        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
       },
       "artists": [
         {
-          "name": "Emmanuel Cortes",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "Mariana Ochoa",
+          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
         }
       ],
-      "duration_ms": 203276,
-      "name": "Uno Pal Otro",
-      "url": "https://open.spotify.com/track/0l71BthJpkTG4x0UscJh2F"
+      "duration_ms": 162429,
+      "name": "LA PENSI\u00d3N",
+      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
         "name": "Mi Problema",
         "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
       },
@@ -1195,22 +1179,6 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "C\u00f3mo Le Hacen Los Dolidos",
-        "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "C\u00f3mo Le Hacen Los Dolidos",
-      "url": "https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
         "name": "El Cigarrillo",
         "url": "https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl"
       },
@@ -1223,6 +1191,22 @@
       "duration_ms": 219411,
       "name": "El Cigarrillo",
       "url": "https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
+        "name": "C\u00f3mo Le Hacen Los Dolidos",
+        "url": "https://open.spotify.com/album/0eLLMT6TGrsPZyyM8VBE9q"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "C\u00f3mo Le Hacen Los Dolidos",
+      "url": "https://open.spotify.com/track/3hACkfWTkqO9XYfScnGjXp"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -1295,22 +1279,6 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "Mucha Mujer",
-        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
-      },
-      "artists": [
-        {
-          "name": "Herly RG",
-          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
-        }
-      ],
-      "duration_ms": 156067,
-      "name": "Mucha Mujer",
-      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
         "name": "Te pareces a mi ex",
         "url": "https://open.spotify.com/album/5mbfEBa10NU10sx9ca5JFW"
       },
@@ -1327,18 +1295,18 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "No Te Fui Suficiente",
-        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
+        "name": "Mucha Mujer",
+        "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
       },
       "artists": [
         {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+          "name": "Herly RG",
+          "url": "https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt"
         }
       ],
-      "duration_ms": 278666,
-      "name": "No Te Fui Suficiente",
-      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
+      "duration_ms": 156067,
+      "name": "Mucha Mujer",
+      "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -1355,6 +1323,22 @@
       "duration_ms": 158210,
       "name": "Yo Ni Te Topo",
       "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
+        "name": "No Te Fui Suficiente",
+        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "No Te Fui Suficiente",
+      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -1411,22 +1395,6 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "PA' MI GENTE",
-        "url": "https://open.spotify.com/album/1HX8Su85pSlP9o26NkLgPQ"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "PA' MI GENTE",
-      "url": "https://open.spotify.com/track/2h9OZbgUVBaeHfUNOlkPa1"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1439,6 +1407,22 @@
       "duration_ms": 167000,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
+        "name": "PA' MI GENTE",
+        "url": "https://open.spotify.com/album/1HX8Su85pSlP9o26NkLgPQ"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "PA' MI GENTE",
+      "url": "https://open.spotify.com/track/2h9OZbgUVBaeHfUNOlkPa1"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -1495,22 +1479,6 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "Cuando Me Importabas",
-        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 192913,
-      "name": "Cuando Me Importabas",
-      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1523,6 +1491,22 @@
       "duration_ms": 200840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
+        "name": "Cuando Me Importabas",
+        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 192913,
+      "name": "Cuando Me Importabas",
+      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -1583,22 +1567,6 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
-    },
-    {
-      "added_at": "2026-08-28 06:00:15",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1611,6 +1579,22 @@
       "duration_ms": 157306,
       "name": "Fotos Y Recuerdos",
       "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -1699,8 +1683,8 @@
     {
       "added_at": "2026-08-28 06:00:15",
       "album": {
-        "name": "La Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/0rrPXtPS0ggbtXJQhvPHqS"
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
       },
       "artists": [
         {
@@ -1708,9 +1692,9 @@
           "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 235144,
-      "name": "La Loca Era Yo",
-      "url": "https://open.spotify.com/track/6Q7YcOkiqgz4oDBIC61U0S"
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
     },
     {
       "added_at": "2026-08-28 06:00:15",
@@ -1727,6 +1711,22 @@
       "duration_ms": 240480,
       "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
       "url": "https://open.spotify.com/track/4M2g9eUZc3gpZRdZmSd8Cx"
+    },
+    {
+      "added_at": "2026-08-28 06:00:15",
+      "album": {
+        "name": "La Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/0rrPXtPS0ggbtXJQhvPHqS"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 235144,
+      "name": "La Loca Era Yo",
+      "url": "https://open.spotify.com/track/6Q7YcOkiqgz4oDBIC61U0S"
     }
   ],
   "unique_name": "Mujeres Brav\u00edas",

@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 286208,
+  "num_followers": 286232,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI3e31oFL3cf8eFZ/tpdooV7epaH",
+  "snapshot_id": "AAAAAEUOzQez+WY6C+rJnrf9isrgr4J8",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:18",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Colors of the Wind",
+        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Solid Butter",
         "url": "https://open.spotify.com/album/4oJM8xjP495Q7WxcyYD3id"
       },
@@ -311,6 +327,30 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Destinations and Fun Places",
+        "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 256924,
+      "name": "Take Me Home Country Roads",
+      "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Soak Up The Sun",
         "url": "https://open.spotify.com/album/5oN1wKobG07fQ47P4DQm0p"
       },
@@ -323,22 +363,6 @@
       "duration_ms": 239744,
       "name": "Soak Up The Sun",
       "url": "https://open.spotify.com/track/7CfWAYl1LA7L8XqVRtvSPN"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Colors of the Wind",
-        "url": "https://open.spotify.com/album/6ZJyfSiV6lxS20CVK0DjZj"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Colors of the Wind",
-      "url": "https://open.spotify.com/track/2bmnV4jVM772BWf9Ukiblt"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -447,30 +471,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Destinations and Fun Places",
-        "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 256924,
-      "name": "Take Me Home Country Roads",
-      "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Red On Blonde",
         "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
       },
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "All I Ever Need Is You",
+        "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 210459,
+      "name": "All I Ever Need Is You",
+      "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
         "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 261413,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "All I Ever Need Is You",
-        "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 210459,
-      "name": "All I Ever Need Is You",
-      "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -587,22 +587,6 @@
       "duration_ms": 236401,
       "name": "How Long Gone (with The Earls of Leicester)",
       "url": "https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Stuck in the Middle With You",
-        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stuck in the Middle With You",
-      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -663,6 +647,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Stuck in the Middle With You",
+        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stuck in the Middle With You",
+      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Five For Silver",
         "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 198913,
       "name": "Luxury Liner",
       "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "(Don't Fear) The Reaper",
+        "url": "https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -699,22 +715,6 @@
       "duration_ms": 249213,
       "name": "Pride (In The Name Of Love)",
       "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "(Don't Fear) The Reaper",
-        "url": "https://open.spotify.com/album/2TrowCdcNpYXinqitONN6r"
-      },
-      "artists": [
-        {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5m8QroOPHTfVhCNlgT7UEy"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -779,6 +779,30 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Those Were the Days",
+        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Humming House Party! (Live)",
         "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
       },
@@ -811,22 +835,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
-      },
-      "artists": [
-        {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
-        }
-      ],
-      "duration_ms": 295528,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Gum Tree Canoe",
         "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
       },
@@ -843,6 +851,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "duration_ms": 295528,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Undercover",
         "url": "https://open.spotify.com/album/6I3c5bU1TCesp1PivdZp8e"
       },
@@ -855,6 +879,30 @@
       "duration_ms": 289196,
       "name": "American Girl",
       "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
+      },
+      "artists": [
+        {
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+        },
+        {
+          "name": "Paul Brewster",
+          "url": "https://open.spotify.com/artist/7nBOumt7hKimqNrAQHbQdq"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -899,70 +947,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
-      },
-      "artists": [
-        {
-          "name": "Daniel Grindstaff",
-          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
-        },
-        {
-          "name": "Paul Brewster",
-          "url": "https://open.spotify.com/artist/7nBOumt7hKimqNrAQHbQdq"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Those Were the Days",
-        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        },
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/24g9S6hbGJaMbr84hwjswL"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 199297,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Yellow Ledbetter",
         "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 245120,
       "name": "Yellow Ledbetter",
       "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/24g9S6hbGJaMbr84hwjswL"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 199297,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Possum",
-        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 333013,
-      "name": "Possum",
-      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "The New Modern Hymns",
         "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 226901,
       "name": "American Tune",
       "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Possum",
+        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 333013,
+      "name": "Possum",
+      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
-      },
-      "artists": [
-        {
-          "name": "Austin Brown: The Covers",
-          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Defying Gravity",
-      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "He Called Me Baby",
         "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Wagon Wheel",
-        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k"
       },
       "artists": [
         {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+          "name": "Austin Brown: The Covers",
+          "url": "https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36"
         }
       ],
-      "duration_ms": 433563,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
+      "duration_ms": 184687,
+      "name": "Defying Gravity",
+      "url": "https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Rich Girl",
-        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+        "name": "Wagon Wheel",
+        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
         }
       ],
-      "duration_ms": 230454,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+      "duration_ms": 433563,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 230454,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": ".",
         "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 298250,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Go Your Own Way",
-        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
-      },
-      "artists": [
-        {
-          "name": "SloCoast",
-          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
-        }
-      ],
-      "duration_ms": 247534,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1255,22 +1239,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Cover to Cover",
-        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
+        "name": "Go Your Own Way",
+        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
       },
       "artists": [
         {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        },
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "SloCoast",
+          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
         }
       ],
-      "duration_ms": 184773,
-      "name": "You Can Close Your Eyes",
-      "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
+      "duration_ms": 247534,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1287,6 +1267,26 @@
       "duration_ms": 209895,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Cover to Cover",
+        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "You Can Close Your Eyes",
+      "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "All Will Be Well",
         "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "In Tall Buildings",
-        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
       },
       "artists": [
         {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
         }
       ],
-      "duration_ms": 208026,
-      "name": "In Tall Buildings",
-      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1435,6 +1419,22 @@
       "duration_ms": 186000,
       "name": "Graceland (Live Session)",
       "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "In Tall Buildings",
+        "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "In Tall Buildings",
+      "url": "https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 263317,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1563,6 +1563,26 @@
       "duration_ms": 221913,
       "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
       "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Simply Bluegrass (Live / Vol. 1)",
+        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
+      },
+      "artists": [
+        {
+          "name": "Country's Family Reunion",
+          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "Drivin' Nails In My Coffin - Live",
+      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1619,26 +1639,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Simply Bluegrass (Live / Vol. 1)",
-        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
-      },
-      "artists": [
-        {
-          "name": "Country's Family Reunion",
-          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "Drivin' Nails In My Coffin - Live",
-      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+        "name": "Born to Run",
+        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
       },
       "artists": [
         {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
         }
       ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
+      "duration_ms": 281500,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Born to Run",
-        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
       },
       "artists": [
         {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
         }
       ],
-      "duration_ms": 281500,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-08-21 04:02:18",

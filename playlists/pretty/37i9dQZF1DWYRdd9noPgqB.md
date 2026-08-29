@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,387 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,374 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 25 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 | 26 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 |
 | 27 | [Meet Me In Love](https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Meet Me In Love](https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM) | 4:02 |
-| 28 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 |
-| 29 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
+| 28 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
+| 29 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 |
 | 30 | [Your Way](https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [All the Space Between](https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ) | 2:12 |
 | 31 | [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 |
-| 32 | [Rio Lua](https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Rio Lua](https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs) | 2:29 |
+| 32 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
 | 33 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 |
-| 34 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
+| 34 | [Rio Lua](https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Rio Lua](https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs) | 2:29 |
 | 35 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 36 | [the one](https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [the one](https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P) | 2:26 |
 | 37 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 57 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
 | 58 | [Friends](https://open.spotify.com/track/1pwyINL3fwBKV95x0l4A1n) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Friends](https://open.spotify.com/album/6I8YtUNtTpKIU2SJPRVfId) | 3:28 |
 | 59 | [Chiara](https://open.spotify.com/track/2VhPjIXLBE3KPx7WI71gU9) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Oscillare](https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08) | 3:27 |
-| 60 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
-| 61 | [Fish in a Bowl](https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Fish in a Bowl](https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp) | 3:42 |
+| 60 | [Fish in a Bowl](https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Fish in a Bowl](https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp) | 3:42 |
+| 61 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
 | 62 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |
 | 63 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
 | 64 | [Honey](https://open.spotify.com/track/7ARwLWvI6Zh5k4SW7on84x) | [Porte des Princes](https://open.spotify.com/artist/0k56TZBD4TcMBlRuWK0Ya4) | [Honey](https://open.spotify.com/album/6IiorWvpvw5n1LqbRxPylU) | 3:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 69 | [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 |
 | 70 | [Wasted Time](https://open.spotify.com/track/4zuis8Tg4TrhoQfRaKtCJ0) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Wasted Time](https://open.spotify.com/album/2Yx8F5G25DlYYh6CbAJLUj) | 3:44 |
 
-Snapshot ID: `AAAAADv79K4fEkPXBTY7mU/3vQq0GxqJ`
+Snapshot ID: `AAAAAM/VDV/QQNQmVE4RbeRs2LJlndwI`

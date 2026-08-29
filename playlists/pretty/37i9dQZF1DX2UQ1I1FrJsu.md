@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > smooth, crisp, not too tannic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,325 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,377 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 85 | [Basta Ya](https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:56 |
 | 86 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 |
 | 87 | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/track/2Ee9amLUslOwgoJWZEpSSD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(feat\. Don Toliver\)](https://open.spotify.com/album/3iJYwx4U2xHyDi7BRjskIJ) | 3:48 |
-| 88 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
-| 89 | [Bonita Applebum](https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:37 |
+| 88 | [Bonita Applebum](https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:37 |
+| 89 | [Guilty](https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Queen Alone](https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It) | 3:34 |
 | 90 | [When We Get By](https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:44 |
 | 91 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
 | 92 | [Day One](https://open.spotify.com/track/6QJVQSuMC77psM4vgPo31D) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 99 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
 | 100 | [Mi Negrita](https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:24 |
 
-Snapshot ID: `AAAAALtXzLgWIjf7uA4y4hAD4UgtKGYY`
+Snapshot ID: `AAAAADpFShdFamaSHKmq6MNPakNTJd3f`

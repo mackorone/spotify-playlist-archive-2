@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,220,414 likes - 370 songs - 16 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,220,805 likes - 370 songs - 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 369 | [Moonlit Grove](https://open.spotify.com/track/1V2nyIMyLZdSSS2YVz6SKn) | [Vindviska](https://open.spotify.com/artist/49ZUaDbjVFmr85mRlqw76O) | [Moonlit Grove](https://open.spotify.com/album/1Oq3HK8L1wrzn7IwVY239s) | 2:42 |
 | 370 | [Pink Dreams](https://open.spotify.com/track/0Pu6BZFYEFV7wxVXmnmSAe) | [Slumber Boy](https://open.spotify.com/artist/5C6uOkvMPOZjPLDLwLga7n) | [Pink Dreams](https://open.spotify.com/album/1arNh0ARJ5Yk9ZP94quvwS) | 2:09 |
 
-Snapshot ID: `AAAAADLx5FiBF+e25XC1j1Od69pmppt/`
+Snapshot ID: `AAAAAM1yCXfmk01LZ+KUKyVcFGQ15r50`

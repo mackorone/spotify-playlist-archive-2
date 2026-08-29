@@ -1,12 +1,12 @@
 {
   "description": "This is System Of A Down. The essential tracks, all in one playlist.",
-  "num_followers": 1097589,
+  "num_followers": 1097757,
   "original_name": "This Is System Of A Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADnFkivl255wabxcckfERmI",
+  "snapshot_id": "ao9+AAAAAAAKy5GRGFrGQv2AZ+GA43DU",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "System Of A Down (Deluxe)",
+        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Darts",
+      "url": "https://open.spotify.com/track/4kV0MfNxKOcD3mTCj0eSor"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "System Of A Down",
         "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
       },
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 162600,
-      "name": "Darts",
-      "url": "https://open.spotify.com/track/4kV0MfNxKOcD3mTCj0eSor"
+      "duration_ms": 205800,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
       "duration_ms": 176693,
       "name": "Know",
       "url": "https://open.spotify.com/track/3cuZytP8ujEBEiRtQfhsIQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "System Of A Down (Deluxe)",
-        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39"
     }
   ],
   "unique_name": "This Is System Of A Down",

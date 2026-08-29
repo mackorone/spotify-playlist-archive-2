@@ -1,12 +1,12 @@
 {
   "description": "Pop to fuel your gaming. Cover: CORTIS",
-  "num_followers": 466794,
+  "num_followers": 466845,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC750wgHa1pR5xeLTBybkvwW34NX",
+  "snapshot_id": "AAAAAJ8g9mJ/zIXz/oS5xj4gcHTc4rsO",
   "tracks": [
     {
       "added_at": "2026-04-24 04:00:47",
@@ -177,22 +177,6 @@
       "url": "https://open.spotify.com/track/3VQWf6zqSJXdKIyvNT9Rqn"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "The Marshall Mathers LP",
@@ -207,6 +191,22 @@
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2024-10-24 21:38:29",
@@ -261,22 +261,6 @@
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
     },
     {
-      "added_at": "2025-05-02 04:00:35",
-      "album": {
-        "name": "Gnarly",
-        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 137316,
-      "name": "Gnarly",
-      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Goodbye & Good Riddance",
@@ -291,6 +275,22 @@
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
+    },
+    {
+      "added_at": "2025-05-02 04:00:35",
+      "album": {
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 137316,
+      "name": "Gnarly",
+      "url": "https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2025-10-10 04:00:48",
-      "album": {
-        "name": "Devil in Disguise",
-        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
-      },
-      "artists": [
-        {
-          "name": "Marino",
-          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
-        }
-      ],
-      "duration_ms": 104431,
-      "name": "Devil in Disguise",
-      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
-    },
-    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Feel Something",
@@ -575,6 +559,22 @@
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2025-10-10 04:00:48",
+      "album": {
+        "name": "Devil in Disguise",
+        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        }
+      ],
+      "duration_ms": 104431,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "Lalala",
         "url": "https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 160626,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2026-04-24 04:00:47",

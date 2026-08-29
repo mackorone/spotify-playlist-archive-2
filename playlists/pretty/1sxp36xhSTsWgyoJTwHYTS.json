@@ -6,7 +6,7 @@
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAABJpNZx0QxrwXr2E0Yvby0K+FNdqWX",
+  "snapshot_id": "AAABKGCc6elTGhIemK52yTWtJ7A7qzMm",
   "tracks": [
     {
       "added_at": "2023-04-28 22:56:02",
@@ -4307,6 +4307,38 @@
       "duration_ms": 100588,
       "name": "Freddie Gibbs",
       "url": "https://open.spotify.com/track/2EuZgmpNafZ65eqhIyutd3"
+    },
+    {
+      "added_at": "2026-08-28 23:41:06",
+      "album": {
+        "name": "\u00c9toile filante",
+        "url": "https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH"
+      },
+      "artists": [
+        {
+          "name": "Naghmeh",
+          "url": "https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a"
+        }
+      ],
+      "duration_ms": 327943,
+      "name": "\u00c9toile filante",
+      "url": "https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7"
+    },
+    {
+      "added_at": "2026-08-28 23:42:01",
+      "album": {
+        "name": "Oeil d'aigle",
+        "url": "https://open.spotify.com/album/6wcNk4t3RPH1aVoRWJZYsO"
+      },
+      "artists": [
+        {
+          "name": "Colossale",
+          "url": "https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x"
+        }
+      ],
+      "duration_ms": 198368,
+      "name": "Oeil d'aigle",
+      "url": "https://open.spotify.com/track/4qG1ZV9HMsRKsDJKTpMpcS"
     }
   ],
   "unique_name": "Radios France",

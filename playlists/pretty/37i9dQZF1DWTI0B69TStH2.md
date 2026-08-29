@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [zaśniesz](https://open.spotify.com/track/1GospoNSbd3lWS6vstx4DC) | [Lynx.](https://open.spotify.com/artist/6MY35otuE9BTVqMm3jAKiy) | [zaśniesz](https://open.spotify.com/album/3pdPejNbmbdwoJ2hIa5r1L) | 2:31 |
 | 50 | [paradise](https://open.spotify.com/track/1dXA2GMivA1I7mtI6pdxeF) | [t.typy](https://open.spotify.com/artist/5oLhj75xB3LKuRyLTFQc8j) | [paradise](https://open.spotify.com/album/6OoCJHXdlyAM01ifMNzwxm) | 3:47 |
 
-Snapshot ID: `AAAAANTvCvyriiiUGYGqC3d+E1BGYVsa`
+Snapshot ID: `AAAAAAKCI7kdLdHU1Wts/hvxR7iy09n+`

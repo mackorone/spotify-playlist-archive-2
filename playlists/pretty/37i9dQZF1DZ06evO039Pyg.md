@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,885 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,907 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 33 | [Open \(Passionate\)](https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:05 |
 | 34 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WCAb7rGU70hyx3m9joKCx) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 3:02 |
 | 35 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 |
-| 36 | [go](https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SLIDER II](https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0) | 2:22 |
-| 37 | [Beautiful Lies](https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:32 |
-| 38 | [I Like Dat](https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat](https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3) | 4:02 |
-| 39 | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX) | 2:58 |
-| 40 | [Get Me \(feat\. Kehlani\)](https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:05 |
-| 41 | [Serial Lover](https://open.spotify.com/track/5ftR963YlX88OeCAPnXG2Z) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:25 |
+| 36 | [Beautiful Lies](https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:32 |
+| 37 | [go](https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SLIDER II](https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0) | 2:22 |
+| 38 | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [All Me \(feat\. Keyshia Cole\)](https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX) | 2:58 |
+| 39 | [I Like Dat](https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [I Like Dat](https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3) | 4:02 |
+| 40 | [Serial Lover](https://open.spotify.com/track/5ftR963YlX88OeCAPnXG2Z) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:25 |
+| 41 | [Get Me \(feat\. Kehlani\)](https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:05 |
 | 42 | [Blue Moon \- Girls Trip](https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:12 |
 | 43 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
 | 44 | [wRoNg \(feat\. Kehlani\)](https://open.spotify.com/track/7iCeaYJSEdGWeFNTAEqUzJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 49 | [Saving My Love \(feat\. Kehlani\)](https://open.spotify.com/track/1VzQrfygsLEi0Vle8FSea0) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:03 |
 | 50 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
 
-Snapshot ID: `ao4sgAAAAADufnl1oOBc4M2zbjo+NZgD`
+Snapshot ID: `ao9+AAAAAACwjJCnis4+cltJFVr3/N2y`

@@ -1,12 +1,12 @@
 {
   "description": "The perfect pop rock running mix.",
-  "num_followers": 266742,
+  "num_followers": 266757,
   "original_name": "Pop Rock Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF0syCQweLvyYElCtoYU5aCDQhcM",
+  "snapshot_id": "AAAAABHjC+XHBpN4KKrxA70PuWzQ6gbb",
   "tracks": [
     {
       "added_at": "2024-05-27 19:59:54",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-05-27 19:59:54",
       "album": {
-        "name": "Love For The Streets",
-        "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
-      },
-      "artists": [
-        {
-          "name": "Caesars",
-          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
-    },
-    {
-      "added_at": "2024-05-27 19:59:54",
-      "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd"
+    },
+    {
+      "added_at": "2024-05-27 19:59:54",
+      "album": {
+        "name": "Love For The Streets",
+        "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
+      },
+      "artists": [
+        {
+          "name": "Caesars",
+          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
     },
     {
       "added_at": "2024-05-27 19:59:54",

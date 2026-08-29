@@ -1,12 +1,12 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 99434,
+  "num_followers": 99451,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHnp20Ra5S3ZaSr2IO8oQI1Gv/Z",
+  "snapshot_id": "AAAAAJJiYbYavBLxM2ya5H54TmNRNHFW",
   "tracks": [
     {
       "added_at": "2024-03-26 13:49:34",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 163275,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 197146,
       "name": "December, 1963 (Oh What a Night!)",
       "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 163275,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Love Is The Drug",
-      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Love Is The Drug",
+      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
     },
     {
       "added_at": "2024-03-26 13:49:34",

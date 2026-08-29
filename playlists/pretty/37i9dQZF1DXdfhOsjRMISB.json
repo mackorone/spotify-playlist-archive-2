@@ -1,12 +1,12 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Cody Johnson",
-  "num_followers": 499860,
+  "num_followers": 500168,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEYFfNH9bN0zu4NIJLnoBvpIM/u",
+  "snapshot_id": "AAAAAG5KfmxomXx64zBe0de3ZNv+KlcN",
   "tracks": [
     {
       "added_at": "2026-08-27 19:54:38",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-08-27 19:54:38",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2026-08-27 19:54:38",
-      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -643,18 +623,38 @@
     {
       "added_at": "2026-08-27 19:54:38",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
       "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 160901,
-      "name": "20 Cigarettes",
-      "url": "https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg"
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+    },
+    {
+      "added_at": "2026-08-27 19:54:38",
+      "album": {
+        "name": "What Not To",
+        "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Brunette",
+      "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
     },
     {
       "added_at": "2026-08-27 19:54:38",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-08-27 19:54:38",
       "album": {
-        "name": "What Not To",
-        "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
       },
       "artists": [
         {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 139173,
-      "name": "Brunette",
-      "url": "https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i"
+      "duration_ms": 160901,
+      "name": "20 Cigarettes",
+      "url": "https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg"
     },
     {
       "added_at": "2026-08-27 19:54:38",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-08-27 19:54:38",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+      "duration_ms": 254466,
+      "name": "Drunk On A Plane",
+      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
     },
     {
       "added_at": "2026-08-27 19:54:38",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-08-27 19:54:38",
       "album": {
-        "name": "RISER",
-        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Drunk On A Plane",
-      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2026-08-27 19:54:38",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-08-27 19:54:38",
       "album": {
-        "name": "Take A Back Road",
-        "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Take A Back Road",
-      "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
-    },
-    {
-      "added_at": "2026-08-27 19:54:38",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 196746,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
+    },
+    {
+      "added_at": "2026-08-27 19:54:38",
+      "album": {
+        "name": "Take A Back Road",
+        "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Take A Back Road",
+      "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
     },
     {
       "added_at": "2026-08-27 19:54:38",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-08-27 19:54:38",
       "album": {
-        "name": "Did I Shave My Legs For This?",
-        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
-      },
-      "artists": [
-        {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
-    },
-    {
-      "added_at": "2026-08-27 19:54:38",
-      "album": {
         "name": "10,000 Hours (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2026-08-27 19:54:38",
+      "album": {
+        "name": "Did I Shave My Legs For This?",
+        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
+      },
+      "artists": [
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
     },
     {
       "added_at": "2026-08-27 19:54:38",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-08-27 19:54:38",
       "album": {
-        "name": "One Margarita",
-        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 193426,
-      "name": "One Margarita",
-      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
-    },
-    {
-      "added_at": "2026-08-27 19:54:38",
-      "album": {
         "name": "Straight Outta The Country",
         "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 174837,
       "name": "We Didn't Have Much",
       "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
+    },
+    {
+      "added_at": "2026-08-27 19:54:38",
+      "album": {
+        "name": "One Margarita",
+        "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 193426,
+      "name": "One Margarita",
+      "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
     },
     {
       "added_at": "2026-08-27 19:54:38",

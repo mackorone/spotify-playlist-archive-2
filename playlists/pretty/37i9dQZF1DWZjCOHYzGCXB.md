@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > mini skirt warrirors unite 🎀<br/>cover: flowerovlove & willow
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,081 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,056 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 23 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 24 | [Save Your Tears \(Remix\) \(with Ariana Grande\) \- Bonus Track](https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [After Hours \(Deluxe\)](https://open.spotify.com/album/4ZyeHIgdujClXSjC2cSqSb) | 3:11 |
 | 25 | [nowhere, nobody](https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 2:52 |
-| 26 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
-| 27 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
+| 26 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
+| 27 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 | 28 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 29 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
 | 30 | [Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:35 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 48 | [Beautiful Liar](https://open.spotify.com/track/76Y07hjDi7fjJnZKsQbEaF) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [B'Day Deluxe Edition](https://open.spotify.com/album/2WkOVbvgyo0E0G7w2ZsAi2) | 3:19 |
 | 49 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 |
 | 50 | [KGB](https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [KGB](https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n) | 2:37 |
-| 51 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
-| 52 | [DANCE...](https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 4:47 |
+| 51 | [DANCE...](https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 4:47 |
+| 52 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 53 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
 | 54 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:51 |
 | 55 | [Superscar](https://open.spotify.com/track/1UymCJrYWtsFFg70YUvh6K) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 79 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 |
 | 80 | [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 |
 
-Snapshot ID: `AAAAAJleK3Bu4PInCcNX2EO3O25lqe3w`
+Snapshot ID: `AAAAAHBqI7OqlsdjihCT+iKQQpEEBE1K`

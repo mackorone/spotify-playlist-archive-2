@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 205829,
       "name": "24 hour stopover",
       "url": "https://open.spotify.com/track/5CBaikcT4Gx8iO8jQvmyDU"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 231000,
       "name": "Elegy",
       "url": "https://open.spotify.com/track/3qBhZ81aFr3dpqU55hn4gY"
@@ -4932,7 +4932,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 187874,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7eIBRnjrFylXHqi7EZ0cHz"
@@ -9235,6 +9235,24 @@
     },
     {
       "album": {
+        "name": "Melody in past tense",
+        "url": "https://open.spotify.com/album/3YGnmo06EjvWkgrSR6SxYJ"
+      },
+      "artists": [
+        {
+          "name": "Turning Trio",
+          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150845,
+      "name": "Melody in past tense",
+      "url": "https://open.spotify.com/track/2iRViBFmLLRZNxBnMe0Pyd"
+    },
+    {
+      "album": {
         "name": "Memories Of Her Music",
         "url": "https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV"
       },
@@ -9991,6 +10009,42 @@
     },
     {
       "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/11pYIJavgaRmnZCgwhmPcU"
+      },
+      "artists": [
+        {
+          "name": "Northern Collective",
+          "url": "https://open.spotify.com/artist/2Ok6bdrv7TkhrTy3YldbCB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/1IxvlqgOcGjzj5vVvW076C"
+    },
+    {
+      "album": {
+        "name": "My Forgotten Promises",
+        "url": "https://open.spotify.com/album/4iPUjnnvD5aoU5A990fLKk"
+      },
+      "artists": [
+        {
+          "name": "Bedford and 7th",
+          "url": "https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179258,
+      "name": "My Forgotten Promises",
+      "url": "https://open.spotify.com/track/6KgwAFWdWYOvx5d13ETTsL"
+    },
+    {
+      "album": {
         "name": "My Fortune",
         "url": "https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ"
       },
@@ -10258,7 +10312,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 178352,
       "name": "My Side Of Town",
       "url": "https://open.spotify.com/track/03y18NhxeD2Nq4JqftAEdm"
@@ -10766,6 +10820,24 @@
       "duration_ms": 282640,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX"
+    },
+    {
+      "album": {
+        "name": "Nothing to prove",
+        "url": "https://open.spotify.com/album/66NH9bq9K3EOwo1qVmpUZ3"
+      },
+      "artists": [
+        {
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199092,
+      "name": "Nothing to prove",
+      "url": "https://open.spotify.com/track/3vzVCFgxbC3IkT388zC5Ay"
     },
     {
       "album": {
@@ -13376,7 +13448,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 383693,
       "name": "Stranger In Town",
       "url": "https://open.spotify.com/track/5WORP69uuwI9bSLIVQ94Or"
@@ -13556,7 +13628,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 175500,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/5WwiqYKhGameSQcHRjdlxB"
@@ -13790,7 +13862,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 235679,
       "name": "Tales of the Urban Night",
       "url": "https://open.spotify.com/track/42SXZOzFwDj2d0Lj6dIZW2"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Marvin Sapp",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Kirk Franklin",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 173860,
       "name": "Able",
       "url": "https://open.spotify.com/track/05Qb46jhgjlxjbQQQvCpFQ"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 533500,
       "name": "Be Glad - Live",
       "url": "https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn"
@@ -3547,7 +3547,7 @@
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 274329,
+      "duration_ms": 274332,
       "name": "Favor",
       "url": "https://open.spotify.com/track/1UDrp4OeQBgSGiytbEVOEE"
     },
@@ -5195,6 +5195,40 @@
     },
     {
       "album": {
+        "name": "Time Capsule II",
+        "url": "https://open.spotify.com/album/6AvTDERfl2eGNa7vVwxF9V"
+      },
+      "artists": [
+        {
+          "name": "FK&M",
+          "url": "https://open.spotify.com/artist/0QEY4d9rhrxTR8nMdudJ0y"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        },
+        {
+          "name": "Keith Staten",
+          "url": "https://open.spotify.com/artist/1p94IpPWGRqcNsAmzCtnWe"
+        },
+        {
+          "name": "Marcus Cole",
+          "url": "https://open.spotify.com/artist/2bijKkJaOp4tSJASryiJNB"
+        },
+        {
+          "name": "New Rain",
+          "url": "https://open.spotify.com/artist/1GECSLvvJg1fzJkbuKqWzq"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230853,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/2u8XdqQo3TtkfkYR6nvIf4"
+    },
+    {
+      "album": {
         "name": "Have Your Way",
         "url": "https://open.spotify.com/album/0dm4lK615hGGrei2NqTQ28"
       },
@@ -5206,7 +5240,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 413880,
       "name": "Have Your Way",
       "url": "https://open.spotify.com/track/5gmb3a65EiGRf8OwKSPySK"
@@ -14159,6 +14193,28 @@
     },
     {
       "album": {
+        "name": "Thank You For Everything",
+        "url": "https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396666,
+      "name": "Thank You For Everything (with Karen Clark-Sheard)",
+      "url": "https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ"
+    },
+    {
+      "album": {
         "name": "The Outpour Experience",
         "url": "https://open.spotify.com/album/51EpkEZXiILf48DKMXVpxP"
       },
@@ -14782,6 +14838,32 @@
       "duration_ms": 311306,
       "name": "This Joy - Live",
       "url": "https://open.spotify.com/track/09kMxmxcVpZwM75dYqr0Pk"
+    },
+    {
+      "album": {
+        "name": "Through the Fire",
+        "url": "https://open.spotify.com/album/2wKkih6MFWiCjNdbmVsF82"
+      },
+      "artists": [
+        {
+          "name": "The Hill City Collective",
+          "url": "https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG"
+        },
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "Lillian Loyd",
+          "url": "https://open.spotify.com/artist/74BPXshSaCwHGRi5oJfAg6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266012,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/7MYcEpn9vVcHGaHxDPC7C5"
     },
     {
       "album": {

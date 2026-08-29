@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 446709,
+  "num_followers": 446842,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAC77hej+L5NJiOLLPhiHCmF",
+  "snapshot_id": "ao9+AAAAAAAWyr/WVpvFVLrXnEFdea00",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CASE STUDY 01",
-        "url": "https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 194959,
-      "name": "CYANIDE",
-      "url": "https://open.spotify.com/track/7lmsi1pVDa3HnfeinsL89t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indecision (feat. Daniel Caesar)",
         "url": "https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU"
       },
@@ -259,6 +243,26 @@
       "duration_ms": 186000,
       "name": "Indecision (feat. Daniel Caesar)",
       "url": "https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CASE STUDY 01",
+        "url": "https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 263794,
+      "name": "SUPERPOSITION (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re"
     },
     {
       "added_at": null,
@@ -299,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CASE STUDY 01",
-        "url": "https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 263794,
-      "name": "SUPERPOSITION (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/1KA2JLeMi0Mo3hjO0442re"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Hurt You?",
         "url": "https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 231964,
       "name": "Who Hurt You?",
       "url": "https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CASE STUDY 01",
+        "url": "https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 194959,
+      "name": "CYANIDE",
+      "url": "https://open.spotify.com/track/7lmsi1pVDa3HnfeinsL89t"
     },
     {
       "added_at": null,
@@ -723,42 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
-      },
-      "artists": [
-        {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "West",
-      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pilgrim's Paradise",
-        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 305081,
-      "name": "Death & Taxes",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -779,6 +743,42 @@
       "duration_ms": 277046,
       "name": "Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/0cciBj4236w1xByzZvn92D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pilgrim's Paradise",
+        "url": "https://open.spotify.com/album/2oRaqvWFLOKFUDIt5EEQfa"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 305081,
+      "name": "Death & Taxes",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 152250,
+      "name": "West",
+      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
     },
     {
       "added_at": null,

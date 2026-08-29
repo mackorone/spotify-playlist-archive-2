@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 640 likes - 253 songs - 13 hr 30 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 640 likes - 255 songs - 13 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,5 +261,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 251 | [La Nuit](https://open.spotify.com/track/21tJYf8GxZ2nbMOu2i2aVg) | [Mike Moonnight](https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf) | [La Nuit](https://open.spotify.com/album/6SBT3l51BiLME0uhMwUUuU) | 2:47 |
 | 252 | [Insomnie](https://open.spotify.com/track/4yzeM3WcIcVd649yvktMY3) | [Kailys](https://open.spotify.com/artist/57PDGjJgwxrUFCLlkxJZZn) | [Insomnie](https://open.spotify.com/album/07lCcMGbJkSGeeyc293klT) | 3:35 |
 | 253 | [Freddie Gibbs](https://open.spotify.com/track/2EuZgmpNafZ65eqhIyutd3) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Pu' D'batterie, Vol.1](https://open.spotify.com/album/5nWA8oermHFntIte4GL2qb) | 1:40 |
+| 254 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 |
+| 255 | [Oeil d'aigle](https://open.spotify.com/track/4qG1ZV9HMsRKsDJKTpMpcS) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Oeil d'aigle](https://open.spotify.com/album/6wcNk4t3RPH1aVoRWJZYsO) | 3:18 |
 
-Snapshot ID: `AAABJpNZx0QxrwXr2E0Yvby0K+FNdqWX`
+Snapshot ID: `AAABKGCc6elTGhIemK52yTWtJ7A7qzMm`

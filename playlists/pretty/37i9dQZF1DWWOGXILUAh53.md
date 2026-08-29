@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Jigitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,450 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,267 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 62 | [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 |
 | 63 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 |
 | 64 | [My Oh My](https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [My Oh My](https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh) | 2:36 |
-| 65 | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
+| 65 | [Lucky Again \- The Magician Remix](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
 | 66 | [Human \(Feat\. John Martin\)](https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Human \(Feat\. John Martin\)](https://open.spotify.com/album/4FOIeI7EpeHdrQxKSxKc8s) | 3:19 |
 | 67 | [Go Sun Cha](https://open.spotify.com/track/0saozuEilkY04lxO4SUAx9) | [Ochok](https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX) | [Go Sun Cha](https://open.spotify.com/album/2CF3EC1RZ08Hla5kLIsvOf) | 3:09 |
 | 68 | [Do You Want It Right Now](https://open.spotify.com/track/2ibWjDuThUbFzgVo6ciD7j) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Do You Want It Right Now](https://open.spotify.com/album/2eHQRRCQNj2lFDXYcPtj2M) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 |
 | 100 | [Remember Us \(feat\. Dustin Lynch\)](https://open.spotify.com/track/2Eg4pK9k0XxiJsta9Q8MrO) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:50 |
 
-Snapshot ID: `AAAAALH0IQg67fCE0rmbqUZUv4/bWcD5`
+Snapshot ID: `AAAAAIDX8NvDSHgHZUGO2Q8RSXoujy4+`

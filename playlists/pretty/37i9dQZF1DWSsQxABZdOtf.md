@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,054 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,055 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 36 | [Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Ngahere Wafer](https://open.spotify.com/artist/2gHMoGVtXhBGWG9D8By84R) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 1:57 |
 | 37 | [stop when u](https://open.spotify.com/track/5ebwMKyMHtyTc6hpKDw8bj) | [dj ghostblunt](https://open.spotify.com/artist/0uSDWfHr88ujZfZFujWBGU) | [scummysummer](https://open.spotify.com/album/7Ju0Qb6Kfwnug8IoMWKjco) | 3:12 |
 | 38 | [1Mhz\*](https://open.spotify.com/track/0FDGvjQns8s2x3S3RCPq7g) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao) | [1Mhz\*](https://open.spotify.com/album/00svAhsit9pvcDFPO82uHk) | 2:19 |
-| 39 | [How To Teleport](https://open.spotify.com/track/5BUTPG0Csnl1fF5RFg5lUH) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [♡](https://open.spotify.com/album/2XeflvA0dNvjpX0vxukgiv) | 4:33 |
+| 39 | [How To teleport](https://open.spotify.com/track/5BUTPG0Csnl1fF5RFg5lUH) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [♡](https://open.spotify.com/album/2XeflvA0dNvjpX0vxukgiv) | 4:33 |
 | 40 | [WEIRD MONEY](https://open.spotify.com/track/2VxJXQRbTDGosFhEZeA6K6) | [Sweets](https://open.spotify.com/artist/55Fw9imZATr8gM4uzL12T3) | [WEIRD MONEY](https://open.spotify.com/album/2QM84W16Nv02KN2X8tpZ9k) | 2:59 |
 | 41 | [Trick](https://open.spotify.com/track/5N7ObOA34kU2dB1yTvFY7o) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Trick](https://open.spotify.com/album/63vK83lJ40B4U6uxqbjFOB) | 3:41 |
 | 42 | [To The Beat](https://open.spotify.com/track/6YEHnHMOs9RcgfsyyKSfEm) | [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [To The Beat](https://open.spotify.com/album/1cD3HF00IfaAi3Ulyns9y9) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [MAIN CHARACTER](https://open.spotify.com/track/4betOenmb1EKN4G0uRrwMO) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [FIRST HAND SMOKE](https://open.spotify.com/album/5M6JiEs4uiMCTXNkyffytx) | 4:12 |
 | 70 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `AAAAACLh4/p2y/DVmapE850mvOXRj+6V`
+Snapshot ID: `AAAAADafJ2XOU1rdI1DsiWj8znkeIdkQ`

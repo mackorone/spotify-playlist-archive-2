@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,534 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,572 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 10 | [Cruzando el Puente](https://open.spotify.com/track/0kZkbAR95FMFMPomTDUfmA) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 2:41 |
 | 11 | [Nomas Las Mujeres Quedan](https://open.spotify.com/track/5HzKotagepRiIhC0af8EqB) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Hijo del Palenque](https://open.spotify.com/album/6IdA7YtdG9xaB1ryP6uzrY) | 3:09 |
 | 12 | [Una Página Más](https://open.spotify.com/track/1cCJjLOxsy1qrKfAVF7rM3) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Auténticos](https://open.spotify.com/album/5thl5PvQuIr1UIF1q8HEwo) | 2:41 |
-| 13 | [Dimas de Leon](https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:52 |
+| 13 | [Las Tres Mujeres](https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiración Norteña](https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR) | 3:03 |
 | 14 | [Dos Coronas a Mi Madre](https://open.spotify.com/track/48meuvFOHD3jtfdD0iVXZP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 2:26 |
-| 15 | [Las Tres Mujeres](https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiración Norteña](https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR) | 3:03 |
+| 15 | [Dimas de Leon](https://open.spotify.com/track/2D9mxadWpEHfaRlqV9m27i) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:52 |
 | 16 | [Polvo Maldito](https://open.spotify.com/track/7kVJEGxq80CLA3f1YRUAP1) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:45 |
 | 17 | [Mi Amigo](https://open.spotify.com/track/2L1Z29nDdQdU85JVMqUI96) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Tu Nombre](https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm) | 2:43 |
 | 18 | [El Pata de Palo](https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl) | 3:16 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0I5DUY.md) - [plain]
 | 43 | [Lloré a Mi Madre](https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Tu Nombre](https://open.spotify.com/album/1FzXwwlNhKek0tZxui3Upm) | 2:26 |
 | 44 | [Una Flor Para Mi Madre](https://open.spotify.com/track/4X1i2059LF9nzr6ojOQJ8U) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Homenaje A Las Madres](https://open.spotify.com/album/5wMmOWgWRTOyexSe2LvAEl) | 2:23 |
 | 45 | [Lamberto Quintero](https://open.spotify.com/track/4zzZCjX4DbqzMgXG6Y8j39) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Gran Homenaje A Lupe Tijerina y Sus Corridos](https://open.spotify.com/album/2IX4l9pJYVaemVGaHmuyjt) | 3:07 |
-| 46 | [Que Seas Dichosa](https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:29 |
-| 47 | [Donde Estará Mi Caballo](https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiración Norteña](https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR) | 2:48 |
+| 46 | [Donde Estará Mi Caballo](https://open.spotify.com/track/1X14CzCnjflUArxCk6Y1Ch) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Inspiración Norteña](https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR) | 2:48 |
+| 47 | [Que Seas Dichosa](https://open.spotify.com/track/4MCW1mq5wXCwhZtNb8b7AK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:29 |
 | 48 | [Cielo Azul Cielo Nublado](https://open.spotify.com/track/2TSnh3icR23mUQC3wIOorU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Auténticos](https://open.spotify.com/album/5thl5PvQuIr1UIF1q8HEwo) | 1:59 |
 | 49 | [La Discusion Fue Una Yegua](https://open.spotify.com/track/0m0zyyyNNEKXPWSkzU3SHm) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Corridos de Arranque](https://open.spotify.com/album/79RUrWQpAipr8jRffhK4Ez) | 2:47 |
-| 50 | [Mandato Divino](https://open.spotify.com/track/3wGtLSlB637upA3gOZbtKF) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 3:01 |
+| 50 | [Un Noble Engaño](https://open.spotify.com/track/6xmQN57KeoivWxIah2OLPg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Noble Engaño](https://open.spotify.com/album/6vPSI7T4CRvX00PpyqLmKO) | 3:03 |
 
-Snapshot ID: `ao4sgAAAAACmW/+CJOjByZV3YrPmIgDe`
+Snapshot ID: `ao9+AAAAAAClQ2v17vQV2pjrVxV7TcIg`

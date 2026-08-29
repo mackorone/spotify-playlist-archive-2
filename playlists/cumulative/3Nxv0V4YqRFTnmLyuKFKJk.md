@@ -4,7 +4,7 @@
 
 > Classic Country Hits 🤠 Top Most Streamed Country Music of All Time \| Best Country Playlist \| Dolly Parton Jolene, Randy Travis, Blake Shelton
 
-499 songs - 1 day 5 hr 45 min
+500 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Bye Bye Love](https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:22 | 2025-11-18 |  |
 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 | 2024-09-04 | 2025-04-26 |
 | [Caroline](https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Caroline / Good Dogs & Sad Songs](https://open.spotify.com/album/2yiYDfWE3wqW2v4KA86Rps) | 3:18 | 2024-09-04 | 2025-04-26 |
+| [Casting Me Away From You](https://open.spotify.com/track/5rSKigOAKclUR3JzQgEb98) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [Casting Me Away From You](https://open.spotify.com/album/7cfSjkoBfNoWohu0nJVrss) | 2:37 | 2026-08-28 |  |
 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 | 2022-05-05 | 2024-07-05 |
 | [Changes \- 2015 Remaster](https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:37 | 2023-02-17 | 2024-07-05 |
 | [Charlie Brown](https://open.spotify.com/track/1yqMgZNrevsWMLWfO2PRp5) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:45 | 2022-05-05 | 2023-02-18 |

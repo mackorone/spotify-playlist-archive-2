@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: MUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,630 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,646 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 24 | [life](https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH) | [REDD.](https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9) | [life](https://open.spotify.com/album/6vNpv2j8aHWFxRP0TrI1cJ) | 2:58 |
 | 25 | [Lifestyle](https://open.spotify.com/track/52E0w9olHISDiYZdPBS4TS) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [it's just my opinion](https://open.spotify.com/album/2rzEI7LluM2fWaE2an24eC) | 3:13 |
 | 26 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
-| 27 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
-| 28 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 |
+| 27 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 |
+| 28 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
 | 29 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
 | 30 | [Full time papi](https://open.spotify.com/track/5tXoi9LUv2Eniq6h0OHoVN) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:47 |
 | 31 | [Where Does the Good Go](https://open.spotify.com/track/0L7QCEXQBDAtEyK1x72Sw0) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 3:37 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 66 | [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 |
 | 67 | [Crazy Again](https://open.spotify.com/track/49eDe6Sk39RHcMtrtol9IC) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF) | 3:17 |
 | 68 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
-| 69 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 |
-| 70 | [Say It Like You Mean It](https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:44 |
-| 71 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |
-| 72 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
+| 69 | [Say It Like You Mean It](https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:44 |
+| 70 | [What Now](https://open.spotify.com/track/1g8becOwXRFEkYukY94L99) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/34hq1FBvredIMga6KyZnF2) | 3:46 |
+| 71 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
+| 72 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |
 | 73 | [Races](https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 2:13 |
 | 74 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
 | 75 | [Tsunami](https://open.spotify.com/track/5Ad3sKScpftuea1ulQYEgR) | [FIGHTMASTER](https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw) | [Tsunami](https://open.spotify.com/album/0x7J9paGzxBDmZ2n49OWhm) | 4:00 |
 
-Snapshot ID: `AAAAACB0cGb2DlRjBG1iwa++Bmmg/zg0`
+Snapshot ID: `AAAAAA7+F98Z6seNYRoyteGOWXFV6sIq`

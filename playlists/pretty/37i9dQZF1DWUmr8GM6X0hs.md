@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,357 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,370 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 26 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 |
 | 27 | [Como Fué](https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Benny Moré Mágico](https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb) | 2:58 |
 | 28 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 |
-| 29 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 |
-| 30 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
+| 29 | [Y Después Del Amor](https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [50 Años Live](https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS) | 5:35 |
+| 30 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 |
 | 31 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
 | 32 | [Dimelo](https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Toda una Vida](https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY) | 2:58 |
 | 33 | [Otra Copa](https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:24 |
 | 34 | [Si No Estás para Mi](https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:26 |
 | 35 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
-| 36 | [Desvelo de Amor](https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:54 |
-| 37 | [Tu Me Acostumbraste \- 2001 Digital Remaster](https://open.spotify.com/track/4BxqpVTYLzdLBTY3Y4DmMf) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [50 Canciones Inmortales](https://open.spotify.com/album/0AsotWNMYZ9CjhK7Y57AXy) | 3:43 |
+| 36 | [Tu Me Acostumbraste \- 2001 Digital Remaster](https://open.spotify.com/track/4BxqpVTYLzdLBTY3Y4DmMf) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [50 Canciones Inmortales](https://open.spotify.com/album/0AsotWNMYZ9CjhK7Y57AXy) | 3:43 |
+| 37 | [Desvelo de Amor](https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:54 |
 | 38 | [Así](https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H) | [Chivirico Davila](https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ) | [Más Recuerdos Románticos](https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV) | 4:38 |
 | 39 | [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 |
 | 40 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 59 | [Me Engañas Mujer](https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 2:58 |
 | 60 | [Verdad Amarga](https://open.spotify.com/track/3IFP8kVXqDOwh3sMlfpaJ7) | [Elena Romero](https://open.spotify.com/artist/3XJXZS6MuLg9zCVJE4Gp7E) | [Divas Peruanas del Bolero, Vol\. 1](https://open.spotify.com/album/7aU7bwPKjedcZdNNuzNMvd) | 3:38 |
 
-Snapshot ID: `AAAAAP8JLfqtCQX1GhOq1xp3Ctm5Vqeu`
+Snapshot ID: `AAAAAFf5fV/C+vVDzPQUC0elPjc7UY+H`

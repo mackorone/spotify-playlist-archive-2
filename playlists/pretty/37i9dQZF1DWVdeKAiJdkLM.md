@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdeKAiJdkLM.md) - [plain]
 
 > Curated by The Virgo Queen \- Y2K Black Girl Magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 907 likes - 37 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 920 likes - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdeKAiJdkLM.md) - [plain]
 | 36 | [Get Up \(feat\. Chamillionaire\)](https://open.spotify.com/track/3rKCDtV8UcF0RytSiXxypc) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:21 |
 | 37 | [So Into You](https://open.spotify.com/track/3wnittJZDFl1CvwiIh8XZH) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [So Into You](https://open.spotify.com/album/3N8ruQPTPw5mjDUbmr8jns) | 3:24 |
 
-Snapshot ID: `AAAAAD7w4XPiM4jJpnfPLFF6RYEZckiX`
+Snapshot ID: `AAAAADYugqEOEjspSgC9P2haRaoL7Rbi`

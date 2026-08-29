@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring LOCKWARD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,874,109 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,873,823 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 50 | [Natural](https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:59 |
 
-Snapshot ID: `AAAAAOmuk9ckKpZR9GbKpFodnAiNZXo7`
+Snapshot ID: `AAAAAH66sXrt/npND5TYjdO3c0KvixNM`

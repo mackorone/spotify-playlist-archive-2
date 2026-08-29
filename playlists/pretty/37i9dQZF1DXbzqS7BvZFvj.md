@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nipsey Hussle, Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,694 likes - 120 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,695 likes - 120 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 119 | [Everythang Pinka](https://open.spotify.com/track/7pbAF30G6MmDPjqV3mCoUX) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Everythang Pinka](https://open.spotify.com/album/3Jh6MpCzstaq4pO6INbIqo) | 2:48 |
 | 120 | [BAKA BAKA](https://open.spotify.com/track/7nQN2LeQwBWX9CaOcTPMzv) | [FUJINO](https://open.spotify.com/artist/2GS28rXfgsQidwGe4ktIhx), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [BAKA BAKA](https://open.spotify.com/album/0ZoQyFhctmUakbVOaj4jxr) | 2:38 |
 
-Snapshot ID: `AAAAABGMMZVPqx0DBJ+ZUDUabxBxUTD/`
+Snapshot ID: `AAAAAIXXpBjrLrIgGSYsovKCEJaNB/Kd`

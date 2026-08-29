@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,131 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,156 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Hail Destroyer](https://open.spotify.com/track/6ltuf6egc9J496H2JyvSq7) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/5IgBHly6pTFCWxFoHr6DqU) | 3:16 |
 | 50 | [Gomorrah's Season Ends](https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi) | 3:29 |
 
-Snapshot ID: `AAAAAC4hXQix+pCqAFk8V5WFmgxxbsM7`
+Snapshot ID: `AAAAAI48qQLYhR9CXBZbFEEeCqlPZAZg`

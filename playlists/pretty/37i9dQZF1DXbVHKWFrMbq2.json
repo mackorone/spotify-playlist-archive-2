@@ -1,12 +1,12 @@
 {
   "description": "Canciones para chillear, con esperanzah en portada.",
-  "num_followers": 29059,
+  "num_followers": 29065,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJelCVZDLw/J+tsNZmqEJCRIe1XJ",
+  "snapshot_id": "AAAAABJL81V6qUGWOMD8Ywp6s7wFaevJ",
   "tracks": [
     {
       "added_at": "2026-08-20 22:49:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Una Noche Contigo",
-        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193154,
-      "name": "Una Noche Contigo",
-      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "sorry es que soy bipolarrr",
         "url": "https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 220553,
       "name": "sorry es que soy bipolarrr",
       "url": "https://open.spotify.com/track/33BselzygJVodjKKHVLpiH"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Una Noche Contigo",
+        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193154,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 148037,
+      "name": "Devu\u00e9lvemela",
+      "url": "https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
         "name": "mimos",
         "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 176193,
       "name": "Ninja",
       "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
-        "name": "Querida Yo",
-        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 148037,
-      "name": "Devu\u00e9lvemela",
-      "url": "https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 238508,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "QUIZ\u00c1S LAS HORAS SUMAN MESES",
         "url": "https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 178160,
       "name": "oda al canto",
       "url": "https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 238508,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "EL MENSAJERO",
-        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
-      },
-      "artists": [
-        {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
-        },
-        {
-          "name": "Cocodrilo P&B",
-          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "EL MENSAJERO",
-      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "Hasta Que Llegue El Verano",
         "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 180017,
       "name": "As\u00ed Es el Calor",
       "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "EL MENSAJERO",
+        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        },
+        {
+          "name": "Cocodrilo P&B",
+          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
+        }
+      ],
+      "duration_ms": 148421,
+      "name": "EL MENSAJERO",
+      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "Agradezco Haberme Equivocado",
         "url": "https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 177911,
       "name": "Agradezco Haberme Equivocado",
       "url": "https://open.spotify.com/track/0SaC0FpkUs2DDmYATSC5HW"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Pa Ti Bb <3",
-        "url": "https://open.spotify.com/album/6LVD9ZHVnKAqPzn4HW6foK"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 196565,
-      "name": "Pa Ti Bb <3",
-      "url": "https://open.spotify.com/track/3a0xiPQCopx3NDXPPtmka0"
-    },
-    {
-      "added_at": "2026-08-20 22:49:00",
-      "album": {
         "name": "YA TE CANSASTE DE MI???",
         "url": "https://open.spotify.com/album/4UcD2NoR0I5CkNRDO2Q24A"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 162500,
       "name": "YA TE CANSASTE DE MI???",
       "url": "https://open.spotify.com/track/5MAMS7hSgxurBcNKBcRTmU"
+    },
+    {
+      "added_at": "2026-08-20 22:49:00",
+      "album": {
+        "name": "Pa Ti Bb <3",
+        "url": "https://open.spotify.com/album/6LVD9ZHVnKAqPzn4HW6foK"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 196565,
+      "name": "Pa Ti Bb <3",
+      "url": "https://open.spotify.com/track/3a0xiPQCopx3NDXPPtmka0"
     },
     {
       "added_at": "2026-08-20 22:49:00",
@@ -1743,22 +1743,18 @@
     {
       "added_at": "2026-08-20 22:49:00",
       "album": {
-        "name": "Chao (Remix Reversiones)",
-        "url": "https://open.spotify.com/album/0VnKh4aSjhxcGRjCoH538m"
+        "name": "TRANQUILO",
+        "url": "https://open.spotify.com/album/5HOpMuZu29Wzg8rcNAgfxo"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
         }
       ],
-      "duration_ms": 232071,
-      "name": "La Torpeza - Reversi\u00f3n",
-      "url": "https://open.spotify.com/track/4sIakhIDONACHNWGMkTgqG"
+      "duration_ms": 240535,
+      "name": "TRANQUILO",
+      "url": "https://open.spotify.com/track/0iJJlpfRTMNhqpd1tDAAjY"
     }
   ],
   "unique_name": "pop tranqui",

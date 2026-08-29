@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Miel San Marcos",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Jay Kalyl",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -626,7 +626,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 199195,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/3gWszzi2xdSG20o6WciB9b"
@@ -6609,6 +6609,24 @@
     },
     {
       "album": {
+        "name": "En Tu Lugar",
+        "url": "https://open.spotify.com/album/1748ZapMJLvq3R0kAdmIy6"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261093,
+      "name": "En Tu Lugar",
+      "url": "https://open.spotify.com/track/6ZJfqvdlUn2sr9Gm6lBg7r"
+    },
+    {
+      "album": {
         "name": "En Tu Luz",
         "url": "https://open.spotify.com/album/1bWAUo2uYM6X9jDhjn6x5q"
       },
@@ -9052,7 +9070,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 387000,
       "name": "Hoy Recibo Tu Poder",
       "url": "https://open.spotify.com/track/1etcGj58PEeJ9QbcsgchwZ"
@@ -9832,6 +9850,28 @@
       "duration_ms": 171000,
       "name": "La Oraci\u00f3n",
       "url": "https://open.spotify.com/track/4Aw3yrryzr5RfPHLY8kcfy"
+    },
+    {
+      "album": {
+        "name": "La Oveja",
+        "url": "https://open.spotify.com/album/1uulJMNR5KP9ih9JbrJwO1"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        },
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261176,
+      "name": "La Oveja",
+      "url": "https://open.spotify.com/track/04lt1XqYHhSsXBSfmCQ4ak"
     },
     {
       "album": {
@@ -12084,7 +12124,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 446666,
       "name": "M\u00e1s Santo",
       "url": "https://open.spotify.com/track/1ajhhCEKHZxoS9SksLH0IY"
@@ -13736,6 +13776,24 @@
       "duration_ms": 210000,
       "name": "Perfecto Amor",
       "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
+    },
+    {
+      "album": {
+        "name": "BALANCE (B-001)",
+        "url": "https://open.spotify.com/album/3XBEBaMiP0jA6ers7k88eq"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229894,
+      "name": "PHDD",
+      "url": "https://open.spotify.com/track/13QZvEvQtGnAy31UQT0LMp"
     },
     {
       "album": {
@@ -15707,6 +15765,24 @@
     },
     {
       "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/0C4v8y9XMB9axXdcNIcEXk"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237041,
+      "name": "Seamos Luz",
+      "url": "https://open.spotify.com/track/5j5RgFF6W9qrEvFPcSm5hz"
+    },
+    {
+      "album": {
         "name": "Ages En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1Lk3caIw9SNwPD8MYbUxKV"
       },
@@ -16867,6 +16943,24 @@
     },
     {
       "album": {
+        "name": "S\u00e1name (Desde la Torre Colpatria)",
+        "url": "https://open.spotify.com/album/1gfbIUX4dzrPQQRzCBpPnj"
+      },
+      "artists": [
+        {
+          "name": "Ana Bolivar",
+          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214869,
+      "name": "S\u00e1name (Desde la Torre Colpatria)",
+      "url": "https://open.spotify.com/track/3XjWups93RKPeHzv3OxCph"
+    },
+    {
+      "album": {
         "name": "S\u00e1name Jes\u00fas",
         "url": "https://open.spotify.com/album/714SnJZhjTv8pfDyK2Yj6S"
       },
@@ -17812,7 +17906,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 268800,
       "name": "Todo lo entrego a Ti",
       "url": "https://open.spotify.com/track/7jwcIVhWVZINSsHaLjDEuK"
@@ -18502,7 +18596,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 183050,
       "name": "Tuyaiia",
       "url": "https://open.spotify.com/track/4Mv2w5KEXVFbdYnedgdsDz"

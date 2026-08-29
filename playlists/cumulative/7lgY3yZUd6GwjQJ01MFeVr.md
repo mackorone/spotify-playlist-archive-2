@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb
 
-321 songs - 17 hr 10 min
+322 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Whiskey On The Wall](https://open.spotify.com/track/6eJlLAyilP2s1Z8nuPghy1) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Whiskey On The Wall](https://open.spotify.com/album/7nT32Hik9VDietLtwgeexO) | 3:38 | 2023-12-08 | 2024-01-20 |
 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 | 2023-12-08 | 2025-03-20 |
 | [Whose Rearview](https://open.spotify.com/track/2ap4uymOqE43iFdzSoUoRq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/13LwHOvi9moGBu9Q9uYNpI) | 3:16 | 2023-12-08 | 2024-01-20 |
+| [Why Does the Moon](https://open.spotify.com/track/1XKHTxAHMDmJBpDWgRSk2c) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Why Does the Moon](https://open.spotify.com/album/1GHWkKhoL4E3zmm626abzC) | 3:12 | 2026-08-28 |  |
 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 | 2023-12-08 | 2024-02-17 |
 | [Wind Up Missin’ You](https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin’ You](https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj) | 2:46 | 2024-09-14 |  |
 | [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 | 2024-12-17 |  |

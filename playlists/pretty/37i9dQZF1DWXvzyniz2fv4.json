@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158167,
+  "num_followers": 158164,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH75OYbSwWP0gz89SMpgDGxaqKNJ",
+  "snapshot_id": "AAAAAF7Dt8Z0XBAsagpjeCz7/YTFAwlz",
   "tracks": [
     {
       "added_at": "2026-08-14 17:39:50",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "Brisa Errada",
         "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 123582,
       "name": "Brisa Errada",
       "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1079,30 +1079,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Moz\u00e3o",
-        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
-      },
-      "artists": [
-        {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Moz\u00e3o",
-      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -1123,6 +1099,30 @@
       "duration_ms": 188470,
       "name": "QUARTAS DE CINZA",
       "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Moz\u00e3o",
+        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Moz\u00e3o",
+      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
     },
     {
       "added_at": "2026-08-14 17:39:50",

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Ra\u00fal Beltan \ud83d\udcf8",
-  "num_followers": 368419,
+  "num_followers": 368407,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANh35vyZh6SScj+ncIeJqsbr7KZk",
+  "snapshot_id": "AAAAAGIaxVoEkxUn4W2HyvwmM94cV/Ji",
   "tracks": [
     {
       "added_at": "2026-08-14 06:00:30",
@@ -231,18 +231,18 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Esclavo y Amo (Live)",
-        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
+        "name": "Disculpe Usted",
+        "url": "https://open.spotify.com/album/4Sj3RVZse1XYxZnyGdK7f7"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 198675,
-      "name": "Esclavo y Amo - Live",
-      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
+      "duration_ms": 185798,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/79Fchr207sdYoIarAaJX7v"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Disculpe Usted",
-        "url": "https://open.spotify.com/album/4Sj3RVZse1XYxZnyGdK7f7"
+        "name": "Esclavo y Amo (Live)",
+        "url": "https://open.spotify.com/album/6f3JaQoDmn2QWhcfzJERkE"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 185798,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/79Fchr207sdYoIarAaJX7v"
+      "duration_ms": 198675,
+      "name": "Esclavo y Amo - Live",
+      "url": "https://open.spotify.com/track/7AudDJj0o5KPq1SZ4Vibqn"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
+        "name": "Segunda Opci\u00f3n",
+        "url": "https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 209942,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
         "name": "Ley De La Atracci\u00f3n",
         "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 154903,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/6vjXvBlZCDxWhHinj2UkSl"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
-        "name": "Segunda Opci\u00f3n",
-        "url": "https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 209942,
-      "name": "Segunda Opci\u00f3n",
-      "url": "https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
+        "name": "El Hombre Que Yo Amo",
+        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 235338,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
         "name": "Se Me Acab\u00f3 El Dinero",
         "url": "https://open.spotify.com/album/6fyYoTUPob7hoPx9Qtp7a7"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "El Hombre Que Yo Amo",
-        "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
+        "name": "Endeble",
+        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
         }
       ],
-      "duration_ms": 235338,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+      "duration_ms": 190239,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -483,22 +499,6 @@
       "duration_ms": 182064,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/2Q5f4WrxWWdZgQybH6edxg"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
-        "name": "Endeble",
-        "url": "https://open.spotify.com/album/1h1nLkBcMSHBbcRZuHss6Y"
-      },
-      "artists": [
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
-        }
-      ],
-      "duration_ms": 190239,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/5Y8frlGLc3QL2RftusJQwo"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Yo No Se Que Me Paso",
-        "url": "https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk"
-      },
-      "artists": [
-        {
-          "name": "Osbaldo Lopez",
-          "url": "https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d"
-        }
-      ],
-      "duration_ms": 288857,
-      "name": "Yo No Se Que Me Paso",
-      "url": "https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "La Perra",
         "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 188640,
       "name": "La Perra",
       "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Yo No Se Que Me Paso",
+        "url": "https://open.spotify.com/album/2O8QiGKmYZ4wQuoL5EY9hk"
+      },
+      "artists": [
+        {
+          "name": "Osbaldo Lopez",
+          "url": "https://open.spotify.com/artist/1BkSj4IPSrMfdLttjbYj0d"
+        }
+      ],
+      "duration_ms": 288857,
+      "name": "Yo No Se Que Me Paso",
+      "url": "https://open.spotify.com/track/3MNuURpGZTS9NvbNFZqWDO"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 183993,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "La Nostalgia",
         "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
+      "duration_ms": 183993,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -667,6 +651,22 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 426232,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Caballero",
         "url": "https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 168238,
       "name": "Angelito Sin Alas",
       "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 426232,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "Que Ganas De No Verte Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 209322,
-      "name": "Que Ganas De No Verte Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Pagar\u00e9 Condena",
         "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 210592,
       "name": "Esa Perra Ya Me Mordi\u00f3",
       "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "Que Ganas De No Verte Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 209322,
+      "name": "Que Ganas De No Verte Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp"
     },
     {
       "added_at": "2026-08-14 06:00:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-08-14 06:00:30",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
-      },
-      "artists": [
-        {
-          "name": "Eddy Y Samu",
-          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
-        }
-      ],
-      "duration_ms": 169287,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
-    },
-    {
-      "added_at": "2026-08-14 06:00:30",
-      "album": {
         "name": "Se\u00f1or Dios",
         "url": "https://open.spotify.com/album/4QwsLyZcwyK1OOJg6MVOMe"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 189162,
       "name": "Se\u00f1or Dios",
       "url": "https://open.spotify.com/track/5jUZFbRbGaTwoOXjUQP0na"
+    },
+    {
+      "added_at": "2026-08-14 06:00:30",
+      "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
+      },
+      "artists": [
+        {
+          "name": "Eddy Y Samu",
+          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
+        }
+      ],
+      "duration_ms": 169287,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
     },
     {
       "added_at": "2026-08-14 06:00:30",

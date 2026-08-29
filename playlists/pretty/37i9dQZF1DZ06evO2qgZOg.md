@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,315 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,355 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 6 | [Hero](https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:06 |
 | 7 | [Feel Invincible](https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:49 |
 | 8 | [Whispers in the Dark](https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:24 |
-| 9 | [Scream](https://open.spotify.com/track/7vYOEQfVkPtZ3JUKAhPVqU) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Scream](https://open.spotify.com/album/6fONg6IKy2vvl1oapOPrbj) | 3:26 |
+| 9 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 |
 | 10 | [Awake and Alive](https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:29 |
-| 11 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 |
+| 11 | [Scream](https://open.spotify.com/track/7vYOEQfVkPtZ3JUKAhPVqU) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Scream](https://open.spotify.com/album/6fONg6IKy2vvl1oapOPrbj) | 3:26 |
 | 12 | [Falling Inside the Black](https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
 | 13 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
 | 14 | [Finish Line](https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:26 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 33 | [It's Not Me, It's You](https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:24 |
 | 34 | [Those Nights](https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:46 |
 | 35 | [Anchor](https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:36 |
-| 36 | [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 |
-| 37 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 |
+| 36 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 |
+| 37 | [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 |
 | 38 | [One Day Too Late](https://open.spotify.com/track/6JLnc7pF4WUzQ6BWONpc7j) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:40 |
 | 39 | [Dead Inside](https://open.spotify.com/track/7oc2wH81jpU45L5H2JnThI) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake \(Deluxe Edition\)](https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW) | 2:56 |
-| 40 | [All That Matters](https://open.spotify.com/track/4TXAA3r1m7CaGoUnDRBAJ2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:27 |
-| 41 | [Salvation](https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:45 |
+| 40 | [Salvation](https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:45 |
+| 41 | [All That Matters](https://open.spotify.com/track/4TXAA3r1m7CaGoUnDRBAJ2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:27 |
 | 42 | [Crossfire](https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:12 |
 | 43 | [Set It Off](https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:49 |
-| 44 | [Fire Inside of Me](https://open.spotify.com/track/1royRCZwWV2h4zPSnwbyw7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:52 |
-| 45 | [Beyond Incredible](https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:31 |
+| 44 | [Beyond Incredible](https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:31 |
+| 45 | [Fire Inside of Me](https://open.spotify.com/track/1royRCZwWV2h4zPSnwbyw7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:52 |
 | 46 | [You Ain't Ready](https://open.spotify.com/track/1v0031VtKGsWfPDkKzGV3s) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:17 |
 | 47 | [You Get Me High](https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:17 |
-| 48 | [Circus for a Psycho](https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:31 |
-| 49 | [Standing in the Storm](https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:17 |
+| 48 | [Standing in the Storm](https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:17 |
+| 49 | [Circus for a Psycho](https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:31 |
 | 50 | [Open Wounds](https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 3:14 |
 
-Snapshot ID: `ao4sgAAAAABZIO+0OmbvnOmqUA0ovdb0`
+Snapshot ID: `ao9+AAAAAABvwAeXGq+bW/fhGjG9c6WU`

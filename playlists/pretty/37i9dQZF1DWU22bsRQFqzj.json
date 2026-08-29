@@ -1,12 +1,12 @@
 {
   "description": "Sei nella tua running era e stai preparando a tua prossima mezza maratona \ud83c\udfc3\ud83c\udffb",
-  "num_followers": 137440,
+  "num_followers": 137473,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHPjoddHHigixkfgFkOXfe6j82ZO",
+  "snapshot_id": "AAAAAF3/59pOgZZsPKamSAbw5qDw4PBZ",
   "tracks": [
     {
       "added_at": "2026-08-27 22:02:31",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -519,6 +519,34 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
       },
@@ -551,34 +579,6 @@
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
-        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162603,
-      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
         "name": "Tattoo (Topic Remix)",
         "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 181545,
       "name": "ten",
       "url": "https://open.spotify.com/track/6twB0uYXJYW9t5GHfYaQ3i"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "SATURATION III",
-        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 193154,
-      "name": "BOOGIE",
-      "url": "https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
         "name": "Bon Bon",
         "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 210133,
       "name": "Bon Bon",
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
+        "name": "SATURATION III",
+        "url": "https://open.spotify.com/album/5c2AzoNyr46fCQM5d8mxE0"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 193154,
+      "name": "BOOGIE",
+      "url": "https://open.spotify.com/track/3NuN59jpH3B5cNa2M4r7XG"
     },
     {
       "added_at": "2026-08-27 22:02:31",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-08-27 22:02:31",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/78GUla8L6F8rT4K1UOYayc"
-      },
-      "artists": [
-        {
-          "name": "Claudia Valentina",
-          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
-        }
-      ],
-      "duration_ms": 118758,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/31tp6dG3by6hyHfICBsqG9"
-    },
-    {
-      "added_at": "2026-08-27 22:02:31",
-      "album": {
         "name": "Murder On The Dancefloor (David Guetta Remix)",
         "url": "https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 174337,
       "name": "Murder On The Dancefloor - David Guetta Remix",
       "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
+    },
+    {
+      "added_at": "2026-08-27 22:02:31",
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/78GUla8L6F8rT4K1UOYayc"
+      },
+      "artists": [
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "duration_ms": 118758,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/31tp6dG3by6hyHfICBsqG9"
     },
     {
       "added_at": "2026-08-27 22:02:31",

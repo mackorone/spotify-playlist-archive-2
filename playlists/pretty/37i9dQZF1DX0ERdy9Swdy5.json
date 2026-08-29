@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 809972,
+  "num_followers": 810060,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMO+jAY+mCGoXhtG1QASvIb5V0L9",
+  "snapshot_id": "AAAAAGQHzfrtiCfLFFcip9WPo9O1JRQZ",
   "tracks": [
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "The Greatest Salsa Ever",
-        "url": "https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 267693,
       "name": "T\u00f9 No Le Amas Le Temes",
       "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "The Greatest Salsa Ever",
+        "url": "https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Exitos Eternos",
-        "url": "https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Ray",
-          "url": "https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Mascarada",
-      "url": "https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "No Lo Voy a Olvidar",
         "url": "https://open.spotify.com/album/5jMe7L01uhfNshwYuKvfVg"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 279200,
       "name": "Si Me Preguntan Por Ti",
       "url": "https://open.spotify.com/track/3kLOt4pxDk5ZYCprFXnTsZ"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Exitos Eternos",
+        "url": "https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ray",
+          "url": "https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Mascarada",
+      "url": "https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX"
     },
     {
       "added_at": "2024-07-12 19:20:44",

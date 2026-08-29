@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 
 > The hottest tracks in the United States\. Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,573,017 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,573,126 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kbJZpiYdZl.md) - [plain]
 | 49 | [E85](https://open.spotify.com/track/1udOZftd1UOs5WTDPrG97k) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/4taTmNcWdOvQ1ShrXI12Y8) | 2:33 |
 | 50 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
 
-Snapshot ID: `AAAAACjccLMKKATIzoKFVrtTRjVNF3fW`
+Snapshot ID: `AAAAAPAdibUSTgRRIN6zHoQ5AgBJ5+l5`

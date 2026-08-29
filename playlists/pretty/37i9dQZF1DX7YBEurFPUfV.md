@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,228 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,232 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 |
 | 60 | [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 |
 
-Snapshot ID: `AAAAACAeHvTixN3Pbj770Uowvd3RT9L8`
+Snapshot ID: `AAAAAPTWGefy+L3WhPdiQ36h4We8wnH3`

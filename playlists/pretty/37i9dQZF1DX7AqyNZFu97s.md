@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: KinKai
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,641 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,644 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [Do It Like That](https://open.spotify.com/track/76zNHQL2eF4haoZ3tJ2x3M) | [JNG](https://open.spotify.com/artist/0Z0ZUXPo3rxOFa0gvsaHLc), [TOM LECHEF](https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd) | [Do It Like That](https://open.spotify.com/album/0PDSDiHj0Aa9h0EMZcVsST) | 4:44 |
 | 50 | [Rush](https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn) | [Ryan Nicholls](https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q) | [Rush](https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy) | 3:10 |
 
-Snapshot ID: `AAAAAIko58Lu3iJF8IIzt2bqyz5DFqYT`
+Snapshot ID: `AAAAADbu0W+BSn9/TKWz8mTMzlsjLNd7`

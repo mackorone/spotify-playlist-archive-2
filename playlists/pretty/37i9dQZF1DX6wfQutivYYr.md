@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > Samurai Jay in cover della playlist con tutte le hit 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,714,742 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,714,601 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 27 | [Buon Vento](https://open.spotify.com/track/5vdmfjy5CVrV0xYEcO2f4Q) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Buon Vento](https://open.spotify.com/album/06ge45XUS63W0ENu9QjjQN) | 2:55 |
 | 28 | [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 |
 | 29 | [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 |
-| 30 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
-| 31 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
-| 32 | [AMOR](https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Mortali](https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5) | 2:57 |
-| 33 | [Obsessed](https://open.spotify.com/track/3CaLAEZ5u8PEiylYQVIv10) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:00 |
+| 30 | [Bugie](https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bugie](https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG) | 3:13 |
+| 31 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
+| 32 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
+| 33 | [AMOR](https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Mortali](https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5) | 2:57 |
 | 34 | [AYAYAY](https://open.spotify.com/track/3xPMN6Ojy4uV0jicQf5dYZ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [AYAYAY](https://open.spotify.com/album/3TV20ouePm2YUPAMSj4C0n) | 2:26 |
 | 35 | [I romantici](https://open.spotify.com/track/3X6VETSe1orqobaME0KTzQ) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [I romantici](https://open.spotify.com/album/6QXhh6j3OifW2hTvVWXbVW) | 3:59 |
 | 36 | [MUCHACHA](https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [MUCHACHA](https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 | 49 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
 | 50 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 
-Snapshot ID: `AAAAAPL1fai9Ipk8xoWX8oRh2wcl341o`
+Snapshot ID: `AAAAAEZBLgQZ8UXfGRX/xZtnSuvR/aLS`

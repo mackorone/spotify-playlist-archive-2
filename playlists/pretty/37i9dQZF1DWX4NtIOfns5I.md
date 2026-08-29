@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > now all I know is the ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,668 likes - 129 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,690 likes - 129 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 128 | [Shine On Me](https://open.spotify.com/track/0AlzSN8wxisdzlyd8m2Q12) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [Shine On Me](https://open.spotify.com/album/1ztMEOs9UAIsrb6Dv9h8Tw) | 4:56 |
 | 129 | [Stranger In You](https://open.spotify.com/track/0u1xjU4iiZYgChkqGfIp1y) | [Ebril](https://open.spotify.com/artist/6p7XMnNGDeGqm0ZhgPtuFp) | [In Copula](https://open.spotify.com/album/546vXsHq8uwb1lkrjg3IPR) | 2:13 |
 
-Snapshot ID: `AAAAANblXZfsRyjxxwl2GVgorXqztnz+`
+Snapshot ID: `AAAAAPJW4FpawYit8CLVxFe+C4iiBPfp`

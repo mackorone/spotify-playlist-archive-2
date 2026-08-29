@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,247 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,248 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 42 | [Restaura o Teu Altar \- Ao Vivo](https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Restaura o Teu Altar \(Ao Vivo\)](https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF) | 6:58 |
 | 43 | [Alvo Mais Que a Neve \- Ao Vivo](https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Catedral \(Ao Vivo\)](https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ) | 4:38 |
 | 44 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
-| 45 | [Perto Eu Quero Estar \- Ao Vivo](https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Perto Eu Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x) | 4:12 |
-| 46 | [Vem](https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem](https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w) | 6:22 |
+| 45 | [Vem](https://open.spotify.com/track/3Yop3QUpr2wfe2MObnpZ2b) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem](https://open.spotify.com/album/4w9Ym45CNTgnyTNaMXsJ1w) | 6:22 |
+| 46 | [Perto Eu Quero Estar \- Ao Vivo](https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Perto Eu Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x) | 4:12 |
 | 47 | [Alfa e Ômega \- Ao Vivo](https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Alfa e Ômega \(Ao Vivo\)](https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri) | 6:57 |
 | 48 | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu) | 4:43 |
 | 49 | [Pai de Amor \(Heavenly Father I Appreciate You\) \- Ao Vivo](https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Pai de Amor \(Heavenly Father I Appreciate You\) \[Ao Vivo\]](https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4) | 4:05 |
 | 50 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 
-Snapshot ID: `ao4sgAAAAADKj80uqu/UAASjjDYqR6zi`
+Snapshot ID: `ao9+AAAAAACvQFSPZ64WmxYronPoM6QX`

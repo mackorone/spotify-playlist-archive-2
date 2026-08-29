@@ -14104,7 +14104,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 192985,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/4ag9GBwaroCkmxut89trNR"
@@ -15428,6 +15428,24 @@
       "duration_ms": 210262,
       "name": "Hollow Temples",
       "url": "https://open.spotify.com/track/6FH6BLpRmqS7ndC0exBm8K"
+    },
+    {
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0BX9XhyMCcJoON2qcF3wEF"
+      },
+      "artists": [
+        {
+          "name": "EMMALISA",
+          "url": "https://open.spotify.com/artist/0uAC20tdGcRDQMNvWTnZP0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/5mIC2serbv60vtTy02IMyU"
     },
     {
       "album": {
@@ -24034,6 +24052,24 @@
       "duration_ms": 181936,
       "name": "Ocean Blue",
       "url": "https://open.spotify.com/track/7AvxrXZVora0RLzC4YgVFK"
+    },
+    {
+      "album": {
+        "name": "from the couch",
+        "url": "https://open.spotify.com/album/3jiUMmRTeEbw29xFVfym2B"
+      },
+      "artists": [
+        {
+          "name": "The Walrus Project",
+          "url": "https://open.spotify.com/artist/1jsbRhM9bwcvUq1wrpy9gD"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ocean Call",
+      "url": "https://open.spotify.com/track/3IkLqtO9o3iKzXBvyh17dG"
     },
     {
       "album": {

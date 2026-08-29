@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Asmed y Moy Bobadilla en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,928 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,955 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 59 | [Se Solicita](https://open.spotify.com/track/6SKZZqITbvyscYGgDNfVCQ) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [25 Aniversario \(Deluxe\)](https://open.spotify.com/album/1pvvRT6e67vejIScHlVOvx) | 3:19 |
 | 60 | [El Ranchero Chido](https://open.spotify.com/track/7xyvjI0IPfcCb2dGXM7k2q) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [90´S](https://open.spotify.com/album/614gemn5jcBnmffHannrPT) | 2:36 |
 | 61 | [Otra Vez](https://open.spotify.com/track/274qOOTUIIZTgccG1xlbm9) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Otra Vez](https://open.spotify.com/album/5ALh1nWcNmSEOe3y0D1aVE) | 4:00 |
-| 62 | [Corazón \(En Vivo\)](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
+| 62 | [Corazón \- En Vivo](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
 | 63 | [Para Olvidarme De Tus Besos](https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Una Historia Mal Contada](https://open.spotify.com/album/5lYcalORluIjuBEKJflc88) | 3:17 |
 | 64 | [De Sobremanera](https://open.spotify.com/track/3cVKbHNzwHOqsqJB70H63R) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [De Sobremanera](https://open.spotify.com/album/5sjihtd6cTAsVJlHNhGRI4) | 3:38 |
 | 65 | [Hubiéramos](https://open.spotify.com/track/0sbinHSb4nznpK1uTB9bgb) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hubiéramos](https://open.spotify.com/album/1xwButzEr6n5GRwaxIe7yv) | 3:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 69 | [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 |
 | 70 | [No Regreses](https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Como Duele El Amor](https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP) | 2:53 |
 
-Snapshot ID: `AAAAAOolkAZc7Pn2HKzf1LBdFpuyhfyx`
+Snapshot ID: `AAAAAPhqG9vYs0uQEvxrmuN9DnO5TIs4`

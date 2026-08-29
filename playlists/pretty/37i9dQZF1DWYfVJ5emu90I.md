@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,590 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,596 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 19 | [力をくれ](https://open.spotify.com/track/35FFFojzUUlFAwKIXCPvNi) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [力をくれ](https://open.spotify.com/album/7qu1zz3XI91cCz99mhHg33) | 3:16 |
 | 20 | [Selfish](https://open.spotify.com/track/44WuchXFmBX72dU65OAhdg) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Selfish](https://open.spotify.com/album/6F0eQIfRBLiX1ZmDNnn8uc) | 3:44 |
 | 21 | [MORIAGE](https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MORIAGE](https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU) | 4:10 |
-| 22 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 |
-| 23 | [RASEN in OKINAWA](https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs) | 4:49 |
+| 22 | [RASEN in OKINAWA](https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs) | 4:49 |
+| 23 | [Swervin](https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Swervin](https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9) | 2:51 |
 | 24 | [TRAUMA \(feat\. ralph\)](https://open.spotify.com/track/49MTwYpaPShEqqn4amf0AE) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DESTRUCTION](https://open.spotify.com/album/6J2XUL32G6s74SoTCmURpD) | 2:54 |
 | 25 | [Assassin \(feat\. S.J.soldier & Carz\) \- Remix](https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [S.J.soldier](https://open.spotify.com/artist/0dFj1rvEIFdLUxWCiqkCTf), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [Assassin \(feat\. S.J.soldier & Carz\) \[Remix\]](https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B) | 3:24 |
 | 26 | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/track/0FoSjnPhkhgnvWG9IqpVfC) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [DEATH NOTE](https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [NEMLAND](https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j) | [DEATH NOTE](https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW) | 2:54 |
 | 50 | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 |
 
-Snapshot ID: `AAAAAEiJz5eR0e2fommzKJFxPoJj4kcS`
+Snapshot ID: `AAAAAK9USQWAvqFX+FsMH/f9BFLaflL4`

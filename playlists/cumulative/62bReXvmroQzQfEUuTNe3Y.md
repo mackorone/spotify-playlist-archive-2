@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-592 songs - 1 day 8 hr 22 min
+595 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 | 2021-03-11 | 2026-08-22 |
 | [Fine by Me](https://open.spotify.com/track/536ZOMd9Wevj5MnLuaYVKr) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [Mara](https://open.spotify.com/album/7w0AHYLQo2xI7fPZ0JX9x4) | 2:10 | 2026-07-17 |  |
 | [Fire](https://open.spotify.com/track/3wuVn9TJsfWYZnaTSicrx1) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Fire](https://open.spotify.com/album/3916RvUXnF5pTl3awG2yGM) | 1:53 | 2021-06-26 | 2021-10-23 |
+| [FIRE FLIES](https://open.spotify.com/track/4HMybIZRiXCIWqcnnPvTyq) | [ASK YOUR FRIENDS](https://open.spotify.com/artist/4NnFcjLPmbYq2OTAFPVDC0) | [NOT ENOUGH](https://open.spotify.com/album/6UBf3sJ31WAnWp4lckqpyN) | 3:37 | 2026-08-28 |  |
 | [First Light](https://open.spotify.com/track/2mAmzLJzgXFmiunBbHkMKc) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [Every Cloud..](https://open.spotify.com/album/2rGMvYYDXc2TwUiefl1kwH) | 2:57 | 2025-11-04 |  |
 | [Fix Me](https://open.spotify.com/track/1nHWcLi8wupts5WkjIAflQ) | [CAKES](https://open.spotify.com/artist/03hbczwxPblo2dHzHfb5G4), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Fix Me](https://open.spotify.com/album/1wxSeFkiRvvvYlWrGAhWGU) | 2:59 | 2025-07-04 |  |
 | [Flames \(feat\. Ruel\)](https://open.spotify.com/track/4JiuLIWKkLH2iluzOhXh5Y) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Flames \(feat\. Ruel\) \[Lastlings Remix\]](https://open.spotify.com/album/79jCjSW0TiYcTKhJLeQ9Hk) | 3:36 | 2021-06-12 | 2021-07-17 |
@@ -278,6 +279,7 @@
 | [Leave Behind](https://open.spotify.com/track/0hXpNsYnw831qvqCDOCbz5) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf), [Andro](https://open.spotify.com/artist/6oADXrB2o6vqetv9UYNzMj) | [Leave Behind](https://open.spotify.com/album/56D8yl4PKwMa6ntKdI8M7W) | 3:26 | 2025-08-22 |  |
 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 | 2021-03-06 | 2024-12-07 |
 | [Let Go \(El Día\)](https://open.spotify.com/track/571295eoFtv5NcQRUXbt4k) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Gazelle](https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU) | [Let Go](https://open.spotify.com/album/31TBi8zTRhWs1tQqOs6WDK) | 2:47 | 2021-06-05 | 2021-11-11 |
+| [LET ME IN](https://open.spotify.com/track/3q5bPxHVmJGp9YKxIJEXvu) | [ASK YOUR FRIENDS](https://open.spotify.com/artist/4NnFcjLPmbYq2OTAFPVDC0) | [NOT ENOUGH](https://open.spotify.com/album/6UBf3sJ31WAnWp4lckqpyN) | 2:33 | 2026-08-28 |  |
 | [Let Me In](https://open.spotify.com/track/3iB4dAyzPF9PSD3xptZ6Z1) | [London Topaz](https://open.spotify.com/artist/2QNu1AjQAl2trTfbVMovyd), [Sophia Brown](https://open.spotify.com/artist/7xwiifoAFGNRKPqzuYSR3C) | [Let Me In](https://open.spotify.com/album/4uDtD2godWx9NnVv8dGm4f) | 3:21 | 2026-01-23 | 2026-08-22 |
 | [Let You Know](https://open.spotify.com/track/0ZKvsGwD3D8Y4orIQGyyBW) | [Carter.](https://open.spotify.com/artist/4FNkz4oChr6RwFLZqHQiX0), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Let You Know](https://open.spotify.com/album/3j0SwqbhvA8Aw0pmET5Wh9) | 2:43 | 2020-09-13\* |  |
 | [Lie](https://open.spotify.com/track/3RnZjwrBL25HDLEdh3JroP) | [BRETSN](https://open.spotify.com/artist/0q1KWQ2KDqSA6neWGPi2Mm), [SANDMO](https://open.spotify.com/artist/6s4D1tHXN2nIoywKMPR8UF) | [Lie](https://open.spotify.com/album/1GvBsRk5yQfKPShCSFH88g) | 2:50 | 2023-04-07 | 2026-01-06 |
@@ -365,6 +367,7 @@
 | [No Way Out](https://open.spotify.com/track/4OoPS9qN7qDv4tqaMb3ScP) | [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [No Way Out](https://open.spotify.com/album/4i2HcYimANVCm3xSSafl39) | 2:27 | 2024-07-12 | 2026-01-06 |
 | [Nobody Knows](https://open.spotify.com/track/3vF2wvLHg3QK1MwqeiUOUb) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Nobody Knows](https://open.spotify.com/album/59NaZf5szsgzHSG6tYLOAp) | 4:21 | 2024-03-22 |  |
 | [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 | 2023-04-29 |
+| [NOT ENOUGH](https://open.spotify.com/track/74CDlN3Gdxff2u0nyc4KeA) | [ASK YOUR FRIENDS](https://open.spotify.com/artist/4NnFcjLPmbYq2OTAFPVDC0) | [NOT ENOUGH](https://open.spotify.com/album/6UBf3sJ31WAnWp4lckqpyN) | 3:05 | 2026-08-28 |  |
 | [Nothing Compares](https://open.spotify.com/track/5uK5imfy8JK9LNRLax5hwT) | [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g), [Thomas Sykes](https://open.spotify.com/artist/5YMczOrhIIwKHbOVV6VpNf) | [Nothing Compares](https://open.spotify.com/album/2nVYXhKU2ivwctV3TULWLC) | 2:40 | 2021-12-10 | 2026-01-06 |
 | [Numb](https://open.spotify.com/track/2cdCC1aCXbvz9tXFOR6CxR) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/5DmT0aBDQe90fxAiP3pDwO) | 3:50 | 2021-03-06 | 2022-02-19 |
 | [Numb](https://open.spotify.com/track/7rBpjxstrSsuOLqnuOC028) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Numb](https://open.spotify.com/album/0wM4Ss4GefFaHkJsaAEzLK) | 3:50 | 2020-09-13\* | 2021-03-06 |

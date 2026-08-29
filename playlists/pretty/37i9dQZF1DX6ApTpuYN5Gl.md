@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,474 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,472 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 29 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
 | 30 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 |
 | 31 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 |
-| 32 | [Afterlife](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Afterlife](https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO) | 3:12 |
-| 33 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
+| 32 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
+| 33 | [Afterlife](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Afterlife](https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO) | 3:12 |
 | 34 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 35 | [Dive](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Dive](https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU) | 3:17 |
 | 36 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 46 | [3AMStillAlive \- Remix](https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [3AMStillAlive Remix](https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v) | 3:39 |
 | 47 | [People Help the People](https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k) | 2:37 |
 | 48 | [Breathing](https://open.spotify.com/track/1SpPYZXLuUJ7BxiK16PNeb) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/6PkMBdWyPN8jeNtyHcB3N2) | 3:42 |
-| 49 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
-| 50 | [Elements](https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Duality](https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO) | 6:15 |
+| 49 | [Elements](https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Duality](https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO) | 6:15 |
+| 50 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
 
-Snapshot ID: `AAAAAOuNpNPcDmaue9zSMUsnzLEG3kiB`
+Snapshot ID: `AAAAAODfVZ2CDaCKdT1jbPn+T0UW506/`

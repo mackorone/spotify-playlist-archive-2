@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170436,
+  "num_followers": 170435,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACYLZmAVneiz/L8CY/eIh4vIlt6N",
+  "snapshot_id": "AAAAAPydoDwkqz4kSujCRBl6aOVT7so9",
   "tracks": [
     {
       "added_at": "2025-09-02 20:08:27",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "No Rain, No Rose (Vinyl)",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 313078,
       "name": "I Am California (feat. Gregory Alan Isakov)",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Blonde On The Tracks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
-      },
-      "artists": [
-        {
-          "name": "Emma Swift",
-          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
-        }
-      ],
-      "duration_ms": 276576,
-      "name": "Queen Jane Approximately",
-      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Riddy Arman",
         "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Blonde On The Tracks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
+      },
+      "artists": [
+        {
+          "name": "Emma Swift",
+          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
+        }
+      ],
+      "duration_ms": 276576,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Between the Dirt and the Stars",
-        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
-      },
-      "artists": [
-        {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
-        }
-      ],
-      "duration_ms": 463133,
-      "name": "Between the Dirt and the Stars",
-      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Come and Fill My Soul",
         "url": "https://open.spotify.com/album/6qOOKnMN7tlHHe4xNKiYQS"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 223418,
       "name": "Come and Fill My Soul",
       "url": "https://open.spotify.com/track/4qWLk808SIvlMvKmAIrWk4"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Between the Dirt and the Stars",
+        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
+      },
+      "artists": [
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "duration_ms": 463133,
+      "name": "Between the Dirt and the Stars",
+      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Nine Pin",
-        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Saint Elizabeth",
-      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 268839,
       "name": "Miracle of Love",
       "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Saint Elizabeth",
+      "url": "https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Lorraine",
+        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Lorraine",
+      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "In Another Life",
         "url": "https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 167333,
       "name": "High and Low (Acoustic)",
       "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Lorraine",
-        "url": "https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Lorraine",
-      "url": "https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 275800,
-      "name": "Myth",
-      "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/7zzz0Fqahwtd6jd2BgBFj6"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 229810,
       "name": "My Heart Aches",
       "url": "https://open.spotify.com/track/2JexGQLlpihuwBxihoTM9r"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Myth",
+      "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Pacific Northwest Bound",
-        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
-      },
-      "artists": [
-        {
-          "name": "Mike McKenna Jr.",
-          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
-        }
-      ],
-      "duration_ms": 173786,
-      "name": "Pacific Northwest Bound",
-      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "The Ocean",
         "url": "https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 201294,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Pacific Northwest Bound",
+        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
+      },
+      "artists": [
+        {
+          "name": "Mike McKenna Jr.",
+          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
+        }
+      ],
+      "duration_ms": 173786,
+      "name": "Pacific Northwest Bound",
+      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/5vIo3myTJ8fmttU2wARlYB"
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
       },
       "artists": [
         {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1"
+      "duration_ms": 306216,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     }
   ],
   "unique_name": "Contemporary Folk",

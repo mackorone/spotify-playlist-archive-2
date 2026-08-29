@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 885626,
+  "num_followers": 885720,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOAPC95F8+oKgSnOqOdHYm+MGOiX",
+  "snapshot_id": "AAAAAMwQQMSLqUwhMaWoKEltazpzB2Hf",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:59",
@@ -707,18 +707,22 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+        "name": "Robson Jorge e Lincoln Olivetti",
+        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        },
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
         }
       ],
-      "duration_ms": 298533,
-      "name": "Age Of Ascent",
-      "url": "https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR"
+      "duration_ms": 181427,
+      "name": "Ginga",
+      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -739,22 +743,18 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Robson Jorge e Lincoln Olivetti",
-        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
       },
       "artists": [
         {
-          "name": "Robson Jorge",
-          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
-        },
-        {
-          "name": "Lincoln Olivetti",
-          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 181427,
-      "name": "Ginga",
-      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -1011,38 +1011,6 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "S\u00e3o Paulo Motoboy",
-        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 148600,
-      "name": "S\u00e3o Paulo Motoboy",
-      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
-        "name": "Stereo Rodeo",
-        "url": "https://open.spotify.com/album/2Goj3hsNylDlFk2ilAV8J1"
-      },
-      "artists": [
-        {
-          "name": "Warbaby",
-          "url": "https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK"
-        }
-      ],
-      "duration_ms": 224859,
-      "name": "Stereo Rodeo",
-      "url": "https://open.spotify.com/track/7bp0bfnfHzV8rLZCQH3nfB"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -1063,18 +1031,18 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Pingu's Anthem b/w Gronk",
-        "url": "https://open.spotify.com/album/3fKJx0SdPeg5oxwDgiUqO8"
+        "name": "Stereo Rodeo",
+        "url": "https://open.spotify.com/album/2Goj3hsNylDlFk2ilAV8J1"
       },
       "artists": [
         {
-          "name": "Let Your Hair Down",
-          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+          "name": "Warbaby",
+          "url": "https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK"
         }
       ],
-      "duration_ms": 188390,
-      "name": "Gronk",
-      "url": "https://open.spotify.com/track/40M2uLSMbPi4BnkdO2oEUf"
+      "duration_ms": 224859,
+      "name": "Stereo Rodeo",
+      "url": "https://open.spotify.com/track/7bp0bfnfHzV8rLZCQH3nfB"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -1091,6 +1059,38 @@
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
+        "name": "Pingu's Anthem b/w Gronk",
+        "url": "https://open.spotify.com/album/3fKJx0SdPeg5oxwDgiUqO8"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "duration_ms": 188390,
+      "name": "Gronk",
+      "url": "https://open.spotify.com/track/40M2uLSMbPi4BnkdO2oEUf"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
+        "name": "S\u00e3o Paulo Motoboy",
+        "url": "https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 148600,
+      "name": "S\u00e3o Paulo Motoboy",
+      "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Moonshake",
-        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
-      },
-      "artists": [
-        {
-          "name": "Marcello Cassanelli",
-          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
-        },
-        {
-          "name": "Gabe Costa",
-          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
-        }
-      ],
-      "duration_ms": 154445,
-      "name": "Moonshake",
-      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
         "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
         "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 244049,
       "name": "Sweetie",
       "url": "https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
+        "name": "Moonshake",
+        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
+      },
+      "artists": [
+        {
+          "name": "Marcello Cassanelli",
+          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
+        },
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        }
+      ],
+      "duration_ms": 154445,
+      "name": "Moonshake",
+      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
+        "name": "Weirdo",
+        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 291932,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
         "name": "Suco de Sol",
         "url": "https://open.spotify.com/album/6i0GabOxJdPoUrtUQGKGDh"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 228000,
       "name": "Suco de Sol",
       "url": "https://open.spotify.com/track/3h7A9Ei5Qk07femqoyW6lw"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
-        "name": "Weirdo",
-        "url": "https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 291932,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 290448,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
         "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
         "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 169117,
       "name": "Puro Mambo",
       "url": "https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 290448,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+        "name": "Tropicoso",
+        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
       },
       "artists": [
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
         }
       ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
+      "duration_ms": 152600,
+      "name": "Comencemos (Let's Start)",
+      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Tropicoso",
-        "url": "https://open.spotify.com/album/481L9QkG0QiHGYBkDzqqsz"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Comencemos (Let's Start)",
-      "url": "https://open.spotify.com/track/44kT6XsCkSGb9wNQ5qGXvg"
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -2059,6 +2059,26 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
+        "name": "Thonga Lami (Gaudi Remix)",
+        "url": "https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL"
+      },
+      "artists": [
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        },
+        {
+          "name": "Gaudi",
+          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
+        }
+      ],
+      "duration_ms": 351124,
+      "name": "Thonga Lami - Gaudi Remix",
+      "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
         "name": "Mount Pleasant Remixed, Vol. 1",
         "url": "https://open.spotify.com/album/3ALtmr92YLgAb6cO2liYHK"
       },
@@ -2079,6 +2099,22 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/2nluLEKj1JcPZAZ1l53aM4"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 211976,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/4gU95TkHTH4rhrTMPSHLtP"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
         "name": "Los Santos y Pecadores",
         "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
       },
@@ -2095,6 +2131,22 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
+      },
+      "artists": [
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 162477,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
         "name": "Vem pra Casa",
         "url": "https://open.spotify.com/album/6hcX6bzqzwrX5ijhPAosIo"
       },
@@ -2107,26 +2159,6 @@
       "duration_ms": 207234,
       "name": "Vem pra Casa",
       "url": "https://open.spotify.com/track/1ThUsFb2Vb5twgKrIAmVeF"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
-        "name": "Thonga Lami (Gaudi Remix)",
-        "url": "https://open.spotify.com/album/2rQLjfLvGU79IAD4eRBNhL"
-      },
-      "artists": [
-        {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
-        },
-        {
-          "name": "Gaudi",
-          "url": "https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP"
-        }
-      ],
-      "duration_ms": 351124,
-      "name": "Thonga Lami - Gaudi Remix",
-      "url": "https://open.spotify.com/track/5GR8F9LBYWOLbSe5eBTP5Y"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -2155,34 +2187,18 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "This Feeling",
-        "url": "https://open.spotify.com/album/2nluLEKj1JcPZAZ1l53aM4"
+        "name": "The Age of Aquarius",
+        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
       "artists": [
         {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 211976,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/4gU95TkHTH4rhrTMPSHLtP"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz"
-      },
-      "artists": [
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 162477,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS"
+      "duration_ms": 368108,
+      "name": "Sh\u0113nzhou V.",
+      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -2199,22 +2215,6 @@
       "duration_ms": 202000,
       "name": "Pieteron",
       "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
-        "name": "The Age of Aquarius",
-        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 368108,
-      "name": "Sh\u0113nzhou V.",
-      "url": "https://open.spotify.com/track/0AULxj8PjVnPL8vuUGwVkb"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Napoletana (Dance Rituals)",
-        "url": "https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY"
-      },
-      "artists": [
-        {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
-        }
-      ],
-      "duration_ms": 224564,
-      "name": "Napoletana - Dance Rituals",
-      "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
         "name": "Water of Life",
         "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 304334,
       "name": "Water of Life",
       "url": "https://open.spotify.com/track/2kT05IUIBA0xsDfxphTiV1"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
+        "name": "Napoletana (Dance Rituals)",
+        "url": "https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        }
+      ],
+      "duration_ms": 224564,
+      "name": "Napoletana - Dance Rituals",
+      "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Claude Fontaine",
-        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
-      },
-      "artists": [
-        {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
-        }
-      ],
-      "duration_ms": 246386,
-      "name": "Play by Play",
-      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
         "name": "Various Bilongo",
         "url": "https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 336133,
       "name": "Jungle Music",
       "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 175632,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
         "name": "Fighting Slowly",
         "url": "https://open.spotify.com/album/7vXFAnHHFWDPECJLi89PPk"
       },
@@ -2531,18 +2515,34 @@
     {
       "added_at": "2026-08-28 04:01:59",
       "album": {
-        "name": "Cinema Sound System",
-        "url": "https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv"
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
       },
       "artists": [
         {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
         }
       ],
-      "duration_ms": 264217,
-      "name": "Cannot Get Enough",
-      "url": "https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG"
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
+        "name": "Golden Hands",
+        "url": "https://open.spotify.com/album/68eTOEi1DZf7PoR85bsDaf"
+      },
+      "artists": [
+        {
+          "name": "Golden Hands",
+          "url": "https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ"
+        }
+      ],
+      "duration_ms": 461120,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -2559,6 +2559,38 @@
       "duration_ms": 223764,
       "name": "Guzelim Benim",
       "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
+        "name": "I Wanna Sleep In Your Arms / What's a Girl To Do",
+        "url": "https://open.spotify.com/album/3KgSMLE6uMBDuNTjOwjDoA"
+      },
+      "artists": [
+        {
+          "name": "Housepainters",
+          "url": "https://open.spotify.com/artist/42RX9RBkomkMBf7wY8BeIK"
+        }
+      ],
+      "duration_ms": 227780,
+      "name": "I Wanna Sleep In Your Arms",
+      "url": "https://open.spotify.com/track/7M3sfWCuoSQqmkLxM9CJc0"
+    },
+    {
+      "added_at": "2026-08-28 04:01:59",
+      "album": {
+        "name": "Cinema Sound System",
+        "url": "https://open.spotify.com/album/3lZBuGE2PBHtI3gkSoaMXv"
+      },
+      "artists": [
+        {
+          "name": "Sunnan",
+          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
+        }
+      ],
+      "duration_ms": 264217,
+      "name": "Cannot Get Enough",
+      "url": "https://open.spotify.com/track/3D0aqBViXxBGvxtHTbBkcG"
     },
     {
       "added_at": "2026-08-28 04:01:59",
@@ -2591,42 +2623,6 @@
       "duration_ms": 261000,
       "name": "Jonio",
       "url": "https://open.spotify.com/track/4jrBtIBrUvHbhTChcXV6ay"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
-        "name": "Golden Hands",
-        "url": "https://open.spotify.com/album/68eTOEi1DZf7PoR85bsDaf"
-      },
-      "artists": [
-        {
-          "name": "Golden Hands",
-          "url": "https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ"
-        }
-      ],
-      "duration_ms": 461120,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
-    },
-    {
-      "added_at": "2026-08-28 04:01:59",
-      "album": {
-        "name": "Hafa",
-        "url": "https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI"
-      },
-      "artists": [
-        {
-          "name": "iZem",
-          "url": "https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r"
-        },
-        {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        }
-      ],
-      "duration_ms": 249982,
-      "name": "Agua Viva",
-      "url": "https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev"
     }
   ],
   "unique_name": "Global Groove",

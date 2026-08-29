@@ -137411,6 +137411,24 @@
     },
     {
       "album": {
+        "name": "Arriba La L",
+        "url": "https://open.spotify.com/album/1XKtSl05ezH6lWTmVgTLUL"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238758,
+      "name": "Pa Mis Carnales",
+      "url": "https://open.spotify.com/track/2k5OUMIny0ZW6ls1y4ssGf"
+    },
+    {
+      "album": {
         "name": "Pacific Coast Highway",
         "url": "https://open.spotify.com/album/4c1NlLtA0zqLtcuPB4W06R"
       },

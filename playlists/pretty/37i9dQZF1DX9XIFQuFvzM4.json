@@ -1,12 +1,12 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3592067,
+  "num_followers": 3592038,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxzlEAxAn6rrr0CO6GiQ0DBvZQ5",
+  "snapshot_id": "AAAAAGCYe/XvwFmt8oC4iaodEXrcjcCS",
   "tracks": [
     {
       "added_at": "2026-01-09 18:50:31",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Where There's Smoke... (Expanded Edition)",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Chain of Fools",
-      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2022-02-25 05:01:00",
@@ -577,6 +561,22 @@
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
     },
     {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Chain of Fools",
+      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+    },
+    {
       "added_at": "2021-12-13 21:17:46",
       "album": {
         "name": "Ultimate Collection: Dobie Gray",
@@ -591,6 +591,22 @@
       "duration_ms": 237466,
       "name": "Drift Away - Single Version",
       "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pusherman",
+      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -611,18 +627,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Superfly: Deluxe 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+        "name": "The Fabulous Miracles",
+        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "The Miracles",
+          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
         }
       ],
-      "duration_ms": 300693,
-      "name": "Pusherman",
-      "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
+      "duration_ms": 177706,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
     },
     {
       "added_at": "2024-02-29 20:11:01",
@@ -639,22 +655,6 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Fabulous Miracles",
-        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
-      },
-      "artists": [
-        {
-          "name": "The Miracles",
-          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Natalie Cole Anthology",
-        "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
-      "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Wild And Peaceful",
         "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 279933,
       "name": "Hollywood Swinging",
       "url": "https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Natalie Cole Anthology",
+        "url": "https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "This Will Be (An Everlasting Love) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 178289,
-      "name": "FREEDOM",
-      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Curtis (Expanded Edition)",
         "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 535333,
       "name": "Move on Up - Extended Version",
       "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 178289,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
     },
     {
       "added_at": "2025-03-25 15:28:45",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/5KUvaRNaKNDxprs1RsHq4O"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "The Oogum Boogum Song",
-      "url": "https://open.spotify.com/track/7fp41IDi1dqARoX0Nuvz5O"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "I Get The Sweetest Feeling",
         "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 178373,
       "name": "I Get The Sweetest Feeling",
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/5KUvaRNaKNDxprs1RsHq4O"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "The Oogum Boogum Song",
+      "url": "https://open.spotify.com/track/7fp41IDi1dqARoX0Nuvz5O"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Get Down With It!: The OKeh Sessions",
-        "url": "https://open.spotify.com/album/3XJdo12CbRAzzG58QbzKkk"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Get Down with It",
-      "url": "https://open.spotify.com/track/63VN1yQ8RcKMUVX4KMRsBy"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "I'm Back! Family & Friends",
         "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 199426,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Get Down With It!: The OKeh Sessions",
+        "url": "https://open.spotify.com/album/3XJdo12CbRAzzG58QbzKkk"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Get Down with It",
+      "url": "https://open.spotify.com/track/63VN1yQ8RcKMUVX4KMRsBy"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Smooth Sailin'",
+      "url": "https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Very Best Of Marvin Gaye",
         "url": "https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 146160,
       "name": "Ain't No Mountain High Enough - Stereo Version",
       "url": "https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Smooth Sailin'",
-      "url": "https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Rhino Hi-Five: Arthur Conley",
+        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "I Heard It Through The Grapevine / In The Groove (Stereo)",
         "url": "https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X"
       },
@@ -2347,22 +2363,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Rhino Hi-Five: Arthur Conley",
-        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
-      },
-      "artists": [
-        {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
-        }
-      ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Favorites",
         "url": "https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3"
       },
@@ -2391,38 +2391,6 @@
       "duration_ms": 250200,
       "name": "Get Up Offa That Thing",
       "url": "https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Penny & the Quarters EP",
-        "url": "https://open.spotify.com/album/7p975H27xl8eGUtIcHXbCv"
-      },
-      "artists": [
-        {
-          "name": "Penny & The Quarters",
-          "url": "https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/3ue9zcwNcoYvFqKVjG0C6r"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "Sure Don't Miss You",
-      "url": "https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2459,6 +2427,38 @@
       "duration_ms": 254314,
       "name": "When Love Comes In",
       "url": "https://open.spotify.com/track/3GSNgcN4DnYTIYqL7GzIZT"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Penny & the Quarters EP",
+        "url": "https://open.spotify.com/album/7p975H27xl8eGUtIcHXbCv"
+      },
+      "artists": [
+        {
+          "name": "Penny & The Quarters",
+          "url": "https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC"
+        }
+      ],
+      "duration_ms": 160813,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/3ue9zcwNcoYvFqKVjG0C6r"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Build Me Up Buttercup",
+        "url": "https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
     }
   ],
   "unique_name": "Feelin' Good",

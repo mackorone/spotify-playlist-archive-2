@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
-  "num_followers": 357340,
+  "num_followers": 357297,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALpDAD+yaGkT47+nSWFDWtE14ltk",
+  "snapshot_id": "AAAAACGe+wLg8P3i13hsVAjX3dADKEn+",
   "tracks": [
     {
       "added_at": "2026-08-28 03:00:17",
@@ -251,26 +251,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "NUVEM NEGRA",
-        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
-      },
-      "artists": [
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        },
-        {
-          "name": "Fernando Catatau",
-          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
-        }
-      ],
-      "duration_ms": 294570,
-      "name": "NUVEM NEGRA",
-      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "olympia",
         "url": "https://open.spotify.com/album/22DMRedJ10iOcwprOeP9sI"
       },
@@ -291,18 +271,38 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
         }
       ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "NUVEM NEGRA",
+        "url": "https://open.spotify.com/album/3YDo7S41KnAWlYShIx45ed"
+      },
+      "artists": [
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        },
+        {
+          "name": "Fernando Catatau",
+          "url": "https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj"
+        }
+      ],
+      "duration_ms": 294570,
+      "name": "NUVEM NEGRA",
+      "url": "https://open.spotify.com/track/22fY4kcRsCWHEpSwVTeQm1"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
       "artists": [
         {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
         "name": "Te Amar",
         "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 178645,
       "name": "Te Amar",
       "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Noturno",
+      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 187636,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Noturno",
-      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
         "name": "Manh\u00e3 de Sol",
         "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
-        "name": "Caipiranhas",
-        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
       "artists": [
         {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 116097,
-      "name": "Caipiranhas",
-      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -627,6 +611,22 @@
       "duration_ms": 194000,
       "name": "Gamou",
       "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "Caipiranhas",
+        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        }
+      ],
+      "duration_ms": 116097,
+      "name": "Caipiranhas",
+      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
     },
     {
       "added_at": "2026-08-28 03:00:17",
@@ -1011,6 +1011,62 @@
     {
       "added_at": "2026-08-28 03:00:17",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
+      },
+      "artists": [
+        {
+          "name": "Breezia",
+          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Clara",
+      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "Brisa Boa",
+        "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00eatu",
+          "url": "https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Brisa Boa",
+      "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
+      },
+      "artists": [
+        {
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+        },
+        {
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
+    },
+    {
+      "added_at": "2026-08-28 03:00:17",
+      "album": {
         "name": "Dias de Mar",
         "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
       },
@@ -1043,62 +1099,6 @@
       "duration_ms": 172395,
       "name": "Ressaca da Saudade",
       "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
-      },
-      "artists": [
-        {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        },
-        {
-          "name": "Anik Khan",
-          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/7pHQuVslB6cZN4bkcd1KQz"
-      },
-      "artists": [
-        {
-          "name": "Breezia",
-          "url": "https://open.spotify.com/artist/28IfxDlUo1Em1JPqkTGAJz"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Clara",
-      "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
-    },
-    {
-      "added_at": "2026-08-28 03:00:17",
-      "album": {
-        "name": "Brisa Boa",
-        "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00eatu",
-          "url": "https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Brisa Boa",
-      "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
     },
     {
       "added_at": "2026-08-28 03:00:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > The most essential R&B songs from the '00s\. Cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,811,233 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,811,237 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 43 | [I Luv Your Girl](https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:27 |
 | 44 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
 | 45 | [Sexy Love](https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:40 |
-| 46 | [Grind With Me](https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Bluestars](https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE) | 3:57 |
+| 46 | [Let It Go](https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:58 |
 | 47 | [Naughty Girl](https://open.spotify.com/track/0YGQ3hZcRLC5YX7o0hdmHg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:28 |
-| 48 | [Let It Go](https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:58 |
+| 48 | [Grind With Me](https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Bluestars](https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE) | 3:57 |
 | 49 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
 | 50 | [Can't Help but Wait](https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trey Day](https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn) | 3:26 |
 | 51 | [Differences](https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt) | 4:25 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 60 | [Rockin' That Shit](https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:41 |
 | 61 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
 | 62 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
-| 63 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
-| 64 | [Happy](https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:22 |
+| 63 | [Happy](https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:22 |
+| 64 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 | 65 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
 | 66 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
 | 67 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 |
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 72 | [Until The End Of Time \(with Beyoncé\)](https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 5:22 |
 | 73 | [Shawty Is Da Shit](https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6) | [THE\-DREAM](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:22 |
 | 74 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 |
-| 75 | [Be Your Girl](https://open.spotify.com/track/4AOUkAWdXPucnYe6GYdZjk) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Complex Simplicity: 15th Anniversary Edition](https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg) | 4:09 |
+| 75 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 76 | [Say Aah \(feat\. Fabolous\)](https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Ready \(Deluxe\)](https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85) | 3:27 |
-| 77 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
+| 77 | [Be Your Girl](https://open.spotify.com/track/4AOUkAWdXPucnYe6GYdZjk) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [Complex Simplicity: 15th Anniversary Edition](https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg) | 4:09 |
 | 78 | [Lose My Breath](https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:02 |
-| 79 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
-| 80 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 |
+| 79 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 |
+| 80 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
 | 81 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7) | 3:56 |
 | 82 | [Do You](https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 3:48 |
 | 83 | [Promise](https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:27 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 96 | [Ice Box](https://open.spotify.com/track/5qhlC4Rzals34zxovrPzKp) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2dGxINFRaJEwDRXohf5gTE) | 4:16 |
 | 97 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
 | 98 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
-| 99 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 |
-| 100 | [Baby](https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:25 |
+| 99 | [Baby](https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 4:25 |
+| 100 | [It's Over Now](https://open.spotify.com/track/769geiA8btidGHda4BBDOJ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 4:24 |
 
-Snapshot ID: `AAAAAM8S3mXDJpJ0NauIUHVAN173nrGY`
+Snapshot ID: `AAAAAKXlH0cYOE7Lzwhtbzenp96NRPcN`

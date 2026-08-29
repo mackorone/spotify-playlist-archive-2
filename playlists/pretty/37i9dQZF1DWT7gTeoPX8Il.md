@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,511 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,517 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 30 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 |
 | 31 | [Bodohnya Aku](https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Bodohnya Aku](https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI) | 4:00 |
 | 32 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 |
-| 33 | [Sesal Separuh Nyawa](https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y) | [Alyah](https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ) | [Sesal Separuh Nyawa](https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3) | 4:19 |
-| 34 | [Tak Adil](https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Tak Adil](https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K) | 3:08 |
+| 33 | [Tak Adil](https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Tak Adil](https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K) | 3:08 |
+| 34 | [Sesal Separuh Nyawa](https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y) | [Alyah](https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ) | [Sesal Separuh Nyawa](https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3) | 4:19 |
 | 35 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 |
 | 36 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 |
 | 37 | [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 39 | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 |
 | 40 | [Butterfly](https://open.spotify.com/track/0hlEfG7xZ34vlGRn6nCQkn) | [Aufahanie](https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C) | [Butterfly](https://open.spotify.com/album/4vmEvVIRJ7I6pV5gzgaMU4) | 3:56 |
 | 41 | [Cinta Mati](https://open.spotify.com/track/437hWe9OtyFHyRNYFq2VJy) | [Apau Qhaliff](https://open.spotify.com/artist/14xv7BxFG5H5Ev5yENPqrk) | [Cinta Mati](https://open.spotify.com/album/7d6EjuvPvjzecAPYvwKv9M) | 4:10 |
-| 42 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 |
-| 43 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
+| 42 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
+| 43 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 |
 | 44 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 |
 | 45 | [Kau Selalu Di Hati](https://open.spotify.com/track/0rWP5ruLWqfARc6lOr0XXv) | [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Symphony From The Heart](https://open.spotify.com/album/4JeqOC5WYg5h6dEOgD1dTL) | 4:11 |
-| 46 | [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 |
-| 47 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
+| 46 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 |
+| 47 | [Seni Berdamai Dengan Takdir](https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt) | [Naim Daniel](https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO), [Adnin Roslan](https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg) | [Seni Berdamai Dengan Takdir](https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y) | 3:55 |
 | 48 | [Katakan Saja](https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Katakan Saja](https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH) | 3:56 |
 | 49 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 |
 | 50 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 |
 
-Snapshot ID: `AAAAAEghcCQGX44n/w4+naJkC+WW8Lpe`
+Snapshot ID: `AAAAAG88b1qUjbCBC0Oc2wSCjb8Kv2+I`

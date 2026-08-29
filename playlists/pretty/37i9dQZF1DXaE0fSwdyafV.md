@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,460 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,465 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 34 | [Hearing Damage](https://open.spotify.com/track/1fTtPH0xGwFOXM5VlkxOX1) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Hearing Damage](https://open.spotify.com/album/5SCfET4lGs65o4Jgb7hZ2f) | 5:03 |
 | 35 | [Cosmic Love](https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:15 |
 | 36 | [Roseblood](https://open.spotify.com/track/2qV5Ce0sMlFsrseRO5CTMU) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:51 |
-| 37 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 |
-| 38 | [Fallingwater](https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:31 |
+| 37 | [Fallingwater](https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 4:31 |
+| 38 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 |
 | 39 | [Right Down the Line](https://open.spotify.com/track/5wnIDrgujfOoHAHXVRpUMF) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/0ZD5b1lLNLZH8rMq1bOhkh) | 4:27 |
 | 40 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
 | 41 | [notre dame](https://open.spotify.com/track/4ni2PRjuIORNFXvWB74SqX) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [notre dame](https://open.spotify.com/album/6FG85HWGBfk6AbHszOjuSN) | 4:18 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 65 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 |
 | 66 | [Dog's Dinner](https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Dog's Dinner](https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1) | 3:45 |
 | 67 | [Midnight](https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn) | [Toby Sebastian](https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP), [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Midnight](https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd) | 4:45 |
-| 68 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
-| 69 | [willow \- moonlit witch version](https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(moonlit witch version\)](https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0) | 3:28 |
+| 68 | [willow \- moonlit witch version](https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(moonlit witch version\)](https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0) | 3:28 |
+| 69 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
 | 70 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 |
 | 71 | [Waking The Witch](https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:18 |
 | 72 | [Same Old Energy](https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Same Old Energy](https://open.spotify.com/album/6omiQi8kZwpEznvECFHDj0) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 74 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 75 | [Lavender Moon](https://open.spotify.com/track/3WqYzk6Z6rwb7GPrxTZdYA) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [These Open Roads](https://open.spotify.com/album/52LjU6ZDq3LnLnSgT0nc6k) | 2:09 |
 
-Snapshot ID: `AAAAAKebLIYk5Du/aaabLwHd/mzGDBZG`
+Snapshot ID: `AAAAAFDK3WZ0t9Ya1Xdh22e1xZaWYjK3`

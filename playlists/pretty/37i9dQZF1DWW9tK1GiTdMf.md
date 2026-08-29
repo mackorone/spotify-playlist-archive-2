@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un'estate non proprio felice \(rob in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,781 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,809 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 99 | [incandescente](https://open.spotify.com/track/68zUvet48ksuYWhAXGEg0A) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [incandescente](https://open.spotify.com/album/0GZMU5LlRwJp0XvkG2NuN8) | 2:29 |
 | 100 | [x te che mi conosci così bene](https://open.spotify.com/track/2r8Aj7dh7AJ9FLN2fXsiFZ) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:07 |
 
-Snapshot ID: `AAAAANE1cJyI8oLkrbHS7aoIPo1NwTgg`
+Snapshot ID: `AAAAAD5kv/2B4vguh83Jsu245VZmTYXn`

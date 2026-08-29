@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,492 likes - 255 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,513 likes - 255 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 254 | [Oceanic](https://open.spotify.com/track/3NK2qtl4nT2Nq8gWNpXpL8) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Oceanic](https://open.spotify.com/album/1tTu5Cprc3ym9DZAlIRYlR) | 3:34 |
 | 255 | [Restore](https://open.spotify.com/track/0CjdyGv7FmgvNAYszIAx45) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Restore](https://open.spotify.com/album/3PfUsCJRKCtXdShHmcOG09) | 3:03 |
 
-Snapshot ID: `AAAAAKb0slrgoMEqr7IXuKpo0igzVnbn`
+Snapshot ID: `AAAAAGwR42FhC9MYmV8rIrZlAnBCLG6W`

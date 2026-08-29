@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 249617,
+  "num_followers": 249631,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAA6RbhkwmX1a7SR2qcX3eGU",
+  "snapshot_id": "ao9+AAAAAAA0Orwj0Xk+EWZ1OUPJpfuV",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music From and Inspired by The Film Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0JDBCK1VDNacLmb49NCG9V"
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 167612,
-      "name": "G\u00e9n\u00e9rique - Mono Version",
-      "url": "https://open.spotify.com/track/1hh6s2tQuxdnaHET2hlNSH"
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Music From and Inspired by The Film Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0JDBCK1VDNacLmb49NCG9V"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 193546,
-      "name": "Jeru",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
+      "duration_ms": 167612,
+      "name": "G\u00e9n\u00e9rique - Mono Version",
+      "url": "https://open.spotify.com/track/1hh6s2tQuxdnaHET2hlNSH"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 197426,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/25H0Wd1ugPRXGM2LlpjVXM"
+      "duration_ms": 200296,
+      "name": "Moon Dreams",
+      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 200296,
-      "name": "Moon Dreams",
-      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
+      "duration_ms": 197426,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/25H0Wd1ugPRXGM2LlpjVXM"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "Venus De Milo",
+      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seven Steps To Heaven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 225146,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/1NPbR9xEe9mtaW4wRkryPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Venus De Milo",
-      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Deception",
+      "url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miles Ahead (Expanded Edition)",
         "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 145562,
       "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "Deception",
-      "url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 154340,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
       "duration_ms": 172330,
       "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
+        "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 372332,
+      "name": "Blue Haze - Remastered 2024",
+      "url": "https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
-        "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 372332,
-      "name": "Blue Haze - Remastered 2024",
-      "url": "https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO"
+      "duration_ms": 297440,
+      "name": "The Doo-Bop Song",
+      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "The Doo-Bop Song",
-      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 253933,
       "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
       "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
     },
     {
       "added_at": null,
@@ -903,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
       },
       "artists": [
         {
@@ -912,9 +928,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
+      "duration_ms": 214866,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3"
     },
     {
       "added_at": null,
@@ -935,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
       "artists": [
         {
@@ -944,9 +960,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 214866,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/39ctrlu5OoDcVzP0nHvmv3"
+      "duration_ms": 129680,
+      "name": "Julien dans l'ascenseur - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/187EUpV70OeUMCGwz1GaT7"
     },
     {
       "added_at": null,
@@ -983,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+        "name": "Embraceable",
+        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
       },
       "artists": [
         {
@@ -992,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 129680,
-      "name": "Julien dans l'ascenseur - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/187EUpV70OeUMCGwz1GaT7"
+      "duration_ms": 243600,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
     },
     {
       "added_at": null,
@@ -1015,18 +1031,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Embraceable",
-        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Philly Joe Jones",
+          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
         }
       ],
-      "duration_ms": 243600,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
+      "duration_ms": 635066,
+      "name": "Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
+      "url": "https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo"
     },
     {
       "added_at": null,
@@ -1075,42 +1111,6 @@
       "duration_ms": 385554,
       "name": "Seven Steps to Heaven (2023 Remaster)",
       "url": "https://open.spotify.com/track/2PiU9VQ0VrJnv6EciQTC09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milestones",
-        "url": "https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Philly Joe Jones",
-          "url": "https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1"
-        }
-      ],
-      "duration_ms": 635066,
-      "name": "Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones)",
-      "url": "https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo"
     }
   ],
   "unique_name": "This Is Miles Davis",

@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 129122,
+  "num_followers": 129126,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAIGUeb83/IJslZV9kLiEef",
+  "snapshot_id": "ao9+AAAAAAAZS6Z7ulAH+OVNJ5UWetWm",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 149560,
-      "name": "Heaven Can Wait - Remastered 1998",
-      "url": "https://open.spotify.com/track/291IQsv9uraExolqtoRczv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream with Dean",
         "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 187210,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1ccv4yQDq8ouWV3fhwlVIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Heaven Can Wait - Remastered 1998",
+      "url": "https://open.spotify.com/track/291IQsv9uraExolqtoRczv"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Just In Time - Remastered 1998",
-      "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Italian Love Songs",
         "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 164520,
       "name": "Return To Me - Remastered 1998",
       "url": "https://open.spotify.com/track/4RzCYG7FBPLG5TrIo0GsZq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Just In Time - Remastered 1998",
+      "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 130253,
-      "name": "Mean To Me - Remastered/1998",
-      "url": "https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 183560,
       "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
       "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 130253,
+      "name": "Mean To Me - Remastered/1998",
+      "url": "https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "I've Grown Accustomed To Her Face - Remastered 1998",
-      "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Reprise Years",
         "url": "https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 156173,
       "name": "Gentle on My Mind",
       "url": "https://open.spotify.com/track/0znQyUrJwmuLenUzJXawEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "I've Grown Accustomed To Her Face - Remastered 1998",
+      "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
-        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 8 (1957-1958)",
+        "url": "https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 175506,
-      "name": "The Man Who Plays The Mandolino",
-      "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
+      "duration_ms": 136493,
+      "name": "Good Mornin' Life",
+      "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 8 (1957-1958)",
-        "url": "https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
+        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 136493,
-      "name": "Good Mornin' Life",
-      "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
+      "duration_ms": 175506,
+      "name": "The Man Who Plays The Mandolino",
+      "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(Remember Me) I'm the One That Loves You",
         "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream with Dean",
         "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 185396,
       "name": "Fools Rush In",
       "url": "https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "I Have But One Heart ('O Marenariello) - Remastered 1998",
-      "url": "https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
       "duration_ms": 129660,
       "name": "The Birds and the Bees",
       "url": "https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "I Have But One Heart ('O Marenariello) - Remastered 1998",
+      "url": "https://open.spotify.com/track/0Um5yRo7dOIKpIQpGKT4mW"
     },
     {
       "added_at": null,

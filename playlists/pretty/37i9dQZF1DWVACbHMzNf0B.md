@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Grupo Aztteca, Luis R Conriquez y Oscar Maydon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,204 likes - 76 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,246 likes - 76 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 5 | [Mi Problema](https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Mi Problema](https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM) | 3:26 |
 | 6 | [holanda \- Remix](https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [holanda \(Remix\)](https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ) | 3:07 |
 | 7 | [Aprevenido](https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Aprevenido](https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK) | 2:49 |
-| 8 | [Mi Talisman \(En Vivo\)](https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza 2 \(En Vivo\)](https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2) | 3:14 |
+| 8 | [Mi Talisman \- En Vivo](https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza 2 \(En Vivo\)](https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2) | 3:14 |
 | 9 | [Fotografía](https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Fotografía](https://open.spotify.com/album/21uioYBhTjhGisiKunbldo) | 3:32 |
 | 10 | [AMIGOS CON DERECHOS](https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [AMIGOS CON DERECHOS](https://open.spotify.com/album/0LHeMCF4tu558UiIoxzvW2) | 2:48 |
 | 11 | [Voy Llegando a tu Ciudad](https://open.spotify.com/track/25Um6XtI3adYkxZpl1qtQE) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Experto](https://open.spotify.com/album/1jbw7dNHbODAxiWgugRRdF) | 2:51 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 14 | [Yo Quisiera](https://open.spotify.com/track/7dG0TMDhWaeHR61gxoXYCw) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Yo Quisiera](https://open.spotify.com/album/20uCRRslyc74g3Qga3M5oM) | 2:39 |
 | 15 | [La Güera](https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Güera](https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY) | 2:38 |
 | 16 | [Quererte Jamás](https://open.spotify.com/track/5fJripoipdaljU9HbCl3JH) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz), [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Banda la Promesa](https://open.spotify.com/artist/7xLUkD2QgASlLrCp0MGb2G) | [Quererte Jamás](https://open.spotify.com/album/7KexnsyqE68Hye1yw847AY) | 4:26 |
-| 17 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
+| 17 | [Tus Mentiras \- En Vivo](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 18 | [Primer Tiempo](https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Primer Tiempo](https://open.spotify.com/album/0A4OediUQq2lXiFq0OB7gX) | 3:32 |
 | 19 | [Amor Del Bueno \(con Alfredo Olivas\)](https://open.spotify.com/track/5ckl6DcMSiDJV80U1uPhVP) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [A Caballo](https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH) | 4:22 |
 | 20 | [Una vida juntos](https://open.spotify.com/track/5t4jQPNGUqciQDDxXEnQKr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 3:14 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 75 | [Bolsita Cara](https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC) | [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3), [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Bolsita Cara](https://open.spotify.com/album/3RVp9B94uoddtDyGUtJcIg) | 2:56 |
 | 76 | [INTOCABLE](https://open.spotify.com/track/54brOymWBGRCDOWhBWzA5m) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [STAR](https://open.spotify.com/album/5YH266XRF5JlrgqzvwIiGX) | 2:33 |
 
-Snapshot ID: `AAAAABTY3XvD8PXo0s/OUFqk0c7H3M6d`
+Snapshot ID: `AAAAAIGt9Acbt2Jd8RrVk1ACu6c0H8RS`

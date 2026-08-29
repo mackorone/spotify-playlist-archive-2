@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > La tierra del Rap de oro puro\. Russo, Luis R Conriquez, Millonario y Esau Ortiz dominando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,058 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,032 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 | 99 | [Ni Muy Muy Ni Tan Tan](https://open.spotify.com/track/083IcGzprHpWcVhJHa3uo3) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Nosotros Somos la Under Side Karnal](https://open.spotify.com/album/4LN7uKoNSYT7FGiqlL5IWf) | 5:08 |
 | 100 | [Toma 1](https://open.spotify.com/track/6tzvSqAhZ0PbvCGcGG8mqu) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Toma 1](https://open.spotify.com/album/7iljZj5qiQMzlARfZQZpy2) | 3:14 |
 
-Snapshot ID: `AAAAAAW4JCBreIGn4RArvnk+o+meXhnV`
+Snapshot ID: `AAAAAKbsz8uoe1yVya2/ioyWNRzq0276`

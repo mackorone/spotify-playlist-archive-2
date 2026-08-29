@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Numidia & John West! <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,494 likes - 105 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,521 likes - 105 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 104 | [Menens](https://open.spotify.com/track/2gasGNrOoOHqb9gTJG4TJx) | [Mike Appelhof](https://open.spotify.com/artist/0bw5QUWR6fvaH1b5xf1CeQ) | [Menens](https://open.spotify.com/album/0cxgnecX7oaz2qOhnnjhcd) | 2:18 |
 | 105 | [Vespa](https://open.spotify.com/track/2zvXfv3Cog6MIVEnPDzbp4) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Vespa](https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb) | 3:04 |
 
-Snapshot ID: `AAAAAHdH1Alb3Oto9RiN0X+jtix3zTQ+`
+Snapshot ID: `AAAAACjfmpPmPTWVz2J4VgGG1jdy9F46`

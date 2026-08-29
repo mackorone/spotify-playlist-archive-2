@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Alex Warren, Olivia Rodrigo, Dominic Fike, JENNIE and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,617,879 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,621,549 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 47 | [Insignificant Other](https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Insignificant Other](https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib) | 5:53 |
 | 48 | [HOLD DA PHONE](https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [HOLD DA PHONE](https://open.spotify.com/album/6zGGxrZeYbEk5Z6jRMtaPp) | 3:23 |
 | 49 | [Night In The Bay](https://open.spotify.com/track/1KSceDg85mLYqcapxZNJie) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [Turning My Money Over \(Quadruple Album\)](https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239) | 2:51 |
-| 50 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 |
+| 50 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 51 | [Still Got It](https://open.spotify.com/track/6Yy1aAOIzSYpgnDmHP56SS) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [If Tomorrow Never Comes](https://open.spotify.com/album/2U8t17lwEvHWA24V0b0bcf) | 2:58 |
 | 52 | [Over You](https://open.spotify.com/track/0Se6UXsaDBMJJaxy4FV4a6) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Breaking Point EP](https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK) | 3:05 |
 | 53 | [Everybody Told Me](https://open.spotify.com/track/5X913iypPGaXfBAFDYVwyN) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [GOTTA GET OUT](https://open.spotify.com/album/3mzfWcRxRWAstm92UwJ9td) | 4:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [CRACK](https://open.spotify.com/track/4N9GQEezDsNG5tYJfNqyCK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ante el Umbral del Peligro No Siento Temor](https://open.spotify.com/album/73s0yQJIP64mS3dnvPBxU8) | 3:13 |
 | 100 | [Blue Brush\-Footed Butterfly](https://open.spotify.com/track/2QVpQ3lEaAuOOnhZRffYh3) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/0O2BBZ5P4ljzLyyYfSVedH) | 3:15 |
 
-Snapshot ID: `AAAAAJ5EKuLhA1XBUskYOPQ316LzRHEt`
+Snapshot ID: `AAAAAKlPp3W5PSmwTr8XpzgPXpUt6CFS`

@@ -6,7 +6,7 @@
     "name": "BLK OUT",
     "url": "https://open.spotify.com/user/e97cbvfmxaxk9vaals1a70zla"
   },
-  "snapshot_id": "AAAAZ74W8gnW/Jbsv1Xz7ucE9eoTCJbh",
+  "snapshot_id": "AAAAaHzoBpIXA64ISHTtPbtSQPD4yQJ9",
   "tracks": [
     {
       "added_at": "2023-12-14 18:50:16",
@@ -1199,6 +1199,26 @@
       "duration_ms": 194488,
       "name": "Back To You (feat. Emi Grace)",
       "url": "https://open.spotify.com/track/2XDmP2r2wd3qSuZ2vu3z7k"
+    },
+    {
+      "added_at": "2026-08-28 18:03:36",
+      "album": {
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/5IP47RsJU4dEmmJojrhF7K"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "fkblnde",
+          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
+        }
+      ],
+      "duration_ms": 224370,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/04Ya6RPms2RppYRKKvxb9U"
     }
   ],
   "unique_name": "Work From House",

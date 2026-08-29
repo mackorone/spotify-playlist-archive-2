@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,040 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,043 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 53 | [Primabalerina](https://open.spotify.com/track/4WH0yDfn9CfE1usPV3sBMu) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Primabalerina](https://open.spotify.com/album/5r4vJdsoDzDmFPFKdaoY1d) | 3:07 |
 | 54 | [Na szeroką wodę](https://open.spotify.com/track/377YrfXWzy5s3JVUveRITI) | [Roxie](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [Na szeroką wodę](https://open.spotify.com/album/6CXUDCiPhg6n3pUpueBZgJ) | 2:38 |
 | 55 | [Flora](https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN) | [Flora](https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K) | 3:30 |
-| 56 | [YEYEYO \- the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™](https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [YEYEYO \(the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™\)](https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo) | 2:27 |
-| 57 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
+| 56 | [Maj](https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1) | [Michał Szpak](https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4) | [Maj](https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi) | 3:31 |
+| 57 | [YEYEYO \- the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™](https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [YEYEYO \(the Official Song of the FIFA U\-20 Women's World Cup Poland 2026™\)](https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo) | 2:27 |
 | 58 | [Póki Mam Ciebie](https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [IMI](https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Póki Mam Ciebie](https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy) | 2:20 |
 | 59 | [Widzę Cię](https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6) | [Diiya](https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx) | [Widzę Cię](https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL) | 2:23 |
 | 60 | [A Nuż](https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Światłocienie EP](https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw) | 2:41 |
 
-Snapshot ID: `AAAAAA4FSpb4gCJ4lOpxmAhBkJNUxsf4`
+Snapshot ID: `AAAAAKmJx4drtVNM9uY3qAA5vONiXART`

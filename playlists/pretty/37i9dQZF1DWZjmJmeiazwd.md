@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,279 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,350 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 55 | [Crawl Back To My Coffin](https://open.spotify.com/track/7rhDDCVryx9frLUnXSgrZ5) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Creature In The Black Night](https://open.spotify.com/album/331dpokIUtNiVsUuDPLl9h) | 4:02 |
 | 56 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |
 | 57 | [2005](https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [2005](https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE) | 3:23 |
-| 58 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 |
-| 59 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
+| 58 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
+| 59 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 |
 | 60 | [Way down We Go](https://open.spotify.com/track/7aUuoq4oMfLxaLa5GVUDHi) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Way down We Go](https://open.spotify.com/album/28I1XWP7hYWdexJnuXE9HE) | 3:39 |
 | 61 | [Do Me Like That](https://open.spotify.com/track/1y6lq1wrAspWEgRJmYb11S) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Do Me Like That](https://open.spotify.com/album/0K6JEVAdFzj7ZVT2raDeYr) | 3:31 |
 | 62 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 85 | [S!CK](https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 3:12 |
 | 86 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 |
 | 87 | [ATTN.](https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface \(Deluxe Edition\)](https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM) | 3:23 |
-| 88 | [Sing To Me](https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Sing To Me](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z) | 3:09 |
-| 89 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
+| 88 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
+| 89 | [Sing To Me](https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Sing To Me](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z) | 3:09 |
 | 90 | [FREEFALL \(feat\. Chris Daughtry\)](https://open.spotify.com/track/2gjgAWkkeM8u849gkTV9ow) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [CARNAL \(Deluxe\)](https://open.spotify.com/album/6bo0qsybdHj6lP2Hr0flUj) | 3:46 |
 | 91 | [Atlas Falls](https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Atlas Falls](https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV) | 3:12 |
 | 92 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 99 | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 |
 | 100 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 |
 
-Snapshot ID: `AAAAAMj8j5wWZ4z+za6uzQ27Z5UPS5uJ`
+Snapshot ID: `AAAAAM5bVsuHPm2HDBPv7hms+ZuA4FqP`

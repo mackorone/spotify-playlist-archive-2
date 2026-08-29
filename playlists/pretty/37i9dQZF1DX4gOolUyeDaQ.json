@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Al agua! Nosotros ponemos la m\u00fasica.",
-  "num_followers": 497441,
+  "num_followers": 497440,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM7l32v/qlKUN/IJ6W56MrLtkQYf",
+  "snapshot_id": "AAAAABVupIP2kbmblKxLBTjSgsDLbZ/w",
   "tracks": [
     {
       "added_at": "2025-06-06 18:29:24",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 215280,
       "name": "Circles",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
         }
       ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -1303,42 +1323,6 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1363,6 +1347,22 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1727,18 +1727,34 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1759,6 +1775,22 @@
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1795,38 +1827,6 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -1887,22 +1887,6 @@
       "duration_ms": 232653,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2035,6 +2019,22 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
       "added_at": "2025-06-06 18:29:24",
@@ -2391,26 +2391,6 @@
     {
       "added_at": "2025-06-06 18:29:24",
       "album": {
-        "name": "One Right Now",
-        "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "One Right Now (with The Weeknd)",
-      "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
-    },
-    {
-      "added_at": "2025-06-06 18:29:24",
-      "album": {
         "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
         "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
       },
@@ -2443,6 +2423,26 @@
       "duration_ms": 258600,
       "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
+    },
+    {
+      "added_at": "2025-06-06 18:29:24",
+      "album": {
+        "name": "One Right Now",
+        "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "One Right Now (with The Weeknd)",
+      "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
     },
     {
       "added_at": "2025-06-06 18:29:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSNirXzsHRX.md) - [plain]
 
 > Den bedste rock playliste i Danmark!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,102 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,097 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSNirXzsHRX.md) - [plain]
 | 79 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 |
 | 80 | [When I Come Around](https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:58 |
 
-Snapshot ID: `AAAAAABsvinvPJQd/Bh8o58PBQA/zjd6`
+Snapshot ID: `AAAAAJylGtIYm/7Ua1upXBW5oNlAO1M+`

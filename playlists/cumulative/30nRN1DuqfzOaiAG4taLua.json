@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/5IP47RsJU4dEmmJojrhF7K"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "fkblnde",
+          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224370,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/04Ya6RPms2RppYRKKvxb9U"
+    },
+    {
+      "album": {
         "name": "Frikitona",
         "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
       },

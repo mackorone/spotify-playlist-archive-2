@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Cabron
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,515 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,523 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 33 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 |
 | 34 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
 | 35 | [FURAM CURENT](https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Radu Guran](https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9) | [FURAM CURENT](https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw) | 3:31 |
-| 36 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
-| 37 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
+| 36 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
+| 37 | [OCHI ALBAȘTRI](https://open.spotify.com/track/2TPCbtaXlKvgyBOedKQ3yX) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Bianca Ionescu](https://open.spotify.com/artist/6FjEnxqyibwj2OM2WQg8hU) | [OCHI ALBAȘTRI](https://open.spotify.com/album/6ZhrWAL2jz0MqctVKSayK3) | 3:52 |
 | 38 | [Ani Și Ani La Rând](https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Ciresan](https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy) | [Ani Și Ani La Rând](https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV) | 3:20 |
 | 39 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 |
 | 40 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 49 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 |
 | 50 | [Scandal](https://open.spotify.com/track/1XaX10K3ed5guoy4sNgfTM) | [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [Bahoi](https://open.spotify.com/artist/0amWfb7MqNPnGi4SdCucIj), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Scandal](https://open.spotify.com/album/2IDxe57SCMfEJqfX4Vssph) | 3:31 |
 
-Snapshot ID: `AAAAAF+Cjgt05OSUHp5Wm0ZMdCKZ4tc8`
+Snapshot ID: `AAAAANASnxmOjZR4jIrTURIBbqdII642`

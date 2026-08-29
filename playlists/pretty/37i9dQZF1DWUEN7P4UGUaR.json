@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 18404,
+  "num_followers": 18409,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0bWjz8Va7XGSPRQ/YtB7KPmTNa",
+  "snapshot_id": "AAAAAHj4uZ2Cxc3P1+RcKf9N6zomfJz3",
   "tracks": [
     {
       "added_at": "2026-03-12 23:38:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Okrokrohene",
-        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 366107,
-      "name": "Okrokrohene",
-      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "Guide Me",
         "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227258,
       "name": "Guide Me",
       "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Okrokrohene",
+        "url": "https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 366107,
+      "name": "Okrokrohene",
+      "url": "https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "REBIRTH (Mary's Child)",
-        "url": "https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t"
-      },
-      "artists": [
-        {
-          "name": "Ewura Abena",
-          "url": "https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ"
-        }
-      ],
-      "duration_ms": 259752,
-      "name": "Show Them",
-      "url": "https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
         "name": "FAKY3 ME",
         "url": "https://open.spotify.com/album/6fwyJzUNTd0eEoJENZXnlT"
       },
@@ -447,22 +431,18 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Ote Me Mu",
-        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
+        "name": "REBIRTH (Mary's Child)",
+        "url": "https://open.spotify.com/album/2wdYkIbwZzoEw2L5m29G9t"
       },
       "artists": [
         {
-          "name": "Ohemaa Mercy",
-          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
-        },
-        {
-          "name": "MOG",
-          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
+          "name": "Ewura Abena",
+          "url": "https://open.spotify.com/artist/66omcxaARiacfGoXuXiHXQ"
         }
       ],
-      "duration_ms": 275551,
-      "name": "Ote Me Mu",
-      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
+      "duration_ms": 259752,
+      "name": "Show Them",
+      "url": "https://open.spotify.com/track/1bVjodrkljnU6ROYr8PIrz"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -479,6 +459,26 @@
       "duration_ms": 414000,
       "name": "Nya Gyidi",
       "url": "https://open.spotify.com/track/2gzifUVRtwtwyoe3SzsN87"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
+        "name": "Ote Me Mu",
+        "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
+      },
+      "artists": [
+        {
+          "name": "Ohemaa Mercy",
+          "url": "https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s"
+        },
+        {
+          "name": "MOG",
+          "url": "https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf"
+        }
+      ],
+      "duration_ms": 275551,
+      "name": "Ote Me Mu",
+      "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
+        "name": "Deeper Touch",
+        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
+      },
+      "artists": [
+        {
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+        }
+      ],
+      "duration_ms": 781930,
+      "name": "Deeper Medley",
+      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 218928,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
-        "name": "Deeper Touch",
-        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
-      },
-      "artists": [
-        {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
-        }
-      ],
-      "duration_ms": 781930,
-      "name": "Deeper Medley",
-      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
-        "name": "Medaase",
-        "url": "https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj"
+        "name": "The Prodigal Son",
+        "url": "https://open.spotify.com/album/0V8fKBOCPB9xJuQt3j8cOQ"
       },
       "artists": [
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
         }
       ],
-      "duration_ms": 199755,
-      "name": "Medaase",
-      "url": "https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w"
+      "duration_ms": 157000,
+      "name": "Man on a Mission",
+      "url": "https://open.spotify.com/track/0XeKqPjspgM5eAOhaCNMwL"
     }
   ],
   "unique_name": "Aseda",

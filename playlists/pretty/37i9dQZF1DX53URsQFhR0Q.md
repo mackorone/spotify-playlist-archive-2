@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,671 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,679 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 28 | [Nyame Do Me](https://open.spotify.com/track/38phUOSqABmZbQwFVzQ1QZ) | [Isaac Ampong](https://open.spotify.com/artist/7KnEsTKSEB2oUgYW2fsXho) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:24 |
 | 29 | [Bue Kwan Ma Me](https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 6:17 |
 | 30 | [Di Wo Hene](https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:28 |
-| 31 | [Akokyem Nyame](https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 3:24 |
+| 31 | [Wobeye Kese \- Version 1](https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Wobeye Kese](https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT) | 4:58 |
 | 32 | [Go Higher](https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:55 |
-| 33 | [Wobeye Kese \- Version 1](https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Wobeye Kese](https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT) | 4:58 |
+| 33 | [Osoro Ne Yefie](https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B) | [Florence Obinim](https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO) | [Osoro Ne Yefie](https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx) | 7:14 |
 | 34 | [Enyi Me Mma](https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:31 |
-| 35 | [Metease yi](https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [My Vision](https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK) | 5:31 |
-| 36 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
+| 35 | [Akokyem Nyame](https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 3:24 |
+| 36 | [Metease yi](https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [My Vision](https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK) | 5:31 |
 | 37 | [Mo Ne Yo](https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 4:29 |
 | 38 | [Nyame Eguamba](https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 5:05 |
 | 39 | [ADOM BI](https://open.spotify.com/track/1265RZfD3yji9xZ123cFUL) | [No Tribe](https://open.spotify.com/artist/6ocbT2YYie059c1m8axmG1) | [The Altar](https://open.spotify.com/album/6aGS6hhyjFgwrO1voxYyk4) | 4:18 |
-| 40 | [Yesu Do](https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [Yesu Do](https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k) | 5:50 |
-| 41 | [Bo Noo Ni \(feat\. Luigi Maclean\)](https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:48 |
+| 40 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
+| 41 | [Yesu Do](https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [Yesu Do](https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k) | 5:50 |
 | 42 | [Adehye Mogya](https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV) | [Anita Afriyie](https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5) | [My Testimony 2015 \- 2017](https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y) | 5:25 |
 | 43 | [Awanwan Do](https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 6:17 |
 | 44 | [Okura Yen Mu](https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Mahunu Awurade](https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS) | 5:59 |
-| 45 | [Ayeyi](https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd), [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [I Am Noble](https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF) | 4:04 |
-| 46 | [Ayeyi Ndowm](https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [Sacrifice](https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm) | 6:18 |
-| 47 | [E Be God](https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [The Counselor I](https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry) | 5:06 |
+| 45 | [Bo Noo Ni \(feat\. Luigi Maclean\)](https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:48 |
+| 46 | [Ayeyi](https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd), [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [I Am Noble](https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF) | 4:04 |
+| 47 | [Ayeyi Ndowm](https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1) | [Dsp Kofi Sarpong](https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el) | [Sacrifice](https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm) | 6:18 |
 | 48 | [Awurade Kasa](https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 7:42 |
 | 49 | [Ebenezer](https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:14 |
-| 50 | [Adam Nana](https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE) | [Prof\. Kofi Abraham](https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI) | [Wahwe Meso](https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl) | 4:58 |
+| 50 | [E Be God](https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [The Counselor I](https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry) | 5:06 |
 
-Snapshot ID: `AAAAAD2igyVz+QLNX0LDluOt428+pNAI`
+Snapshot ID: `AAAAAEw8sjcLqwtyvAcwlhpjLsgTPfHY`

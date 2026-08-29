@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15333,
+  "num_followers": 15337,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHY3hllM5TnZnnbxqygLEtk9AwtS",
+  "snapshot_id": "AAAAAOhUEqvLQ3wYdifaATujrNwRnZwP",
   "tracks": [
     {
       "added_at": "2026-07-24 08:44:23",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-07-24 08:44:23",
       "album": {
-        "name": "The Movie Star",
-        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
-      },
-      "artists": [
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        },
-        {
-          "name": "C JAMM",
-          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "Transcend (Feat. C JAMM)",
-      "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
-    },
-    {
-      "added_at": "2026-07-24 08:44:23",
-      "album": {
         "name": "After a few summers (My love X TOIL, Gist)",
         "url": "https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 177466,
       "name": "After a few summers (My love X TOIL, Gist)",
       "url": "https://open.spotify.com/track/2883Ewc2bLnXl77u6sANcP"
+    },
+    {
+      "added_at": "2026-07-24 08:44:23",
+      "album": {
+        "name": "The Movie Star",
+        "url": "https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Transcend (Feat. C JAMM)",
+      "url": "https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN"
     },
     {
       "added_at": "2026-07-24 08:44:23",

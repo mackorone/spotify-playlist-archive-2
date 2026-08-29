@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,497 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,640 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 6 | [Yo Era Poesía](https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Yo Era Poesía](https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5) | 3:14 |
 | 7 | [La Nena](https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:55 |
 | 8 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 |
-| 9 | [Lejos Estamos Mejor](https://open.spotify.com/track/2nitwmNHjes0WPAiOe0gnH) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 2:58 |
-| 10 | [Consejos Gratis](https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:22 |
+| 9 | [Consejos Gratis](https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:22 |
+| 10 | [Lejos Estamos Mejor](https://open.spotify.com/track/2nitwmNHjes0WPAiOe0gnH) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 2:58 |
 | 11 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 |
 | 12 | [Me Hace Tanto Bien](https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 3:51 |
 | 13 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 18 | [CCC \- Remix](https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CCC \(Remix\)](https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo) | 2:27 |
 | 19 | [Peca de Bonita](https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:22 |
 | 20 | [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 |
-| 21 | [MONEY EDITION](https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MONEY EDITION](https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i) | 2:38 |
-| 22 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
+| 21 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
+| 22 | [MONEY EDITION](https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MONEY EDITION](https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i) | 2:38 |
 | 23 | [Cómo Estás Tú](https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:04 |
 | 24 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
 | 25 | [Llorar Por Ella](https://open.spotify.com/track/3VVQwgH72ke5lwjuHKMgdb) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [GARCÍA](https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 49 | [Piedras a la Luna](https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:12 |
 | 50 | [Cómo Me Duele \- En Vivo](https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:38 |
 
-Snapshot ID: `ao4sgAAAAADG4QAKVoFFMYLmLuvweN8s`
+Snapshot ID: `ao9+AAAAAADWDZhrfV08HMlGF2r/AEiz`

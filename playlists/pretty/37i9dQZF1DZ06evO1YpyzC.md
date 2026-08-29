@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,192 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,193 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 5 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
 | 6 | [Heaven](https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 2:57 |
 | 7 | [Never Been In Love \(feat\. Kane Brown\)](https://open.spotify.com/track/6z7rUFycJ1zwnaJ5h1idmV) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Been In Love](https://open.spotify.com/album/2InZ67EN10T7DEZIIkiV3I) | 2:51 |
-| 8 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 |
-| 9 | [Famous Friends](https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 2:46 |
+| 8 | [Famous Friends](https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a) | 2:46 |
+| 9 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 |
 | 10 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 |
 | 11 | [Like I Love Country Music](https://open.spotify.com/track/5C9jQ8ikTOieveuORd8wlf) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 3:54 |
 | 12 | [Good as You](https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:12 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 24 | [Short Skirt Weather](https://open.spotify.com/track/6PN7QeNItfzZBpCTQvsLyq) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:14 |
 | 25 | [Grand](https://open.spotify.com/track/36ckQ6GqvcqeYeiWBnl6uz) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:58 |
 | 26 | [Unspoken](https://open.spotify.com/track/5m3lptQnLIvBiw4188J1Tu) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Unspoken](https://open.spotify.com/album/44BqM9BOuRg6RHjZAfpYxB) | 2:39 |
-| 27 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 |
-| 28 | [Worship You](https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worship You](https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt) | 3:25 |
+| 27 | [Worship You](https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worship You](https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt) | 3:25 |
+| 28 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 |
 | 29 | [What's Mine Is Yours](https://open.spotify.com/track/1cG3sQOVItzKsvHzkCzuke) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown \(Deluxe Edition\)](https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp) | 3:36 |
 | 30 | [Cool Again](https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Cool Again](https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9) | 2:44 |
 | 31 | [Saturday Nights REMIX](https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Saturday Nights REMIX](https://open.spotify.com/album/5lvoXvi6z9JX8blblImfsb) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 49 | [Rescue](https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:02 |
 | 50 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 |
 
-Snapshot ID: `ao4sgAAAAACA50t0nrDZQdnfmf1PHUcX`
+Snapshot ID: `ao9+AAAAAADzmuZO9bbu7xju1YDBm73D`

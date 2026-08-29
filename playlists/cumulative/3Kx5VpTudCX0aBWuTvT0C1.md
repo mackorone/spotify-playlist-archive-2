@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-198 songs - 11 hr 31 min
+200 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Halfway to heaven](https://open.spotify.com/track/4nHu7yR8etHMqfZuWVO3q2) | [Honey Ruin](https://open.spotify.com/artist/2m4dcbfzc5WQDTZ6RAO8Lf) | [Halfway to heaven](https://open.spotify.com/album/2mjAWJp71ZsPIKjFdZU2oH) | 4:29 | 2025-11-06 | 2025-12-09 |
 | [Her inne er det varmt](https://open.spotify.com/track/1V90d44Q6zjSn5EhbJdT1O) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Bilder i mitt hode](https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX) | 3:39 | 2026-04-27 |  |
 | [Higher than fear](https://open.spotify.com/track/1CQJ3Bt4XV8KnZqw86KX0N) | [Neverfold](https://open.spotify.com/artist/0wPkHL9GwZEu6F7S2sznR7) | [Higher than fear](https://open.spotify.com/album/3bLk3opMkqg8EnakCiKZfS) | 4:22 | 2026-04-26 |  |
+| [Hippie Mod Girl](https://open.spotify.com/track/1qz2eta0XlOZ46pS0rcL5V) | [The Munyks](https://open.spotify.com/artist/0GyjNZOkGRCm5Ss6SRmPf9) | [Hippie Mod Girl](https://open.spotify.com/album/2M94LQrN0zNTmBSHTP8QpP) | 3:53 | 2026-08-28 |  |
 | [Holding](https://open.spotify.com/track/47NrciGzvU6RGZ3nVue5BE) | [Max1](https://open.spotify.com/artist/69b4ydZadh6w5FrfTm1Zwh) | [Against the FALL](https://open.spotify.com/album/0bEw8zPxgpXZlQzkdwTsQb) | 4:06 | 2025-11-02 | 2025-12-09 |
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-07 | 2025-12-09 |
 | [Home](https://open.spotify.com/track/6t43UbUBVc3a3X4sQLc2BJ) | [CALDAERA](https://open.spotify.com/artist/7e142HcUPLKYMr3krYaPKt) | [Home](https://open.spotify.com/album/6LGW8Mg243k9xtdhs3QxtK) | 4:16 | 2025-11-01 | 2025-12-09 |
@@ -190,6 +191,7 @@
 | [Why did I let you go](https://open.spotify.com/track/3B7xM5DqfNlIOym2uGUqUD) | [Slackers](https://open.spotify.com/artist/5NgRFqeU6NagIzRChIVNbD), [Chelsea](https://open.spotify.com/artist/6dwC8rZSP2lrdEprBcZfdH) | [Why did I let you go](https://open.spotify.com/album/4ATipqGp3uvMv6TFJzQDYd) | 3:49 | 2025-11-19 | 2026-03-15 |
 | [Wicked Wicked Ways](https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW), [Collin Hegna](https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab), [Federale](https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH) | [Wicked Wicked Ways](https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm) | 3:44 | 2026-05-27 |  |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2026-01-04 |  |
+| [Will](https://open.spotify.com/track/3Y7ek3umLkIb5hGcJLO9N4) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [Will](https://open.spotify.com/album/2Q6BfCI53rsu63f6TRTHQ9) | 3:34 | 2026-08-28 |  |
 | [WishaBich Woods \- Full Band Version](https://open.spotify.com/track/3sW1sOM2N6XI2TCvnZN0JK) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [WishaBich Woods \(Full Band Version\)](https://open.spotify.com/album/57O0Tb7laMbm0lPz9lAEy0) | 4:03 | 2026-07-12 |  |
 | [Working For The Man](https://open.spotify.com/track/13cFPU8k6jUOjckQL7EV4V) | [Big Peon](https://open.spotify.com/artist/1xK2Hek0OpY5J4NW5zwfNY) | [Working For The Man](https://open.spotify.com/album/5FUbgxqaocAOPbAxYinDmc) | 2:53 | 2025-11-07 | 2025-12-09 |
 | [Working Nights and Weekends](https://open.spotify.com/track/3BBs9GYT85irXh1iaaM02o) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Working Nights and Weekends](https://open.spotify.com/album/3j87mSrNLlK02e3fUTgiXi) | 3:23 | 2026-06-21 |  |

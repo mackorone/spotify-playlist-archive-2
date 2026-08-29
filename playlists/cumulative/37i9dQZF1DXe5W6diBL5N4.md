@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: NCT127\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,775 songs - 39 day 18 hr 35 min
+16,779 songs - 39 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -681,6 +681,7 @@
 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 | 2022-05-17 | 2022-05-28 |
 | [All I have left is separation](https://open.spotify.com/track/0E7W0Vxym2L4FiXRlsBmym) | [Panini Brunch](https://open.spotify.com/artist/2TMsQv3NaxJYcid3natcij) | [죽이고 싶은 나의 전복 왕자님 OST Part.13 \(Soundtrack\)](https://open.spotify.com/album/4R2AwCEtMKFcx479JbgGPb) | 4:29 | 2024-06-24 | 2024-08-09 |
 | [All I Need](https://open.spotify.com/track/1L0pXWUh7MmjJ9sEtvbH9W) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<All I Need>](https://open.spotify.com/album/2bGsKrRWnJmhnCdF8gc3uN) | 2:31 | 2026-02-11 | 2026-02-24 |
+| [All I Need](https://open.spotify.com/track/6C4VCBlI0P3wGLkwFv6B6y) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Yooin](https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn) | [All I Need](https://open.spotify.com/album/1maVhsxz8dqRmDLNrdj6ju) | 3:04 | 2026-08-28 |  |
 | [All I Need](https://open.spotify.com/track/4mLgj0pkZnudNYoKvqqojk) | [sion](https://open.spotify.com/artist/5yxj9pRLggnmnYR3Qqt9z3) | [All I Need](https://open.spotify.com/album/21XIza7luOTdrMCHwZ2ZZk) | 3:01 | 2025-07-23 | 2025-08-07 |
 | [All I need is you](https://open.spotify.com/track/4gw8yp7dYXKgzIPXMpRDpv) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [Three Siblings Bravely OST Part.12 \(Soundtrack\)](https://open.spotify.com/album/5UJ3pmRmzr2JutdPNrHF3C) | 3:47 | 2023-02-27 | 2023-03-28 |
 | [All I Need Is You](https://open.spotify.com/track/3lsapvOXrlQEbr1WWWXOK7) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [All I Need Is You](https://open.spotify.com/album/76UqiFsfcUEOcWq2b0IrCH) | 3:43 | 2025-07-10 | 2025-07-22 |
@@ -2864,6 +2865,7 @@
 | [Curry Song](https://open.spotify.com/track/2UYMQPMmjHgdfEoR4MJGXQ) | [Cho Hyung Woo](https://open.spotify.com/artist/2mJ89mSNpPIw2zX7LS4VEU) | [Curry Song](https://open.spotify.com/album/5Px2y5MarHWKdL4sbgReJW) | 2:15 | 2024-08-13 | 2024-09-20 |
 | [Curse \(Feat\. B JYUN\. ,Huiii\)](https://open.spotify.com/track/2VF1hoO6iFoqD7vvDKr9bx) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1), [Huiii](https://open.spotify.com/artist/2YwO6LFXtZZ6gUIaVCWV35) | [Curse](https://open.spotify.com/album/1fdnN1VLFUOXcElBFSA6KD) | 2:29 | 2026-06-16 | 2026-06-30 |
 | [Cushion Language Academy](https://open.spotify.com/track/5kqsUOb5hKSFzdYAsnATp9) | [Lee Byoung Hyeon](https://open.spotify.com/artist/2IKpE9wTN8yiKgcM2K4rgn) | [Cushion Language Academy](https://open.spotify.com/album/6sQCievQImsbxWbeYMXv8U) | 3:27 | 2024-11-18 | 2024-12-12 |
+| [cuss me out \(feat\. MILLI\)](https://open.spotify.com/track/22hMdsDruS3DpVT5e0B6xT) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [cuss me out \(feat\. MILLI\)](https://open.spotify.com/album/0X8EMEamt0ZqF3J5YYHPF7) | 2:00 | 2026-08-28 |  |
 | [cut it out \(feat\. meenoi\)](https://open.spotify.com/track/7BN42zo1pCk6jiIVtSgXq2) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [cut it out \(feat\. meenoi\)](https://open.spotify.com/album/6NovzCs0Co0nKkMu4WonWg) | 2:06 | 2024-09-26 | 2024-10-10 |
 | [Cut Off](https://open.spotify.com/track/14KcJiXw9b7aRFRa0aGRjQ) | [NIDA](https://open.spotify.com/artist/577oSCeG3NjUbcgJKiYgvN) | [Cut Off](https://open.spotify.com/album/7xwDcTyR99SYfDVy8JkIWU) | 2:39 | 2025-09-09 | 2025-09-22 |
 | [Cut Off Love](https://open.spotify.com/track/4lglCj1GMpK8qQvyT5se1w) | [Kim Dong Hyun](https://open.spotify.com/artist/6Qbssl8FMIgmc7CLglJ9EE) | [Red Balloon OST Part.5](https://open.spotify.com/album/2BMfj8pXtoZl17MRjSAeXG) | 3:12 | 2023-02-06 | 2023-02-28 |
@@ -4171,6 +4173,7 @@
 | [fallen](https://open.spotify.com/track/14mDHG6i0nOWK2BKXk6eev) | [kyuman](https://open.spotify.com/artist/6kP25N7G38ac03KIwPsiph), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [leaf, leaves](https://open.spotify.com/album/1EpSqXzJzPabeM6yPx0onN) | 2:24 | 2026-01-15 | 2026-01-28 |
 | [Fallen](https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Fallen](https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp) | 3:38 | 2022-12-06 | 2022-12-22 |
 | [fallen angel](https://open.spotify.com/track/41OWlhKxxlkwYk3kgeEZrO) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [fallen angel](https://open.spotify.com/album/6nEe3QFeGUxAR5gy186VVp) | 3:13 | 2023-07-12 | 2023-08-10 |
+| [FALLEN ANGEL](https://open.spotify.com/track/1ZyTTzndFMzzZUtOpKaqN7) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel \(Digital EP\)](https://open.spotify.com/album/65w21mMPOHN63hNU5z1FYL) | 3:19 | 2026-08-28 |  |
 | [Fallen Angel \(feat\. XYLØ\)](https://open.spotify.com/track/15QvMhsAYF9KOMU67mcNtS) | [Ryu Sujeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc), [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [Fallen Angel \(feat\. XYLØ\)](https://open.spotify.com/album/7FXLJThIr9t03UQA098ll9) | 3:28 | 2024-01-10 | 2024-03-14 |
 | [Fallen Leaves](https://open.spotify.com/track/6s5fNO2xcMFGWOSJZwspRW) | [LA POEM](https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG) | [POEM](https://open.spotify.com/album/1CKzd19BP40LSn2Yf9epEK) | 5:12 | 2023-11-10 | 2023-12-14 |
 | [FALLIN](https://open.spotify.com/track/15q20kLS04KZRAldpmRfHJ) | [ARCX](https://open.spotify.com/artist/7qXcUdvYuSPsnFj6iZO2jm), [Haki](https://open.spotify.com/artist/2Iqe9ySptj3e4bIEsJEC9b) | [FALLIN](https://open.spotify.com/album/6Nl7KoPii9YCqFGtsNRtUf) | 3:31 | 2022-06-21 | 2022-07-05 |
@@ -13137,6 +13140,7 @@
 | [Susanne](https://open.spotify.com/track/7AyrPPnMRQktj7mdoWUP2n) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [My Perfect Stranger OST Part.4](https://open.spotify.com/album/27Hkb4e9GNyfZVEuY8O6aj) | 3:35 | 2023-05-24 | 2023-08-10 |
 | [SUYU](https://open.spotify.com/track/3PQ4inuQaEj4nwjR9q1z4K) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [SUYU](https://open.spotify.com/album/7rUWeoYKLlgyAoLdq8JZue) | 3:42 | 2024-01-18 | 2024-03-14 |
 | [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 | 2025-08-28 | 2025-09-13 |
+| [SWAG](https://open.spotify.com/track/2KTdSxops6zHlyRGS6ALCI) | [WAYF BOYS](https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC) | [SWAG](https://open.spotify.com/album/0Gg2BVTH9BY2ZtJNE7H3Ow) | 2:38 | 2026-08-28 |  |
 | [Swaggers in Korea](https://open.spotify.com/track/2R2pch4wez5eM89vN8Cxll) | [BLASTA](https://open.spotify.com/artist/6RjBFO3ed4E3x6GpqdcnlJ) | [VERSE BATTLE RAPCUP Quarterfinals Part II](https://open.spotify.com/album/7A1sdnwXwR3wa0sRR4QuPJ) | 2:21 | 2024-05-16 | 2024-06-20 |
 | [Swallowing Tears](https://open.spotify.com/track/7LfUdvan3JOFeAJfT2vQke) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Swallowing Tears](https://open.spotify.com/album/5z8usHxyNbZJtfpydQ4jL5) | 4:10 | 2024-09-24 | 2024-10-10 |
 | [Sway](https://open.spotify.com/track/2kRq5fv2YhYvRlHUzgzexP) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [Sway](https://open.spotify.com/album/0elrlIdM2sFLXrBjziPpPV) | 4:49 | 2025-09-12 | 2025-09-23 |

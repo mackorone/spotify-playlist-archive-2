@@ -7402,7 +7402,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -24240,7 +24240,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-18",
+      "date_removed": null,
       "duration_ms": 231386,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c"
@@ -27490,7 +27490,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -33753,6 +33753,24 @@
     },
     {
       "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
+    },
+    {
+      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
@@ -38078,7 +38096,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 333628,
       "name": "\u5609\u8cd3",
       "url": "https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi"
@@ -39590,7 +39608,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 295890,
       "name": "\u904e\u4e86\u5e7e\u5929(\u5408\u5531\u7248)",
       "url": "https://open.spotify.com/track/4GEWZ1vDFVkmhG55zpKFLO"

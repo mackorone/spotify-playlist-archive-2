@@ -4,7 +4,7 @@
 
 > 
 
-289 songs - 15 hr 6 min
+290 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Again Please](https://open.spotify.com/track/1V5yJAm6tdr4u7WqSWipyL) | [Crumb Catcher](https://open.spotify.com/artist/5zAP2alk6lWFK14KVvKkgB) | [Big Crunch](https://open.spotify.com/album/6k0iGiN9qufQrIEP70PY0l) | 2:54 | 2026-07-02 |  |
 | [All My Fault](https://open.spotify.com/track/0QUWUwCvf7cHIS5FaiuRRG) | [Maddy Little](https://open.spotify.com/artist/0o9LvaeSgJikQWwDnAEAyH) | [All My Fault](https://open.spotify.com/album/0r5SdB7rVTLWVY57npp7jw) | 3:05 | 2026-01-22 |  |
 | [All Of My Love](https://open.spotify.com/track/1i2JN0ITHgMC3228pFWxVc) | [Shelton](https://open.spotify.com/artist/1CMYnWfZqAPKfA7g43RvtB) | [All Of My Love](https://open.spotify.com/album/4GCzlbQoHRDTkWsjKFIaMV) | 2:54 | 2026-01-09 |  |
+| [All the Days](https://open.spotify.com/track/1JKMMx5g3ShrVa0R7vjdqU) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [All the Days](https://open.spotify.com/album/0Y08f2d57uXxG4dj1zIzHf) | 5:08 | 2026-08-29 |  |
 | [Aloha Vibes](https://open.spotify.com/track/5iner6pw593QANnZP3Abgr) | [Faith Rivera](https://open.spotify.com/artist/0OJl9lZP81ON2jhv7QpVYt), [Brittni Paiva](https://open.spotify.com/artist/030ma4QtsnydUwd4M2qXWt) | [Aloha Vibes](https://open.spotify.com/album/3jWHak3tyL2LF3tdozpmrF) | 3:35 | 2025-07-03 |  |
 | [alone](https://open.spotify.com/track/7iuvjLWfCeuXUjCL5ux3Yd) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO), [Foreign](https://open.spotify.com/artist/3D3yyi7c5AiQulhArfwbib) | [Melodic Desire](https://open.spotify.com/album/301s5ttpCmABTQMpqaf292) | 4:37 | 2025-04-10 |  |
 | [Ame](https://open.spotify.com/track/56vX2UYUGNMEIq3i4l66OL) | [Luizie](https://open.spotify.com/artist/2cQQa7eaJy9pO5QgEhxVXR) | [Ame](https://open.spotify.com/album/2KSyYrS7na1qwhUPGOS4vt) | 3:55 | 2025-09-11 |  |

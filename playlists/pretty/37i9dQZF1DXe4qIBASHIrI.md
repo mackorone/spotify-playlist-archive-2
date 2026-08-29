@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,474 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,520 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 14 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
 | 15 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
 | 16 | [Azul](https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 6:33 |
-| 17 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
-| 18 | [Host of a Ghost](https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 4:20 |
+| 17 | [Host of a Ghost](https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 4:20 |
+| 18 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
 | 19 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 20 | [Deja Te Conecto](https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoé](https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x) | 5:29 |
 | 21 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 |
-| 22 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
-| 23 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 22 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
+| 23 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
 | 24 | [Fluye](https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Dualidad](https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS) | 3:35 |
 | 25 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
 | 26 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 49 | [Todavía Te Alcanzo a Ver](https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 3:13 |
 | 50 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 |
 | 51 | [Un Año Quebrado](https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos\. No Tan Lejos](https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ) | 3:32 |
-| 52 | [Carretera](https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 4:19 |
-| 53 | [Es por Ti](https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Ya Lo Dijo Rufis Taylor](https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B) | 2:25 |
+| 52 | [Es por Ti](https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C) | [Los Romanticos de Zacatecas](https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg) | [Ya Lo Dijo Rufis Taylor](https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B) | 2:25 |
+| 53 | [Carretera](https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3) | [Bengala](https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ) | [Bengala](https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA) | 4:19 |
 | 54 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
 | 55 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
 | 56 | [Go Twisters](https://open.spotify.com/track/2ZaGShFCTU1PptY61nLzoT) | [Disco Ruido](https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH) | [Sistema Solar](https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi) | 5:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 99 | [Soy Aquel](https://open.spotify.com/track/5wHK6JuDl0vQtM44WYMfLq) | [La Banderville](https://open.spotify.com/artist/5bHvEzZCBiHrBWMiwXFLgD) | [4 Décadas de Rock en Tu Idioma](https://open.spotify.com/album/1EGgFPVygTlqdd5LqD3kiL) | 4:38 |
 | 100 | [Lámpara de Lava](https://open.spotify.com/track/0rQJAyaTlRna0nCxpiOl4u) | [Furland](https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ) | [A Casa Voy \- EP](https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4) | 3:41 |
 
-Snapshot ID: `AAAAAKO+kZWY8/iyNmiICPrsD7w0+sTG`
+Snapshot ID: `AAAAALKYXpXhnKc5SIniKRn4MkHPO3yj`

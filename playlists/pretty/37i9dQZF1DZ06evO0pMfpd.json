@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 79933,
+  "num_followers": 79942,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADvMYxzqNKXo+ZFB2WZh/PJ",
+  "snapshot_id": "ao9+AAAAAAAs+YwfGvgaOwQ4GnFPAdDw",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+        "name": "Su Majestad con Ustedes",
+        "url": "https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 224875,
-      "name": "El Tiki Ta",
-      "url": "https://open.spotify.com/track/2Ogr9pqWfrEKh7PGGvC56I"
+      "duration_ms": 209214,
+      "name": "Mary la Orgullosa",
+      "url": "https://open.spotify.com/track/2sMhuCHpYGoK3hF9dciv7F"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Su Majestad con Ustedes",
-        "url": "https://open.spotify.com/album/0tltU9sMoyNo9nlBvLxW8Y"
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 209214,
-      "name": "Mary la Orgullosa",
-      "url": "https://open.spotify.com/track/2sMhuCHpYGoK3hF9dciv7F"
+      "duration_ms": 224875,
+      "name": "El Tiki Ta",
+      "url": "https://open.spotify.com/track/2Ogr9pqWfrEKh7PGGvC56I"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+        "name": "16 Enormes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 201607,
-      "name": "La Negrita",
-      "url": "https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP"
+      "duration_ms": 210407,
+      "name": "Ya Lleg\u00f3",
+      "url": "https://open.spotify.com/track/7AWSuywfNb8uEZXSyRbAO1"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 201607,
+      "name": "La Negrita",
+      "url": "https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd"
       },
@@ -295,54 +311,6 @@
       "duration_ms": 220723,
       "name": "La Chinita",
       "url": "https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "16 Enormes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 210407,
-      "name": "Ya Lleg\u00f3",
-      "url": "https://open.spotify.com/track/7AWSuywfNb8uEZXSyRbAO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 182369,
-      "name": "Pa' Que Lo Bailes",
-      "url": "https://open.spotify.com/track/3mOJJ4cpkQNr9oAhARg9T6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Su Majestad Mi Banda El Mexicano Con Ustedes...",
-        "url": "https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 242538,
-      "name": "Bailando De Caballito",
-      "url": "https://open.spotify.com/track/3uFgMUddB7bFtyhCBE9CXm"
     },
     {
       "added_at": null,
@@ -363,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Bailar... De Caballito!!",
-        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+        "name": "Su Majestad Mi Banda El Mexicano Con Ustedes...",
+        "url": "https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl"
       },
       "artists": [
         {
@@ -372,9 +340,25 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 171230,
-      "name": "La Flaca",
-      "url": "https://open.spotify.com/track/1ch4u7n3GCyUYuLfRi8NAd"
+      "duration_ms": 242538,
+      "name": "Bailando De Caballito",
+      "url": "https://open.spotify.com/track/3uFgMUddB7bFtyhCBE9CXm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 182369,
+      "name": "Pa' Que Lo Bailes",
+      "url": "https://open.spotify.com/track/3mOJJ4cpkQNr9oAhARg9T6"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
       "duration_ms": 209620,
       "name": "Sombrero Vaquero",
       "url": "https://open.spotify.com/track/4qB4EeLblKJS97nNrhVqDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Bailar... De Caballito!!",
+        "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 171230,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/1ch4u7n3GCyUYuLfRi8NAd"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa'que Lo Bailes",
+        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 211739,
+      "name": "Pachuco Bailar\u00edn",
+      "url": "https://open.spotify.com/track/4Oqo3cgcbpvuEPnci1wnYp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 223410,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/6Kmb4Ev2Zf2xBKvNW9KzWk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa'que Lo Bailes",
-        "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 293021,
-      "name": "Burbujas De Amor",
-      "url": "https://open.spotify.com/track/5B3DTCOYLv4zgEnAsGpT7d"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
-        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 216549,
-      "name": "Mambo No. 8",
-      "url": "https://open.spotify.com/track/3oksN9Ro962hykmA6Fm7LJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'que Lo Bailes",
         "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
       },
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 211739,
-      "name": "Pachuco Bailar\u00edn",
-      "url": "https://open.spotify.com/track/4Oqo3cgcbpvuEPnci1wnYp"
+      "duration_ms": 293021,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/5B3DTCOYLv4zgEnAsGpT7d"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 207725,
       "name": "Fue Su Voz",
       "url": "https://open.spotify.com/track/2gmplUqmPHJ1jPvznz5zyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
+        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 216549,
+      "name": "Mambo No. 8",
+      "url": "https://open.spotify.com/track/3oksN9Ro962hykmA6Fm7LJ"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
-        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 256725,
-      "name": "Mambo Del Ruletero",
-      "url": "https://open.spotify.com/track/6fpkov2nvKnloFZTB1UhXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Banda el Mexicano",
         "url": "https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 204556,
       "name": "El Ni\u00f1o Travieso",
       "url": "https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
+        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 256725,
+      "name": "Mambo Del Ruletero",
+      "url": "https://open.spotify.com/track/6fpkov2nvKnloFZTB1UhXj"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Enormes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "La Negra Catalina",
-      "url": "https://open.spotify.com/track/3SxQ87XoLgOAZIRAHpktnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'que Lo Bailes",
         "url": "https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 160426,
       "name": "Las Nachas",
       "url": "https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
+        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 220589,
+      "name": "Mambo No. 5",
+      "url": "https://open.spotify.com/track/7BzDaOzYt5C0rLxRmMIUwz"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Todos a Bailar! Mambos al Estilo de El Mexicano",
-        "url": "https://open.spotify.com/album/4N676CqMcjrtodL3i2qyAM"
+        "name": "16 Enormes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 220589,
-      "name": "Mambo No. 5",
-      "url": "https://open.spotify.com/track/7BzDaOzYt5C0rLxRmMIUwz"
+      "duration_ms": 157733,
+      "name": "La Negra Catalina",
+      "url": "https://open.spotify.com/track/3SxQ87XoLgOAZIRAHpktnP"
     },
     {
       "added_at": null,

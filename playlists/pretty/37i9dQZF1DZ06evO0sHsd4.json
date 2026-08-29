@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 24489,
+  "num_followers": 24512,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABwoPchCbUWU+ADbpnWZdGL",
+  "snapshot_id": "ao9+AAAAAADma/74/7AkLll/TPAfnlNd",
   "tracks": [
     {
       "added_at": null,
@@ -170,15 +170,11 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 233733,
-      "name": "Adicci\u00f3n",
-      "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
+      "duration_ms": 261093,
+      "name": "Jap\u00f3n",
+      "url": "https://open.spotify.com/track/5guJSVFfWTCkD1w7kfQJZA"
     },
     {
       "added_at": null,
@@ -246,11 +242,15 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 261093,
-      "name": "Jap\u00f3n",
-      "url": "https://open.spotify.com/track/5guJSVFfWTCkD1w7kfQJZA"
+      "duration_ms": 233733,
+      "name": "Adicci\u00f3n",
+      "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
     },
     {
       "added_at": null,

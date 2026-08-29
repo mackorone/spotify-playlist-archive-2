@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11450,
+  "num_followers": 11451,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADjTA6jRkr/ZuhnxWh5mOi6",
+  "snapshot_id": "ao9+AAAAAACEb7iOT9/aWJzGplBAdVkU",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Mr Gabriel",
+          "url": "https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS"
+        }
+      ],
+      "duration_ms": 258546,
+      "name": "Lose My Mind (feat. Mr Gabriel)",
+      "url": "https://open.spotify.com/track/7uPjBx5Dx46WXbSvnfkpbH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "The World Is Ours",
+      "url": "https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Throw Ya Body",
         "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
       },
@@ -111,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Mr Gabriel",
-          "url": "https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS"
-        }
-      ],
-      "duration_ms": 258546,
-      "name": "Lose My Mind (feat. Mr Gabriel)",
-      "url": "https://open.spotify.com/track/7uPjBx5Dx46WXbSvnfkpbH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
       },
@@ -143,42 +159,6 @@
       "duration_ms": 128142,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "The World Is Ours",
-      "url": "https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Look Down (feat. BANKS)",
-        "url": "https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Don't Look Down (feat. BANKS)",
-      "url": "https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH"
     },
     {
       "added_at": null,
@@ -203,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj"
+        "name": "Don't Look Down (feat. BANKS)",
+        "url": "https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN"
       },
       "artists": [
         {
@@ -212,13 +192,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
         }
       ],
-      "duration_ms": 155200,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
+      "duration_ms": 205423,
+      "name": "Don't Look Down (feat. BANKS)",
+      "url": "https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH"
     },
     {
       "added_at": null,
@@ -243,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj"
       },
       "artists": [
         {
@@ -252,13 +232,13 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         },
         {
-          "name": "Simona Shao",
-          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
         }
       ],
-      "duration_ms": 168821,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad"
+      "duration_ms": 155200,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
     },
     {
       "added_at": null,
@@ -275,6 +255,26 @@
       "duration_ms": 229906,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/4q0OWYe7JIElF8lPaARHki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Simona Shao",
+          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
+        }
+      ],
+      "duration_ms": 168821,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/2zFcf6FC9hydetoczSLsCL"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Alive - Radio Edit",
-      "url": "https://open.spotify.com/track/4qtEOfaogx57ONrA6ozIrm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 209142,
       "name": "Water Sign (feat. Aluna)",
       "url": "https://open.spotify.com/track/5P1WwERubwLGRt2Vz5nY6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2zFcf6FC9hydetoczSLsCL"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Alive - Radio Edit",
+      "url": "https://open.spotify.com/track/4qtEOfaogx57ONrA6ozIrm"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Heaven Is Calling",
+      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "eye2eye (Jai Wolf Remix)",
         "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 253714,
       "name": "eye2eye - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Heaven Is Calling",
-      "url": "https://open.spotify.com/track/1rZKC24fmvMlfzYo668JdJ"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 95500,
       "name": "This Space In My Heart Is for You",
       "url": "https://open.spotify.com/track/16xxB8ILPk98pe12CVrfSy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh"
     },
     {
       "added_at": null,

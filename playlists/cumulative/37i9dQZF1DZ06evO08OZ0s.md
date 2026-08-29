@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 24 min
+105 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Sweet Desperation \- Radio Edit](https://open.spotify.com/track/7e68OISHjPwhWFy9gSmE6h) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Sweet Desperation](https://open.spotify.com/album/36W4zH3OCD7qgeLU7G7bQ7) | 2:46 | 2024-05-14 | 2026-05-19 |
 | [Sweetest Release](https://open.spotify.com/track/5GUN3hCVKgls5iQeBMP6HU) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Sweetest Release](https://open.spotify.com/album/5caFZTvQGRa9ocXjtmZjS0) | 2:36 | 2026-06-14 |  |
 | [The Christmas Song](https://open.spotify.com/track/5V1ovjPsTxdT7pEhwO5dHh) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unwrap My Heart](https://open.spotify.com/album/0NNFk8ELkHpYQXodDvMSiC) | 4:14 | 2024-12-04 | 2025-01-10 |
-| [The One I Need](https://open.spotify.com/track/3obfI83UI2j9CGJApIATH5) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [The One I Need](https://open.spotify.com/album/6X8Qc5tagwfpDl4H2r5ceI) | 3:32 | 2024-11-03 |  |
+| [The One I Need](https://open.spotify.com/track/12NCJUUqlxGobAawyl9Uen) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Overgrown \(Deluxe Edition\)](https://open.spotify.com/album/3nl7R78cYTGVbJ7zMGdbvk) | 3:32 | 2026-08-29 |  |
+| [The One I Need](https://open.spotify.com/track/3obfI83UI2j9CGJApIATH5) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [The One I Need](https://open.spotify.com/album/6X8Qc5tagwfpDl4H2r5ceI) | 3:32 | 2024-11-03 | 2026-08-29 |
 | [The Reason \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/3YxhYfKcAHMrczJRUXCe5O) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [The Reason \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/09sPV1rFNtlB6mM9ihPnxk) | 3:13 | 2024-05-14 | 2026-03-17 |
 | [The Remedy \- Radio Edit](https://open.spotify.com/track/5jzPyxRmXJS0OUomBjFkmO) | [T.Williams](https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20), [James Jacob](https://open.spotify.com/artist/6zREiaEjYXtcirqnoxXs71), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [The Remedy](https://open.spotify.com/album/16KynkMBKXCg4XW8kRn62M) | 2:52 | 2024-05-14 |  |
 | [This Good](https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Good](https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z) | 2:40 | 2024-05-14 |  |

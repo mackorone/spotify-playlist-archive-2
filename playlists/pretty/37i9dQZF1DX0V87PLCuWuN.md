@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0V87PLCuWuN.md) - [plain]
 
 > Powerful Classical 💅
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,340 likes - 91 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,391 likes - 91 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0V87PLCuWuN.md) - [plain]
 | 21 | [ulysse](https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [ulysse](https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt) | 3:15 |
 | 22 | [Symphony No\. 7 in A Major, Op\. 92: II\. Allegretto](https://open.spotify.com/track/39ZBv0BWVhcY2d2dniNuTd) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Beethoven: Symphonies Nos\. 2 & 7](https://open.spotify.com/album/1hhDF8P3gbFvV6OweTkqZL) | 9:03 |
 | 23 | [La traviata, Act I: Prelude](https://open.spotify.com/track/11Xb4g57kDYwbjKVljcyTN) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Bavarian State Orchestra](https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf), [Carlos Kleiber](https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN) | [Verdi: La Traviata](https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq) | 3:33 |
-| 24 | [Contentious Environment \(From "The Invite"\)](https://open.spotify.com/track/6zLvibKh8GmZnzEAH9z6FY) | [Devonté Hynes](https://open.spotify.com/artist/0M1ImWN3uInxUCZVIE9uxa) | [Contentious Environment \(From "The Invite"\)](https://open.spotify.com/album/5gC7Jy2lyadGwSI9voznHH) | 3:04 |
+| 24 | [Contentious Environment \- From "The Invite"](https://open.spotify.com/track/6zLvibKh8GmZnzEAH9z6FY) | [Devonté Hynes](https://open.spotify.com/artist/0M1ImWN3uInxUCZVIE9uxa) | [Contentious Environment \(From "The Invite"\)](https://open.spotify.com/album/5gC7Jy2lyadGwSI9voznHH) | 3:04 |
 | 25 | [November](https://open.spotify.com/track/1NR8cIdzQyf2DDFgUJhnAb) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Konzerthausorchester Berlin](https://open.spotify.com/artist/5HxMHFsUWX0VqOlmsoGrTj), [Jonathan Stockhammer](https://open.spotify.com/artist/2PIjtepywKZwGT0mZIumrW) | [Mari](https://open.spotify.com/album/2JODpOhAdIN27KhGLEvIN4) | 6:08 |
 | 26 | [Puccini: Gianni Schicchi, Act 1: "O mio babbino caro" \(Lauretta\)](https://open.spotify.com/track/3N0knMosQlaQ6ROJoRPeY9) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Les Frivolités Parisiennes](https://open.spotify.com/artist/79iMyEOLslP1CBgBeAZlYh), [Sammy El Ghadab](https://open.spotify.com/artist/6uYzeqUkmTpcGxhsKaupoK) | [Puccini: O mio babbino caro](https://open.spotify.com/album/1W6jsBfbZcHRfafWn60INO) | 2:20 |
 | 27 | [Euphoria Funfair \(From "Euphoria: Season 1" Soundtrack\)](https://open.spotify.com/track/2GGhs1MVvDKTDM9eWVU0WX) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Gustave Rudman](https://open.spotify.com/artist/2yGaqlHUHvNEpdRlmQCMEC) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 10:07 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0V87PLCuWuN.md) - [plain]
 | 90 | [I\. Vivace](https://open.spotify.com/track/4rT9L5H10QBXKE9oD8nTff) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Rachel Barton Pine](https://open.spotify.com/artist/4st8QHJeSvWO1D4OPUgFaf), [Ars Antigua](https://open.spotify.com/artist/6o674M7Z1UpS2xRo157aY4) | [Vivaldi: The Complete Viola d'amore Concertos](https://open.spotify.com/album/5poEFBL5AsxtvgLiYZEbOv) | 3:10 |
 | 91 | [Symphony No\. 8 in B Minor, D\. 759 "Unfinished": I\. Allegro moderato](https://open.spotify.com/track/2fEbuFSksIThthle3Kj6uj) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Schubert: Symphonies Nos.8 "Unfinished" & 9 "The Great"](https://open.spotify.com/album/4COQRzQmwvab3nOVtGubwD) | 11:33 |
 
-Snapshot ID: `AAAAAPttsgWwrRSs3rkbWM6846MnBsuw`
+Snapshot ID: `AAAAAPHavloAg6KC0rDlt3Tu1Gpyj0c8`

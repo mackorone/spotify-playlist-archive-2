@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Cheema Y
+> Best of Punjabi Hip\-Hop! Cover:  Jxggi
 
-347 songs - 17 hr 13 min
+348 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [IDGAF \(feat\. Morrisson\)](https://open.spotify.com/track/7F5O2pMgNNjONTbdqQx9b3) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:56 | 2023-03-18 | 2023-04-24 |
 | [Il Capo](https://open.spotify.com/track/5lfzzSrGiid1bvw0W8K2HA) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [Il Capo](https://open.spotify.com/album/5pLWCSnEyc05ivyxdnQBeA) | 2:39 | 2025-12-05 |  |
 | [Image](https://open.spotify.com/track/5ezh8EaOW7Bfim0rtmpHKi) | [Teji Jassar](https://open.spotify.com/artist/3R3djRbqthCXs2LWCSSqmz), [TRIBE](https://open.spotify.com/artist/3GAJRXC59K8LIgPdTRxMjb), [Raaj The Rapper](https://open.spotify.com/artist/1o0aXVRVDpojoKrAUtp7Mo) | [Image](https://open.spotify.com/album/1tgfFrbFbbI7DuCfN1hWnY) | 3:19 | 2024-04-02 | 2024-07-19 |
+| [IYKYK](https://open.spotify.com/track/3Hp5UfErvtHw0SlkRPHkf9) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Inferno](https://open.spotify.com/album/4ZbDtK4rvjgDiyofGLQzot) | 2:35 | 2026-08-28 |  |
 | [Jackpot](https://open.spotify.com/track/0JOAMHwHFGKbPOwfM26fL7) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:56 | 2026-05-29 |  |
 | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/track/1fOK4kKr4lCqQDV4rhLVvq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/4HhEO2x0yF6vdqvhHBrRMp) | [Jailaan \(From "Moosa Jatt"\)](https://open.spotify.com/album/3MtObjRseu7Tr6QIf6ud0d) | 2:58 | 2023-03-18 | 2024-03-05 |
 | [JAT FREESTYLE](https://open.spotify.com/track/5i0k0nlsa4Wlr2eLZAgM8h) | [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [LALA](https://open.spotify.com/artist/3QJoMteoDDVUSLRIiaWfQu) | [JAT FREESTYLE](https://open.spotify.com/album/0IhaImNfhX1dKbgE2TTZAj) | 3:16 | 2024-03-29 | 2024-06-11 |
@@ -269,7 +270,7 @@
 | [Puppy Eyes Freestyle](https://open.spotify.com/track/2HbB9fOd7J4NalwFAVAT6M) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Puppy Eyes Freestyle](https://open.spotify.com/album/34K9SvekBivdj94e5Ovexv) | 1:24 | 2024-03-27 | 2024-04-11 |
 | [Rap God](https://open.spotify.com/track/7E7Qr1dkP0tZytL0EjLD6e) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Handles Tdnb](https://open.spotify.com/artist/4MgIiRaYRGgOEpz8DUut6Q), [Marvi\-Sahiban](https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:23 | 2024-08-26 | 2024-10-25 |
 | [Real Talk](https://open.spotify.com/track/4mPtl3xcn3YForEsRWIsAT) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Real Talk](https://open.spotify.com/album/4Bor4XW3CmFk3tyF19Ysxt) | 2:38 | 2024-03-15 | 2024-05-17 |
-| [Refugee](https://open.spotify.com/track/5uHCw6YJdAv3LO8boVPg9p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:28 | 2026-07-24 |  |
+| [Refugee](https://open.spotify.com/track/5uHCw6YJdAv3LO8boVPg9p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:28 | 2026-07-24 | 2026-08-29 |
 | [Regions](https://open.spotify.com/track/41rBgLENFkfdMRT7ZyZKQC) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [By Any Means](https://open.spotify.com/album/4Gn0Jhsoq3Q0a5TtoSb35D) | 2:46 | 2025-04-04 |  |
 | [Rich Heart](https://open.spotify.com/track/78Q7kowOkvO72hiDjFjhaT) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manu](https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28) | [Rich Heart](https://open.spotify.com/album/3wyfDA6l0kFU0NaVIaj14J) | 2:26 | 2025-09-12 |  |
 | [Route 66](https://open.spotify.com/track/0c4JEW8BzPQR28UjisvEMf) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Irman](https://open.spotify.com/artist/6PekRKJMJZzbPCcFhjUyH1) | [If the Sun Had a Dark Side](https://open.spotify.com/album/4jAKk2fxLBXxHnaXs6oLwx) | 2:31 | 2024-10-18 | 2024-11-12 |

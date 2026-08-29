@@ -1,12 +1,12 @@
 {
   "description": "nos fuimos de fiesta con 8onthebeat \ud83c\udf89",
-  "num_followers": 836797,
+  "num_followers": 836690,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPxU+Jye6Kh4bIfDz1kX+YooMKX",
+  "snapshot_id": "AAAAAJwQxwE6QsYUUMlNMi32w7JhCGic",
   "tracks": [
     {
       "added_at": "2026-04-03 19:35:14",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-04-03 19:35:14",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2026-04-03 19:35:14",
-      "album": {
         "name": "CH\u00c9VERE (premium_remix)",
         "url": "https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219989,
       "name": "CH\u00c9VERE (premium_remix)",
       "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
+    },
+    {
+      "added_at": "2026-04-03 19:35:14",
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2026-04-03 19:35:14",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-04-03 19:35:14",
       "album": {
-        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 151805,
-      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
-    },
-    {
-      "added_at": "2026-04-03 19:35:14",
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -919,38 +899,22 @@
     {
       "added_at": "2026-04-03 19:35:14",
       "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 156787,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
-    },
-    {
-      "added_at": "2026-04-03 19:35:14",
-      "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 157453,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
       "added_at": "2026-04-03 19:35:14",
@@ -975,6 +939,42 @@
       "duration_ms": 205144,
       "name": "UNA NOCHE EN MEDELL\u00cdN - REMIX",
       "url": "https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761"
+    },
+    {
+      "added_at": "2026-04-03 19:35:14",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 157453,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
+    },
+    {
+      "added_at": "2026-04-03 19:35:14",
+      "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
       "added_at": "2026-04-03 19:35:14",
@@ -1031,50 +1031,6 @@
     {
       "added_at": "2026-04-03 19:35:14",
       "album": {
-        "name": "En Privado",
-        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 199399,
-      "name": "En Privado",
-      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
-    },
-    {
-      "added_at": "2026-04-03 19:35:14",
-      "album": {
-        "name": "VITAMINA",
-        "url": "https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916"
-      },
-      "artists": [
-        {
-          "name": "Jombriel",
-          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
-        },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        },
-        {
-          "name": "J\u00f8tta",
-          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
-        }
-      ],
-      "duration_ms": 208743,
-      "name": "VITAMINA",
-      "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
-    },
-    {
-      "added_at": "2026-04-03 19:35:14",
-      "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
       },
@@ -1115,6 +1071,50 @@
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
+    },
+    {
+      "added_at": "2026-04-03 19:35:14",
+      "album": {
+        "name": "En Privado",
+        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
+    },
+    {
+      "added_at": "2026-04-03 19:35:14",
+      "album": {
+        "name": "VITAMINA",
+        "url": "https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "duration_ms": 208743,
+      "name": "VITAMINA",
+      "url": "https://open.spotify.com/track/0DMJz677XfXiiruhIELu2e"
     },
     {
       "added_at": "2026-04-03 19:35:14",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-04-03 19:35:14",
       "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 167180,
+      "name": "Papasito",
+      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
+    },
+    {
+      "added_at": "2026-04-03 19:35:14",
+      "album": {
         "name": "I'M PART",
         "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2026-04-03 19:35:14",
       "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 167180,
-      "name": "Papasito",
-      "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
-    },
-    {
-      "added_at": "2026-04-03 19:35:14",
-      "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
       },
@@ -1267,26 +1267,6 @@
       "duration_ms": 234077,
       "name": "Mejores Jordans",
       "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
-    },
-    {
-      "added_at": "2026-04-03 19:35:14",
-      "album": {
-        "name": "mi refe",
-        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 159404,
-      "name": "mi refe",
-      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
       "added_at": "2026-04-03 19:35:14",
@@ -1331,6 +1311,26 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2026-04-03 19:35:14",
+      "album": {
+        "name": "mi refe",
+        "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 159404,
+      "name": "mi refe",
+      "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
     },
     {
       "added_at": "2026-04-03 19:35:14",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-04-03 19:35:14",
       "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Pasarela",
+      "url": "https://open.spotify.com/track/7uUYUy2qLfev9ppNvFBHpX"
+    },
+    {
+      "added_at": "2026-04-03 19:35:14",
+      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 215600,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2026-04-03 19:35:14",
-      "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Pasarela",
-      "url": "https://open.spotify.com/track/7uUYUy2qLfev9ppNvFBHpX"
     },
     {
       "added_at": "2026-04-03 19:35:14",
@@ -1927,6 +1927,26 @@
     {
       "added_at": "2026-04-03 19:35:14",
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2026-04-03 19:35:14",
+      "album": {
         "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
         "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
-    },
-    {
-      "added_at": "2026-04-03 19:35:14",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
     },
     {
       "added_at": "2026-04-03 19:35:14",
@@ -2031,34 +2031,22 @@
     {
       "added_at": "2026-04-03 19:35:14",
       "album": {
-        "name": "La Jeepeta (Remix)",
-        "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
+        "name": "QUE HACES",
+        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 345240,
-      "name": "La Jeepeta - Remix",
-      "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
+      "duration_ms": 171813,
+      "name": "QUE HACES",
+      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
     }
   ],
   "unique_name": "Fiesta",

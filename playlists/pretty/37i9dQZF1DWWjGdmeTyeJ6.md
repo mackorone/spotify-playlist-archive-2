@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Khal!l\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,358 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,336 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [Luvbomb](https://open.spotify.com/track/5A0rbbC8fosaRl9hGBPDXb) | [Daisi](https://open.spotify.com/artist/611KLmpU1yaxamd1JC2PdN), [Hrubesky](https://open.spotify.com/artist/0qNa1kxSdmgBGsfPE88j36) | [Luvbomb](https://open.spotify.com/album/7sCote39aunhZIWNJIinGy) | 2:06 |
 | 100 | [Exposure](https://open.spotify.com/track/59Ait2fBlE3r01366fyTGo) | [Dazies](https://open.spotify.com/artist/4tYPUzp1NwvFRXWdAxV1wp) | [Exposure](https://open.spotify.com/album/3SLr9CDjScQPqvdSP5Wql7) | 3:27 |
 
-Snapshot ID: `AAAAACzXQPZb6jJQ601Hqi+RPLW7bjKx`
+Snapshot ID: `AAAAAFL7U6J3fkgPGtclENbseHUIU3nx`

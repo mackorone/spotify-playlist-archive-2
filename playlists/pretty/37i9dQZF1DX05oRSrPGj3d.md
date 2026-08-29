@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,105 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,128 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 |
+| 1 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
 | 2 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
 | 3 | [A Life Where We Work Out](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:10 |
 | 4 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 |
 | 5 | [That's Texas](https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [That's Texas](https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8) | 2:43 |
 | 6 | [Hell of a Year](https://open.spotify.com/track/4RYTi6AJnzLu6qYtkjZGvZ) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/6C9MVfh8Zhx1Q8xtR6ZVV2) | 3:52 |
 | 7 | [Made In Texas](https://open.spotify.com/track/0ba2g72aL4NG7gxuvbp0my) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Made In Texas](https://open.spotify.com/album/29ZuaXy94yR0uWdsLsHxbJ) | 2:24 |
-| 8 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
+| 8 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 |
 | 9 | [In My Arms Instead](https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Randy Rogers Band](https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup) | 5:18 |
 | 10 | [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 |
 | 11 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 54 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 |
 | 55 | [Texas Rain](https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k) | [Seven Miles South](https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd) | [Resurrection EP](https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx) | 3:31 |
 | 56 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
-| 57 | [Who I Am](https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Blue Light Live](https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5) | 4:35 |
-| 58 | [One More Goodbye](https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 4:14 |
+| 57 | [One More Goodbye](https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Just A Matter Of Time](https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT) | 4:14 |
+| 58 | [Who I Am](https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Blue Light Live](https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5) | 4:35 |
 | 59 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
 | 60 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 |
 | 61 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 87 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 | 88 | [New Strings](https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:50 |
 | 89 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |
-| 90 | [Mine All Mine](https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Love Me Instead](https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR) | 3:01 |
-| 91 | [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 |
+| 90 | [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 |
+| 91 | [Mine All Mine](https://open.spotify.com/track/5gCBDJVkU7XHkh4b9i43hn) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Love Me Instead](https://open.spotify.com/album/3wk9iRnqzxQalPBNekk0jR) | 3:01 |
 | 92 | [There Goes My Heart Again](https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 2:37 |
 | 93 | [Mendocino County Line](https://open.spotify.com/track/41cm0jYZCvTcBeYZQ8lnwV) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Great Divide](https://open.spotify.com/album/3N1fyo5kFjZhMYVsiEsRKB) | 4:32 |
-| 94 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
-| 95 | [He Ain't a Cowboy](https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [He Ain't a Cowboy](https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0) | 3:13 |
+| 94 | [He Ain't a Cowboy](https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [He Ain't a Cowboy](https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0) | 3:13 |
+| 95 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
 | 96 | [Shades of Gray](https://open.spotify.com/track/33CVbDlfnTJa8Fb78HZMLe) | [Jason Boland](https://open.spotify.com/artist/5ez1Ny51KSaouSu8kHZMyy), [Cody Canada](https://open.spotify.com/artist/1vNm2xtFGI4KsxnDgAl4iO) | [Undone: A Musicfest Tribute to Robert Earl Keen](https://open.spotify.com/album/5K3zDZeAo4tTGKqEmRyJN2) | 6:16 |
 | 97 | [North Dakota](https://open.spotify.com/track/4JwBDp0psRP2pbmNVjPc8E) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Joshua Judges Ruth](https://open.spotify.com/album/0Q9E2do1DR7QrHyD5BPaZB) | 5:42 |
 | 98 | [Ballad Of Spider John](https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd) | [Willis Alan Ramsey](https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX) | [Willis Alan Ramsey](https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL) | 4:18 |
 | 99 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 |
 | 100 | [When Love Comes Around](https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [When Love Comes Around](https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc) | 3:30 |
 
-Snapshot ID: `AAAAAFMH1qwKR0x4hV9CogEpQTpwuc0I`
+Snapshot ID: `AAAAABpy26uC/nqUSg8e9/5F2zYeLBDs`

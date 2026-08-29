@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Famous Pluto ",
-  "num_followers": 96238,
+  "num_followers": 96338,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMea7jhzXrqjJOcgpxkHfQzJRNEe",
+  "snapshot_id": "AAAAAIvCfHgkI4RKkCRuTCkzxrDKEcM2",
   "tracks": [
     {
       "added_at": "2026-08-28 00:02:01",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 205674,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
         "name": "attention!",
         "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 155852,
       "name": "attention!",
       "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 205674,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -255,18 +255,18 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         }
       ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/5ycsqezujKrwviU3VFhci1"
+      "duration_ms": 139424,
+      "name": "Lakute",
+      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -287,22 +287,18 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/5ycsqezujKrwviU3VFhci1"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -323,18 +319,22 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
       "artists": [
         {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         }
       ],
-      "duration_ms": 139424,
-      "name": "Lakute",
-      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -387,46 +387,6 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "Guide",
-        "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        },
-        {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 127565,
-      "name": "Guide",
-      "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
-        "name": "All Hail Muyeez",
-        "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -447,6 +407,46 @@
       "duration_ms": 180765,
       "name": "Ewo",
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
+        "name": "All Hail Muyeez",
+        "url": "https://open.spotify.com/album/050lle0DRA4195Robnvk2l"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
+        "name": "Guide",
+        "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        },
+        {
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 127565,
+      "name": "Guide",
+      "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -635,18 +635,22 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
+      "duration_ms": 174159,
+      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -667,22 +671,18 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 174159,
-      "name": "ARMED & DANGEROUS (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/2VTjvbOa7BNQoW9zrgiqnC"
+      "duration_ms": 176000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "Root Of All Evil",
-        "url": "https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 185084,
-      "name": "Root Of All Evil",
-      "url": "https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 136693,
       "name": "1 WORK - Remix",
       "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
+        "name": "Root Of All Evil",
+        "url": "https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 185084,
+      "name": "Root Of All Evil",
+      "url": "https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
-      },
-      "artists": [
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
         "name": "Love Is Not Enough, Vol. 2",
         "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
         "name": "Merlinpiano",
         "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 165296,
       "name": "Shakabulizzy",
       "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
+        "name": "Wahala Pikin",
+        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 118801,
+      "name": "Opium Amapiano",
+      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -1227,22 +1243,6 @@
       "duration_ms": 215384,
       "name": "Fire in your Eyes",
       "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
-        "name": "Wahala Pikin",
-        "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
-      },
-      "artists": [
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 118801,
-      "name": "Opium Amapiano",
-      "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
     },
     {
       "added_at": "2026-08-28 00:02:01",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-08-28 00:02:01",
       "album": {
-        "name": "Kupe",
-        "url": "https://open.spotify.com/album/0RuXzoq19CsSoT6VEqsfrW"
-      },
-      "artists": [
-        {
-          "name": "Teee Dollar",
-          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
-        }
-      ],
-      "duration_ms": 152105,
-      "name": "Kupe",
-      "url": "https://open.spotify.com/track/3DrxLfaqMuFOF1txHcmN9F"
-    },
-    {
-      "added_at": "2026-08-28 00:02:01",
-      "album": {
         "name": "HOW ARE YOU",
         "url": "https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 158446,
       "name": "HOW ARE YOU",
       "url": "https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu"
+    },
+    {
+      "added_at": "2026-08-28 00:02:01",
+      "album": {
+        "name": "Kupe",
+        "url": "https://open.spotify.com/album/0RuXzoq19CsSoT6VEqsfrW"
+      },
+      "artists": [
+        {
+          "name": "Teee Dollar",
+          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
+        }
+      ],
+      "duration_ms": 152105,
+      "name": "Kupe",
+      "url": "https://open.spotify.com/track/3DrxLfaqMuFOF1txHcmN9F"
     },
     {
       "added_at": "2026-08-28 00:02:01",

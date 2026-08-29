@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: F3miii
 
-1,279 songs - 2 day 14 hr 22 min
+1,279 songs - 2 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Better](https://open.spotify.com/track/0gC4LKvKNxHTcpzlli1pfo) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [YEARNALISM](https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta) | 3:40 | 2026-07-10 | 2026-07-24 |
 | [Better Days](https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Better Days](https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9) | 3:10 | 2026-03-20 | 2026-04-03 |
 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-21 | 2025-12-12 |
-| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 | 2026-08-27 |  |
+| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 | 2026-08-27 |  |
 | [Big Win](https://open.spotify.com/track/0lte0G79vS00wccvOpM0T7) | [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Spare Room](https://open.spotify.com/album/558KTBOX6MzfsVDkxSoAU5) | 2:26 | 2025-11-14 | 2025-11-28 |
 | [Birthday](https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Birthday](https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d) | 2:35 | 2026-01-30 | 2026-02-13 |
 | [BITCH](https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR) | 2:42 | 2026-04-30 | 2026-05-08 |

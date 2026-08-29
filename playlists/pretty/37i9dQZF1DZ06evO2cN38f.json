@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1744,
+  "num_followers": 1745,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABT8c/sZk+z9EAAD5AOElps",
+  "snapshot_id": "ao9+AAAAAABHIHYdDdJsTmgaMIJpJucn",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 207906,
-      "name": "Back in the Day",
-      "url": "https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB"
+      "duration_ms": 226299,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 226299,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1021",
         "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
       },
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 199986,
-      "name": "There You Go",
-      "url": "https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ"
+      "duration_ms": 207906,
+      "name": "Back in the Day",
+      "url": "https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB"
     },
     {
       "added_at": null,
@@ -499,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 211597,
-      "name": "Lay",
-      "url": "https://open.spotify.com/track/0MJb98zBRnGLf7Bi2KIT51"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB"
       },
@@ -531,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 211597,
+      "name": "Lay",
+      "url": "https://open.spotify.com/track/0MJb98zBRnGLf7Bi2KIT51"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1021",
         "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
       },
@@ -540,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 187840,
-      "name": "401",
-      "url": "https://open.spotify.com/track/43X9h7tRxERIYgztKjHU6k"
+      "duration_ms": 199986,
+      "name": "There You Go",
+      "url": "https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 156239,
       "name": "No Love",
       "url": "https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "401",
+      "url": "https://open.spotify.com/track/43X9h7tRxERIYgztKjHU6k"
     }
   ],
   "unique_name": "This Is Rochelle Jordan",

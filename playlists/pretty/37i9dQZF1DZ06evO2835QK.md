@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2835QK.md) - [plain]
 
 > This is Cleo Sol\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,244 likes - 38 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,276 likes - 38 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2835QK.md) - [plain]
 | 22 | [In Your Own Home](https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:08 |
 | 23 | [Nothing Is Impossible With You](https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Nothing Is Impossible With You](https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW) | 4:14 |
 | 24 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 |
-| 25 | [Family Ties](https://open.spotify.com/track/1FLhnyews5R8wTiaoiwDs6) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 3:36 |
+| 25 | [Sweet Thing](https://open.spotify.com/track/6DeYDFBS41W8IbJW9UNkRt) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 6:17 |
 | 26 | [Reason](https://open.spotify.com/track/4QpPk76nOhX3Xe4DebeZYS) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:00 |
 | 27 | [23](https://open.spotify.com/track/1JVEM4C04VPAU9JTnKthNk) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 5:06 |
 | 28 | [Rewind](https://open.spotify.com/track/6X3fgvBtf9IIutyIJixSf6) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 2:23 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2835QK.md) - [plain]
 | 37 | [Heaven](https://open.spotify.com/track/7a8PhNagyGpyzbmAsAg76b) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 2:42 |
 | 38 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 
-Snapshot ID: `ao4sgAAAAAD/ZqoCevC76UmLEH4NVuF4`
+Snapshot ID: `ao9+AAAAAABNGEG2VQRDjofRTybAZ04L`

@@ -1,12 +1,12 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 104111,
+  "num_followers": 104119,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM/KWKqUxRbCJHwjhJBJ1vjcAtGk",
+  "snapshot_id": "AAAAAHmmzxDnKmhvtj2DulCJctKEg6ha",
   "tracks": [
     {
       "added_at": "2024-07-05 22:41:57",
@@ -795,46 +795,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz)",
-        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
-        }
-      ],
-      "duration_ms": 189817,
-      "name": "Baila Conmigo (feat. Kelly Ruiz)",
-      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Obscure Tribal",
-        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
-      },
-      "artists": [
-        {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
-        }
-      ],
-      "duration_ms": 168829,
-      "name": "Tambor Azteca",
-      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "The Virus (Alan Rosales Remix)",
         "url": "https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA"
       },
@@ -859,6 +819,46 @@
       "duration_ms": 271259,
       "name": "The Virus - Alan Rosales Remix",
       "url": "https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Obscure Tribal",
+        "url": "https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z"
+      },
+      "artists": [
+        {
+          "name": "Syztema",
+          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
+        }
+      ],
+      "duration_ms": 168829,
+      "name": "Tambor Azteca",
+      "url": "https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Baila Conmigo (feat. Kelly Ruiz)",
+        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+        }
+      ],
+      "duration_ms": 189817,
+      "name": "Baila Conmigo (feat. Kelly Ruiz)",
+      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Ecos del Pasado",
+        "url": "https://open.spotify.com/album/2KEWgKCGUVMA4YHXLTnVdG"
+      },
+      "artists": [
+        {
+          "name": "DJ Sadyer",
+          "url": "https://open.spotify.com/artist/4bx9K7JUhIZAmkZ08qK5Hs"
+        },
+        {
+          "name": "DjGiovanni R\u00edos",
+          "url": "https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo"
+        }
+      ],
+      "duration_ms": 229149,
+      "name": "Hybrid",
+      "url": "https://open.spotify.com/track/4HTMzoGjUmu05fQv0EaEZE"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/2RLgy549hB1pE0RhFebCmQ"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 200120,
       "name": "Domination",
       "url": "https://open.spotify.com/track/6RSvdEqQvf1orNbomVCvAZ"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "El \u00daltimo",
-        "url": "https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p"
-      },
-      "artists": [
-        {
-          "name": "El Catorce",
-          "url": "https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc"
-        },
-        {
-          "name": "Syztema",
-          "url": "https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1"
-        }
-      ],
-      "duration_ms": 300522,
-      "name": "Kombat",
-      "url": "https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax"
     }
   ],
   "unique_name": "Fiesta Tribal",

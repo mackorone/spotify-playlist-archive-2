@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 177816,
+  "num_followers": 177906,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABDWJxlGCduNq9yCAEktEwk",
+  "snapshot_id": "ao9+AAAAAAD8/qU9JtbxTDw91Bb/dy9v",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 188940,
+      "name": "Routine Rouge",
+      "url": "https://open.spotify.com/track/3XE4ONqvAqbyADR17aoGO4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
@@ -243,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
-        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 188940,
-      "name": "Routine Rouge",
-      "url": "https://open.spotify.com/track/3XE4ONqvAqbyADR17aoGO4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR",
         "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
       },
@@ -271,22 +271,6 @@
       "duration_ms": 243493,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2tdDlP8w9wFp7m41KimBf1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 229776,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR"
     },
     {
       "added_at": null,
@@ -307,6 +291,22 @@
       "duration_ms": 256179,
       "name": "Say What (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/0aHM1klz6sGAmpjRPXkjMq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 229776,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 311197,
-      "name": "Recognize (feat. Drake)",
-      "url": "https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 283285,
       "name": "Excitement",
       "url": "https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 311197,
+      "name": "Recognize (feat. Drake)",
+      "url": "https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR 3 (P3)",
-        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 175211,
-      "name": "Only U",
-      "url": "https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR TWO",
         "url": "https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r"
       },
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR 4 (P4)",
-        "url": "https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb"
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
       },
       "artists": [
         {
@@ -500,9 +484,25 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 224187,
-      "name": "R e s e n t m e n t",
-      "url": "https://open.spotify.com/track/3ViEhfgPwDKva54pvEQFTO"
+      "duration_ms": 185007,
+      "name": "You Made It",
+      "url": "https://open.spotify.com/track/0ltp7EEFhsMeYjoxywDljd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 175211,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
-        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+        "name": "PARTYNEXTDOOR 4 (P4)",
+        "url": "https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 185007,
-      "name": "You Made It",
-      "url": "https://open.spotify.com/track/0ltp7EEFhsMeYjoxywDljd"
+      "duration_ms": 224187,
+      "name": "R e s e n t m e n t",
+      "url": "https://open.spotify.com/track/3ViEhfgPwDKva54pvEQFTO"
     },
     {
       "added_at": null,

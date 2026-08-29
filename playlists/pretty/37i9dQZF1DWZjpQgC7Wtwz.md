@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,904 likes - 67 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,939 likes - 67 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 10 | [Mi Complemento](https://open.spotify.com/track/7jKUavCofX9Wz3kzvyoDXu) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Rancheando en la Ciudad con Gerardo Diaz y Los Huracanes del Norte](https://open.spotify.com/album/4wPdFsMPl53RIwosl7psff) | 3:18 |
 | 11 | [Leña De Pirul](https://open.spotify.com/track/7wj70qg5GF8jj2bpZiNC2Y) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Leña De Pirul](https://open.spotify.com/album/5Yr2KAdhp8yfmqk6PvPq3f) | 2:46 |
 | 12 | [De Sobremanera](https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:38 |
-| 13 | [Mi Talisman \(En Vivo\)](https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza 2 \(En Vivo\)](https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2) | 3:14 |
+| 13 | [Mi Talisman \- En Vivo](https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza 2 \(En Vivo\)](https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2) | 3:14 |
 | 14 | [De Su Vida Me Iré](https://open.spotify.com/track/2o1xzYqSsLMHzCVPdoasbT) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 3:08 |
 | 15 | [El Numero Uno](https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R) | [Los Incomparables De Tijuana](https://open.spotify.com/artist/1JrKcJc1BbSApAFYNJ4JAN) | [Los Corridos Del Millon](https://open.spotify.com/album/3Z8tyBwTyt3lp50bnqWy4e) | 3:56 |
 | 16 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 66 | [Angel De La Noche](https://open.spotify.com/track/1Hc4PjVo786LWDwJiJ6TtV) | [Banda Astilleros](https://open.spotify.com/artist/74Ce3QQ4v5ShuF268P2bd9) | [El Angel De La Noche](https://open.spotify.com/album/3tkY4I8KxtH01tzveayN1o) | 2:47 |
 | 67 | [Rosa Rosita](https://open.spotify.com/track/2hpqsqou6JUenpVHHCZsyi) | [Los Tres Mendoza](https://open.spotify.com/artist/5Ihzx2NafZh3IfIWrvakpW) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/6dvw2yoDvVBYTtoxqAfXG9) | 2:20 |
 
-Snapshot ID: `AAAAALZbE4PNIFv4prDMU0eV0T0IQJ/X`
+Snapshot ID: `AAAAAKdWOKGH0kryyj8sUP7jvt75NVeE`

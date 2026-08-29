@@ -1,12 +1,12 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 242474,
+  "num_followers": 242472,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOuNpNPcDmaue9zSMUsnzLEG3kiB",
+  "snapshot_id": "AAAAAODfVZ2CDaCKdT1jbPn+T0UW506/",
   "tracks": [
     {
       "added_at": "2024-08-01 10:59:15",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Through the Fire",
+        "url": "https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "duration_ms": 149374,
+      "name": "Through the Fire",
+      "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 192122,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Through the Fire",
-        "url": "https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB"
-      },
-      "artists": [
-        {
-          "name": "PALASTIC",
-          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
-        }
-      ],
-      "duration_ms": 149374,
-      "name": "Through the Fire",
-      "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 198312,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 375178,
       "name": "Elements",
       "url": "https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 198312,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
     }
   ],
   "unique_name": "melancholia",

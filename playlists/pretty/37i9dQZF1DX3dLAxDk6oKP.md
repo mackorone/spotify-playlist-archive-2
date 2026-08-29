@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 
 > Al cien en la mamalona!
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,967 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,047 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 75 | [Jacobo Grinberg](https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Jacobo Grinberg](https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t) | 4:41 |
 | 76 | [Sin Miedo \- En Vivo](https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd) | 3:30 |
 | 77 | [COMO CAPO](https://open.spotify.com/track/395oynN3pkdaY3Np0igFCN) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [COMO CAPO](https://open.spotify.com/album/5TDTBVPY0Vcp3eL3YZh98E) | 2:45 |
-| 78 | [Yo Vengo De La Nada](https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Yo Vengo De La Nada](https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq) | 2:36 |
-| 79 | [Hoy Todo Cambio](https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Hoy Todo Cambio](https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy) | 3:23 |
+| 78 | [Hoy Todo Cambio](https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Hoy Todo Cambio](https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy) | 3:23 |
+| 79 | [Yo Vengo De La Nada](https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Yo Vengo De La Nada](https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq) | 2:36 |
 | 80 | [Es Difícil Ser Un Santo](https://open.spotify.com/track/6NuJqPmsZEag7XJf0B67ZI) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 3:01 |
 | 81 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 |
 | 82 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 99 | [Polvo de Hadas](https://open.spotify.com/track/1BeJcPh87ayQXulFU5FPD3) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:53 |
 | 100 | [El Capo](https://open.spotify.com/track/1G6UuYgVNFi54L0wXQfMhO) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [El Capo](https://open.spotify.com/album/6iapJcyMNDXQeapRUz7knk) | 2:22 |
 
-Snapshot ID: `AAAAAGuhmX8JZdA7nxKj0q3geqNgKNfb`
+Snapshot ID: `AAAAANqeyLlwxiVze7N5PLiUYRpPd9aJ`

@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 122528,
+  "num_followers": 122540,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACUYVR5YPCyiMGN2dpXZMvO",
+  "snapshot_id": "ao9+AAAAAAC4pcGHslrdXl8b5MNmq3X7",
   "tracks": [
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
+      "duration_ms": 219973,
+      "name": "You're So Foxy",
+      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 219973,
-      "name": "You're So Foxy",
-      "url": "https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV"
+      "duration_ms": 269000,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo"
     },
     {
       "added_at": null,

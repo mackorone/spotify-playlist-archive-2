@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 
 > De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,005 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,015 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 54 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 55 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
 | 56 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 |
-| 57 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
-| 58 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
+| 57 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 |
+| 58 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 |
 | 59 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 |
 | 60 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 |
 | 61 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 73 | [You & Me \- Flume Remix](https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:42 |
 | 74 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
 | 75 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 |
-| 76 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 76 | [I Believe In A Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 77 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 | 78 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 79 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 92 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 93 | [Dance Yrself Clean](https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:56 |
 | 94 | [Figure It Out](https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:03 |
-| 95 | [adore u](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 |
-| 96 | [Watch Out For This \(Bumaye\)](https://open.spotify.com/track/5StvAhgmgCOpCPHHNfS8bx) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [The Flexican](https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN) | [Free the Universe](https://open.spotify.com/album/1MGMwkEuzCHda8lE3GA4RR) | 4:29 |
-| 97 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
+| 95 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 |
+| 96 | [adore u](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 |
+| 97 | [Watch Out For This \(Bumaye\)](https://open.spotify.com/track/5StvAhgmgCOpCPHHNfS8bx) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [The Flexican](https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN) | [Free the Universe](https://open.spotify.com/album/1MGMwkEuzCHda8lE3GA4RR) | 4:29 |
 | 98 | [Looking Too Closely](https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:10 |
 | 99 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 100 | [America](https://open.spotify.com/track/6bS7DqTuzrpkluB7boWmw2) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Razorlight](https://open.spotify.com/album/1AXk7nf6pCqLRrfPVJbZEj) | 4:09 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 124 | [Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/3sE83l3A58DipFp3EzNLiE) | 4:28 |
 | 125 | [Dry Your Eyes](https://open.spotify.com/track/3PEx44by2Pe7E6M8tgqE5N) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:31 |
 
-Snapshot ID: `AAAAAJICOXYfz2vgHHyhXelfxdUPL64i`
+Snapshot ID: `AAAAAFIZuIkvcvL7G7IF1busIAG11WWR`

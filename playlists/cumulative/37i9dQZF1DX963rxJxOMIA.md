@@ -4,7 +4,7 @@
 
 > Fino y elegante como Ryan Castro y Feid.
 
-479 songs - 1 day 1 hr 8 min
+480 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Mi Novio Tiene Novia \- W Sound 02](https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Novio Tiene Novia \(W Sound 02\)](https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW) | 2:42 | 2026-03-18 | 2026-03-27 |
 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2025-01-10 | 2026-04-04 |
 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 | 2025-04-04 | 2026-05-02 |
+| [mimosa](https://open.spotify.com/track/0fmreURNhbPSNCaFuSrtxO) | [lila sky](https://open.spotify.com/artist/3LsIR9rVSsNmyRYcJOsdyH), [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL) | [mimosa](https://open.spotify.com/album/5X1hoVn2c5yyf3CJBLTMX8) | 2:22 | 2026-08-28 |  |
 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 | 2024-05-17 | 2025-04-19 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-09-06 | 2026-08-22 |
 | [MONALISA](https://open.spotify.com/track/623CN16ZHQmzAkGQtxziqf) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [MONALISA](https://open.spotify.com/album/3amtrXyHq5wOvkt2NwFtjw) | 3:03 | 2026-03-18 | 2026-03-27 |

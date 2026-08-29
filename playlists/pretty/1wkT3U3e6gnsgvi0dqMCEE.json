@@ -6,13 +6,13 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAD/bmNr4+f8RnA86lK7FJ2eTBipC55",
+  "snapshot_id": "AAAEBgKz4AGJx2IGAmLzUAna9kg69KT0",
   "tracks": [
     {
-      "added_at": "2026-08-07 15:56:33",
+      "added_at": "2026-08-28 16:39:11",
       "album": {
-        "name": "In View (Live July 22 - August 20, 2016)",
-        "url": "https://open.spotify.com/album/0mYTOBcqWfaYuraLGpcyas"
+        "name": "Ahead By A Century (Live July 22 - August 20, 2016)",
+        "url": "https://open.spotify.com/album/3ArppNtTxIGWQrdcc0lq0i"
       },
       "artists": [
         {
@@ -20,9 +20,93 @@
           "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
         }
       ],
-      "duration_ms": 232240,
-      "name": "In View - Live July 22 - August 20, 2016",
-      "url": "https://open.spotify.com/track/5QTVHUdzLlECMpW85caLcT"
+      "duration_ms": 431126,
+      "name": "Ahead By A Century - Live July 22 - August 20, 2016",
+      "url": "https://open.spotify.com/track/51nPNBWBfConxNUyGYplu2"
+    },
+    {
+      "added_at": "2026-08-28 16:36:58",
+      "album": {
+        "name": "Day Tripper (Songwriting Work Tape)",
+        "url": "https://open.spotify.com/album/0tg8bWIXHgk8XL6arW9Y2v"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 139373,
+      "name": "Day Tripper (Songwriting Work Tape)",
+      "url": "https://open.spotify.com/track/5bEuCG8Ih4tOIfMNO3enQo"
+    },
+    {
+      "added_at": "2026-08-28 16:37:32",
+      "album": {
+        "name": "Tears Dry (Alternative Demo)",
+        "url": "https://open.spotify.com/album/2XLVwZTZT8hH49dRe5iqqE"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 279826,
+      "name": "Tears Dry - Alternative Demo",
+      "url": "https://open.spotify.com/track/3kg2U7CeWSC9hvqetJfuFS"
+    },
+    {
+      "added_at": "2026-08-28 16:37:41",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4f2eRJXelRGjIu5i7Ow7Hz"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "duration_ms": 175508,
+      "name": "Make It Stop",
+      "url": "https://open.spotify.com/track/1sXirPJQhjgo6BR0bPjAiv"
+    },
+    {
+      "added_at": "2026-08-28 16:38:31",
+      "album": {
+        "name": "Live At The Roxy - The Complete Concert",
+        "url": "https://open.spotify.com/album/4N3FRWAVeD4mWSgIpitOVw"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 295733,
+      "name": "Trenchtown Rock - Live At The Roxy Theatre",
+      "url": "https://open.spotify.com/track/6AN6ciH6HnEc9DviPYabny"
+    },
+    {
+      "added_at": "2026-08-28 16:38:51",
+      "album": {
+        "name": "Hungry Freaks, Daddy / I'm Not Satisfied",
+        "url": "https://open.spotify.com/album/4ocLdMMH1X9cvdhsOmjYir"
+      },
+      "artists": [
+        {
+          "name": "The Mothers Of Invention",
+          "url": "https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL"
+        },
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "duration_ms": 160554,
+      "name": "I'm Not Satisfied - Mothers Demo",
+      "url": "https://open.spotify.com/track/1JJnVszujXm5yGxD1Zi7LU"
     },
     {
       "added_at": "2026-08-01 17:01:43",
@@ -239,6 +323,22 @@
       "duration_ms": 210466,
       "name": "Hungry Freaks, Daddy",
       "url": "https://open.spotify.com/track/3Zwcr6lymZaeTXtEMxlfXA"
+    },
+    {
+      "added_at": "2026-08-07 15:56:33",
+      "album": {
+        "name": "In View (Live July 22 - August 20, 2016)",
+        "url": "https://open.spotify.com/album/0mYTOBcqWfaYuraLGpcyas"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "In View - Live July 22 - August 20, 2016",
+      "url": "https://open.spotify.com/track/5QTVHUdzLlECMpW85caLcT"
     },
     {
       "added_at": "2026-06-26 13:12:54",

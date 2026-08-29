@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,396 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,419 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 99 | [Bitch Theme](https://open.spotify.com/track/3wu6pRZrOAAet8YxeZ49nv) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/0er043d9DCecxrz0XVsPos) | 1:31 |
 | 100 | [Dig Me Out](https://open.spotify.com/track/7zu3y0YRx0s5H5AIF8ULVJ) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/5WwTUr1kf45gsJ1ZUGGwuL) | 2:40 |
 
-Snapshot ID: `AAAAABbBNL01yyBE0yFwmgRfmb3T7U4O`
+Snapshot ID: `AAAAAGUAaaCPBOga29lZB4l6gTt376ss`

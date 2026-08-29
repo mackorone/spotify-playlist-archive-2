@@ -1,12 +1,12 @@
 {
   "description": "Las rom\u00e1nticas de hoy con las de siempre. Cover: Abraham Mateo & Maria Becerra",
-  "num_followers": 1938601,
+  "num_followers": 1938472,
   "original_name": "Pop Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0oFu5z5pIKHxvCfdg0u+6/vdbR",
+  "snapshot_id": "AAAAAMHigd54hxEkVudauSWn8Wf2Nor8",
   "tracks": [
     {
       "added_at": "2026-08-20 18:32:17",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-08-20 18:32:17",
       "album": {
-        "name": "Falta Amor",
-        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Rayando el Sol",
-      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
-    },
-    {
-      "added_at": "2026-08-20 18:32:17",
-      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
+    },
+    {
+      "added_at": "2026-08-20 18:32:17",
+      "album": {
+        "name": "Falta Amor",
+        "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Rayando el Sol",
+      "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
       "added_at": "2026-08-20 18:32:17",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-08-20 18:32:17",
       "album": {
+        "name": "Amor prohibido",
+        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Yo no te pido la luna (Non voglio mica la luna)",
+      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
+    },
+    {
+      "added_at": "2026-08-20 18:32:17",
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2026-08-20 18:32:17",
       "album": {
-        "name": "Amor prohibido",
-        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Yo no te pido la luna (Non voglio mica la luna)",
-      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
-    },
-    {
-      "added_at": "2026-08-20 18:32:17",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-08-20 18:32:17",
       "album": {
-        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
-        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "Te Esperaba",
-      "url": "https://open.spotify.com/track/22t10FTx8y3pC5fjLuKJ8K"
-    },
-    {
-      "added_at": "2026-08-20 18:32:17",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 405120,
       "name": "Historia de Taxi",
       "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
+    },
+    {
+      "added_at": "2026-08-20 18:32:17",
+      "album": {
+        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
+        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Te Esperaba",
+      "url": "https://open.spotify.com/track/22t10FTx8y3pC5fjLuKJ8K"
     },
     {
       "added_at": "2026-08-20 18:32:17",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-08-20 18:32:17",
       "album": {
-        "name": "Un Segundo En El Tiempo",
-        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Es Mejor As\u00ed",
-      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
-    },
-    {
-      "added_at": "2026-08-20 18:32:17",
-      "album": {
         "name": "Siempre En Mi Mente",
         "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 205866,
       "name": "Siempre en Mi Mente",
       "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
+    },
+    {
+      "added_at": "2026-08-20 18:32:17",
+      "album": {
+        "name": "Un Segundo En El Tiempo",
+        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Es Mejor As\u00ed",
+      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
     },
     {
       "added_at": "2026-08-20 18:32:17",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-08-20 18:32:17",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 259440,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
-    },
-    {
-      "added_at": "2026-08-20 18:32:17",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 182520,
       "name": "S\u00f3lo para Ti",
       "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+    },
+    {
+      "added_at": "2026-08-20 18:32:17",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 259440,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
     },
     {
       "added_at": "2026-08-20 18:32:17",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-08-20 18:32:17",
       "album": {
-        "name": "Mi Vida Sin Tu Amor",
-        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 281693,
-      "name": "Volver a Amar",
-      "url": "https://open.spotify.com/track/6FgEE6uNgGz0RbH8nlF4as"
-    },
-    {
-      "added_at": "2026-08-20 18:32:17",
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 234933,
       "name": "He Renunciado a Ti - Remasterizado",
       "url": "https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn"
+    },
+    {
+      "added_at": "2026-08-20 18:32:17",
+      "album": {
+        "name": "Mi Vida Sin Tu Amor",
+        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 281693,
+      "name": "Volver a Amar",
+      "url": "https://open.spotify.com/track/6FgEE6uNgGz0RbH8nlF4as"
     },
     {
       "added_at": "2026-08-20 18:32:17",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2026-08-20 18:32:17",
       "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        },
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Tan S\u00f3lo T\u00fa (feat. Alejandra Guzm\u00e1n) - Franco De Vita en Primera Fila",
+      "url": "https://open.spotify.com/track/6dhnmkbc9Z7pGsUyUgZKGX"
+    },
+    {
+      "added_at": "2026-08-20 18:32:17",
+      "album": {
         "name": "Yo Creo",
         "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 251520,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i"
-    },
-    {
-      "added_at": "2026-08-20 18:32:17",
-      "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        },
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Tan S\u00f3lo T\u00fa (feat. Alejandra Guzm\u00e1n) - Franco De Vita en Primera Fila",
-      "url": "https://open.spotify.com/track/6dhnmkbc9Z7pGsUyUgZKGX"
     },
     {
       "added_at": "2026-08-20 18:32:17",

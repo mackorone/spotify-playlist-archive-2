@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,149 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,211 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 17 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
 | 18 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
 | 19 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
-| 20 | [The Next Time I Fall \(with Amy Grant\)](https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 3:46 |
+| 20 | [Every Time You Go Away](https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [The Secret Of Association](https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho) | 5:24 |
 | 21 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
-| 22 | [Every Time You Go Away](https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [The Secret Of Association](https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho) | 5:24 |
+| 22 | [The Next Time I Fall \(with Amy Grant\)](https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 3:46 |
 | 23 | [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 |
 | 24 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 |
 | 25 | [Into The Night](https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc) | [Benny Mardones](https://open.spotify.com/artist/6ZalUpnU8HaHSjROM92Txw) | [Never Run Never Hide](https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m) | 4:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 74 | [Brooklyn Girls \- Remastered](https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Street Corner Heroes](https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t) | 3:25 |
 | 75 | [It Will Be Alright](https://open.spotify.com/track/2fbQVHBdsNLD6ol4KsUHPM) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:01 |
 
-Snapshot ID: `AAAAAKbUdZJlXNSrSXjt2zexvKkEpSea`
+Snapshot ID: `AAAAADrJSsnUZdWjLPGzjpeDq/NMYUqC`

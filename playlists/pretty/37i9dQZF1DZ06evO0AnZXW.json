@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2938692,
+  "num_followers": 2938616,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADYmxMOnn+Lf0o+sLRhgRFx",
+  "snapshot_id": "ao9+AAAAAAA/bvTfFD5JlWNc9giuBbwR",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 87560,
-      "name": "I Don't Wanna Do This Anymore",
-      "url": "https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 87560,
+      "name": "I Don't Wanna Do This Anymore",
+      "url": "https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 112800,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XXXTENTACION Presents: Members Only, Vol. 4",
         "url": "https://open.spotify.com/album/4EeDFhIVRxOg4dx7ozSNXa"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 144724,
       "name": "Sauce!",
       "url": "https://open.spotify.com/track/3jq1RpStaB1YGyN3rRZGca"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 112800,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 137173,
-      "name": "Looking for a Star",
-      "url": "https://open.spotify.com/track/1B3TX5FbmcVROMv2riOwyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 249450,
       "name": "Don't Cry (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/5BQrp63SHCVf4bzCzJePne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 137173,
+      "name": "Looking for a Star",
+      "url": "https://open.spotify.com/track/1B3TX5FbmcVROMv2riOwyE"
     },
     {
       "added_at": null,

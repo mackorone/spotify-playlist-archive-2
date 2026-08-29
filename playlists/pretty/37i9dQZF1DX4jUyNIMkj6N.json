@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 224307,
+  "num_followers": 224320,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEu0Hl65ThNYlsfAwQXYgdeuwQyU",
+  "snapshot_id": "AAAAAKfJ7aDPnp+oD8SEy70ROnEjFhWk",
   "tracks": [
     {
       "added_at": "2026-08-27 22:01:19",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-27 22:01:19",
       "album": {
-        "name": "Backside",
-        "url": "https://open.spotify.com/album/5eyeetaAQJzD7FaunBWJ04"
-      },
-      "artists": [
-        {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Backside",
-      "url": "https://open.spotify.com/track/5dnQpnRgD5Ssc76e9QPFux"
-    },
-    {
-      "added_at": "2026-08-27 22:01:19",
-      "album": {
         "name": "Laminar Flow",
         "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 133613,
       "name": "forever, for a while",
       "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
+    },
+    {
+      "added_at": "2026-08-27 22:01:19",
+      "album": {
+        "name": "Backside",
+        "url": "https://open.spotify.com/album/5eyeetaAQJzD7FaunBWJ04"
+      },
+      "artists": [
+        {
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Backside",
+      "url": "https://open.spotify.com/track/5dnQpnRgD5Ssc76e9QPFux"
     },
     {
       "added_at": "2026-08-27 22:01:19",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-08-27 22:01:19",
       "album": {
-        "name": "In a Dream",
-        "url": "https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "In a Dream",
-      "url": "https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I"
-    },
-    {
-      "added_at": "2026-08-27 22:01:19",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 251140,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz"
+    },
+    {
+      "added_at": "2026-08-27 22:01:19",
+      "album": {
+        "name": "In a Dream",
+        "url": "https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "In a Dream",
+      "url": "https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I"
     },
     {
       "added_at": "2026-08-27 22:01:19",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-27 22:01:19",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "bl\u00f3mi",
-      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
-    },
-    {
-      "added_at": "2026-08-27 22:01:19",
-      "album": {
         "name": "Something Good",
         "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 225939,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
+    },
+    {
+      "added_at": "2026-08-27 22:01:19",
+      "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 299840,
+      "name": "bl\u00f3mi",
+      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
     },
     {
       "added_at": "2026-08-27 22:01:19",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABkxG4elUimJnjQedfmlXLZ",
+  "snapshot_id": "ao9+AAAAAAC59W51sEhfdIjNa9AtNSCt",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 238116,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DDM Anthem",
         "url": "https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 238116,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crimen Organizado",
         "url": "https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1"
       },
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh"
-      },
-      "artists": [
-        {
-          "name": "Trouble Kidd",
-          "url": "https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw"
-        },
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 128347,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Platicame De Ti (En Vivo)",
         "url": "https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 174155,
       "name": "Platicame De Ti - En Vivo",
       "url": "https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh"
+      },
+      "artists": [
+        {
+          "name": "Trouble Kidd",
+          "url": "https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw"
+        },
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 128347,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5"
     }
   ],
   "unique_name": "This Is Arsenal Efectivo",

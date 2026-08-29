@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCq6Hu9FwJd.md) - [plain]
 | 19 | [Please](https://open.spotify.com/track/1I1QqHDHgnEDfeQ20QFWvj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 2:52 |
 | 20 | [NORMAL](https://open.spotify.com/track/4pcMA8zSATPOZzZd6fWI5N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:04 |
 
-Snapshot ID: `AAAAAAK92lHMe8AlcdeYDcwu05rT6Vni`
+Snapshot ID: `AAAAAPyt0ToUwGMM+AZOEndKh491XjPk`

@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Phyno
 
-820 songs - 1 day 14 hr 20 min
+820 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Big Deel](https://open.spotify.com/track/66RjUgZnuFIMuwtL51wdQ5) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:11 | 2024-11-08 | 2024-11-16 |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 | 2023-06-17 |
 | [Big Masquerade \(Opu Owu\)](https://open.spotify.com/track/7gc3zWnWsNq1AWX1o9iCKw) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Time Traveler](https://open.spotify.com/album/07wy9JIr7cu1W95IORtr3S) | 2:15 | 2026-03-16 | 2026-07-20 |
-| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 | 2026-08-28 |  |
+| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 | 2026-08-28 |  |
 | [Biko](https://open.spotify.com/track/2EU8sMA1cxTIWIbUGd8pRA) | [Bawa ALA](https://open.spotify.com/artist/1Q98mSTvrmCOEzRZhlMUz1) | [Biko / Iwai](https://open.spotify.com/album/5loaagDKYuReBMUeeLq35C) | 2:14 | 2025-02-14 | 2025-03-07 |
 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 | 2025-06-20 |  |
 | [Birkin Baby](https://open.spotify.com/track/2v6IlFqm8pAa2s6Sqhib5u) | [Skinny Skater](https://open.spotify.com/artist/1GS3dN5V15qDZV5Qqi9Bm1) | [Birkin Baby](https://open.spotify.com/album/13M1N2mOP9KSLSCUOM4PyU) | 2:30 | 2025-05-30 | 2025-06-28 |

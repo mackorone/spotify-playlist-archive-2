@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375729,
+  "num_followers": 375747,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACqZgjG4IF/0QpaBdIaoSsM",
+  "snapshot_id": "ao9+AAAAAACEh3l7EzTyJ2QFx4YB1U/H",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 80760,
-      "name": "Beijo (Interlude)",
-      "url": "https://open.spotify.com/track/2RaN7kGPxuT3wvpdw9dyND"
+      "duration_ms": 230674,
+      "name": "Serpentine Fire",
+      "url": "https://open.spotify.com/track/0KDc8l4VNTu6OkMYK9D7HC"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 230674,
-      "name": "Serpentine Fire",
-      "url": "https://open.spotify.com/track/0KDc8l4VNTu6OkMYK9D7HC"
+      "duration_ms": 80760,
+      "name": "Beijo (Interlude)",
+      "url": "https://open.spotify.com/track/2RaN7kGPxuT3wvpdw9dyND"
     },
     {
       "added_at": null,
@@ -663,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
       },
       "artists": [
         {
           "name": "Earth, Wind & Fire",
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 215298,
-      "name": "Happy Feelin'",
-      "url": "https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ"
+      "duration_ms": 276600,
+      "name": "The Way You Move (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/39h3z023DlqOR9dFUqkVik"
     },
     {
       "added_at": null,
@@ -695,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 215298,
+      "name": "Happy Feelin'",
+      "url": "https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Head To The Sky",
         "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 300017,
       "name": "Evil",
       "url": "https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "The Way You Move (feat. Kenny G)",
-      "url": "https://open.spotify.com/track/39h3z023DlqOR9dFUqkVik"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277543,
-      "name": "I've Had Enough",
-      "url": "https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illumination",
         "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 467733,
       "name": "Show Me the Way (feat. Raphael Saadiq)",
       "url": "https://open.spotify.com/track/0wMW42Ho6PLXPNjRy9HMqg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 277543,
+      "name": "I've Had Enough",
+      "url": "https://open.spotify.com/track/157By8hFx0KvNuSKtjubDo"
     },
     {
       "added_at": null,

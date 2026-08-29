@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,672 likes - 40 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,673 likes - 40 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 34 | [ASHERTOYOU!!!!](https://open.spotify.com/track/5TO2186PXHZGuL8U1U6W8T) | [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [Zion V: The Ballad Of Charles Douthit](https://open.spotify.com/album/1Qa6GE61jrCfL4GIwZAmx2) | 1:45 |
 | 35 | [Lindo](https://open.spotify.com/track/0Np0GTkucxwBiL4pkE0XxD) | [Wanderléa](https://open.spotify.com/artist/2ph3uep2AopkQ4romPAik0) | [Wanderlea: Mais Que A Paixão](https://open.spotify.com/album/0vWc4HuOA1KEisENTANXIQ) | 3:46 |
 | 36 | [Point and Kill](https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:05 |
-| 37 | [She’s Gone, Dance On \(Live From The Mews\)](https://open.spotify.com/track/6kEQoXJQZnvJk4OB6VJMSm) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On \(Live From The Mews\)](https://open.spotify.com/album/1c15mn8BZMpTwzBIEcS43z) | 5:10 |
+| 37 | [She’s Gone, Dance On \- Live From The Mews](https://open.spotify.com/track/6kEQoXJQZnvJk4OB6VJMSm) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On \(Live From The Mews\)](https://open.spotify.com/album/1c15mn8BZMpTwzBIEcS43z) | 5:10 |
 | 38 | [Under the Moon and Over the Sky](https://open.spotify.com/track/6EFagSx8kOmHnXnryCnnEW) | [Angela Bofill](https://open.spotify.com/artist/07CTbCcLVHYwZqp1YMdf4t) | [Angie \(Expanded Edition\)](https://open.spotify.com/album/7KYOGBzyo40slOc0EJGOsb) | 5:43 |
 | 39 | [Body Heat](https://open.spotify.com/track/0OLOcKHN4uXRo5ISx2TAqk) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [Body Heat](https://open.spotify.com/album/3lvSxvMmdUz694tDBXkPmv) | 3:58 |
 | 40 | [Za\-Za Solo](https://open.spotify.com/track/5uBTjPNku2eE4TF6Rjbajb) | [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [My Field Recordings from Across the Planet](https://open.spotify.com/album/3EmUGs6NPCzWB4JOMsmyk7) | 1:18 |
 
-Snapshot ID: `AAAAAAQrG5gxb+vd6izhrv9ENFyFIF4d`
+Snapshot ID: `AAAAAGRtMtRLLpF0y3kAih2YW+KbUBXk`

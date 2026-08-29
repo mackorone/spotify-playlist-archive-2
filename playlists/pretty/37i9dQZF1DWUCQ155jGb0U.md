@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,304 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,271 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCQ155jGb0U.md) - [plain]
 | 99 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 |
 | 100 | [Otherside](https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 4:15 |
 
-Snapshot ID: `AAAAAGyuN0ruM6UCPVVV1f1yh4wfT7iz`
+Snapshot ID: `AAAAABmHQGLj4nawlEmy0uBi8WgdweoQ`

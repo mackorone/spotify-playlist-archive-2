@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,370 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,423 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 8 | [It's No Good](https://open.spotify.com/track/7HDWE2Ib7cjkhzULV4K8y3) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ultra \(Deluxe\)](https://open.spotify.com/album/0OWIVcNE4aItrlRvMUVueO) | 5:58 |
 | 9 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
 | 10 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
-| 11 | [Megalomaniac](https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 6:07 |
-| 12 | [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 |
-| 13 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 |
+| 11 | [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 |
+| 12 | [Drown](https://open.spotify.com/track/3eMYc6FK9XvyauIaxcJtRS) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:30 |
+| 13 | [Megalomaniac](https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 6:07 |
 | 14 | [Blue Monday](https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 4:27 |
 | 15 | [Aneurysm](https://open.spotify.com/track/0Pie5DFAHHxpkONFUsAI6s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Incesticide](https://open.spotify.com/album/6ICrBzsbHVluGHP8wGK4Y3) | 4:35 |
-| 16 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 |
-| 17 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
+| 16 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
+| 17 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 |
 | 18 | [Engel](https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:24 |
 | 19 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
 | 20 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 42 | [Sometimes Always](https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned \(Expanded Version\)](https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H) | 2:31 |
 | 43 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 |
 | 44 | [Buena](https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:19 |
-| 45 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
-| 46 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
+| 45 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
+| 46 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
 | 47 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
 | 48 | [Black Sunshine](https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 4:49 |
 | 49 | [Cure for Pain](https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:14 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 60 | [You Look Like Rain](https://open.spotify.com/track/5QH3pNXpDzSIMziqX9lL1l) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Good](https://open.spotify.com/album/6NuVZbtcscN4RpgZd5UzQy) | 3:40 |
 | 61 | [Thieves](https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [The Mind Is a Terrible Thing to Taste](https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5) | 5:01 |
 | 62 | [Demanufacture](https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Demanufacture \(Special Edition\)](https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2) | 4:12 |
-| 63 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
+| 63 | [Anarchy](https://open.spotify.com/track/0VC1EpCNjQRGWtxabI7fK6) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 5:34 |
 | 64 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
-| 65 | [Anarchy](https://open.spotify.com/track/0VC1EpCNjQRGWtxabI7fK6) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Symbols](https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC) | 5:34 |
+| 65 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
 | 66 | [Good Morning, Captain](https://open.spotify.com/track/1BNZMXjqqULiV0DmFU1B8S) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 7:39 |
 | 67 | [Head On](https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Automatic \(Expanded Version\)](https://open.spotify.com/album/3W4GA8mOLJpARbJCxWWqFm) | 4:11 |
 | 68 | [Nobody but You](https://open.spotify.com/track/1zwtvbJL8H8jG0qbbomS1P) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Songs For Drella](https://open.spotify.com/album/4Nyu5zVDr4XV6QOBCqdTrk) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 74 | [Head Like A Hole](https://open.spotify.com/track/6j0Q06QmlWdd8xlS8NrOhl) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine \(Remastered\)](https://open.spotify.com/album/6IwZ3rIE9F6j1R1LyBrVXu) | 5:00 |
 | 75 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
 
-Snapshot ID: `AAAAAHOe036m8aORr97uJ/55mrQZ5f/R`
+Snapshot ID: `AAAAAGxt0Okri4fpox4FaVBG0XDGeLdm`

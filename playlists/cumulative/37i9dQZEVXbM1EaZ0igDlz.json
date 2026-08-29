@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -5532,7 +5532,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -5738,7 +5738,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -5792,7 +5792,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -8034,7 +8034,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
@@ -9501,6 +9501,28 @@
     },
     {
       "album": {
+        "name": "Inundauswendig",
+        "url": "https://open.spotify.com/album/0R7lKm7pMZHjdrY1UVcc02"
+      },
+      "artists": [
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Inundauswendig",
+      "url": "https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq"
+    },
+    {
+      "album": {
         "name": "Stay with You",
         "url": "https://open.spotify.com/album/7ttozw5DWCdQaqfzCMevPc"
       },
@@ -9534,6 +9556,24 @@
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "album": {
+        "name": "ISSA",
+        "url": "https://open.spotify.com/album/5SLGlw14A9KHD5CK6ZNcKQ"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144861,
+      "name": "ISSA",
+      "url": "https://open.spotify.com/track/7medoAnENNaeVAHQbGcOMK"
     },
     {
       "album": {
@@ -12434,7 +12474,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 166401,
       "name": "misery.",
       "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
@@ -13802,7 +13842,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 235493,
       "name": "Only Girl (In The World)",
       "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
@@ -17638,7 +17678,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -17976,6 +18016,24 @@
       "duration_ms": 185110,
       "name": "TALKING",
       "url": "https://open.spotify.com/track/1eaqMiiUn2P7MnqJK4XeK0"
+    },
+    {
+      "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Talking Body",
+      "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
     },
     {
       "album": {
@@ -20061,6 +20119,28 @@
     },
     {
       "album": {
+        "name": "Verschwommen",
+        "url": "https://open.spotify.com/album/2ZsqkEcR7NVtW65rRDTQoO"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128735,
+      "name": "Verschwommen",
+      "url": "https://open.spotify.com/track/1km0nSYg3uFU7ezuRbbwyL"
+    },
+    {
+      "album": {
         "name": "Verwandtschaftstreffen",
         "url": "https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p"
       },
@@ -20532,7 +20612,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 267373,
       "name": "We Are The People",
       "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
@@ -21010,7 +21090,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-15",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
@@ -21384,7 +21464,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -21402,7 +21482,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16218,
+  "num_followers": 16219,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAyVKWGAGBGshC1Uug1RqJ4",
+  "snapshot_id": "ao9+AAAAAAAhCOt75IRV4Lvj65FU1tzl",
   "tracks": [
     {
       "added_at": null,
@@ -1075,30 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
-        "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "AF!RMA",
-          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Medley 4x4",
-      "url": "https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sexto Sentido",
         "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 242600,
       "name": "Mundo das Espertas",
       "url": "https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAPEL DE OT\u00c1RIA | MEDLEY 4X4",
+        "url": "https://open.spotify.com/album/0pX6HvnLUdVsLDm6ktuMwF"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        },
+        {
+          "name": "AF!RMA",
+          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Medley 4x4",
+      "url": "https://open.spotify.com/track/5iwPuUC3SCUxZ753JeGJEn"
     },
     {
       "added_at": null,

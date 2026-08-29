@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 198047,
       "name": "2min Freestyle",
       "url": "https://open.spotify.com/track/6qKrQTJZFOlThY4s8HKYyr"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 198560,
       "name": "A New Life",
       "url": "https://open.spotify.com/track/4myZPKVB0IB56ALzlBUEvt"
@@ -13054,7 +13054,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 153600,
       "name": "Do It (feat. gerardparman)",
       "url": "https://open.spotify.com/track/7gyhbK7ADZ0siYTrGDy4Hz"
@@ -14926,7 +14926,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 120461,
       "name": "Emotional Spectrum",
       "url": "https://open.spotify.com/track/0yfS8ra9aDZuqPeZqYhV1F"
@@ -17445,6 +17445,24 @@
     },
     {
       "album": {
+        "name": "NEKO TAPE",
+        "url": "https://open.spotify.com/album/7E8PftPMZdzgxV3QIy2Fwo"
+      },
+      "artists": [
+        {
+          "name": "toruneko",
+          "url": "https://open.spotify.com/artist/7g6E97zBiks62ymeRwAxLF"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175232,
+      "name": "Freestyler without basketball",
+      "url": "https://open.spotify.com/track/6C0JxQXg73Yq92X8sVfkQZ"
+    },
+    {
+      "album": {
         "name": "RONZ DAYZ",
         "url": "https://open.spotify.com/album/1n3zI3YXFdPp0zwUGASIa1"
       },
@@ -18678,6 +18696,32 @@
       "duration_ms": 154093,
       "name": "Get It On The Floor",
       "url": "https://open.spotify.com/track/1dZQEkyNmLeGlXnXgo80qd"
+    },
+    {
+      "album": {
+        "name": "GET MONEY",
+        "url": "https://open.spotify.com/album/4yzYDWyp4Fio11ETu2X1O1"
+      },
+      "artists": [
+        {
+          "name": "BES",
+          "url": "https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H"
+        },
+        {
+          "name": "SHAKU",
+          "url": "https://open.spotify.com/artist/1mfrYpVkUwHs4KAqJBNDIv"
+        },
+        {
+          "name": "THE BUFFALOZ",
+          "url": "https://open.spotify.com/artist/1O2E1dn62NGUePBJHplO0L"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151348,
+      "name": "GET MONEY",
+      "url": "https://open.spotify.com/track/4Ej45ptKGab22QgKYLHHIX"
     },
     {
       "album": {
@@ -24482,7 +24526,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 184864,
       "name": "Jealous Talk (feat. Deech)",
       "url": "https://open.spotify.com/track/2RnYIuUxljbuRJ6OCj6Uc5"
@@ -39578,7 +39622,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 207480,
       "name": "Put It On The Floor (feat. Vingo)",
       "url": "https://open.spotify.com/track/0Q1yMQkL2bfZjK0BiuZY8F"
@@ -40705,6 +40749,28 @@
     },
     {
       "album": {
+        "name": "Red bull mada?",
+        "url": "https://open.spotify.com/album/5scpzp7MFMrucSfLzxALSw"
+      },
+      "artists": [
+        {
+          "name": "PM Kenobi",
+          "url": "https://open.spotify.com/artist/4UKQgh3XTopmXatJChUMHL"
+        },
+        {
+          "name": "PALMYRA",
+          "url": "https://open.spotify.com/artist/7na6OKij9qJk2nLjiDNB8n"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195018,
+      "name": "Red bull mada?",
+      "url": "https://open.spotify.com/track/2jIuGnIIfxAO982DqDLT63"
+    },
+    {
+      "album": {
         "name": "KOZA CITY",
         "url": "https://open.spotify.com/album/7pPbn1fu7FdJphgyQZNs3S"
       },
@@ -40908,6 +40974,32 @@
       "duration_ms": 179999,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4q7sqitQzS2om2Njiwg5YH"
+    },
+    {
+      "album": {
+        "name": "Replay (Summer'16) [feat. Siero & Only U]",
+        "url": "https://open.spotify.com/album/7eUgnvOH0jf89BTlfLXfRD"
+      },
+      "artists": [
+        {
+          "name": "Ludio",
+          "url": "https://open.spotify.com/artist/41vIKiqDMTHk8ZFm442Vls"
+        },
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        },
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197130,
+      "name": "Replay (Summer'16) [feat. Siero & Only U]",
+      "url": "https://open.spotify.com/track/1aFQMIDAn4VbHcrQT1ntDq"
     },
     {
       "album": {
@@ -52885,6 +52977,28 @@
     },
     {
       "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/7aueJE4DSLhBilNb9ScCwg"
+      },
+      "artists": [
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "Wagamama",
+      "url": "https://open.spotify.com/track/0dI0U8TOFOKkLlrwJeCdlL"
+    },
+    {
+      "album": {
         "name": "WAGAMAMA FASHION",
         "url": "https://open.spotify.com/album/5Lx0gZbAW9LCKSj2kwNCzd"
       },
@@ -55948,6 +56062,28 @@
       "duration_ms": 134068,
       "name": "YELLOW",
       "url": "https://open.spotify.com/track/3TazgQkms3QLcU6cOcSsxw"
+    },
+    {
+      "album": {
+        "name": "YELLOW CAMEL TOE",
+        "url": "https://open.spotify.com/album/1Y362mo7vFo587Fu29MyjK"
+      },
+      "artists": [
+        {
+          "name": "Xansei",
+          "url": "https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70066,
+      "name": "YELLOW CAMEL TOE",
+      "url": "https://open.spotify.com/track/7EsExvMpEkDlHWCSMHDTFu"
     },
     {
       "album": {

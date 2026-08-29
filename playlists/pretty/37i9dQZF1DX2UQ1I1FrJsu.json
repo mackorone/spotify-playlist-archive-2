@@ -1,12 +1,12 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 154325,
+  "num_followers": 154377,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALtXzLgWIjf7uA4y4hAD4UgtKGYY",
+  "snapshot_id": "AAAAADpFShdFamaSHKmq6MNPakNTJd3f",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:58",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-08-28 04:01:58",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
-    },
-    {
-      "added_at": "2026-08-28 04:01:58",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 217240,
       "name": "Bonita Applebum",
       "url": "https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9"
+    },
+    {
+      "added_at": "2026-08-28 04:01:58",
+      "album": {
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2026-08-28 04:01:58",

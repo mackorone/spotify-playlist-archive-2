@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 396018,
+  "num_followers": 396058,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAD2akyZMBPKQZ8PT0pWJmTm",
+  "snapshot_id": "ao9+AAAAAAAcRNLTn4jg6VQXY5QuyQ9m",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expansi\u00f3n",
-        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 146104,
-      "name": "S\u00faper Snake",
-      "url": "https://open.spotify.com/track/0rhIDVKA677SU6XvdRX7Iz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ay Weyy",
         "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 158669,
       "name": "Taco El Flaco",
       "url": "https://open.spotify.com/track/1TKtOAr9HUZyF3dCdwwcJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Expansi\u00f3n",
+        "url": "https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 146104,
+      "name": "S\u00faper Snake",
+      "url": "https://open.spotify.com/track/0rhIDVKA677SU6XvdRX7Iz"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 146009,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/55x1ZyGMkt2d7JPc0WK9nj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Buho",
-        "url": "https://open.spotify.com/album/7mNGmzl36M6Cpm6SoNfbIL"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "El Buho",
-      "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 171322,
-      "name": "CDN",
-      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
         "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 180731,
       "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
       "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 171322,
+      "name": "CDN",
+      "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
     },
     {
       "added_at": null,

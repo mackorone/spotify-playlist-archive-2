@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,431 likes - 49 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,463 likes - 49 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 43 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 |
 | 44 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 |
 | 45 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 |
-| 46 | [Express Yourself](https://open.spotify.com/track/4AJflRLCvU0qtZQnVUq5l1) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Deluxe Version\)](https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP) | 3:59 |
-| 47 | [Angel](https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:56 |
+| 46 | [Angel](https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:56 |
+| 47 | [Express Yourself](https://open.spotify.com/track/4AJflRLCvU0qtZQnVUq5l1) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Deluxe Version\)](https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP) | 3:59 |
 | 48 | [Future Lovers](https://open.spotify.com/track/0amQzI3QzlkNzlUQSLxGOP) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:01 |
 | 49 | [American Pie](https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:33 |
 
-Snapshot ID: `ao4sgAAAAABK3d5LLloATgPZnwZIK8DG`
+Snapshot ID: `ao9+AAAAAAAKQB7KcFemIff0FXb3p0UP`

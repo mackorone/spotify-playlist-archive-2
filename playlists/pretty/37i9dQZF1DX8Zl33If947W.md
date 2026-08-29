@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Deutschsprachige Liebeslieder, die mitten ins Herz gehen ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,611 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,670 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 7 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
 | 8 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
 | 9 | [Wenn du tanzt](https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC) | [Von Wegen Lisbeth](https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq) | [Grande](https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW) | 3:50 |
-| 10 | [Herzensmensch](https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzensmensch](https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi) | 2:40 |
-| 11 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
+| 10 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
+| 11 | [Herzensmensch](https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzensmensch](https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi) | 2:40 |
 | 12 | [Liebe](https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [30\-11\-80](https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2) | 3:15 |
 | 13 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
 | 14 | [Weißes Haus](https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:48 |
@@ -41,17 +41,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 31 | [Kling Klang](https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz) | [Keimzeit](https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD) | [Bunte Scherben](https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk) | 3:46 |
 | 32 | [Übermorgen](https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Übermorgen](https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo) | 2:43 |
 | 33 | [Nur wegen dir](https://open.spotify.com/track/0ui2kVwPZKHaZxGhdIzBrp) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Nur wegen dir](https://open.spotify.com/album/6QoPwcohKlWQsotj6HZXDl) | 3:23 |
-| 34 | [Cello \(feat\. Clueso\) \- MTV Unplugged Radio Atmo\-Version](https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF) | [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [UDOPIUM \- Das Beste \(Special Edition\)](https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ) | 3:24 |
+| 34 | [Liebe ist alles](https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB) | [Rosenstolz](https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP) | [Herz](https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O) | 3:30 |
 | 35 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
-| 36 | [Liebe ist alles](https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB) | [Rosenstolz](https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP) | [Herz](https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O) | 3:30 |
+| 36 | [Cello \(feat\. Clueso\) \- MTV Unplugged Radio Atmo\-Version](https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF) | [Udo Lindenberg](https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0), [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [UDOPIUM \- Das Beste \(Special Edition\)](https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ) | 3:24 |
 | 37 | [Weiße Haare](https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Weiße Haare](https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j) | 2:49 |
 | 38 | [Liebes Lied](https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf) | [Beginner](https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf) | [Bambule](https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D) | 4:14 |
 | 39 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
-| 40 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |
-| 41 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
+| 40 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
+| 41 | [Liege wieder wach](https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Liege wieder wach](https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb) | 2:56 |
 | 42 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
-| 43 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
-| 44 | [Ja sagen](https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Ja sagen](https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz) | 2:45 |
+| 43 | [Ja sagen](https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Ja sagen](https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz) | 2:45 |
+| 44 | [Nur ein bisschen](https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Nur ein bisschen](https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA) | 2:41 |
 | 45 | [Regen und Meer](https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Es ist Juli](https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD) | 3:35 |
 | 46 | [Demo \(Letzter Tag\)](https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:29 |
 | 47 | [Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d) | [KUMMER](https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7) | [KIOX](https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 59 | [Immer Nur An Dich](https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Immer Nur An Dich](https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC) | 1:57 |
 | 60 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 
-Snapshot ID: `AAAAAD8ESYuywZ6bj+iFUYFZEnalexYI`
+Snapshot ID: `AAAAAIkxUSeURUhJqkbmpQYfbvc/NzJ9`

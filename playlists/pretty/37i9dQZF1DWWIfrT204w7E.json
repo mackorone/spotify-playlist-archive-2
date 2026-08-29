@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFBtmLwqpRm2sKLpeJgjyjcRlrs9",
+  "snapshot_id": "AAAAAH3rVA95wyx6zYBeoz3xzpYp7OEi",
   "tracks": [
     {
       "added_at": "2023-08-18 08:47:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-08-18 08:47:58",
       "album": {
-        "name": "The D.O.A. Tape",
-        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
-      },
-      "artists": [
-        {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
-        }
-      ],
-      "duration_ms": 153964,
-      "name": "Being Honest",
-      "url": "https://open.spotify.com/track/3PbRjYudOMppYH3vjW0o8c"
-    },
-    {
-      "added_at": "2023-08-18 08:47:58",
-      "album": {
         "name": "Greece",
         "url": "https://open.spotify.com/album/5zmDVvrSrECRqUimEeHygu"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 159591,
       "name": "Greece",
       "url": "https://open.spotify.com/track/5ohlN3aJiV7849vqb3HDI1"
+    },
+    {
+      "added_at": "2023-08-18 08:47:58",
+      "album": {
+        "name": "The D.O.A. Tape",
+        "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        }
+      ],
+      "duration_ms": 153964,
+      "name": "Being Honest",
+      "url": "https://open.spotify.com/track/3PbRjYudOMppYH3vjW0o8c"
     },
     {
       "added_at": "2023-08-18 08:47:58",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-18 08:47:58",
       "album": {
-        "name": "From The Can",
-        "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        }
-      ],
-      "duration_ms": 149865,
-      "name": "No Remorse",
-      "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
-    },
-    {
-      "added_at": "2023-08-18 08:47:58",
-      "album": {
         "name": "Nice & Good",
         "url": "https://open.spotify.com/album/2nZHGm0LbyWb9SQ48RWFdO"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 237262,
       "name": "Nice & Good",
       "url": "https://open.spotify.com/track/0FP75UX2W460N7q2PKrzdh"
+    },
+    {
+      "added_at": "2023-08-18 08:47:58",
+      "album": {
+        "name": "From The Can",
+        "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "duration_ms": 149865,
+      "name": "No Remorse",
+      "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
     },
     {
       "added_at": "2023-08-18 08:47:58",

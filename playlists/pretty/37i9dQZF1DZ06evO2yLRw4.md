@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,809 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,810 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 10 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
 | 11 | [Lightning Riders](https://open.spotify.com/track/4tUtj8DxT0XGpVw2rFRGjg) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:50 |
 | 12 | [Run](https://open.spotify.com/track/2wIC3jqtTK78zQMdj1DRLu) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:01 |
-| 13 | [Handyman](https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:22 |
+| 13 | [Barbarian](https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:03 |
 | 14 | [Burn It Down](https://open.spotify.com/track/4apfsISItA7UeoSZsw5DsB) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 2:45 |
-| 15 | [Barbarian](https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Phantom Five](https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5) | 3:03 |
+| 15 | [Handyman](https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:22 |
 | 16 | [Hollow Moon \(Bad Wolf\)](https://open.spotify.com/track/7cfr3F2jpzjwqL6ZhGfjtH) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 4:18 |
 | 17 | [Thiskidsnotalright](https://open.spotify.com/track/0dGPGavyiPtOdAGGi11pt3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 2:41 |
 | 18 | [California Halo Blue](https://open.spotify.com/track/3mC4kKsdyjzVGpISqAnWnW) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 49 | [Dark Matter](https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Dark Matter](https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod) | 2:35 |
 | 50 | [Here Come the Runts](https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:19 |
 
-Snapshot ID: `ao4sgAAAAACc1QR2rp98gEKwabS2/07r`
+Snapshot ID: `ao9+AAAAAACrxF1aizabEh7j8xJzHIUu`

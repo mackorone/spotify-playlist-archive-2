@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,336 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,340 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 30 | [Tus Besos \- Remix](https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Tus Besos \(Remix\)](https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH) | 3:49 |
 | 31 | [Cuándo Será](https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Cuándo Será](https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2) | 2:56 |
 | 32 | [HACE TIEMPO](https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [HACE TIEMPO](https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE) | 2:52 |
-| 33 | [Cartagena](https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Bowdozen](https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN), [Sebas Boxian](https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N) | [Cartagena](https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u) | 3:15 |
-| 34 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
+| 33 | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [SokeThugPro](https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0) | [PERREANDO CON ALGUIEN QUE NO ME GUSTA](https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX) | 3:01 |
+| 34 | [Cartagena](https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Bowdozen](https://open.spotify.com/artist/4tCGhpQLgAw56eCyh1qQaN), [Sebas Boxian](https://open.spotify.com/artist/61BDXR8Fu8hQ1xmdJR405N) | [Cartagena](https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u) | 3:15 |
 | 35 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
 | 36 | [Uy k raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy k raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
 | 37 | [¿Por Qué Te Enojái?](https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [¿Por Qué Te Enojái?](https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [TNT](https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:05 |
 | 60 | [Full Pioli \(feat\. Best\)](https://open.spotify.com/track/2buMcKUAP01a72VC28jdIZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Full Pioli \(feat\. Best\)](https://open.spotify.com/album/7gNGbhPE1Uy1NDCwI2sSdb) | 2:36 |
 
-Snapshot ID: `AAAAADK3gdlq1O3z64dboHFo5CBGqAbi`
+Snapshot ID: `AAAAAKIK5TaNdbJ0FUp49ynFYYtZUP6Z`

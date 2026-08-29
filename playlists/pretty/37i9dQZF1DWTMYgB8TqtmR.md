@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,646 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,590 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 50 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 
-Snapshot ID: `AAAAAP9egnAdfx5wnbLNG4cWthS9fpBh`
+Snapshot ID: `AAAAACBGwLh0JlvUp/jsjT2Fzcg+36UP`

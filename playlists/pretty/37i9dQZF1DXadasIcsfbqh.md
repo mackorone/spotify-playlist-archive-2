@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Dasha
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,649 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,674 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 82 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
 | 83 | [Fragile](https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Fragile](https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE) | 3:22 |
 | 84 | [In My Truck](https://open.spotify.com/track/3Zq4KwFGEhkL8Y49kxdyG0) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [In My Truck](https://open.spotify.com/album/1XTrJqvAeD6fe9siHtKAdm) | 2:42 |
-| 85 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 |
+| 85 | [Fast Lane](https://open.spotify.com/track/2FazcKsxgoI6X9FxFgLd9k) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Fast Lane](https://open.spotify.com/album/63XwmOMDfcOpOc8JSSNwp7) | 2:31 |
 | 86 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
-| 87 | [Fast Lane](https://open.spotify.com/track/2FazcKsxgoI6X9FxFgLd9k) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Fast Lane](https://open.spotify.com/album/63XwmOMDfcOpOc8JSSNwp7) | 2:31 |
+| 87 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 |
 | 88 | [Take A Bow \(with Halsey\)](https://open.spotify.com/track/0DkWJ9I5diiEuVoGUzSTHh) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:40 |
 | 89 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 90 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 96 | [Body Talk](https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Body Talk](https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I) | 2:27 |
 | 97 | [Bottle’s Bout Dead \(feat\. ERNEST\)](https://open.spotify.com/track/5QVJ97UEhK7tUe84OYs96p) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil \(Deluxe\)](https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF) | 2:30 |
 | 98 | [Simple Things](https://open.spotify.com/track/4WKsZmIYlkcyqX5OuTmfTs) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Simple Things](https://open.spotify.com/album/2hXLLTOWuaygcf7EaRiQEB) | 2:58 |
-| 99 | [Paying For It](https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Paying For It](https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX) | 3:11 |
-| 100 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
+| 99 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
+| 100 | [All I Forgot \(feat\. Joe Jonas\)](https://open.spotify.com/track/4fuLKB0OQsrvsPh9lQWepR) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [All I Forgot](https://open.spotify.com/album/439gP9SIn0l4lOAeK9i7YV) | 2:58 |
 
-Snapshot ID: `AAAAADGq5AOs3xe/Su0X+SDQSpoBXGbC`
+Snapshot ID: `AAAAAGZm1Q8cn4gI8pabHwivAJqUzP+z`

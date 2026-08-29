@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEMAgmPRDVj.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 679 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 682 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEMAgmPRDVj.md) - [plain]
 | 59 | [You Keep Me Here](https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg) | [Perfect Crown OST Part.8](https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9) | 3:44 |
 | 60 | [NINETEEN](https://open.spotify.com/track/2fBzTfPEf46iuJvZpTD5gp) | [hrtz.wav](https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg) | [The First Wave](https://open.spotify.com/album/7GMWvw5fpp3bIxK0nRz7tw) | 2:40 |
 
-Snapshot ID: `AAAAAGkSSq17k+Y/0+h5rhtaAd6eUKaq`
+Snapshot ID: `AAAAALSBr8dqIo+jO66+EQf8Wx3mwPDJ`

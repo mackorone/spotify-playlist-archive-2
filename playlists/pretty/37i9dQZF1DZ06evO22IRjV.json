@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31258,
+  "num_followers": 31263,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAB36ZKHYww6LyeW+gzmbCSp",
+  "snapshot_id": "ao9+AAAAAABFPu++tQNnWuOmvMXr8pxt",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHEMY\u00d7STORY \uff08\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c\uff09",
-        "url": "https://open.spotify.com/album/0VRObf1FyBuyFYmVMTRyUh"
-      },
-      "artists": [
-        {
-          "name": "BACK-ON",
-          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
-        },
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "CHEMY\u00d7STORY - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
-      "url": "https://open.spotify.com/track/2sfmn9VSdWNiXUafcjtIYV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butter-Fly - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/3vmlgAoH6zQfcwEZRyKNfM"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 318045,
       "name": "Butter-Fly - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/7b80lqESPsx5ccfLQYAYrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHEMY\u00d7STORY \uff08\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c\uff09",
+        "url": "https://open.spotify.com/album/0VRObf1FyBuyFYmVMTRyUh"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "CHEMY\u00d7STORY - \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
+      "url": "https://open.spotify.com/track/2sfmn9VSdWNiXUafcjtIYV"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5TELLA",
-        "url": "https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "5TELLA",
-      "url": "https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alright!!!",
         "url": "https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 219160,
       "name": "Alright!!!",
       "url": "https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5TELLA",
+        "url": "https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "5TELLA",
+      "url": "https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL"
     },
     {
       "added_at": null,
@@ -707,38 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INNOSENSE Special Edition",
-        "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "INNOSENSE",
-      "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
-        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Don't Wanna Die in the Paradise",
         "url": "https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h"
       },
@@ -759,6 +727,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INNOSENSE Special Edition",
+        "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "INNOSENSE",
+      "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BLACK & WHITE",
         "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS",
-        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 91786,
-      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
-      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIVING DEAD",
         "url": "https://open.spotify.com/album/1CiISbUXSpFx4B4lRYC43P"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 230080,
       "name": "LIVING DEAD",
       "url": "https://open.spotify.com/track/2KeciA7fNyj5ia3nMznhMQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 91786,
+      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
+      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
     },
     {
       "added_at": null,

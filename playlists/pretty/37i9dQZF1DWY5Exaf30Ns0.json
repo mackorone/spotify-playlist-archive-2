@@ -1,12 +1,12 @@
 {
   "description": "compare, prenda el asador y destape otra cheve.",
-  "num_followers": 1319881,
+  "num_followers": 1319889,
   "original_name": "Carnita Asada ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD3PSm1h0/tyGsdUkb4cUq4Tz9QP",
+  "snapshot_id": "AAAAAI9oYS5J+FKZQBhKrrmR9rrQkjAl",
   "tracks": [
     {
       "added_at": "2026-07-06 17:27:23",
@@ -133,7 +133,7 @@
         }
       ],
       "duration_ms": 280250,
-      "name": "Tus Mentiras (En Vivo)",
+      "name": "Tus Mentiras - En Vivo",
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
@@ -309,7 +309,7 @@
         }
       ],
       "duration_ms": 194750,
-      "name": "Mi Talisman (En Vivo)",
+      "name": "Mi Talisman - En Vivo",
       "url": "https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL"
     },
     {
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
-    },
-    {
-      "added_at": "2026-07-06 17:27:23",
-      "album": {
         "name": "A Bailar... De Caballito!!",
         "url": "https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 241870,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
+    },
+    {
+      "added_at": "2026-07-06 17:27:23",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
       "added_at": "2026-07-06 17:27:23",
@@ -795,22 +795,18 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "Cuando No Estas Conmigo",
-        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+        "name": "Tan Bella y Tan Presumida (En Vivo)",
+        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 201367,
-      "name": "Cuando No Estas Conmigo",
-      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida - En Vivo",
+      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
     },
     {
       "added_at": "2026-07-06 17:27:23",
@@ -831,18 +827,22 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "Tan Bella y Tan Presumida (En Vivo)",
-        "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
+        "name": "Cuando No Estas Conmigo",
+        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
       },
       "artists": [
         {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
         }
       ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida - En Vivo",
-      "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
+      "duration_ms": 201367,
+      "name": "Cuando No Estas Conmigo",
+      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
     },
     {
       "added_at": "2026-07-06 17:27:23",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 188310,
-      "name": "Vamonos de Fiesta",
-      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
-    },
-    {
-      "added_at": "2026-07-06 17:27:23",
-      "album": {
         "name": "En Contacto (En Vivo)",
         "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 172117,
       "name": "Carola - En Vivo",
       "url": "https://open.spotify.com/track/1V7MdIoW9wse9McgedyK0o"
+    },
+    {
+      "added_at": "2026-07-06 17:27:23",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 188310,
+      "name": "Vamonos de Fiesta",
+      "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
     },
     {
       "added_at": "2026-07-06 17:27:23",

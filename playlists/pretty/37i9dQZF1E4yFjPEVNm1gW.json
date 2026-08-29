@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADCbOYaanYZkCi619QxoHmpgshhT",
+  "snapshot_id": "AAAAADFLpQLGQWpJito0YWO48QLo8NyT",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,26 @@
       "duration_ms": 122723,
       "name": "DRIVE BYE",
       "url": "https://open.spotify.com/track/5NeL3TVFhfmPwU0yyic4Xa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chapter 3: First Year Rich",
+        "url": "https://open.spotify.com/album/0qZ4wJeitgvAZeb7cvfOXd"
+      },
+      "artists": [
+        {
+          "name": "Zelgin Jackson",
+          "url": "https://open.spotify.com/artist/2XL3zqK7k2Opyp5g5bjWlG"
+        },
+        {
+          "name": "BC.Nate",
+          "url": "https://open.spotify.com/artist/7AVYKWzGyhNKuSSawPxpUF"
+        }
+      ],
+      "duration_ms": 89977,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/5GchzUEKx2uvvny89RmHhx"
     },
     {
       "added_at": null,
@@ -79,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strings Attached",
-        "url": "https://open.spotify.com/album/7xVrnsfXIbVF5NikvzdiGZ"
-      },
-      "artists": [
-        {
-          "name": "AZIEDOESNTEXIST",
-          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
-        },
-        {
-          "name": "TopOppGen",
-          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
-        }
-      ],
-      "duration_ms": 107716,
-      "name": "Strings Attached (feat. TopOppGen)",
-      "url": "https://open.spotify.com/track/7GHiehPcW6YJ892iZA92ga"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "not enn a diss",
         "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
       },
@@ -115,18 +115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLING B\u00d8I EP 2: H\u00d8STED BY DJ H\u00d8LIDAY",
-        "url": "https://open.spotify.com/album/2ld7FK5ZoDfFHfoY5YhJ79"
+        "name": "Strings Attached",
+        "url": "https://open.spotify.com/album/7xVrnsfXIbVF5NikvzdiGZ"
       },
       "artists": [
         {
-          "name": "diamond*",
-          "url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+          "name": "AZIEDOESNTEXIST",
+          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
+        },
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
         }
       ],
-      "duration_ms": 120316,
-      "name": "SICK\u00d6",
-      "url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
+      "duration_ms": 107716,
+      "name": "Strings Attached (feat. TopOppGen)",
+      "url": "https://open.spotify.com/track/7GHiehPcW6YJ892iZA92ga"
     },
     {
       "added_at": null,
@@ -179,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LORD",
-        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 143112,
-      "name": "Which 1 / Klueless",
-      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purple Moncler",
         "url": "https://open.spotify.com/album/0l5AcL7AVcyIrQacslnden"
       },
@@ -207,6 +195,54 @@
       "duration_ms": 212088,
       "name": "Purple Moncler",
       "url": "https://open.spotify.com/track/1MJa2HpKbYeearRpypBFEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLING B\u00d8I EP 2: H\u00d8STED BY DJ H\u00d8LIDAY",
+        "url": "https://open.spotify.com/album/2ld7FK5ZoDfFHfoY5YhJ79"
+      },
+      "artists": [
+        {
+          "name": "diamond*",
+          "url": "https://open.spotify.com/artist/2U3bFzN7xGOhqdATusepqC"
+        }
+      ],
+      "duration_ms": 120316,
+      "name": "SICK\u00d6",
+      "url": "https://open.spotify.com/track/6SdXjwf6hV0FuCae1DSolv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Militia",
+        "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
+      },
+      "artists": [
+        {
+          "name": "999 WRLD",
+          "url": "https://open.spotify.com/artist/1usm7Awsp5eDXChqp1oQ2v"
+        }
+      ],
+      "duration_ms": 110221,
+      "name": "Militia",
+      "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LORD",
+        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 143112,
+      "name": "Which 1 / Klueless",
+      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
     },
     {
       "added_at": null,
@@ -239,22 +275,6 @@
       "duration_ms": 198149,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Militia",
-        "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
-      },
-      "artists": [
-        {
-          "name": "999 WRLD",
-          "url": "https://open.spotify.com/artist/1usm7Awsp5eDXChqp1oQ2v"
-        }
-      ],
-      "duration_ms": 110221,
-      "name": "Militia",
-      "url": "https://open.spotify.com/track/0pB7v6fha2WcS1QJlreciH"
     },
     {
       "added_at": null,
@@ -335,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ronehl Season, VOL 1",
-        "url": "https://open.spotify.com/album/3vCW4QqTYC0RdqYpyJC065"
-      },
-      "artists": [
-        {
-          "name": "ronehl",
-          "url": "https://open.spotify.com/artist/6IAzgtmHLQwtzjWe9W8WNY"
-        }
-      ],
-      "duration_ms": 131664,
-      "name": "Life Sentences",
-      "url": "https://open.spotify.com/track/02xKoruItxM6WIMasMuhrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "splat!",
         "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
       },
@@ -363,42 +367,6 @@
       "duration_ms": 137142,
       "name": "splat!",
       "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free Lunch",
-        "url": "https://open.spotify.com/album/2W92q7IAk5XX5GxJfvoH40"
-      },
-      "artists": [
-        {
-          "name": "Xella Red",
-          "url": "https://open.spotify.com/artist/1L0cXYzWFWoPTyKLHRtORm"
-        },
-        {
-          "name": "Your Stepdad",
-          "url": "https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "owe you",
-      "url": "https://open.spotify.com/track/0na2GxmPZI7Gza6UbUgnSe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UP!",
-        "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
-      },
-      "artists": [
-        {
-          "name": "Trefuego",
-          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
-        }
-      ],
-      "duration_ms": 110106,
-      "name": "UP!",
-      "url": "https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E"
     },
     {
       "added_at": null,
@@ -419,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ronehl Season, VOL 1",
+        "url": "https://open.spotify.com/album/3vCW4QqTYC0RdqYpyJC065"
+      },
+      "artists": [
+        {
+          "name": "ronehl",
+          "url": "https://open.spotify.com/artist/6IAzgtmHLQwtzjWe9W8WNY"
+        }
+      ],
+      "duration_ms": 131664,
+      "name": "Life Sentences",
+      "url": "https://open.spotify.com/track/02xKoruItxM6WIMasMuhrC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golden Child, Chapter 3",
         "url": "https://open.spotify.com/album/6vxo1Nywp8r7B0p9avT0SM"
       },
@@ -435,18 +419,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leftovr Drugz",
-        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
+        "name": "Unfakeable",
+        "url": "https://open.spotify.com/album/6hhl9IdszW2BNYyJH01y2w"
       },
       "artists": [
         {
-          "name": "sixsick",
-          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
+          "name": "KeepItPeezy",
+          "url": "https://open.spotify.com/artist/3f55qpLMYoglqrUqZW2KMF"
+        },
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
         }
       ],
-      "duration_ms": 165009,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
+      "duration_ms": 186239,
+      "name": "They Watching",
+      "url": "https://open.spotify.com/track/0RRMfu7vKq3ryJsDlXN8F9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UP!",
+        "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
+      },
+      "artists": [
+        {
+          "name": "Trefuego",
+          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
+        }
+      ],
+      "duration_ms": 110106,
+      "name": "UP!",
+      "url": "https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Lunch",
+        "url": "https://open.spotify.com/album/2W92q7IAk5XX5GxJfvoH40"
+      },
+      "artists": [
+        {
+          "name": "Xella Red",
+          "url": "https://open.spotify.com/artist/1L0cXYzWFWoPTyKLHRtORm"
+        },
+        {
+          "name": "Your Stepdad",
+          "url": "https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "owe you",
+      "url": "https://open.spotify.com/track/0na2GxmPZI7Gza6UbUgnSe"
     },
     {
       "added_at": null,
@@ -483,54 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OUTTA TOWN",
-        "url": "https://open.spotify.com/album/0UqKq9ejW8gO39zJsgeUyo"
+        "name": "Leftovr Drugz",
+        "url": "https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu"
       },
       "artists": [
         {
-          "name": "axaero",
-          "url": "https://open.spotify.com/artist/5RuSwAt2v9Oy1uMQWzhZAz"
+          "name": "sixsick",
+          "url": "https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG"
         }
       ],
-      "duration_ms": 153208,
-      "name": "supply!",
-      "url": "https://open.spotify.com/track/2vRipnqFruBOfVSXkbGuRz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter 3: First Year Rich",
-        "url": "https://open.spotify.com/album/0qZ4wJeitgvAZeb7cvfOXd"
-      },
-      "artists": [
-        {
-          "name": "Zelgin Jackson",
-          "url": "https://open.spotify.com/artist/2XL3zqK7k2Opyp5g5bjWlG"
-        },
-        {
-          "name": "BC.Nate",
-          "url": "https://open.spotify.com/artist/7AVYKWzGyhNKuSSawPxpUF"
-        }
-      ],
-      "duration_ms": 89977,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/5GchzUEKx2uvvny89RmHhx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Stylist",
-        "url": "https://open.spotify.com/album/3a1Ao3nMVlLb5leLAfiPxx"
-      },
-      "artists": [
-        {
-          "name": "LOOK KILLA",
-          "url": "https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf"
-        }
-      ],
-      "duration_ms": 178906,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/4ewa3IkNWrv1XG9qIWwIvt"
+      "duration_ms": 165009,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ"
     },
     {
       "added_at": null,
@@ -551,22 +539,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "CribWitALake! (Remix)",
-        "url": "https://open.spotify.com/album/0eJfxzLOZhfKKegWgKwvk6"
+        "name": "Self Stylist",
+        "url": "https://open.spotify.com/album/3a1Ao3nMVlLb5leLAfiPxx"
       },
       "artists": [
         {
-          "name": "Grxxm",
-          "url": "https://open.spotify.com/artist/3HPDL1dbnvzbFw7oIYM2U7"
-        },
-        {
-          "name": "Sad Frosty",
-          "url": "https://open.spotify.com/artist/4VQjfdCN5W8jvwy4AvEnin"
+          "name": "LOOK KILLA",
+          "url": "https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf"
         }
       ],
-      "duration_ms": 139551,
-      "name": "CribWitALake! - Remix",
-      "url": "https://open.spotify.com/track/1XNeKgg6UVxRoWzocLCbN1"
+      "duration_ms": 178906,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/4ewa3IkNWrv1XG9qIWwIvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OUTTA TOWN",
+        "url": "https://open.spotify.com/album/0UqKq9ejW8gO39zJsgeUyo"
+      },
+      "artists": [
+        {
+          "name": "axaero",
+          "url": "https://open.spotify.com/artist/5RuSwAt2v9Oy1uMQWzhZAz"
+        }
+      ],
+      "duration_ms": 153208,
+      "name": "supply!",
+      "url": "https://open.spotify.com/track/2vRipnqFruBOfVSXkbGuRz"
     },
     {
       "added_at": null,
@@ -607,18 +607,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Friends",
-        "url": "https://open.spotify.com/album/35vSpGdANHNDSa8VGZhJCf"
+        "name": "imposter",
+        "url": "https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m"
       },
       "artists": [
         {
-          "name": "Fatso Yfg",
-          "url": "https://open.spotify.com/artist/2iu5ZoDJPv46Nf4N6Pp3LS"
+          "name": "boolymon",
+          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
         }
       ],
-      "duration_ms": 136672,
-      "name": "Dead Friends",
-      "url": "https://open.spotify.com/track/6mKTM5l5svqSDh1kohyLrf"
+      "duration_ms": 108437,
+      "name": "imposter",
+      "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CribWitALake! (Remix)",
+        "url": "https://open.spotify.com/album/0eJfxzLOZhfKKegWgKwvk6"
+      },
+      "artists": [
+        {
+          "name": "Grxxm",
+          "url": "https://open.spotify.com/artist/3HPDL1dbnvzbFw7oIYM2U7"
+        },
+        {
+          "name": "Sad Frosty",
+          "url": "https://open.spotify.com/artist/4VQjfdCN5W8jvwy4AvEnin"
+        }
+      ],
+      "duration_ms": 139551,
+      "name": "CribWitALake! - Remix",
+      "url": "https://open.spotify.com/track/1XNeKgg6UVxRoWzocLCbN1"
     },
     {
       "added_at": null,
@@ -635,26 +655,6 @@
       "duration_ms": 165575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unfakeable",
-        "url": "https://open.spotify.com/album/6hhl9IdszW2BNYyJH01y2w"
-      },
-      "artists": [
-        {
-          "name": "KeepItPeezy",
-          "url": "https://open.spotify.com/artist/3f55qpLMYoglqrUqZW2KMF"
-        },
-        {
-          "name": "Haiti Babii",
-          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "They Watching",
-      "url": "https://open.spotify.com/track/0RRMfu7vKq3ryJsDlXN8F9"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 106533,
+      "name": "Yale",
+      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
         "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
+        "name": "Everybody Hates 10",
+        "url": "https://open.spotify.com/album/2Ljs7S5f0oExfgdCPJKko1"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "10cellphones",
+          "url": "https://open.spotify.com/artist/3IBVsmzlYvtNgo76uhM2Pv"
         }
       ],
-      "duration_ms": 106533,
-      "name": "Yale",
-      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
+      "duration_ms": 106728,
+      "name": "Air Bender",
+      "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
     },
     {
       "added_at": null,
@@ -755,30 +771,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink6 Vol. 1",
-        "url": "https://open.spotify.com/album/6YdkhzUmMcCWor28vavQ6y"
+        "name": "BIG 3",
+        "url": "https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu"
       },
       "artists": [
         {
-          "name": "Slump Audios",
-          "url": "https://open.spotify.com/artist/0kV5IPIp3Q8eksQ5R9q3hE"
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
         },
         {
-          "name": "pink6",
-          "url": "https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv"
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
         },
         {
-          "name": "DJ BANNED",
-          "url": "https://open.spotify.com/artist/24rC9TDYDGRHBDIVuAiKCd"
-        },
-        {
-          "name": "Chris Finesse Exclusives",
-          "url": "https://open.spotify.com/artist/62lb86Gp3XI8HWkTdiOmjI"
+          "name": "Slimeto",
+          "url": "https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4"
         }
       ],
-      "duration_ms": 117002,
-      "name": "NODDING OFF",
-      "url": "https://open.spotify.com/track/5cKcbgcUcog96MzgE4guYS"
+      "duration_ms": 122483,
+      "name": "BIG 3",
+      "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disagree",
+        "url": "https://open.spotify.com/album/670icObNVMYesRcjmyXdT2"
+      },
+      "artists": [
+        {
+          "name": "Duwap Kaine",
+          "url": "https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ"
+        }
+      ],
+      "duration_ms": 136045,
+      "name": "Disagree",
+      "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boy (with Young Thug)",
+        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 157355,
+      "name": "Bad Boy (with Young Thug)",
+      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": null,
@@ -803,58 +851,6 @@
       "duration_ms": 133500,
       "name": "F.E.A.R. - feat. Niontay",
       "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bank Is Open",
-        "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
-      },
-      "artists": [
-        {
-          "name": "Nb Bankz",
-          "url": "https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb"
-        }
-      ],
-      "duration_ms": 138017,
-      "name": "P!NK GUN",
-      "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Live, I Die, I Live Again (Resurrected)",
-        "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
-      },
-      "artists": [
-        {
-          "name": "Chuckyy",
-          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "No Blickout",
-      "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boy (with Young Thug)",
-        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 157355,
-      "name": "Bad Boy (with Young Thug)",
-      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": null,

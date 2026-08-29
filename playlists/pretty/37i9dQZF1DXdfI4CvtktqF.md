@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยฮิตที่นี่เลย ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน:  Potato
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,269 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,279 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 | 49 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |
 | 50 | [ลั่นทม \- From "หอมกลิ่นความรัก"](https://open.spotify.com/track/4zkXkoNOJh4N1FJHJENegu) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [Yours Ever](https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn) | 4:32 |
 
-Snapshot ID: `AAAAAIOkeJ6H+bem04NMrxIloviBcnej`
+Snapshot ID: `AAAAAL8sBL5nlpX8wbuubyWp+kxPrvG4`

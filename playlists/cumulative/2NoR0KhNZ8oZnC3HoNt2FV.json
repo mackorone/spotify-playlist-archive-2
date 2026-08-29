@@ -2749,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123960,
+      "name": "BIG 5",
+      "url": "https://open.spotify.com/track/5S5gF7ujCupq2bmZMhAvmJ"
+    },
+    {
+      "album": {
         "name": "Def Jam Presents: Direct Deposit (Vol. 1)",
         "url": "https://open.spotify.com/album/2z3X2aZEBGV6RADgw0QxR6"
       },
@@ -5416,6 +5434,24 @@
       "duration_ms": 164142,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/4ZT0wGKwlJRjpMUuwZVy3p"
+    },
+    {
+      "album": {
+        "name": "Dead Fresh",
+        "url": "https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157020,
+      "name": "Dead Fresh",
+      "url": "https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib"
     },
     {
       "album": {
@@ -11419,6 +11455,32 @@
     },
     {
       "album": {
+        "name": "Black Boy (Alternative)",
+        "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "How To Pray",
+      "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
+    },
+    {
+      "album": {
         "name": "HABIBTI",
         "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
       },
@@ -11924,6 +11986,24 @@
       "duration_ms": 200860,
       "name": "I'll Take Care of You (feat. Yebba)",
       "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
+    },
+    {
+      "album": {
+        "name": "All Eyes on Shiest",
+        "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/4oBu4APIBsEeQwLTIsfUn8"
     },
     {
       "album": {
@@ -12606,7 +12686,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -13398,6 +13478,24 @@
       "duration_ms": 171946,
       "name": "Know the Difference (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6inHSFgzJCNhgtSlu5Wtc2"
+    },
+    {
+      "album": {
+        "name": "The Real Me",
+        "url": "https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153733,
+      "name": "Konnichiwa",
+      "url": "https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp"
     },
     {
       "album": {
@@ -14956,6 +15054,28 @@
       "duration_ms": 181812,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
+    },
+    {
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Luv Von",
+          "url": "https://open.spotify.com/artist/3HG4MR1IbZe2UDEWtHuZI7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275880,
+      "name": "Mainstay (feat. Luv Von)",
+      "url": "https://open.spotify.com/track/1IO6PXJIzbcPBpfkpIE8kK"
     },
     {
       "album": {
@@ -16680,7 +16800,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 146976,
-      "name": "No Fake Love (Gangsta Grillz Version)",
+      "name": "No Fake Love - Gangsta Grillz Version",
       "url": "https://open.spotify.com/track/0hdRLYoqYwzw2sTlRem2EF"
     },
     {
@@ -18718,6 +18838,24 @@
       "duration_ms": 168706,
       "name": "Picture Me Rollin",
       "url": "https://open.spotify.com/track/7huDNmmM1qdfj04OpRqU60"
+    },
+    {
+      "album": {
+        "name": "Piece Of Your Love",
+        "url": "https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225954,
+      "name": "Piece Of Your Love",
+      "url": "https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U"
     },
     {
       "album": {
@@ -21058,7 +21196,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 188722,
       "name": "Shabang",
       "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
@@ -22150,6 +22288,32 @@
       "duration_ms": 181391,
       "name": "Spend Dat",
       "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
+    },
+    {
+      "album": {
+        "name": "Spend Dat (Remix)",
+        "url": "https://open.spotify.com/album/4QFNvWaitTyvKr3yoDXjc5"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Spend Dat (feat. Lil Baby & Kodak Black) - Remix",
+      "url": "https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm"
     },
     {
       "album": {
@@ -27008,6 +27172,28 @@
       "duration_ms": 257000,
       "name": "Wrath of My Madness",
       "url": "https://open.spotify.com/track/4liJ2L7rUVWgBFpQopmE9m"
+    },
+    {
+      "album": {
+        "name": "WTF GOIN (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb"
+      },
+      "artists": [
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184705,
+      "name": "WTF GOIN (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT"
     },
     {
       "album": {

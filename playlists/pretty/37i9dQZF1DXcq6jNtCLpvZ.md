@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq6jNtCLpvZ.md) - [plain]
 
 > Music from "Symphogear"! Ⓒproject シンフォギアXV
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,051 likes - 68 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,056 likes - 68 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcq6jNtCLpvZ.md) - [plain]
 | 67 | [PERFECT SYMPHONY](https://open.spotify.com/track/7lgtctytqj7oQHdYRLSfwL) | [立花響\(CV:悠木碧\)](https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox), [風鳴翼\(CV:水樹奈々\)](https://open.spotify.com/artist/2lbWzUq7RrJV5Gp6HlEUfE), [雪音クリス\(CV:高垣彩陽\)](https://open.spotify.com/artist/6eSv0sJzPHboLDUYAkm9Q2), [マリア・カデンツァヴナ・イヴ\(CV:日笠陽子\)](https://open.spotify.com/artist/33yellon8TKTgyyl9Xtwky), [月読調\(CV:南條愛乃\)](https://open.spotify.com/artist/3UgDrHp02c4nQaBP3SR8sc), [暁切歌\(CV:茅野愛衣\)](https://open.spotify.com/artist/5vDimsdZAOECTR9w9aXrVH), [キャロル・マールス・ディーンハイム\(CV:水瀬いのり\)](https://open.spotify.com/artist/6jkSPcxNIDcgVbhhOlU8lG), [戦姫絶唱シンフォギア](https://open.spotify.com/artist/1frxT2h9VuMdJ4QDdaTo3f) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 4:39 |
 | 68 | [未来へのフリューゲル](https://open.spotify.com/track/0C3Fbd3zetSaqxeMmONfp7) | [立花響\(CV:悠木碧\)](https://open.spotify.com/artist/7Fk3tFYsbDQIWVB3Pmi4Ox), [風鳴翼\(CV:水樹奈々\)](https://open.spotify.com/artist/2lbWzUq7RrJV5Gp6HlEUfE), [雪音クリス\(CV:高垣彩陽\)](https://open.spotify.com/artist/6eSv0sJzPHboLDUYAkm9Q2), [マリア・カデンツァヴナ・イヴ\(CV:日笠陽子\)](https://open.spotify.com/artist/33yellon8TKTgyyl9Xtwky), [月読調\(CV:南條愛乃\)](https://open.spotify.com/artist/3UgDrHp02c4nQaBP3SR8sc), [暁切歌\(CV:茅野愛衣\)](https://open.spotify.com/artist/5vDimsdZAOECTR9w9aXrVH), [小日向未来\(CV:井口裕香\)](https://open.spotify.com/artist/0law47IqPXszmlHrquztRS), [戦姫絶唱シンフォギア](https://open.spotify.com/artist/1frxT2h9VuMdJ4QDdaTo3f) | [戦姫絶唱シンフォギアXV キャラクターソングアルバム](https://open.spotify.com/album/26heZ21VqsczDI7NbXx2OT) | 5:11 |
 
-Snapshot ID: `AAAAAJTOAUAPCAhcmUu2aBYjH+RVue6m`
+Snapshot ID: `AAAAAEODyY8CO3xjfYUq5jZJY+iynLl7`

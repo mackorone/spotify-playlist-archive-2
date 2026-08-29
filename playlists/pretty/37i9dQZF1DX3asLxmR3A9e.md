@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > The Indie highlights of 2014\. Cover: BANKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,186 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,230 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 71 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |
 | 72 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
 | 73 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 |
-| 74 | [Coming of Age](https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:39 |
-| 75 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
+| 74 | [Tongues](https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [KOPPS](https://open.spotify.com/artist/3weGdWrlXcB3pcoctU1BDK) | [How Do You Feel Now?](https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR) | 3:54 |
+| 75 | [Coming of Age](https://open.spotify.com/track/1yzbqrSF0vuaO7nuKYSd6f) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:39 |
 | 76 | [She Treats Me Well](https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:17 |
 | 77 | [Hazey](https://open.spotify.com/track/0Zg4tjgfqw9qzq7lXX2sUM) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:25 |
 | 78 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
-| 79 | [Best Friend](https://open.spotify.com/track/7tvOve5IkjYenvqScZ75iQ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:27 |
-| 80 | [Sleepwalking](https://open.spotify.com/track/7rVVBxV1Shckul3R8alUqw) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Daydream Forever](https://open.spotify.com/album/4WxbqJDGowHV65sJZdKAWU) | 3:37 |
+| 79 | [Sleepwalking](https://open.spotify.com/track/7rVVBxV1Shckul3R8alUqw) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Daydream Forever](https://open.spotify.com/album/4WxbqJDGowHV65sJZdKAWU) | 3:37 |
+| 80 | [Best Friend](https://open.spotify.com/track/7tvOve5IkjYenvqScZ75iQ) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:27 |
 | 81 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 |
 | 82 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 |
 | 83 | [Harlem](https://open.spotify.com/track/573latfTMO7SpGtStVrQx5) | [New Politics](https://open.spotify.com/artist/3RbyaF3Pq6iDUKNp04AIcU) | [A Bad Girl In Harlem](https://open.spotify.com/album/2pKVER4FshWhYv6yk8uIbI) | 2:43 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 86 | [Fantasy](https://open.spotify.com/track/17YuXw2ScwLLL1sUrRKhoW) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Urban Flora](https://open.spotify.com/album/1MDXXd7ea47KCYOfHww6En) | 3:38 |
 | 87 | [Blue Moon](https://open.spotify.com/track/4gNErDjikE9QUQvkkqoB1S) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:02 |
 | 88 | [Open Season](https://open.spotify.com/track/1FaD8oKtZEhAV0kHO6mOou) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [Open Season](https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw) | 3:51 |
-| 89 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
-| 90 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 89 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
+| 90 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
 | 91 | [Someone New](https://open.spotify.com/track/7DF2SSCuHoniuh5sPeMvkv) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:41 |
 | 92 | [Morning](https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 5:19 |
 | 93 | [Bridges](https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 99 | [Mother & Father](https://open.spotify.com/track/3Nttjgkm2lDCRVFpMh22hv) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:07 |
 | 100 | [Girls](https://open.spotify.com/track/6d8jFIWMRwhVYe7SCQwlqL) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 4:14 |
 
-Snapshot ID: `AAAAAOz7xerGLKJdWpBYu38S0fCBY+DS`
+Snapshot ID: `AAAAAPWXeY5b+92nCINkWv/DVbwdfln8`

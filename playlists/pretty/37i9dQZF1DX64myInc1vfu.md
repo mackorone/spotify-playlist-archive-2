@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: iLe
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,216 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,218 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 18 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
 | 19 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 |
 | 20 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
-| 21 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
-| 22 | [Casi algo](https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Casi algo](https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY) | 2:45 |
+| 21 | [Casi algo](https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Casi algo](https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY) | 2:45 |
+| 22 | [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 |
 | 23 | [Odio Gitano](https://open.spotify.com/track/02Ac24S0EOspktEdg0CeCi) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Juntos Otra Vez](https://open.spotify.com/album/5t2r34uTiQMRsFrJlyDPpr) | 2:37 |
 | 24 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 |
 | 25 | [Yo Nunca Te Mentí](https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [COMO ARRUINARTE LA VIDA \(con una herida prohibida\)](https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc) | 3:16 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 43 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 |
 | 44 | [Déjame Conocerte](https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Déjame Conocerte](https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2) | 3:37 |
 | 45 | [Cómplices](https://open.spotify.com/track/0ja9BfD4zrXznqkTKfz0Te) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Cómplices](https://open.spotify.com/album/7tZbJdirOvGF5BwjrcD4BQ) | 3:03 |
-| 46 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
-| 47 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
+| 46 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
+| 47 | [Ojos de Serpiente](https://open.spotify.com/track/4SutBECg5t8YqY1hz8SbwX) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Ojos de Serpiente](https://open.spotify.com/album/2aGMr5JwOn5wMRFn4wWSwt) | 2:51 |
 | 48 | [Para No Romperme](https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Para No Romperme](https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh) | 2:51 |
 | 49 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
 | 50 | [Duele](https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Duele](https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx) | 3:33 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 58 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
 | 59 | [Diablo](https://open.spotify.com/track/4K5EhJCXiS22Sh3ONueuY6) | [MIA](https://open.spotify.com/artist/5VDLfzakHXjOYeai6w9jDq) | [Diablo](https://open.spotify.com/album/65ziJaVZNVHY1JGzCdvIvP) | 3:11 |
 | 60 | [Jaque Mate](https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1) | [Fer Soberón](https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U) | [Jaque Mate](https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ) | 3:06 |
-| 61 | [Agua por el rio](https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih) | [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE), [omarverso](https://open.spotify.com/artist/4VNxOXL24ht0hPmJMUXrWw), [Delusion Bay](https://open.spotify.com/artist/0rQX6hHB09a9yf7tBLPXzz) | [Agua por el rio](https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio) | 3:08 |
-| 62 | [No te vayas](https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [No te vayas](https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D) | 3:25 |
-| 63 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |
+| 61 | [No te vayas](https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [No te vayas](https://open.spotify.com/album/6Ddl1sX7bbBSNzdY5fVk6D) | 3:25 |
+| 62 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 |
+| 63 | [Agua por el rio](https://open.spotify.com/track/2QDI5YME101OVywAT0w2Ih) | [CES](https://open.spotify.com/artist/6MmkcMB76RqX4B4mdhkTQE), [omarverso](https://open.spotify.com/artist/4VNxOXL24ht0hPmJMUXrWw), [Delusion Bay](https://open.spotify.com/artist/0rQX6hHB09a9yf7tBLPXzz) | [Agua por el rio](https://open.spotify.com/album/1s7B0xIqHde9HzYNdOLfio) | 3:08 |
 | 64 | [La Mudanza](https://open.spotify.com/track/56cTihSjtGj6A0RgjxA8TZ) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [La Mudanza](https://open.spotify.com/album/56gxJ8UilpgUPdRnexnLAl) | 3:43 |
 | 65 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 |
 
-Snapshot ID: `AAAAAH0MN4kDWutlgstl5DCFHxq2hwdg`
+Snapshot ID: `AAAAAEmHCGvHTyBieHVzpnQacsoRySJV`

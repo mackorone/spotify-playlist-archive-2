@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> Smøgmænd er unge knive 🎭
+> to unge knive synger om provinsen @USSEL @MathiasRanch
 
-456 songs - 23 hr 24 min
+457 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Pretty When I Cry](https://open.spotify.com/track/0NzUJ9Cm11emUvPzP7m0w1) | [Johanne Rosen](https://open.spotify.com/artist/3fDUHxQhNCg1E5pH7o13ph) | [Pretty When I Cry](https://open.spotify.com/album/1DXMET9Q9sSG6FakBVPb3j) | 3:04 | 2025-07-17 | 2025-07-25 |
 | [PRINCESS](https://open.spotify.com/track/1rfscPpZJO9r89WXN6ABU9) | [Amna Naseer](https://open.spotify.com/artist/1SgTaDWOR4enMcVASjuBcV) | [PRINCESS](https://open.spotify.com/album/3C6pXaV8U9U90CLrsxT6hJ) | 2:57 | 2025-11-13 | 2025-11-15 |
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 | 2025-04-11 |
+| [Provinsbørn \(feat\. Mathias Ranch\)](https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Provinsbørn \(feat\. Mathias Ranch\)](https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad) | 3:41 | 2026-08-28 |  |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |
 | [PUPILLER](https://open.spotify.com/track/1xoSUw7Ph8zlE1VR526FBB) | [Cano](https://open.spotify.com/artist/2Qd4bMMZa3Wc5Qaawf9Oho), [Salomon Stampe](https://open.spotify.com/artist/75TXnvyqAZUdfmD54jAaKd) | [PUPILLER](https://open.spotify.com/album/7jQF1UbqL3UI2ez2rYhfcZ) | 2:44 | 2025-10-30 | 2025-11-07 |
 | [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 | 2025-11-06 | 2026-02-27 |
@@ -336,7 +337,7 @@
 | [Sandheden er..](https://open.spotify.com/track/1jINWYv94BOSm6oLu3rNbt) | [Sara Vita](https://open.spotify.com/artist/0NL4k9oswvKfTgIYxoRQG4) | [Sandheden er..](https://open.spotify.com/album/5wXLWxfRnB9EbgZyqpqLFQ) | 2:48 | 2025-05-22 | 2025-05-30 |
 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 | 2024-10-24 | 2026-04-21 |
 | [Sang Til Min Mor](https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Sang Til Min Mor](https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll) | 2:52 | 2024-09-26 | 2024-11-02 |
-| [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 | 2026-02-05 |  |
+| [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 | 2026-02-05 | 2026-08-29 |
 | [Scandalous](https://open.spotify.com/track/26MFKVVewVd2pEWlWIroNK) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Scandalous](https://open.spotify.com/album/6UritbdE08G7xkNzR34SyJ) | 2:40 | 2025-09-25 | 2026-02-20 |
 | [Scare Me](https://open.spotify.com/track/46A26fgcPCP6gVAn3Q9uDQ) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Scare Me](https://open.spotify.com/album/13SewIUseHQmyBg6RHTIkK) | 2:30 | 2025-04-17 | 2025-04-25 |
 | [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 | 2024-06-27 | 2026-06-14 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Jess Gillam
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,178 likes - 167 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,186 likes - 167 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shine You No More \(Arr\. Parkin\)](https://open.spotify.com/track/0obbLgyzQyzpNkoVTzFgNU) | [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB) | [Shine You No More \(Arr\. Parkin\)](https://open.spotify.com/album/7srH6rea2OtI3ALZjmSIbf) | 3:46 |
 | 2 | [Abschied von Rom, H\-U\. 352](https://open.spotify.com/track/26oPDLAmOYJjyMxNNYkTRF) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Susan Tomes](https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC) | [Fanny Mendelssohn: Abschied von Rom, H\-U\. 352](https://open.spotify.com/album/4S2g8tTeeWT20ErQID1uAX) | 3:57 |
-| 3 | [Theme from Samson and Delilah \- arr\. Nina Simone](https://open.spotify.com/track/6pphfcdaEUbRc4EuMCurNW) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [Theme from Samson and Delilah \(arr\. Nina Simone\)](https://open.spotify.com/album/6KXmXf0AHeN8DOSxzTi4kQ) | 5:06 |
+| 3 | [Theme from Samson and Delilah \- arr\. Nina Simone](https://open.spotify.com/track/6pphfcdaEUbRc4EuMCurNW) | [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [Theme from Samson and Delilah \(arr\. Nina Simone\)](https://open.spotify.com/album/6KXmXf0AHeN8DOSxzTi4kQ) | 5:06 |
 | 4 | [Nocturne in D Major](https://open.spotify.com/track/56jpFkCmFFti8RJAw7LJkJ) | [Fedir Yakymenko](https://open.spotify.com/artist/3Gj7QRIGAWnieyKGkXC6ki), [Dalia Stasevska](https://open.spotify.com/artist/12EHoI6DNDCus6Vte4WopP), [BBC Symphony Orchestra](https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO) | [Ukrainian Mixtape](https://open.spotify.com/album/0dn5TdCXyf6sGeU2rSpeJl) | 3:58 |
 | 5 | [Soirées musicales, Op\. 6: II\. Notturno\. Andante con moto](https://open.spotify.com/track/22VPLWkRWyUCFAcaRnwSc7) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Susan Tomes](https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC) | [Clara Schumann: Soirées musicales, Op\. 6: II\. Notturno\. Andante con moto](https://open.spotify.com/album/4dwWhzWt7VFxgk0wRL1UYG) | 4:27 |
 | 6 | [Memore](https://open.spotify.com/track/4DafMfmtxcIr3ld1FGhSYk) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Stanze Memori](https://open.spotify.com/album/11qXmDFDlQSCyufLQSpYk1) | 2:45 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 | 166 | [Romanesca](https://open.spotify.com/track/2xsCi1q1VOsHj5r8sojlQc) | [Francesca Caccini](https://open.spotify.com/artist/69nYSTwKL3XDiUWfD4lblc), [Cappella di Santa Maria degli Angiolini](https://open.spotify.com/artist/3WLnJZtvdYfvGlVcSMlD7v), [Gian Luca Lastraioli](https://open.spotify.com/artist/2CVWLXSvRIOiExGhxtITQ5) | [Caccini: Sacred and Secular Songs](https://open.spotify.com/album/7zhLoZHXJualNs5ZctOxaH) | 5:06 |
 | 167 | [Piano Concerto in A Minor, Op\. 7: I\. Allegro maestoso –](https://open.spotify.com/track/1xjlnTE8zHrkjN9CaD9RkW) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Holly Mathieson](https://open.spotify.com/artist/56qjv2Db78qW3EIeRbv1oA) | [Romance – The Piano Music of Clara Schumann](https://open.spotify.com/album/7Jt7TzZQgrMsJgI7CPyApE) | 6:11 |
 
-Snapshot ID: `AAAAADVpyuzTCkL0xWEWrWmI6gQdW2b+`
+Snapshot ID: `AAAAAFhewbyy09nznrja3TqQ58aL5cnF`

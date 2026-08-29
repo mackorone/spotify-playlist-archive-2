@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Maia Reficco en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,086 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,092 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 44 | [AZUL.](https://open.spotify.com/track/0j6STFxwqNU0MoUwDdbfae) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [AZUL.](https://open.spotify.com/album/0RYRFzJ97pWuyL1UK9wGYS) | 2:01 |
 | 45 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
 | 46 | [París \(Junto a Ti\)](https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [París \(Junto a Ti\)](https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3) | 2:36 |
-| 47 | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G), [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8) | 2:41 |
+| 47 | [KAWASAKI \- &TEAM Remix](https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G), [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8) | 2:41 |
 | 48 | [soloYÓ](https://open.spotify.com/track/0m9UiT4zIJy6LX57cGHeFN) | [SÓFFICA](https://open.spotify.com/artist/3ZmEdq0l9W5psqT7a1bFl0) | [una fantasía](https://open.spotify.com/album/1XR9k4lLAmYqKErJjjtIMh) | 2:57 |
 | 49 | [Me gustas 1.1](https://open.spotify.com/track/2rt28dAHQibVUP6fQuTDRP) | [Jacqueline Prochet](https://open.spotify.com/artist/16e8iY0aAVoNzaV1sG4rKr) | [Creo que siempre te voy a querer](https://open.spotify.com/album/6mVUmMSwfxGdkEQUwXUNuR) | 2:52 |
 | 50 | [Estás DISTANTE](https://open.spotify.com/track/6tYwbdJWWrHo1l7OrymbUS) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [DISTANTE & tarde !!!](https://open.spotify.com/album/2EYql05GEvhAARlphRH6xH) | 3:02 |
 
-Snapshot ID: `AAAAAM3RJk+bPOAslJkQMq8MGQEBhYOX`
+Snapshot ID: `AAAAAEP0pehgEFtOmn2mRxtMlueGwz/j`

@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2116287,
+  "num_followers": 2116269,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB52ClbNelDDldk6MpKV2pKyx/9S",
+  "snapshot_id": "AAAAAG+bDv06LQb4zgdnDwWDmoomX0iz",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
         "name": "A Little Bit of Love",
         "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Out of My Head",
-        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+      "duration_ms": 212945,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1051,22 +1067,6 @@
       "duration_ms": 258188,
       "name": "Feet Off The Ground (feat. Jade Bird)",
       "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
-        "name": "Joyride",
-        "url": "https://open.spotify.com/album/2kbQUnNWsS3C931Sx7FYzb"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 212945,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 321431,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6GW06Om130LSYa5YbLKrjx"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -1219,38 +1235,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 321431,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6GW06Om130LSYa5YbLKrjx"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Until the Hunter",
         "url": "https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 450986,
       "name": "Let Me Get There",
       "url": "https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "If It Ain't You",
-        "url": "https://open.spotify.com/album/4hGeEwj44b63cQHRmRfDPx"
+        "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+        "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
       },
       "artists": [
         {
-          "name": "Marfa",
-          "url": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
         }
       ],
-      "duration_ms": 210133,
-      "name": "If It Ain't You",
-      "url": "https://open.spotify.com/track/3yx9pgiep8UZ9RADXUIBsp"
+      "duration_ms": 210285,
+      "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+      "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1399,6 +1399,22 @@
       "duration_ms": 208083,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "If It Ain't You",
+        "url": "https://open.spotify.com/album/4hGeEwj44b63cQHRmRfDPx"
+      },
+      "artists": [
+        {
+          "name": "Marfa",
+          "url": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "If It Ain't You",
+      "url": "https://open.spotify.com/track/3yx9pgiep8UZ9RADXUIBsp"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
-        "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
-      },
-      "artists": [
-        {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
-      "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "In the Clouds",
         "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Soul Sweet Song",
-        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "Soul Sweet Song",
-      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Gloria Sparks",
         "url": "https://open.spotify.com/album/7FsCFNZmtYmEJMEGnhaboR"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Love Is Love",
-        "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 186783,
-      "name": "Love Is Love",
-      "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 181706,
       "name": "Go In Light",
       "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Love Is Love",
+        "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 186783,
+      "name": "Love Is Love",
+      "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
+        "name": "Colour Your World",
+        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
+      },
+      "artists": [
+        {
+          "name": "MEGA",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 193367,
+      "name": "If Not My Heart",
+      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
         "name": "Venus in the Zinnia",
         "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 197372,
       "name": "Venus in the Zinnia",
       "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
-        "name": "Colour Your World",
-        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
-      },
-      "artists": [
-        {
-          "name": "MEGA",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 193367,
-      "name": "If Not My Heart",
-      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Gold in California",
-        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 214752,
-      "name": "Gold in California",
-      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Black Jeans",
         "url": "https://open.spotify.com/album/1CVxayI7MG3L73PgA1DCz6"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 306600,
       "name": "Black Jeans",
       "url": "https://open.spotify.com/track/2vBnxZkr6K0Py6iTxHXUKS"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Gold in California",
+        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 214752,
+      "name": "Gold in California",
+      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Anything Without You",
-        "url": "https://open.spotify.com/album/4ea2marOalv22zoOpc5wnl"
-      },
-      "artists": [
-        {
-          "name": "Sabine McCalla",
-          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
-        }
-      ],
-      "duration_ms": 240987,
-      "name": "Sunshine Kisses",
-      "url": "https://open.spotify.com/track/7t0EiqNogoInkPjvI3eLZI"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Hurt By You",
         "url": "https://open.spotify.com/album/3RykZ9zgjIrCRMF1YsrO05"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 230339,
       "name": "Hurt By You",
       "url": "https://open.spotify.com/track/0iLbxQU6BJ2zOa9yK8RNMA"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Anything Without You",
+        "url": "https://open.spotify.com/album/4ea2marOalv22zoOpc5wnl"
+      },
+      "artists": [
+        {
+          "name": "Sabine McCalla",
+          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
+        }
+      ],
+      "duration_ms": 240987,
+      "name": "Sunshine Kisses",
+      "url": "https://open.spotify.com/track/7t0EiqNogoInkPjvI3eLZI"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -2283,18 +2283,18 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+        "name": "Keep On Dreamin'",
+        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
       },
       "artists": [
         {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
         }
       ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
+      "duration_ms": 266560,
+      "name": "Keep On Dreamin'",
+      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Keep On Dreamin'",
-        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Keep On Dreamin'",
-      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Strays",
         "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 169186,
       "name": "Radio [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     },
     {
       "added_at": "2026-08-21 04:02:08",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2026-08-21 04:02:08",
       "album": {
-        "name": "Photographs",
-        "url": "https://open.spotify.com/album/2Mc2AnmLf4Poor6xMUxH0J"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 198530,
-      "name": "Photographs",
-      "url": "https://open.spotify.com/track/4CF1rJmxEERGxiuzMVsxPp"
-    },
-    {
-      "added_at": "2026-08-21 04:02:08",
-      "album": {
         "name": "Fireworks",
         "url": "https://open.spotify.com/album/6lYkLmCOdSJeeAnz8Ovfum"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 198146,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/0Dpe1m77tBKkEvxaHvStsD"
+    },
+    {
+      "added_at": "2026-08-21 04:02:08",
+      "album": {
+        "name": "Photographs",
+        "url": "https://open.spotify.com/album/2Mc2AnmLf4Poor6xMUxH0J"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 198530,
+      "name": "Photographs",
+      "url": "https://open.spotify.com/track/4CF1rJmxEERGxiuzMVsxPp"
     },
     {
       "added_at": "2026-08-21 04:02:08",

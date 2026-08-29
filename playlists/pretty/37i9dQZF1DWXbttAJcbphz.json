@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 years of Lemonade. Cover: Beyonc\u00e9",
-  "num_followers": 1796008,
+  "num_followers": 1796067,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACGIrl7B7LYMubFYIsA4B5SvbGEY",
+  "snapshot_id": "AAAAAAef4xRK0lGeCHwfrezUCtzb0lnE",
   "tracks": [
     {
       "added_at": "2020-10-02 17:39:19",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 198294,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 267066,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 198294,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "I Told You",
         "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 237786,
       "name": "Say It",
       "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 272986,
-      "name": "How Many Drinks?",
-      "url": "https://open.spotify.com/track/5ctk3VJoHoURSiwkCJn2bf"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 244136,
       "name": "New Flame (feat. Usher & Rick Ross)",
       "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 272986,
+      "name": "How Many Drinks?",
+      "url": "https://open.spotify.com/track/5ctk3VJoHoURSiwkCJn2bf"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "F.A.M.E. (Expanded Edition)",
@@ -1171,6 +1155,22 @@
       "duration_ms": 276560,
       "name": "Deuces (feat. Tyga & Kevin McCall)",
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+        "name": "King Of Hearts (Deluxe)",
+        "url": "https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx"
       },
       "artists": [
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
         }
       ],
-      "duration_ms": 240320,
-      "name": "Planez",
-      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
+      "duration_ms": 240106,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "King Of Hearts (Deluxe)",
-        "url": "https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx"
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
       "artists": [
         {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 240106,
-      "name": "Lay It Down",
-      "url": "https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ"
+      "duration_ms": 240320,
+      "name": "Planez",
+      "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
     },
     {
       "added_at": "2022-09-24 16:52:24",

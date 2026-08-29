@@ -19653,6 +19653,24 @@
     },
     {
       "album": {
+        "name": "Alasan",
+        "url": "https://open.spotify.com/album/421QGVh4EoYF6A5OARzVZT"
+      },
+      "artists": [
+        {
+          "name": "D4rA Muda",
+          "url": "https://open.spotify.com/artist/6O6wYQPXaJSdxMJFtM4CCY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209110,
+      "name": "Alasan",
+      "url": "https://open.spotify.com/track/6dZ2Bh8kVS1ARNE2f7PA92"
+    },
+    {
+      "album": {
         "name": "Alasan Klasik",
         "url": "https://open.spotify.com/album/1vuWUheHHacrEfeziXf3O2"
       },
@@ -56809,6 +56827,28 @@
     },
     {
       "album": {
+        "name": "Berdua Saja",
+        "url": "https://open.spotify.com/album/1G9b6PVbdKJiY4PSFBTs5O"
+      },
+      "artists": [
+        {
+          "name": "Rifki Soeria",
+          "url": "https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT"
+        },
+        {
+          "name": "Keshya Valerie",
+          "url": "https://open.spotify.com/artist/3ioWvy85yCgiqmpyu4jEma"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Berdua Saja",
+      "url": "https://open.spotify.com/track/4hXyz3mJQNBllhn9nefmBZ"
+    },
+    {
+      "album": {
         "name": "Berdua Sampai Mati",
         "url": "https://open.spotify.com/album/7rFU2LjLlGXrnHUwp6wv5U"
       },
@@ -57072,6 +57112,28 @@
       "duration_ms": 260000,
       "name": "Berhak Bahagia",
       "url": "https://open.spotify.com/track/6fdzkVCWG1wxmY5zXLONEw"
+    },
+    {
+      "album": {
+        "name": "Berharap",
+        "url": "https://open.spotify.com/album/0nOTBbapQWzdFHZAfiAz9F"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aprilio",
+          "url": "https://open.spotify.com/artist/1JBtcNC11ceVl8JXaR4dbV"
+        },
+        {
+          "name": "Widy Vierratale",
+          "url": "https://open.spotify.com/artist/6ImmfK9kPcIaYcQEiUfEJb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189142,
+      "name": "Berharap",
+      "url": "https://open.spotify.com/track/2xewuXavdzmk6yVniNY596"
     },
     {
       "album": {
@@ -119524,7 +119586,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 120000,
       "name": "cuss me out (feat. MILLI)",
       "url": "https://open.spotify.com/track/22hMdsDruS3DpVT5e0B6xT"

@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 233173,
       "name": "1968",
       "url": "https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 372640,
       "name": "54",
       "url": "https://open.spotify.com/track/716vLwPfdagrP3kGrYPmTh"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 413858,
       "name": "Avalanche - Joachim Pastor Remix",
       "url": "https://open.spotify.com/track/1MefJQn9jffLZcEtSNLEgM"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 287213,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/4AH6HqEAbzmZaDqwcc5Ljm"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 234240,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/2e1xmCupvnz5XvyYJxVPnn"
@@ -2410,7 +2410,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 397216,
       "name": "In Between (Memories and Dreams)",
       "url": "https://open.spotify.com/track/5drR4fvdJgyGW6qxvErptp"
@@ -2580,6 +2580,24 @@
       "duration_ms": 325791,
       "name": "Kodama",
       "url": "https://open.spotify.com/track/4KDXL0KG6GZviMFMhosthB"
+    },
+    {
+      "album": {
+        "name": "Korienz\u00e9",
+        "url": "https://open.spotify.com/album/0aHsUF9lEAFV24aAT5eXC9"
+      },
+      "artists": [
+        {
+          "name": "Diskay",
+          "url": "https://open.spotify.com/artist/0jhEMuo7mHO0SS3ikkimR5"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "Korienz\u00e9",
+      "url": "https://open.spotify.com/track/5vBHUYljaHEVUKI3blpb8i"
     },
     {
       "album": {
@@ -2760,7 +2778,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 260105,
       "name": "Like Drugs",
       "url": "https://open.spotify.com/track/2LU9t30EzGaWN5JJG2YZaS"
@@ -2782,7 +2800,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 225000,
       "name": "Loss",
       "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
@@ -2924,7 +2942,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 335250,
       "name": "Lueur",
       "url": "https://open.spotify.com/track/4zgjUwITPoDoy7xZ2Keco1"
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 165120,
       "name": "master of your mind",
       "url": "https://open.spotify.com/track/1r7RmUpYjTSJUhbTPNcF9z"
@@ -3242,7 +3260,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 187781,
       "name": "Morning Bliss",
       "url": "https://open.spotify.com/track/6WPR6Rmjta2KD6ZfmXDMaX"
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Open",
       "url": "https://open.spotify.com/track/3c6bmhP5BWJmggel5FF1Lz"
@@ -3820,7 +3838,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 210491,
       "name": "PEOPLE//PLEASER",
       "url": "https://open.spotify.com/track/1Tczrcus38dWH0Y54zaJmQ"
@@ -4080,7 +4098,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 518240,
       "name": "Purpurreiher",
       "url": "https://open.spotify.com/track/0aNEWht4v7T61S8uREhERE"
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "rise//ruin",
       "url": "https://open.spotify.com/track/6e4AZNf3eOxqCa1UVjeNFd"
@@ -4640,7 +4658,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 219317,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/1iCPxpiD6HT7es28nNKtjn"
@@ -5250,7 +5268,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 209906,
       "name": "THE MOON // 3:49AM",
       "url": "https://open.spotify.com/track/72lUxaRRDEmKungYLgLXOS"
@@ -5286,7 +5304,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 234773,
       "name": "THE NOOK // 4:28AM",
       "url": "https://open.spotify.com/track/57OZL6BkJT0YfA67LUT5Uv"
@@ -5362,7 +5380,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-24",
+      "date_removed": null,
       "duration_ms": 283520,
       "name": "Things",
       "url": "https://open.spotify.com/track/1HfZcA8qWGZZF4sWcP575R"
@@ -5792,7 +5810,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 294240,
       "name": "Wei\u00dfstorch",
       "url": "https://open.spotify.com/track/5QJ7iRiie9SP5kck7pSrXW"
@@ -6110,7 +6128,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

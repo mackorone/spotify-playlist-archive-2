@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic house and techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,273 likes - 80 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,309 likes - 80 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 25 | [Find You Again](https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity \(Deluxe Edition\)](https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv) | 5:29 |
 | 26 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
 | 27 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 |
-| 28 | [Deep in My Mind \- Original Mix](https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Traum EP](https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud) | 5:16 |
-| 29 | [Minister](https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Minister](https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ) | 4:00 |
-| 30 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 |
-| 31 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 |
+| 28 | [Minister](https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Minister](https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ) | 4:00 |
+| 29 | [Deep in My Mind \- Original Mix](https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Traum EP](https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud) | 5:16 |
+| 30 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 |
+| 31 | [Sense of Wonder](https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Sense of Wonder](https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3) | 4:01 |
 | 32 | [If I Had Wings](https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [If I Had Wings](https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1) | 7:00 |
 | 33 | [Unlocked](https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity](https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK) | 7:04 |
 | 34 | [Odyssey](https://open.spotify.com/track/7jw452od74FzquMBqkUXiY) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Odyssey](https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7) | 4:17 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 36 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 |
 | 37 | [Nebula](https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Nebula](https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9) | 3:08 |
 | 38 | [Lyra](https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Lyra](https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy) | 7:17 |
-| 39 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
-| 40 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
-| 41 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
-| 42 | [Welcome](https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano & Electronic Ensemble Op\. 1](https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7) | 6:15 |
+| 39 | [Unfold Me](https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF) | [Unfold Voices EP](https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T) | 6:31 |
+| 40 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
+| 41 | [Welcome](https://open.spotify.com/track/0XwZh2lAMreq20jjSsWk4u) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano & Electronic Ensemble Op\. 1](https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7) | 6:15 |
+| 42 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
 | 43 | [Purple Days](https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM) | [KlangTherapeuten](https://open.spotify.com/artist/54gKd6ck4Kz5pigQLZUbkW), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Purple Days & Purple Nights](https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm) | 4:29 |
 | 44 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 |
 | 45 | [Pulses](https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Pulses](https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f) | 6:04 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 58 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 |
 | 59 | [Revolt](https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Revolt](https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT) | 4:44 |
 | 60 | [Run](https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF) | [Haddadi Von Engst](https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5) | [Run](https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a) | 5:08 |
-| 61 | [After Dark](https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [After Dark](https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm) | 7:25 |
-| 62 | [Rapture](https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Rapture EP](https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5) | 4:29 |
+| 61 | [Rapture](https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Rapture EP](https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5) | 4:29 |
+| 62 | [After Dark](https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4) | [Hraach](https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO) | [After Dark](https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm) | 7:25 |
 | 63 | [Exoplanet](https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re) | [Third Person](https://open.spotify.com/artist/66t8meyd0W90QMjxHiDoSc), [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy) | [Exoplanet](https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ) | 8:21 |
 | 64 | [Hailstorm \- Ann Clue Remix](https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v), [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Hailstorm \(Ann Clue Remix\)](https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76) | 6:22 |
 | 65 | [Reframed Future](https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz) | [Schlepp Geist](https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95) | [10 Years URSL \- Reframed Future](https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT) | 7:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Mars Express](https://open.spotify.com/track/6pLId3BTsBZO9uec6j6fe6) | [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Mars Express](https://open.spotify.com/album/3XFsr5IXqQh3n7tg8nzP9d) | 6:51 |
 | 80 | [Polymid](https://open.spotify.com/track/6Ob7lH8xFS2HYPnkFsdzrl) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Mera](https://open.spotify.com/album/7fg9iODTa8OBPcgrtSXv7p) | 7:11 |
 
-Snapshot ID: `AAAAADK0tW4BekxrNyUc8rnK0QZXZ6aJ`
+Snapshot ID: `AAAAAOySET634O938eyMVG8X5gBkcSNX`

@@ -4,7 +4,7 @@
 
 > JENNIE in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,642 songs - 7 day 19 hr 43 min
+3,643 songs - 7 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Bittersweet](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Bittersweet](https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE) | 3:32 | 2025-01-23 | 2025-02-14 |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-10-09 | 2025-10-31 |
 | [black & white](https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [black & white](https://open.spotify.com/album/653YWJ1EZLWEvUdE6Kc8WL) | 3:28 | 2024-09-12 | 2024-10-04 |
+| [Black Box \- feat\. Kamasi Washington](https://open.spotify.com/track/0fv00pOf3fObPKjVHk1K5Y) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 4:16 | 2026-08-28 |  |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-18 | 2024-09-06 |
 | [Black Hole](https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Arthouse](https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2) | 3:19 | 2025-10-09 | 2025-10-31 |
 | [Black Limousines](https://open.spotify.com/track/7hJppWPyM7wSZ3xB0dToyB) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [Black Limousines](https://open.spotify.com/album/775VG6Lf00HigDX3IWNKx0) | 3:23 | 2025-06-12 | 2025-07-11 |

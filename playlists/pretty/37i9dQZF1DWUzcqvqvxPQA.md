@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,153 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,154 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 15 | [Messed Up Messenger](https://open.spotify.com/track/6S7ozX65RnMobYTiaSlreq) | [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Messed Up Messenger](https://open.spotify.com/album/68RSHthYk5DHJEnsVtTjcj) | 3:17 |
 | 16 | [Mad Big World](https://open.spotify.com/track/55GjwZjEoy725zk5lSqnqs) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/76QcbTPISNU8iRpT2ZYmuJ) | 3:24 |
 | 17 | [SOMETHING DIFFERENT](https://open.spotify.com/track/6IYLA7aFxVNi5puPw6wppV) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [SOMETHING DIFFERENT](https://open.spotify.com/album/2DLFtkfpLL3nPxrgH5xDqu) | 2:56 |
-| 18 | [LIFE IS GOOD](https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2), [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [LIFE IS GOOD](https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N) | 3:07 |
-| 19 | [Believe It](https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Victory Lap](https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh) | 1:52 |
+| 18 | [Believe It](https://open.spotify.com/track/24MzsXH35mx5ZAJqIhVC8K) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Victory Lap](https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh) | 1:52 |
+| 19 | [LIFE IS GOOD](https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop) | [CORTÉ](https://open.spotify.com/artist/1HPPTOUG07N4P4XsXDQ5Y2), [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [LIFE IS GOOD](https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N) | 3:07 |
 | 20 | [AMAZING!](https://open.spotify.com/track/6sBqTPsiudzkESXDpPI6t5) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [WASHED](https://open.spotify.com/album/5ADw2IQlPkheuMun7AuYBc) | 4:22 |
 | 21 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 |
 | 22 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 57 | [whisper and the wind \- b+CL version](https://open.spotify.com/track/4ccZ3mBc2gtSRW6xzrxEQb) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC), [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [whisper and the wind \(b+CL version\)](https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br) | 3:18 |
 | 58 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |
 | 59 | [Circles](https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Circles](https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D) | 2:00 |
-| 60 | [redeemed](https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2) | [sun haze](https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2) | [redeemed](https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f) | 3:25 |
-| 61 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
-| 62 | [Long Gone](https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Long Gone](https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN) | 3:44 |
+| 60 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
+| 61 | [Long Gone](https://open.spotify.com/track/4Hsjt3ANT8B2saagrW6wig) | [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Long Gone](https://open.spotify.com/album/2qWxWWa2jYTMPwA15YwShN) | 3:44 |
+| 62 | [redeemed](https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2) | [sun haze](https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2) | [redeemed](https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f) | 3:25 |
 | 63 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 |
 | 64 | [Always Summertime](https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Always Summertime](https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ) | 2:30 |
 | 65 | [WILD!](https://open.spotify.com/track/1D9gi1TwubKCnsd3ppHoah) | [Chris Ekiss](https://open.spotify.com/artist/0ogIYYp8HZ4OA6g6L0DSty) | [WILD!](https://open.spotify.com/album/50U3RqucJhkAvcvoO4zMfD) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [DESTINY](https://open.spotify.com/track/5RtRPhTCDjPoJqhqAtMz3t) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Chanele](https://open.spotify.com/artist/4jcApI1xdHMtx4iMvLV01a) | [WAITING ROOM](https://open.spotify.com/album/5pnf64squuM0LMkFqQ1GiC) | 2:49 |
 | 100 | [Something About Your Love](https://open.spotify.com/track/4pWSuffghBr69VsPfSrhNr) | [Kieran De La Harpe](https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Something About Your Love](https://open.spotify.com/album/3m9H87NkD8LlBsN1aDfXb6) | 3:52 |
 
-Snapshot ID: `AAAAABoy2zmrUHonksadujwSwwI6ICEH`
+Snapshot ID: `AAAAAJphtZuebVsUG+PXy/3axCLAVaCh`

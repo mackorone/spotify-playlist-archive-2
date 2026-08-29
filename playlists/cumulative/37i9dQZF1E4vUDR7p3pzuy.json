@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 198168,
       "name": "Bedlam",
       "url": "https://open.spotify.com/track/15CszyNyA1josUgiE8WJZ6"
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 228000,
       "name": "BLACK SUMMER",
       "url": "https://open.spotify.com/track/3cv9qR7Y4ORPBtjxZ6RTVV"
@@ -3553,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "Compulsion",
+        "url": "https://open.spotify.com/album/7rU3L566xzNq5N0xwQtw7k"
+      },
+      "artists": [
+        {
+          "name": "Black Doldrums",
+          "url": "https://open.spotify.com/artist/3yAYb9TSBzWkEIVKN0Wybb"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202890,
+      "name": "Compulsion",
+      "url": "https://open.spotify.com/track/1aUaR57F0CKd5wLkDCOY86"
+    },
+    {
+      "album": {
         "name": "Concrete Jungle",
         "url": "https://open.spotify.com/album/6hsYqcS4ysvMBwVEaUSPdl"
       },
@@ -3636,7 +3654,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -4192,7 +4210,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -4286,7 +4304,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 233325,
       "name": "Details Fade - Hex Formes & D1NTR Remix",
       "url": "https://open.spotify.com/track/4EW3YZgKOsvbbLPVLmPboY"
@@ -5528,7 +5546,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 93409,
       "name": "El Guardi\u00e1n del Equilibrio",
       "url": "https://open.spotify.com/track/07IKnUvTgGULbfLJ6emblG"
@@ -5698,7 +5716,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 260079,
       "name": "Endless Lovers Story",
       "url": "https://open.spotify.com/track/6haxQP3HmWLc3ccN8d6KGm"
@@ -7672,7 +7690,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 331520,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/3Wx488LVmvoapvwSa8JCZ1"
@@ -7708,7 +7726,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 390765,
       "name": "HEADRUSH",
       "url": "https://open.spotify.com/track/5LWbpBBZBZCF2EYzhc7FzO"
@@ -8726,7 +8744,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 179292,
       "name": "I Will Run",
       "url": "https://open.spotify.com/track/2mhcWtEf6pDXm5TNo1llKH"
@@ -8852,7 +8870,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -9872,7 +9890,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-08",
+      "date_removed": null,
       "duration_ms": 187118,
       "name": "Just Saying - Single Edit",
       "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
@@ -10024,7 +10042,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 246761,
       "name": "Kiss (Me)",
       "url": "https://open.spotify.com/track/3OKtkqTikliFqEHjs9hMF1"
@@ -10724,7 +10742,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 250263,
       "name": "Lips Unkissed",
       "url": "https://open.spotify.com/track/6FXW7sFDKnWl8BWX7c9onJ"
@@ -10886,7 +10904,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/4N1CgNN64cCVeQ9To3THcB"
@@ -11612,7 +11630,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 197811,
       "name": "MINOTAUR",
       "url": "https://open.spotify.com/track/47My6EV8qNkxAqYDe1HsxQ"
@@ -12800,7 +12818,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -14378,7 +14396,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 153250,
       "name": "running joke",
       "url": "https://open.spotify.com/track/61tQINMAv7Kix961SOwGbd"
@@ -16114,7 +16132,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -17632,7 +17650,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -19740,7 +19758,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 361667,
       "name": "Violent Silence - Madrigal Version",
       "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
@@ -20438,7 +20456,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 196507,
       "name": "Whateverforevermore",
       "url": "https://open.spotify.com/track/7yW9dqf9n5fpP2SD27EfTm"
@@ -20630,7 +20648,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
@@ -21228,7 +21246,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 248647,
       "name": "Your Heart In The Serpent's Mouth",
       "url": "https://open.spotify.com/track/2fJIlr4UNRCDMvusguobiy"

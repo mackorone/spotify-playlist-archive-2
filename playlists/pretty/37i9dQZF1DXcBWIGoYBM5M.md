@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBWIGoYBM5M.md) - [plain]
 
 > The hottest 50\. Cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,897,953 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,894,225 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBWIGoYBM5M.md) - [plain]
 | 49 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 | 50 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 |
 
-Snapshot ID: `AAAAAB+tQh40GxnaxTEnNlRvQ794z8XZ`
+Snapshot ID: `AAAAAEQcdHCOIiSRH3ZoKoej464dJB5M`

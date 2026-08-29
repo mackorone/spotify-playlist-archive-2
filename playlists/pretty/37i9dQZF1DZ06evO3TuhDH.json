@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABx2gM4qvASrfj/gRWwojqm",
+  "snapshot_id": "ao9+AAAAAABs/dnlDT4cwkcr/i6EAN8k",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "Make My Day (with David Guetta)",
-      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomboy (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 190355,
       "name": "Tomboy (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Make My Day (with David Guetta)",
+      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Man's World (with James Brown)",
-      "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 164256,
       "name": "Flava (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Man's World (with James Brown)",
+      "url": "https://open.spotify.com/track/235C6mYJSyfN74X8s92900"
     },
     {
       "added_at": null,

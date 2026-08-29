@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: g0nny \(거니\)\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,268 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,004 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [is blue](https://open.spotify.com/track/0mPZqSKcck4JJY0R4x3FZR) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [is blue](https://open.spotify.com/album/0Fw2Tih6KT6N3Ba3EfktiE) | 3:07 |
 | 50 | [Under The Blue Moon](https://open.spotify.com/track/5lgjWj5fEdcp365k59SiOM) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [Under The Blue Moon](https://open.spotify.com/album/5DQMc4cSacAPweb4q1d7dQ) | 3:46 |
 
-Snapshot ID: `AAAAAPZrj/72fSAeCVfzJkmjs/tIl2mX`
+Snapshot ID: `AAAAAMUIb5aUVcUnx5J/MRY/F/exjsYQ`

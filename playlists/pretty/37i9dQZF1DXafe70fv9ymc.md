@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,409 likes - 83 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,413 likes - 83 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 82 | [JAMAICA](https://open.spotify.com/track/2UAdeWcMoPLszpvEJ5zmQp) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd), [KOKO SZN](https://open.spotify.com/artist/53XjvW1apJc8O4L28yrnTz), [LOGDRM](https://open.spotify.com/artist/1rdVk0Sj2xpk5dp1hT0FAw) | [JAMAICA](https://open.spotify.com/album/0ZLVzr7WqhClTBJfvKJgVk) | 2:17 |
 | 83 | [Serial Kisser](https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [HIH & Serial Kisser](https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA) | 3:01 |
 
-Snapshot ID: `AAAAAJAGTXQMtzUt8pg4XtWWXPKXO14G`
+Snapshot ID: `AAAAAMllNj/GI+ZdqIXJTvBFeD2uQVdF`

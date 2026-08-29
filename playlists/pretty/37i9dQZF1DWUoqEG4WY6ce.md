@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 
 > Hop in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,755 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,782 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 36 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
 | 37 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
 | 38 | [The Suburbs](https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 5:15 |
-| 39 | [Naive](https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 3:23 |
-| 40 | [In The Modern World](https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:26 |
+| 39 | [In The Modern World](https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:26 |
+| 40 | [Naive](https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 3:23 |
 | 41 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:08 |
 | 42 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
 | 43 | [Murder on the Dancefloor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 56 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
 | 57 | [Peaches](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:45 |
 | 58 | [The Sunshine](https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 1:57 |
-| 59 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 |
-| 60 | [Islands of Men](https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 5:54 |
+| 59 | [Islands of Men](https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 5:54 |
+| 60 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 |
 | 61 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 62 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
 | 63 | [11th Dimension](https://open.spotify.com/track/6i99ThziImjuFABb8rUQvy) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/4rP54hT8fzDosnCtzQyBRF) | 4:03 |
-| 64 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 |
-| 65 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
-| 66 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
-| 67 | [Concorde](https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 6:03 |
+| 64 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
+| 65 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 |
+| 66 | [Concorde](https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 6:03 |
+| 67 | [Way It Goes](https://open.spotify.com/track/6CES1554HcWMIVroJfmmBm) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 4:05 |
 | 68 | [Missed the Boat](https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:24 |
 | 69 | [Salute Your Solution](https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 2:59 |
 | 70 | [Crooked Teeth](https://open.spotify.com/track/1crbFuCkGL4kXnAGd63RXq) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:23 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 86 | [Canopy](https://open.spotify.com/track/5e9tqR7s11fwbPXJWyI4WC) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Canopy & Shades Of Green](https://open.spotify.com/album/06edgNjavwaBkVkBMEQkUR) | 2:56 |
 | 87 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 |
 | 88 | [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 |
-| 89 | [Here In Spirit](https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:16 |
-| 90 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
+| 89 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
+| 90 | [Here In Spirit](https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL) | 4:16 |
 | 91 | [Live And Die](https://open.spotify.com/track/19n9s9SfnLtwPEODqk8KCT) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD) | 4:31 |
 | 92 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 93 | [Lazy Eye](https://open.spotify.com/track/3TZXieYvqCuR40LZJbp6Ik) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Carnavas](https://open.spotify.com/album/0uRfhGq6y1ODKhjfsGzbV8) | 5:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoqEG4WY6ce.md) - [plain]
 | 99 | [Oom Sha La La](https://open.spotify.com/track/28kOpVf1aCgL0LSFfuKV4w) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 2:57 |
 | 100 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
 
-Snapshot ID: `AAAAANiub/tNLzxVFeEAOFiTzcsXdU16`
+Snapshot ID: `AAAAAPzwJOBjGYbOegEdgc8XjZoqzrxZ`

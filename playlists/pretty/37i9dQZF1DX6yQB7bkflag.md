@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,808 likes - 101 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,804 likes - 101 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 100 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
 | 101 | [Sunburst](https://open.spotify.com/track/0mGPFPXNLmZQpgwMT5JFOC) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Sunburst](https://open.spotify.com/album/1ARcEEOaH2hkISGXNQ9iai) | 3:16 |
 
-Snapshot ID: `AAAAAMs7ZGz9IHZfZobKaE0xJxGfotyY`
+Snapshot ID: `AAAAALlPJsuWoP8Ts0O+/oof3jqznkSs`

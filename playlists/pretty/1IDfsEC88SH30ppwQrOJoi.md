@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,045 likes - 104 songs - 5 hr 12 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,044 likes - 104 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 61 | [Pizza Margherita](https://open.spotify.com/track/4RkxvbA3b5hvxnwI84oDVn) | [Alex Belloni](https://open.spotify.com/artist/6tensSOupKwJsl3LxagvjF), [Luke DB](https://open.spotify.com/artist/4chLPXLSly4IZblITuG4g6) | [Pizza Margherita](https://open.spotify.com/album/4NDUoTpqAGTQnlJJh3UfLG) | 2:39 |
 | 62 | [Push Up](https://open.spotify.com/track/6CqfT2mBl9VLQhtqoyhOOh) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Push Up](https://open.spotify.com/album/6PvoR8c8d5WymGZdY4roxw) | 2:42 |
 | 63 | [The Moment](https://open.spotify.com/track/0POaQOUC3UylJONLtU3LSL) | [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t), [Broken Hill](https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ) | [The Moment / 2 Tha Beat](https://open.spotify.com/album/7ap8fp6IHdGZxVsjWqczVD) | 3:39 |
-| 64 | [Tivoli \(KREAM Remix\)](https://open.spotify.com/track/2XpnR1Ly4bKk7K2sxJkM7U) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Tivoli \(KREAM Remix\)](https://open.spotify.com/album/5dV5M5LZ7wQDfAYp039hO6) | 3:14 |
+| 64 | [Tivoli \- KREAM Remix](https://open.spotify.com/track/2XpnR1Ly4bKk7K2sxJkM7U) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Tivoli \(KREAM Remix\)](https://open.spotify.com/album/5dV5M5LZ7wQDfAYp039hO6) | 3:14 |
 | 65 | [La Bomba](https://open.spotify.com/track/3mp0R7UzCB9tP0tjBCtGr0) | [Aphesta](https://open.spotify.com/artist/7zWSFa0jzUynkGowMgzH46) | [Wet Mode](https://open.spotify.com/album/2zJnjm8f9oJjOnnnRhRYMw) | 2:29 |
 | 66 | [Dusk Till Dawn](https://open.spotify.com/track/0PPi1m29PJixaV00zIngDc) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Erire](https://open.spotify.com/artist/6WEl7zw5Lt5cLo3OthIoCj) | [Dusk Till Dawn](https://open.spotify.com/album/4lfTQlhIe89eQJlIF2yhE7) | 3:14 |
 | 67 | [Everybody](https://open.spotify.com/track/6WaTxGKcQNbiePjtVRXY97) | [Casmalia](https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT), [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Everybody](https://open.spotify.com/album/6kCAmzATn2Z286JGMoNucU) | 3:08 |

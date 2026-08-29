@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla</a>'s favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,857 likes - 56 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,867 likes - 56 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 52 | [Bring Me Down](https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Stanton Warriors](https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R) | [Bring Me Down](https://open.spotify.com/album/0zNUqbx2KGZxAlvwxTKAvs) | 3:25 |
 | 53 | [Freakin' \- Original](https://open.spotify.com/track/3iyYkvYTaPTCK4NEKZxcci) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [Gemini](https://open.spotify.com/album/5SK5K2fgvbPjGRblLPkVu7) | 6:54 |
 | 54 | [And 1](https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [And 1](https://open.spotify.com/album/5qO7TlsQmMhQ5LomtBrKlT) | 3:31 |
-| 55 | [She’s Gone, Dance On \(Carlita Remix\)](https://open.spotify.com/track/5GFXl6uAUANwLkTeZmyr2R) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [She’s Gone, Dance On \(Carlita Remix\)](https://open.spotify.com/album/3SrOkzgu1SmZ8CiChMbKSt) | 3:34 |
+| 55 | [She’s Gone, Dance On \- Carlita Remix](https://open.spotify.com/track/5GFXl6uAUANwLkTeZmyr2R) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [She’s Gone, Dance On \(Carlita Remix\)](https://open.spotify.com/album/3SrOkzgu1SmZ8CiChMbKSt) | 3:34 |
 | 56 | [A SUNDAY AFTERNOON](https://open.spotify.com/track/0oNIpSBShJDvtNGRZ9H2E4) | [TREASURE SERIES](https://open.spotify.com/artist/5kcocqSSO8W0rpoNjuzXU1) | [A SUNDAY AFTERNOON](https://open.spotify.com/album/6GDxY4FOj3sVTyKmsWjVb6) | 3:13 |
 
-Snapshot ID: `AAAAAB14m/D4xdb27nvCipXYYI1IFOP3`
+Snapshot ID: `AAAAAEP/9yFGZ0rk+yNNFl66q2VsKX/w`

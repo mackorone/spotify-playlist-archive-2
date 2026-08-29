@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/thealiyajanell/">Aliya Janell Brinson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,331 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,340 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 49 | [Pack Lite](https://open.spotify.com/track/2w7ysKPAX3witT5NEB705q) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 2:56 |
 | 50 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
 
-Snapshot ID: `AAAAACuZRbAqjSDv95Jstp4md+n92xVV`
+Snapshot ID: `AAAAABUAEXO/TYrmD36ZKucANzYNusHl`

@@ -1,12 +1,12 @@
 {
   "description": "Tu dosis diaria de rock \ud83d\udcf8 Las Pastillas del Abuelo",
-  "num_followers": 195775,
+  "num_followers": 195802,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJhdFKIhbTMhS2b+gy+M90qyhfv",
+  "snapshot_id": "AAAAAHyy0DcVT+PSntklobgVgGZgfMab",
   "tracks": [
     {
       "added_at": "2026-08-28 03:00:19",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-08-28 03:00:19",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 295160,
-      "name": "Un Pacto - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
-    },
-    {
-      "added_at": "2026-08-28 03:00:19",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -631,18 +615,34 @@
     {
       "added_at": "2026-08-28 03:00:19",
       "album": {
-        "name": "Habla Tu Espejo",
-        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
       "artists": [
         {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 259839,
-      "name": "No llora",
-      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
+      "duration_ms": 295160,
+      "name": "Un Pacto - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
+    },
+    {
+      "added_at": "2026-08-28 03:00:19",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2026-08-28 03:00:19",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-08-28 03:00:19",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+        "name": "Habla Tu Espejo",
+        "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
+      "duration_ms": 259839,
+      "name": "No llora",
+      "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
     },
     {
       "added_at": "2026-08-28 03:00:19",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-08-28 03:00:19",
       "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Magia Veneno",
+      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+    },
+    {
+      "added_at": "2026-08-28 03:00:19",
+      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 174626,
       "name": "Descontrolado",
       "url": "https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7"
-    },
-    {
-      "added_at": "2026-08-28 03:00:19",
-      "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2026-08-28 03:00:19",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-08-28 03:00:19",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
       "artists": [
         {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
         }
       ],
-      "duration_ms": 238573,
-      "name": "Magia Veneno",
-      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     },
     {
       "added_at": "2026-08-28 03:00:19",

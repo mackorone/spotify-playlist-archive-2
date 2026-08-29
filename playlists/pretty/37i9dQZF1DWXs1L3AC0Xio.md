@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,787 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,838 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 74 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
 | 75 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 |
 
-Snapshot ID: `AAAAAKr1eb+UC2AMS6IDAPmGurZ79jzs`
+Snapshot ID: `AAAAAOrAQz5CDf3AiejY9OTVg0xsce8G`

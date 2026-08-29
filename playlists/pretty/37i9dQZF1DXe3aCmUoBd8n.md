@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,005 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,045 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 32 | [اتنسينا](https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [اخر ما تبقي من احزاني](https://open.spotify.com/album/5TkHU9o2cEXhuC9yG1uDlh) | 2:31 |
 | 33 | [Baddi Oul Bhebak​](https://open.spotify.com/track/68rum1vdA8KtzbxWURpZWU) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:56 |
 | 34 | [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 |
-| 35 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
+| 35 | [ana min \- ‘bil dam’ series soundtrack](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
 | 36 | [ما تيجي نركن الزعل](https://open.spotify.com/track/6SV1CubigxqGfvoSU6uCEV) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [ما تيجي نركن الزعل](https://open.spotify.com/album/032M5b75DmWMAnquK16IGN) | 3:08 |
 | 37 | [صحبي يا صحبي](https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [صحبي يا صحبي](https://open.spotify.com/album/4YzIMteqKKaYZlipibsnqw) | 2:13 |
 | 38 | [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 49 | [Ya Zghiri](https://open.spotify.com/track/0IayU4PmWshvS0r4aMTzPD) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ya Zghiri](https://open.spotify.com/album/40vVMbWX1OW6Mo3KdK8ndA) | 3:03 |
 | 50 | [مُهرة \- MOHRA](https://open.spotify.com/track/4V5CPi2Z1amClPyxT24fgE) | [Ismaeil Tamr](https://open.spotify.com/artist/5DzUF6vIJJsWlTX6HgPD6v) | [مُهرة \- MOHRA](https://open.spotify.com/album/07tBDn21opfLJwRBn0O7Sm) | 3:19 |
 
-Snapshot ID: `AAAAADzB6tim3Gb/4OLaXsJVeDY9DxHB`
+Snapshot ID: `AAAAAIkufyxTgOa8bANT5DJzg5RLvpbl`

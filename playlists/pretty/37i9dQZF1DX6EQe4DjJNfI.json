@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 191460,
+  "num_followers": 191481,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIKv1pfjRB9zwfpqni/QlojfaJFb",
+  "snapshot_id": "AAAAACq5NHkbUulZYOpzbcu2/X9k1+yI",
   "tracks": [
     {
       "added_at": "2026-08-21 22:02:04",
@@ -207,26 +207,6 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "Melhor Amiga do Tempo (com Maru2D)",
-        "url": "https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        }
-      ],
-      "duration_ms": 150618,
-      "name": "Melhor Amiga do Tempo (com Maru2D)",
-      "url": "https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 341376,
       "name": "Har\u00e9m",
       "url": "https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
+        "name": "Melhor Amiga do Tempo (com Maru2D)",
+        "url": "https://open.spotify.com/album/6UkRen2khd0V2T2d5iponC"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "duration_ms": 150618,
+      "name": "Melhor Amiga do Tempo (com Maru2D)",
+      "url": "https://open.spotify.com/track/7KvSGi2vsTNM7O1dsrfTsK"
     },
     {
       "added_at": "2026-08-21 22:02:04",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "P\u00farpura Session",
-        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 200083,
-      "name": "Dona Do Mundo (P\u00farpura Session)",
-      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
         "name": "Logo Eu",
         "url": "https://open.spotify.com/album/0CkFLpxTGob3oHhv4WO4w6"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 179389,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/4SoklFLl7XvQnylDQj5sd3"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
+        "name": "P\u00farpura Session",
+        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 200083,
+      "name": "Dona Do Mundo (P\u00farpura Session)",
+      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
     },
     {
       "added_at": "2026-08-21 22:02:04",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
         "name": "Te Faria",
         "url": "https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
         "name": "Desalinho",
         "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 205357,
       "name": "Desalinho",
       "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
     },
     {
       "added_at": "2026-08-21 22:02:04",
@@ -1019,38 +1035,6 @@
     {
       "added_at": "2026-08-21 22:02:04",
       "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
-    },
-    {
-      "added_at": "2026-08-21 22:02:04",
-      "album": {
         "name": "Amor \u00e0 Luz do Dia",
         "url": "https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 225304,
       "name": "Amor \u00e0 Luz do Dia",
       "url": "https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt"
+    },
+    {
+      "added_at": "2026-08-21 22:02:04",
+      "album": {
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
     },
     {
       "added_at": "2026-08-21 22:02:04",

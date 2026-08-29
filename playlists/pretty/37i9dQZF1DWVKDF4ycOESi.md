@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di ARIETE con Angelina Mango, Shiva, Alex Warren, JENNIE, Alfa con Gigi D'Alessio e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,801 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,124 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 3 | [EMERALD EYES](https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:36 |
 | 4 | [FALLEN ANGEL](https://open.spotify.com/track/75QkBCdRc5DGgcyPiVSg4b) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel](https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx) | 3:19 |
 | 5 | [Genova e Napoli](https://open.spotify.com/track/4IPvLJHeW1wwPDz0mYvxzZ) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Gigi D'Alessio](https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn) | [Genova e Napoli](https://open.spotify.com/album/7L8I7uCdJIKQJsRIaeB0cz) | 2:58 |
-| 6 | [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/770KUfsvpJLcWqFv96JgM6), [Anderson](https://open.spotify.com/artist/1WrqscQTSOcBLyjIv5Qz6H) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 |
+| 6 | [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP), [Anderson](https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 |
 | 7 | [Boss](https://open.spotify.com/track/0yWtSeNfVQaF8CCvRD2aZM) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Boss](https://open.spotify.com/album/7amDPWNunB9RQnHSiMIhxm) | 2:11 |
 | 8 | [Wallflower](https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Wallflower](https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao) | 2:58 |
 | 9 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 42 | [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 |
 | 43 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
 | 44 | [MONEYMONEYMONEY](https://open.spotify.com/track/0soE3o6dUx6YiSzpUkfyBE) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN\_playextended](https://open.spotify.com/album/26w4RoexAyiXRogASNJDZj) | 2:19 |
-| 45 | [MOLLY & PERCOCET](https://open.spotify.com/track/1tM8ONGcgmvt91bBd9DiVU) | [manueltime](https://open.spotify.com/artist/6N77V5lSWGy12nnqNmjYW0), [Almighty Brian](https://open.spotify.com/artist/0067CTZR9FIUo865ZSMpQw), [OGKAGE](https://open.spotify.com/artist/10EWS82AzwXYzLhaIf9wD3) | [MOLLY & PERCOCET](https://open.spotify.com/album/6Vy5FSOCSoZk65g4kM4qYu) | 1:43 |
+| 45 | [MOLLY & PERCOCET](https://open.spotify.com/track/1tM8ONGcgmvt91bBd9DiVU) | [manueltime](https://open.spotify.com/artist/6N77V5lSWGy12nnqNmjYW0), [Almighty Brian](https://open.spotify.com/artist/0067CTZR9FIUo865ZSMpQw), [OGKAGE](https://open.spotify.com/artist/10EWS82AzwXYzLhaIf9wD3) | [MOLLY & PERCOCET](https://open.spotify.com/album/6Vy5FSOCSoZk65g4kM4qYu) | 1:40 |
 | 46 | [AMORESWAG](https://open.spotify.com/track/3Z4DQLhLTseamUcZAk9QCt) | [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [AMORESWAG](https://open.spotify.com/album/5x9iNZPDKBTyXA8eutJzdt) | 2:27 |
 | 47 | [Listen When Sad](https://open.spotify.com/track/3mhqgCtsv3BkWXWHBKR3b0) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Listen When Sad](https://open.spotify.com/album/7DnLLXl3u6tEP5OacdKZO9) | 3:48 |
 | 48 | [Jubilee Feeling](https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Jubilee Feeling](https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx) | 4:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 59 | [Days of Heaven](https://open.spotify.com/track/55yZU5phJ00OycDoKgVRZB) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Days of Heaven](https://open.spotify.com/album/3kgoPlwQzDHFljdZbdWmLN) | 2:14 |
 | 60 | [Biondo Tevere](https://open.spotify.com/track/3bpxDCWG2CXcwdpaCUsTty) | [Gu Barluzzi](https://open.spotify.com/artist/3sf9tB7045g4v3MA4dcqlB) | [Biondo Tevere](https://open.spotify.com/album/5DLplmccOzFRTXtDG1776q) | 2:58 |
 
-Snapshot ID: `AAAAAJflBOjY6wkmnKtP5nproI4tJveW`
+Snapshot ID: `AAAAAIII/SkuuMvFGKSHhKzrKzfVOPke`

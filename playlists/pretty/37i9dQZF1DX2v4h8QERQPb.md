@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Bardero$
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,184 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,189 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [École](https://open.spotify.com/track/3I8Zhb70c0HjAhZBCYOA8H) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [La Ciudad del Pop](https://open.spotify.com/album/3S1ugX75zwHqXYpOTaMmWb) | 4:12 |
 | 100 | [Rokit](https://open.spotify.com/track/5VRt5Ss75PnGOiXooOyxuw) | [Up & Down](https://open.spotify.com/artist/5qj3vh4PhXH79eMEB7Q0v5), [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Billy\-G](https://open.spotify.com/artist/54sFijfR6VAZXa8qQaoxqs) | [Rokit](https://open.spotify.com/album/0gOeYlkhAKet9hEIsXqTYE) | 2:19 |
 
-Snapshot ID: `AAAAAMuvweZnqI990rpAtmAr/RHOin4o`
+Snapshot ID: `AAAAAC5cWCCsJNZ9gAdgdkEB2sPJD8Fu`

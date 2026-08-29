@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,677 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,692 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 39 | [De Zee](https://open.spotify.com/track/256gv8gWTVbEI1SIhC5YlO) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [The Essential Total Touch & Trijntje Oosterhuis](https://open.spotify.com/album/4q59SeuZwxLtIt4izAQ0i8) | 4:32 |
 | 40 | [Leun Op Mij](https://open.spotify.com/track/1AHSLMouCoEwrwNgQB92me) | [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Alle 40 Goed](https://open.spotify.com/album/1ba5louPwSaXr0BBuHEjsc) | 3:57 |
 | 41 | [De Eerste Keer](https://open.spotify.com/track/06eICRFok9GhRifK25a5NH) | [Maxine & Franklin Brown](https://open.spotify.com/artist/4ptkAA3lQP6cGCAg7CVL8I) | [Hollandse Sterren \- Allermooiste Duetten](https://open.spotify.com/album/5spE8XeOx1BgP7JxGfH8Iz) | 2:38 |
-| 42 | [Liefde voor muziek](https://open.spotify.com/track/0epqiURh9kFqBVtuz9DJp2) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Alle 40 Goed](https://open.spotify.com/album/43QtfDqQ4X2k5q6qwvs2MH) | 3:33 |
-| 43 | [Laat Het Los](https://open.spotify.com/track/0oFXW0Mqbx4iIGnVKDRIBu) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Vier Weken](https://open.spotify.com/album/7H9PsA2EZCZE9c7HiV2T20) | 4:51 |
+| 42 | [Laat Het Los](https://open.spotify.com/track/0oFXW0Mqbx4iIGnVKDRIBu) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Vier Weken](https://open.spotify.com/album/7H9PsA2EZCZE9c7HiV2T20) | 4:51 |
+| 43 | [Liefde voor muziek](https://open.spotify.com/track/0epqiURh9kFqBVtuz9DJp2) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Alle 40 Goed](https://open.spotify.com/album/43QtfDqQ4X2k5q6qwvs2MH) | 3:33 |
 | 44 | [Voltooid Verleden Tijd](https://open.spotify.com/track/4TH3WXOP0FcPm02PV81iOl) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Investigations](https://open.spotify.com/album/2we6AQIq54Xl7NcMP2l0Dl) | 5:46 |
 | 45 | [Paradijs](https://open.spotify.com/track/32MEr1rs4elxqFR5mbxzqM) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj), [Jack\-O](https://open.spotify.com/artist/72ntnMRMyDaO6vdMXXsHhg) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 4:47 |
 | 46 | [Toen Ik Je Zag](https://open.spotify.com/track/0FzCKjXKz9FMwtRlrOFQpt) | [Hero](https://open.spotify.com/artist/15E5Lo5HxDSnNhUac2LUKo) | [Toen Ik Je Zag](https://open.spotify.com/album/3dIaI0iPa9ja1dXCyBPHoL) | 3:21 |
-| 47 | [He Suzie](https://open.spotify.com/track/5tcnWBFZjrA3LeoOY4573u) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Mijn Allergrootste Successen](https://open.spotify.com/album/4oaQMnqw89unxMh8hL2DDq) | 3:31 |
-| 48 | [Meer Dan Een Ander](https://open.spotify.com/track/0IA7H00CDMcOqoOmCpla7u) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout \- 15 Jaar](https://open.spotify.com/album/1fx3pJ493QkiRPSa3GozGk) | 3:42 |
+| 47 | [Meer Dan Een Ander](https://open.spotify.com/track/0IA7H00CDMcOqoOmCpla7u) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout \- 15 Jaar](https://open.spotify.com/album/1fx3pJ493QkiRPSa3GozGk) | 3:42 |
+| 48 | [He Suzie](https://open.spotify.com/track/5tcnWBFZjrA3LeoOY4573u) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Mijn Allergrootste Successen](https://open.spotify.com/album/4oaQMnqw89unxMh8hL2DDq) | 3:31 |
 | 49 | [In De Wolken](https://open.spotify.com/track/4yeOX2rVLDZ6XXh2TSkwN6) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Hollands Glorie](https://open.spotify.com/album/0mMsYu4KfiMiCRP0B1ZOWF) | 4:24 |
 | 50 | [Het Is Een Nacht..\. \(Levensecht\)](https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:45 |
 | 51 | [Wat Zou Je Doen?](https://open.spotify.com/track/5iKaPg25J8rrEBHXsM8SLx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 69 | [Domino](https://open.spotify.com/track/3XeuDg8LpGQ6LCZBok55QC) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Clouseau30](https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ) | 4:08 |
 | 70 | [Ademnood](https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE) | [Linda Roos & Jessica](https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc) | [Linda Roos & Jessica](https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz) | 3:58 |
 
-Snapshot ID: `AAAAAEN+lTLJZhlgtKtz7PG5bC3iMrla`
+Snapshot ID: `AAAAACp2ZOb1WnKUI2Yhhi+5YoZnkvSt`

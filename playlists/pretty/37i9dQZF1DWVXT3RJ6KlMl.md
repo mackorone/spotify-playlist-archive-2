@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,149 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,158 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 10 | [Als De Rook Om Je Hoofd Is Verdwenen](https://open.spotify.com/track/2jpptvSaztyVA95fvLq5O9) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 3:24 |
 | 11 | [We Zullen Doorgaan.](https://open.spotify.com/track/56HFxh3vBtdZOpxSshaXYR) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses '97](https://open.spotify.com/album/19o5Lq38UK1liTEUnA3WUX) | 5:11 |
 | 12 | [Sjakie van de Hoek](https://open.spotify.com/track/1d451ROhYPaoWhVaudhHAM) | [Conny Vandenbos](https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC) | [Van Dichtbij](https://open.spotify.com/album/6VZaCO9diVK5EVMJ1hTwwy) | 2:49 |
-| 13 | [Huilen Is Voor Jou Te Laat](https://open.spotify.com/track/0zrx7g0WrWjDzhwfI77gTr) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Huilen Is Voor Jou Te Laat / Adio Adio Adio](https://open.spotify.com/album/46vwUGrncWOXNsG5XkcsKw) | 3:03 |
-| 14 | [Ik Krijg 'N Heel Apart Gevoel Van Binnen](https://open.spotify.com/track/061MsdtOpQ2vIGeHUKPEgZ) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:27 |
+| 13 | [Ik Krijg 'N Heel Apart Gevoel Van Binnen](https://open.spotify.com/track/061MsdtOpQ2vIGeHUKPEgZ) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:27 |
+| 14 | [Huilen Is Voor Jou Te Laat](https://open.spotify.com/track/0zrx7g0WrWjDzhwfI77gTr) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Huilen Is Voor Jou Te Laat / Adio Adio Adio](https://open.spotify.com/album/46vwUGrncWOXNsG5XkcsKw) | 3:03 |
 | 15 | [Guus](https://open.spotify.com/track/34SuDsoNO7lOXO4THmkBuf) | [Alexander Curly](https://open.spotify.com/artist/73lX0TrvsXpSyXWdiYYICN) | [Vette Jus En Boerenjongens](https://open.spotify.com/album/02QKH5t4NZHMupe4TVoQfw) | 3:47 |
 | 16 | [Wij Zullen Doorgaan \- 1975 Single Version](https://open.spotify.com/track/19MAlVmXa2jrccQiFVi5UE) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [We Leven Nog](https://open.spotify.com/album/5Tc0w1i6odQgSFSPN29yAR) | 4:24 |
 | 17 | [Pappie Loop Toch Niet Zo Snel](https://open.spotify.com/track/3G2y07M6B6LagRQmJJRhaF) | [Herman van Keeken](https://open.spotify.com/artist/2oEuZEl53FlgyJ6dCol41J) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:13 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 51 | [Met De Vlam In De Pijp](https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Alle 40 Goed](https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE) | 3:09 |
 | 52 | [Angeline \(M'n Blonde Sexmachine\)](https://open.spotify.com/track/6LlJePhi6I45KVfNiQr7Zp) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 4:19 |
 | 53 | [1948 \(Toen Was Geluk Heel Gewoon\)](https://open.spotify.com/track/12lKjWZSwRMejGWKTrvukB) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:04 |
-| 54 | [Hé Kom Aan](https://open.spotify.com/track/2H7IJB05VJymLMBYJ6bE79) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 2:06 |
-| 55 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
-| 56 | [Maar Wie Holt Van Mekaar](https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB) | [Gerard Hoeben](https://open.spotify.com/artist/6UFl7mSRtkStqDaKl5GV8E) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:46 |
-| 57 | [Veronica Sorry](https://open.spotify.com/track/21lMOKWDcK9VMse8rt4PPb) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 4:48 |
-| 58 | [Jij En Ik Blijven Bestaan](https://open.spotify.com/track/19gBRh5hqQhdZEIAGzy0Ix) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Heerlijk Hollands \- Het Allerbeste van Vader Abraham](https://open.spotify.com/album/5L92v0PP8mQHc01RwsNhv6) | 4:40 |
-| 59 | [Een Lied Alleen Voor Kinderen](https://open.spotify.com/track/6kbOM1lp2na4rJu0964R3m) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 3:49 |
-| 60 | [Dag Zuster Ursula](https://open.spotify.com/track/5CbSKFHtoheVWjXd1TnCEN) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:30 |
+| 54 | [Vino \(Waar Blijft De Wijn\)](https://open.spotify.com/track/3AWIhm2aCaB2Nj6w4SH61W) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Lytse Hille Presenteert de 'Ik Kwam Je Tegen' tour](https://open.spotify.com/album/0huX9PWQ3GRT5PfpZhF6CZ) | 3:16 |
+| 55 | [Hé Kom Aan](https://open.spotify.com/track/2H7IJB05VJymLMBYJ6bE79) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 2:06 |
+| 56 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
+| 57 | [Maar Wie Holt Van Mekaar](https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB) | [Gerard Hoeben](https://open.spotify.com/artist/6UFl7mSRtkStqDaKl5GV8E) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:46 |
+| 58 | [Veronica Sorry](https://open.spotify.com/track/21lMOKWDcK9VMse8rt4PPb) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 4:48 |
+| 59 | [Jij En Ik Blijven Bestaan](https://open.spotify.com/track/19gBRh5hqQhdZEIAGzy0Ix) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Heerlijk Hollands \- Het Allerbeste van Vader Abraham](https://open.spotify.com/album/5L92v0PP8mQHc01RwsNhv6) | 4:40 |
+| 60 | [Een Lied Alleen Voor Kinderen](https://open.spotify.com/track/6kbOM1lp2na4rJu0964R3m) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 3:49 |
 
-Snapshot ID: `AAAAACN/c7K1QaA+r/XdBh9GMrqfvBUv`
+Snapshot ID: `AAAAAMkfz6vcRjhaSLH+NeEnv9gKuJON`

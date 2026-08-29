@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,407 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,394 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 12 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
 | 13 | [All My Life](https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:23 |
 | 14 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 |
-| 15 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 15 | [I Believe In A Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 16 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 |
 | 17 | [Fuel](https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:29 |
 | 18 | [Run to the Hills \- 2015 Remaster](https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO) | 3:53 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 69 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 |
 | 70 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
 | 71 | [Th1rt3en or Nothing](https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Four by Four](https://open.spotify.com/album/14AFtH2Uz9inwnJpuJtdlK) | 3:45 |
-| 72 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
-| 73 | [Caught in the Middle](https://open.spotify.com/track/5sdighSadfa2o9eqtMqGkC) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/5o2w2s9mv7kEX4514F3m1o) | 2:40 |
-| 74 | [Sleepwalker](https://open.spotify.com/track/1d3bB2IXjNfJRJi2xZVY9t) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [As Blue as Indigo](https://open.spotify.com/album/3uyuxQdmh6N956P7RcOOIG) | 3:28 |
+| 72 | [Sleepwalker](https://open.spotify.com/track/1d3bB2IXjNfJRJi2xZVY9t) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [As Blue as Indigo](https://open.spotify.com/album/3uyuxQdmh6N956P7RcOOIG) | 3:28 |
+| 73 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
+| 74 | [Caught in the Middle](https://open.spotify.com/track/5sdighSadfa2o9eqtMqGkC) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/5o2w2s9mv7kEX4514F3m1o) | 2:40 |
 | 75 | [It's So Easy](https://open.spotify.com/track/2WVWmSXw34CnnUBcR24jcZ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 3:22 |
 
-Snapshot ID: `AAAAACemamwlHowmyHWid9dvT55kHprB`
+Snapshot ID: `AAAAABf6WAFB018AKRr6ZQLsnOiDm30Y`

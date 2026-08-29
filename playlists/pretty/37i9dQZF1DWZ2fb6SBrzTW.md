@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 
 > Your go to Afrobeats workout playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,819 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,829 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 22 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 |
 | 23 | [Porom Po](https://open.spotify.com/track/2PloRGdzL1nJlxYZAfVRwL) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Porom Po](https://open.spotify.com/album/2oZOfzUL66QT9eKUYZPlrv) | 2:51 |
 | 24 | [Casablanca](https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:31 |
-| 25 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
-| 26 | [1 WORK \- Remix](https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [1 WORK \(Remix\)](https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls) | 2:16 |
+| 25 | [1 WORK \- Remix](https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [1 WORK \(Remix\)](https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls) | 2:16 |
+| 26 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 27 | [Twe Twe](https://open.spotify.com/track/2khv04F26pnJr4989Maowi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Twe Twe](https://open.spotify.com/album/0Cfw8M7pu4fdsYsKvUyFg7) | 2:23 |
 | 28 | [Kowope](https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Vusic](https://open.spotify.com/artist/1X8fnK2p6VSf01QOkUd97T) | [Kowope](https://open.spotify.com/album/00WHLYmEj2ENLQoFgYKdqh) | 3:31 |
 | 29 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 45 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |
 | 46 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
 | 47 | [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 |
-| 48 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 |
-| 49 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 |
-| 50 | [Trump](https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [Trump](https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS) | 2:40 |
+| 48 | [Trump](https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [Trump](https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS) | 2:40 |
+| 49 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 |
+| 50 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 |
 | 51 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 |
 | 52 | [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 |
 | 53 | [Otilo \(Izz Gone\)](https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Otilo \(Izz Gone\)](https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2fb6SBrzTW.md) - [plain]
 | 59 | [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 |
 | 60 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 |
 
-Snapshot ID: `AAAAAFoxyjnCtEdC48WuckUzo+VrO6K/`
+Snapshot ID: `AAAAAI9SBfPFheSPeNmdMTQRexoxVAxo`

@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,463 songs - 2 day 14 hr 59 min
+1,464 songs - 2 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,6 +753,7 @@
 | [Lonely](https://open.spotify.com/track/5m6g1yfcVCoR1TTkwQm0iQ) | [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7) | [Lonely](https://open.spotify.com/album/41WKklZLaFVYxVwdNI83Da) | 2:25 | 2024-03-24 | 2024-04-08 |
 | [Long Days](https://open.spotify.com/track/7nA0NTeGTdE0aT431iYoTj) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [one more cig](https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5) | [Long Days](https://open.spotify.com/album/6PYRJhIMHfAmosYZhEDzD2) | 2:34 | 2026-04-08 | 2026-08-04 |
 | [Long Island](https://open.spotify.com/track/26edX6Ce1xLb780DyRkLK4) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Long Island](https://open.spotify.com/album/7abIIrnjL0Q71hCv5v9ZLq) | 2:46 | 2023-10-09 | 2024-05-13 |
+| [Long Night](https://open.spotify.com/track/4dXWQ5ND3H6EKhdaB5vHmY) | [Sainte Barbe](https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ), [Jan Aygün](https://open.spotify.com/artist/2wM1D4UgaScEg2LkYHm1Oe) | [Wherever I Roam](https://open.spotify.com/album/38DIyr3PYlMEHoqMdOtavi) | 2:24 | 2026-08-28 |  |
 | [Long Time](https://open.spotify.com/track/5rq6H4Uxi0mbr8Nn8IbmsC) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv) | [Long Time](https://open.spotify.com/album/2kiWGxSAl0492tzU5prNa9) | 2:30 | 2026-04-10 | 2026-04-17 |
 | [Look At Us](https://open.spotify.com/track/4dVjXRECnu1iZjmSpfSOH4) | [Goldaine](https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg) | [Look At Us](https://open.spotify.com/album/7p4ew7H5zflO6GNGXbX7t5) | 2:12 | 2026-02-01 | 2026-07-08 |
 | [Look Away](https://open.spotify.com/track/01gbQboVMTroyjoUBJlzOx) | [Planet Wave House](https://open.spotify.com/artist/0TtBVSCNHItUJOT8PEgsNd), [Kelo](https://open.spotify.com/artist/5USLHyCuiBT2He3fZvRGwg), [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT) | [Look Away](https://open.spotify.com/album/1i0KkBPcKr6uLMF3BEbvMw) | 2:38 | 2024-02-04 | 2024-03-04 |
@@ -992,7 +993,7 @@
 | [Picture Of You](https://open.spotify.com/track/3MHv3exnSR5TdnhYm3WLVu) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6), [Luna Belle](https://open.spotify.com/artist/0QQ4L7FpmQyev2ljEVbF0w) | [Picture Of You](https://open.spotify.com/album/3PzIjCJLbxusfKamCibAsx) | 2:13 | 2024-12-15 | 2025-01-13 |
 | [Pineapple Fields](https://open.spotify.com/track/0Azm5zjNW7scVyUnVzFne4) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Pineapple Fields](https://open.spotify.com/album/77JrcgfH0gJ1811OMx9fKx) | 2:14 | 2023-09-22 | 2023-12-18 |
 | [Pink Skies](https://open.spotify.com/track/3PmV9FolX4D7ndBcXwbGUR) | [Modern Culture](https://open.spotify.com/artist/0Z7fLEbrUz9oFSh6sQTDAp), [Josiah Nichols](https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3), [Brenda](https://open.spotify.com/artist/2N7wwvscWyr5WhyRBxFSR0) | [Pink Skies](https://open.spotify.com/album/1Ru5rPWeVOpELAxpRlz5XI) | 2:32 | 2025-03-30 | 2025-06-03 |
-| [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 | 2024-12-14 | 2026-04-17 |
+| [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 | 2024-12-14 |  |
 | [Places](https://open.spotify.com/track/5SAIxBQiorccuI6tnMyhMO) | [Haisten](https://open.spotify.com/artist/7dd7gUFKUAa0EtdPzUroyx), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Places](https://open.spotify.com/album/0L4RS8WvsfEpBdQ72IMmhE) | 2:13 | 2026-03-27 | 2026-07-04 |
 | [Plaka Dreams](https://open.spotify.com/track/5FbIWRcJX03jwNnDPCZaZi) | [Harper Quinn](https://open.spotify.com/artist/2lVKwJVZ4tda1UcfXqIpQN) | [Plaka Dreams](https://open.spotify.com/album/1fxB9q8elhWLamzKKeXgMZ) | 2:30 | 2024-04-01 | 2024-07-09 |
 | [Play On My Mind](https://open.spotify.com/track/4ajULmqzU6vXyF4tLOvqgX) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Play On My Mind](https://open.spotify.com/album/6J1WoAVQbPe4NTAvx5Doao) | 2:10 | 2024-08-25 | 2024-09-16 |

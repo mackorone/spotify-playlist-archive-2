@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,730 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,787 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 14 | [Alone in Kyoto](https://open.spotify.com/track/40UlFC0dIxv7lAEJaPZLnm) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363) | 4:51 |
 | 15 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 16 | [Underwater Love](https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F) | [Smoke City](https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF) | [Flying Away](https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1) | 6:46 |
-| 17 | [The Sensual Woman](https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Very Mercenary](https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV) | 3:36 |
+| 17 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
 | 18 | [It Could Be Sweet](https://open.spotify.com/track/1cpnpMvnvmdy3hzYgd5oo9) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:17 |
-| 19 | [2 Wicky](https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [A New Stereophonic Sound Spectacular](https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq) | 4:44 |
+| 19 | [The Sensual Woman](https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa) | [The Herbaliser](https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w) | [Very Mercenary](https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV) | 3:36 |
 | 20 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 |
 | 21 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
 | 22 | [Come to Me](https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:55 |
@@ -79,12 +79,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 69 | [Inside My Mind \(Blue Skies\) \- Elephant Remix](https://open.spotify.com/track/2ZLfTG0D2CVl773CLfNGbO) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [NBG](https://open.spotify.com/artist/56XXQm9k3766HSJx7mTunW) | [The Remixes](https://open.spotify.com/album/6LWpqZwfSS8X4nmqS9g44S) | 7:02 |
 | 70 | [Center of the Sun](https://open.spotify.com/track/1RMsdot8bVRgNzENfh9XcL) | [Conjure One](https://open.spotify.com/artist/5fqgm8SaAvnQYoXnIf4RqU) | [Chilled Out \(a Collection Of Blissful Sounds\)](https://open.spotify.com/album/7qnVqzOn5LT6xnxL7KKvtU) | 9:58 |
 | 71 | [Trigger Hippie](https://open.spotify.com/track/6xHg7kRpRWH5slVZM39bSD) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Parts of the Process](https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd) | 5:31 |
-| 72 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
+| 72 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
 | 73 | [Time Is the Enemy](https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb) | 3:39 |
 | 74 | [You Wish](https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 3:30 |
 | 75 | [Porcelain](https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 4:01 |
 | 76 | [Sweet Tides](https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) | 4:48 |
-| 77 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
+| 77 | [In The Waiting Line](https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 4:31 |
 | 78 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 |
 | 79 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
 | 80 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [Sign](https://open.spotify.com/track/5YNMjGLMY3JvuCFd9FLdcc) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Cold Krush Cuts](https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B) | 6:14 |
 | 100 | [Playground Love \(with Gordon Tracks\)](https://open.spotify.com/track/4mJ2jiw5WZgT1PIAEc7P5P) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [Twentyears](https://open.spotify.com/album/2g3LU2ye0fuDVgz7ThzeKY) | 3:32 |
 
-Snapshot ID: `AAAAAMZ4piWOAEilAhfj/f2co7TqKK+s`
+Snapshot ID: `AAAAAAPaloGHDiiEoB2EsT2AhBvSHjaQ`

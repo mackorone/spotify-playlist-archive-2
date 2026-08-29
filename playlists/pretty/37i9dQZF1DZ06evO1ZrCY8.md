@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,743 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,776 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 27 | [Decadencia](https://open.spotify.com/track/5Uqw9M6tKMWka2pmMcWGoE) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:16 |
 | 28 | [Juan Valdivia y Entre dos tierras \- Interludio](https://open.spotify.com/track/4wkROZAHQ0E8L71rnbtlPz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Héroes: Silencio y Rock & Roll](https://open.spotify.com/album/6c3S9kBmbQJ50qQRwKuYuV) | 0:39 |
 | 29 | [El cuadro](https://open.spotify.com/track/4NqE2hU5HW6tTkYGd4qpgu) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 2:39 |
-| 30 | [No más lágrimas \- Live](https://open.spotify.com/track/4V0Ta8BzcGhF8L9QE22Tfv) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 3:56 |
-| 31 | [Hace tiempo](https://open.spotify.com/track/0oEvR5rjD0MccE7eJBiYTs) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 4:29 |
+| 30 | [Hace tiempo](https://open.spotify.com/track/0oEvR5rjD0MccE7eJBiYTs) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 4:29 |
+| 31 | [No más lágrimas \- Live](https://open.spotify.com/track/4V0Ta8BzcGhF8L9QE22Tfv) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 3:56 |
 | 32 | [La apariencia no es sincera \- 1012 \- Remaster](https://open.spotify.com/track/0Fp4viDIGICGB3aRYP5yWo) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 7:02 |
 | 33 | [Flor de loto](https://open.spotify.com/track/7A0ssOm7kMkPlLPHWpaPUQ) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 6:19 |
-| 34 | [El mar no cesa \- Live](https://open.spotify.com/track/08v40ca902gDGV6HAymDqn) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 3:17 |
-| 35 | [La espuma de Venus](https://open.spotify.com/track/2lZ0yhSadIy79IP5EDjMe2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 6:16 |
+| 34 | [La espuma de Venus](https://open.spotify.com/track/2lZ0yhSadIy79IP5EDjMe2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 6:16 |
+| 35 | [El mar no cesa \- Live](https://open.spotify.com/track/08v40ca902gDGV6HAymDqn) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 3:17 |
 | 36 | [El camino del exceso \- 2012 Remastered Version](https://open.spotify.com/track/3RazmaCGFiOkLQJW1uOjyU) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 5:38 |
 | 37 | [Iberia sumergida](https://open.spotify.com/track/2PKhVCRILDBc7HYSIT9v0u) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 5:21 |
 | 38 | [...16](https://open.spotify.com/track/3iWYIYKVgcG7sfGqXwy1ZH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 49 | [Olvidado](https://open.spotify.com/track/7zk3hfoyY091DiGRET3vfN) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:30 |
 | 50 | [Hologramas](https://open.spotify.com/track/3elCmMsrZX2mCuXVzHKbmJ) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 2:17 |
 
-Snapshot ID: `ao4sgAAAAAAor7wKMfUw27d7P+SEoUrR`
+Snapshot ID: `ao9+AAAAAACQmiKD2ll5P5Rd4riPVgNX`

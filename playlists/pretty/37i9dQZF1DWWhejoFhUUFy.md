@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,869 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,891 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 28 | [Agar Tum Saath Ho \(From "Tamasha"\)](https://open.spotify.com/track/2FCXQHugkoHE1K3tiDu8pu) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Love Forever With Arijit Singh](https://open.spotify.com/album/5Wm1nhxZqx7i0Hp6ZBqe9T) | 5:41 |
 | 29 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
 | 30 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 |
-| 31 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabaat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
-| 32 | [Dil Tu Jaan Tu](https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Dil Tu Jaan Tu](https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx) | 3:57 |
+| 31 | [Dil Tu Jaan Tu](https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Dil Tu Jaan Tu](https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx) | 3:57 |
+| 32 | [Gal Sun](https://open.spotify.com/track/0DCmf7066T5DAjiF8uahv1) | [Sabaat Batin](https://open.spotify.com/artist/3Q10GP2eLMD5yS7sczpwju), [Rackstar](https://open.spotify.com/artist/4g21Na8RW0XzhmKebNX5hY) | [Gal Sun](https://open.spotify.com/album/1DKhV2gQnCegqwqjcb16dV) | 2:58 |
 | 33 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
 | 34 | [Is This Love](https://open.spotify.com/track/0GVPRo9LEjxjT4C4o8BGot) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Kismat Konnection \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N) | 5:29 |
 | 35 | [Ik Vaari Aa](https://open.spotify.com/track/7fyiYhn7STpHvT5g0lbncC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Raabta](https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5) | 4:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 74 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
 | 75 | [Tu Aisa Kaise Hai?](https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Tu Aisa Kaise Hai?](https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T) | 3:34 |
 
-Snapshot ID: `AAAAALX7S5HUUnbaB1rwC89WCJvJqIPF`
+Snapshot ID: `AAAAAJu08OZQ730KB966SQy3rnEinanf`

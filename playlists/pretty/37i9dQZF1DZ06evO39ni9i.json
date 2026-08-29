@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAA33dodDWWLFqv0YXZn7Vix",
+  "snapshot_id": "ao9+AAAAAABzGJF8qOiHg/GsUOas7l45",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "There's A Riot Goin' On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "That's Pretty Clean - Instrumental",
-      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sly & The Family Stone: The Woodstock Experience",
         "url": "https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 470666,
       "name": "Medley: Higher/Music Lover - Live at The Woodstock Music & Art Fair, August 17, 1969",
       "url": "https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "There's A Riot Goin' On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "That's Pretty Clean - Instrumental",
+      "url": "https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp"
     },
     {
       "added_at": null,

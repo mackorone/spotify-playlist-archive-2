@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Nontokozo Mkhize
 
-8,886 songs - 27 day 19 hr 8 min
+8,887 songs - 27 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3149,6 +3149,7 @@
 | [HOLY](https://open.spotify.com/track/7l33UbLQbU2r8fKLgQtdxd) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v) | [HOLY](https://open.spotify.com/album/7L2fmrTXkZJPfFE3E0loa5) | 6:09 | 2025-11-21 | 2025-12-05 |
 | [Holy](https://open.spotify.com/track/03shDBearUQYfAu6md17FY) | [Chinma Umeh](https://open.spotify.com/artist/4jQNPCc1U8hzqLT5QJmw6e) | [Holy](https://open.spotify.com/album/2E6rRXTHmplQjTCf2z0nSK) | 6:16 | 2026-08-28 |  |
 | [Holy](https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Imani](https://open.spotify.com/artist/4nxuTuvnkmY0EYLe39Ycsf) | [Holy](https://open.spotify.com/album/4bv5H8WcvwIWZCtavE9ylr) | 3:30 | 2024-02-23 | 2024-03-08 |
+| [Holy](https://open.spotify.com/track/4hoVPihUAA6vsWLxCnUSPs) | [Eeso](https://open.spotify.com/artist/5yCiOkfJTSx3iCdMgwms9k) | [Holy](https://open.spotify.com/album/7dh6xD15MgRuNIqx8XD5FC) | 1:46 | 2026-08-28 |  |
 | [Holy](https://open.spotify.com/track/6KCqmx6md9vWFIzNqmUXgZ) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Holy](https://open.spotify.com/album/2EuKUkYJdCDTIQOaBur1bb) | 4:45 | 2026-07-31 | 2026-08-14 |
 | [Holy](https://open.spotify.com/track/6RgbAyvyhk8Zn9s3Q1rtLz) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Gemma](https://open.spotify.com/album/06FFDnJvTkMYjFmBR7clLy) | 2:02 | 2025-05-23 | 2025-06-06 |
 | [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 | 2024-10-25 | 2024-11-08 |

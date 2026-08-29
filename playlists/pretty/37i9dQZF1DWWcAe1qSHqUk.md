@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,066 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,070 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,18 +59,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 49 | [All the Way](https://open.spotify.com/track/3tNEV2BCuKN6c9OveYpF0S) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/3rDgFZJUoQaL75W7b99sUZ) | 3:55 |
 | 50 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
 | 51 | [Si Me Dejas Ahora](https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Al Príncipe Bossa](https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH) | 3:25 |
-| 52 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
-| 53 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 |
+| 52 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 |
+| 53 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
 | 54 | [To Have & to Hold](https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV) | [Heather Rigdon](https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT) | [Young & Naïve](https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa) | 3:51 |
 | 55 | [A Kiss to Build a Dream On](https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [A Wonderful World](https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY) | 3:23 |
-| 56 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
-| 57 | [You Only Live Twice](https://open.spotify.com/track/6V5laseFT7BWBwwziWQGfc) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 4:39 |
+| 56 | [You Only Live Twice](https://open.spotify.com/track/6V5laseFT7BWBwwziWQGfc) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 4:39 |
+| 57 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 58 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/5xtiAessAtry987cTy5maQ) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR) | [Joyride](https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f) | 3:01 |
-| 59 | [Me Dediqué a Perderte](https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn) | [Bossa Nostra](https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv) | [Bossa & Co.](https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl) | 4:20 |
-| 60 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
+| 59 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
+| 60 | [Me Dediqué a Perderte](https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn) | [Bossa Nostra](https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv) | [Bossa & Co.](https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl) | 4:20 |
 | 61 | [Say It](https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Say It](https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5) | 4:18 |
-| 62 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
-| 63 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
+| 62 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
+| 63 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
 | 64 | [The Very Thought of You](https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD) | 6:01 |
 | 65 | [All About Ronnie](https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [All About Chris](https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA) | 3:00 |
 | 66 | [Full Moon](https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304), [chrln](https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg) | [Full Moon](https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM) | 2:01 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 71 | [Questi Vent'Anni Miei](https://open.spotify.com/track/1AhpFthKZAh4rABFrKn4CJ) | [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k) | [クエスタ・ボッサ・ミーア...](https://open.spotify.com/album/4ZAB0E6q1y8BpYm0fSTuft) | 3:51 |
 | 72 | [Never Let Me Go](https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [First Conversation](https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1) | 4:31 |
 | 73 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
-| 74 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 |
-| 75 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
+| 74 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
+| 75 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 |
 
-Snapshot ID: `AAAAAKjJnDxlRtUrgaoBzP1MV2uGqG8O`
+Snapshot ID: `AAAAAIwkbKjIZhpRTn6UxpYAC+m6jiNb`

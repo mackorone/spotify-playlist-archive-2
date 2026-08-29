@@ -1,12 +1,12 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Ocean Sleeper",
-  "num_followers": 337426,
+  "num_followers": 337422,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKTWX6kaZhQhXVbFob/9m88j5bY3",
+  "snapshot_id": "AAAAAIVxFxBacu9dzW8LVjdb6YU+o/r3",
   "tracks": [
     {
       "added_at": "2026-08-27 22:00:25",
@@ -411,42 +411,6 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Rattle The Cage",
-        "url": "https://open.spotify.com/album/5hbtrsOIA000ijlL7vzGdU"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        },
-        {
-          "name": "John 5",
-          "url": "https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX"
-        }
-      ],
-      "duration_ms": 234583,
-      "name": "Rattle The Cage",
-      "url": "https://open.spotify.com/track/3btjsK6AnfPZjAYnqy54gB"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/11iXrMPoj2ouiviWj3tpzV"
-      },
-      "artists": [
-        {
-          "name": "ITCHY",
-          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
-        }
-      ],
-      "duration_ms": 182422,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2zs20WdPyBivaVrPZj3LcC"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
         "name": "End of You",
         "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
       },
@@ -467,6 +431,42 @@
       "duration_ms": 192800,
       "name": "End of You",
       "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/11iXrMPoj2ouiviWj3tpzV"
+      },
+      "artists": [
+        {
+          "name": "ITCHY",
+          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
+        }
+      ],
+      "duration_ms": 182422,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2zs20WdPyBivaVrPZj3LcC"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
+        "name": "Rattle The Cage",
+        "url": "https://open.spotify.com/album/5hbtrsOIA000ijlL7vzGdU"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        },
+        {
+          "name": "John 5",
+          "url": "https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX"
+        }
+      ],
+      "duration_ms": 234583,
+      "name": "Rattle The Cage",
+      "url": "https://open.spotify.com/track/3btjsK6AnfPZjAYnqy54gB"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -591,22 +591,18 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Let The Good Times Roll (feat. The Offspring)",
-        "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n"
       },
       "artists": [
         {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        },
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 210913,
-      "name": "Let The Good Times Roll (feat. The Offspring)",
-      "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
+      "duration_ms": 231266,
+      "name": "Easy Street",
+      "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -627,18 +623,22 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n"
+        "name": "Let The Good Times Roll (feat. The Offspring)",
+        "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 231266,
-      "name": "Easy Street",
-      "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
+      "duration_ms": 210913,
+      "name": "Let The Good Times Roll (feat. The Offspring)",
+      "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
+        "name": "Leave Me Behind",
+        "url": "https://open.spotify.com/album/0PTnNwY4AWv7JaUJlq3IiE"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 228052,
+      "name": "Leave Me Behind",
+      "url": "https://open.spotify.com/track/725iRJfbDtAXjWiO3pDIpQ"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
         "name": "Foreign Tongues",
         "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 274061,
       "name": "Mr Charm",
       "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
-        "name": "TANZNEID",
-        "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 187642,
-      "name": "Heartclub",
-      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -707,18 +707,18 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Making Love to Morgan Wallen",
-        "url": "https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM"
+        "name": "TANZNEID",
+        "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
         }
       ],
-      "duration_ms": 249048,
-      "name": "Making Love to Morgan Wallen",
-      "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
+      "duration_ms": 187642,
+      "name": "Heartclub",
+      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -739,34 +739,18 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Leave Me Behind",
-        "url": "https://open.spotify.com/album/0PTnNwY4AWv7JaUJlq3IiE"
+        "name": "Making Love to Morgan Wallen",
+        "url": "https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 228052,
-      "name": "Leave Me Behind",
-      "url": "https://open.spotify.com/track/725iRJfbDtAXjWiO3pDIpQ"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
-        "name": "The Plot In You",
-        "url": "https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 198595,
-      "name": "Carved",
-      "url": "https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq"
+      "duration_ms": 249048,
+      "name": "Making Love to Morgan Wallen",
+      "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -787,6 +771,22 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
+        "name": "The Plot In You",
+        "url": "https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 198595,
+      "name": "Carved",
+      "url": "https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
         "name": "In the Name of the Father",
         "url": "https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 227156,
       "name": "In the Name of the Father",
       "url": "https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/70OLK4vLOoljMTDM6ZDFx4"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 229227,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/3KmFFR1CInXTFKMvZiAmgL"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
         "name": "De Oppresso Liber",
         "url": "https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/20Tmo6elKHBrSnz6hsuHKz"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
         }
       ],
-      "duration_ms": 240151,
-      "name": "Wonderwall - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+      "duration_ms": 203633,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3TaeBT5aGh7qxbxTPoLpf1"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1075,22 +1091,6 @@
       "duration_ms": 216670,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/4bW61owcCI5jP9gcr65pTb"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/20Tmo6elKHBrSnz6hsuHKz"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 203633,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/3TaeBT5aGh7qxbxTPoLpf1"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
+        "name": "Katy Bar the Door / Living Undercover",
+        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 205202,
+      "name": "Katy Bar the Door",
+      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
         "name": "Revery",
         "url": "https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 153243,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/0nMNemKXYbTMCeU2eRxrwn"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
-        "name": "Katy Bar the Door / Living Undercover",
-        "url": "https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 205202,
-      "name": "Katy Bar the Door",
-      "url": "https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Cryogen",
-        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 301825,
-      "name": "Cryogen",
-      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
         "name": "Live by the Sword",
         "url": "https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 219665,
       "name": "Live by the Sword",
       "url": "https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
+        "name": "Cryogen",
+        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 301825,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
+        "name": "Swallowed By The World",
+        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 375642,
+      "name": "Swallowed By The World",
+      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
         "name": "Unshatter",
         "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 196112,
       "name": "Unshatter",
       "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Empty Hands",
-        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 207200,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
+      "duration_ms": 176066,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Swallowed By The World",
-        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
+        "name": "Whisper of a Dream",
+        "url": "https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF"
       },
       "artists": [
         {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
         }
       ],
-      "duration_ms": 375642,
-      "name": "Swallowed By The World",
-      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
+      "duration_ms": 264248,
+      "name": "Whisper of a Dream",
+      "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Whisper of a Dream",
-        "url": "https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF"
+        "name": "Everything Is Fine",
+        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
       },
       "artists": [
         {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 264248,
-      "name": "Whisper of a Dream",
-      "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
+      "duration_ms": 217189,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1591,18 +1607,34 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Everything Is Fine",
-        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
       },
       "artists": [
         {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
         }
       ],
-      "duration_ms": 217189,
-      "name": "Everything Is Fine",
-      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
+      "duration_ms": 185787,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
+    },
+    {
+      "added_at": "2026-08-27 22:00:25",
+      "album": {
+        "name": "Modern Life Is Lonely",
+        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 282726,
+      "name": "Modern Life Is Lonely",
+      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
     },
     {
       "added_at": "2026-08-27 22:00:25",
@@ -1623,22 +1655,6 @@
     {
       "added_at": "2026-08-27 22:00:25",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5WFkoeD18MlAtIPCPWULZa"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 185787,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6wTYe0HC4MIpNpjuxX9R5E"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
         "name": "Idols (Complete)",
         "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 279798,
       "name": "Suburban Requiem",
       "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
-    },
-    {
-      "added_at": "2026-08-27 22:00:25",
-      "album": {
-        "name": "Modern Life Is Lonely",
-        "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 282726,
-      "name": "Modern Life Is Lonely",
-      "url": "https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ"
     }
   ],
   "unique_name": "Rock Rotation",

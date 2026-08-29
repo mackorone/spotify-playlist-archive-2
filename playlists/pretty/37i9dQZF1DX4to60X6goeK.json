@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76478,
+  "num_followers": 76485,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABLl8k5mx+U2LhVtO+AzlO21bttF",
+  "snapshot_id": "AAAAAKFRf5UbdbdyDoUnKu6dyFKL2EjA",
   "tracks": [
     {
       "added_at": "2026-08-20 13:38:48",
@@ -383,26 +383,18 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "OH YEAH",
-        "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
+        "name": "BODY DROP (Won't Stop)",
+        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
       },
       "artists": [
         {
-          "name": "Killer Hertz",
-          "url": "https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih"
-        },
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
         }
       ],
-      "duration_ms": 227657,
-      "name": "OH YEAH",
-      "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
+      "duration_ms": 224914,
+      "name": "BODY DROP (Won't Stop)",
+      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -443,18 +435,26 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "BODY DROP (Won't Stop)",
-        "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
+        "name": "OH YEAH",
+        "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
       },
       "artists": [
         {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+          "name": "Killer Hertz",
+          "url": "https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih"
+        },
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
         }
       ],
-      "duration_ms": 224914,
-      "name": "BODY DROP (Won't Stop)",
-      "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
+      "duration_ms": 227657,
+      "name": "OH YEAH",
+      "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -871,18 +871,22 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
       },
       "artists": [
         {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+      "duration_ms": 222069,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -903,22 +907,18 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
         }
       ],
-      "duration_ms": 222069,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
+        "name": "Go Hard / Wednesday",
+        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
+      },
+      "artists": [
+        {
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
         "name": "Violence",
         "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 161034,
       "name": "Violence",
       "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
-        "name": "Go Hard / Wednesday",
-        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
-      },
-      "artists": [
-        {
-          "name": "T-Lex",
-          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
     }
   ],
   "unique_name": "Jump Up!",

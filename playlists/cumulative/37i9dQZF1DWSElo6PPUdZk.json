@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Catch the queens of Punjabi Pop. Cover: Simiran Kaur Dhadli",
+  "description": "Catch the queens of Punjabi Pop. Cover: Rashmeet Kaur",
   "name": "Women of Punjabi Pop",
   "tracks": [
     {
@@ -2677,6 +2677,32 @@
     },
     {
       "album": {
+        "name": "PARINDA",
+        "url": "https://open.spotify.com/album/3FDa4TQ4GuEDQIZkXTJcKI"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/75prkScvmpqHqH5vI89qw9"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/22wNTxE1rJerY53nAhyZl0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158811,
+      "name": "Jogi Naal",
+      "url": "https://open.spotify.com/track/3Oqfj8U3rQqGnQMXIvmku8"
+    },
+    {
+      "album": {
         "name": "Jutti",
         "url": "https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb"
       },
@@ -4024,7 +4050,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 147931,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1qOxAq9rCNyeCNIpdL7BY7"
@@ -4700,6 +4726,28 @@
       "duration_ms": 150719,
       "name": "Puniya Di Raat",
       "url": "https://open.spotify.com/track/4DMUo4V6tLct4R7CwUfmNO"
+    },
+    {
+      "album": {
+        "name": "PURSE",
+        "url": "https://open.spotify.com/album/3bCOLFnU1G2pKuVqlvOo18"
+      },
+      "artists": [
+        {
+          "name": "Ravneet Aulakh",
+          "url": "https://open.spotify.com/artist/453LAV0rJFBUtCeXm650FW"
+        },
+        {
+          "name": "Amrinder",
+          "url": "https://open.spotify.com/artist/2lxae2IzNF3i1907MciYOr"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "PURSE",
+      "url": "https://open.spotify.com/track/4cis0rIJPhcoMlMep7Ptjs"
     },
     {
       "album": {
@@ -5610,7 +5658,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 285418,
       "name": "Sukkee Rooh",
       "url": "https://open.spotify.com/track/0zcyV0DlMeT5TKkWWNb1JD"

@@ -1,12 +1,12 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
-  "num_followers": 34324,
+  "num_followers": 34332,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGFpqYgTJZciXm3E+F8DoVp8M/hT",
+  "snapshot_id": "AAAAAP5m0xOXd0+J71tCo6n7YAw2Bjio",
   "tracks": [
     {
       "added_at": "2026-08-20 21:00:22",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-08-20 21:00:22",
       "album": {
-        "name": "\u05d0\u05d9",
-        "url": "https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "\u05de\u05d7\u05d1\u05e8\u05ea \u05db\u05d0\u05d1",
-      "url": "https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j"
-    },
-    {
-      "added_at": "2026-08-20 21:00:22",
-      "album": {
         "name": "\u05e0\u05d9\u05e6\u05df",
         "url": "https://open.spotify.com/album/7nSMzoR5c5WU7dPE2tTVbi"
       },
@@ -867,18 +851,34 @@
     {
       "added_at": "2026-08-20 21:00:22",
       "album": {
-        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
+        "name": "\u05d0\u05d9",
+        "url": "https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw"
       },
       "artists": [
         {
-          "name": "Dana Berger",
-          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
         }
       ],
-      "duration_ms": 213000,
-      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
+      "duration_ms": 194040,
+      "name": "\u05de\u05d7\u05d1\u05e8\u05ea \u05db\u05d0\u05d1",
+      "url": "https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j"
+    },
+    {
+      "added_at": "2026-08-20 21:00:22",
+      "album": {
+        "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
+        "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
+      },
+      "artists": [
+        {
+          "name": "Hila Ruach",
+          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
+        }
+      ],
+      "duration_ms": 340387,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
+      "url": "https://open.spotify.com/track/5E7oagaoSXn2O1d24JlfCh"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

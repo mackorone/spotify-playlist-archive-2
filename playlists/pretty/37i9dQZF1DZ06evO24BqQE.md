@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 
 > This is BNXN\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,631 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,663 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 9 | [PRAY](https://open.spotify.com/track/731NDNG7VQOA2KBnS43jqr) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 2:57 |
 | 10 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 |
 | 11 | [POE](https://open.spotify.com/track/52Krs3LCqtcfeiWUvhxncK) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 3:26 |
-| 12 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
+| 12 | [Frank Sinatra](https://open.spotify.com/track/0d7KdxC7iAxRKDjNdx2seP) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [The Game Needs Us](https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be) | 2:58 |
 | 13 | [GWAGWALADA](https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:08 |
-| 14 | [Frank Sinatra](https://open.spotify.com/track/0d7KdxC7iAxRKDjNdx2seP) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [The Game Needs Us](https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be) | 2:58 |
+| 14 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
 | 15 | [I Alone](https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:27 |
 | 16 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:50 |
 | 17 | [Bae Bae](https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:34 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 21 | [Emotional High](https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [The Game Needs Us](https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be) | 3:22 |
 | 22 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
 | 23 | [Totori](https://open.spotify.com/track/32a4IaGEJUhfy45yV5JH84) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:17 |
-| 24 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 |
-| 25 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 |
+| 24 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 |
+| 25 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 |
 | 26 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
 | 27 | [Fi Kan We Kan](https://open.spotify.com/track/61N5fgHj3IPReRcULtXmDI) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:39 |
 | 28 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 47 | [Calculate Love](https://open.spotify.com/track/6SQNUYQB4FEMS3UfTDZ5kd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 3:01 |
 | 48 | [Party Monster](https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:55 |
 
-Snapshot ID: `ao4sgAAAAAD0ROdeiOoSWyAELNUT+a5o`
+Snapshot ID: `ao9+AAAAAAAXe7QCPOF4yyoaHu0qFffU`

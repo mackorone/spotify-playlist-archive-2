@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,604 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,643 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 47 | [Oitava Dose \- Ao Vivo](https://open.spotify.com/track/7kbnk6wMnavcDyIIWDZTxl) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Na Praia 2 \(Ao Vivo\)](https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN) | 3:16 |
 | 48 | [Vidro Fumê \- Ao Vivo](https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Pela Porta da Frente](https://open.spotify.com/album/5a792NJrWn34jwktaRAewS) | 3:30 |
 | 49 | [Ponto Fraco \- Ao Vivo](https://open.spotify.com/track/0KkZFQSvZrTL1zU3cX8Z7e) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Só Vem! \(ao Vivo\) \- Deluxe](https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV) | 3:25 |
-| 50 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
-| 51 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
+| 50 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
+| 51 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
 | 52 | [Meu Violão E O Nosso Cachorro \- Ao Vivo](https://open.spotify.com/track/2RTkdHBUb5UCg36tcX6C7D) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:34 |
 | 53 | [50 Vezes \- Ao Vivo](https://open.spotify.com/track/01wavOnjFBNgdMWBFYIAP4) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Ao Cubo, Ao Vivo, Em Cores](https://open.spotify.com/album/29zZdrNrxlZsolrlspfmDA) | 3:04 |
 | 54 | [Teu Segredo \- Ao Vivo](https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx) | [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A Força do Nosso Som Continua \(Ao Vivo\)](https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY) | 3:02 |
 | 55 | [Pouco a Pouco \(Ao Vivo\) \(feat\. Sorriso Maroto\)](https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:16 |
-| 56 | [Desliga e Vem / Gamei / Gandaia \(feat\. Péricles & Chrigor\) \- Ao Vivo](https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 6:00 |
-| 57 | [De Copo Em Copo \- Ao Vivo](https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR) | 2:38 |
+| 56 | [De Copo Em Copo \- Ao Vivo](https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/7JxmoDBtxbijHVLDdBtQHR) | 2:38 |
+| 57 | [Desliga e Vem / Gamei / Gandaia \(feat\. Péricles & Chrigor\) \- Ao Vivo](https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk) | [Misturadin \(Ao Vivo\)](https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4) | 6:00 |
 | 58 | [Escreve Aí](https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Escreve Aí \- Single](https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5) | 3:58 |
 | 59 | [Nem Tchum \- Ao Vivo](https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:22 |
 | 60 | [Toca um João Mineiro e Marciano \- Ao Vivo](https://open.spotify.com/track/1WHU8HxR21Zi6wyM1uYrBD) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [É Divino \- Ao Vivo Em Campo Grande](https://open.spotify.com/album/4BDPv3U6WtBZvYcxFARxcM) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 74 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
 | 75 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 
-Snapshot ID: `AAAAABt5XNd+z6/GA5CLEIJe9C0eoy20`
+Snapshot ID: `AAAAAD4L8PQz3XaGyFfdK0y0uk7Onxur`

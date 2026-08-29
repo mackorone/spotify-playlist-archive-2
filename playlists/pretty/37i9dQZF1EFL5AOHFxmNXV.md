@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,002 likes - 173 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,003 likes - 173 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 124 | [NEVER AGAIN](https://open.spotify.com/track/4WSzt0Tdm6ziMxwfadYQk5) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:52 |
 | 125 | [Rain \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/5XPNicWoJnVfrwjQnIs1p6) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 2:33 |
 | 126 | [Down for Life \(feat\. PARTYNEXTDOOR, Future, Travis Scott, Rick Ross & Kodak Black\)](https://open.spotify.com/track/1YsFOm6hFKqSLgu9RTpQB8) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 5:00 |
-| 127 | [LOW BATTERY](https://open.spotify.com/track/4UQb597FrhjRClMkUldWmm) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/52a6XWxLVhW59OlLbEuw1I) | 4:31 |
-| 128 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
+| 127 | [CANDY \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:51 |
+| 128 | [LOW BATTERY](https://open.spotify.com/track/4UQb597FrhjRClMkUldWmm) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/52a6XWxLVhW59OlLbEuw1I) | 4:31 |
 | 129 | [Bad Intentions](https://open.spotify.com/track/3fVyVFzbi7kY9VL4Fimtv7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 4:14 |
 | 130 | [No Shame \(Future feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/2txxneWmDggnj8J0IlA4ZF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [SUPERFLY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0C0Vs4XobImmqpr6kIasde) | 3:54 |
 | 131 | [Transparency](https://open.spotify.com/track/3HdaKs7NqROb5WuNbnJcGs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/37S0nv7yJ0hI8hBVg6XzzJ) | 3:50 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL5AOHFxmNXV.md) - [plain]
 | 172 | [Run Up \- Instrumental](https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Instrument\-O](https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH) | [Essential \(Instrumentals\)](https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9) | 3:22 |
 | 173 | [Truth For You](https://open.spotify.com/track/6yveqkneVj9bQtcOscvhgR) | [Amir Obe](https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3) | [Detrooklyn.](https://open.spotify.com/album/5cir9swuU0WpGojsTPGBfb) | 2:36 |
 
-Snapshot ID: `AcawKAAAAABv/HLJ3EDcJoaJtCdagR5V`
+Snapshot ID: `Aca1FAAAAAABPcuBgjyWNqfi3mIAgwNC`

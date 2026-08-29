@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,561 likes - 175 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,468 likes - 175 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 174 | [Between Notes](https://open.spotify.com/track/5YugX1z41a79g5O4qqMlZC) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Between Notes](https://open.spotify.com/album/3WZQGuJPB0fss1PR3GB7XO) | 2:41 |
 | 175 | [Evanescent](https://open.spotify.com/track/5erD4kHWNnXpuvZsrSIwcl) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Evanescent](https://open.spotify.com/album/7uttrhAjW7Q4ERfMGDfq7c) | 2:34 |
 
-Snapshot ID: `AAAAANMWl2TonuIhyIX4g7x80IO9hFkm`
+Snapshot ID: `AAAAAEwTsr819DTq6FPPBkGR1QsXSChj`

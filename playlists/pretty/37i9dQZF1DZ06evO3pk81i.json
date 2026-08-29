@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10107,
+  "num_followers": 10109,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAC3k1ioIV0lTeG8s5H3I+xU",
+  "snapshot_id": "ao9+AAAAAABITFAu6rIUpsIq6PTIgDmh",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Acordar\u00e1s De M\u00ed",
-        "url": "https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An"
+        "name": "Beso - Spotify Singles",
+        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
         }
       ],
-      "duration_ms": 156038,
-      "name": "Te Acordar\u00e1s De M\u00ed",
-      "url": "https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR"
+      "duration_ms": 143231,
+      "name": "Beso - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
     },
     {
       "added_at": null,
@@ -251,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beso - Spotify Singles",
-        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
+        "name": "Te Acordar\u00e1s De M\u00ed",
+        "url": "https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
         }
       ],
-      "duration_ms": 143231,
-      "name": "Beso - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
+      "duration_ms": 156038,
+      "name": "Te Acordar\u00e1s De M\u00ed",
+      "url": "https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp"
-      },
-      "artists": [
-        {
-          "name": "Los Del North Texas",
-          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 165949,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 141811,
       "name": "Esta Noche (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp"
+      },
+      "artists": [
+        {
+          "name": "Los Del North Texas",
+          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 165949,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BACCARAT",
-        "url": "https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG"
-      },
-      "artists": [
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 157924,
-      "name": "BACCARAT",
-      "url": "https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -519,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BACCARAT",
+        "url": "https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 157924,
+      "name": "BACCARAT",
+      "url": "https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/2BiIoEkjwXpP8x3aEujCjD"
       },
@@ -535,26 +535,6 @@
       "duration_ms": 163000,
       "name": "Arrancarte",
       "url": "https://open.spotify.com/track/1SkONlC9ucuJD8irTfufcz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Expectante",
-        "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 154656,
-      "name": "Expectante",
-      "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
     },
     {
       "added_at": null,
@@ -595,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+        "name": "Expectante",
+        "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
         },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 173500,
-      "name": "NOCHE NEGRA",
-      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
+      "duration_ms": 154656,
+      "name": "Expectante",
+      "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
     },
     {
       "added_at": null,
@@ -631,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
       },
       "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 140755,
-      "name": "Una Noche Nomas",
-      "url": "https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR"
+      "duration_ms": 173500,
+      "name": "NOCHE NEGRA",
+      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 140755,
+      "name": "Una Noche Nomas",
+      "url": "https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Vicio Mi Adicci\u00f3n",
         "url": "https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ"
       },
@@ -683,6 +683,30 @@
       "duration_ms": 139685,
       "name": "Mi Vicio Mi Adicci\u00f3n",
       "url": "https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Bueno Y Lo Malo",
+        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "duration_ms": 162625,
+      "name": "Lo Bueno Y Lo Malo",
+      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
     },
     {
       "added_at": null,
@@ -723,30 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Bueno Y Lo Malo",
-        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
-          "name": "Julio Caesar",
-          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
-        }
-      ],
-      "duration_ms": 162625,
-      "name": "Lo Bueno Y Lo Malo",
-      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poes\u00edas",
         "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 152617,
-      "name": "TE MUEVES MUY BIEN",
-      "url": "https://open.spotify.com/track/3qGkq4PS76m3i2BdxtNMgz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailando (Live)",
         "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 189867,
       "name": "Bailando - Live",
       "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 152617,
+      "name": "TE MUEVES MUY BIEN",
+      "url": "https://open.spotify.com/track/3qGkq4PS76m3i2BdxtNMgz"
     },
     {
       "added_at": null,

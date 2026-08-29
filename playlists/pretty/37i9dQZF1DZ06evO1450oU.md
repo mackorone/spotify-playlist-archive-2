@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 
 > This is Salt Creek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 17 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 18 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 12 | [Electricity Is Humming](https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 4:26 |
 | 13 | [EVERYONEISTHESAME](https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:06 |
 | 14 | [Taste the Floor](https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
-| 15 | [High Horse](https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:31 |
-| 16 | [Window Shade](https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
-| 17 | [The Vine](https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:38 |
+| 15 | [Swim in Time](https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [If You Were There](https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH) | 4:41 |
+| 16 | [High Horse](https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:31 |
+| 17 | [Window Shade](https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 4:14 |
+| 18 | [The Vine](https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 3:38 |
 
-Snapshot ID: `ao4sgAAAAADniTjY5Rm0GpHmChVhTCcW`
+Snapshot ID: `ao9+AAAAAAA5JEZCsFfAbjI9+xIyTpm3`

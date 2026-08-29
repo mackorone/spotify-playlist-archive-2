@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: \u5b89\u90e8\u52c7\u78e8 Yuma Abe",
-  "num_followers": 65681,
+  "num_followers": 65688,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFW4UT9Qp9ElslDiXUVkSlTptMrP",
+  "snapshot_id": "AAAAAAa7IkldQofyQjDCV2CEClRoiPug",
   "tracks": [
     {
       "added_at": "2026-08-25 15:00:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "Fiction",
-        "url": "https://open.spotify.com/album/4FMGDzFSshY6ROMenOhwRe"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 202258,
-      "name": "Fiction",
-      "url": "https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "\u540d\u6b8b\u82b1",
         "url": "https://open.spotify.com/album/0PjZtQv4wuulggoIDxPwQt"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 194625,
       "name": "\u540d\u6b8b\u82b1",
       "url": "https://open.spotify.com/track/6lErKN4EysaPnOHi2tIEz3"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "Fiction",
+        "url": "https://open.spotify.com/album/4FMGDzFSshY6ROMenOhwRe"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 202258,
+      "name": "Fiction",
+      "url": "https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/1EzoKpnHJrFqMv8yMYZ6Ej"
+        "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ"
       },
       "artists": [
         {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 205186,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/3GwNhhs7l7MWksH2BwUraz"
+      "duration_ms": 248874,
+      "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/1EzoKpnHJrFqMv8yMYZ6Ej"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
         }
       ],
-      "duration_ms": 248874,
-      "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx"
+      "duration_ms": 205186,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/3GwNhhs7l7MWksH2BwUraz"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "last YOUNG",
-        "url": "https://open.spotify.com/album/3RdiFpu4iqPdWoaLIp9seL"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 180571,
-      "name": "\u6c17\u5206",
-      "url": "https://open.spotify.com/track/1893MbwDhWZibLxau0K1xq"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "\u98a8\u898b\u9d8f",
         "url": "https://open.spotify.com/album/0etaPjyHr3E3QDXdXftTdX"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
+        "name": "last YOUNG",
+        "url": "https://open.spotify.com/album/3RdiFpu4iqPdWoaLIp9seL"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 180571,
+      "name": "\u6c17\u5206",
+      "url": "https://open.spotify.com/track/1893MbwDhWZibLxau0K1xq"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
         "name": "CLASSIC",
         "url": "https://open.spotify.com/album/5vA7TtHURjmn49seAAgWCG"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 171306,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/7GId0e73UnUrSCJmfjRTG8"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
-        "name": "Mermaid",
-        "url": "https://open.spotify.com/album/0pyLvKAdx8f1z9e2jn6IZw"
-      },
-      "artists": [
-        {
-          "name": "Shota Shimizu",
-          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Mermaid",
-      "url": "https://open.spotify.com/track/5cBCZnbiATTl73p2UEi3T8"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "satellite",
-        "url": "https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh"
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/0pyLvKAdx8f1z9e2jn6IZw"
       },
       "artists": [
         {
-          "name": "kakizaki yuta",
-          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+          "name": "Shota Shimizu",
+          "url": "https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2"
         }
       ],
-      "duration_ms": 142000,
-      "name": "satellite",
-      "url": "https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X"
+      "duration_ms": 225466,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/5cBCZnbiATTl73p2UEi3T8"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1235,6 +1219,22 @@
       "duration_ms": 252680,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/2gFSwfK1smPgeXWiZ45p7C"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "satellite",
+        "url": "https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "satellite",
+      "url": "https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "\u7537\u306e\u672c\u97f3",
-        "url": "https://open.spotify.com/album/6GOLcmGlgDhinVwzH0cxD2"
-      },
-      "artists": [
-        {
-          "name": "\u6749\u672c\u7422\u5f25",
-          "url": "https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "\u7537\u306e\u672c\u97f3",
-      "url": "https://open.spotify.com/track/3xU6ei0ah6cP8qI2W7Kr7M"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "AKANE On My Mind\uff5e\u9945\u982d\u3053\u308f\u3044",
         "url": "https://open.spotify.com/album/2LXc1xtHy5x6eE3vXCou9B"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 258173,
       "name": "AKANE On My Mind\uff5e\u9945\u982d\u3053\u308f\u3044",
       "url": "https://open.spotify.com/track/5um4gHKgOovWuzsQJsErXn"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "\u7537\u306e\u672c\u97f3",
+        "url": "https://open.spotify.com/album/6GOLcmGlgDhinVwzH0cxD2"
+      },
+      "artists": [
+        {
+          "name": "\u6749\u672c\u7422\u5f25",
+          "url": "https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "\u7537\u306e\u672c\u97f3",
+      "url": "https://open.spotify.com/track/3xU6ei0ah6cP8qI2W7Kr7M"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1347,6 +1347,22 @@
       "duration_ms": 183636,
       "name": "stay with me",
       "url": "https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "L\u3068R",
+        "url": "https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "L\u3068R",
+      "url": "https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "L\u3068R",
-        "url": "https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "L\u3068R",
-      "url": "https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "\u30aa\u30ea\u30fc\u30d6",
         "url": "https://open.spotify.com/album/24KmMEZaA9H6jvjgWAWpMM"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "SAYONARA PENGUIN",
-        "url": "https://open.spotify.com/album/0u2IUCYS6AOwLuOF7ulAXP"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 111096,
-      "name": "SAYONARA PENGUIN",
-      "url": "https://open.spotify.com/track/2xJ66XR7lbKqL55J70cXqJ"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "zokkou",
         "url": "https://open.spotify.com/album/5iYgJIgcbEcRZfKLHodraf"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 204473,
       "name": "zokkou",
       "url": "https://open.spotify.com/track/1ia6O0Sl2oakFEbcjoUjX0"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "SAYONARA PENGUIN",
+        "url": "https://open.spotify.com/album/0u2IUCYS6AOwLuOF7ulAXP"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 111096,
+      "name": "SAYONARA PENGUIN",
+      "url": "https://open.spotify.com/track/2xJ66XR7lbKqL55J70cXqJ"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
-        "url": "https://open.spotify.com/album/1x0JlP4jEeMsSm3hD4lfvL"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
-      "url": "https://open.spotify.com/track/7JWFrcLSJ2oknwqTzd7OTF"
-    },
-    {
-      "added_at": "2026-08-25 15:00:10",
-      "album": {
         "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
         "url": "https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
-        "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
+        "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
+        "url": "https://open.spotify.com/album/1x0JlP4jEeMsSm3hD4lfvL"
       },
       "artists": [
         {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
         }
       ],
-      "duration_ms": 244781,
-      "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
-      "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
+      "duration_ms": 219820,
+      "name": "OUR SEASON (\u590f\u306e\u6c17\u307e\u3050\u308c\u306bkiss\u3092)",
+      "url": "https://open.spotify.com/track/7JWFrcLSJ2oknwqTzd7OTF"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1575,18 +1559,34 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "dialogue",
-        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
+        "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
+        "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
       },
       "artists": [
         {
-          "name": "Ayase",
-          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
         }
       ],
-      "duration_ms": 184876,
-      "name": "PLANETS",
-      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
+      "duration_ms": 244781,
+      "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
+      "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
+    },
+    {
+      "added_at": "2026-08-25 15:00:10",
+      "album": {
+        "name": "BLACK",
+        "url": "https://open.spotify.com/album/06LIOkzbA2DZsWfWqp9jtH"
+      },
+      "artists": [
+        {
+          "name": "\u9808\u7530\u666f\u51ea",
+          "url": "https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum"
+        }
+      ],
+      "duration_ms": 182993,
+      "name": "BLACK",
+      "url": "https://open.spotify.com/track/0D6zaCMPdsJz5QGubZIMgV"
     },
     {
       "added_at": "2026-08-25 15:00:10",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-08-25 15:00:10",
       "album": {
-        "name": "solitude",
-        "url": "https://open.spotify.com/album/4Um3CxQQHfb7aWNuUxvkAb"
+        "name": "dialogue",
+        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
         }
       ],
-      "duration_ms": 150700,
-      "name": "voicemail",
-      "url": "https://open.spotify.com/track/1qQ6cYg7zyWPlQMyryQjvs"
+      "duration_ms": 184876,
+      "name": "PLANETS",
+      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
     }
   ],
   "unique_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",

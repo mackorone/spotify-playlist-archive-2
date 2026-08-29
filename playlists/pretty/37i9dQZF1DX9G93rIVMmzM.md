@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,173 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,273 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 97 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
 | 98 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 |
 | 99 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 |
-| 100 | [Outside](https://open.spotify.com/track/5w4XPMyvehdEJdtU4ZU67B) | [breakkaway](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Outside](https://open.spotify.com/album/4oYsIUSuJY9ZPTE1WfVdnY) | 3:25 |
+| 100 | [Adrenalize](https://open.spotify.com/track/0z09OVa4ZNJ4oQydl9XolX) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl) | 4:15 |
 
-Snapshot ID: `AAAAAOtuxS99scpseJKdesLbI8VEV5O+`
+Snapshot ID: `AAAAADLbMAc4vVpRH2RnU7gyOTd/gZW+`

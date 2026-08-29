@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Genevieve Stokes",
-  "num_followers": 112160,
+  "num_followers": 112161,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAXLbI0nZX2R98gWcJNo+NDhOONP",
+  "snapshot_id": "AAAAABZqln+nLES5AGA0F4AnBZyt9Wfo",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Riding Around In The Dark",
-        "url": "https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj"
-      },
-      "artists": [
-        {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
-        }
-      ],
-      "duration_ms": 206459,
-      "name": "Riding Around In The Dark",
-      "url": "https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Ribcage",
         "url": "https://open.spotify.com/album/7ca2hlBglo1gKoKxpmIm34"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 177310,
       "name": "Ribcage",
       "url": "https://open.spotify.com/track/3IEKnjIkbiNVnQEXstiqhh"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Riding Around In The Dark",
+        "url": "https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 206459,
+      "name": "Riding Around In The Dark",
+      "url": "https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Thompson's Station",
-        "url": "https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV"
+        "name": "VBS",
+        "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
       "artists": [
         {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 204065,
-      "name": "Thompson's Station",
-      "url": "https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF"
+      "duration_ms": 236864,
+      "name": "VBS",
+      "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "VBS",
-        "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
+        "name": "Thompson's Station",
+        "url": "https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
         }
       ],
-      "duration_ms": 236864,
-      "name": "VBS",
-      "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
+      "duration_ms": 204065,
+      "name": "Thompson's Station",
+      "url": "https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Ballad of Betty and Barney Hill",
-        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 196755,
-      "name": "The Ballad of Betty and Barney Hill",
-      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Spring Bug",
         "url": "https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 207928,
       "name": "Spring Bug",
       "url": "https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Ballad of Betty and Barney Hill",
+        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 196755,
+      "name": "The Ballad of Betty and Barney Hill",
+      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Jean",
         "url": "https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 181416,
       "name": "Jean",
       "url": "https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "If I Told",
-        "url": "https://open.spotify.com/album/5Vi2zIea4GSb4nxhcRJTqj"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "If I Told",
-      "url": "https://open.spotify.com/track/3AyxUc44BHxbV6niyl438i"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Every Star Shivers in the Dark",
         "url": "https://open.spotify.com/album/6BvIICpJMPzxShxZhCcmqi"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 332731,
       "name": "Every Star Shivers in the Dark",
       "url": "https://open.spotify.com/track/4iIUamvXOnnDmtqkcfyrF6"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "If I Told",
+        "url": "https://open.spotify.com/album/5Vi2zIea4GSb4nxhcRJTqj"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "If I Told",
+      "url": "https://open.spotify.com/track/3AyxUc44BHxbV6niyl438i"
     },
     {
       "added_at": "2024-11-08 05:00:00",

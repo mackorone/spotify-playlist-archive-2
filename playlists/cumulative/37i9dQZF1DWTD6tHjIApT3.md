@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 家入レオ
 
-3,865 songs - 10 day 5 hr 54 min
+3,866 songs - 10 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -734,7 +734,7 @@
 | [hanataba](https://open.spotify.com/track/2vNUHNg2IWPNOmuYx5fRnu) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [hanataba](https://open.spotify.com/album/36zDYE8DjvghcwUSAHNind) | 4:07 | 2024-06-04 | 2024-07-10 |
 | [hands](https://open.spotify.com/track/05hdZsL1nQ8lbjq67gmniB) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [hands](https://open.spotify.com/album/2x5VgGNV9IWTPCrHy7ht7r) | 2:46 | 2023-10-17 | 2023-11-16 |
 | [Hands and Dance](https://open.spotify.com/track/0AHf1fa7lZALALabj4Y17O) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Hands and Dance](https://open.spotify.com/album/2u3X9ZoeqE5eIIklyIXM88) | 3:33 | 2024-07-16 | 2024-07-27 |
-| [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 | 2026-04-14 |  |
+| [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 | 2026-04-14 | 2026-08-29 |
 | [Hank](https://open.spotify.com/track/2goChbIPuZYwE4AweOXNKd) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Hank](https://open.spotify.com/album/5VHwR3xLFQL745q58qE5s8) | 3:51 | 2022-05-29 | 2022-06-01 |
 | [Happy](https://open.spotify.com/track/3IiMNkpbU0zjXggH3hwits) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Happy](https://open.spotify.com/album/3jqGi1n11HFBscBMDS2sVZ) | 4:23 | 2025-06-24 | 2025-07-02 |
 | [HAPPY \(feat\. chelmico\)](https://open.spotify.com/track/7CwhZPmyGTZdQqg28BIHSl) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [THANKS EP](https://open.spotify.com/album/2DYR6nJRNi2juI0fBlNRFI) | 4:20 | 2025-03-25 | 2025-04-09 |
@@ -3491,6 +3491,7 @@
 | [残影](https://open.spotify.com/track/725OdnhbQeM8xJa05RMiMZ) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [残影](https://open.spotify.com/album/5k13cPdumqOwWRI6QMSSdn) | 4:26 | 2024-04-23 | 2024-05-01 |
 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2022-10-18 | 2024-12-05 |
 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-07-18 | 2026-02-12 |
+| [残酷になりますように](https://open.spotify.com/track/7wOydiUwoKbAybdgLyjJlw) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [翠色に贈る](https://open.spotify.com/album/0nin4jnECyXBVEYztBA7S3) | 3:28 | 2026-08-25 |  |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-07-28 | 2023-02-22 |
 | [気分](https://open.spotify.com/track/22X9d8YK3C96OgQ487Kuf1) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [気分](https://open.spotify.com/album/0jxHgo5jqgV81FmoyWfJEk) | 5:05 | 2022-12-06 | 2023-02-03 |
 | [気分のせいさ](https://open.spotify.com/track/4IrpbZVOnMUAK7JGpnYfJH) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [気分のせいさ](https://open.spotify.com/album/67YmrIEOI0VFdV0wfKl99d) | 4:38 | 2023-08-17 | 2023-08-23 |

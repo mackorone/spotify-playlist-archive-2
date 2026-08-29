@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,028 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,053 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 24 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 |
 | 25 | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \- Remix](https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wanna Be \(Remix Alternate Versions\)](https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6) | 3:44 |
 | 26 | [Pretty & Petty](https://open.spotify.com/track/4qpqtd3FqIzZaFgHrDYExi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA? \(Beat Edition\)](https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi) | 3:03 |
-| 27 | [Pocket \(feat\. Cardi B\)](https://open.spotify.com/track/61WdhGJZSILRG11rRJP1gm) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:52 |
-| 28 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 |
+| 27 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 |
+| 28 | [Pocket \(feat\. Cardi B\)](https://open.spotify.com/track/61WdhGJZSILRG11rRJP1gm) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:52 |
 | 29 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
 | 30 | [I Do \(feat\. SZA\)](https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:20 |
 | 31 | [Ahora Dice \- Real Hasta La Muerte Remix](https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Anuel](https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice \(Real Hasta La Muerte Remix\)](https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 49 | [What's Goin On \(feat\. Lizzo\)](https://open.spotify.com/track/5RpGHqlGHRTGWzNPBKW08D) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:24 |
 | 50 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 
-Snapshot ID: `ao4sgAAAAABhIshq2Ase69WzXjKp3DXe`
+Snapshot ID: `ao9+AAAAAACyWdsGSNXFWRB0okrTnZJD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,111 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,119 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 40 | [Trippyal](https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Trippyal](https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY) | 2:50 |
 | 41 | [Aborigen](https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs) | [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Aborigen](https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy) | 2:32 |
 | 42 | [Rey de Reyes](https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 3:32 |
-| 43 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
+| 43 | [The Virus \- Alan Rosales Remix](https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Chippewa Travellers](https://open.spotify.com/artist/4AaS8zEHLC20ExfrnuSMmV), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [The Virus \(Alan Rosales Remix\)](https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA) | 4:31 |
 | 44 | [Tambor Azteca](https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [Obscure Tribal](https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z) | 2:48 |
-| 45 | [The Virus \- Alan Rosales Remix](https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Chippewa Travellers](https://open.spotify.com/artist/4AaS8zEHLC20ExfrnuSMmV), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [The Virus \(Alan Rosales Remix\)](https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA) | 4:31 |
+| 45 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
 | 46 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 |
 | 47 | [Violentao \(Feat\. Sheeqo Beat\)](https://open.spotify.com/track/1pFruucew24311dJNbcjMZ) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 4:58 |
 | 48 | [BATEA](https://open.spotify.com/track/61NpEwPUbobMiJ9cWgsDDb) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [BATEA](https://open.spotify.com/album/3NTBnvRtqF6FAJrOUaDpUp) | 2:23 |
-| 49 | [Domination](https://open.spotify.com/track/6RSvdEqQvf1orNbomVCvAZ) | [DjGiovanni Ríos](https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo) | [Cosmos](https://open.spotify.com/album/2RLgy549hB1pE0RhFebCmQ) | 3:20 |
-| 50 | [Kombat](https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax) | [El Catorce](https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc), [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [El Último](https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p) | 5:00 |
+| 49 | [Hybrid](https://open.spotify.com/track/4HTMzoGjUmu05fQv0EaEZE) | [DJ Sadyer](https://open.spotify.com/artist/4bx9K7JUhIZAmkZ08qK5Hs), [DjGiovanni Ríos](https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo) | [Ecos del Pasado](https://open.spotify.com/album/2KEWgKCGUVMA4YHXLTnVdG) | 3:49 |
+| 50 | [Domination](https://open.spotify.com/track/6RSvdEqQvf1orNbomVCvAZ) | [DjGiovanni Ríos](https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo) | [Cosmos](https://open.spotify.com/album/2RLgy549hB1pE0RhFebCmQ) | 3:20 |
 
-Snapshot ID: `AAAAAM/KWKqUxRbCJHwjhJBJ1vjcAtGk`
+Snapshot ID: `AAAAAHmmzxDnKmhvtj2DulCJctKEg6ha`

@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-336 songs - 20 hr 51 min
+338 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/track/10J9wmpH6Wktr7n1RTl4Qt) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 3:06 | 2024-09-17 |  |
 | [ANGEL SONG \(feat\. David Draiman\) \- JD Remix](https://open.spotify.com/track/277CoCMi131Y6rSzYHedmc) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Justin Deblieck](https://open.spotify.com/artist/2CmMsTebsSkh2VGIB4XpSz) | [ANGEL SONG EP](https://open.spotify.com/album/7AqZSGdWNVVB4plnu1dsxH) | 3:46 | 2024-10-25 |  |
 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 | 2022-01-24 |  |
+| [Another Brick In The Wall \(feat\. Kat Von D\)](https://open.spotify.com/track/07fdSyrJMOkTwY7Tyg38GG) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Kat Von D](https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU) | [Witch](https://open.spotify.com/album/5DsiCJMmtjzRsMWYQxmgCO) | 3:55 | 2026-08-28 |  |
 | [Anti\-Everything](https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Mis\-An\-Thrope](https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1) | 3:14 | 2022-01-24 |  |
 | [Armageddon](https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Armageddon](https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV) | 3:33 | 2023-05-19 |  |
 | [Around The Sun \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/5N9yzJL4LpVgnFoUwuagrf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Chemical Warfare: B\-Sides](https://open.spotify.com/album/1PxVdOGI6SoPDuHmKNLELy) | 2:34 | 2021-09-11 | 2023-01-04 |
@@ -244,6 +245,7 @@
 | [Scapegoat](https://open.spotify.com/track/34U5WzBQmfPPRF59BmiIUJ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 3:15 | 2026-07-31 |  |
 | [Scars That I'm Hiding \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/3KccNKlsI4LhdJyIfpQfM8) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 2:55 | 2022-09-21 |  |
 | [Sham Pain \- 2025 VERSION](https://open.spotify.com/track/5c0HUbN3NRPQjdzqr8zBkc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:29 | 2025-10-24 |  |
+| [Shame](https://open.spotify.com/track/1S057qXZHpVy4Wfh5cMbwN) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Witch](https://open.spotify.com/album/5DsiCJMmtjzRsMWYQxmgCO) | 4:21 | 2026-08-28 |  |
 | [Shepherd of Fire](https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:23 | 2023-07-25 |  |
 | [Sho Nuff](https://open.spotify.com/track/0NXYWH1TDjaNyetFaYDsDy) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Sho Nuff](https://open.spotify.com/album/1Z3quKqTMrx6ikqCh95CJv) | 2:30 | 2023-06-09 |  |
 | [Shotgun Blues](https://open.spotify.com/track/0L3TkNCKAwHCaYHxeYPuhp) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Shotgun Blues](https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u) | 4:27 | 2022-01-25 | 2023-01-04 |

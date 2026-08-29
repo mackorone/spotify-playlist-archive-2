@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Akanksha Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,339 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,346 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 56 | [Firki](https://open.spotify.com/track/2DVr3mimT7i7fq2znGJxrM) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Firki](https://open.spotify.com/album/4ex57nAULj9BXxaOTFkuGv) | 2:56 |
 | 57 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
 | 58 | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv) | 3:57 |
-| 59 | [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 |
-| 60 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 |
+| 59 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 |
+| 60 | [Tere Gaon](https://open.spotify.com/track/3YNWnHvYHjFLQgjayEdhB9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:54 |
 | 61 | [Sun Re Piya](https://open.spotify.com/track/4F1OgFikCujerIVXgUhY5A) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Amrita Saluja](https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU) | [Sun Re Piya](https://open.spotify.com/album/2uh1rvhElikYUKAswxKd8P) | 2:25 |
 | 62 | [Muskaan](https://open.spotify.com/track/1vgvwc1KECpPkuxE1WRGey) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Muskaan](https://open.spotify.com/album/6fwV58bBjVf6ar8wEGiUab) | 2:42 |
 | 63 | [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 71 | [Aaye Re](https://open.spotify.com/track/7hEJ4dnjlebJZVxWsfZH7n) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aaye Re](https://open.spotify.com/album/4Qm6trjMbavUh99TWCdHAp) | 4:00 |
 | 72 | [Parinaam](https://open.spotify.com/track/3xJ0OLjMdcuvcYQiUAcGlz) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v) | [Parinaam](https://open.spotify.com/album/4cQvaQtUd2Vjq0M8SNzyRv) | 2:15 |
 | 73 | [Ranjhana](https://open.spotify.com/track/2Vm3XVjP7oumfIgpf8ifS0) | [Abhishek Dubey](https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Ranjhana](https://open.spotify.com/album/6psi4CQmJrez1TDlSs647E) | 4:05 |
-| 74 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
-| 75 | [Farak Nahi Padta](https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Farak Nahi Padta](https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ) | 2:19 |
+| 74 | [Farak Nahi Padta](https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Farak Nahi Padta](https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ) | 2:19 |
+| 75 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
 
-Snapshot ID: `AAAAALczWWPZNCmu+9Yjs/C8lpxFyrIg`
+Snapshot ID: `AAAAAJxpIGhjP26e2wWCLtihkWmWXUSl`

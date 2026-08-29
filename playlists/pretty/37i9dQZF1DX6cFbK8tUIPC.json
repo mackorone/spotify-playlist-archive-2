@@ -1,12 +1,12 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 561060,
+  "num_followers": 561094,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGjOszhKbz5ovTquBv7NZEvHBDpv",
+  "snapshot_id": "AAAAADswNrOqX/aUmV2PxC75xiLPOSow",
   "tracks": [
     {
       "added_at": "2025-09-23 14:16:54",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 241502,
-      "name": "Writer",
-      "url": "https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Now Would Be A Good Time",
         "url": "https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 199258,
       "name": "God's A Different Sword",
       "url": "https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 241502,
+      "name": "Writer",
+      "url": "https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -975,18 +975,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Dark Eyes",
-        "url": "https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge"
+        "name": "Racing Mount Pleasant",
+        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
         }
       ],
-      "duration_ms": 181760,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH"
+      "duration_ms": 420458,
+      "name": "Call It Easy",
+      "url": "https://open.spotify.com/track/57s098FVVLAFdDNINJRogc"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Racing Mount Pleasant",
-        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
-      },
-      "artists": [
-        {
-          "name": "Racing Mount Pleasant",
-          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
-        }
-      ],
-      "duration_ms": 420458,
-      "name": "Call It Easy",
-      "url": "https://open.spotify.com/track/57s098FVVLAFdDNINJRogc"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "The Commons",
         "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 324893,
       "name": "The Commons",
       "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Dark Eyes",
+        "url": "https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Tarifa",
-        "url": "https://open.spotify.com/album/0ZiiZQCm1aez7Kt77j78QG"
+        "name": "Is It?",
+        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        },
-        {
-          "name": "MAVICA",
-          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 223986,
-      "name": "Giordano\u2019s Dream, Pt. I",
-      "url": "https://open.spotify.com/track/5h0xusp4iYdXb9LROnJhR1"
+      "duration_ms": 315040,
+      "name": "Days Of Lantana",
+      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Is It?",
-        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
+        "name": "Tarifa",
+        "url": "https://open.spotify.com/album/0ZiiZQCm1aez7Kt77j78QG"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        },
+        {
+          "name": "MAVICA",
+          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
         }
       ],
-      "duration_ms": 315040,
-      "name": "Days Of Lantana",
-      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
+      "duration_ms": 223986,
+      "name": "Giordano\u2019s Dream, Pt. I",
+      "url": "https://open.spotify.com/track/5h0xusp4iYdXb9LROnJhR1"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "The First Train Home",
         "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212373,
       "name": "The First Train Home",
       "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Tomorrow is Perfect",
-      "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 175878,
       "name": "When Will I Be Alright",
       "url": "https://open.spotify.com/track/5S1CxlxcDGMf6c0WcEvF4K"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
     },
     {
       "added_at": "2025-09-23 14:16:54",

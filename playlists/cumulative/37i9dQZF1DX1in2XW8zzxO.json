@@ -1031,6 +1031,44 @@
     },
     {
       "album": {
+        "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+        "url": "https://open.spotify.com/album/136L7ESLmk1MiWPDmFaKOS"
+      },
+      "artists": [
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Roscosteazy",
+          "url": "https://open.spotify.com/artist/2xPX3QiyVHdhcEF2RAxMHV"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        },
+        {
+          "name": "JussGigi",
+          "url": "https://open.spotify.com/artist/5HmJrGcnKIJZyJdpyezdmv"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
+      "url": "https://open.spotify.com/track/4djmPQfj9hWl2mnUSApYSU"
+    },
+    {
+      "album": {
         "name": "Soke S'bone",
         "url": "https://open.spotify.com/album/5ODDUJ9lDigzrEaiY2sSeP"
       },
@@ -2935,6 +2973,36 @@
     },
     {
       "album": {
+        "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+        "url": "https://open.spotify.com/album/7rSH7ZzgEAxgF7ZplAPPFY"
+      },
+      "artists": [
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Angekebabuye Mc",
+          "url": "https://open.spotify.com/artist/43bzhXRLYpIEutFybHmm6H"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Mluusician",
+          "url": "https://open.spotify.com/artist/7uNPGhyPtFpwvmSP3tTiaE"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373805,
+      "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
+      "url": "https://open.spotify.com/track/5WyMVQuP2iraAdx2mmaruG"
+    },
+    {
+      "album": {
         "name": "Yimi Lo",
         "url": "https://open.spotify.com/album/4qsxQElnfnsgWzkG1ozu6b"
       },
@@ -3221,6 +3289,56 @@
     },
     {
       "album": {
+        "name": "MOKWEPA (feat. Focalistic, Ftears, Ch'cco, Seun1401 & Mbuzi)",
+        "url": "https://open.spotify.com/album/5SsGYcajZVVZXjjkm9R2WX"
+      },
+      "artists": [
+        {
+          "name": "DJ DADAMAN",
+          "url": "https://open.spotify.com/artist/6ju6BoDzlFPDxI9ghiSL4H"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Seun1401",
+          "url": "https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb"
+        },
+        {
+          "name": "Mbuzi",
+          "url": "https://open.spotify.com/artist/4aQ6nptJSxRGD7fEeKEH6s"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482360,
+      "name": "MOKWEPA (feat. Focalistic, Ftears, Ch'cco, Seun1401 & Mbuzi)",
+      "url": "https://open.spotify.com/track/2aOrdt7PfydN78hNWnyluF"
+    },
+    {
+      "album": {
         "name": "Monate Mogwanti",
         "url": "https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF"
       },
@@ -3344,7 +3462,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 385731,
       "name": "Moratata (feat. Leemckrazy & TitoM)",
       "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
@@ -3864,7 +3982,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 361116,
       "name": "Rekisa Kapela (feat. Certified Dyan)",
       "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
@@ -4162,7 +4280,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 450309,
       "name": "Shashalaza",
       "url": "https://open.spotify.com/track/1j60JJ15Cnd32LhRZOsjmf"
@@ -4420,7 +4538,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 260209,
       "name": "Skuta Baba - Pitori Remix",
       "url": "https://open.spotify.com/track/5FsDe3oTjRtEuzZcYUGiF2"
@@ -4601,6 +4719,54 @@
     },
     {
       "album": {
+        "name": "TEZE",
+        "url": "https://open.spotify.com/album/07Mrm3YPvCqZidPGhiUtpy"
+      },
+      "artists": [
+        {
+          "name": "W4DE",
+          "url": "https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi"
+        },
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350475,
+      "name": "TEZE",
+      "url": "https://open.spotify.com/track/22lzLVsOQasHbhIByuuJvj"
+    },
+    {
+      "album": {
+        "name": "Thanda (Tshwala) 10.0",
+        "url": "https://open.spotify.com/album/4pv0SUaxH6eAFpMFCUdAdd"
+      },
+      "artists": [
+        {
+          "name": "Bukzin Keyz",
+          "url": "https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ"
+        },
+        {
+          "name": "Loony Q",
+          "url": "https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv"
+        },
+        {
+          "name": "Senzo02",
+          "url": "https://open.spotify.com/artist/7vcWS5ksAb4LpQMGP68ouZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271737,
+      "name": "Thanda (Tshwala) 10.0",
+      "url": "https://open.spotify.com/track/3Ug0mFTvXP0aMerC6TZdA1"
+    },
+    {
+      "album": {
         "name": "The Fxckin Injury",
         "url": "https://open.spotify.com/album/7By0qEmK6WwlCP1Fzk14x7"
       },
@@ -4766,6 +4932,44 @@
       "duration_ms": 446573,
       "name": "Tsela Tse Nyane",
       "url": "https://open.spotify.com/track/7IQbOBVEQTb3lGNNi1e71i"
+    },
+    {
+      "album": {
+        "name": "Tshela Fela (feat. MU MuziQal, Sbuda Maleather & Vic_to_ry)",
+        "url": "https://open.spotify.com/album/5Pl4iSF9sYE91uM2bulp9K"
+      },
+      "artists": [
+        {
+          "name": "Azraq IV",
+          "url": "https://open.spotify.com/artist/5HLGheiugGtnztbfDhlqFp"
+        },
+        {
+          "name": "Djy Kp",
+          "url": "https://open.spotify.com/artist/4pfkNEEgkeBLsdR95NWjzE"
+        },
+        {
+          "name": "Jauza814",
+          "url": "https://open.spotify.com/artist/2kfr2RQhet71X5DXL3bH2C"
+        },
+        {
+          "name": "Mu MuziQal",
+          "url": "https://open.spotify.com/artist/0PcyyLgfYZVd9KlqajVSdZ"
+        },
+        {
+          "name": "Sbuda Maleather",
+          "url": "https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq"
+        },
+        {
+          "name": "Vic_to_ry",
+          "url": "https://open.spotify.com/artist/5PipMic1yj9kOB4XUsgo1P"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351478,
+      "name": "Tshela Fela (feat. MU MuziQal, Sbuda Maleather & Vic_to_ry)",
+      "url": "https://open.spotify.com/track/4p1h9qEVTimh0noh4aG1zR"
     },
     {
       "album": {
@@ -5242,7 +5446,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 271858,
       "name": "Vanhu",
       "url": "https://open.spotify.com/track/4f54S9iJuUDeAd72x7Fe2w"
@@ -5462,7 +5666,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 416532,
       "name": "Woza La",
       "url": "https://open.spotify.com/track/6XK0BdLYoXJyfb1JfuN4BQ"

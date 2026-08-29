@@ -3361,6 +3361,24 @@
     },
     {
       "album": {
+        "name": "Dantata",
+        "url": "https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "Dantata",
+      "url": "https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d"
+    },
+    {
+      "album": {
         "name": "Empress",
         "url": "https://open.spotify.com/album/5hIpeMI5sJsrWp4nLEIAVD"
       },
@@ -10700,7 +10718,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 146165,
       "name": "SHEGE",
       "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,047 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,045 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 64 | [If Our Love Is Dead](https://open.spotify.com/track/4cdUz71Ov5QPEErCiQli6u) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [If Our Love Is Dead](https://open.spotify.com/album/3Y2J3JxHDBLXcGLw4Nr7xn) | 2:53 |
 | 65 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/7lnDmOjAU6K1LjAxfSHa9n) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/1C5fhhTePIQ3MVw1OZIGMc) | 2:33 |
 | 66 | [Alright Alright Alright](https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Alright Alright Alright](https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw) | 2:04 |
-| 67 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
-| 68 | [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Would You?](https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP) | 2:30 |
+| 67 | [Would You?](https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Would You?](https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP) | 2:30 |
+| 68 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
 | 69 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
 | 70 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
 | 71 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 79 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 |
 | 80 | [High Beaming](https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [High Beaming](https://open.spotify.com/album/3oHY7GXtZp2EDsCiBhEDvY) | 3:34 |
 
-Snapshot ID: `AAAAAEM5UEi8gydAnkDgZMsrwRTS9OK5`
+Snapshot ID: `AAAAAGZluyYMlu2H9tRTqOymKktYrhyp`

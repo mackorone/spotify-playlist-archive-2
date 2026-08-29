@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Son Volt",
-  "num_followers": 239303,
+  "num_followers": 239357,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALuDuYnqeb8JiikgotqwjtuBELK0",
+  "snapshot_id": "AAAAAFPS4UvZkcpg2M8Q+GOOQEHIgAy8",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:17",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Tribute To Tradition",
         "url": "https://open.spotify.com/album/4Mngcv6ExjREiOqSH8vG1D"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 361093,
       "name": "Same Old Train",
       "url": "https://open.spotify.com/track/5KMWwtJv3Ll2ROZfMerQs0"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 275969,
-      "name": "Do I Look Worried",
-      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 305160,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 275969,
+      "name": "Do I Look Worried",
+      "url": "https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Am I Missing Out",
-        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 246858,
-      "name": "Am I Missing Out",
-      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Servant of Love",
         "url": "https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 317213,
       "name": "Shine a Different Way",
       "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Am I Missing Out",
+        "url": "https://open.spotify.com/album/2TxgtKxNOBZTQiDTk4FaqA"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 246858,
+      "name": "Am I Missing Out",
+      "url": "https://open.spotify.com/track/0V3gAuAWrV0X4c510cATjZ"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1031,6 +1031,30 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Dumplin' Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
         "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
       },
@@ -1095,26 +1119,18 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Dumplin' Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/50FL6Vavo5CtZ1S9QQSJeO"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 148960,
-      "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1135,22 +1151,6 @@
       "duration_ms": 220600,
       "name": "The Traveling Kind",
       "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Still Woman Enough",
+        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 161023,
+      "name": "One's On The Way (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1227,22 +1247,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Still Woman Enough",
-        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         },
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 161023,
-      "name": "One's On The Way (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+      "duration_ms": 175400,
+      "name": "Detour (feat. Emmylou Harris)",
+      "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1283,22 +1303,18 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Detour (feat. Emmylou Harris)",
-      "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
+      "duration_ms": 160120,
+      "name": "Tell Heaven",
+      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1315,22 +1331,6 @@
       "duration_ms": 284253,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Tell Heaven",
-      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1387,6 +1387,22 @@
       "duration_ms": 221852,
       "name": "Broken Radio '22",
       "url": "https://open.spotify.com/track/5xk4DuC1A2dvIfnxY1ymrm"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Lost Child",
+        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
+      },
+      "artists": [
+        {
+          "name": "Jim James",
+          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Way Out West",
-        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
-      },
-      "artists": [
-        {
-          "name": "Marty Stuart And His Fabulous Superlatives",
-          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Whole Lotta Highway (With A Million Miles to Go)",
-      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Old Yellow Moon",
         "url": "https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 172813,
       "name": "Hanging up My Heart",
       "url": "https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Way Out West",
+        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Whole Lotta Highway (With A Million Miles to Go)",
+      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Lost Child",
-        "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
-      },
-      "artists": [
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Trouble and Love",
         "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 260333,
       "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Mr. Lincoln",
+        "url": "https://open.spotify.com/album/2up9A6KpO33X2CKMeD7ROE"
+      },
+      "artists": [
+        {
+          "name": "The Jayhawks",
+          "url": "https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl"
+        }
+      ],
+      "duration_ms": 284710,
+      "name": "American Midnight",
+      "url": "https://open.spotify.com/track/16bZB7vOwSuZHBqahIJFKZ"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
-      },
-      "artists": [
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
-        }
-      ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1643,6 +1643,22 @@
       "duration_ms": 158834,
       "name": "Got Your Six",
       "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+      },
+      "artists": [
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1663,6 +1679,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Love Wore A Halo (Back Before the War)",
+        "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Love Wore A Halo (Back Before The War)",
+      "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1679,22 +1711,6 @@
       "duration_ms": 251826,
       "name": "Keeps Me Alive",
       "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Love Wore A Halo (Back Before the War)",
-        "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Love Wore A Halo (Back Before The War)",
-      "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1767,6 +1783,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Place in My Heart",
         "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
       },
@@ -1799,18 +1831,18 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+        "name": "California Sober / In Your Ocean (Acoustic)",
+        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
+      "duration_ms": 200181,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1899,22 +1931,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "1970 - 1987",
-        "url": "https://open.spotify.com/album/7wp12pjjsFjBOxFOifOZzj"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Taxes on the Farmer Feeds Us All",
-      "url": "https://open.spotify.com/track/1byebBYLkyIUdTNKUp8qS8"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Great American Cities",
         "url": "https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i"
       },
@@ -1931,6 +1947,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "1970 - 1987",
+        "url": "https://open.spotify.com/album/7wp12pjjsFjBOxFOifOZzj"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Taxes on the Farmer Feeds Us All",
+      "url": "https://open.spotify.com/track/1byebBYLkyIUdTNKUp8qS8"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Robby Hecht",
         "url": "https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4"
       },
@@ -1943,6 +1975,22 @@
       "duration_ms": 221213,
       "name": "New York City",
       "url": "https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "The Damage",
+        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 241739,
+      "name": "The Damage",
+      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1967,22 +2015,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "The Damage",
-        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 241739,
-      "name": "The Damage",
-      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Nowhere to Hide",
         "url": "https://open.spotify.com/album/2ffD2tYaD8wcbnsgOudUtA"
       },
@@ -1999,6 +2031,22 @@
       "duration_ms": 212104,
       "name": "Every Pilgrim Needs a Highway",
       "url": "https://open.spotify.com/track/0AsSPcTKgY81UnorV87EJa"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Alcohol and Adderall",
+        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 212997,
+      "name": "Alcohol and Adderall",
+      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -2087,22 +2135,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Copperhead Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "At Folsom Prison (Legacy Edition)",
         "url": "https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8"
       },
@@ -2119,18 +2151,18 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+        "name": "Copperhead Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1drpwlbkryF9OvBtRNJNiX"
       },
       "artists": [
         {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+      "duration_ms": 270066,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0ttKO7eBjyoq5Khr2X9lwV"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -2151,6 +2183,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Soul Journey",
         "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
       },
@@ -2167,6 +2215,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "My Favorite Picture Of You",
+      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Transendental Blues",
         "url": "https://open.spotify.com/album/5WLv6eZPhJuNsZnUOFRWBm"
       },
@@ -2179,6 +2243,22 @@
       "duration_ms": 185133,
       "name": "The Galway Girl",
       "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "House of the White Rose Bouquet",
+        "url": "https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 203845,
+      "name": "House of the White Rose Bouquet",
+      "url": "https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -2203,38 +2283,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Walking Back To Georgia",
-      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "My Favorite Picture Of You",
-      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Time (The Revelator)",
         "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
       },
@@ -2251,18 +2299,18 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "House of the White Rose Bouquet",
-        "url": "https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb"
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
       },
       "artists": [
         {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 203845,
-      "name": "House of the White Rose Bouquet",
-      "url": "https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn"
+      "duration_ms": 171666,
+      "name": "Walking Back To Georgia",
+      "url": "https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -2635,54 +2683,6 @@
       "duration_ms": 195266,
       "name": "Never Let a Day Go By",
       "url": "https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb"
-      },
-      "artists": [
-        {
-          "name": "Martin Sexton",
-          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Just To Watch Maria Dance",
-        "url": "https://open.spotify.com/album/7065TFrbGtfx5TCIBXpmtY"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 136489,
-      "name": "Just To Watch Maria Dance",
-      "url": "https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Our Year",
-        "url": "https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw"
-      },
-      "artists": [
-        {
-          "name": "Kelly Willis & Bruce Robison",
-          "url": "https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s"
-        }
-      ],
-      "duration_ms": 142157,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"
     }
   ],
   "unique_name": "Americana Icons",

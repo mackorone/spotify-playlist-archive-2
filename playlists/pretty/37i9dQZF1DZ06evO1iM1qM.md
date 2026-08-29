@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,722 likes - 50 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,749 likes - 50 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 49 | [Lazy Bird](https://open.spotify.com/track/3HNhdvVw92awlT3gfqXIxW) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:07 |
 | 50 | [Straight, No Chaser \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 10:35 |
 
-Snapshot ID: `ao4sgAAAAACjqj0myiH/9cy6ay+3TEJ0`
+Snapshot ID: `ao9+AAAAAAAsUO+PEbFyPTWu53l4f/Ha`

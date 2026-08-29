@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13sApGEHdQm.md) - [plain]
 
 > Our editors' picks for the pop songs that have defined the streaming era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,240 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,333 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13sApGEHdQm.md) - [plain]
 | 99 | [Slow Hands](https://open.spotify.com/track/27vTihlWXiz9f9lJM3XGVU) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands](https://open.spotify.com/album/6nkXOiymyczxK1XCZW5HEk) | 3:08 |
 | 100 | [Cool for the Summer](https://open.spotify.com/track/3VgNbGJAVtbT1afQiRBTX4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Cool for the Summer](https://open.spotify.com/album/3zBmbj91hxwuf70OTksAWf) | 3:34 |
 
-Snapshot ID: `AAAAABa60Yv+0CCQ6HQoU7/Lh+8j9/nI`
+Snapshot ID: `AAAAAAIRyyHcX1BRs+osiiglsXpQNLFD`

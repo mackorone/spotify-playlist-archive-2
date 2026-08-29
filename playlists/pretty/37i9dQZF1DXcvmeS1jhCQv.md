@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Amble
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,169 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,180 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 99 | [No More](https://open.spotify.com/track/7af2f5aBB7qe3bIgJUNjrb) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq) | [No More](https://open.spotify.com/album/0UizShvXdzrnmPWPm2X8xW) | 2:13 |
 | 100 | [Won't Be Long](https://open.spotify.com/track/2fzdBg7EFqJ9Am0HOHbsLl) | [Emily Doyle](https://open.spotify.com/artist/4ylNHpovRFZlBKqgWRBQV6) | [Fight Or Flight](https://open.spotify.com/album/2wP0LSPgAZ0cw3Xsd7sNpK) | 4:27 |
 
-Snapshot ID: `AAAAAK0dnfh5LBklz2wiObWJisOYb5/O`
+Snapshot ID: `AAAAAGK/e6wLbCpmhrSySbKMqPxJ97+C`

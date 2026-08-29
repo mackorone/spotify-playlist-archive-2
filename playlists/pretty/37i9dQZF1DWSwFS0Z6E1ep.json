@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 311009,
+  "num_followers": 311049,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALKbIvURXE8x03gkhdKY3ukOrxEB",
+  "snapshot_id": "AAAAALIZMmjAmysJ+fta+y9/t+0hPo0f",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Shout!",
         "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 271983,
       "name": "Shout, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 150706,
       "name": "Dream Lover",
       "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Not Fade Away: The Complete Studio Recordings And More",
-        "url": "https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Oh Boy! - Overdubbed Version",
-      "url": "https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Ricky Nelson (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 122760,
       "name": "Waitin' In School",
       "url": "https://open.spotify.com/track/5zYvVUfInIEx5xGR2qe3Ls"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Not Fade Away: The Complete Studio Recordings And More",
+        "url": "https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Oh Boy! - Overdubbed Version",
+      "url": "https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "At the Rock House",
-        "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        },
-        {
-          "name": "The Teen Kings",
-          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Ooby Dooby",
-      "url": "https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "At the Rock House",
+        "url": "https://open.spotify.com/album/6QYaVdJsm6MNqKO9tEBUMm"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        },
+        {
+          "name": "The Teen Kings",
+          "url": "https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Ooby Dooby",
+      "url": "https://open.spotify.com/track/7Bt1RAu4FSYL3WltEmLmb5"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Come on Little Mama / Where'd You Stay Last Night",
         "url": "https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 138813,
       "name": "Come on Little Mama",
       "url": "https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2022-06-07 05:25:13",

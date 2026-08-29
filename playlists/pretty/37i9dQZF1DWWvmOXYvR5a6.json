@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Raf Sandou)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221764,
+  "num_followers": 221753,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO46sjq30NGBLf128AEcKqS58eEd",
+  "snapshot_id": "AAAAAD7AuGf7w9erwvOvtG3Z+iExccVy",
   "tracks": [
     {
       "added_at": "2026-08-27 04:16:48",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-08-27 04:16:48",
       "album": {
+        "name": "THE ONE YOU WANTED",
+        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 205393,
+      "name": "Mayday (Feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ"
+    },
+    {
+      "added_at": "2026-08-27 04:16:48",
+      "album": {
         "name": "The Firstfruit - The 1st Album",
         "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 186120,
       "name": "Watching TV",
       "url": "https://open.spotify.com/track/04eT5t3jBMa1NxTqgWoHtT"
-    },
-    {
-      "added_at": "2026-08-27 04:16:48",
-      "album": {
-        "name": "THE ONE YOU WANTED",
-        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 205393,
-      "name": "Mayday (Feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/15h2NRc292HUp1XgTEnOtJ"
     },
     {
       "added_at": "2026-08-27 04:16:48",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-08-27 04:16:48",
       "album": {
-        "name": "chukchuk (demo)",
-        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "chukchuk - demo",
-      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
-    },
-    {
-      "added_at": "2026-08-27 04:16:48",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 170013,
       "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) - Remix",
       "url": "https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6"
+    },
+    {
+      "added_at": "2026-08-27 04:16:48",
+      "album": {
+        "name": "chukchuk (demo)",
+        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "chukchuk - demo",
+      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
     },
     {
       "added_at": "2026-08-27 04:16:48",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-08-27 04:16:48",
       "album": {
-        "name": "Stuck (Feat. Yerin Baek)",
-        "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Stuck (Feat. Yerin Baek)",
-      "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
-    },
-    {
-      "added_at": "2026-08-27 04:16:48",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
       },
@@ -995,6 +975,26 @@
     {
       "added_at": "2026-08-27 04:16:48",
       "album": {
+        "name": "Stuck (Feat. Yerin Baek)",
+        "url": "https://open.spotify.com/album/1WBrel8w5536mVdYNnmQko"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Stuck (Feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/2gdhV5aSdF3L5pfp7SEPRx"
+    },
+    {
+      "added_at": "2026-08-27 04:16:48",
+      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1007,30 +1007,6 @@
       "duration_ms": 205999,
       "name": "Infrared Camera",
       "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
-    },
-    {
-      "added_at": "2026-08-27 04:16:48",
-      "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
-      },
-      "artists": [
-        {
-          "name": "Yorch",
-          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Bryan Chase",
-          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
-      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
     },
     {
       "added_at": "2026-08-27 04:16:48",
@@ -1067,6 +1043,30 @@
       "duration_ms": 183000,
       "name": "STAY on FIRE (feat. DEAN)",
       "url": "https://open.spotify.com/track/0VGeaj4sDq9UnwzSxiVgkZ"
+    },
+    {
+      "added_at": "2026-08-27 04:16:48",
+      "album": {
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
+      },
+      "artists": [
+        {
+          "name": "Yorch",
+          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
+      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
     },
     {
       "added_at": "2026-08-27 04:16:48",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-08-27 04:16:48",
       "album": {
-        "name": "Day & Night (feat. Jay Park)",
-        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Day & Night (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
-    },
-    {
-      "added_at": "2026-08-27 04:16:48",
-      "album": {
         "name": "Beginning",
         "url": "https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 181173,
       "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
       "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
+    },
+    {
+      "added_at": "2026-08-27 04:16:48",
+      "album": {
+        "name": "Day & Night (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Day & Night (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
     },
     {
       "added_at": "2026-08-27 04:16:48",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2026-08-27 04:16:48",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
+        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
       },
       "artists": [
         {
@@ -1304,13 +1304,13 @@
           "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": " jambino",
-          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+          "name": "\uc720\ub77c(youra)",
+          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
         }
       ],
-      "duration_ms": 193493,
-      "name": "ADHD (feat. Jambino)",
-      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
+      "duration_ms": 189157,
+      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
     },
     {
       "added_at": "2026-08-27 04:16:48",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2026-08-27 04:16:48",
       "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
-        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
       "artists": [
         {
@@ -1404,13 +1404,13 @@
           "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": "\uc720\ub77c(youra)",
-          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
+          "name": " jambino",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
         }
       ],
-      "duration_ms": 189157,
-      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+      "duration_ms": 193493,
+      "name": "ADHD (feat. Jambino)",
+      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
     },
     {
       "added_at": "2026-08-27 04:16:48",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-08-27 04:16:48",
       "album": {
-        "name": "6SEOUL",
-        "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "PLAYER (feat. Crush)",
-      "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
-    },
-    {
-      "added_at": "2026-08-27 04:16:48",
-      "album": {
         "name": "Show Must Go On",
         "url": "https://open.spotify.com/album/7ltbcQigXrafN9CNgi3AdC"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 166666,
       "name": "Show Must Go On",
       "url": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
+    },
+    {
+      "added_at": "2026-08-27 04:16:48",
+      "album": {
+        "name": "6SEOUL",
+        "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "PLAYER (feat. Crush)",
+      "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
     },
     {
       "added_at": "2026-08-27 04:16:48",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2026-08-27 04:16:48",
       "album": {
+        "name": "sonogram",
+        "url": "https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT"
+      },
+      "artists": [
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        },
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "duration_ms": 224397,
+      "name": "Too laid back",
+      "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
+    },
+    {
+      "added_at": "2026-08-27 04:16:48",
+      "album": {
         "name": "Wait A Minute !",
         "url": "https://open.spotify.com/album/59Vc3Ij1sz6fQmgfv5ANtD"
       },
@@ -1783,26 +1803,6 @@
       "duration_ms": 194500,
       "name": "Wait A Minute ! (Feat. \ud669\uc138\ud604(h3hyeon))",
       "url": "https://open.spotify.com/track/30kEjqFheQPomQcf2kZM7H"
-    },
-    {
-      "added_at": "2026-08-27 04:16:48",
-      "album": {
-        "name": "sonogram",
-        "url": "https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT"
-      },
-      "artists": [
-        {
-          "name": "Roh Yun Ha",
-          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
-        },
-        {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
-        }
-      ],
-      "duration_ms": 224397,
-      "name": "Too laid back",
-      "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
     },
     {
       "added_at": "2026-08-27 04:16:48",

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,953 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,043 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Regalo De Dios](https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:05 |
 | 2 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:11 |
 | 3 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 |
-| 4 | [Rey Sin Reina](https://open.spotify.com/track/4VWKUO1My9MfRecR5ftRkr) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 2:30 |
+| 4 | [Cero Empatía](https://open.spotify.com/track/18OMTIWpHGvhTcQjg83CtQ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 3:09 |
 | 5 | [Lo Tienes Todo](https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:44 |
 | 6 | [Ojos Verdes](https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:57 |
 | 7 | [Llévala a La Luna](https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Llévala a La Luna](https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP) | 2:44 |
-| 8 | [Cero Empatía](https://open.spotify.com/track/18OMTIWpHGvhTcQjg83CtQ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 3:09 |
+| 8 | [Rey Sin Reina](https://open.spotify.com/track/4VWKUO1My9MfRecR5ftRkr) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 2:30 |
 | 9 | [Casi Completa](https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:10 |
 | 10 | [Afuera Está Lloviendo](https://open.spotify.com/track/3z6s6qPDYCpW44Zfpy4HWS) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 2:59 |
 | 11 | [Que Te Vaya Bien](https://open.spotify.com/track/5Ei8EK2uXNkqqVSe2QYsFp) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 49 | [Ya No](https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:34 |
 | 50 | [Dueña De Mis Besos](https://open.spotify.com/track/22SjQwvk02AqkPuwQukDnZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 2:31 |
 
-Snapshot ID: `ao4sgAAAAABBoOSJXCnCaaIejXtuRp4P`
+Snapshot ID: `ao9+AAAAAABp034zraB6B8UJkIJp9H9F`

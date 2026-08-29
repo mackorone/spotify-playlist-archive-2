@@ -1,12 +1,12 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85190,
+  "num_followers": 85187,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMNZGf6d53iD5mG6//USd+f35TGa",
+  "snapshot_id": "AAAAAFIaGNDhvxN7vSv+xo6IFNKiQSkK",
   "tracks": [
     {
       "added_at": "2024-11-25 16:13:36",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "ROMANCE : UNTOLD",
+        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 188332,
+      "name": "XO (Only If You Say Yes)",
+      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "ROMANCE : UNTOLD",
-        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 188332,
-      "name": "XO (Only If You Say Yes)",
-      "url": "https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Holy Smokes",
+        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Holy Smokes",
+      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Holy Smokes",
-        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Holy Smokes",
-      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
     },
     {
       "added_at": "2024-11-25 16:13:36",

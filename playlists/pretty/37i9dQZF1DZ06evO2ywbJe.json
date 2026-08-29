@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 9016,
+  "num_followers": 9023,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAthen459a1Wl6Cdhkf9oiN",
+  "snapshot_id": "ao9+AAAAAADsUIsLOdQLJtqik/hvyDeY",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 173142,
       "name": "ITALAWA",
       "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOTION SICKNESS",
-        "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "MOTION SICKNESS (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
     },
     {
       "added_at": null,
@@ -167,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -183,22 +179,6 @@
       "duration_ms": 180638,
       "name": "IDK (feat. Zlatan)",
       "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "That Guy",
-      "url": "https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o"
     },
     {
       "added_at": null,
@@ -339,30 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SORRY I'M BAD",
-        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
-      },
-      "artists": [
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        },
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "BITCH & MONEY",
-      "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cash App",
         "url": "https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT"
       },
@@ -383,6 +339,30 @@
       "duration_ms": 236068,
       "name": "Cash App",
       "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SORRY I'M BAD",
+        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "BITCH & MONEY",
+      "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
     },
     {
       "added_at": null,
@@ -551,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hallelu",
         "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
       },
@@ -571,26 +571,6 @@
       "duration_ms": 213492,
       "name": "Hallelu",
       "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/6EHjqiRgBtgzrlAKgC43bQ"
     },
     {
       "added_at": null,
@@ -619,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 167657,
+      "name": "14DRoad",
+      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 208561,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/48olFFX6QTTXB47q4qfPFU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167657,
-      "name": "14DRoad",
-      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
     },
     {
       "added_at": null,
@@ -1059,6 +1039,30 @@
       "duration_ms": 167213,
       "name": "Money",
       "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 178347,
+      "name": "Oganigwe",
+      "url": "https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t"
     }
   ],
   "unique_name": "This Is Zlatan",

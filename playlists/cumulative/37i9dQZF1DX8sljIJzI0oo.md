@@ -2,7 +2,7 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Brytiago is bringing the heat this week\. Tap in every Thursday for a refresh.
+> Brytiago is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and read our substack!\)</a>
 
 2,963 songs - 6 day 15 hr 3 min
 
@@ -1206,7 +1206,7 @@
 | [Holanda](https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Holanda](https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa) | 3:51 | 2023-08-03 | 2023-10-20 |
 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 | 2022-11-24 | 2023-10-25 |
 | [HOMENAJE](https://open.spotify.com/track/02qsYZznhFSX0psInKC7st) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [HOMENAJE](https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts) | 3:35 | 2024-02-28 | 2024-03-08 |
-| [Honguito \(Remix\)](https://open.spotify.com/track/7A8zFqJKiZh9qbwduW7Ylj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Honguito \(Remix\)](https://open.spotify.com/album/4KipFJH8j4pvOfURrKJvEE) | 4:13 | 2026-07-23 |  |
+| [Honguito \- Remix](https://open.spotify.com/track/7A8zFqJKiZh9qbwduW7Ylj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Honguito \(Remix\)](https://open.spotify.com/album/4KipFJH8j4pvOfURrKJvEE) | 4:13 | 2026-07-23 |  |
 | [Hood \- Remix](https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Hood \(Remix\)](https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv) | 2:56 | 2022-11-03 | 2022-11-11 |
 | [Hoodie](https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hoodie](https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb) | 4:10 | 2022-12-08 | 2022-12-16 |
 | [Hookah & Sheridan's](https://open.spotify.com/track/4xkDB35EeIYut4jRVpRp3Y) | [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [GRACIAS X](https://open.spotify.com/album/6eB9UMscdIqZ24fEUPQr1x) | 3:15 | 2022-08-12 | 2022-08-20 |

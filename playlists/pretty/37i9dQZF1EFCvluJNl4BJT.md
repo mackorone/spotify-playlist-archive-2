@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,247 likes - 127 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,246 likes - 127 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 3 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 |
 | 4 | [safety net \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/14gkWVFMwdxBMyqBw1wmIg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:28 |
 | 5 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 |
-| 6 | [nasty](https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:20 |
-| 7 | [Honeymoon Avenue](https://open.spotify.com/track/5SmXEPnevlRjBPWBG7oKIi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 5:39 |
+| 6 | [Honeymoon Avenue](https://open.spotify.com/track/5SmXEPnevlRjBPWBG7oKIi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 5:39 |
+| 7 | [nasty](https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:20 |
 | 8 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 |
 | 9 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 10 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 126 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 127 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AcawPAAAAAA5hkdlQtVQoB28i9Wu4PoJ`
+Snapshot ID: `Aca1PAAAAABvS+aNH1HeqDQYLWosmK2f`

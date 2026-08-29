@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp?si=63870859e7c942be">Ila Nia</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,670 likes - 54 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,673 likes - 54 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 53 | [PRESS AM](https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8) | [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [PRESS AM](https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj) | 2:03 |
 | 54 | [fêteRock\*](https://open.spotify.com/track/28dmUmDBKcByC8J4g0FmJN) | [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [fujiBouyon\*](https://open.spotify.com/album/1zaNYDraNZA32BrkMhedlT) | 3:07 |
 
-Snapshot ID: `AAAAAATXK7LKOkKPudvuPO5z0xmr08wX`
+Snapshot ID: `AAAAAP0si1ZPxaTMY+hd8IvkAxVihBwK`

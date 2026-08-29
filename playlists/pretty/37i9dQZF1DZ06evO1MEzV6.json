@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 127687,
+  "num_followers": 127707,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACW6VeYU+REiSg2tSPCjxfc",
+  "snapshot_id": "ao9+AAAAAAAKrJ1moLEcKuU3sNip7O/v",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 126824,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the way things go",
         "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 187800,
       "name": "the way things go",
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 126824,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
     },
     {
       "added_at": null,

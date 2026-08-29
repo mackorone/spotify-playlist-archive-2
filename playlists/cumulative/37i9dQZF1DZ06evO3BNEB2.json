@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 236000,
       "name": "Feel the Love (feat. Wale)",
       "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
@@ -598,6 +598,28 @@
       "duration_ms": 288004,
       "name": "French Toast (feat. Wale & Joyce Wrice)",
       "url": "https://open.spotify.com/track/0RoV9OBxlqxkzFEv6LAm84"
+    },
+    {
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
       "album": {
@@ -932,10 +954,32 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 207082,
       "name": "Overthink (feat. Elmiene)",
       "url": "https://open.spotify.com/track/09h9Sa4HE5iTij2tKVf9vw"
+    },
+    {
+      "album": {
+        "name": "Overthink (feat. Elmiene)",
+        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207082,
+      "name": "Overthink (feat. Elmiene)",
+      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
     },
     {
       "album": {

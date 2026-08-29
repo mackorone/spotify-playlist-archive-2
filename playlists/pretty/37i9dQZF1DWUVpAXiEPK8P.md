@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,081,516 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,081,300 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 49 | [Blueberry Faygo](https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Blueberry Faygo](https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL) | 2:42 |
 | 50 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition Of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 |
 
-Snapshot ID: `AAAAAJ4HhyUCbQKuTRefecuTywO3mrlB`
+Snapshot ID: `AAAAAJZs7LsB7ufx7l1S7eDK13GVHvAF`

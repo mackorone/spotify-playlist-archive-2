@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 146044,
+  "num_followers": 146072,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+sBt4xxRB8s9Zbv+NQAEsiqEOY",
+  "snapshot_id": "AAAAAE0CAyVn9O1OqnlcfqdfwBk3tQj0",
   "tracks": [
     {
       "added_at": "2026-08-28 00:02:13",
@@ -156,7 +156,7 @@
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 148965,
+      "duration_ms": 169655,
       "name": "BIG PERFORMER",
       "url": "https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0"
     },
@@ -999,6 +999,50 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 164444,
+      "name": "STARLIFE (feat. Blaqbonez & YKB)",
+      "url": "https://open.spotify.com/track/3ngsykTTzxpBHhBN516JY6"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "Sunita",
+        "url": "https://open.spotify.com/album/6AHQyihE6ZzqkXM1a2yub8"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "Sunita",
+      "url": "https://open.spotify.com/track/56knZKB3FZe2abU33OrsJN"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
         "name": "catharsis",
         "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
@@ -1075,6 +1119,22 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 154705,
+      "name": "2FRESH",
+      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
         "name": "10 MINUTES",
         "url": "https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT"
       },
@@ -1111,66 +1171,6 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "Sunita",
-        "url": "https://open.spotify.com/album/6AHQyihE6ZzqkXM1a2yub8"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 184607,
-      "name": "Sunita",
-      "url": "https://open.spotify.com/track/56knZKB3FZe2abU33OrsJN"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "STARLIFE (feat. Blaqbonez & YKB)",
-      "url": "https://open.spotify.com/track/3ngsykTTzxpBHhBN516JY6"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "Gbewa",
-        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Gbewa",
-      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb"
       },
@@ -1187,6 +1187,22 @@
       "duration_ms": 160866,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/19nmeU0aNGfXHzIpfKUQB2"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "Gbewa",
+        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Gbewa",
+      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 154705,
-      "name": "2FRESH",
-      "url": "https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -1267,6 +1267,38 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
+        "name": "Dantata",
+        "url": "https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "Dantata",
+      "url": "https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "Anybody",
+        "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 150073,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
         "name": "Intentions (feat. Urban Chords)",
         "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
       },
@@ -1283,22 +1315,6 @@
       "duration_ms": 149786,
       "name": "Intentions (feat. Urban Chords)",
       "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Masculine Love",
-      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -1323,6 +1339,22 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
         "name": "All Over You",
         "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
       },
@@ -1339,8 +1371,8 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "Anybody",
-        "url": "https://open.spotify.com/album/1hvFnDu5h6JzFPi7u3vIKv"
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
       },
       "artists": [
         {
@@ -1348,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
         }
       ],
-      "duration_ms": 150073,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/0fXjbDO6HtqfyQBuPYPUuK"
+      "duration_ms": 162063,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -1375,22 +1407,6 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "Waist",
-        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Waist",
-      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -1407,6 +1423,58 @@
       "duration_ms": 154268,
       "name": "Osusu",
       "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129391,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
+    },
+    {
+      "added_at": "2026-08-28 00:02:13",
+      "album": {
+        "name": "Calculate (II)",
+        "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate - II",
+      "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
     },
     {
       "added_at": "2026-08-28 00:02:13",
@@ -1431,38 +1499,6 @@
     {
       "added_at": "2026-08-28 00:02:13",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 162063,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129391,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL"
       },
@@ -1475,50 +1511,6 @@
       "duration_ms": 234560,
       "name": "Can You Stay",
       "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
-    },
-    {
-      "added_at": "2026-08-28 00:02:13",
-      "album": {
-        "name": "Escaladizzy II",
-        "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": "Escaladizzy II",
-      "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

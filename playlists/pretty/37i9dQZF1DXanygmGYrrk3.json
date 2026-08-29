@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tus canciones favoritas del momento, todas en un solo lugar! Cover: Calle 24, Fuerza Regida. ",
-  "num_followers": 424322,
+  "num_followers": 424496,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLIpQksnhH0lxSRMEz3RVBpFVlu",
+  "snapshot_id": "AAAAAIXNdIELFUZn9B/abNr974rw1BAN",
   "tracks": [
     {
       "added_at": "2026-08-14 04:02:41",
@@ -277,7 +277,7 @@
         }
       ],
       "duration_ms": 280250,
-      "name": "Tus Mentiras (En Vivo)",
+      "name": "Tus Mentiras - En Vivo",
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 186360,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
         "name": "Que Nadie Sepa",
         "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 162211,
       "name": "Que Te Quieran Bonito",
       "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/3hlzeDhRlrd9ICvrokcUTb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -895,18 +879,34 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/3hlzeDhRlrd9ICvrokcUTb"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 190773,
-      "name": "H\u00e1blame De Ti",
-      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
+      "duration_ms": 177333,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub"
+      "duration_ms": 190773,
+      "name": "H\u00e1blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "No Me Pidas Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
         "name": "La Rueda De La Fortuna",
         "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 216266,
       "name": "En Definitiva",
       "url": "https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "No Me Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 180750,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
+        "name": "MMXX's",
+        "url": "https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 179583,
+      "name": "MMXX's",
+      "url": "https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
         "name": "Tengo Claro",
         "url": "https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 191681,
       "name": "Tengo Claro",
       "url": "https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
-        "name": "MMXX's",
-        "url": "https://open.spotify.com/album/2rtNe0iWMSd6J5nPhsNOyY"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 179583,
-      "name": "MMXX's",
-      "url": "https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
         "name": "AMARTE ME HIZO ODIARTE",
         "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 215945,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 225581,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
         "name": "No Capea",
         "url": "https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 194605,
       "name": "No Capea",
       "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 225581,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Como Duele El Amor",
-      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 156520,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 222528,
+      "name": "Como Duele El Amor",
+      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -1555,18 +1555,22 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3g0PHy2BRa3ujyVpEMU5S5"
+        "name": "7 DIAS",
+        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 172500,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/5OPljbMv9PFDUpucKAcH3b"
+      "duration_ms": 180688,
+      "name": "7 DIAS",
+      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -1591,22 +1595,18 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "7 DIAS",
-        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3g0PHy2BRa3ujyVpEMU5S5"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 180688,
-      "name": "7 DIAS",
-      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
+      "duration_ms": 172500,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/5OPljbMv9PFDUpucKAcH3b"
     },
     {
       "added_at": "2026-08-14 04:02:41",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-08-14 04:02:41",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
-    },
-    {
-      "added_at": "2026-08-14 04:02:41",
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "added_at": "2026-08-14 04:02:41",
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2026-08-14 04:02:41",

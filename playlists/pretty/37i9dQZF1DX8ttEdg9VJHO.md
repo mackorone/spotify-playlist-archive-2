@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,957 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,954 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 27 | [Club To Your Arms](https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms](https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda) | 3:11 |
 | 28 | [Let Me Down](https://open.spotify.com/track/04qoyDX07T8beAtmhbp5hc) | [Cammy Barnes](https://open.spotify.com/artist/28J1DHByWcyaurTUQ8Rzs9) | [Let Me Down](https://open.spotify.com/album/1Z2pVASFfcibcjjvgD8thx) | 3:14 |
 | 29 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 |
-| 30 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
-| 31 | [How Beautiful This Life Is](https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [How Beautiful This Life Is](https://open.spotify.com/album/0KYAQzaK5SAmll1FYTDNDx) | 3:14 |
+| 30 | [How Beautiful This Life Is](https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [How Beautiful This Life Is](https://open.spotify.com/album/0KYAQzaK5SAmll1FYTDNDx) | 3:14 |
+| 31 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
 | 32 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
 | 33 | [Phoenix](https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Phoenix](https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx) | 2:24 |
-| 34 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
-| 35 | [Slow Dance \(For A Minute\)](https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Slow Dance \(For A Minute\)](https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0) | 3:34 |
+| 34 | [Slow Dance \(For A Minute\)](https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Slow Dance \(For A Minute\)](https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0) | 3:34 |
+| 35 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
 | 36 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
 | 37 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 |
 | 38 | [Lost The Breakup](https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 69 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 |
 | 70 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 |
 
-Snapshot ID: `AAAAAMPjA+cFH7i8cnB94OrNpTZtDHeI`
+Snapshot ID: `AAAAAGlCqtOUBV9qnBseV7zn8meNowZS`

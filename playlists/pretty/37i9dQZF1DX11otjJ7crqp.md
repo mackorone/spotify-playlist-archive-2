@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,909 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,153 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 149 | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 |
 | 150 | [Harmony](https://open.spotify.com/track/57a0usyQgVXthMoFZotx85) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:21 |
 
-Snapshot ID: `AAAAABwBbp1wGA9NYyJvWbwqh7kafwYd`
+Snapshot ID: `AAAAAMT9H2skC8ixbwXHLsYSe9i6bzI5`

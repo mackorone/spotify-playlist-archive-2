@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > The greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,215 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,300 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 36 | [I Would Do Anything for You](https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:34 |
 | 37 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 38 | [Simple Song](https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:15 |
-| 39 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 |
-| 40 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
+| 39 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
+| 40 | [My Love](https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [My Love](https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE) | 3:59 |
 | 41 | [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 |
 | 42 | [Take Care](https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 5:48 |
 | 43 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 52 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 |
 | 53 | [KISS ME](https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:03 |
 | 54 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
-| 55 | [Toothpaste Kisses](https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Colour It In](https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s) | 2:39 |
-| 56 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
+| 55 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
+| 56 | [Toothpaste Kisses](https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Colour It In](https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s) | 2:39 |
 | 57 | [To the End \- 2012 Remaster](https://open.spotify.com/track/7u8yddev0YnNFGkZoP8X2t) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 4:04 |
 | 58 | [i saw you in a dream](https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:20 |
 | 59 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 62 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
 | 63 | [kiss me blue](https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:08 |
 | 64 | [A Shot in the Arm](https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 4:19 |
-| 65 | [Yup](https://open.spotify.com/track/5IK86W7G71t6VMuY65smBG) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 4:07 |
-| 66 | [Tiebreaker](https://open.spotify.com/track/63PbZwickD5dgkGxMWhvzi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:59 |
-| 67 | [Everybody Wants to Love You](https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/1XjQUeeHjQCEhOdBCE8Amo) | 2:12 |
+| 65 | [Tiebreaker](https://open.spotify.com/track/63PbZwickD5dgkGxMWhvzi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Every Shade of Blue](https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB) | 3:59 |
+| 66 | [Everybody Wants to Love You](https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/1XjQUeeHjQCEhOdBCE8Amo) | 2:12 |
+| 67 | [Yup](https://open.spotify.com/track/5IK86W7G71t6VMuY65smBG) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 4:07 |
 | 68 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 |
 | 69 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 |
 | 70 | [From Eden](https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/4xwoKbj6nNiytuTZqyBGJm) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 74 | [No Cameras](https://open.spotify.com/track/3gIXEyoSDbkMxI5bnltLjq) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 2:47 |
 | 75 | [Not High On Drugz](https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Not High On Drugz](https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF) | 4:12 |
 
-Snapshot ID: `AAAAAH4zxtkP1ivvbsXEMytE3aREKvD1`
+Snapshot ID: `AAAAABSx7eGaAmZVkUSPmiDkmloXO7G0`

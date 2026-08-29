@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Lauren Juzang Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,266 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,273 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [ENERGIZE](https://open.spotify.com/track/4MoVBueX7lnIM9J3ofVbDN) | [JEWELS](https://open.spotify.com/artist/5mZVXygvfxdhGnS7LdsLCd) | [ENERGIZE](https://open.spotify.com/album/2Ctn1Tn0ZXePLhcvrRXJb4) | 2:48 |
 | 75 | [NÉGATIF](https://open.spotify.com/track/0w6Vy1gKQEAEnRYuEngGmM) | [Teyma](https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h) | [NÉGATIF](https://open.spotify.com/album/2pQJ2UhdgpAWjOytKXNkQi) | 2:19 |
 
-Snapshot ID: `AAAAAKoRJWYz02Aqp/pY1BnQCvQSQpyr`
+Snapshot ID: `AAAAAGGmUbqx6W5nHUH/4HW2M2azXSoQ`

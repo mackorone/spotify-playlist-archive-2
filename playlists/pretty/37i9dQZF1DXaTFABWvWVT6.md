@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,027 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,041 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 31 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
 | 32 | [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 |
 | 33 | [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 |
-| 34 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
-| 35 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
+| 34 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
+| 35 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
 | 36 | [Out of My Mind](https://open.spotify.com/track/2FFwFlkKjKBSCdVpPf38Gj) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/7ESPqDltGcBM5c01aH1prU) | 3:24 |
 | 37 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
 | 38 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:51 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 68 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
 | 69 | [Boujee](https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Boujee](https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ) | 2:32 |
 | 70 | [Pumpin \- Robbie Doherty Remix](https://open.spotify.com/track/5UHWWKPPfPhMnq2qub3Fwh) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Pumpin \(Robbie Doherty Remix\)](https://open.spotify.com/album/0pwEhzuMwkadGXLd7ZFEeK) | 5:30 |
-| 71 | [Finder \- Radio\-Edit](https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 3:26 |
-| 72 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
+| 71 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
+| 72 | [Finder \- Radio\-Edit](https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 3:26 |
 | 73 | [U KNOW](https://open.spotify.com/track/2zD75uKSkgolgsBO2psrXE) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [U KNOW](https://open.spotify.com/album/2Vmyoa5jGWkEifaI3zsKOB) | 3:42 |
 | 74 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
 | 75 | [Don’t Forget My Love](https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/2Lm2otWdTB4ChDfvbRXHIu) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 79 | [Holding You Back](https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH) | [Vivace](https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt), [Gusta](https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS), [K.ONE](https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt) | [Holding You Back](https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT) | 4:24 |
 | 80 | [Get Buck](https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Get Buck](https://open.spotify.com/album/58iK0WSHT8zzXQxkRiC5Bl) | 2:30 |
 
-Snapshot ID: `AAAAAHFdx/GFyfeqLPgDxhGNGcoMv1hm`
+Snapshot ID: `AAAAANUYU8EF/Kly2kW+vhw+ffcJEj3r`

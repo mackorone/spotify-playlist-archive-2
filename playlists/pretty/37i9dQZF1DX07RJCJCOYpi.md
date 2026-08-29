@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: DannyLux, Ckdageneral
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,748,102 likes - 101 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,747,817 likes - 101 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 100 | [/Tramadol](https://open.spotify.com/track/4YPkc6Jb9Oh0SIylROVNOa) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 2:05 |
 | 101 | [bebe](https://open.spotify.com/track/73YCfe06Hq68MmS5GFIf0m) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX) | [bebe](https://open.spotify.com/album/5TMjQ1nkCdafJ2KXxSLOKj) | 2:24 |
 
-Snapshot ID: `AAAAAIbD4mkLs5x2PIuZnTODTicQaZTM`
+Snapshot ID: `AAAAAGq3Icr/SpeHytUNkW+bFiTF8xef`

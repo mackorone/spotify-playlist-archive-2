@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20307,
+  "num_followers": 20309,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABpKOzV6CX4pU0nvY8iu+At",
+  "snapshot_id": "ao9+AAAAAABjh7GY9iXOxzEqPRvtAMHg",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "? (Deluxe)",
-        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+        "name": "8 FEET TALL (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/6ezm2DsMmRkgrz4VUdGMgl"
       },
       "artists": [
         {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "ERISTHEPLANET",
+          "url": "https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3"
         },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 157293,
-      "name": "#PROUDCATOWNERREMIX",
-      "url": "https://open.spotify.com/track/7lNNRVIMZZ4dNSgwT28aWK"
+      "duration_ms": 114400,
+      "name": "8 FEET TALL (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/3RnrYvR5yQah7DirzrmORC"
     },
     {
       "added_at": null,
@@ -399,6 +399,42 @@
       "duration_ms": 159200,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/0AvmWUrj07p6VNfyiWShch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/5sQcdmPjZvmsVA3uFZAqC5"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/2QXB9GugNcZqXrDXYowISU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "? (Deluxe)",
+        "url": "https://open.spotify.com/album/2c6s84YTwR9cfncPmB9fNW"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "#PROUDCATOWNERREMIX",
+      "url": "https://open.spotify.com/track/7lNNRVIMZZ4dNSgwT28aWK"
     },
     {
       "added_at": null,
@@ -423,38 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/5sQcdmPjZvmsVA3uFZAqC5"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/2QXB9GugNcZqXrDXYowISU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RX",
         "url": "https://open.spotify.com/album/5j2EAjv7w54NxKUTGdzYhE"
       },
@@ -471,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "8 FEET TALL (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/6ezm2DsMmRkgrz4VUdGMgl"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
       },
       "artists": [
-        {
-          "name": "ERISTHEPLANET",
-          "url": "https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3"
-        },
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 114400,
-      "name": "8 FEET TALL (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/3RnrYvR5yQah7DirzrmORC"
+      "duration_ms": 140571,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/0d3pSVPhCfuzAJLyMUZYjT"
     },
     {
       "added_at": null,
@@ -769,7 +769,7 @@
         },
         {
           "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
         },
         {
           "name": "Baauer",

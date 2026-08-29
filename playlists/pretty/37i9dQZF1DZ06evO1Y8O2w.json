@@ -1,12 +1,12 @@
 {
   "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
-  "num_followers": 8412,
+  "num_followers": 8413,
   "original_name": "This Is Phyllis Hyman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACVW2PZpIKfXPtUY3vmkkxf",
+  "snapshot_id": "ao9+AAAAAACSnJ68rKJGgMMAtVycKNVy",
   "tracks": [
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Refuse To Be Lonely",
-        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
+        "name": "Somewhere In My Lifetime (Expanded)",
+        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 339666,
-      "name": "I'm Truly Yours",
-      "url": "https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML"
+      "duration_ms": 256786,
+      "name": "Be Careful (How You Treat My Love)",
+      "url": "https://open.spotify.com/track/5HZBeOoFFy9yO5mzq6fgeK"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded)",
-        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 256786,
-      "name": "Be Careful (How You Treat My Love)",
-      "url": "https://open.spotify.com/track/5HZBeOoFFy9yO5mzq6fgeK"
+      "duration_ms": 339666,
+      "name": "I'm Truly Yours",
+      "url": "https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't We Fall In Love Again (Expanded Edition)",
+        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 242320,
+      "name": "I Ain't Asking",
+      "url": "https://open.spotify.com/track/4T5FdL1wOaydngJjPLHyBb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Refuse To Be Lonely",
         "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 231413,
       "name": "Baby (I'm Gonna Love You) - 7\" Version",
       "url": "https://open.spotify.com/track/5TnLtfz0X6Z1Sou7UiJrWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "I Ain't Asking",
-      "url": "https://open.spotify.com/track/4T5FdL1wOaydngJjPLHyBb"
     },
     {
       "added_at": null,
@@ -535,38 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Refuse To Be Lonely",
-        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 280560,
-      "name": "Why Not Me",
-      "url": "https://open.spotify.com/track/6rJ7eWJdusD4mgwMCHWMUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Slow Dancin'",
-      "url": "https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't We Fall In Love Again (Expanded Edition)",
         "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
       },
@@ -583,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 280560,
+      "name": "Why Not Me",
+      "url": "https://open.spotify.com/track/6rJ7eWJdusD4mgwMCHWMUc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somewhere In My Lifetime (Expanded)",
         "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 374693,
       "name": "Living Inside Your Love",
       "url": "https://open.spotify.com/track/1phsrcc05RCH8unS2gtJk9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Slow Dancin'",
+      "url": "https://open.spotify.com/track/6LEF5au3B4MgVoeQTDE3tZ"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 250826,
-      "name": "Waiting For The Last Tear To Fall",
-      "url": "https://open.spotify.com/track/5KRXfGjx3lJnP2dvqu63xJ"
+      "duration_ms": 313253,
+      "name": "Give Me One Good Reason To Stay",
+      "url": "https://open.spotify.com/track/5XRZsDzYzhxqsavBz2AghS"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phyllis Hyman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
+        "name": "Forever with You",
+        "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 450306,
-      "name": "Loving You - Losing You",
-      "url": "https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT"
+      "duration_ms": 260093,
+      "name": "Forever with You",
+      "url": "https://open.spotify.com/track/4YQLkLUyEro4Xeh9EGSNoX"
     },
     {
       "added_at": null,
@@ -776,15 +776,15 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 313253,
-      "name": "Give Me One Good Reason To Stay",
-      "url": "https://open.spotify.com/track/5XRZsDzYzhxqsavBz2AghS"
+      "duration_ms": 250826,
+      "name": "Waiting For The Last Tear To Fall",
+      "url": "https://open.spotify.com/track/5KRXfGjx3lJnP2dvqu63xJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Forever with You",
-        "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
+        "name": "Phyllis Hyman (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 260093,
-      "name": "Forever with You",
-      "url": "https://open.spotify.com/track/4YQLkLUyEro4Xeh9EGSNoX"
+      "duration_ms": 450306,
+      "name": "Loving You - Losing You",
+      "url": "https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT"
     },
     {
       "added_at": null,

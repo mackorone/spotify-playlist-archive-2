@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,160 likes - 120 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,224 likes - 120 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 110 | [Don't Say](https://open.spotify.com/track/7B4QZy1BktlY4svxAZtow2) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Don't Say EP](https://open.spotify.com/album/6PvlkxvNqNTvLTN8bk0M5G) | 2:45 |
 | 111 | [Into My Life \(feat\. Joyce Sims\)](https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg), [Joyce Sims](https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ) | [Into My Life \(feat\. Joyce Sims\)](https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7) | 2:11 |
 | 112 | [Front, Left](https://open.spotify.com/track/7IP9P1jnYnvEBa2FcEDDSd) | [Secret Floor](https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm) | [Front, Left](https://open.spotify.com/album/4VtJjZ6t72YVSOWcS0KYBq) | 2:22 |
-| 113 | [Look Good \(Franky Rizardo Remix\)](https://open.spotify.com/track/5k6H7X2I9CumI73lMbGKkE) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Look Good \(Franky Rizardo Remix\)](https://open.spotify.com/album/6XfHtKHNBN3rdnu51UxUeN) | 3:10 |
+| 113 | [Look Good \- Franky Rizardo Remix](https://open.spotify.com/track/5k6H7X2I9CumI73lMbGKkE) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Look Good \(Franky Rizardo Remix\)](https://open.spotify.com/album/6XfHtKHNBN3rdnu51UxUeN) | 3:10 |
 | 114 | [House Is Gettin' Raw](https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [House Is Gettin' Raw](https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR) | 2:58 |
 | 115 | [On A Wave](https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [On A Wave](https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK) | 3:19 |
 | 116 | [True Light](https://open.spotify.com/track/5uHkLz3h7DdvU0h1qI8HqX) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [True Light EP](https://open.spotify.com/album/4qx6nYgRoL12kNReItQqQ0) | 3:04 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 119 | [Touched](https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Touched EP](https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu) | 4:02 |
 | 120 | [The Way I Are \- Max Dean Remix](https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix\)](https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj) | 3:03 |
 
-Snapshot ID: `AAAAAElmWoENw9TWwZ7Oz+/MUAMCeOWa`
+Snapshot ID: `AAAAAEM06ig73/nQcUQCRxiZB2GtWr8H`

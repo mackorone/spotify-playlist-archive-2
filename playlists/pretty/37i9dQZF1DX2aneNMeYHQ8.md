@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, indie rock, and folk sprinkled into this sonic melting pot\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,941 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,908 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 80 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
 | 81 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 |
 | 82 | [When We Were Close](https://open.spotify.com/track/4QsXlCYFMNpVUzSR9UwWup) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:57 |
-| 83 | [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 |
-| 84 | [Tanana](https://open.spotify.com/track/2eTPYfu84D0msm8ibxZ1La) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 3:19 |
+| 83 | [Tanana](https://open.spotify.com/track/2eTPYfu84D0msm8ibxZ1La) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 3:19 |
+| 84 | [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 |
 | 85 | [Lonely Cowboy](https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 4:53 |
 | 86 | [Television Love](https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Television Love](https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0) | 4:40 |
 | 87 | [Red Rocking Chair](https://open.spotify.com/track/1u13aCgd6aurUwkuUu4vR3) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Red Rocking Chair](https://open.spotify.com/album/5UXoHjimRykqta25wy8w2B) | 6:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 99 | [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 |
 | 100 | [This Time For Real](https://open.spotify.com/track/2LDTkxBmLRr4ENG0kNQLum) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [This Time For Real](https://open.spotify.com/album/4Tv8PFvKfr1Bb4dOZq9b8Z) | 3:12 |
 
-Snapshot ID: `AAAAADl5KeQwllqNNZeIKS3yi0vBt9uF`
+Snapshot ID: `AAAAABgbRuRAcKyLDRi4nI1Ezror8l2M`

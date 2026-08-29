@@ -799,6 +799,44 @@
     },
     {
       "album": {
+        "name": "Badila",
+        "url": "https://open.spotify.com/album/2zmkZI42FY6dAgf6spsfXO"
+      },
+      "artists": [
+        {
+          "name": "Avanti Patel",
+          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
+        },
+        {
+          "name": "Rutuja Lad",
+          "url": "https://open.spotify.com/artist/6dcj7PFzG1ybNHHJyMUS3m"
+        },
+        {
+          "name": "Akshay Jadhav",
+          "url": "https://open.spotify.com/artist/1qvovvgGVEdrhHTLJYsizG"
+        },
+        {
+          "name": "Sandeep Mishra",
+          "url": "https://open.spotify.com/artist/4vjj2jTnfLbFTAyQzX6sjO"
+        },
+        {
+          "name": "Nusrat Apoorv",
+          "url": "https://open.spotify.com/artist/3AA6aNLg3R7Yj98JjpZg6b"
+        },
+        {
+          "name": "Joy Sengupta",
+          "url": "https://open.spotify.com/artist/2w5FAQc2JWciNPGhsTBf4B"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518010,
+      "name": "Badila",
+      "url": "https://open.spotify.com/track/14tR6AnKR90VAahdfIYf9F"
+    },
+    {
+      "album": {
         "name": "Badra Chhaaye",
         "url": "https://open.spotify.com/album/5BBUAzMYyJIGiqMgVZa7AX"
       },
@@ -3610,7 +3648,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 145185,
       "name": "Kaari",
       "url": "https://open.spotify.com/track/3IZHUKvcOxLve5IDFoT8KX"
@@ -6142,7 +6180,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 215348,
       "name": "O Sajana Barkha Bahar",
       "url": "https://open.spotify.com/track/2uOiaNaETsfYGnJbesEAYp"
@@ -8712,7 +8750,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 136500,
       "name": "Shyam Murari",
       "url": "https://open.spotify.com/track/2ZDsXQFwnskLZCRjd3mZ2M"

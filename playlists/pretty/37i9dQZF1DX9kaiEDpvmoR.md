@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,822 likes - 89 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,834 likes - 89 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,25 +61,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 51 | [Rädda Liv](https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Rädda Liv](https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj) | 3:47 |
 | 52 | [Good Time Is Coming](https://open.spotify.com/track/2slo0Qu8x9aVvSnVr5MxUn) | [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Good Time Is Coming](https://open.spotify.com/album/56EkXkFIPNX0P9hXwTv0Uu) | 3:20 |
 | 53 | [Musiken som hörs från Rival](https://open.spotify.com/track/0799iI2UqqtWpf2TUjR8aM) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Revalution Club](https://open.spotify.com/album/6VrlawQweOnhs94WOGWl4D) | 4:29 |
-| 54 | [Glasshouse](https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [jaywalking](https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x) | 2:50 |
-| 55 | [What Love Is](https://open.spotify.com/track/6nliQtmwAzeEXnynfX6TNf) | [Sanna Nielsen](https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK) | [What Love Is](https://open.spotify.com/album/3iKB1YRZqrO6YVeEnNGaAm) | 3:08 |
+| 54 | [What Love Is](https://open.spotify.com/track/6nliQtmwAzeEXnynfX6TNf) | [Sanna Nielsen](https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK) | [What Love Is](https://open.spotify.com/album/3iKB1YRZqrO6YVeEnNGaAm) | 3:08 |
+| 55 | [Glasshouse](https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [jaywalking](https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x) | 2:50 |
 | 56 | [Ingen plockar en maskros](https://open.spotify.com/track/55kyGw7WmOpInVrabROr68) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Ingen plockar en maskros](https://open.spotify.com/album/6UIco02LG96PWIO8KnsdMC) | 3:43 |
 | 57 | [Can't Frame the Moonlight](https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Can't Frame the Moonlight](https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP) | 3:25 |
 | 58 | [Världen kommer snurra ändå](https://open.spotify.com/track/03XQ0RP1cqrLxvWnyZlofm) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Världen kommer snurra ändå](https://open.spotify.com/album/7EGa3jUVRkRjDBLthx6omG) | 2:49 |
-| 59 | [Ingenting är efter oss](https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Ingenting är efter oss](https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ) | 3:01 |
-| 60 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 |
+| 59 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 |
+| 60 | [Ingenting är efter oss](https://open.spotify.com/track/690MIMKpAyUshTiusrgrmn) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP) | [Ingenting är efter oss](https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ) | 3:01 |
 | 61 | [Magkänsla](https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Jag Är](https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB) | 3:03 |
 | 62 | [Det jag såg i din spegel såg inte ut som mig](https://open.spotify.com/track/1iVmZTfxHv6hRDaGamR52T) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Det jag såg i din spegel såg inte ut som mig](https://open.spotify.com/album/6PDWwnqJ0eygYguIyFBGUv) | 3:23 |
 | 63 | [Okie From Muskogee](https://open.spotify.com/track/4Z9ToMQNS4J2MPIQgmItMU) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Sommarkort](https://open.spotify.com/album/7qWuV2Fbd7Lsg11p49gZvM) | 3:14 |
 | 64 | [Heaven Is a Place on Earth](https://open.spotify.com/track/443kWGstgFfJM2x1LcBGUg) | [Sanna Nielsen](https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK) | [Heaven Is a Place on Earth](https://open.spotify.com/album/4GkrL5O3cTCsp9aTk0j288) | 3:03 |
-| 65 | [Stronger Than](https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Stronger Than](https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo) | 3:08 |
-| 66 | [Carla & John](https://open.spotify.com/track/0liHZbo8PPNsJbjpAw1ZtD) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Carla & John](https://open.spotify.com/album/7xhNZOPdc0XNszfnbUE111) | 3:57 |
+| 65 | [Carla & John](https://open.spotify.com/track/0liHZbo8PPNsJbjpAw1ZtD) | [Tomas Andersson Wij](https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL) | [Carla & John](https://open.spotify.com/album/7xhNZOPdc0XNszfnbUE111) | 3:57 |
+| 66 | [Stronger Than](https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [Stronger Than](https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo) | 3:08 |
 | 67 | [Bra ändå](https://open.spotify.com/track/1N49b6uPQ4xAT6mpYzvPRR) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Bra ändå](https://open.spotify.com/album/1d6k2tcmRdom4CSnZcmJHA) | 4:34 |
 | 68 | [Everything's wasted](https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Everything's wasted](https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA) | 4:22 |
 | 69 | [By and By](https://open.spotify.com/track/5JZ07LF0eSj9rgmGNlrLjl) | [The Magnolia](https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb) | [By and By](https://open.spotify.com/album/3BSJ4y4c2ktgyM9vqqMdDZ) | 3:28 |
 | 70 | [RANSOMS](https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [RANSOMS](https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7) | 3:03 |
-| 71 | [Över](https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Över](https://open.spotify.com/album/6Rj381d50c8zjs37wts189) | 3:49 |
-| 72 | [Där huden är tunnast](https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Människobarn](https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC) | 3:20 |
+| 71 | [Där huden är tunnast](https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Människobarn](https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC) | 3:20 |
+| 72 | [Över](https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Över](https://open.spotify.com/album/6Rj381d50c8zjs37wts189) | 3:49 |
 | 73 | [You](https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [You](https://open.spotify.com/album/2n1wJFqBY1KUprIEKnD0tt) | 4:48 |
 | 74 | [Oxygen](https://open.spotify.com/track/7jU2y3rilGzbkxbeonPNjN) | [Laila Adèle](https://open.spotify.com/artist/10UHmKyfLXudqVHU9PnHEZ) | [Oxygen](https://open.spotify.com/album/7FJV7QgehZXTArpuReQruq) | 3:05 |
 | 75 | [If I Ever Lose My Temper](https://open.spotify.com/track/0xzmVwoAyRBVU6wOctHLcd) | [The Ark](https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4) | [If I Ever Lose My Temper](https://open.spotify.com/album/6WgxseURmKuRAb9YiOh4mv) | 3:34 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 77 | [Blindgångare](https://open.spotify.com/track/100mfCn33NMGrzd2L7Tr5L) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Blindgångare / Du är vid liv](https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV) | 3:54 |
 | 78 | [Losin' Kind \- Nebraska Outtakes](https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska '82: Expanded Edition](https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM) | 5:00 |
 | 79 | [Rök i dina ögon](https://open.spotify.com/track/4JnyGZxCIbMJKQ60u7qYor) | [bob hund](https://open.spotify.com/artist/6OZxE19iim1JKvCA3GmCVx), [Esther](https://open.spotify.com/artist/3POjAYvvEzzCFAWm4uHEza), [Popkollo](https://open.spotify.com/artist/75jgHQJb9Jr9pF60lfXmQL) | [Rök i dina ögon](https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6) | 5:33 |
-| 80 | [All The Things That I Am](https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula](https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ) | 2:46 |
-| 81 | [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 |
+| 80 | [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 |
+| 81 | [All The Things That I Am](https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula](https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ) | 2:46 |
 | 82 | [Bipolar Crack](https://open.spotify.com/track/2oMvt1MKq8zgeq57Uf9CL7) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [Deabolo Hypomania](https://open.spotify.com/album/05CloJ3lVo4wMkn4A2jrgo) | 3:12 |
 | 83 | [Another Kingdom Is Gone \(Kleerup Rework\)](https://open.spotify.com/track/7ECipYFXDXGYOHC18SRZRC) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Another Kingdom Is Gone \(Kleerup Rework\)](https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C) | 3:35 |
 | 84 | [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 88 | [I Rock My Country](https://open.spotify.com/track/1g3MRa2pi0mN1yL3JAxNw6) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [I Rock My Country](https://open.spotify.com/album/4aHUnJh7sh0vUyblNTgZkf) | 3:16 |
 | 89 | [Prinsessa](https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY) | [Naomi Wiehe](https://open.spotify.com/artist/1ynawIBfmB26A6kkqkBxQ2) | [Prinsessa](https://open.spotify.com/album/4GumTSRgywolC98wanKLun) | 4:01 |
 
-Snapshot ID: `AAAAAKpfIA93AVhtfRZXNCYFvVFkkNms`
+Snapshot ID: `AAAAAEzxmknVQU33Zb3RYPVAlcg+cSeM`

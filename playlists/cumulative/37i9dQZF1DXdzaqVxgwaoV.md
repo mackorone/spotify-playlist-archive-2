@@ -4,7 +4,7 @@
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-427 songs - 1 day 1 hr 35 min
+428 songs - 1 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 | 2023-02-03 |  |
 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 | 2023-11-09 | 2026-02-24 |
 | [La Verraquera](https://open.spotify.com/track/1JesvLqnsuoB0JD9bv8SxT) | [Octavio Mesa Y Su Conjunto](https://open.spotify.com/artist/3npi4RWuNZl4jhe3z5qwVr) | [Relajos del Arriero](https://open.spotify.com/album/1QFSyof19J29lXMJObKPeB) | 2:14 | 2026-05-29 | 2026-08-25 |
+| [La Vida Es un Rato](https://open.spotify.com/track/5ii5hAjFTdDBIm9TPL9UiU) | [Dueto Revelación](https://open.spotify.com/artist/5zlNQCp9rroUbjPEWRznFW) | [La Bohemia Popular](https://open.spotify.com/album/63q9tqt6o9nMgBqyRNOOp9) | 3:43 | 2026-02-23 |  |
 | [La Yerbita](https://open.spotify.com/track/5pGhOX0wMnLlTNt24lSQmW) | [Los Corraleros del Majagual](https://open.spotify.com/artist/1LwOYG7BXK00xst0F5LrGn) | [2 Estilos Colombianos](https://open.spotify.com/album/1itueHqAKtSBJAcGbvV0sO) | 2:48 | 2025-09-09 | 2025-10-04 |
 | [La Zenaida](https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:28 | 2024-09-01 | 2025-10-04 |
 | [La Última Copa](https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Ídolo del Pueblo](https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE) | 2:34 | 2023-12-20 | 2025-11-03 |
@@ -391,7 +392,7 @@
 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 | 2023-11-09 | 2024-04-19 |
 | [Sólo un Cigarro](https://open.spotify.com/track/3QtQxRDlhjuN2fzL28c3YF) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos: Pastor López, Vol\. 1](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 2:49 | 2023-02-03 | 2026-05-23 |
 | [Sólo un Cigarro](https://open.spotify.com/track/6wO9BHGLaW8Zv3lgXdVlim) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 2:49 | 2024-09-01 | 2024-10-07 |
-| [Tabaco y Ron](https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 4:02 | 2023-02-03 |  |
+| [Tabaco y Ron](https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 4:02 | 2023-02-03 | 2026-08-29 |
 | [Tabaco y Ron](https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable \- 16 Exitos](https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8) | 4:04 | 2025-09-09 | 2025-10-04 |
 | [Tabaco y ron](https://open.spotify.com/track/4Wo82fEZenBEqL4dpn6Bqt) | [Rodolfo y su Típica RA7](https://open.spotify.com/artist/2cHxxmqUJnm5Rc4FqqU1Hy) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:05 | 2023-12-20 | 2024-08-28 |
 | [Tal Para Cual \- de la serie Medusa, de Netflix](https://open.spotify.com/track/5jAvZlrknZT8rZlMVUsKvL) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:36 | 2026-05-29 | 2026-08-25 |

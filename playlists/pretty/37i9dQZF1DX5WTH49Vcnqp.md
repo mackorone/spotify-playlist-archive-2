@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,159 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,100 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [My Best Friend](https://open.spotify.com/track/3Vk3eZgCp9L4LlVBk8U0Qd) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [My Best Friend](https://open.spotify.com/album/0fVdj6w8YyTsoAqyxr3zWc) | 2:34 |
 | 75 | [Malvern Star](https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E) | [Scratching](https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn) | [Malvern Star](https://open.spotify.com/album/2cRbGWbAjXKeGXnlCp1Ewf) | 3:31 |
 
-Snapshot ID: `AAAAAFYe7b5sdfCi8t27gCvfmAlJ/5ml`
+Snapshot ID: `AAAAAFvl2aOR1UI6o1DWo7MGA47wgWhh`

@@ -1,12 +1,12 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 391707,
+  "num_followers": 391716,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOIDSPCyBv5XYB6QIF5PyR2L8IVK",
+  "snapshot_id": "AAAAACsuX4u3wxxV50hnBx/rT7CP4jmv",
   "tracks": [
     {
       "added_at": "2026-06-26 15:38:11",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-06-26 15:38:11",
       "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Magia Veneno",
+      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
+    },
+    {
+      "added_at": "2026-06-26 15:38:11",
+      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2026-06-26 15:38:11",
-      "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Magia Veneno",
-      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
     },
     {
       "added_at": "2026-06-26 15:38:11",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,292 songs - 2 day 23 hr 34 min
+1,293 songs - 2 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 | 2022-07-12 |
 | [I Know](https://open.spotify.com/track/0HTUlHM6UBjuMFWlCGLXjg) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [I Know](https://open.spotify.com/album/0Vfyo3iWYetuk51mZoo9nj) | 3:26 | 2025-01-14 | 2025-04-11 |
 | [I Love You](https://open.spotify.com/track/4HPbP9zVWY7f0Ji5Y6cL6y) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Harvey](https://open.spotify.com/artist/4p5OJUjMqi3l98prXVbGC9) | [I Love You](https://open.spotify.com/album/4mk78tvVOFI787pk2SsYMs) | 3:02 | 2022-09-16 | 2022-11-15 |
+| [I Need](https://open.spotify.com/track/7xCNiQp9kNdBjo8SYllMtc) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [I Need](https://open.spotify.com/album/1vljf6DgdCNGRX3GZz5Rul) | 3:09 | 2026-08-28 |  |
 | [I See](https://open.spotify.com/track/28W88vK7c1nKjAUPik9jPc) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [I See / Take Me Away](https://open.spotify.com/album/7nVd2JRTaWtYDv8dSsNF3H) | 3:16 | 2025-08-14 | 2025-11-07 |
 | [I Walk This Earth All By Myself](https://open.spotify.com/track/0yjG7B98B9AtigGIbjIG8g) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [I Walk This Earth All By Myself](https://open.spotify.com/album/1cBQtXJCMyMK5fTLt9jdSo) | 4:31 | 2023-07-14 | 2023-12-14 |
 | [I'll Be There](https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be There](https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d) | 2:30 | 2023-04-26 | 2023-07-22 |

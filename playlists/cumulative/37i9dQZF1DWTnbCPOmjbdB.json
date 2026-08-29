@@ -7850,10 +7850,28 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 169008,
       "name": "LOT",
       "url": "https://open.spotify.com/track/0A9VVbdNzuSBsBm2XoQEEr"
+    },
+    {
+      "album": {
+        "name": "LOT",
+        "url": "https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169008,
+      "name": "LOT",
+      "url": "https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9"
     },
     {
       "album": {

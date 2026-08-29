@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Ahead By A Century (Live July 22 - August 20, 2016)",
+        "url": "https://open.spotify.com/album/3ArppNtTxIGWQrdcc0lq0i"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431126,
+      "name": "Ahead By A Century - Live July 22 - August 20, 2016",
+      "url": "https://open.spotify.com/track/51nPNBWBfConxNUyGYplu2"
+    },
+    {
+      "album": {
         "name": "Ain't No Mountain High Enough (with Vandelux)",
         "url": "https://open.spotify.com/album/2ibL3fvFm8L57sfyDfgfb1"
       },
@@ -1668,6 +1686,24 @@
       "duration_ms": 246173,
       "name": "Dashboard",
       "url": "https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh"
+    },
+    {
+      "album": {
+        "name": "Day Tripper (Songwriting Work Tape)",
+        "url": "https://open.spotify.com/album/0tg8bWIXHgk8XL6arW9Y2v"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139373,
+      "name": "Day Tripper (Songwriting Work Tape)",
+      "url": "https://open.spotify.com/track/5bEuCG8Ih4tOIfMNO3enQo"
     },
     {
       "album": {
@@ -3735,6 +3771,28 @@
     },
     {
       "album": {
+        "name": "Hungry Freaks, Daddy / I'm Not Satisfied",
+        "url": "https://open.spotify.com/album/4ocLdMMH1X9cvdhsOmjYir"
+      },
+      "artists": [
+        {
+          "name": "The Mothers Of Invention",
+          "url": "https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL"
+        },
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160554,
+      "name": "I'm Not Satisfied - Mothers Demo",
+      "url": "https://open.spotify.com/track/1JJnVszujXm5yGxD1Zi7LU"
+    },
+    {
+      "album": {
         "name": "Christmas in the City",
         "url": "https://open.spotify.com/album/7xaP8xn3tGJYPg3xwcbe9s"
       },
@@ -4824,6 +4882,24 @@
       "duration_ms": 214053,
       "name": "Make It All Right",
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4f2eRJXelRGjIu5i7Ow7Hz"
+      },
+      "artists": [
+        {
+          "name": "Mike D",
+          "url": "https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175508,
+      "name": "Make It Stop",
+      "url": "https://open.spotify.com/track/1sXirPJQhjgo6BR0bPjAiv"
     },
     {
       "album": {
@@ -7375,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "Tears Dry (Alternative Demo)",
+        "url": "https://open.spotify.com/album/2XLVwZTZT8hH49dRe5iqqE"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279826,
+      "name": "Tears Dry - Alternative Demo",
+      "url": "https://open.spotify.com/track/3kg2U7CeWSC9hvqetJfuFS"
+    },
+    {
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -7956,6 +8050,24 @@
       "duration_ms": 216205,
       "name": "Train Kept A Rollin' - Session Take",
       "url": "https://open.spotify.com/track/4hMkM62LFczYVUkZPa26Yh"
+    },
+    {
+      "album": {
+        "name": "Live At The Roxy - The Complete Concert",
+        "url": "https://open.spotify.com/album/4N3FRWAVeD4mWSgIpitOVw"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295733,
+      "name": "Trenchtown Rock - Live At The Roxy Theatre",
+      "url": "https://open.spotify.com/track/6AN6ciH6HnEc9DviPYabny"
     },
     {
       "album": {

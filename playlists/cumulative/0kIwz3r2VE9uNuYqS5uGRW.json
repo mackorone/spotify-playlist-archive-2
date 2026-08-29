@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "All the Days",
+        "url": "https://open.spotify.com/album/0Y08f2d57uXxG4dj1zIzHf"
+      },
+      "artists": [
+        {
+          "name": "Tanya Winch",
+          "url": "https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308167,
+      "name": "All the Days",
+      "url": "https://open.spotify.com/track/1JKMMx5g3ShrVa0R7vjdqU"
+    },
+    {
+      "album": {
         "name": "Aloha Vibes",
         "url": "https://open.spotify.com/album/3jWHak3tyL2LF3tdozpmrF"
       },

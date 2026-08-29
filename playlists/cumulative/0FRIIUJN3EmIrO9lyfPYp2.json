@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#5469",
+        "url": "https://open.spotify.com/album/1UexlsVB0fs6W0tlzzRmaS"
+      },
+      "artists": [
+        {
+          "name": "d2s1",
+          "url": "https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101959,
+      "name": "#5469",
+      "url": "https://open.spotify.com/track/7M2xRY5HmAFpHo80IOSjWI"
+    },
+    {
+      "album": {
         "name": "#_@ i cant help myself..",
         "url": "https://open.spotify.com/album/5Sa5M7xUUbsZRO7ciZCmgq"
       },
@@ -732,6 +750,28 @@
       "duration_ms": 100909,
       "name": "after the rain",
       "url": "https://open.spotify.com/track/7L6ba2F67J4rmQuPW6bFBe"
+    },
+    {
+      "album": {
+        "name": "after the warmth (forlorn remix)",
+        "url": "https://open.spotify.com/album/7bZyZbWicbV01BNmHHqqo8"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        },
+        {
+          "name": "forlorn",
+          "url": "https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238206,
+      "name": "after the warmth (forlorn remix)",
+      "url": "https://open.spotify.com/track/7tyj0K5wWWXMEqDUiho5mY"
     },
     {
       "album": {
@@ -4034,6 +4074,28 @@
       "duration_ms": 161684,
       "name": "digital death",
       "url": "https://open.spotify.com/track/5sZ86B93QJWAwmtrG37DIS"
+    },
+    {
+      "album": {
+        "name": "digital tapeloop",
+        "url": "https://open.spotify.com/album/3VRB8yFoDqHTXcHp1hQI0b"
+      },
+      "artists": [
+        {
+          "name": "statika",
+          "url": "https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107571,
+      "name": "digital tapeloop",
+      "url": "https://open.spotify.com/track/1zpJOi9DDydjRxeICeWr76"
     },
     {
       "album": {
@@ -7851,6 +7913,24 @@
     },
     {
       "album": {
+        "name": "Hide CS01 (Ambient Rework)",
+        "url": "https://open.spotify.com/album/4JGubmce3ab3V7QBdAGRIF"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "Hide CS01 (Ambient Rework)",
+      "url": "https://open.spotify.com/track/7AG34rYXm9gdj4s0Ebxjl5"
+    },
+    {
+      "album": {
         "name": "hiding",
         "url": "https://open.spotify.com/album/1bIkexJJhcGlVqhSRfhMUL"
       },
@@ -8352,6 +8432,24 @@
       "duration_ms": 154630,
       "name": "I can't describe what I'm feeling",
       "url": "https://open.spotify.com/track/1M2Z7ep60m90tPUhbbLQPp"
+    },
+    {
+      "album": {
+        "name": "i can't remember the last time i felt like this",
+        "url": "https://open.spotify.com/album/0pZHEoXIqaYFGVd8tjLeLL"
+      },
+      "artists": [
+        {
+          "name": "remind me",
+          "url": "https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "i can't remember the last time i felt like this",
+      "url": "https://open.spotify.com/track/0QBE7Aje71w9udKG0v3rBm"
     },
     {
       "album": {
@@ -14679,6 +14777,24 @@
     },
     {
       "album": {
+        "name": "show you off",
+        "url": "https://open.spotify.com/album/33Y0sPvZrAMwZeUdXTpkzH"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "show you off",
+      "url": "https://open.spotify.com/track/2tuDM76L4ZElWSa95fwDg4"
+    },
+    {
+      "album": {
         "name": "silence",
         "url": "https://open.spotify.com/album/1iRD1DJzPv8CQd3v6SD23M"
       },
@@ -17423,6 +17539,24 @@
     },
     {
       "album": {
+        "name": "vanish (slowed)",
+        "url": "https://open.spotify.com/album/2SlttnQd8CZbgdB0iGIP8J"
+      },
+      "artists": [
+        {
+          "name": "SilentWoods",
+          "url": "https://open.spotify.com/artist/0eL9roG367Vh9MthL18TmR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180532,
+      "name": "vanish (slowed)",
+      "url": "https://open.spotify.com/track/0LzZJHnDKieKLzYFglhUNF"
+    },
+    {
+      "album": {
         "name": "vanishing still",
         "url": "https://open.spotify.com/album/34n8SIuzMVhmwuWa5ARH8l"
       },
@@ -18170,6 +18304,24 @@
       "duration_ms": 93846,
       "name": "what we had is now gone",
       "url": "https://open.spotify.com/track/1apJFSuuUkYsKgrQknSMtW"
+    },
+    {
+      "album": {
+        "name": "when everything slows down",
+        "url": "https://open.spotify.com/album/7IIlm6uUU3pNy2f4jxfcX5"
+      },
+      "artists": [
+        {
+          "name": "fade gently",
+          "url": "https://open.spotify.com/artist/535wS1IPD0eFBFvNSfldcC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142513,
+      "name": "when everything slows down",
+      "url": "https://open.spotify.com/track/62FkHn7ySwD91yQ2Ehc51Y"
     },
     {
       "album": {

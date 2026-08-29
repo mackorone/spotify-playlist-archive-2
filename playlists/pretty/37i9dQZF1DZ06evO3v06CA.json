@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 205031,
+  "num_followers": 205050,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAVgoqcDeJ3sguAN0wOQXeE",
+  "snapshot_id": "ao9+AAAAAADUzw9mVA9+tjT6bHLN3eY/",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 247239,
-      "name": "Whiskey River",
-      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Willie Nelson - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7IZ5H4tIiVSnbgdoE5OhuG"
       },
@@ -219,34 +203,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live - American Outlaws",
-        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
       "artists": [
         {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 247239,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Winning Hand",
+        "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 198133,
-      "name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
-      "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
+      "duration_ms": 194440,
+      "name": "Everything Is Beautiful (In It's Own Way)",
+      "url": "https://open.spotify.com/track/1SUpa2SswXXQAOfDoVsqf6"
     },
     {
       "added_at": null,
@@ -279,6 +267,38 @@
       "duration_ms": 194460,
       "name": "Silver Stallion",
       "url": "https://open.spotify.com/track/6ivUoajqXRNVIyEGhRkucw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live - American Outlaws",
+        "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+      "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
     },
     {
       "added_at": null,
@@ -411,26 +431,6 @@
       "duration_ms": 134266,
       "name": "Roll Me Up and Smoke Me When I Die - Live",
       "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Winning Hand",
-        "url": "https://open.spotify.com/album/7i6YA87LTeOHJEIZNqd7IM"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Everything Is Beautiful (In It's Own Way)",
-      "url": "https://open.spotify.com/track/1SUpa2SswXXQAOfDoVsqf6"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Smoke",
+        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 242920,
+      "name": "From Here to the Moon and Back",
+      "url": "https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life On A Rock",
         "url": "https://open.spotify.com/album/69A2qjbFkwSfxJgPNquFzx"
       },
@@ -643,22 +663,6 @@
       "duration_ms": 204929,
       "name": "Coconut Tree (with Willie Nelson) (with Willie Nelson)",
       "url": "https://open.spotify.com/track/0VGb5Vy75Hkb5DKBHvuJJg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "Shotgun Willie",
-      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
     },
     {
       "added_at": null,
@@ -723,6 +727,22 @@
       "duration_ms": 305506,
       "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
     },
     {
       "added_at": null,
@@ -815,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 270573,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -855,22 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Smoke",
-        "url": "https://open.spotify.com/album/2fiUzMQdXjZbLj2O3ztcYm"
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 242920,
-      "name": "From Here to the Moon and Back",
-      "url": "https://open.spotify.com/track/7hY7X423koKQtRSCGfpYeJ"
+      "duration_ms": 270573,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
     },
     {
       "added_at": null,
@@ -1007,18 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
       "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 262663,
-      "name": "Georgia On My Mind",
-      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
+      "duration_ms": 183440,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
     },
     {
       "added_at": null,
@@ -1035,6 +1039,22 @@
       "duration_ms": 173001,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 262663,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
     },
     {
       "added_at": null,
@@ -1167,26 +1187,6 @@
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
     },
     {
       "added_at": null,

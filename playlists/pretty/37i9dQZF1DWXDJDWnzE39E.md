@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,361 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,456 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 48 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
 | 49 | [Kundalini](https://open.spotify.com/track/0D3z7YrhFHbdahOjPbtByX) | [Deadlands](https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc), [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [Kundalini](https://open.spotify.com/album/6DkgH5CJarjWJN0JMzKkzm) | 3:34 |
 | 50 | [ICONIC](https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [ICONIC](https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf) | 3:26 |
-| 51 | [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 |
-| 52 | [Ipecac](https://open.spotify.com/track/7FYjr2z55jeW8RrjfFmh0J) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:18 |
+| 51 | [Ipecac](https://open.spotify.com/track/7FYjr2z55jeW8RrjfFmh0J) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:18 |
+| 52 | [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 |
 | 53 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 |
 | 54 | [Perfume Of The Timeless](https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 8:12 |
 | 55 | [The Path To Decay](https://open.spotify.com/track/4uaQ7adjRXgBWuSzlAH9vS) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi) | [The 13th Floor](https://open.spotify.com/album/4n9Gd9GTci9XdXsadWTlTp) | 4:17 |
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 57 | [I'll Know You're Not Around](https://open.spotify.com/track/2qcpeU7myeKa3dsz7Ext3R) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Flesh Stays Together](https://open.spotify.com/album/6cgf2mesmt2TVCBQqTxKtN) | 3:43 |
 | 58 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 |
 | 59 | [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 |
-| 60 | [Reincarnation](https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:13 |
-| 61 | [Battle Ready](https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:21 |
+| 60 | [Battle Ready](https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:21 |
+| 61 | [Reincarnation](https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:13 |
 | 62 | [Bottom of a Bottle](https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Eye For An Eye...](https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD) | 3:19 |
 | 63 | [Mortal](https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Mortal](https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF) | 2:56 |
 | 64 | [The Rabbit Of The Moon](https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Lunaris](https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe) | 3:51 |
-| 65 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
-| 66 | [Blood Pigs](https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:03 |
+| 65 | [Blood Pigs](https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:03 |
+| 66 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
 | 67 | [Orphan Soul](https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [86](https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w) | 4:48 |
 | 68 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
 | 69 | [Crucifère](https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8) | [Eths](https://open.spotify.com/artist/2IZkG4M2WcpLtfraGYJISf) | [Soma](https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69) | 3:35 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 88 | [Blood Dynasty](https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ) | 3:51 |
 | 89 | [Cross the Divide](https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Cross The Divide](https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2) | 4:18 |
 | 90 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
-| 91 | [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 |
-| 92 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 |
+| 91 | [Poison](https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Poison](https://open.spotify.com/album/5U8IQqKfTpAAdVtTgwpNTr) | 2:52 |
+| 92 | [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 |
 | 93 | [Wicked Woman](https://open.spotify.com/track/0s0ik3hbf0S1EgYfjX8TrF) | [Coven](https://open.spotify.com/artist/6eTKX1Kyy9gMamdDyj736Y) | [Witchcraft Destroys Minds And Reaps Souls](https://open.spotify.com/album/3aJozZhPbj8hKmJePJ2LtF) | 2:57 |
 | 94 | [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 |
 | 95 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 99 | [Breathe You In](https://open.spotify.com/track/680R0ratdk9o2M6nko18GG) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Breathe You In](https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc) | 3:40 |
 | 100 | [Cloaked](https://open.spotify.com/track/05mgMVDS9j4Wtci4MVSJWU) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 3:54 |
 
-Snapshot ID: `AAAAAG4bPDJJnl88pFrAtJlk0p8bY8aF`
+Snapshot ID: `AAAAANHlR4rrWhzm/2CAkogexl+2ywSu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: francis, Sobel
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,569 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,543 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [WARTO KŁAMAĆ](https://open.spotify.com/track/1RGVsQuc33hkiE7BqLoGjt) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [WARTO KŁAMAĆ](https://open.spotify.com/album/3hFAYv5PEAQzxEzphGkfjb) | 3:07 |
 | 50 | [Maybi](https://open.spotify.com/track/1bd5oTxUCLape7uo5HzI4e) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Maybi](https://open.spotify.com/album/5InyAmFm9UYWbCNOQKhtEs) | 2:11 |
 
-Snapshot ID: `AAAAADPU2ji/lwIsiyIm3N8Jevt12sgf`
+Snapshot ID: `AAAAAKrlOzfONi4U9Ll8wX16gLaqOw9z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,486 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,509 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 63 | [Down the Line \- It Takes a Number](https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Meditations on Afrocentrism](https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv) | 4:14 |
 | 64 | [Swoon](https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm) | 6:05 |
 | 65 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
-| 66 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 |
-| 67 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
+| 66 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
+| 67 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 |
 | 68 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 |
 | 69 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 |
 | 70 | [I'll Take Care of U](https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Jamie Smith](https://open.spotify.com/artist/2PZO2EvqY5QjyW65YSKj7F) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 4:42 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 72 | [Be a Body](https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:20 |
 | 73 | [Affection](https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 2:36 |
 | 74 | [Babe](https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA) | [Evenings](https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y) | [Yore](https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB) | 2:52 |
-| 75 | [Seconds](https://open.spotify.com/track/7603o589huckPbiELnUKgu) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Seconds](https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz) | 2:52 |
-| 76 | [Need You Now](https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 4:45 |
-| 77 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
+| 75 | [Need You Now](https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 4:45 |
+| 76 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
+| 77 | [Seconds](https://open.spotify.com/track/7603o589huckPbiELnUKgu) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Seconds](https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz) | 2:52 |
 | 78 | [Flicker](https://open.spotify.com/track/6BivCuyKJtgLa9ooFsvUoZ) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 4:39 |
 | 79 | [LONG DISTANCE](https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Escapism](https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds) | 3:39 |
 | 80 | [All I Want](https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [All In All](https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN) | 7:48 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 84 | [Hours](https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:44 |
 | 85 | [BULLETS](https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 4:59 |
 | 86 | [Girl](https://open.spotify.com/track/4x94qgTeMEcwj4X1APUnpb) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:05 |
-| 87 | [The Lung](https://open.spotify.com/track/45GTuMUP3lNuZcw7MGKfhx) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:53 |
-| 88 | [Could](https://open.spotify.com/track/3FjHWRfmNNYClBLZVtQAYT) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Simmer Down](https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr) | 3:39 |
-| 89 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
+| 87 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
+| 88 | [The Lung](https://open.spotify.com/track/45GTuMUP3lNuZcw7MGKfhx) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:53 |
+| 89 | [Could](https://open.spotify.com/track/3FjHWRfmNNYClBLZVtQAYT) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Simmer Down](https://open.spotify.com/album/4UHxwsh3akwnS8AnFpoDdr) | 3:39 |
 | 90 | [Huarache Lights](https://open.spotify.com/track/24OUTJgZif1CA1nemnDgXn) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 5:29 |
-| 91 | [Lover Chanting \- Edit](https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Lover Chanting \(Jayda G Remix\)](https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN) | 3:25 |
-| 92 | [Go Back Home](https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 3:55 |
+| 91 | [Go Back Home](https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 3:55 |
+| 92 | [Lover Chanting \- Edit](https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Lover Chanting \(Jayda G Remix\)](https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN) | 3:25 |
 | 93 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
 | 94 | [Can’t Keep Checking My Phone](https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR) | 4:16 |
 | 95 | [She Just Likes to Fight](https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 4:41 |
 | 96 | [Get Free](https://open.spotify.com/track/0pHYQzbf7xJiSCn79w8Efb) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Get Free](https://open.spotify.com/album/2tH6X8xxt0p7EVQ0fcScL2) | 4:49 |
-| 97 | [Illest Alive](https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 4:09 |
-| 98 | [Ivory](https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj) | [MOVEMENT](https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX) | [MOVEMENT](https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck) | 3:42 |
+| 97 | [Ivory](https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj) | [MOVEMENT](https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX) | [MOVEMENT](https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck) | 3:42 |
+| 98 | [Illest Alive](https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Instrumentals](https://open.spotify.com/album/1qeXFTaqknEjieQD8my4Hr) | 4:09 |
 | 99 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
 | 100 | [Mirror Maru](https://open.spotify.com/track/52Pp8J18LYkyWL9OXhRUZh) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [Mirror Maru \- EP](https://open.spotify.com/album/74j51jlqXt7csQ7o2bntwZ) | 4:02 |
 
-Snapshot ID: `AAAAABJ2BYH579E5kJDIWyf8WM38G7XM`
+Snapshot ID: `AAAAAOt0mSOmxDPGWOGpYGEVPmrcJ7rZ`

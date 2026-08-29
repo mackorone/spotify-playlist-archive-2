@@ -1,12 +1,12 @@
 {
   "description": "From India to MENA, these hits will make you dance.",
-  "num_followers": 68561,
+  "num_followers": 68563,
   "original_name": "Bollywood Araby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABIaSOglwQ0ww2hMuXfHq2POIdiQ",
+  "snapshot_id": "AAAAAGbF7p5O3Q+vMzb/uNnnj+luUJiy",
   "tracks": [
     {
       "added_at": "2024-03-13 07:49:44",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2024-03-13 07:49:44",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/76g096RoXj4F5keLju1CHH"
+        "name": "First Class (Kalank)",
+        "url": "https://open.spotify.com/album/6Guyv11bGAdIuHJ7Gkwt6p"
       },
       "artists": [
         {
-          "name": "artist",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
         }
       ],
-      "duration_ms": 0,
-      "name": "",
-      "url": "https://open.spotify.com/track/5QyOjKJhR1iyF0DHQM2IvW"
+      "duration_ms": 276959,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/7bFx4We3iNjxmIxXBxou1G"
     }
   ],
   "unique_name": "Bollywood Araby",

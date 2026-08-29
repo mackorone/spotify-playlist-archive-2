@@ -16815,6 +16815,28 @@
     },
     {
       "album": {
+        "name": "Wherever I Roam",
+        "url": "https://open.spotify.com/album/38DIyr3PYlMEHoqMdOtavi"
+      },
+      "artists": [
+        {
+          "name": "Sainte Barbe",
+          "url": "https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ"
+        },
+        {
+          "name": "Jan Ayg\u00fcn",
+          "url": "https://open.spotify.com/artist/2wM1D4UgaScEg2LkYHm1Oe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144590,
+      "name": "Long Night",
+      "url": "https://open.spotify.com/track/4dXWQ5ND3H6EKhdaB5vHmY"
+    },
+    {
+      "album": {
         "name": "Long Time",
         "url": "https://open.spotify.com/album/2kiWGxSAl0492tzU5prNa9"
       },
@@ -22332,7 +22354,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 156072,
       "name": "Place We Know",
       "url": "https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX"

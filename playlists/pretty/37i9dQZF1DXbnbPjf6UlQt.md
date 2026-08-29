@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnbPjf6UlQt.md) - [plain]
 | 27 | [오늘밤은 어둠이 무서워요](https://open.spotify.com/track/6pZAmXnJflLRecgsHyJg15) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Life](https://open.spotify.com/album/7xbxy4bC51eZe4hc4gwyf6) | 3:26 |
 | 28 | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/track/7opKvhH1FUiDCmkMSREqwr) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Follow Your Steps \(Feat\. BIBI\)](https://open.spotify.com/album/7z9DTlk05LOOhdU9jQKZUg) | 4:20 |
 
-Snapshot ID: `AAAAAL0uBUyAKukJ53Ws8uzMogpzvEqu`
+Snapshot ID: `AAAAAE2lA5cN3JySGunQrDtcVTqBYlNp`

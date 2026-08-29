@@ -1,12 +1,12 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 128103,
+  "num_followers": 128110,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEy7xz0fZxYv0IYhMAf7o9MSWmFd",
+  "snapshot_id": "AAAAACbOWuDtT77Bv9aGXn78hFJjMsz6",
   "tracks": [
     {
       "added_at": "2026-08-07 14:25:39",
@@ -775,18 +775,22 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Want Love",
-        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
+        "name": "Good Morning Gorgeous (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
       "artists": [
         {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 200791,
-      "name": "Want Love",
-      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
+      "duration_ms": 174636,
+      "name": "Good Morning Gorgeous (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -871,22 +875,18 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
-        "name": "Good Morning Gorgeous (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
+        "name": "Want Love",
+        "url": "https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf"
       },
       "artists": [
         {
           "name": "Mary J. Blige",
           "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 174636,
-      "name": "Good Morning Gorgeous (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
+      "duration_ms": 200791,
+      "name": "Want Love",
+      "url": "https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "duration_ms": 178085,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
         "name": "What's Going On (Don't Rush)",
         "url": "https://open.spotify.com/album/2R6KXVWCi4eUSVoVwKoWAd"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 204264,
       "name": "What's Going On (Don't Rush)",
       "url": "https://open.spotify.com/track/4FBhmyeFonHfP20kClXg20"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "Distant Lover",
-        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        }
-      ],
-      "duration_ms": 178085,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
     },
     {
       "added_at": "2026-08-07 14:25:39",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-08-07 14:25:39",
       "album": {
+        "name": "No Love Song",
+        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
+      },
+      "artists": [
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "No Love Song",
+      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
+    },
+    {
+      "added_at": "2026-08-07 14:25:39",
+      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 110640,
       "name": "Arz Interlude",
       "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
-    },
-    {
-      "added_at": "2026-08-07 14:25:39",
-      "album": {
-        "name": "No Love Song",
-        "url": "https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct"
-      },
-      "artists": [
-        {
-          "name": "Children of Zeus",
-          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "No Love Song",
-      "url": "https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW"
     },
     {
       "added_at": "2026-08-07 14:25:39",

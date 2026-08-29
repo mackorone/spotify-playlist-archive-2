@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-633 songs - 1 day 11 hr 42 min
+634 songs - 1 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Dalie](https://open.spotify.com/track/7HmE17lcfpENCJkuurXDvh) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Dalie](https://open.spotify.com/album/5GIUF3gHNmZpa684imXQ5J) | 4:40 | 2025-03-19 | 2025-05-29 |
 | [Dangbana Riddim](https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Dangbana Riddim](https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D) | 2:40 | 2025-10-12 | 2025-10-24 |
 | [Dangerous](https://open.spotify.com/track/08Bu0BYPYMgbuIOHnO8bs4) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Starrgirl](https://open.spotify.com/album/7M7enK2gI4bqBRQUIa8AgR) | 2:06 | 2026-08-14 | 2026-08-28 |
+| [Dantata](https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Dantata](https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn) | 2:51 | 2026-08-28 |  |
 | [Deceive](https://open.spotify.com/track/6FuWagyvOErfJ7UnViYVlD) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Empress](https://open.spotify.com/album/5hIpeMI5sJsrWp4nLEIAVD) | 3:27 | 2020-12-11 | 2022-06-23 |
 | [Dem Dey](https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 3:12 | 2025-10-16 | 2025-10-24 |
 | [DEM GO PAY](https://open.spotify.com/track/0drp8xGuQUYGotAUkMA5Pw) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [DEM GO PAY](https://open.spotify.com/album/3S0ZXodVLzw00Z3lK6oYhk) | 2:58 | 2025-11-14 | 2025-12-18 |
@@ -500,7 +501,7 @@
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 | 2025-02-28 |
 | [Sharpiru](https://open.spotify.com/track/3UnV8C3DyIns9oEQRt0UnZ) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Sharpiru](https://open.spotify.com/album/3G8ivhEbQ9MREc8PZrROgr) | 3:28 | 2023-09-27 | 2024-06-14 |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 | 2023-01-01 |
-| [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 | 2026-08-07 |  |
+| [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 | 2026-08-07 | 2026-08-29 |
 | [SHO!!](https://open.spotify.com/track/5OPONV5C8sgv8Sh49gbXIP) | [NAAK](https://open.spotify.com/artist/5OeP7iwuGFWymmzPfURRwC) | [SHO!](https://open.spotify.com/album/7C9dcKJ1oH2flHLb0jWiCk) | 6:22 | 2025-10-16 | 2025-10-24 |
 | [Shoda](https://open.spotify.com/track/0prNbCHO4fO9RCmbUMmmLh) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shoda](https://open.spotify.com/album/0S0W8HKfy6dHCmArthtZ0Z) | 2:47 | 2025-11-04 | 2025-11-06 |
 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 | 2025-10-12 | 2025-10-24 |

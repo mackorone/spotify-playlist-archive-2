@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Capim Limão
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,671 likes - 55 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,674 likes - 55 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 36 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 |
 | 37 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 |
 | 38 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |
-| 39 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 |
-| 40 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
+| 39 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
+| 40 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 |
 | 41 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
 | 42 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \(Acústico\)](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 |
 | 43 | [Sweet Virginia](https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Sweet Virginia / Across the Universe](https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6) | 4:33 |
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 46 | [Feedback \- Ao Vivo](https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Solo Ma Non Troppo](https://open.spotify.com/album/4biydG5xVHKEYFCySAtrjV) | 3:32 |
 | 47 | [Douraddo](https://open.spotify.com/track/75jOQ3d6y36N09fpnUSQR7) | [Soprü](https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9) | [Douraddo](https://open.spotify.com/album/3m89RKjTjqZv4XzxaGaXDC) | 2:41 |
 | 48 | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/track/4JpxLYN0FbxVBin0LaGm9m) | [Chella](https://open.spotify.com/artist/0PfKBDzVqAXKEnTQvHvT5a) | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/album/4k4LWyZ69kQQlgVfx0HZtd) | 3:25 |
-| 49 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [Peu Del Rey](https://open.spotify.com/artist/56ffksUZDcDGHGx5s3Lnwx) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 |
-| 50 | [Numas de Tapete Vermelho](https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04) | [João Gabriel](https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Numas de Tapete Vermelho](https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu) | 3:49 |
+| 49 | [Numas de Tapete Vermelho](https://open.spotify.com/track/47OF0j7du20IxTDZMV6p04) | [João Gabriel](https://open.spotify.com/artist/25jKdtuc8N7KwImj15i8ZN), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Numas de Tapete Vermelho](https://open.spotify.com/album/2KW9HUfEPhokMhnlQCnoUu) | 3:49 |
+| 50 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [Peu Del Rey](https://open.spotify.com/artist/56ffksUZDcDGHGx5s3Lnwx) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 |
 | 51 | [Prisão das Ruas \- Ao Vivo](https://open.spotify.com/track/5WiDk2Pe2Oj8x6woFwS6VF) | [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF) | [Prisão das Ruas \(Ao Vivo\)](https://open.spotify.com/album/7KpmuoHTaT6qNYTv3zxzKh) | 3:34 |
 | 52 | [Pelas Ruas das Américas](https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt) | [Outros Bárbaros](https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT) | [Pelas Ruas das Américas](https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R) | 3:51 |
 | 53 | [Coming Home](https://open.spotify.com/track/13kBXnr6HGyXQMA4pb7Q7T) | [Twilight Aura](https://open.spotify.com/artist/1xo1rupmkgRiqborQShT30), [Daísa Munhoz](https://open.spotify.com/artist/4c9Fry8ueZr78paHWdEF0y), [Fabio Caldeira](https://open.spotify.com/artist/4pyFz0gJQlmVrlpQyo1J3T), [Marcel Ribas](https://open.spotify.com/artist/6z7ABRk5aFU97bOo9XuKCf) | [Believe](https://open.spotify.com/album/2BisEk7N65mjARu5LGS35W) | 4:03 |
 | 54 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
 | 55 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
 
-Snapshot ID: `AAAAAFNydHB+P8z313e2Id/tRzLtaVLM`
+Snapshot ID: `AAAAAKotE4KoL63WZseoDv+m6YAFnWfR`

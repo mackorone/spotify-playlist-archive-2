@@ -1,12 +1,12 @@
 {
   "description": "Unwind in time to these 70s classics.",
-  "num_followers": 302637,
+  "num_followers": 302645,
   "original_name": "Unwind 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPs7EXfZ3x9aWbsLbTUxCfEfY5L7",
+  "snapshot_id": "AAAAACjFJUSaiXcdrdhX1AhJK5JTDYJZ",
   "tracks": [
     {
       "added_at": "2024-08-05 06:44:38",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2024-08-05 06:44:38",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 288408,
       "name": "Boogie Wonderland (with The Emotions)",
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
+    },
+    {
+      "added_at": "2024-08-05 06:44:38",
+      "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2024-08-05 06:44:38",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "Mamma Mia",
-      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
-    },
-    {
-      "added_at": "2024-08-05 06:44:38",
-      "album": {
         "name": "Madman Across The Water",
         "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "added_at": "2024-08-05 06:44:38",
+      "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Mamma Mia",
+      "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
     },
     {
       "added_at": "2024-08-05 06:44:38",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 199452,
-      "name": "Hungry Heart",
-      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
-    },
-    {
-      "added_at": "2024-08-05 06:44:38",
-      "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 212533,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
+    },
+    {
+      "added_at": "2024-08-05 06:44:38",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 199452,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
     },
     {
       "added_at": "2024-08-05 06:44:38",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-05 06:44:38",
       "album": {
-        "name": "Daryl Hall & John Oates (The Silver Album)",
-        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
-    },
-    {
-      "added_at": "2024-08-05 06:44:38",
-      "album": {
         "name": "Nightflight to Venus",
         "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 261266,
       "name": "Rivers of Babylon",
       "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
+      "added_at": "2024-08-05 06:44:38",
+      "album": {
+        "name": "Daryl Hall & John Oates (The Silver Album)",
+        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
     },
     {
       "added_at": "2024-08-05 06:44:38",

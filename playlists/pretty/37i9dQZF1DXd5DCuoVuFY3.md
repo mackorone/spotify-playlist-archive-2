@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 
 > For your lounge room DF!
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,025 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,023 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 | 46 | [Music Sounds Better With You \- Radio Edit](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 4:20 |
 | 47 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 |
 | 48 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:39 |
-| 49 | [Teach Me How to Dougie](https://open.spotify.com/track/61LtVmmkGr8P9I2tSPvdpf) | [Cali Swag District](https://open.spotify.com/artist/1EeArivTpzLNCqubV95255) | [The Kickback](https://open.spotify.com/album/7jEhJ72S8vHQOmQTgIATww) | 3:57 |
-| 50 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day \(Int'l Version\)](https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM) | 4:55 |
+| 49 | [Pursuit Of Happiness \(Nightmare\)](https://open.spotify.com/track/4kTLpAbhuEGHAAdDjOIWaa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Man On The Moon: The End Of Day \(Int'l Version\)](https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM) | 4:55 |
+| 50 | [Teach Me How to Dougie](https://open.spotify.com/track/61LtVmmkGr8P9I2tSPvdpf) | [Cali Swag District](https://open.spotify.com/artist/1EeArivTpzLNCqubV95255) | [The Kickback](https://open.spotify.com/album/7jEhJ72S8vHQOmQTgIATww) | 3:57 |
 | 51 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 |
 | 52 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 |
 | 53 | [It Gets Better \- Forever Mix](https://open.spotify.com/track/5fEg39wxUxNG9Ig5cFpWlc) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:12 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 | 68 | [Day 'N' Nite \- Crookers Remix](https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Man On The Moon: The End Of Day \(Int'l Version\)](https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM) | 4:41 |
 | 69 | [Creep](https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:28 |
 | 70 | [The Rockafeller Skank](https://open.spotify.com/track/5AgCO3dc2kuSicCsw09YCA) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come a Long Way Baby](https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN) | 6:53 |
-| 71 | [My My My](https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Nympho](https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH) | 3:02 |
-| 72 | [D.A.N.C.E.](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
+| 71 | [D.A.N.C.E.](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
+| 72 | [My My My](https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Nympho](https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH) | 3:02 |
 | 73 | [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 |
 | 74 | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW) | 3:16 |
 | 75 | [This Is How We Do It](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT) | [Best Of Montell Jordan](https://open.spotify.com/album/6J9fX2iXc9W7ILQUWvEhAx) | 3:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 | 79 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 |
 | 80 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 |
 
-Snapshot ID: `AAAAAOiiX42b+BDDEDiD/sCqlEHitV/H`
+Snapshot ID: `AAAAAD1tY51tczLjZLx3dXeX7H+pGHx/`

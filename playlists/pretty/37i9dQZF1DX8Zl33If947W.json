@@ -1,12 +1,12 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 210611,
+  "num_followers": 210670,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD8ESYuywZ6bj+iFUYFZEnalexYI",
+  "snapshot_id": "AAAAAIkxUSeURUhJqkbmpQYfbvc/NzJ9",
   "tracks": [
     {
       "added_at": "2026-03-26 08:28:03",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Herzensmensch",
-        "url": "https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 160405,
-      "name": "Herzensmensch",
-      "url": "https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Immer in Bewegung",
         "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 212522,
       "name": "Ich lass f\u00fcr dich das Licht an",
       "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Herzensmensch",
+        "url": "https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 160405,
+      "name": "Herzensmensch",
+      "url": "https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -555,22 +555,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "UDOPIUM - Das Beste (Special Edition)",
-        "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
+        "name": "Herz",
+        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
       },
       "artists": [
         {
-          "name": "Udo Lindenberg",
-          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
-        },
-        {
-          "name": "Clueso",
-          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+          "name": "Rosenstolz",
+          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
         }
       ],
-      "duration_ms": 204292,
-      "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
-      "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
+      "duration_ms": 210693,
+      "name": "Liebe ist alles",
+      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -591,18 +587,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Herz",
-        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
+        "name": "UDOPIUM - Das Beste (Special Edition)",
+        "url": "https://open.spotify.com/album/3qX7krhIO0hHLqQlF1jPoZ"
       },
       "artists": [
         {
-          "name": "Rosenstolz",
-          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
+          "name": "Udo Lindenberg",
+          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
+        },
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
         }
       ],
-      "duration_ms": 210693,
-      "name": "Liebe ist alles",
-      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
+      "duration_ms": 204292,
+      "name": "Cello (feat. Clueso) - MTV Unplugged Radio Atmo-Version",
+      "url": "https://open.spotify.com/track/67UtSTImmThuQAxv1iEgGF"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Diese Eine",
         "url": "https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Nur ein bisschen",
-        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 161956,
-      "name": "Nur ein bisschen",
-      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Ja sagen",
         "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 165000,
       "name": "Ja sagen",
       "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
     },
     {
       "added_at": "2026-03-26 08:28:03",

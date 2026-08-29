@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-190 songs - 10 hr 35 min
+191 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Obi\-Wan's Lightsaber](https://open.spotify.com/track/6lFvflA4sin1awe4c1tJue) | [Scott Michael Smith](https://open.spotify.com/artist/4LYiDqIcfoYmeK2JtPq1rh), [Michael Dean Parsons](https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure) | [Obi\-Wan Kenobi: A Jedi's Return \(Original Soundtrack\)](https://open.spotify.com/album/3knYSacsEVWqetRU8osAv0) | 1:30 | 2023-02-03 | 2026-05-02 |
 | [Old Friends](https://open.spotify.com/track/336MNGWifY0wUNdI37pm8Q) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 4:28 | 2021-05-14 | 2026-05-02 |
 | [Omega's Theme](https://open.spotify.com/track/0KUEQcdk9q4pJhkWphxxDg) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Bad Batch \- Vol\. 1 \(Episodes 1\-8\) \[Original Soundtrack\]](https://open.spotify.com/album/1jApwf2WMmfKo3iO60QKdM) | 2:58 | 2025-05-05 | 2026-05-02 |
+| [Onto Our Next Mission](https://open.spotify.com/track/19uwN9LHwOprmwh5Npnbj2) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Star Wars: Zero Company \(Original Video Game Soundtrack\)](https://open.spotify.com/album/3LrCCpV1frzloOAGuw0nL6) | 5:26 | 2026-08-28 |  |
 | [Open the Door](https://open.spotify.com/track/1PRgvXplpe5ruTlMP95M8l) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 2 \- Vol\. 2 \(Chapters 13\-16\) \[Original Score\]](https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx) | 4:52 | 2022-11-14 |  |
 | [Order 66](https://open.spotify.com/track/4pPQxN2GlHsVgAThcfAyK8) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 1:40 | 2022-06-28 |  |
 | [Padmé](https://open.spotify.com/track/4ud5wmcUNNO4f9FkPw3FxA) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Star Wars: The Clone Wars \(Seasons One Through Six/Original Soundtrack\)](https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC) | 1:39 | 2021-05-14 | 2026-05-02 |

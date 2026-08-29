@@ -1,28 +1,56 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Aitana",
-  "num_followers": 68255,
+  "num_followers": 68261,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALI+miZ35hLFoUqzPsI/rLRl4e9X",
+  "snapshot_id": "AAAAAJyLy/h/m3guaoEonIh6mNjggfeU",
   "tracks": [
     {
-      "added_at": "2026-04-21 23:32:30",
+      "added_at": "2026-08-28 12:57:54",
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
         }
       ],
-      "duration_ms": 183529,
-      "name": "SUPERESTRELLA",
-      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+      "duration_ms": 225834,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "added_at": "2026-08-28 12:57:54",
+      "album": {
+        "name": "DOLCE VITA",
+        "url": "https://open.spotify.com/album/5F5UJNfmsy94fLpG6i3xL2"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "DOLCE VITA",
+      "url": "https://open.spotify.com/track/7lM4pBtnoHScsZaxTSWCvS"
     },
     {
       "added_at": "2026-08-21 04:59:14",
@@ -57,6 +85,22 @@
       "url": "https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo"
     },
     {
+      "added_at": "2026-08-28 12:57:54",
+      "album": {
+        "name": "No vivir\u00edas igual",
+        "url": "https://open.spotify.com/album/0PK4vZ49RHea4vSJqD5r42"
+      },
+      "artists": [
+        {
+          "name": "Emyl Rusev",
+          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
+        }
+      ],
+      "duration_ms": 174967,
+      "name": "No Vivir\u00edas Igual",
+      "url": "https://open.spotify.com/track/1Ti5iLAbHICLtvkQW1d4YZ"
+    },
+    {
       "added_at": "2026-07-17 04:59:06",
       "album": {
         "name": "LINEAS PARALELAS",
@@ -75,6 +119,42 @@
       "duration_ms": 182820,
       "name": "LINEAS PARALELAS",
       "url": "https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf"
+    },
+    {
+      "added_at": "2026-08-28 12:57:54",
+      "album": {
+        "name": "El Sombrero y La Camisa",
+        "url": "https://open.spotify.com/album/3wC46e6BTDk2qPyiwIOu45"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 157478,
+      "name": "El Sombrero y La Camisa",
+      "url": "https://open.spotify.com/track/4p6fcGUvYftongzpzjTrN9"
+    },
+    {
+      "added_at": "2026-04-21 23:32:30",
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
       "added_at": "2026-07-31 04:59:21",
@@ -383,22 +463,6 @@
       "duration_ms": 214010,
       "name": "sorry por esta canci\u00f3n (Londres)",
       "url": "https://open.spotify.com/track/2iGuYT6EmMGVXVZShiQ5SC"
-    },
-    {
-      "added_at": "2026-05-08 04:59:17",
-      "album": {
-        "name": "Slow Wine Mixtape",
-        "url": "https://open.spotify.com/album/04Ymqu321W73XWuYreawjw"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Fiebre - Prod. King DouDou",
-      "url": "https://open.spotify.com/track/3e4EFbKbdLvnW42xGB6tIx"
     },
     {
       "added_at": "2026-03-26 18:25:59",

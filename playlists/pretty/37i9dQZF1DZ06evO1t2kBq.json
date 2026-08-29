@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 86573,
+  "num_followers": 86585,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACPPBL9KYP1AQg7kV+6F5pS",
+  "snapshot_id": "ao9+AAAAAADJRzDNBigeWypa5MjVZU2L",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Maps of Hell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "New Dark Ages",
-      "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 106693,
       "name": "No Control",
       "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Maps of Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "New Dark Ages",
+      "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "All There Is",
-      "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Process Of Belief",
         "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 239813,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "All There Is",
+      "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 283827,
+  "num_followers": 283910,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdK1xGsqawGzfeLbcxyBFVLLC3q",
+  "snapshot_id": "AAAAANhcLAGaxeQCvNaSbRBOrs1I1fgJ",
   "tracks": [
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1099,34 +1099,38 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+        "name": "2 Generaciones de Salsa",
+        "url": "https://open.spotify.com/album/7GHCAfsYzVhEDDJIwdGV7F"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        },
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 313533,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
+      "duration_ms": 310831,
+      "name": "El Baile del Suavecito",
+      "url": "https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv"
     },
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+        "name": "Ayer, Hoy, Ma\u00f1ana y Siempre",
+        "url": "https://open.spotify.com/album/4IuAxOPErtywq5ZmTvZ4C0"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
         }
       ],
-      "duration_ms": 351813,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+      "duration_ms": 251585,
+      "name": "Dicelo a El",
+      "url": "https://open.spotify.com/track/7I7LoiAzaDTCFN3XNnIboG"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1163,6 +1167,38 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 313533,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 351813,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
       },
@@ -1175,38 +1211,6 @@
       "duration_ms": 317573,
       "name": "Caradura",
       "url": "https://open.spotify.com/track/1ngWLwko1GnliVV9kHj4CC"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 332253,
-      "name": "Dejame Sentirte",
-      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "La Formula Original",
-        "url": "https://open.spotify.com/album/2e7NbcGhCxwRthob6t21Zf"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278909,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4SFp4XMwAOCpUK9Vs4UmiH"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1227,38 +1231,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Sexy Salsa",
-        "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
+        "name": "La Formula Original",
+        "url": "https://open.spotify.com/album/2e7NbcGhCxwRthob6t21Zf"
       },
       "artists": [
         {
-          "name": "Mario Ortiz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO"
-        },
-        {
-          "name": "Anthony Cruz",
-          "url": "https://open.spotify.com/artist/23XjDf1pxXEUzkfoLg6oXr"
-        },
-        {
-          "name": "Luigui Valentin",
-          "url": "https://open.spotify.com/artist/0YvHEDgHZq5KnDCEf9xCbc"
-        },
-        {
-          "name": "Nelson Rodriguez",
-          "url": "https://open.spotify.com/artist/1zL7uW1Irj5r3kHTtwikfb"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Primi Cruz",
-          "url": "https://open.spotify.com/artist/7cLvr0L2gwaooIkr31AfSa"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 300533,
-      "name": "A Fuego Lento",
-      "url": "https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ"
+      "duration_ms": 278909,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4SFp4XMwAOCpUK9Vs4UmiH"
     }
   ],
   "unique_name": "Salsa: Los '80",

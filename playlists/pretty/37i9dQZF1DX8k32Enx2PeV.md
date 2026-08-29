@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,202 likes - 110 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,209 likes - 110 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 20 | [Caramel](https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Caramel](https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI) | 2:14 |
 | 21 | [Pegaito](https://open.spotify.com/track/6BfLQqbPkcMgClaea4p3Nj) | [EL RM](https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P) | [Te Gusta Bellak](https://open.spotify.com/album/2kBzFMmQGfB6mI218VBT4z) | 2:30 |
 | 22 | [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 |
-| 23 | [Entre Luca Y Juan Mejía](https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Entre Luca Y Juan Mejía](https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z) | 3:47 |
-| 24 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/3NclV41VD0EXndIyPekaeW) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 |
+| 23 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/3NclV41VD0EXndIyPekaeW) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 |
+| 24 | [Entre Luca Y Juan Mejía](https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Entre Luca Y Juan Mejía](https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z) | 3:47 |
 | 25 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 |
 | 26 | [TATTUU](https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [TATTUU](https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI) | 3:14 |
 | 27 | [Costeñita](https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Costeñita](https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8) | 3:46 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 109 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 |
 | 110 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 |
 
-Snapshot ID: `AAAAAP5ByK4yCaAg4EWDnIElgAzQjj3o`
+Snapshot ID: `AAAAAL140K5XeXXsuzCyaob06lQNOfMw`

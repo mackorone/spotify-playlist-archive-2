@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,232 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,231 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 11 | [Bello Espejismo](https://open.spotify.com/track/6BJnJy6vgu48xfi7GcOAzx) | [Gerardo Gómez](https://open.spotify.com/artist/5kkFkOxJ2XbCC4q5x6aFlF) | [Bello Espejismo](https://open.spotify.com/album/1eknAAlfD4YVaRKz51gdbU) | 4:35 |
 | 12 | [El Patas Blancas](https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:13 |
 | 13 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 |
-| 14 | [Si Se Fue, Se Fue](https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:34 |
-| 15 | [La Que Se Fue Se Fue](https://open.spotify.com/track/5VJW5ZzcOi17zdaunhSBZt) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Ranchero y Atrevido](https://open.spotify.com/album/02HmfwcdkqNuSLQ4BeZdlD) | 3:32 |
+| 14 | [La Que Se Fue Se Fue](https://open.spotify.com/track/5VJW5ZzcOi17zdaunhSBZt) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Ranchero y Atrevido](https://open.spotify.com/album/02HmfwcdkqNuSLQ4BeZdlD) | 3:32 |
+| 15 | [Si Se Fue, Se Fue](https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:34 |
 | 16 | [Señor Prohibido](https://open.spotify.com/track/5JEQTVfwRtrPJYiUBTaSy9) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Unica](https://open.spotify.com/album/2JQvAPGWvqnM4hnjrnmsUD) | 3:27 |
 | 17 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 |
 | 18 | [Sublime Mujer](https://open.spotify.com/track/5mPbC4nz0DYXO3kfnmMgRe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:07 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 68 | [Viviendo y Recordando](https://open.spotify.com/track/0TDZyxlTI0VRu47nhvmE0N) | [Los Relicarios](https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB), [Jose Muñoz](https://open.spotify.com/artist/3G9ZSZsqKKz7ugwQ2wvyNy), [Germán Rengifo](https://open.spotify.com/artist/7d1s2OidKtMddasrXwtFTT) | [Por Siempre, Vol\. 5](https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7) | 3:16 |
 | 69 | [El Mecedor](https://open.spotify.com/track/33Kh403s4v1rrOiOOHkja7) | [Jose A\. Bedoya y Su Conjunto](https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh) | [Que Gran Relajo](https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1) | 2:49 |
 | 70 | [Caliventura](https://open.spotify.com/track/6m2F1jlADXgeZXD0HWMxTQ) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 3:36 |
-| 71 | [Lejos del Tambo](https://open.spotify.com/track/2sJh7SIghOD2eOxAkHXa5p) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Los Más Grandes Éxitos](https://open.spotify.com/album/2Tq2ArF6n3cLMX22XBKANR) | 2:52 |
-| 72 | [El Jinete Perdido](https://open.spotify.com/track/0laa8LQmctEf0Eyg47ioC9) | [Los Coyotes](https://open.spotify.com/artist/5XOBNlLuIkIxcIocbZJJy5) | [Amandonos](https://open.spotify.com/album/3ugQU48SaahgO7iyE2G74c) | 2:33 |
+| 71 | [El Jinete Perdido](https://open.spotify.com/track/0laa8LQmctEf0Eyg47ioC9) | [Los Coyotes](https://open.spotify.com/artist/5XOBNlLuIkIxcIocbZJJy5) | [Amandonos](https://open.spotify.com/album/3ugQU48SaahgO7iyE2G74c) | 2:33 |
+| 72 | [Lejos del Tambo](https://open.spotify.com/track/2sJh7SIghOD2eOxAkHXa5p) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Los Más Grandes Éxitos](https://open.spotify.com/album/2Tq2ArF6n3cLMX22XBKANR) | 2:52 |
 | 73 | [En Barranquilla Me Quedo](https://open.spotify.com/track/6jvwWdaA37IlDLfritx7xi) | [Joe Arroyo Y La Verdad](https://open.spotify.com/artist/3W6IjoTFGlacw3Mxbn9BsE) | [Fuego en Mi Mente](https://open.spotify.com/album/1xAK4zJFTcvdVjeUlphHoA) | 5:11 |
 | 74 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 75 | [Este Maldito Amor](https://open.spotify.com/track/2sPkHujGWQlBqxh1zifScj) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [De Rico a Mendigo](https://open.spotify.com/album/0BfnFBm3TVy7aZw1nWO94d) | 2:35 |
-| 76 | [Como Voy a Olvidarte](https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [Exitos Populares](https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx) | 3:05 |
-| 77 | [El Amor de los Dos](https://open.spotify.com/track/03yQRv8SXpsOr8pOK3WEfu) | [Dueto Revelacion](https://open.spotify.com/artist/0ySBrTPGFDFJxa1zsdWEGl) | [Otro Dia Sin Ti](https://open.spotify.com/album/0qR1ehnvDrkv4mQFZtwN5V) | 3:09 |
+| 76 | [El Amor de los Dos](https://open.spotify.com/track/03yQRv8SXpsOr8pOK3WEfu) | [Dueto Revelacion](https://open.spotify.com/artist/0ySBrTPGFDFJxa1zsdWEGl) | [Otro Dia Sin Ti](https://open.spotify.com/album/0qR1ehnvDrkv4mQFZtwN5V) | 3:09 |
+| 77 | [Como Voy a Olvidarte](https://open.spotify.com/track/1MSC1j3cQK2UDNp9mI0nDi) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [Exitos Populares](https://open.spotify.com/album/50IbAdkinkCFXl87j5Mpyx) | 3:05 |
 | 78 | [el principe](https://open.spotify.com/track/6naXtONWcAYTJkXEuovTeb) | [Johan Mircelo](https://open.spotify.com/artist/4U5Pgmus2kNYEIFGgrBgpr) | [corridos prohibidos](https://open.spotify.com/album/6HGOTkvCcWToRzI87H6zLl) | 3:36 |
 | 79 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 |
-| 80 | [Tabaco y Ron](https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 4:02 |
+| 80 | [La Vida Es un Rato](https://open.spotify.com/track/5ii5hAjFTdDBIm9TPL9UiU) | [Dueto Revelación](https://open.spotify.com/artist/5zlNQCp9rroUbjPEWRznFW) | [La Bohemia Popular](https://open.spotify.com/album/63q9tqt6o9nMgBqyRNOOp9) | 3:43 |
 
-Snapshot ID: `AAAAAH9xGUZODAArjEH9mlXBRi1C1ZUh`
+Snapshot ID: `AAAAAOuAiT7Z/t0jYAL+cp4cBgw91ONK`

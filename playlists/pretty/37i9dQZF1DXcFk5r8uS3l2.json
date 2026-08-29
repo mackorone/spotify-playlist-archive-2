@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
-  "num_followers": 1068979,
+  "num_followers": 1068983,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYi5ci4XriIBUUBKS+VHZWokI7Z",
+  "snapshot_id": "AAAAABllGcowHTB0W71/hNAZLNglwuqo",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:01",
@@ -243,26 +243,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Hand It Over (feat. Soweto Gospel Choir)",
-        "url": "https://open.spotify.com/album/7hAjtZyH70skknhXFjxcRI"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        },
-        {
-          "name": "Soweto Gospel Choir",
-          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
-        }
-      ],
-      "duration_ms": 203232,
-      "name": "Hand It Over (feat. Soweto Gospel Choir)",
-      "url": "https://open.spotify.com/track/01SSG2COqot9jpxRBS9kLU"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/4IqsiNwUfcrA7RrUHwAo6k"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 191454,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/3RWOkWVdve8HZG4vIg6bkF"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Hand It Over (feat. Soweto Gospel Choir)",
+        "url": "https://open.spotify.com/album/7hAjtZyH70skknhXFjxcRI"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 203232,
+      "name": "Hand It Over (feat. Soweto Gospel Choir)",
+      "url": "https://open.spotify.com/track/01SSG2COqot9jpxRBS9kLU"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -339,38 +339,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Fussing and Fighting",
-        "url": "https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 254320,
-      "name": "Fussing and Fighting",
-      "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
-        "name": "Turn Me In",
-        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
-      },
-      "artists": [
-        {
-          "name": "Leon Majcen",
-          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Turn Me In",
-      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Don't Leave Me",
         "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
       },
@@ -391,6 +359,22 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
+        "name": "Fussing and Fighting",
+        "url": "https://open.spotify.com/album/1M2RdPydzdAlCV2OOK8WkF"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 254320,
+      "name": "Fussing and Fighting",
+      "url": "https://open.spotify.com/track/4JivJnC0WyPxRi3jvSrbT0"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
         "name": "Blacksnake Blues",
         "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 674000,
       "name": "Blacksnake Blues",
       "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Turn Me In",
+        "url": "https://open.spotify.com/album/6zrmW3nyL6XUYS6nYSQ8sW"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "duration_ms": 207880,
+      "name": "Turn Me In",
+      "url": "https://open.spotify.com/track/4KgTaSE7vyf2fWGEG6RJYA"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "I'm Leaving",
-      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 201240,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "I'm Leaving",
+      "url": "https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "pretty baby",
-        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lundy",
-          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
-        }
-      ],
-      "duration_ms": 150688,
-      "name": "pretty baby",
-      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "You Hear Georgia",
         "url": "https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 245838,
       "name": "You Hear Georgia",
       "url": "https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "pretty baby",
+        "url": "https://open.spotify.com/album/5u8K7eavUHwapkTLUAccfO"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lundy",
+          "url": "https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn"
+        }
+      ],
+      "duration_ms": 150688,
+      "name": "pretty baby",
+      "url": "https://open.spotify.com/track/5vTvd9aLo9BUm246VFfoMy"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "More Than Love",
-      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "What I Wouldn't Do",
         "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 189739,
       "name": "What I Wouldn't Do",
       "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 187027,
+      "name": "More Than Love",
+      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Ain't Half Bad",
-        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
+        "name": "The Breakdown",
+        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
       },
       "artists": [
         {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Ain't Half Bad",
-      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
+      "duration_ms": 234808,
+      "name": "One Day Away",
+      "url": "https://open.spotify.com/track/5bPqrKQNzFl4dKJzxDWHwC"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Man's World",
-        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+        "name": "Ain't Half Bad",
+        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
       },
       "artists": [
         {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
         }
       ],
-      "duration_ms": 162290,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+      "duration_ms": 135000,
+      "name": "Ain't Half Bad",
+      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -847,6 +847,22 @@
       "duration_ms": 301395,
       "name": "Upside",
       "url": "https://open.spotify.com/track/2mYnzR2Gm5mGNft7rZsInE"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -883,22 +899,6 @@
       "duration_ms": 236219,
       "name": "Oh Betty",
       "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
-        "name": "The Breakdown",
-        "url": "https://open.spotify.com/album/1MrONoYaqKUjsURjFDYAPM"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 234808,
-      "name": "One Day Away",
-      "url": "https://open.spotify.com/track/5bPqrKQNzFl4dKJzxDWHwC"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Let's Walk",
         "url": "https://open.spotify.com/album/5Nel74loT3L9CQff44dpGz"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 292786,
       "name": "Let's Walk",
       "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Million Voices Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
-      },
-      "artists": [
-        {
-          "name": "Warren Haynes",
-          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "Back Where I Started",
-      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Let the Music Get Down in Your Soul",
         "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 204986,
       "name": "Let the Music Get Down in Your Soul",
       "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Million Voices Whisper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T"
+      },
+      "artists": [
+        {
+          "name": "Warren Haynes",
+          "url": "https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Back Where I Started",
+      "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Days Of Unrest",
-        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Can\u2019t Stand Still",
-      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "The Hammer & The Rose",
         "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 247720,
       "name": "Tonight Belongs to You",
       "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Days Of Unrest",
+        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Can\u2019t Stand Still",
+      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Swamp Dogg Contemplates The Afterlife",
-        "url": "https://open.spotify.com/album/16JqcSxNQDfq9hq6KCpVjx"
-      },
-      "artists": [
-        {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        }
-      ],
-      "duration_ms": 238158,
-      "name": "Final Approach",
-      "url": "https://open.spotify.com/track/5YPcwXfi1uGuUSMDCq6Asv"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Plus One",
         "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 157125,
       "name": "Man I Used To Be",
       "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Swamp Dogg Contemplates The Afterlife",
+        "url": "https://open.spotify.com/album/16JqcSxNQDfq9hq6KCpVjx"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "duration_ms": 238158,
+      "name": "Final Approach",
+      "url": "https://open.spotify.com/track/5YPcwXfi1uGuUSMDCq6Asv"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Devil That You Know",
-        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
-      },
-      "artists": [
-        {
-          "name": "Emma Elena Grace",
-          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
-        }
-      ],
-      "duration_ms": 198496,
-      "name": "Devil That You Know",
-      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Let's Get Loud",
         "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 288256,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Devil That You Know",
+        "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
+      },
+      "artists": [
+        {
+          "name": "Emma Elena Grace",
+          "url": "https://open.spotify.com/artist/1Mc3xsFMKi5eXRqNbUq1Wc"
+        }
+      ],
+      "duration_ms": 198496,
+      "name": "Devil That You Know",
+      "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
     },
     {
       "added_at": "2026-08-28 04:02:01",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-08-28 04:02:01",
       "album": {
-        "name": "Dark Days",
-        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
-      },
-      "artists": [
-        {
-          "name": "Moose Miller",
-          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
-        }
-      ],
-      "duration_ms": 251197,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
-    },
-    {
-      "added_at": "2026-08-28 04:02:01",
-      "album": {
         "name": "Neon Sounds",
         "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 247013,
       "name": "Hey! You Know You Wanna!",
       "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
+    },
+    {
+      "added_at": "2026-08-28 04:02:01",
+      "album": {
+        "name": "Dark Days",
+        "url": "https://open.spotify.com/album/2Yl1dW63gqEpM4WlUo9eDn"
+      },
+      "artists": [
+        {
+          "name": "Moose Miller",
+          "url": "https://open.spotify.com/artist/5VZSk60xNyoK3vTJmzoHlV"
+        }
+      ],
+      "duration_ms": 251197,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
     },
     {
       "added_at": "2026-08-28 04:02:01",

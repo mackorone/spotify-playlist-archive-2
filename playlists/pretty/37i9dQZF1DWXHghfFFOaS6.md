@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,952 likes - 90 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,003 likes - 90 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 36 | [All or Nothing](https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Tanya Morgan](https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 3:46 |
 | 37 | [Feel The Real](https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm) | [David Bendeth](https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe) | [Adrenalin](https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe) | 6:50 |
 | 38 | [Lord Jazz Hit Me One Time \(Make It Funky\)](https://open.spotify.com/track/2vWaZmzwxRDNYySRGUdq3N) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 2:46 |
-| 39 | [Changin'](https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction](https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV) | 8:14 |
-| 40 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 |
+| 39 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 |
+| 40 | [Changin'](https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction](https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV) | 8:14 |
 | 41 | [Apple Green](https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [The People Tree](https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y) | 4:25 |
 | 42 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
 | 43 | [Keep Your Head Up](https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Fay Simpson](https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 4:41 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 86 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
 | 87 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
 | 88 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
-| 89 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
-| 90 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
+| 89 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
+| 90 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
 
-Snapshot ID: `AAAAAGYuWAq5PjUC1Qf4v1pfCFnmRq40`
+Snapshot ID: `AAAAAGYS6dMRrIXIIyqqUTM7H7Vcv9NC`

@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-1,352 songs - 3 day 8 hr 29 min
+1,353 songs - 3 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 | 2025-10-10 | 2026-08-14 |
 | [Emotion FM](https://open.spotify.com/track/6KnFnI5Ki0DPLmR23AeDIb) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Emotion FM](https://open.spotify.com/album/3SoYH9xcNQNNL696KIaU0S) | 4:49 | 2024-07-19 | 2024-08-31 |
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2023-03-03 | 2024-05-18 |
+| [Empty Space](https://open.spotify.com/track/6l6gjvRXfEt2pJbJ3MjhEb) | [Key4050](https://open.spotify.com/artist/22sHF6RlJRVbkcLbaTLxaD), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK), [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Empty Space](https://open.spotify.com/album/4BERGlRS12oGJ4qUIrvLy5) | 3:46 | 2026-08-27 |  |
 | [Encounter](https://open.spotify.com/track/45oSgCJoDcQcXjxssQPVZg) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [Encounter](https://open.spotify.com/album/2LYnFQKvtPlKp36HCRGuRv) | 3:37 | 2021-12-17 | 2022-02-26 |
 | [End Of Time](https://open.spotify.com/track/5yoFtDZJzZUmptrpnQiXsD) | [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [End Of Time](https://open.spotify.com/album/5swpo2MesNA6V7OBY2orFT) | 3:23 | 2023-01-13 | 2023-05-20 |
 | [Endless Euphoria](https://open.spotify.com/track/7dlxSY7v6Ol0jEhS9qTFMh) | [UDM](https://open.spotify.com/artist/3U6JSfkIevHN1HIx03CjVd) | [Endless Euphoria](https://open.spotify.com/album/5J2dfgF23SROU9dC32ewjz) | 3:24 | 2023-06-09 | 2024-05-18 |
@@ -608,7 +609,7 @@
 | [Infinity](https://open.spotify.com/track/2gwmzjBRPv1ElKevOdp3Ld) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Infinity](https://open.spotify.com/album/6fBOUmSFyjXFfKF71uRDjZ) | 4:07 | 2023-07-07 | 2024-07-13 |
 | [Inner Strength \- Original Progressive Mix](https://open.spotify.com/track/4rfwxsfsqN8de5BrJxJK5k) | [DRYM](https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Inner Strength \(Progressive Mix\)](https://open.spotify.com/album/3fRb4Yr6TcX2dCOXhdeuPh) | 2:59 | 2023-03-03 | 2023-06-10 |
 | [Innocence](https://open.spotify.com/track/72g5MSt0ctPo7Sv3Ccctdf) | [Sam Laxton](https://open.spotify.com/artist/53Nb2hmEBQV4dbkKbTpSnU) | [Innocence](https://open.spotify.com/album/5ZB36wLX4P7aozcWcmjKc4) | 3:37 | 2022-10-14 | 2024-02-17 |
-| [Inside This Room](https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Inside This Room](https://open.spotify.com/album/3guP2LE0HLHwyoqweuEoYF) | 3:12 | 2026-04-17 |  |
+| [Inside This Room](https://open.spotify.com/track/4zTS6PkVA4MwOQMTqXDbCd) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Inside This Room](https://open.spotify.com/album/3guP2LE0HLHwyoqweuEoYF) | 3:12 | 2026-04-17 | 2026-08-29 |
 | [INTO MY ARMS](https://open.spotify.com/track/7MKJv10BVcfkZSJZzOmtvI) | [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8), [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [INTO MY ARMS](https://open.spotify.com/album/6ZYPZJdWbJrCrCD0wTzM6t) | 3:54 | 2022-07-29 | 2023-07-08 |
 | [Into The Light](https://open.spotify.com/track/5iRBjzPlwuT9AxD8faTAHT) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [Into The Light](https://open.spotify.com/album/74oTPAiZ7krqcYj67XOnhR) | 2:32 | 2026-07-23 |  |
 | [Into the Night](https://open.spotify.com/track/2ucRE68wy12o3kV3y1cCKF) | [Audorn](https://open.spotify.com/artist/3vpObPX3081idCIxwXiXq1), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Into the Night](https://open.spotify.com/album/3wfgKnNiPc0cWt5JWiDdx8) | 4:00 | 2024-06-21 | 2025-05-17 |

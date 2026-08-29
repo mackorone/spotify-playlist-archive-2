@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -3589,6 +3589,28 @@
     },
     {
       "album": {
+        "name": "Balkan Paradise (feat. CA$HANOVA BULHAR)",
+        "url": "https://open.spotify.com/album/1lQIjnHBgf4OTAKRkuIZZX"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "CA$HANOVA BULHAR",
+          "url": "https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Balkan Paradise (feat. CA$HANOVA BULHAR)",
+      "url": "https://open.spotify.com/track/4Jzkzpf018hwnwNEpd0HU4"
+    },
+    {
+      "album": {
         "name": "St\u00e1t Ve St\u00ednu, Dot\u00fdkat Se Hv\u011bzd",
         "url": "https://open.spotify.com/album/4PkzJq6KqsHX5538WRr8Pi"
       },
@@ -3770,7 +3792,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/4Mxxo5gQcfVHY88DZU4Hpl"
@@ -19630,7 +19652,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
@@ -24538,7 +24560,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 203567,
       "name": "Mal\u00e1 d\u00e1ma",
       "url": "https://open.spotify.com/track/6Le5KOUhQgU4PQNkcX6sP4"
@@ -25788,7 +25810,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 250906,
       "name": "Modra",
       "url": "https://open.spotify.com/track/6WfhZNzOioBmDUq4xb5kvz"
@@ -25806,7 +25828,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 252880,
       "name": "Modr\u00e1",
       "url": "https://open.spotify.com/track/6aJ0kNBOQWW4vYfEKyOFEj"
@@ -26450,7 +26472,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -31032,7 +31054,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -35992,7 +36014,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 211891,
       "name": "Rozd\u011blen\u00fd sv\u011bty",
       "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
@@ -40504,7 +40526,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 165618,
       "name": "Svoboda",
       "url": "https://open.spotify.com/track/6QMXFOrO3SLcemX2lGRVP1"
@@ -43528,7 +43550,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -46248,7 +46270,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "V\u00edtej mezi n\u00e1ma (feat. STEIN27)",
       "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
@@ -46266,7 +46288,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 140940,
       "name": "V\u00cd\u0160 JAK BOL\u00cd \u0158\u00cdKAT RIP",
       "url": "https://open.spotify.com/track/37JjmZ1SC4aEahyUYHlXmM"

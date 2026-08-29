@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 
 > Level up your gaming with these afro tracks\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,336 likes - 77 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,352 likes - 77 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 | 47 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 |
 | 48 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 |
 | 49 | [iseoluwa](https://open.spotify.com/track/36GYWNzc0MwGSSmXZLP6bX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:18 |
-| 50 | [JET](https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [JET](https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW) | 2:55 |
-| 51 | [Che Che \(feat\. Asake\)](https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Che Che \(feat\. Asake\)](https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R) | 2:49 |
+| 50 | [Che Che \(feat\. Asake\)](https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Che Che \(feat\. Asake\)](https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R) | 2:49 |
+| 51 | [JET](https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [JET](https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW) | 2:55 |
 | 52 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 |
 | 53 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
 | 54 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 | 76 | [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 |
 | 77 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 |
 
-Snapshot ID: `AAAAAH6zQzmAF3ewUis7bokc9KTs4PID`
+Snapshot ID: `AAAAAGOA2Tw0RMe/1ONTnozS8No1aUnh`

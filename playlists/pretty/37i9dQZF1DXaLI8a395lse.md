@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,511,486 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511,608 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cherry\-coloured Funk](https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 3:12 |
 | 2 | [Linger](https://open.spotify.com/track/1aLNpg2kKvUncflV8xE5AA) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(The Complete Sessions 1991\-1993\)](https://open.spotify.com/album/6AR5l9eEiU5gMPv2wT1L9A) | 4:34 |
 | 3 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 |
-| 4 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
-| 5 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
+| 4 | [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 |
+| 5 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 6 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 7 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
 | 8 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 24 | [Disco 2000](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 4:33 |
 | 25 | [Beetlebum \- 2012 Remaster](https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 5:05 |
 | 26 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
-| 27 | [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 3:00 |
-| 28 | [Malibu](https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:50 |
+| 27 | [Malibu](https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:50 |
+| 28 | [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 3:00 |
 | 29 | [Between The Bars](https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:21 |
 | 30 | [Country House \- 2012 Remaster](https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Great Escape \(Special Edition\)](https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1) | 3:56 |
 | 31 | [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:11 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 51 | [You & Me Song](https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB) | [The Wannadies](https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh) | [Be A Girl](https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI) | 2:50 |
 | 52 | [Big Time Sensuality](https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 3:56 |
 | 53 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 4:28 |
-| 54 | [Kinky Afro](https://open.spotify.com/track/2ItPID4dgSL1t1ZbZCrg5S) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Greatest Hits](https://open.spotify.com/album/4KapcT8hGnauYnTSmxAkKh) | 3:59 |
-| 55 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
+| 54 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
+| 55 | [Kinky Afro](https://open.spotify.com/track/2ItPID4dgSL1t1ZbZCrg5S) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Greatest Hits](https://open.spotify.com/album/4KapcT8hGnauYnTSmxAkKh) | 3:59 |
 | 56 | [Something Changed](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 3:18 |
 | 57 | [The Boy With the Arab Strap](https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With the Arab Strap](https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ) | 5:14 |
 | 58 | [sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 79 | [Yes \- Full Version](https://open.spotify.com/track/6joAGL5IuD66Qgcz049ObW) | [McAlmont & Butler](https://open.spotify.com/artist/0BV7lpkyFTbzzML7DuUnpZ) | [The Sound Of McAlmont And Butler](https://open.spotify.com/album/0gquqV1L3QZjZJ0ExzxtMo) | 4:53 |
 | 80 | [A.M\. 180](https://open.spotify.com/track/1tMHDdJEz8MFrkPFgwFACG) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Under The Western Freeway](https://open.spotify.com/album/57FtCFNPyiqlltBLhFGDYi) | 3:20 |
 
-Snapshot ID: `AAAAAGDj/1BOJs67FCZY9aH3UZ4cx+xS`
+Snapshot ID: `AAAAANxU7Lps3Rt3T+rEB3Ul/WvUkysT`

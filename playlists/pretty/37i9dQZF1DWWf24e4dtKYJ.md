@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWf24e4dtKYJ.md) - [plain]
 
 > Local scenes\. Global stages\. 20 years of rock without borders\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,415 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,428 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWf24e4dtKYJ.md) - [plain]
 | 49 | [Let It Sway](https://open.spotify.com/track/5N4oOq8gWadCfckxZxMkyG) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Say Goodbye to Memory Den](https://open.spotify.com/album/4gOgu8fbqPbGfEIzoUGpi8) | 2:52 |
 | 50 | [God, Allow Me \(Please\) To Play Music](https://open.spotify.com/track/59BlGBvdsoYCbZjluaRv4m) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [Retas](https://open.spotify.com/album/3M6Up7oIsmbaqv5n5xxfFs) | 3:30 |
 
-Snapshot ID: `AAAAAOrdHOxC58i+pnOpLksZTqApt5TA`
+Snapshot ID: `AAAAAA1nEm0DoKeNnGJ+wdHm5D6QOBQN`

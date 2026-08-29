@@ -1,12 +1,12 @@
 {
   "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: Stray Kids)",
-  "num_followers": 1127351,
+  "num_followers": 1127583,
   "original_name": "KimBops!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABHQzbW7wULb1hbuQsRWY6qhB+zC",
+  "snapshot_id": "AAAAAPm9KG2UKdvciQbiNIk//q/lVymb",
   "tracks": [
     {
       "added_at": "2026-08-20 09:15:57",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-08-20 09:15:57",
       "album": {
-        "name": "NO LABELS: PART 02",
-        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
-      },
-      "artists": [
-        {
-          "name": "YEONJUN",
-          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
-        }
-      ],
-      "duration_ms": 124896,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
-    },
-    {
-      "added_at": "2026-08-20 09:15:57",
-      "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
+    },
+    {
+      "added_at": "2026-08-20 09:15:57",
+      "album": {
+        "name": "NO LABELS: PART 02",
+        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "duration_ms": 124896,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
     },
     {
       "added_at": "2026-08-20 09:15:57",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-08-20 09:15:57",
       "album": {
-        "name": "ROCK-STAR",
-        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+        "name": "MINISKIRT",
+        "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
         }
       ],
-      "duration_ms": 182224,
-      "name": "LALALALA",
-      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+      "duration_ms": 179808,
+      "name": "Miniskirt",
+      "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
     },
     {
       "added_at": "2026-08-20 09:15:57",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-08-20 09:15:57",
       "album": {
-        "name": "MINISKIRT",
-        "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
       },
       "artists": [
         {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 179808,
-      "name": "Miniskirt",
-      "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
     },
     {
       "added_at": "2026-08-20 09:15:57",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-20 09:15:57",
       "album": {
-        "name": "The Chase",
-        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 178900,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
-    },
-    {
-      "added_at": "2026-08-20 09:15:57",
-      "album": {
         "name": "AMORTAGE",
         "url": "https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 190806,
       "name": "earthquake",
       "url": "https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx"
+    },
+    {
+      "added_at": "2026-08-20 09:15:57",
+      "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
       "added_at": "2026-08-20 09:15:57",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-08-20 09:15:57",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2026-08-20 09:15:57",
+      "album": {
         "name": "SPOT!",
         "url": "https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 167706,
       "name": "SPOT!",
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
-    },
-    {
-      "added_at": "2026-08-20 09:15:57",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "added_at": "2026-08-20 09:15:57",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-08-20 09:15:57",
       "album": {
-        "name": "play hard",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
-    },
-    {
-      "added_at": "2026-08-20 09:15:57",
-      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2026-08-20 09:15:57",
+      "album": {
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 148810,
+      "name": "Walkin On Water",
+      "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
     },
     {
       "added_at": "2026-08-20 09:15:57",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-08-20 09:15:57",
       "album": {
-        "name": "HOP",
-        "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
+        "name": "play hard",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
         }
       ],
-      "duration_ms": 148810,
-      "name": "Walkin On Water",
-      "url": "https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm"
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
     },
     {
       "added_at": "2026-08-20 09:15:57",

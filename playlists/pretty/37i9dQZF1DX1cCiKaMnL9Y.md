@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cCiKaMnL9Y.md) - [plain]
 
 > Power up with iconic tracks from the Super Mario Bros\. Movies, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,308 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,346 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cCiKaMnL9Y.md) - [plain]
 | 60 | [Bonus Level](https://open.spotify.com/track/06qoFHHTPIquZO8usQwsBA) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:01 |
 | 61 | [Level Complete](https://open.spotify.com/track/4M4R19bQjkABzjResTozBt) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 2:32 |
 
-Snapshot ID: `AAAAALqENe9BdWf3g1E9sAUIZtVtV/Y3`
+Snapshot ID: `AAAAACYZBEdCxgaCtfKC8Ym3uyo0uipR`

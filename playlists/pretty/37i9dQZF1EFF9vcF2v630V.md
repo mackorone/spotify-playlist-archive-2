@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1ZwPZeXfWTcEVLQRCOBcvc">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572 likes - 76 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 573 likes - 76 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 75 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [dreamhouse](https://open.spotify.com/artist/4RfivXSc4tPlg4avnBN5PJ) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 | 76 | [Yours](https://open.spotify.com/track/2z7duIciqreJ2TgxgA4Hr6) | [G.E.N](https://open.spotify.com/artist/4Y3tXdzJcL5QK0xtwzZ6bH) | [Yours](https://open.spotify.com/album/3Biv04oSSRa7hpjqGSOhmP) | 2:50 |
 
-Snapshot ID: `AcawKAAAAAAebT+//1BVExYAej+/tOR3`
+Snapshot ID: `Aca1FAAAAAA4mShv/0PZ/TraO9Dw9w51`

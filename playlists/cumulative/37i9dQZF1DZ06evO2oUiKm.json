@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Night Blooms",
+        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn"
+    },
+    {
+      "album": {
         "name": "If I Only Had A Brain",
         "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
       },
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 190026,
       "name": "If I Only Had A Brain",
       "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"

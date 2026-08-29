@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Juliana Gattas",
-  "num_followers": 77573,
+  "num_followers": 77581,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPOtzLxlbE/4nVdGWCN9VNfpR2kA",
+  "snapshot_id": "AAAAABoATGDaeuDgCxGURXRZSBk9qCzF",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:07",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "+ Te Vale",
-        "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 144732,
-      "name": "+ Te Vale",
-      "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "+ Te Vale",
+        "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 144732,
+      "name": "+ Te Vale",
+      "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -927,26 +927,18 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
-        "url": "https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C"
+        "name": "AWCH",
+        "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
       },
       "artists": [
         {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 184232,
-      "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
-      "url": "https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS"
+      "duration_ms": 189756,
+      "name": "AWCH",
+      "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -971,18 +963,26 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "AWCH",
-        "url": "https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA"
+        "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
+        "url": "https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C"
       },
       "artists": [
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 189756,
-      "name": "AWCH",
-      "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
+      "duration_ms": 184232,
+      "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
+      "url": "https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Hielo al Vino",
-        "url": "https://open.spotify.com/album/2iSgr6F1bwC1Gjk5a5dmxG"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Hielo al Vino",
-      "url": "https://open.spotify.com/track/6YwNbkObXK6lUcgWis1vhC"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "Palmeras en el jard\u00edn",
         "url": "https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 180725,
       "name": "Palmeras en el jard\u00edn",
       "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "Hielo al Vino",
+        "url": "https://open.spotify.com/album/2iSgr6F1bwC1Gjk5a5dmxG"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Hielo al Vino",
+      "url": "https://open.spotify.com/track/6YwNbkObXK6lUcgWis1vhC"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1103,22 +1103,22 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+        "name": "Por Ese Hombre",
+        "url": "https://open.spotify.com/album/4h3BqE5RLSLpFHQKNMIfTI"
       },
       "artists": [
         {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         },
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         }
       ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+      "duration_ms": 259136,
+      "name": "Por Ese Hombre",
+      "url": "https://open.spotify.com/track/1stm0GYHeqE0TLREIQ2vtn"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1139,22 +1139,22 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Por Ese Hombre",
-        "url": "https://open.spotify.com/album/4h3BqE5RLSLpFHQKNMIfTI"
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
         },
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 259136,
-      "name": "Por Ese Hombre",
-      "url": "https://open.spotify.com/track/1stm0GYHeqE0TLREIQ2vtn"
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "ESO Y M\u00c1S",
-        "url": "https://open.spotify.com/album/0u5fdWFGri22N2DYST1yNo"
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
         }
       ],
-      "duration_ms": 147712,
-      "name": "ESO Y M\u00c1S",
-      "url": "https://open.spotify.com/track/3dSIBA6tLeEKjYMPBbytRc"
+      "duration_ms": 205053,
+      "name": "Maldita Noche",
+      "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/1kzE1CE66xMmJyh6rzWJzj"
+        "name": "ESO Y M\u00c1S",
+        "url": "https://open.spotify.com/album/0u5fdWFGri22N2DYST1yNo"
       },
       "artists": [
         {
-          "name": "Bandana",
-          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         }
       ],
-      "duration_ms": 205053,
-      "name": "Maldita Noche",
-      "url": "https://open.spotify.com/track/4hG3BN5iiURXPGDUQxfJ8b"
+      "duration_ms": 147712,
+      "name": "ESO Y M\u00c1S",
+      "url": "https://open.spotify.com/track/3dSIBA6tLeEKjYMPBbytRc"
     },
     {
       "added_at": "2026-07-31 03:00:07",

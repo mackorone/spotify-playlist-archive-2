@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,205 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,269 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 9 | [Fantastic Baby](https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:50 |
 | 10 | [Tonight](https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:43 |
 | 11 | [Last Farewell](https://open.spotify.com/track/7KDHGgYt5fF2Lh9FxMbVML) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Hot Issue](https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC) | 3:51 |
-| 12 | [LET'S NOT FALL IN LOVE](https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:31 |
+| 12 | [LOSER](https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:39 |
 | 13 | [Bad Boy](https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:56 |
 | 14 | [FLOWER ROAD](https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [FLOWER ROAD](https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx) | 3:48 |
 | 15 | [Monster](https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:51 |
-| 16 | [LOSER](https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:39 |
+| 16 | [LET'S NOT FALL IN LOVE](https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:31 |
 | 17 | [Love Song](https://open.spotify.com/track/784qSLhmIjbc37plSfaPzF) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:45 |
 | 18 | [My Heaven](https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 3:52 |
 | 19 | [Top Of The World](https://open.spotify.com/track/7FXxI7DL2BDc2VgE9gRoUA) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ガラガラ GO！！](https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh) | 3:00 |
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 24 | [LAST DANCE](https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 4:39 |
 | 25 | [A Fool Of Tears](https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 4:02 |
 | 26 | [Still Alive](https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:18 |
-| 27 | [Love Dust \(사랑 먼지\)](https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:51 |
-| 28 | [Hands Up](https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:57 |
+| 27 | [Hands Up](https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:57 |
+| 28 | [Love Dust \(사랑 먼지\)](https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:51 |
 | 29 | [This Love \(G\-Dragon Solo\)](https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:32 |
 | 30 | [Lollipop](https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp), [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:08 |
-| 31 | [Wings \(날개\) \[Daesung Solo\]](https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
-| 32 | [Cafe](https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:39 |
+| 31 | [Cafe](https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:39 |
+| 32 | [Wings \(날개\) \[Daesung Solo\]](https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
 | 33 | [La La La](https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 2:59 |
 | 34 | [Always](https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:53 |
-| 35 | [Wonderful](https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 3:30 |
-| 36 | [What Is Right](https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:44 |
+| 35 | [What Is Right](https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:44 |
+| 36 | [Wonderful](https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 3:30 |
 | 37 | [Tell Me Goodbye](https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Radar de Éxitos: K\-Pop](https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi) | 4:05 |
 | 38 | [Ain't No Fun \(재미없어\)](https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
 | 39 | [Fool](https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Hot Issue](https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 49 | [Number 1](https://open.spotify.com/track/5gE2yPrsKkVIQ2WXzEKJTF) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [2009 BIGBANG LIVE CONCERT : BIG SHOW](https://open.spotify.com/album/1jEFohZ79xLBF0UxwBdi2V) | 3:18 |
 | 50 | [SUPER STAR \- BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/track/2GrmNtTCulwxR9lk8NQBAD) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB) | 4:04 |
 
-Snapshot ID: `ao4sgAAAAACBMA+77U4jkNtlO65hfg2/`
+Snapshot ID: `ao9+AAAAAAA02T+eL7UnqcXKA5Iqdx6x`

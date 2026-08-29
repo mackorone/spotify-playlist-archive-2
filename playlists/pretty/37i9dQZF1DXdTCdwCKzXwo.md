@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,217 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,251 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Mystery Achievement \- 2006 Remaster](https://open.spotify.com/track/2xTk109VtSva8rmQvb2Esn) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 5:22 |
 | 75 | [I Know What Boys Like](https://open.spotify.com/track/2SXRFmLvNjOTuL9eCYWsrx) | [The Waitresses](https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8) | [The Best Of The Waitresses](https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU) | 3:13 |
 
-Snapshot ID: `AAAAAJDi2Z1c8jOudFuUQ4kYy+yVqZGU`
+Snapshot ID: `AAAAACDexOzJOJJdIdN2LN4QPN624X6j`

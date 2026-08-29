@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Wine Lips
 
-2,084 songs - 4 day 21 hr 52 min
+2,085 songs - 4 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [Bones For The Crows](https://open.spotify.com/track/37vEcnzAkAOdb7zqxLqHvb) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Bones For The Crows](https://open.spotify.com/album/1jKDs3Oq7HAY05DffoP4Fg) | 4:04 | 2026-03-20 | 2026-05-02 |
 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 | 2022-09-30 | 2023-03-11 |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-10 | 2024-09-07 |
-| [Boomerang](https://open.spotify.com/track/4z0qFC4CvomKKleyZ5tq4f) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Boomerang](https://open.spotify.com/album/0dR8SKHEpjQuHhXpxQcbUz) | 3:31 | 2026-08-28 |  |
+| [Boomerang](https://open.spotify.com/track/4z0qFC4CvomKKleyZ5tq4f) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Boomerang](https://open.spotify.com/album/0dR8SKHEpjQuHhXpxQcbUz) | 3:31 | 2026-08-28 | 2026-08-29 |
+| [Boomerang](https://open.spotify.com/track/53ME7mRitjblNcZsvMGKH5) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Boomerang](https://open.spotify.com/album/3bLzoXBp4F6RZ0IFWaJeqt) | 3:31 | 2026-08-28 |  |
 | [Boring](https://open.spotify.com/track/3spIBfS55NF9IryAYhrIx4) | [Taylor Jackson](https://open.spotify.com/artist/7nGtZvEYXujS2JZVlgxCif) | [Boring](https://open.spotify.com/album/3SU3XSQEgOPh45ujeuM3K2) | 2:34 | 2024-08-09 | 2024-08-24 |
 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 | 2021-12-31 | 2022-06-11 |
 | [Bottle Blonde](https://open.spotify.com/track/4sXXCX5zFrXEgWbB9YJ2QV) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bottle Blonde](https://open.spotify.com/album/5ywATNE9YoDsnTfZgDFwDA) | 2:39 | 2025-02-28 | 2025-03-15 |

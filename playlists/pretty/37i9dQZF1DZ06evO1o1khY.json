@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 45481,
+  "num_followers": 45493,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAD7aGBNzvw0hQp7bbxde75y",
+  "snapshot_id": "ao9+AAAAAAChoBapw4P+p5rPKI2C/Zme",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOMF (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "GOMF (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Access All Areas",
         "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 188348,
       "name": "In My Bag (feat. GloRilla)",
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOMF (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "GOMF (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat 'Em Up",
-        "url": "https://open.spotify.com/album/6alxQLTcjpRf7SYfUcmfCF"
-      },
-      "artists": [
-        {
-          "name": "Reese's Puffs",
-          "url": "https://open.spotify.com/artist/2QFZNaEkhZ7tXUU2W3QSQl"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 79223,
-      "name": "Eat 'Em Up",
-      "url": "https://open.spotify.com/track/77vHCGBBmOiu8gQFsHBXdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Part 3",
         "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 153232,
       "name": "To The Side (with GloRilla)",
       "url": "https://open.spotify.com/track/4B0nsYvTtZ0oAyr5MjkXU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eat 'Em Up",
+        "url": "https://open.spotify.com/album/6alxQLTcjpRf7SYfUcmfCF"
+      },
+      "artists": [
+        {
+          "name": "Reese's Puffs",
+          "url": "https://open.spotify.com/artist/2QFZNaEkhZ7tXUU2W3QSQl"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 79223,
+      "name": "Eat 'Em Up",
+      "url": "https://open.spotify.com/track/77vHCGBBmOiu8gQFsHBXdc"
     },
     {
       "added_at": null,

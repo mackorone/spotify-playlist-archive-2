@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > in the mood for love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,535,415 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,535,338 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 3 | [Distant Lover](https://open.spotify.com/track/7vpkmzisaB8R47XlxyTcfs) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe) | 4:16 |
 | 4 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
 | 5 | [Nobody \(feat\. Athena Cage\)](https://open.spotify.com/track/4SF1747p541umnykBp352Q) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m), [Athena Cage](https://open.spotify.com/artist/2kqVmaPdvLEcfaT9oibK27) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:24 |
-| 6 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
-| 7 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 |
+| 6 | [Breakin' My Heart \(Pretty Brown Eyes\)](https://open.spotify.com/track/18sytW2s53Of6NVudQyUlH) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [Meant To Be Mint](https://open.spotify.com/album/3ZBXtcukYi3AdNtf7rtpGr) | 5:56 |
+| 7 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 8 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
 | 9 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 |
 | 10 | [Cupid](https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:12 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 20 | [Share My World](https://open.spotify.com/track/1HvmjWFZpe1lrEl1ehLsvr) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 5:07 |
 | 21 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
 | 22 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 |
-| 23 | [Freak Me](https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:34 |
-| 24 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
+| 23 | [All The Things \(Your Man Won't Do\)](https://open.spotify.com/track/3UGNdLrhhsK0SY9gNqe8TT) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [All That I Am](https://open.spotify.com/album/7Kb0pU8LBYOoI6hoj7ajHJ) | 6:20 |
+| 24 | [Freak Me](https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:34 |
 | 25 | [Reasons](https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 4:59 |
 | 26 | [Where I Wanna Be](https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:13 |
 | 27 | [Tender Love](https://open.spotify.com/track/6D527hFJzl1vWSzosEbyQk) | [Force M.D.'s](https://open.spotify.com/artist/3KpLtTMpLAko7nBDmiYg7Z) | [Chillin'](https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR) | 3:54 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 39 | [I Gotta Be](https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [A Jagged Era](https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB) | 3:35 |
 | 40 | [So Fine](https://open.spotify.com/track/6KbwCku0kfegSak3qJYDlh) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 6:16 |
 | 41 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
-| 42 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
-| 43 | [Nobody's Supposed to Be Here](https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:22 |
+| 42 | [Nobody's Supposed to Be Here](https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:22 |
+| 43 | [Kissin' You](https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:42 |
 | 44 | [Love U 4 Life](https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 4:50 |
 | 45 | [Promise](https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:06 |
 | 46 | [If I Ever Fall In Love](https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW) | [Shai](https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3), [Bill Appleberry](https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ) | [If I Ever Fall In Love](https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 49 | [My Heart Belongs To U](https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Diary Of A Mad Band](https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj) | 5:02 |
 | 50 | [Ribbon In The Sky](https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab) | 5:37 |
 
-Snapshot ID: `AAAAACy0mUHTmh3Iwg9eNigoaXLiT4Qu`
+Snapshot ID: `AAAAAOUixQRrMQPITTFs1CRGULbcMW4z`

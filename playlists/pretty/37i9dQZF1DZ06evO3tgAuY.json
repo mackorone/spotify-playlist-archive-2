@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2449,
+  "num_followers": 2450,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABUavuloBkuF9TgFqyi5c/o",
+  "snapshot_id": "ao9+AAAAAABLtHnsfICtJOWBjOIbOlzi",
   "tracks": [
     {
       "added_at": null,
@@ -291,30 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Copa",
-        "url": "https://open.spotify.com/album/3Hygvhaxw3UB4kRknoCDRe"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Copa",
-      "url": "https://open.spotify.com/track/4HSQu9jV9WrADVgo9wW1Kk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MASARYK / BIEN PEDO",
         "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 140820,
       "name": "GPI - Remix",
       "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Copa",
+        "url": "https://open.spotify.com/album/3Hygvhaxw3UB4kRknoCDRe"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Copa",
+      "url": "https://open.spotify.com/track/4HSQu9jV9WrADVgo9wW1Kk"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Credo",
-        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Mi Credo",
-      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vino Rosa",
         "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Credo",
+        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MASARYK / BIEN PEDO",
         "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
       },
@@ -611,26 +611,6 @@
       "duration_ms": 146250,
       "name": "BIEN PEDO",
       "url": "https://open.spotify.com/track/7sduQZMezgZjyUkPhZjz8a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culichi Vibes",
-        "url": "https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 189351,
-      "name": "Culichi Vibes",
-      "url": "https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9"
     },
     {
       "added_at": null,
@@ -671,6 +651,26 @@
       "duration_ms": 165000,
       "name": "BELIKBOY",
       "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culichi Vibes",
+        "url": "https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 189351,
+      "name": "Culichi Vibes",
+      "url": "https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fama De Ingrata",
-        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bsod3",
         "url": "https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx"
       },
@@ -831,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fama De Ingrata",
+        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFROLANDIA",
         "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 153402,
       "name": "SI MUERO MA\u00d1ANA",
       "url": "https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Digas No",
+        "url": "https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 169780,
+      "name": "No Digas No",
+      "url": "https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ"
     },
     {
       "added_at": null,
@@ -891,26 +911,6 @@
       "duration_ms": 127058,
       "name": "DESDE MIS OJOS",
       "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Digas No",
-        "url": "https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH"
-      },
-      "artists": [
-        {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 169780,
-      "name": "No Digas No",
-      "url": "https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ"
     },
     {
       "added_at": null,

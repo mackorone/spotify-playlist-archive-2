@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267192,
+  "num_followers": 267193,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACA50t0nrDZQdnfmf1PHUcX",
+  "snapshot_id": "ao9+AAAAAADzmuZO9bbu7xju1YDBm73D",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Famous Friends",
+        "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 166506,
+      "name": "Famous Friends",
+      "url": "https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Like That (feat. Swae Lee & Khalid)",
         "url": "https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 191406,
       "name": "Be Like That - feat. Swae Lee & Khalid",
       "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Famous Friends",
-        "url": "https://open.spotify.com/album/4WyhB7bn1Dy3w7GBWUAO1a"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 166506,
-      "name": "Famous Friends",
-      "url": "https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blessed & Free",
         "url": "https://open.spotify.com/album/055uuuPMs7soYjnONo02QV"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 198171,
       "name": "Blessed & Free",
       "url": "https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worship You",
-        "url": "https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Worship You",
-      "url": "https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ"
     },
     {
       "added_at": null,

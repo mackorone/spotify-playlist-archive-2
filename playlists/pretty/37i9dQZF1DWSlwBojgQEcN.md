@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571,143 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,570,967 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 80 | [Highway Woman](https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Highway Woman](https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI) | 3:48 |
 | 81 | [Who Saved Who](https://open.spotify.com/track/3xQMRlwBgqvYWJX8TsOOgq) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv), [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy) | [Who Saved Who](https://open.spotify.com/album/50Ddcp9wVHb6ZRNkJ5WbbX) | 4:05 |
 | 82 | [Wedding Song](https://open.spotify.com/track/0jncXf6jewaysWY90QkzNV) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:04 |
-| 83 | [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 |
-| 84 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
-| 85 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:29 |
+| 83 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:29 |
+| 84 | [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 |
+| 85 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 | 86 | [Love Is Blind](https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw) | 3:53 |
 | 87 | [Whatever You Do](https://open.spotify.com/track/4K37GcwIOuIiN9LxLw98Us) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Whatever You Do](https://open.spotify.com/album/01MktWtflLn2FrKjMYNtVM) | 4:07 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 90 | [Chandelier Love](https://open.spotify.com/track/1ct2wAU6FAIIGhfw8EsnKA) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:23 |
 | 91 | [Swim the River](https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Swim the River](https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb) | 2:55 |
 | 92 | [Marry Me](https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Marry Me](https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD) | 3:01 |
-| 93 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
-| 94 | [Care for Me](https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE) | [Lee Henke](https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T) | [Schema \- EP](https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo) | 4:11 |
-| 95 | [In Good Times](https://open.spotify.com/track/3gCZCyMbMK0jHCRDQfpKrX) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 2:51 |
-| 96 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 |
+| 93 | [Care for Me](https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE) | [Lee Henke](https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T) | [Schema \- EP](https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo) | 4:11 |
+| 94 | [In Good Times](https://open.spotify.com/track/3gCZCyMbMK0jHCRDQfpKrX) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 2:51 |
+| 95 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 |
+| 96 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
 | 97 | [Love Is a Made up Word](https://open.spotify.com/track/1dUfHTOZfjE7fqpqd5zjpH) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Love Is a Made up Word](https://open.spotify.com/album/16nXFlZeEgcDuSCEr8fjKD) | 3:06 |
 | 98 | [Tape 03](https://open.spotify.com/track/2ZO1Y1Bbot1jrdPApAyCV2) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 4:40 |
 | 99 | [The Future](https://open.spotify.com/track/2OVqYcvadhEjes5Rql8vvt) | [Anna Barnett](https://open.spotify.com/artist/2ah0mxguVUG73HhXLiOP8O) | [EP](https://open.spotify.com/album/64NIyNjVtVFBy23uL5PV87) | 5:57 |
 | 100 | [When the Sun Comes Up](https://open.spotify.com/track/1xijgB270GQezhBIDmlCz8) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/5mhoyzo8SnB09QVeJtiwlm) | 3:55 |
 
-Snapshot ID: `AAAAAFjWg6C+HbxljkA7uD3wJnyyUgw7`
+Snapshot ID: `AAAAAJxeoHpgIVr6RplZtzkGGT/cXw6G`

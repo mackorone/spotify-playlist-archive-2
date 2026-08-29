@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 24349,
+  "num_followers": 24355,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADMASFn2K+d+OwPPm5xZ4vF",
+  "snapshot_id": "ao9+AAAAAABMsptRnn4xacZLr2X9sG1p",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "We've Had Enough",
-      "url": "https://open.spotify.com/track/7HiVHdZfH5zK9pNttg9yX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Shame Is True (Deluxe Edition)",
         "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 168773,
       "name": "She Lied To The FBI",
       "url": "https://open.spotify.com/track/3rQWKxOJtn2EXr6j3KfHdO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "We've Had Enough",
+      "url": "https://open.spotify.com/track/7HiVHdZfH5zK9pNttg9yX2"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Continental",
-      "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bleeding Out",
         "url": "https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 181016,
       "name": "Bleeding Out",
       "url": "https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "All on Black",
-      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agony & Irony (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood, Hair, And Eyeballs",
-        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 225946,
-      "name": "Hot For Preacher",
-      "url": "https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG"
+      "duration_ms": 240213,
+      "name": "All on Black",
+      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
       "duration_ms": 170133,
       "name": "Steamer Trunk",
       "url": "https://open.spotify.com/track/6VlELdo8zKE5vSPxTddfHx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood, Hair, And Eyeballs",
+        "url": "https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Hot For Preacher",
+      "url": "https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Queen Of Pain",
-      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 187480,
       "name": "Maybe I'll Catch Fire",
       "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Queen Of Pain",
+      "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,118 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,378 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [Vete](https://open.spotify.com/track/5L333gqeSv8XYJ0bSFg5BZ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/2NQNYRmkftSlFJdchBTwC1) | 2:55 |
 | 50 | [se me sale](https://open.spotify.com/track/0ot4EnQroudoSofYXOfgsU) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 2:26 |
 
-Snapshot ID: `ao4sgAAAAADyok7fxaNcS2atuLx3oDWj`
+Snapshot ID: `ao9+AAAAAAA+wLxjY6K2r8iX3VZ0U8z2`

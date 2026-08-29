@@ -4,7 +4,7 @@
 
 > 
 
-1,151 songs - 3 day 0 hr 15 min
+1,159 songs - 3 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 | 2026-05-30 |  |
 | [Bastards & Broken Things](https://open.spotify.com/track/11lSGvKG4iozYAVfM4vnD8) | [Valar Morghulis](https://open.spotify.com/artist/36ziR9uhd3p9xhOJ93zWqa) | [Bastards & Broken Things](https://open.spotify.com/album/2qJ04VblqiNdiYwzwEOOoW) | 4:26 | 2025-05-06 |  |
 | [Batteries Are Not Included](https://open.spotify.com/track/5Yvf4ahxBIsMkQ9PWjSpT8) | [WakeUpCall](https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve) | [Batteries Are Not Included](https://open.spotify.com/album/6ZuVQpTUoh1HIrftDoxiH8) | 3:31 | 2025-12-17 |  |
+| [Be Fine](https://open.spotify.com/track/5P7QYmlOAGLbiThDsPYRCr) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/008Zi78Bpbq2bZvISxuLqw) | 3:21 | 2026-08-28 |  |
 | [Beatdown Bells](https://open.spotify.com/track/3cH4kgahHKmYLsniWHuE6H) | [No One Leaves](https://open.spotify.com/artist/1IqC2HBqkWcCCiclMwAA9I) | [Beatdown Bells](https://open.spotify.com/album/5oI8VQYCpiTDDEm6FUYk9W) | 2:05 | 2026-07-30 |  |
 | [Bebeğim](https://open.spotify.com/track/0UE1X4VimOchf2p37eE4uh) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Bebeğim](https://open.spotify.com/album/78VtGQ3K0YPQxKHXrFuAyh) | 3:11 | 2026-01-14 |  |
 | [Bees and Bubs](https://open.spotify.com/track/0mw3krbSS5TW3XBJfbspbT) | [Muncie](https://open.spotify.com/artist/3JIrnHT3H4kuIhj65Xkgmh) | [Muncie](https://open.spotify.com/album/5XZX4yBnalPJSR8SC0RI7V) | 4:45 | 2025-06-29 |  |
@@ -221,6 +222,7 @@
 | [Dark Match](https://open.spotify.com/track/5MB2LqLeo2TBMAo11yZhSx) | [Bartertown](https://open.spotify.com/artist/38qnXcLuvsv61loNVcXJvX) | [Fire on the Lighthouse](https://open.spotify.com/album/3aa1qVfJJNAQKW5yvCu1wL) | 4:42 | 2025-03-18 |  |
 | [Days of Cold Sleep](https://open.spotify.com/track/1jJ6Ig2seZGuEHrEgQTDi2) | [Tethra](https://open.spotify.com/artist/5BO4GJKBmoRm1Ejhl4ebUg) | [Withered Heart Standing](https://open.spotify.com/album/11SbvxXRPa8fGLffqrG8J5) | 7:12 | 2025-02-09 |  |
 | [Dead To Me](https://open.spotify.com/track/0P9XoT0xpvQUSU8PfkJ9Al) | [GATE49](https://open.spotify.com/artist/3H6d2Ium6kqak079Rg0LHG) | [Dead To Me](https://open.spotify.com/album/0naLIat48W6NkYybVCckCo) | 2:13 | 2025-06-30 |  |
+| [DEAD TO ME](https://open.spotify.com/track/3qMCxw1Ft0kwAlxd95U1m8) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [MEDUSA](https://open.spotify.com/album/4RQq7Irj68CN1uYQhO1qDC) | 3:16 | 2026-08-28 |  |
 | [Deadly Rendezvous](https://open.spotify.com/track/4bSLovPvrRKVubckzvUkH0) | [Bloody Moon](https://open.spotify.com/artist/1JcF9RmNgglX6pxru1bCz3) | [Deadly Rendezvous](https://open.spotify.com/album/31Ud0RWrZ7Ho4KfNfLJTlK) | 3:52 | 2025-11-19 |  |
 | [Dear Life](https://open.spotify.com/track/2YF3yvLeegk8Qu8cfJMFda) | [Summer Colds](https://open.spotify.com/artist/1KO4w7F0yxQpGqN6w5unBn) | [Dear Life](https://open.spotify.com/album/2dQTUOCE0wZy47WHq7LGqH) | 4:34 | 2026-01-23 |  |
 | [DEATH SCROLL](https://open.spotify.com/track/4LEk5RBeufFVVcTlJooC85) | [MOKERY](https://open.spotify.com/artist/3nWbQMqXdKk06MivOJvpmb) | [DEATH SCROLL](https://open.spotify.com/album/4jpwaQ0o1gubKt1EyCuNoa) | 3:37 | 2025-05-15 |  |
@@ -246,6 +248,7 @@
 | [Digan lo que digan](https://open.spotify.com/track/47HWicWuQGJhs2sAVrU9gL) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 3:25 | 2026-04-26 |  |
 | [Diplomat Motel](https://open.spotify.com/track/2JvxVu7yPLBA4SWnDrxeLj) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Earth](https://open.spotify.com/album/4yeeqhBhjA7OzVcZ2Siq4W) | 2:59 | 2024-12-12 |  |
 | [Disarray](https://open.spotify.com/track/2AsJLUMGxqRC2kGr8bZKca) | [motionyear.](https://open.spotify.com/artist/1RObsV7QVHowlbE321jzrq) | [Disarray](https://open.spotify.com/album/6LUJewJyM7aJ8DQZWwsHPC) | 3:10 | 2025-02-07 |  |
+| [Dispárame](https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Todos Amigos](https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr) | 3:27 | 2026-08-28 |  |
 | [Distressed](https://open.spotify.com/track/3qXkHbGzo4wgWK2JxKvdpP) | [Homesick](https://open.spotify.com/artist/4BugzXr3GBpFd1ZAPtmxLQ) | [Distressed](https://open.spotify.com/album/6HnER5fTuyONzb0nguJWKN) | 2:55 | 2025-09-18 |  |
 | [Divorce](https://open.spotify.com/track/133pq8LPdobWKqOhHG4Ru4) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [The Opposite Way Around](https://open.spotify.com/album/7CzQMUytawf1YgfLqYRK9R) | 4:05 | 2024-12-12 |  |
 | [DJ Got Us Fallin' In Love \(feat\. Pitbull\)](https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 3:40 | 2024-11-12 |  |
@@ -302,6 +305,7 @@
 | [Eternal](https://open.spotify.com/track/0iK89IRmP3zbE71hTglRdZ) | [Wrongler](https://open.spotify.com/artist/2FQODaYjskfIeykD9dDF8Y) | [Eternal](https://open.spotify.com/album/5jjPCsZCVDs8wRLTc9VQXo) | 3:43 | 2025-03-18 |  |
 | [Eternal Bloodbath](https://open.spotify.com/track/5qJoWdRn4lKJkCTwRpledr) | [ToxicBomber](https://open.spotify.com/artist/1RpTk8LvpA3Kidts8OfF8t) | [Eternal Bloodbath](https://open.spotify.com/album/62AhZVnlsTqQw36DYmYXkO) | 4:00 | 2024-11-30 |  |
 | [Eu Sei Como É Chorar e Quase Morrer](https://open.spotify.com/track/1tl5h5SDJFxbRIXxjx5XpX) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz) | [Eu Sei Como É Chorar e Quase Morrer](https://open.spotify.com/album/0aDoV49g3z1dfEM9cNcdYo) | 2:30 | 2024-12-20 |  |
+| [Euthanasia](https://open.spotify.com/track/6UwyXsOW9qNrHwpBsbuPkO) | [Morwëna](https://open.spotify.com/artist/2vG7p8ihVMYrJibA9rhs6U) | [Morwëna](https://open.spotify.com/album/4yCcplnApHoEBASJXFOEbm) | 2:48 | 2026-08-28 |  |
 | [Eux](https://open.spotify.com/track/6prUfw8XnnNVxCWGutQpFk) | [enfant rouge](https://open.spotify.com/artist/1WjiPjIL6QbBdk1GnhFqEe) | [Délier](https://open.spotify.com/album/35eSA6VdPI7DpqMIj1Eej1) | 4:44 | 2026-04-29 |  |
 | [Eventually](https://open.spotify.com/track/5680FlKynCoKjDo31JHJky) | [Cut the Act](https://open.spotify.com/artist/0g7nNFwjJAtvz57ISMYuad) | [Eventually](https://open.spotify.com/album/6KfI43tOFkCFywjp6G9UoK) | 4:43 | 2025-01-15 |  |
 | [Ever Fallen in Love \(with Someone You Shouldn't've\)](https://open.spotify.com/track/68CNnixO7Io2sjRSyUlksb) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [Ever Fallen in Love \(with Someone You Shouldn't've\)](https://open.spotify.com/album/3TUhtUlAyjTrUZm4UQz9Vj) | 2:32 | 2025-02-07 |  |
@@ -625,6 +629,7 @@
 | [Nighttime Surrender](https://open.spotify.com/track/0XvEh0c6dBBmyIoGTIgygp) | [Tethra](https://open.spotify.com/artist/5BO4GJKBmoRm1Ejhl4ebUg) | [Withered Heart Standing](https://open.spotify.com/album/11SbvxXRPa8fGLffqrG8J5) | 6:10 | 2025-02-07 |  |
 | [Nimbos](https://open.spotify.com/track/6O5yGw7xq9M5zhnEbF14Uz) | [Marccon](https://open.spotify.com/artist/3Wjbb98nW9w8jQRsFqgqtE) | [Bruma](https://open.spotify.com/album/6y2UuNa93pCoKYwn3wCm2w) | 3:42 | 2025-04-24 |  |
 | [No Awareness](https://open.spotify.com/track/2myqAb3uAK04r8fWkcqNBH) | [FireFlame](https://open.spotify.com/artist/4mEfbEt2oPJDjGcTy8Uqug) | [The Violent Ignition](https://open.spotify.com/album/4GZUgnEIzLqtFDo1MxbbOE) | 5:22 | 2025-07-28 |  |
+| [No Friends Left](https://open.spotify.com/track/6L1yZEApeMG2EMWfz7u8U4) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [No Friends Left](https://open.spotify.com/album/05nP9zQOxxEakXpzXALcWf) | 4:08 | 2026-08-28 |  |
 | [No Good Bad Habit](https://open.spotify.com/track/5uh9Uc3uD5eKbH8jFFBsFE) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [No Good Bad Habit](https://open.spotify.com/album/6iP7IxwyzSs14gZOWWOn8I) | 3:30 | 2025-08-03 |  |
 | [No Good Goodbye](https://open.spotify.com/track/3vmqihph12av9QurOdwFWB) | [Jbledz](https://open.spotify.com/artist/6rwy6ZZQ6W0rtSTIvlHrou) | [No Good Goodbye](https://open.spotify.com/album/0uTBltzWzdgfUPswrxFzoX) | 2:53 | 2025-09-04 |  |
 | [No Joke](https://open.spotify.com/track/0TOE9sRvN9mTjDdduRuNob) | [Bridge The Silence](https://open.spotify.com/artist/2fzaxa52pkXU0PK4WBRbWY), [Suave G](https://open.spotify.com/artist/1udviuCZQhyp3zRzpFowvJ) | [No Joke](https://open.spotify.com/album/5FrrOp8NrSXHpvsDH94Smf) | 3:43 | 2026-02-19 |  |
@@ -754,6 +759,7 @@
 | [Quickness](https://open.spotify.com/track/4ductAkMxO5AEij8HFqFGm) | [Moonstorm](https://open.spotify.com/artist/6ZQziUeyWpDhRpHrzbWKTF) | [Voyager](https://open.spotify.com/album/3XHTlZ95MaSTeIIBXXxQzX) | 2:55 | 2024-11-30 |  |
 | [Quién es Quién](https://open.spotify.com/track/0W1yQr122lnBwp0LQD7ZyI) | [Cöntraband](https://open.spotify.com/artist/1JMdNs2RokE5F6O4KzqF6q) | [Quién es Quién](https://open.spotify.com/album/60nwveibyYOyyLjfNXjmYW) | 5:46 | 2025-01-15 |  |
 | [Rainbow](https://open.spotify.com/track/4fv0qckUl7htSZtFt5EO0D) | [Furydate](https://open.spotify.com/artist/7aZVPrJkcFCd6YRm5aXnIl) | [Furydate](https://open.spotify.com/album/2IpZpTFdCCuhBVawJndDYX) | 4:36 | 2025-07-02 |  |
+| [Rams Ram](https://open.spotify.com/track/0plEu3wKASWXx9dul04lDF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Rams Ram](https://open.spotify.com/album/1vSFAO5S1fEKOAMkgtCh1T) | 4:27 | 2026-08-28 |  |
 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 | 2026-03-14 |  |
 | [Reach](https://open.spotify.com/track/2qejaiHMMcfwiFl4jLuHnG) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [Reach](https://open.spotify.com/album/1h0HCwONvT8BZVA8LSg0YD) | 3:15 | 2025-02-05 |  |
 | [Reactor Run](https://open.spotify.com/track/6WX8Y4XtZ7YjSjtyX407kZ) | [Watermill](https://open.spotify.com/artist/4COWknloNOBOTnwmdAnbtl) | [Reactor Run](https://open.spotify.com/album/1eOpdf7ezAZqTSkUueOv0w) | 5:38 | 2026-04-12 |  |
@@ -822,6 +828,7 @@
 | [Shadows in the Rain](https://open.spotify.com/track/5H1h9lPxcjDFHcF0AcUlQb) | [Nights Like Thieves](https://open.spotify.com/artist/4Cko9sylBuS1mZsqiU9692) | [Shadows in the Rain](https://open.spotify.com/album/5sRVHNjuHYpe18uOAZLBtu) | 3:37 | 2026-08-06 |  |
 | [Shakeout](https://open.spotify.com/track/5UxnEbI9VDRiyxcEMhVOaU) | [Summer Colds](https://open.spotify.com/artist/1KO4w7F0yxQpGqN6w5unBn) | [Shakeout](https://open.spotify.com/album/1tuHXOe3br042DLr0UEoqS) | 3:19 | 2026-04-12 |  |
 | [Shattered Glass](https://open.spotify.com/track/0hCJ2A6ENHF1p1WsflnlkA) | [C\_J](https://open.spotify.com/artist/2YVPBrRzDMRfRimq2jCUxD) | [3 Song EP](https://open.spotify.com/album/3EN7cWng3p6z90TeayWbLM) | 4:01 | 2025-11-04 |  |
+| [Shattered on Removal](https://open.spotify.com/track/45kNbwv3K8FOnfR8PZhsiY) | [Northern Sand](https://open.spotify.com/artist/2pGsj94nqWra3rYjEjDYoG) | [Shattered on Removal](https://open.spotify.com/album/5KMWjnA3rbYaDNW8kQFU9S) | 4:18 | 2026-08-28 |  |
 | [she needs me](https://open.spotify.com/track/1NHRpdyBfMRi9NP0fT7Jdm) | [sweet spot](https://open.spotify.com/artist/5g6lh5OdzecBe9pZMADJ94) | [catalyst](https://open.spotify.com/album/0aYadRD3G74uO6MM5A6g81) | 3:42 | 2025-06-30 |  |
 | [Shit Out of Luck](https://open.spotify.com/track/2AOpqgxo9hmvQi4oGXDPJq) | [Avenue Army](https://open.spotify.com/artist/4ihI2lJ3wolcFhlVmWAKWv) | [Shit Out of Luck](https://open.spotify.com/album/2KZSVIzUcGLB7pZH0eHY0V) | 3:08 | 2025-03-18 |  |
 | [Shots Fired](https://open.spotify.com/track/1CUbH9qBSyMz7cdvUnapiF) | [AudioCide](https://open.spotify.com/artist/2a1Pi1SeB9Uvo5yKa2QPel) | [Shots Fired](https://open.spotify.com/album/6kuzz2EA3vlhegoE0WxyQa) | 4:40 | 2025-09-04 |  |
@@ -954,6 +961,7 @@
 | [The Economy Sucks \- Remastered](https://open.spotify.com/track/7jxwnMwgmK2QwfHgSDYCrl) | [Joseph Culpepper](https://open.spotify.com/artist/59vVBRGa1W9LWAqs9UswfE) | [The Economy Sucks \(Remastered\)](https://open.spotify.com/album/5Ks19HYI9XmPEZa3PnUwOD) | 3:50 | 2025-08-10 |  |
 | [The Ego Industry](https://open.spotify.com/track/4mmBBjGHS7TEfpAzxjEd8s) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:21 | 2025-07-22 |  |
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-10-23 |  |
+| [The Fall](https://open.spotify.com/track/74ur5oZ28lcRNYOkG8jTnj) | [Point Pleasant](https://open.spotify.com/artist/3hgIVMcwENmMH8A0dl6Njt) | [The Fall](https://open.spotify.com/album/6R8ZtTNKmIHxJY7ACVV1Mg) | 4:07 | 2026-08-28 |  |
 | [The Fallen](https://open.spotify.com/track/1H7Fbj2qhNi9SxKBuIfpqI) | [ENGRAVED](https://open.spotify.com/artist/6R5sDWirfGj3i7FpTw2A3W) | [The Fallen](https://open.spotify.com/album/0l4A555dr88W8yB8T83taf) | 4:27 | 2025-09-16 |  |
 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 | 2026-05-30 |  |
 | [The General](https://open.spotify.com/track/2Uf3YIy6HpJhN2oJaEOC1G) | [Ka’aru](https://open.spotify.com/artist/20llyzIitQO60OEG8FfIhX) | [Daring Spirit](https://open.spotify.com/album/0xykYsNfdB7gOHdBz8JNOJ) | 4:49 | 2026-05-09 |  |

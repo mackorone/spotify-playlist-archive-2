@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 
 > The essential entrance themes for the Superstars of <a href="https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX">WWE</a>\. \#MakeAnEntrance
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,675 likes - 94 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,676 likes - 94 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLzS1pepUTD.md) - [plain]
 | 93 | [WWE: Feel the Power \(Big E\)](https://open.spotify.com/track/0qHls5hkIs5jqVlKZuRvy3) | [def rebel](https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg), [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Dj Money](https://open.spotify.com/artist/5Gqwy9rFNhFIlgk3rCUiN7) | [WWE: Feel the Power \(Big E\)](https://open.spotify.com/album/3SjD5DmlEwdCWR4CQORMGB) | 2:14 |
 | 94 | [WWE: I Won't Do What You Tell Me \(Stone Cold Steve Austin\) \[Original Theme\]](https://open.spotify.com/track/4vHR7NYZh2wbQ6jLlC0wdH) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Jim Johnston](https://open.spotify.com/artist/6irRU9KRGb0cMtlsBZMg2i) | [WWE: Stone Cold Steve Austin \(The Entrance Music\)](https://open.spotify.com/album/6G3gBUvVjaWTJXjYBln3K0) | 3:03 |
 
-Snapshot ID: `AAAAAPpztT8BqKLqSa5UYKuwphg98G0I`
+Snapshot ID: `AAAAAMrnSHtHXAn1HjP22QCOkVU1Xg9f`

@@ -1,12 +1,12 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11509,
+  "num_followers": 11514,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxK/7rmu9QoXEKq7WAI8te7o6k8",
+  "snapshot_id": "AAAAAPoC1jADgG8yYAEhmsgIuvajSiSQ",
   "tracks": [
     {
       "added_at": "2026-05-28 11:50:51",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "AH!",
-        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
+        "name": "Kan Je Niet Blijven?",
+        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
       },
       "artists": [
         {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
         }
       ],
-      "duration_ms": 224909,
-      "name": "Of Er Nog Iets Terugkaatst",
-      "url": "https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO"
+      "duration_ms": 215199,
+      "name": "Kan Je Niet Blijven?",
+      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "AH!",
+        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 224909,
+      "name": "Of Er Nog Iets Terugkaatst",
+      "url": "https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "slecht idee (let\u2019s do it)",
         "url": "https://open.spotify.com/album/5Yd2L868mazpTakzdThS4t"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 191998,
       "name": "slecht idee (let\u2019s do it)",
       "url": "https://open.spotify.com/track/1wn2yb8Bw8OGclpBSPFGGu"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Kan Je Niet Blijven?",
-        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 215199,
-      "name": "Kan Je Niet Blijven?",
-      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -867,18 +867,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Hoofd",
-        "url": "https://open.spotify.com/album/5XV6LTscTMjMK9EwuqSSJ9"
+        "name": "Marco Polo",
+        "url": "https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4"
       },
       "artists": [
         {
-          "name": "nonchelange",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+          "name": "De Zweefclub",
+          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
+        },
+        {
+          "name": "Vic Willems",
+          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
         }
       ],
-      "duration_ms": 169183,
-      "name": "Hoofd",
-      "url": "https://open.spotify.com/track/7DsTVwUPn3qvsTVn26kgwv"
+      "duration_ms": 227494,
+      "name": "Marco Polo",
+      "url": "https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX"
     }
   ],
   "unique_name": "indie.nl",

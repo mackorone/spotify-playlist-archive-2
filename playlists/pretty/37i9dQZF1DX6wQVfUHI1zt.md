@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,241 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,267 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 7 | [Le Pediré](https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llegaste A Mi Vida](https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l) | 3:32 |
 | 8 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 9 | [Ayer Y Hoy](https://open.spotify.com/track/5TMB9Xnfe1lbvDHZtjCUcZ) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [Lo Hare Por Ti](https://open.spotify.com/album/15lIqg78oQM9CjPoeUB40T) | 4:10 |
-| 10 | [Te Quiero, Te Amo](https://open.spotify.com/track/4LieLlRVOkdKbjrj3seQ44) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/467yWFddzRSYF4H11tCHdl) | 3:28 |
+| 10 | [Y Te Lo Pido](https://open.spotify.com/track/4OXelnhgkkiLE05YsnFEuS) | [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Back To Basics](https://open.spotify.com/album/0u2UofQv9iYDou2bLb5adc) | 5:15 |
 | 11 | [Ayúdame](https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 4:25 |
 | 12 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 |
 | 13 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 |
-| 14 | [Y Te Lo Pido](https://open.spotify.com/track/4OXelnhgkkiLE05YsnFEuS) | [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Back To Basics](https://open.spotify.com/album/0u2UofQv9iYDou2bLb5adc) | 5:15 |
+| 14 | [Te Quiero, Te Amo](https://open.spotify.com/track/4LieLlRVOkdKbjrj3seQ44) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Esto Es Lo Nuestro \- 20 Exitos](https://open.spotify.com/album/467yWFddzRSYF4H11tCHdl) | 3:28 |
 | 15 | [No Te Olvidaré](https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [No Te Olvidare](https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy) | 3:49 |
 | 16 | [Fuertemente](https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Íconos 25 Éxitos](https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve) | 2:49 |
 | 17 | [Enséñame](https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 99 | [Paloma Sin Nidal](https://open.spotify.com/track/5phyOuyAYmqiYwRemC9qS8) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [ANTHOLOGY: BACK IN THE DAY](https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE) | 3:45 |
 | 100 | [Siempre Estoy Pensando En Ti](https://open.spotify.com/track/7KsOTKIJAob3zAOgk1ltnv) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:01 |
 
-Snapshot ID: `AAAAAIQH7klF7ueFkUwSJm7BlmVGK8S+`
+Snapshot ID: `AAAAAKPDLvBvpiHAN12XclYmqI8vrm6b`

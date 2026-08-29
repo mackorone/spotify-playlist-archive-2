@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Adie
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,485 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,506 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [Komplikado](https://open.spotify.com/track/2SZ9VQQcltcmLSzxwbUXvK) | [STARIRAYS](https://open.spotify.com/artist/0XG8KzIYhfzZ6ZaOYuvWrc) | [Komplikado](https://open.spotify.com/album/2ewXfqQ8QfwPcQPqHPbaW3) | 4:17 |
 | 100 | [Atin Lang](https://open.spotify.com/track/76Mpyc732jtMXkL3TIjaDD) | [STEF](https://open.spotify.com/artist/0DgheKnMZrZrtmvuf0ajkD), [Joseph Ama](https://open.spotify.com/artist/2CGYcI3ufgXqXY1iUG3Puz) | [Atin Lang](https://open.spotify.com/album/7EJJ736dZpyEsSZzaOwWyY) | 2:44 |
 
-Snapshot ID: `AAAAAMUfKvkls5lWToCiXFoxevyKs7GU`
+Snapshot ID: `AAAAANLA4kEnEBob7M9Q8Bn45BTD6i9w`

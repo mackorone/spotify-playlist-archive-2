@@ -1550,10 +1550,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 267520,
       "name": "Quememos el Reino",
       "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
+    },
+    {
+      "album": {
+        "name": "Rompe (Vencer el Miedo)",
+        "url": "https://open.spotify.com/album/1Rnw82swzhmJXXmuCwI3rI"
+      },
+      "artists": [
+        {
+          "name": "Paulina Goto",
+          "url": "https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y"
+        }
+      ],
+      "date_added": "2024-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Rompe (Vencer el Miedo)",
+      "url": "https://open.spotify.com/track/0OK0WD7JbWAZevwdWPbhwh"
     },
     {
       "album": {

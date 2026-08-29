@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Blossoms
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,934,038 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933,985 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Marina](https://open.spotify.com/track/2FVcKnDZFvkqiTmHgbp20p) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Marina](https://open.spotify.com/album/5fKoEJLEQGcSXrPxW3ST53) | 3:25 |
 | 80 | [Something To Be Said](https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG) | [Saint Clair](https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw) | [Something To Be Said](https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o) | 3:33 |
 
-Snapshot ID: `AAAAAIVnZCRmoU7L/zm/XzcsGBUfK7jZ`
+Snapshot ID: `AAAAAH6yDMlIQ1pgc4/CeD+QD8N6IHkf`

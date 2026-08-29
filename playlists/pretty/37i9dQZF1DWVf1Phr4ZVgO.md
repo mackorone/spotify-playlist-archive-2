@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,206,001 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,206,094 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 41 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
 | 42 | [Recipe For Love](https://open.spotify.com/track/1xe4IvNW94G8R4KCHrLUt6) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:34 |
 | 43 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 |
-| 44 | [My Kind Of Girl](https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [16 Most Requested Songs](https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb) | 2:40 |
-| 45 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
+| 44 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 |
+| 45 | [My Kind Of Girl](https://open.spotify.com/track/1nyda3RgBap7i8OYxPAi7K) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [16 Most Requested Songs](https://open.spotify.com/album/0RwTLz72XNNeZi7tEjOobb) | 2:40 |
 | 46 | [Till There Was You](https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Till There Was You](https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR) | 3:53 |
 | 47 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
 | 48 | [There's A Lull In My Life](https://open.spotify.com/track/4Op0c1VSCGMsGX47Mh8wj8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Like Someone In Love](https://open.spotify.com/album/5YKGBdugeGn1zMTKnYCnWP) | 3:28 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 64 | [Someone To Watch Over Me](https://open.spotify.com/track/0pi49lNsPqbQJ814gCrxGt) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Best Of..\. The Great American Songbook \(Deluxe Edition\)](https://open.spotify.com/album/7sQ8DlLQXzBKX8Z9sZ3tNZ) | 3:32 |
 | 65 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 |
 | 66 | [Turn Me On](https://open.spotify.com/track/6FjAGZp7c0Z2uaL3eHkXsx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 2:34 |
-| 67 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
-| 68 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k) | 3:02 |
-| 69 | [Sway \(Quien Sera\) \- 1997 \- Remastered](https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq) | 2:42 |
+| 67 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5PLUw46m8RDInYpxf3ddID) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Best Of The Decca Years Volume One: The Singer](https://open.spotify.com/album/1Xa31VhfS5VtLsQ1LLa39k) | 3:02 |
+| 68 | [Sway \(Quien Sera\) \- 1997 \- Remastered](https://open.spotify.com/track/3dcMbvaYRwHFXnDF9CozIs) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/3M4x71xrlgVrZ2SS0Jjebq) | 2:42 |
+| 69 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
 | 70 | [My Funny Valentine](https://open.spotify.com/track/5tPdH3Qm9exYGRUG0vUrr7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Hits](https://open.spotify.com/album/7IfeIgmH2s46g1RhK0wfEw) | 3:51 |
 | 71 | [They Didn't Believe Me](https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:35 |
-| 72 | [Stormy Weather](https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:10 |
-| 73 | [The Touch of Your Lips](https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ) | [Richard Shelton](https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t) | [An Englishman in Love in LA](https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp) | 2:56 |
-| 74 | [Baby I'm A Fool](https://open.spotify.com/track/7ilWEHob3AYG3lAJlKEpDR) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0Qe8wdANNrf5PkP76qnXyN) | 3:31 |
+| 72 | [The Touch of Your Lips](https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ) | [Richard Shelton](https://open.spotify.com/artist/5jCYSk9xAiet0VnSeYvi1t) | [An Englishman in Love in LA](https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp) | 2:56 |
+| 73 | [Baby I'm A Fool](https://open.spotify.com/track/7ilWEHob3AYG3lAJlKEpDR) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0Qe8wdANNrf5PkP76qnXyN) | 3:31 |
+| 74 | [Stormy Weather](https://open.spotify.com/track/0QpZoLLJ8VFv9NeKWcOmIn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:10 |
 | 75 | [The Look Of Love](https://open.spotify.com/track/6ERQqdIkr7Rp4tt52Eep6r) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Very Best Of Diana Krall \(UK Version\)](https://open.spotify.com/album/73DrrvGY20s9bAAejnJ1s7) | 4:41 |
 | 76 | [Ain't We Got Fun](https://open.spotify.com/track/6TsdvMtwcoDcoJa4ZhDGxZ) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'/Jump For Joy](https://open.spotify.com/album/3TgP9cFfg93qoCR7BO9ZXU) | 2:10 |
 | 77 | [Lay Lady Lay](https://open.spotify.com/track/7ICALrYSPphd5yFK27vw8D) | [Magnet featuring Gemma Hayes](https://open.spotify.com/artist/6Edqzwxazpb4Te3qI3u5ez) | [Mr\. & Mrs\. Smith \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1ooPcS9FzXuXOuRUnoWtwq) | 4:39 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 84 | [Mad About The Boy](https://open.spotify.com/track/4eByri8JfhjBK25aCnwSNF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Love Songs](https://open.spotify.com/album/5pnDpwi8OtuUOvLkQyVCZM) | 2:50 |
 | 85 | [Misty](https://open.spotify.com/track/1PkpbUvZkQHOvASe8pN5vi) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [4 Beautiful Jazz Divas \(40 Tracks Remastered\)](https://open.spotify.com/album/1T81ZLCjdaOmgPvEuWjBOR) | 3:02 |
 
-Snapshot ID: `AAAAAGfBhWTRVII5VRRCM8bvGGobVuL7`
+Snapshot ID: `AAAAALomcTiuaoKX1tTXwKFTHZ3l+I9Y`

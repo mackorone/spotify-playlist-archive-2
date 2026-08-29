@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: MicMac\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,398 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,397 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 59 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
 | 60 | [โคตรสวย โคตรอันตราย](https://open.spotify.com/track/0j235rUOTOJnGDiq4Ez16S) | [ax’an](https://open.spotify.com/artist/6ZpMsyqO6kymsc0cyPpRuB) | [โคตรสวย โคตรอันตราย](https://open.spotify.com/album/2qKLhYSQRbBQoH6WzwaEAr) | 3:17 |
 
-Snapshot ID: `AAAAAORC8K9kfeTao2zjSeW6Q1ysLF9M`
+Snapshot ID: `AAAAAE5LBT9pHDtf0qote5DlankT9hKR`

@@ -1,12 +1,12 @@
 {
   "description": "A smooth nostalgia trip through the 80s.",
-  "num_followers": 364335,
+  "num_followers": 364357,
   "original_name": "Unwind 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKk82zjWWn4EcjM1/hNfJ/rURdbw",
+  "snapshot_id": "AAAAAAOIzZa+SPQuAsWOFImYpHiFesgm",
   "tracks": [
     {
       "added_at": "2024-08-05 06:19:03",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
-      },
-      "artists": [
-        {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "(I Just) Died In Your Arms",
-      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
-    },
-    {
-      "added_at": "2024-08-05 06:19:03",
-      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 322133,
       "name": "Another Day in Paradise - 2016 Remaster",
       "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
+    },
+    {
+      "added_at": "2024-08-05 06:19:03",
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "(I Just) Died In Your Arms",
+      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
-    },
-    {
-      "added_at": "2024-08-05 06:19:03",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -275,18 +259,18 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Mistaken Identity",
-        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
       "artists": [
         {
-          "name": "Kim Carnes",
-          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -303,6 +287,22 @@
       "duration_ms": 336453,
       "name": "In the Air Tonight - 2015 Remaster",
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
+    },
+    {
+      "added_at": "2024-08-05 06:19:03",
+      "album": {
+        "name": "Mistaken Identity",
+        "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
+      },
+      "artists": [
+        {
+          "name": "Kim Carnes",
+          "url": "https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280586,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2024-08-05 06:19:03",
-      "album": {
         "name": "The Singles (Expanded)",
         "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
       "artists": [
         {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+      "duration_ms": 280586,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -415,6 +399,22 @@
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2024-08-05 06:19:03",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
-      },
-      "artists": [
-        {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
-    },
-    {
-      "added_at": "2024-08-05 06:19:03",
-      "album": {
         "name": "Appetite For Destruction (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 354880,
       "name": "Patience",
       "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
+    },
+    {
+      "added_at": "2024-08-05 06:19:03",
+      "album": {
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
       "artists": [
         {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 217573,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+      "duration_ms": 217573,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2024-08-05 06:19:03",

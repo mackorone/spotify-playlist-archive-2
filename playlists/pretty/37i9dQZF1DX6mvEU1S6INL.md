@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,004 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,020 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 12 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
 | 13 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
 | 14 | [Something About Us](https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:52 |
-| 15 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
+| 15 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
 | 16 | [All My Love](https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:11 |
-| 17 | [Skinny Love](https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:58 |
+| 17 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 18 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 |
 | 19 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 20 | [I Forgot To Be Your Lover](https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [I Forgot To Be Your Lover](https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1) | 2:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 45 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
 | 46 | [Luna \- 2011 Remaster](https://open.spotify.com/track/20Y0ZANdyEI52MfQs6DddK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0) | 3:22 |
 | 47 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 |
-| 48 | [Run Away With Me](https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:12 |
-| 49 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
+| 48 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
+| 49 | [Run Away With Me](https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:12 |
 | 50 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 |
 | 51 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 | 52 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 75 | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ) | [Alvarez Kings](https://open.spotify.com/artist/1lGiUJqrkVkPL9auz3Fmcf) | [Sleepwalking, Pt\. I \(Acoustic\)](https://open.spotify.com/album/391n9gKodK0NZ0riyymIzK) | 3:21 |
 | 76 | [Time to Wander](https://open.spotify.com/track/4LDVjxkzOKa7YUxjO1x74S) | [GATC](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [Gilgamesh](https://open.spotify.com/album/3oN0gGqa25NnWjCjng1kSI) | 3:54 |
 | 77 | [Love Letter \- At Home](https://open.spotify.com/track/289CYS8Ws26XGrg1dbeY6d) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Love Letter \(At Home\)](https://open.spotify.com/album/5rarhRbEr3haebB2GT02rT) | 3:20 |
-| 78 | [What's Love](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 |
-| 79 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 |
+| 78 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 |
+| 79 | [What's Love](https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [What's Love](https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z) | 3:09 |
 | 80 | [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt) | 3:50 |
 | 81 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 |
 | 82 | [Seasons \(Waiting On You\)](https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Singles](https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh) | 3:46 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 88 | [All I Need](https://open.spotify.com/track/51ygW389BW4Dut3B69pSwc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 3:48 |
 | 89 | [Free Animal](https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Free Animal](https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa) | 3:00 |
 | 90 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
-| 91 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |
-| 92 | [Guru](https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Guru](https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR) | 3:24 |
-| 93 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 |
-| 94 | [Don't Move](https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/76MThARuTPq59l5oseVCJT) | 4:18 |
-| 95 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
-| 96 | [Hold On](https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj) | 3:46 |
-| 97 | [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 |
-| 98 | [Crystals](https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Crystals](https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA) | 4:03 |
-| 99 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
-| 100 | [Flowers in Your Hair](https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 1:49 |
+| 91 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 |
+| 92 | [Shake, Shake, Shake](https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28) | [Bronze Radio Return](https://open.spotify.com/artist/2ic4xySjQ39N7DJ0HZemeG) | [Shake! Shake! Shake!](https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5) | 2:43 |
+| 93 | [Guru](https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Guru](https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR) | 3:24 |
+| 94 | [Astronaut \- Something About Your Love](https://open.spotify.com/track/4sG6J4S2FCuMr3oooYAwFS) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Astronaut \(Something About Your Love\)](https://open.spotify.com/album/7gXdTAAzBuXqTV2kxSIPAk) | 3:22 |
+| 95 | [Don't Move](https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/76MThARuTPq59l5oseVCJT) | 4:18 |
+| 96 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
+| 97 | [Hold On](https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj) | 3:46 |
+| 98 | [Flowers in Your Hair](https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 1:49 |
+| 99 | [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 |
+| 100 | [Empire](https://open.spotify.com/track/6nT4NFFH5nbXleO1FiJNhu) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin](https://open.spotify.com/album/4PAyBqzCYoIIjjPFszeqgT) | 4:20 |
 
-Snapshot ID: `AAAAAHn16eWRgMjUgvs8wvhCD6xxN6Sp`
+Snapshot ID: `AAAAAH1eLdTQcV7RRKDvJaCmcimN2UDY`

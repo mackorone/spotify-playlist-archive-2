@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,471 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,347 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 32 | [Dead Man Walking](https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:21 |
 | 33 | [Lighter](https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Lighter \(FIFA World Cup 2026™\)](https://open.spotify.com/album/1MSm697OSJkLnNed3JY0Dh) | 2:59 |
 | 34 | [I Need You](https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:51 |
-| 35 | [Church](https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:40 |
-| 36 | [Same Asshole](https://open.spotify.com/track/4fPF8I4P041i7KYVcPcs15) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/0PnpzSoWGvZxURnBRYT0Uu) | 3:26 |
+| 35 | [Same Asshole](https://open.spotify.com/track/4fPF8I4P041i7KYVcPcs15) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/0PnpzSoWGvZxURnBRYT0Uu) | 3:26 |
+| 36 | [Church](https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:40 |
 | 37 | [Fall in the Fall](https://open.spotify.com/track/6RzCCKw2UI0vxzaVDandfX) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/2nNjq5Qu0IxFI7lXMrOfzm) | 4:09 |
 | 38 | [Life](https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Brix](https://open.spotify.com/artist/4LsrAQY9ShOYMMZEhZ2tN2) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 4:14 |
 | 39 | [Last Dance With Mary Jane \(feat\. Tom Petty & Jelly Roll\)](https://open.spotify.com/track/4nqKqrFUwEkHEGKBr1lBe3) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Missionary](https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Tears Could Talk](https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Bailee Ann](https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:35 |
 | 50 | [Whiskey Bent \(feat\. Jelly Roll\)](https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:16 |
 
-Snapshot ID: `ao4sgAAAAADtjyISaqT/CDcDELa5lrCC`
+Snapshot ID: `ao9+AAAAAAAUII9nho7D+F9E+KXFyVhg`

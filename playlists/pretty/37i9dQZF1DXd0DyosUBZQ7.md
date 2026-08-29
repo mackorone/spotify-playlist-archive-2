@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,140 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,251 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 15 | [With You](https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:12 |
 | 16 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 17 | [Because Of You](https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 4:26 |
-| 18 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 |
-| 19 | [Let Me Love You](https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/0aihmuRLi1gBkxk4mbNfcv) | 4:09 |
+| 18 | [Let Me Love You](https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/0aihmuRLi1gBkxk4mbNfcv) | 4:09 |
+| 19 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 |
 | 20 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |
 | 21 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
 | 22 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 39 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 |
 | 40 | [Better in Time](https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 3:54 |
 | 41 | [When I Look At You](https://open.spotify.com/track/6ZfXA2xakAvphXOSOJ3u1W) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 4:08 |
-| 42 | [Wherever You Will Go](https://open.spotify.com/track/2n6FX3Jcg4b4Leoz0GOqBF) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/482njCey5m8quxX6ymvlIP) | 3:28 |
-| 43 | [Hero](https://open.spotify.com/track/1PAgmT6YqGhd6zT9kN9gIo) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/3DeHyfe2Da8xznvABSfIE5) | 4:24 |
+| 42 | [Hero](https://open.spotify.com/track/1PAgmT6YqGhd6zT9kN9gIo) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/3DeHyfe2Da8xznvABSfIE5) | 4:24 |
+| 43 | [Wherever You Will Go](https://open.spotify.com/track/2n6FX3Jcg4b4Leoz0GOqBF) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/482njCey5m8quxX6ymvlIP) | 3:28 |
 | 44 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
 | 45 | [Crush](https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [David Archuleta](https://open.spotify.com/album/4aZ3Mf9Tza576UhJ9kjYd7) | 3:33 |
 | 46 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 64 | [Love Story](https://open.spotify.com/track/5hnJCRSo4pxRsaEwT9YusG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Platinum Edition\)](https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t) | 3:55 |
 | 65 | [Thinking Of You](https://open.spotify.com/track/0Fl6SIwIcmE8KHsFQkGvOI) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3xshXXIfhAKRQ2995VJ7kZ) | 4:06 |
 | 66 | [Goodbye My Lover](https://open.spotify.com/track/3Iya0xOCXhgSdDwIYM75wh) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/31p2S8NRI7kVdEZAMkGONK) | 4:18 |
-| 67 | [Built to Last](https://open.spotify.com/track/4x907tqu1ai70Sz6xLrK2E) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Devils & Angels \(Standard Version\)](https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW) | 3:41 |
-| 68 | [Anyone of Us \(Stupid Mistake\)](https://open.spotify.com/track/2oUwZFTl9SXGBoJn7BWnit) | [Gareth Gates](https://open.spotify.com/artist/4nNwfeVaNJlfz8RdCT5MJO) | [What My Heart Wants To Say](https://open.spotify.com/album/3fbd59ICItNphof2eNQQMD) | 3:48 |
+| 67 | [Anyone of Us \(Stupid Mistake\)](https://open.spotify.com/track/2oUwZFTl9SXGBoJn7BWnit) | [Gareth Gates](https://open.spotify.com/artist/4nNwfeVaNJlfz8RdCT5MJO) | [What My Heart Wants To Say](https://open.spotify.com/album/3fbd59ICItNphof2eNQQMD) | 3:48 |
+| 68 | [Built to Last](https://open.spotify.com/track/4x907tqu1ai70Sz6xLrK2E) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Devils & Angels \(Standard Version\)](https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW) | 3:41 |
 | 69 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/2TF4UtYreqNbQ6Z9AccldU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift \(Deluxe Edition\)](https://open.spotify.com/album/5eyZZoQEFQWRHkV2xgAeBw) | 3:23 |
 | 70 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 |
 | 71 | [The Reason](https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH) | 3:52 |
-| 72 | [She Will Be Loved](https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 4:17 |
-| 73 | [Too Serious Too Soon](https://open.spotify.com/track/3dLoqgmXNaloiPpue3AxSA) | [Gareth Gates](https://open.spotify.com/artist/4nNwfeVaNJlfz8RdCT5MJO) | [What My Heart Wants To Say](https://open.spotify.com/album/6qjh64nv2k5MIrjewpj0Vv) | 3:43 |
+| 72 | [Too Serious Too Soon](https://open.spotify.com/track/3dLoqgmXNaloiPpue3AxSA) | [Gareth Gates](https://open.spotify.com/artist/4nNwfeVaNJlfz8RdCT5MJO) | [What My Heart Wants To Say](https://open.spotify.com/album/6qjh64nv2k5MIrjewpj0Vv) | 3:43 |
+| 73 | [She Will Be Loved](https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 4:17 |
 | 74 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 |
 | 75 | [Have You Ever](https://open.spotify.com/track/2wkoy95ZlmANduYJcq5v6K) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [Sunshine](https://open.spotify.com/album/1JXF1JKw7WPhqvBO8t8oPl) | 3:21 |
 
-Snapshot ID: `AAAAAIlmyq8LoBtxD3KzQ8W/4AINiSnE`
+Snapshot ID: `AAAAAIYy5qyI/e7PWjXykCzr9DkhOxrS`

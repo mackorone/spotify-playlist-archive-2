@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 > This is Eminem\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,135,578 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,135,758 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 15 | [Sing For The Moment](https://open.spotify.com/track/3CpoeW0cZSDzIRv5z34F87) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 5:39 |
 | 16 | [What's The Difference](https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:04 |
 | 17 | [The Way I Am](https://open.spotify.com/track/23wfXwnsPZYe5A1xXRHb3J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:50 |
-| 18 | [River \(feat\. Ed Sheeran\)](https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 3:41 |
+| 18 | [Shake That](https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 4:34 |
 | 19 | [Cleanin' Out My Closet](https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
-| 20 | [Shake That](https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 4:34 |
+| 20 | [River \(feat\. Ed Sheeran\)](https://open.spotify.com/track/1cS0TgbR263ey9jn0MwD2s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Revival](https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2) | 3:41 |
 | 21 | [Rap God](https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 6:03 |
 | 22 | [No Love](https://open.spotify.com/track/7bHT9osSq1rwT2yaImzqCi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:59 |
 | 23 | [Business](https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:11 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 31 | [Kill You](https://open.spotify.com/track/5eGEc27nnhtmcOh6RC890a) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:24 |
 | 32 | [Just Lose It](https://open.spotify.com/track/0qcjuYtMWhBjXg0Xwt5SzS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:08 |
 | 33 | [Lucky You \(feat\. Joyner Lucas\)](https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:04 |
-| 34 | [Killshot](https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Killshot](https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0) | 4:13 |
-| 35 | [Space Bound](https://open.spotify.com/track/0sHW1jXe6Sou3437gJQNGA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:38 |
+| 34 | [Space Bound](https://open.spotify.com/track/0sHW1jXe6Sou3437gJQNGA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:38 |
+| 35 | [Killshot](https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Killshot](https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0) | 4:13 |
 | 36 | [The Watcher](https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Knoc\-Turn'al](https://open.spotify.com/artist/24PJqH46WhB0pUB7NlsFna) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 3:26 |
 | 37 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:29 |
 | 38 | [When I'm Gone](https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [When I'm Gone](https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 49 | [Go To Sleep](https://open.spotify.com/track/66ezChUOWvgzRQAi3Ay1wt) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM) | [Cradle 2 The Grave](https://open.spotify.com/album/3teDhRsApsuvhdTeWB49cg) | 4:42 |
 | 50 | [Remember The Name \(feat\. Eminem & 50 Cent\)](https://open.spotify.com/track/0AtP8EkGPn6SwxKDaUuXec) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:27 |
 
-Snapshot ID: `ao4sgAAAAABTIKfMtMOviYKwfqVrN3T5`
+Snapshot ID: `ao9+AAAAAACopNStuQS2Qw7TxACyR9Va`

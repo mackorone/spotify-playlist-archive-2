@@ -12235,6 +12235,24 @@
     },
     {
       "album": {
+        "name": "Tanqueray or Iced Cold Beer?",
+        "url": "https://open.spotify.com/album/4n2LjYH2fmvIOxOcWNBiLx"
+      },
+      "artists": [
+        {
+          "name": "Jay Kutcher",
+          "url": "https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255706,
+      "name": "Tanqueray or Iced Cold Beer?",
+      "url": "https://open.spotify.com/track/3HcZXpYaJwObceTFGwUZJs"
+    },
+    {
+      "album": {
         "name": "TEAR IN THE RAIN",
         "url": "https://open.spotify.com/album/2UYPAbyFiJ5Dwk8kXwakyM"
       },

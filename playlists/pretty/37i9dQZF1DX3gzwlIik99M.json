@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 201224,
+  "num_followers": 201209,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALJOnfdDxM7dFHadGoZJooeepoYB",
+  "snapshot_id": "AAAAACorQykPzkNqksyzZKe7hbhO2CZD",
   "tracks": [
     {
       "added_at": "2025-09-18 22:01:59",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
+        "name": "Earthliens",
+        "url": "https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l"
+      },
+      "artists": [
+        {
+          "name": "Perpetual Warfare",
+          "url": "https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Las Venas Abiertas...",
+      "url": "https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
         "name": "Deceitful Idols",
         "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 223588,
       "name": "Outsider God Creation (O.G.C)",
       "url": "https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
-        "name": "Earthliens",
-        "url": "https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l"
-      },
-      "artists": [
-        {
-          "name": "Perpetual Warfare",
-          "url": "https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Las Venas Abiertas...",
-      "url": "https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy"
     }
   ],
   "unique_name": "Metal del Nuestro",

@@ -2513,6 +2513,32 @@
     },
     {
       "album": {
+        "name": "Isithembu",
+        "url": "https://open.spotify.com/album/0SpkbEmC1ZDLoEHGXn8kOl"
+      },
+      "artists": [
+        {
+          "name": "Zulu Queens",
+          "url": "https://open.spotify.com/artist/5csAaiFcC1qKkVPgUJfXID"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206715,
+      "name": "Iso Ngeso",
+      "url": "https://open.spotify.com/track/5cbFUY0lSPDaGxuDbEUEBa"
+    },
+    {
+      "album": {
         "name": "KOA II Part 1",
         "url": "https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q"
       },
@@ -4720,6 +4746,28 @@
       "duration_ms": 303856,
       "name": "Sizesiguge",
       "url": "https://open.spotify.com/track/0JtMOvqqZCNl5DySXS2BE4"
+    },
+    {
+      "album": {
+        "name": "Sondela La",
+        "url": "https://open.spotify.com/album/5Kdz0UX3vsw9AMYA09Jyn7"
+      },
+      "artists": [
+        {
+          "name": "TEASPOON",
+          "url": "https://open.spotify.com/artist/3PcXuRI03Po574UOLuiKbp"
+        },
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283898,
+      "name": "Sondela La",
+      "url": "https://open.spotify.com/track/3t6x060787xWEsnQuUI3lr"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "doppel gangs en portada. ",
+  "description": "Broke Carrey en portada. ",
   "name": "ALT.AR",
   "tracks": [
     {
@@ -3265,6 +3265,28 @@
     },
     {
       "album": {
+        "name": "BAM: LA SUITE",
+        "url": "https://open.spotify.com/album/7Foru1jdTrjfzOjVkQuYeS"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        },
+        {
+          "name": "elmalam\u00eda",
+          "url": "https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242315,
+      "name": "DESCONOCIDOS",
+      "url": "https://open.spotify.com/track/0eKfbHt3e3zM3FRwbjWFlc"
+    },
+    {
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/0PKVLdgSYioXJ8fShf31E9"
       },
@@ -5990,7 +6012,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 186785,
       "name": "La va flasha",
       "url": "https://open.spotify.com/track/6VUQVZzspVYKBCIgSssNhT"
@@ -6074,6 +6096,24 @@
       "duration_ms": 198650,
       "name": "Lara",
       "url": "https://open.spotify.com/track/3mR6x2dlGh2w2bDpsa3m5K"
+    },
+    {
+      "album": {
+        "name": "HIJO DEL PA\u00cdS",
+        "url": "https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186244,
+      "name": "Las Piedras",
+      "url": "https://open.spotify.com/track/1R66UFWi6We9qpLmj64EuP"
     },
     {
       "album": {
@@ -7784,7 +7824,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 170904,
       "name": "monumento..",
       "url": "https://open.spotify.com/track/7g8kTvTaaqhihGndIXgmmK"
@@ -10348,7 +10388,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 230933,
       "name": "Puro",
       "url": "https://open.spotify.com/track/1561A0KDSbrQR4WW0dTeyt"
@@ -11373,6 +11413,28 @@
     },
     {
       "album": {
+        "name": "punto de encuentro",
+        "url": "https://open.spotify.com/album/09ZCH2327JdfKpq95rhDko"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        },
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144020,
+      "name": "si me veias",
+      "url": "https://open.spotify.com/track/6CKlB9Y7rFAWnhV3NPZwFf"
+    },
+    {
+      "album": {
         "name": "Si Sabes Regresar",
         "url": "https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN"
       },
@@ -12042,6 +12104,28 @@
       "duration_ms": 178601,
       "name": "Tan Criminal",
       "url": "https://open.spotify.com/track/49MsdPsjKTgRkXwLHOF6MN"
+    },
+    {
+      "album": {
+        "name": "Tan Linda",
+        "url": "https://open.spotify.com/album/2Dw4kOyM7qHcRrsAHNWCPm"
+      },
+      "artists": [
+        {
+          "name": "AFTER",
+          "url": "https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p"
+        },
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Tan Linda",
+      "url": "https://open.spotify.com/track/0rCX14qkY3KiS9p9wTP5Fp"
     },
     {
       "album": {
@@ -12861,6 +12945,32 @@
     },
     {
       "album": {
+        "name": "NO SOY UN ROBOT",
+        "url": "https://open.spotify.com/album/1OAIhi2yfvtKETHS1d5D1Q"
+      },
+      "artists": [
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/3FFU4UmCb8jI0g0kX3ehmw"
+        },
+        {
+          "name": "DELLA",
+          "url": "https://open.spotify.com/artist/3l4T2ZeGVyaMfW9rekYjDC"
+        },
+        {
+          "name": "Bbynito",
+          "url": "https://open.spotify.com/artist/3fbtJn9IE7xORZcvASoIba"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199811,
+      "name": "TU SOMBRA",
+      "url": "https://open.spotify.com/track/4GM1RdWcC1GC72mCiya9RK"
+    },
+    {
+      "album": {
         "name": "Tu Te Vas",
         "url": "https://open.spotify.com/album/7BwVZ8WkcgLjkBXlk8T9Qu"
       },
@@ -13308,7 +13418,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 153000,
       "name": "Uno Uno",
       "url": "https://open.spotify.com/track/4nHTSlaleM9oLDlTnjQbVi"
@@ -14146,7 +14256,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 242264,
       "name": "yolo",
       "url": "https://open.spotify.com/track/0oOo4j4cdoi0C7B5LuThc6"

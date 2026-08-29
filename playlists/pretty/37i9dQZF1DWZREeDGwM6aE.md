@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZREeDGwM6aE.md) - [plain]
 
 > These LGBTQIA+ trailblazers knocked doors wide open with their music\. Cover: Tracy Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,123 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,135 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZREeDGwM6aE.md) - [plain]
 | 49 | [Desire](https://open.spotify.com/track/6mH8uF35AIWGlmcQZMAQ9v) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:26 |
 | 50 | [Ain't That Peculiar](https://open.spotify.com/track/4RAS6QT974bl5blsapzVGq) | [Fanny](https://open.spotify.com/artist/1Pag7p4HbSdZIDzgNLsk39) | [First Time In A Long Time: The Reprise Recordings](https://open.spotify.com/album/2BkEkcphy0liqTVRSBEEpC) | 4:05 |
 
-Snapshot ID: `AAAAAOfOH4XwEQ9abTM/sfNZEc51sAn5`
+Snapshot ID: `AAAAAK/4AFk2/lof2sdFktK+J3c2q6Me`

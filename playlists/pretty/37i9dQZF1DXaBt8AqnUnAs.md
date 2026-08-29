@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,000 likes - 77 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,040 likes - 77 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 76 | [Oxigênio](https://open.spotify.com/track/5ERlEZEb6L9pn1ByAQJ3nT) | [Cael Gomess](https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh) | [Oxigênio](https://open.spotify.com/album/47jeyFF7y0PbGOKWCmybSM) | 3:15 |
 | 77 | [Bandidas Também Falam de Amor](https://open.spotify.com/track/0uMi0uuEPXERdlryQDYeCa) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ian Durso](https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3) | [Bandidas Também Falam de Amor](https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz) | 2:46 |
 
-Snapshot ID: `AAAAAB3IGwsI6+8NxAls7Hr1iOx2Z3H5`
+Snapshot ID: `AAAAALsRq9ILgN5IF5IKb+9mtAOCsLwq`

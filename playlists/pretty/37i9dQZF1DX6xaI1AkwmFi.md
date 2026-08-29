@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,072 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,076 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 14 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 15 | [スターダスト](https://open.spotify.com/track/60Lst9oTXDsAPXvHKUrxpk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [スターダスト](https://open.spotify.com/album/4wXR68a3kHWi9uusIZDRZ0) | 4:48 |
 | 16 | [summer film](https://open.spotify.com/track/22XNz0VJZKVgM4CpbMLD0x) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [summer film](https://open.spotify.com/album/1NE7XgXb1YQFCyco6AsEmC) | 5:49 |
-| 17 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
+| 17 | [ICONIC HEART](https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [ICONIC HEART](https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW) | 3:09 |
 | 18 | [令和Lady恋愛賛歌](https://open.spotify.com/track/3O6MkX4eUxdNcxGZRZ2y4H) | [Mitsuki Takahata](https://open.spotify.com/artist/6n21y1MVxkEBZnezjLGiXk) | [令和Lady恋愛賛歌](https://open.spotify.com/album/4vb0ONbzwvZBg4RedryIkn) | 2:45 |
 | 19 | [風見鶏](https://open.spotify.com/track/5FwUazYSMotO95IPzjgG1q) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [風見鶏](https://open.spotify.com/album/0etaPjyHr3E3QDXdXftTdX) | 3:35 |
 | 20 | [風になる](https://open.spotify.com/track/612Ohtq2pdCo4VC57pDqh0) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Live Bluesy](https://open.spotify.com/album/0lyhY506F1qbNSmkU1GfoP) | 3:13 |
-| 21 | [ICONIC HEART](https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [ICONIC HEART](https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW) | 3:09 |
+| 21 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 22 | [Semishigure](https://open.spotify.com/track/6r1byZ4FjUUO0WXFn54JzQ) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [Semishigure](https://open.spotify.com/album/4XSX01sFZZ5MhNeuSayivT) | 4:07 |
 | 23 | [THE WALL](https://open.spotify.com/track/5qANmRhcXYaVyjo8A1WKRD) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [THE WALL](https://open.spotify.com/album/307v5rZnLjNDSAbwRTUlGK) | 3:34 |
 | 24 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 49 | [ノーダウト](https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 3:22 |
 | 50 | [飛行艇](https://open.spotify.com/track/5vsM9UppL2iTgOfenMB6Gz) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:20 |
 
-Snapshot ID: `AAAAANcN3zdt4+BHys6twT8/VSZseZ+B`
+Snapshot ID: `AAAAAEv6MzKk+eVTWDRe9bjv4kUb9IT2`

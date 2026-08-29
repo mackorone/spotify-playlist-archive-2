@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,972 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,973 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 42 | [again \(Cover\)](https://open.spotify.com/track/1XcLPGyxMot60hADZtKBHf) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [again \(Cover\)](https://open.spotify.com/album/4xAd44IfzQo8QcAg7zc1Bo) | 4:10 |
 | 43 | [えがおのオーケストラっ！ \(パラレルver.\)](https://open.spotify.com/track/4rdmyKUmOxgTmVPnqkKqoW) | [優雅なティータイムを♪](https://open.spotify.com/artist/3alSKGtEGIuCng0r1UNoDf), [白鷺千聖\(CV:上坂すみれ\)](https://open.spotify.com/artist/1jv55vLFewxt2UQiQYc2IY), [湊 友希那\(CV:相羽あいな\)](https://open.spotify.com/artist/5tb5Ya8txUfxvU3USDffwT), [松原花音\(CV:豊田萌絵\)](https://open.spotify.com/artist/67oUulZoqpQ8GtSoCoumNg), [長崎そよ\(CV:小日向美香\)](https://open.spotify.com/artist/0ideeN34584s8oFN36bsjF) | [えがおのオーケストラっ！ \(パラレルver.\)](https://open.spotify.com/album/4VQ5iNgOsj6JguyK8XDDNb) | 3:50 |
 | 44 | [新人類は仮想世界の夢を見るか？](https://open.spotify.com/track/0bsQv9Xxwrlc0Cy6sCxhbx) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [コミュ着火Fire!](https://open.spotify.com/album/3278qnLtIoM4eMPlVo83m9) | 3:54 |
-| 45 | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/track/1iRCZqUqfCFBqT8NI89geT) | [羽沢珈琲店にようこそ♪](https://open.spotify.com/artist/1z3oUWGzmtiO7LytZJLx8O), [羽沢つぐみ\(CV:金元寿子\)](https://open.spotify.com/artist/7faWE6B8AnIPOCDuQmv96x), [若宮イヴ\(CV:秦佐和子\)](https://open.spotify.com/artist/66E2DxfDG4cUdM0uivbYPs), [二葉つくし\(CV:mika\)](https://open.spotify.com/artist/6JtSmSbV4QC96Wm4b4hjZK) | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/album/4txrzjXgvXWNiWlZB0YndH) | 3:58 |
-| 46 | [熱風海陸ブシロード〜熱き咆哮〜 \(Cover\)](https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8) | [夢幻戦隊むーたいぷ](https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5) | [夢幻戦隊むーたいぷ１ \(Cover\)](https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293) | 4:37 |
+| 45 | [熱風海陸ブシロード〜熱き咆哮〜 \(Cover\)](https://open.spotify.com/track/0TSGiufLpHUCT3RpiBogE8) | [夢幻戦隊むーたいぷ](https://open.spotify.com/artist/0Jvxrj4gf4hdQYuTNq12b5) | [夢幻戦隊むーたいぷ１ \(Cover\)](https://open.spotify.com/album/1stMIkjvzPRWv5li1KO293) | 4:37 |
+| 46 | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/track/1iRCZqUqfCFBqT8NI89geT) | [羽沢珈琲店にようこそ♪](https://open.spotify.com/artist/1z3oUWGzmtiO7LytZJLx8O), [羽沢つぐみ\(CV:金元寿子\)](https://open.spotify.com/artist/7faWE6B8AnIPOCDuQmv96x), [若宮イヴ\(CV:秦佐和子\)](https://open.spotify.com/artist/66E2DxfDG4cUdM0uivbYPs), [二葉つくし\(CV:mika\)](https://open.spotify.com/artist/6JtSmSbV4QC96Wm4b4hjZK) | [ひとりじゃないんだから \(パラレルver.\)](https://open.spotify.com/album/4txrzjXgvXWNiWlZB0YndH) | 3:58 |
 | 47 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 | 48 | [Butter\-Fly \- Cover](https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:10 |
 | 49 | [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 74 | [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |
 | 75 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 |
 
-Snapshot ID: `AAAAAOrebMNMsPCSfGg+Kn5UQq9ruiWi`
+Snapshot ID: `AAAAAE4efR9sQUJlpZln0l2zxgvH/DEe`

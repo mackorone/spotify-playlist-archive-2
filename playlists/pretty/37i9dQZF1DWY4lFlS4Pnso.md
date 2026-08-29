@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4lFlS4Pnso.md) - [plain]
 
 > The UK and Ireland's biggest playlist\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,987,822 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,987,352 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4lFlS4Pnso.md) - [plain]
 | 59 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 60 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |
 
-Snapshot ID: `AAAAAP+X1JiIU91UEfswPbGtnkJFMEEh`
+Snapshot ID: `AAAAAKQcXMvfH4wcl/hvsrtNJdWeeP55`

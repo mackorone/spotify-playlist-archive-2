@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,404 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,332 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 17 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 |
 | 18 | [REHAB](https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [REHAB](https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas) | 3:15 |
 | 19 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 |
-| 20 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
+| 20 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 |
 | 21 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 |
-| 22 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 |
+| 22 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
 | 23 | [Day 'N' Nite \- Crookers Remix](https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Man On The Moon: The End Of Day \(Int'l Version\)](https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM) | 4:41 |
 | 24 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 |
 | 25 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 49 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 |
 | 50 | [Here In Your Arms](https://open.spotify.com/track/177kCDBuL5HQwdi6peCaUx) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Here In Your Arms](https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13) | 2:32 |
 
-Snapshot ID: `AAAAAL6NaRdRK18Admi82Ik1e2r4ojTB`
+Snapshot ID: `AAAAAAWr2p/jjwQVm/3ODbIqDlKJpkS6`

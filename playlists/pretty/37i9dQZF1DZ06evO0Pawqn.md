@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 21 | [Cien Anos](https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:15 |
 | 22 | [Dulce Morena](https://open.spotify.com/track/409X5sXZG9PIbFSD2aic7S) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 2:57 |
 | 23 | [Un Engano Mas](https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:10 |
-| 24 | [Sentencia](https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:12 |
+| 24 | [Cajita De Cartón](https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Voy A Pedirte Perdón](https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6) | 2:41 |
 | 25 | [Historia de un Amor](https://open.spotify.com/track/1ml853VvNJ960JkbfHSvyN) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:26 |
-| 26 | [Cajita De Cartón](https://open.spotify.com/track/758r1Fu3SHRePFwLA367Rf) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Voy A Pedirte Perdón](https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6) | 2:41 |
+| 26 | [Sentencia](https://open.spotify.com/track/0A68MP0eyN498lCVN1xi1s) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:12 |
 | 27 | [MI Amiga,MI Amor](https://open.spotify.com/track/6OhVAKo5GdXlSiPsZYqCpZ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Por Siempre](https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns) | 3:18 |
 | 28 | [Matame a Besos](https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tiranos del Norte](https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf) | 3:17 |
 | 29 | [Sabor a Mi](https://open.spotify.com/track/0yaZWlPAoBm3iyQa8F3k4X) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [De Cantina En Cantina](https://open.spotify.com/track/3roxfXpMk4yQqwoJFMDWCG) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Por Siempre](https://open.spotify.com/album/6DrYJjF6s1khX4qntiY3ns) | 3:09 |
 | 50 | [Se Supone](https://open.spotify.com/track/0ilbMi7Ahnyr5qGQaeNdbl) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Nicky Rosse](https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc) | [Se Supone](https://open.spotify.com/album/46lvd5Q6wvIF7l6TlDsDLj) | 2:45 |
 
-Snapshot ID: `ao4sgAAAAABfC4hcV9kvIAHUIVtIdOcL`
+Snapshot ID: `ao9+AAAAAACxgGAldTulr/TYnnUJ97AD`

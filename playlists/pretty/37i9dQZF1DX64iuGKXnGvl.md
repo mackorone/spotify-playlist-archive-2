@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 80.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,113 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,207 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64iuGKXnGvl.md) - [plain]
 | 49 | [Mi Banda Toca Rock](https://open.spotify.com/track/3PuFdc2dkvuVuu4pvbKwyP) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [La Historia](https://open.spotify.com/album/5FHm6zZVloarR6inVsAjIs) | 2:56 |
 | 50 | [Símbolo Sexual \- Versão Remasterizada](https://open.spotify.com/track/24c5K7vB2ZGJ6JqC2xCciJ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Roberto Carlos \(1985 Remasterizado\)](https://open.spotify.com/album/0Q1CavPzrjhyUedyl5xnhJ) | 4:38 |
 
-Snapshot ID: `AAAAABSPGaijmSEx58ALtryLPbBW2ASe`
+Snapshot ID: `AAAAALkcnewDUIfHJCfGrHh6gapUhj2G`

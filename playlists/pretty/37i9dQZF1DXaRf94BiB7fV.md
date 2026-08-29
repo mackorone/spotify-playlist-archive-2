@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Sarodi
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,804 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,809 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [I'm In Love](https://open.spotify.com/track/18cZRZyMpNqI6VQxodCXz9) | [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F) | [I'm In Love](https://open.spotify.com/album/34F4oGQLAwchtuiU5mZD0i) | 3:19 |
 | 50 | [Neer Bharan](https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f) | [Tanmay Deochake](https://open.spotify.com/artist/4ujl0vIPR8pYIPAHCPl7OR), [Radhika Bhide](https://open.spotify.com/artist/4OMlEVryNzCNImKNGoZ22c) | [Neer Bharan](https://open.spotify.com/album/4hYwar8PBO70C4eAbrACtw) | 5:48 |
 
-Snapshot ID: `AAAAAGxqS4x+XwKYQ5zLwX/VmOO/uHlw`
+Snapshot ID: `AAAAAPiPztOweZAkOoYXpx+eQulUdOJW`

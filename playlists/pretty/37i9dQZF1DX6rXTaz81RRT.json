@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALeZHU6f8nSX8JytUd+DqnJh5XUv",
+  "snapshot_id": "AAAAAI7mFF+ylB4f4a9tk+PDVoxPothT",
   "tracks": [
     {
       "added_at": "2025-10-21 15:18:21",
@@ -587,26 +587,18 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "Adicto (with Anuel AA & Ozuna)",
-        "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 270740,
-      "name": "Adicto (with Anuel AA & Ozuna)",
-      "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
+      "duration_ms": 229848,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2025-10-21 15:18:21",
@@ -627,18 +619,26 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+        "name": "Adicto (with Anuel AA & Ozuna)",
+        "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 229848,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
+      "duration_ms": 270740,
+      "name": "Adicto (with Anuel AA & Ozuna)",
+      "url": "https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq"
     },
     {
       "added_at": "2025-10-21 15:18:21",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 203183,
-      "name": "Mayores",
-      "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
-    },
-    {
-      "added_at": "2025-10-21 15:18:21",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 232786,
       "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
       "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
+    },
+    {
+      "added_at": "2025-10-21 15:18:21",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 203183,
+      "name": "Mayores",
+      "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
     },
     {
       "added_at": "2025-10-21 15:18:21",
@@ -879,18 +879,22 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
       },
       "artists": [
         {
           "name": "J Balvin",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Ginza",
-      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
+      "duration_ms": 265746,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
     },
     {
       "added_at": "2025-10-21 15:18:21",
@@ -935,30 +939,6 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Una Locura",
-      "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
-    },
-    {
-      "added_at": "2025-10-21 15:18:21",
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -983,22 +963,42 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
       "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
         {
           "name": "J Balvin",
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 265746,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
+      "duration_ms": 230693,
+      "name": "Una Locura",
+      "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+    },
+    {
+      "added_at": "2025-10-21 15:18:21",
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Ginza",
+      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
     },
     {
       "added_at": "2025-10-21 15:18:21",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "Andas En Mi Cabeza",
+        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 164705,
-      "name": "C\u00farame",
-      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+      "duration_ms": 247493,
+      "name": "Andas En Mi Cabeza",
+      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
     },
     {
       "added_at": "2025-10-21 15:18:21",
@@ -1135,22 +1139,34 @@
     {
       "added_at": "2025-10-21 15:18:21",
       "album": {
-        "name": "Andas En Mi Cabeza",
-        "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 247493,
-      "name": "Andas En Mi Cabeza",
-      "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+      "duration_ms": 164705,
+      "name": "C\u00farame",
+      "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+    },
+    {
+      "added_at": "2025-10-21 15:18:21",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
     },
     {
       "added_at": "2025-10-21 15:18:21",
@@ -1171,22 +1187,6 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
-    },
-    {
-      "added_at": "2025-10-21 15:18:21",
-      "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
     },
     {
       "added_at": "2025-10-21 15:18:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,829 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,928 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 89 | [Bezkor Min Zaman](https://open.spotify.com/track/2J8Hv5n1bhChym2jRmkh2D) | [Joseph Nassif](https://open.spotify.com/artist/35VaEMzsyBIfcJl8MsWR6F) | [Rahbaniyat, Vol\. 3](https://open.spotify.com/album/2F0BJE1hHzG41WH6ExveJm) | 3:01 |
 | 90 | [Aam Yes'alouni Aalayk](https://open.spotify.com/track/3M8GG5xKAM602ArbAQtSRB) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Best Of Magida El Roumi Vol.1](https://open.spotify.com/album/7helIvwqlQOERqtOidRIvi) | 5:57 |
 
-Snapshot ID: `AAAAAMrL8C36dNwp/O+3t+yiy6aTYYBS`
+Snapshot ID: `AAAAAIl96EIUwD+JsSz5WniPqmR8wOxI`

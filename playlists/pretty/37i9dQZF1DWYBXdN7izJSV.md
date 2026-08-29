@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,292 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,293 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,18 +28,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 18 | [Angel from Montgomery](https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:44 |
 | 19 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 |
 | 20 | [The Galway Girl](https://open.spotify.com/track/1KnilWyiAb1Jwa9QJXZGMN) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Transcendental Blues](https://open.spotify.com/album/15FbLxuzw8MuuIC1AOob6k) | 3:05 |
-| 21 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July \(2012 Remaster\)](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
-| 22 | [Waiting Around to Die](https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:45 |
+| 21 | [Waiting Around to Die](https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:45 |
+| 22 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July \(2012 Remaster\)](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 |
 | 23 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 24 | [I Wish I Was the Moon](https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 3:34 |
 | 25 | [Our Town](https://open.spotify.com/track/43nP4jKb7yRoyN6onAJ684) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/2GA3HnSHqkdonyJbfEcz6o) | 5:00 |
-| 26 | [Harlem River Blues](https://open.spotify.com/track/630l6KBVfdgvka6Hv20OM1) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Harlem River Blues](https://open.spotify.com/album/1ve8jKdqG5opm9j26Jb8aE) | 2:48 |
-| 27 | [Seven Year Ache](https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Seven Year Ache](https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn) | 3:15 |
+| 26 | [Seven Year Ache](https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Seven Year Ache](https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn) | 3:15 |
+| 27 | [Harlem River Blues](https://open.spotify.com/track/630l6KBVfdgvka6Hv20OM1) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Harlem River Blues](https://open.spotify.com/album/1ve8jKdqG5opm9j26Jb8aE) | 2:48 |
 | 28 | [Alabama Pines](https://open.spotify.com/track/4mBYupeEa1e5Ep2HU7xToZ) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Here We Rest](https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ) | 3:51 |
 | 29 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 |
 | 30 | [Birmingham](https://open.spotify.com/track/5ciSr1SyZUQrxySlxZhdhg) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [O' Be Joyful](https://open.spotify.com/album/4nuJVavarQXSOd2MP7892J) | 4:00 |
-| 31 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
-| 32 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
+| 31 | [Blue](https://open.spotify.com/track/5cDfI3KOa64zbuUgD6a4hG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass](https://open.spotify.com/album/2tNdnAUaaomEEQIsc3Y7TC) | 3:09 |
+| 32 | [Windfall \- 2015 Remaster](https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace \(Remastered\)](https://open.spotify.com/album/1SV1Fh8rLes7MeTYTXznKd) | 2:59 |
 | 33 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
 | 34 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
 | 35 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 50 | [Yuma \- Remastered](https://open.spotify.com/track/6r674yB7uC3NdEpV5kicsN) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Yuma \(Remastered\)](https://open.spotify.com/album/7tsNX9x3wzHdCTHNPJFrU9) | 3:05 |
 | 51 | [Good Intentions](https://open.spotify.com/track/1xFvog4nYO22Sfw5iarls7) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/0NwAQ1Z8qlkvBRxm2pjxBM) | 2:47 |
 | 52 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 |
-| 53 | [Mountain Girl](https://open.spotify.com/track/18arNEI2X191HSDrRMQqkH) | [Blue Mountain](https://open.spotify.com/artist/4S0WYuq4dnunQV6cL3I49i) | [Dog Days](https://open.spotify.com/album/6bhEViXyntNPGV59UMTMYi) | 4:05 |
-| 54 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
+| 53 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
+| 54 | [Mountain Girl](https://open.spotify.com/track/18arNEI2X191HSDrRMQqkH) | [Blue Mountain](https://open.spotify.com/artist/4S0WYuq4dnunQV6cL3I49i) | [Dog Days](https://open.spotify.com/album/6bhEViXyntNPGV59UMTMYi) | 4:05 |
 | 55 | [You Can't Fail Me Now](https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:45 |
 | 56 | [Quiet Corners & Empty Spaces](https://open.spotify.com/track/7crEMhx5kDsaV7hHmL0gkE) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Paging Mr\. Proust](https://open.spotify.com/album/68Gfrh064D2bJfIAw2jdkn) | 3:06 |
 | 57 | [California Zephyr](https://open.spotify.com/track/4eBvIlQ3EhaP2b8At53Woo) | [Jay Farrar](https://open.spotify.com/artist/4tPRMBm25eaPJaceUBPqTK), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [One Fast Move Or I'm Gone Music From Kerouac's Big Sur](https://open.spotify.com/album/3Lki97wGb11VOTrjCEAgCj) | 2:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
 | 75 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 |
 
-Snapshot ID: `AAAAAA2LoIp5UAAK9T4OyVNpS0ankkXD`
+Snapshot ID: `AAAAADyzNQokuMC+7UJLXo11q5rKLlKd`

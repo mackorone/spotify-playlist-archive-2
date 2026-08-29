@@ -1,12 +1,12 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 76240,
+  "num_followers": 76259,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKpRAUUqZ3rjdfpeblkpSdGY4Fs4",
+  "snapshot_id": "AAAAAIzj/bLFU5Xfyccw5JN4h0B2tsAw",
   "tracks": [
     {
       "added_at": "2024-07-12 15:02:20",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 235053,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 267960,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Thnks fr th Mmrs",
-      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Thnks fr th Mmrs",
+      "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Wake Me up When September Ends",
-      "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 272973,
       "name": "My Way",
       "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "Wake Me up When September Ends",
+      "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 321093,
-      "name": "21 Guns",
-      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Day & Age (Bonus Tracks)",
         "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 245373,
       "name": "Human",
       "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 321093,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Lifehouse",
         "url": "https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/0815caqt2Lytro5EIzMufT"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "She Moves In Her Own Way",
-      "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "She Moves In Her Own Way",
+      "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "The Back Room",
-        "url": "https://open.spotify.com/album/13NKtscRQRvQAXR4fY7kO5"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        }
-      ],
-      "duration_ms": 226426,
-      "name": "Munich",
-      "url": "https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Yours Truly, Angry Mob",
         "url": "https://open.spotify.com/album/4J2DGuw6IwLdEwQL94msiU"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 204200,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/2fAIfPLrPUTW1AmJRR428Q"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "The Back Room",
+        "url": "https://open.spotify.com/album/13NKtscRQRvQAXR4fY7kO5"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 226426,
+      "name": "Munich",
+      "url": "https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Under The Iron Sea",
-        "url": "https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "Is It Any Wonder?",
-      "url": "https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Rock Steady",
         "url": "https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 242586,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Under The Iron Sea",
+        "url": "https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Is It Any Wonder?",
+      "url": "https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr"
     },
     {
       "added_at": "2024-07-12 15:02:20",

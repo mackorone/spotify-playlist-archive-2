@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 769 songs - 2 day 1 hr 46 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 774 songs - 2 day 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -777,5 +777,10 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 767 | [Sound of Silver](https://open.spotify.com/track/442bPYh5CaoKNSadk699eG) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:07 |
 | 768 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 | 769 | [Watch the Tapes](https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 3:55 |
+| 770 | [One Touch](https://open.spotify.com/track/6nlmCGmPBYfdKnMpavObQm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 7:45 |
+| 771 | [All I Want](https://open.spotify.com/track/4Cy0NHJ8Gh0xMdwyM9RkQm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 6:41 |
+| 772 | [You Wanted a Hit](https://open.spotify.com/track/3fU0407Cls1hLW1ap5w2Lr) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 9:06 |
+| 773 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
+| 774 | [Pow Pow](https://open.spotify.com/track/3VhBuvzzuGUuh7nyJJvGLk) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:23 |
 
-Snapshot ID: `AAAsBZEo7J3JMUrZ6vASvChugwrlEJ9J`
+Snapshot ID: `AAAsCpNCabpUWdw41a9K2x//KgAImTg7`

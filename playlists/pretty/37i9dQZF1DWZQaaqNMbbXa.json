@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops! Cover: Bebe Rexha",
-  "num_followers": 601395,
+  "num_followers": 601470,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKb6b5bLxtSMpJRDW0CRo6wiuTGZ",
+  "snapshot_id": "AAAAAMVjCzxmmruyDWWpW3FCnNuj1Nj/",
   "tracks": [
     {
       "added_at": "2026-05-01 16:04:53",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Francesco Yates",
-          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
-        }
-      ],
-      "duration_ms": 219043,
-      "name": "Sugar (feat. Francesco Yates)",
-      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 234506,
       "name": "I Need Your Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        }
+      ],
+      "duration_ms": 219043,
+      "name": "Sugar (feat. Francesco Yates)",
+      "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
     },
     {
       "added_at": "2026-05-01 16:04:53",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2026-05-01 16:04:53",
       "album": {
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2026-05-01 16:04:53",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -1295,30 +1319,6 @@
       "duration_ms": 174760,
       "name": "My Head & My Heart",
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2026-05-01 16:04:53",
-      "album": {
-        "name": "Your Love (9PM)",
-        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 150052,
-      "name": "Your Love (9PM)",
-      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
     },
     {
       "added_at": "2026-05-01 16:04:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,987 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,988 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 23 | [Como Me Dolió Tu Adiós](https://open.spotify.com/track/5OybPwUZOo6Gacxt331dEg) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 2:54 |
 | 24 | [Morenita \- En Vivo](https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 2:47 |
 | 25 | [Las Güilotas](https://open.spotify.com/track/6xDXuW6nmboGxfJnxomD3U) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9), [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Güilotas](https://open.spotify.com/album/74O2rATZ2x2ZgTxHa8ptm1) | 2:51 |
-| 26 | [Una Noche de Banda \- En Vivo](https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Desde Pico Rivera!](https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU) | 3:41 |
-| 27 | [La Otra España \- En Vivo](https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! , Vol.1](https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS) | 2:44 |
+| 26 | [La Otra España \- En Vivo](https://open.spotify.com/track/6cx3phEMsyfMqRs5RlsGsa) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo! , Vol.1](https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS) | 2:44 |
+| 27 | [Una Noche de Banda \- En Vivo](https://open.spotify.com/track/2bnW1HKDaRsalZiAZWgPo1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Desde Pico Rivera!](https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU) | 3:41 |
 | 28 | [Y Todavía Hay Amor](https://open.spotify.com/track/066wvPX3h2s51ttZk6XOfA) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 2:37 |
 | 29 | [Mi Amor Bendito](https://open.spotify.com/track/0A7bJdzkWDMTCZKkj2GTvU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 3:04 |
 | 30 | [Amigo Mesero](https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 3:06 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 37 | [Popotitos \- En Vivo](https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:43 |
 | 38 | [No Llega el Olvido](https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:05 |
 | 39 | [Como Esos Amantes](https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:27 |
-| 40 | [Llegaste A Mi Vida](https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:58 |
+| 40 | [Cuando los Frijoles Bailan](https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 3:25 |
 | 41 | [Popurrí: Fríos Enemigos / Noche de Banda \- En Vivo](https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 5:57 |
-| 42 | [Cuando los Frijoles Bailan](https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 3:25 |
+| 42 | [Llegaste A Mi Vida](https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:58 |
 | 43 | [Ya para Que](https://open.spotify.com/track/4xQ8BFRwZpcshakCveg3E1) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:16 |
 | 44 | [Para Ellas](https://open.spotify.com/track/5ftc7hStJ3hLO7GQHLBDIk) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 3:13 |
-| 45 | [Bota Y Tambora](https://open.spotify.com/track/6Xr8tCaYqmOhnbicXfZJHL) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 4:22 |
-| 46 | [No Vas a Creer/Te Preguntaras \- En Vivo](https://open.spotify.com/track/3puernBYuD2jnlq3732oG0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 4:30 |
+| 45 | [No Vas a Creer/Te Preguntaras \- En Vivo](https://open.spotify.com/track/3puernBYuD2jnlq3732oG0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 4:30 |
+| 46 | [Bota Y Tambora](https://open.spotify.com/track/6Xr8tCaYqmOhnbicXfZJHL) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 4:22 |
 | 47 | [Quiero Que Me Vuelas Queder \- En Vivo](https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 2:55 |
 | 48 | [La Última Lágrima](https://open.spotify.com/track/7jg5POsCAqmOsqsvlnjDcT) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 2:59 |
-| 49 | [Para Toda La Vida](https://open.spotify.com/track/0ea6xuCmW7popUwQJBU9Js) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:36 |
-| 50 | [Se Termino Lo Nuestro](https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:21 |
+| 49 | [Se Termino Lo Nuestro](https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:21 |
+| 50 | [Para Toda La Vida](https://open.spotify.com/track/0ea6xuCmW7popUwQJBU9Js) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:36 |
 
-Snapshot ID: `ao4sgAAAAABn9HXiuljPx4liA3GsOHit`
+Snapshot ID: `ao9+AAAAAAAuEC8B1TK+Olixl1Q6XyRT`

@@ -1,12 +1,12 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover: Skyla Tylaa & Chloe",
-  "num_followers": 41981,
+  "num_followers": 42038,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALqukLOk+Gkv9zHuvEFUZT0TTmNi",
+  "snapshot_id": "AAAAABt9T6ByUQ/+PNsHROPOeo6ZfV+h",
   "tracks": [
     {
       "added_at": "2026-08-28 00:01:47",
@@ -499,22 +499,18 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 136036,
-      "name": "With You (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -547,18 +543,22 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+      "duration_ms": 136036,
+      "name": "With You (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 144270,
+      "name": "Pressure (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
         "name": "What I Like (with Moliy, Ayetian, & Tyga)",
         "url": "https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W"
       },
@@ -1035,46 +1055,6 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 144270,
-      "name": "Pressure (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "WORSHIP",
-        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 163055,
-      "name": "WORSHIP",
-      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1MZtr7IH5qtjIkqrXj8WOJ"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "BADMAN GANGSTA",
-        "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 143575,
-      "name": "BADMAN GANGSTA",
-      "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 180386,
       "name": "Jam",
       "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "BADMAN GANGSTA",
+        "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 143575,
+      "name": "BADMAN GANGSTA",
+      "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1259,30 +1259,6 @@
     {
       "added_at": "2026-08-28 00:01:47",
       "album": {
-        "name": "TATTUU",
-        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 194734,
-      "name": "TATTUU",
-      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
         "name": "Escaladizzy II",
         "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
       },
@@ -1307,6 +1283,50 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
+    },
+    {
+      "added_at": "2026-08-28 00:01:47",
+      "album": {
+        "name": "Gaou la (feat. 6uff)",
+        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Gaou la (feat. 6uff)",
+      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
     },
     {
       "added_at": "2026-08-28 00:01:47",
@@ -1355,26 +1375,6 @@
       "duration_ms": 146165,
       "name": "SHEGE",
       "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
-    },
-    {
-      "added_at": "2026-08-28 00:01:47",
-      "album": {
-        "name": "Gaou la (feat. 6uff)",
-        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Gaou la (feat. 6uff)",
-      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
     },
     {
       "added_at": "2026-08-28 00:01:47",

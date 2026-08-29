@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s.",
-  "num_followers": 1462977,
+  "num_followers": 1463313,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOGUap6Qnbc4sI+G8+3pxUrkrEMT",
+  "snapshot_id": "AAAAAMdiO/rpM8Kd86VV5YlEfXXLisxv",
   "tracks": [
     {
       "added_at": "2024-07-09 02:34:23",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 279786,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 252853,
       "name": "Super Trouper",
       "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 279786,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 258317,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Gipsy Kings",
-        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -1159,6 +1127,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 258317,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 239826,
       "name": "If I Could Turn Back Time",
       "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Gipsy Kings",
+        "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
+      },
+      "artists": [
+        {
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/3iB8eciGU9vZkaDYkz7Ir9"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        },
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Chinese Wall",
         "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 304506,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 267306,
       "name": "Pour Some Sugar On Me",
       "url": "https://open.spotify.com/track/1aZLIbKEdsyqxyD6iNcrbA"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Sussudio - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "True (Special Edition)",
-        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 290720,
-      "name": "Gold - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Better Than Heaven",
         "url": "https://open.spotify.com/album/71st36nPTXAgWnEaNg9AZa"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 239693,
       "name": "Two of Hearts",
       "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+        "name": "True (Special Edition)",
+        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
         }
       ],
-      "duration_ms": 217693,
-      "name": "A View to a Kill",
-      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
+      "duration_ms": 290720,
+      "name": "Gold - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/0sCWw8lcMAohz65MsEDRGh"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 208573,
       "name": "Hands Up - Single Version",
       "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
       },
       "artists": [
         {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Mike Oldfield Collection",
-        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
       },
       "artists": [
         {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
         }
       ],
-      "duration_ms": 218186,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "1999",
-        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+        "name": "Conscience",
+        "url": "https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Womack & Womack",
+          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
         }
       ],
-      "duration_ms": 379266,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
+      "duration_ms": 303666,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7"
     }
   ],
   "unique_name": "80s Party",

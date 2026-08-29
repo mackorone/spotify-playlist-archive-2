@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,607 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,684 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 10 | [Peacefield](https://open.spotify.com/track/5LA5Qhk8UYBHBaqjwqtHDz) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 5:40 |
 | 11 | [Darkness At The Heart Of My Love](https://open.spotify.com/track/6vXceKic4ACImU0bC3oecd) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:58 |
 | 12 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
-| 13 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
+| 13 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
 | 14 | [Umbra](https://open.spotify.com/track/0tnJnhssxtg6CpMysvbkX4) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 5:31 |
 | 15 | [Griftwood](https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:16 |
 | 16 | [Cirice](https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 6:02 |
-| 17 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 17 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
 | 18 | [Marks Of The Evil One](https://open.spotify.com/track/4v7LlPFQvjgZKP3bBnfFjR) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:15 |
 | 19 | [Hunter’s Moon](https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 |
 | 20 | [The Future Is A Foreign Land](https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Future Is A Foreign Land](https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F) | 3:45 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 41 | [Con Clavi Con Dio](https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:33 |
 | 42 | [Hanging Around](https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:09 |
 | 43 | [Phantom Of The Opera](https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantom Of The Opera](https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb) | 7:23 |
-| 44 | [Waiting For The Night](https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:37 |
+| 44 | [Majesty](https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:24 |
 | 45 | [Satan Prayer](https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 4:38 |
-| 46 | [Majesty](https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:24 |
+| 46 | [Waiting For The Night](https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:37 |
 | 47 | [Ghuleh / Zombie Queen](https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 7:29 |
 | 48 | [Missionary Man](https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:42 |
 | 49 | [Stand by Him](https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:56 |
 | 50 | [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 |
 
-Snapshot ID: `ao4sgAAAAAAy4Kt3qbBq+P6ostotkUci`
+Snapshot ID: `ao9+AAAAAACc6Vl6PHqvyIeuEqL6FDvf`

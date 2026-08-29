@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 186624,
+  "num_followers": 186650,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANO+6CewkklUwKn3oe4NZaZg3tve",
+  "snapshot_id": "AAAAABnJjb7aSFK1WOwP2hIYN2/pkAth",
   "tracks": [
     {
       "added_at": "2026-06-12 03:01:51",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "duration_ms": 253354,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Aten\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 198681,
       "name": "Aten\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
-      },
-      "artists": [
-        {
-          "name": "Jefte Santos",
-          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
-        }
-      ],
-      "duration_ms": 253354,
-      "name": "Alegria",
-      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -597,7 +597,7 @@
         }
       ],
       "duration_ms": 237553,
-      "name": "Mulher de L\u00f3 (AO VIVO)",
+      "name": "Mulher de L\u00f3 - AO VIVO",
       "url": "https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH"
     },
     {

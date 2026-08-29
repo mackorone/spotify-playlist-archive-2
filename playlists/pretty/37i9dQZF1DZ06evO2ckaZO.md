@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,290 likes - 39 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,291 likes - 39 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,22 +30,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 | 20 | [Fisherrr \- Remix](https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Fisherrr \(Remix\)](https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz) | 3:55 |
 | 21 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 |
 | 22 | [No Clarity](https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [No Clarity](https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg) | 1:48 |
-| 23 | [How High?](https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:09 |
-| 24 | [Name of Love](https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Name of Love](https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI) | 1:46 |
+| 23 | [Name of Love](https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Name of Love](https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI) | 1:46 |
+| 24 | [How High?](https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:09 |
 | 25 | [Phat Butt](https://open.spotify.com/track/3wKdqWNzGnxapDIaoocxR1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:09 |
 | 26 | [Gimmie A Light](https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gimmie A Light](https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8) | 2:06 |
-| 27 | [Butterfly Ku](https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 1:51 |
-| 28 | [GYAT](https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! \(Bonus\)](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:54 |
+| 27 | [GYAT](https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! \(Bonus\)](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:54 |
+| 28 | [Butterfly Ku](https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 1:51 |
 | 29 | [Popa](https://open.spotify.com/track/5WODIX9TtDrmD9oAFFoxkG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:39 |
 | 30 | [So What?](https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 2:38 |
 | 31 | [Euphoric](https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Euphoric](https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5) | 1:53 |
 | 32 | [On The Radar \- Bonus](https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:04 |
-| 33 | [TTYL](https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:03 |
-| 34 | [Actin A Smoochie](https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:13 |
+| 33 | [Actin A Smoochie](https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:13 |
+| 34 | [TTYL](https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:03 |
 | 35 | [Bully Freestyle](https://open.spotify.com/track/039QTTXxpxtQxgsa6XcqRb) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bully Freestyle](https://open.spotify.com/album/5EH7LpOYTjBhBrgxI18Lh2) | 2:04 |
 | 36 | [Like](https://open.spotify.com/track/7EpDZpPycD5sTmA1NjoW8D) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! : I’m Just A Girl \(Deluxe\)](https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw) | 1:56 |
 | 37 | [Pillsbury Dlow \(feat\. Ice Spice\)](https://open.spotify.com/track/1Kcq6QqW8Ajx70fqbdOPa7) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:54 |
 | 38 | [Be a Lady](https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Be a Lady](https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy) | 1:21 |
 | 39 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 |
 
-Snapshot ID: `ao4sgAAAAACitJ7oXtFLdy1MBsVk2M4D`
+Snapshot ID: `ao9+AAAAAADjjnNWCINXteitd2Gctaft`

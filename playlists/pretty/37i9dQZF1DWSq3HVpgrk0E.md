@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 
 > The whole truth\. Cover: Rick Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,265 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,252 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 16 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 |
 | 17 | [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 |
 | 18 | [What Did I Miss?](https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [What Did I Miss?](https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT) | 3:14 |
-| 19 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
-| 20 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 |
+| 19 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 |
+| 20 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
 | 21 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
 | 22 | [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 |
 | 23 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 49 | [Carried Away](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:43 |
 | 50 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
 
-Snapshot ID: `AAAAABgLhaeNPbit8AU0HZFXmNQCKvUB`
+Snapshot ID: `AAAAAM+jyfPThIVpxUcKMq7JxkxtCYMH`

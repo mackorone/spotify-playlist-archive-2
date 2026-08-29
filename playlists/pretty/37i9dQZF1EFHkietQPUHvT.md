@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 93 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 93 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 37 | [MAESTRO](https://open.spotify.com/track/6waMyYYhkiFHg0hPd2luQo) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [FLOW](https://open.spotify.com/album/7peUxIsjo1GlwVhNdXe4r2) | 2:57 |
 | 38 | [Sun Goes Down](https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Sun Goes Down](https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt) | 3:21 |
 | 39 | [proud of me](https://open.spotify.com/track/35TYlXNyDkHjM6uiPBXkHj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:32 |
-| 40 | [Circus](https://open.spotify.com/track/0HKV81jHT0tFxoLLYskYOr) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Circus](https://open.spotify.com/album/5gJ8mM7bAsCGEwm47Ak99J) | 2:32 |
-| 41 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
+| 40 | [Headrush](https://open.spotify.com/track/0Ga4vJd9Bla4P1ghFQ9bJP) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [No Bad Vibes](https://open.spotify.com/album/7lLnEoEjOqFJhavcGtdlpR) | 2:37 |
+| 41 | [Circus](https://open.spotify.com/track/0HKV81jHT0tFxoLLYskYOr) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Circus](https://open.spotify.com/album/5gJ8mM7bAsCGEwm47Ak99J) | 2:32 |
 | 42 | [biting my tongue](https://open.spotify.com/track/1717Jvw2vyq7KNiutIJmLO) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 2:35 |
 | 43 | [Knife](https://open.spotify.com/track/5fImcQz9mXs1s7akdU9Jc3) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Knife](https://open.spotify.com/album/6mjq2qxsezwSGkdiWN8ml9) | 3:13 |
-| 44 | [Stop Me Dead](https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Stop Me Dead](https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF) | 2:31 |
-| 45 | [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 |
-| 46 | [Baggage](https://open.spotify.com/track/5B1ZzhdccdLGZFNHksTcOx) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [Baggage](https://open.spotify.com/album/0Lfi7gQjlxf7HMy0HzYt6p) | 2:41 |
-| 47 | [Dog Eat Dog](https://open.spotify.com/track/1aeU0ElUC1sbK0uNWp7Ks2) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Dog Eat Dog](https://open.spotify.com/album/7hPGd9jeiXcxRj4Wc3EjXL) | 2:54 |
+| 44 | [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 |
+| 45 | [Stop Me Dead](https://open.spotify.com/track/0JiNzR7D3lpOumnlUGnKjU) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Stop Me Dead](https://open.spotify.com/album/37XRrMkAxD04z1scC9AgxF) | 2:31 |
+| 46 | [Dog Eat Dog](https://open.spotify.com/track/1aeU0ElUC1sbK0uNWp7Ks2) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Dog Eat Dog](https://open.spotify.com/album/7hPGd9jeiXcxRj4Wc3EjXL) | 2:54 |
+| 47 | [Baggage](https://open.spotify.com/track/5B1ZzhdccdLGZFNHksTcOx) | [Persia Holder](https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd) | [Baggage](https://open.spotify.com/album/0Lfi7gQjlxf7HMy0HzYt6p) | 2:41 |
 | 48 | [Hurt When You Hurt Me](https://open.spotify.com/track/3Fl5MQNYh1MIpAOpHYAVpr) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:01 |
 | 49 | [Waiting For You](https://open.spotify.com/track/6CG4xX5mY60t2DzdNt7kFQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [Waiting For You](https://open.spotify.com/album/0dLzKyJTrAQYFC26js8zjo) | 2:41 |
 | 50 | [Tragic, Really](https://open.spotify.com/track/5SgJNSTHLNGozF7ZyfuSYB) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Tragic, Really](https://open.spotify.com/album/0gjH5kgyCijfhaiiK6OQqq) | 2:34 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 68 | [See It To Believe It](https://open.spotify.com/track/0LNNvLrHsgqQheAt2lMrTD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Grace Bowers](https://open.spotify.com/artist/47GDFLxw8IwDw9rSv2xE3u) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 2:47 |
 | 69 | [So What?](https://open.spotify.com/track/2GpUdjibaWYHpykqgKLfGW) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [So What?](https://open.spotify.com/album/55Ur0PitFeUS67xqx8bajK) | 2:44 |
 | 70 | [Holding My Breath](https://open.spotify.com/track/3NwXV3xKXD0RaxvvtvRrdL) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Holding My Breath](https://open.spotify.com/album/58uJcAMB0DC2GgLYWjfqMI) | 2:46 |
-| 71 | [Freak](https://open.spotify.com/track/4qsTIehQpamDhVJoubxoYQ) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Freak](https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP) | 3:01 |
-| 72 | [It’s Cian B\*tch](https://open.spotify.com/track/1Ecw5MvtLLOGq8d7UBzBo9) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 1:11 |
+| 71 | [It’s Cian B\*tch](https://open.spotify.com/track/1Ecw5MvtLLOGq8d7UBzBo9) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 1:11 |
+| 72 | [Freak](https://open.spotify.com/track/4qsTIehQpamDhVJoubxoYQ) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Freak](https://open.spotify.com/album/6n4FHG6BIfeQCgKejwftQP) | 3:01 |
 | 73 | [Love Like Us](https://open.spotify.com/track/4PUWuwvbqSKFvTZ5O0pqhF) | [Next In Line](https://open.spotify.com/artist/5Xn9OPltcdrnTwLJ1ZoTPf) | [Love Like Us](https://open.spotify.com/album/0hDq3gHJMQgfMW8vg8RttR) | 2:58 |
 | 74 | [Don't Wake Me](https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7) | [Damian McGinty](https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y) | [Those Were the Days](https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5) | 3:10 |
 | 75 | [Ordinary Love](https://open.spotify.com/track/2E5dMEYWxm3gY39vvAyOY6) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:40 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 92 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 | 93 | [Hiding on the Highway](https://open.spotify.com/track/2gkAI6XS9SZyznLE3AdHz6) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Outlaw in Love](https://open.spotify.com/album/5NRkJYAKmV8VojGaDBmbby) | 3:25 |
 
-Snapshot ID: `AcawKAAAAADyED1Q9fiiDetv1/VR07qU`
+Snapshot ID: `Aca1FAAAAABP678LZdyMPTZELefIjko9`

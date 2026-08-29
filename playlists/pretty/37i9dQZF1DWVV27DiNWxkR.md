@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier indie melancholia playlist, featuring Phoebe Bridgers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,986,535 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,986,439 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 | 39 | [Rearrange My World](https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 3:48 |
 | 40 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
 | 41 | [As Above](https://open.spotify.com/track/1eDwVLcbEje9j6wtBYpXZ4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 4:24 |
-| 42 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
-| 43 | [Sarah](https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:56 |
+| 42 | [Sarah](https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:56 |
+| 43 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
 | 44 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 |
 | 45 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 |
 | 46 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 | 49 | [Flightless Bird, American Mouth](https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/3fzjXU2SSKero9gVMcPivX) | 4:01 |
 | 50 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
 
-Snapshot ID: `AAAAAH/Wjbdr9zI6ElylyzB7T9HL/LDJ`
+Snapshot ID: `AAAAAJO2saGQmbuYuP965bgEwospTeCy`

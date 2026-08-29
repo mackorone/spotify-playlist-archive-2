@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: F3miii
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,386 likes - 48 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,398 likes - 48 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 12 | [Hot Stunna](https://open.spotify.com/track/2w5bjA39r61Zytbm2DNM6X) | [Che Mario](https://open.spotify.com/artist/1ivNd0gXUD4YnY1HLm6akh) | [Hot Stunna](https://open.spotify.com/album/7DyV42H8KMaBlNHJlsdcCC) | 2:56 |
 | 13 | [Long Nails](https://open.spotify.com/track/1ZU1xABoXgJKErK2QemZlN) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Long Nails](https://open.spotify.com/album/4kJGtMYZKNzpRiCM4HaBtP) | 3:21 |
 | 14 | [Fuck](https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [August 26](https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc) | 3:33 |
-| 15 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 |
+| 15 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 16 | [Zombie](https://open.spotify.com/track/5BiwgI8EvARjyeYrl0TTwa) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Zombie](https://open.spotify.com/album/3VddMbNgo0HnMehO6PjQer) | 2:48 |
 | 17 | [NAKED ON A YACHT](https://open.spotify.com/track/6uEAy8KGxG5HBNQxtDCG4x) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [THE TIME OF OUR LIVES](https://open.spotify.com/album/3QXgB0PAmTYKz17aYAblyS) | 2:19 |
 | 18 | [YoYo](https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [YoYo](https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys) | 3:20 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 47 | [understood](https://open.spotify.com/track/6ckr4QzYRqDQ1COrVSST9w) | [kwes e](https://open.spotify.com/artist/6bfEL2kyoh9XtiYtpVNozy) | [understood](https://open.spotify.com/album/0e6Vetk0r0IOvgntCewZXB) | 2:18 |
 | 48 | [Moody \- Interlude](https://open.spotify.com/track/4gszCRGb7JVjsN7FTXwr8Y) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Moody \(Interlude\)](https://open.spotify.com/album/3by0xIg8P6so2mXRs8SDps) | 1:51 |
 
-Snapshot ID: `AAAAAJe2Gd1qeQjY06WKwnxi0ZYuB3h/`
+Snapshot ID: `AAAAAKGvN5uh/A1KeGTA0JhhxKJdNkIU`

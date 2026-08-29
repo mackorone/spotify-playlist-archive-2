@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,994 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,076 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 35 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 |
 | 36 | [Die Geschichte Einer Mutter](https://open.spotify.com/track/7KPPysjHZEvFDJSPTd1MKs) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 6:53 |
 | 37 | [Avril 14th](https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ) | [YACHT](https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr) | [Sub Versions](https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z) | 2:10 |
-| 38 | [Aladdin's Story](https://open.spotify.com/track/7iJJBAXSeuu9ymCdiPPscE) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/4qUKzyXuy3GSzQD5RTJLdq) | 4:44 |
-| 39 | [Sunbathing](https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 3:11 |
+| 38 | [Sunbathing](https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4) | 3:11 |
+| 39 | [Aladdin's Story](https://open.spotify.com/track/7iJJBAXSeuu9ymCdiPPscE) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [The Contino Sessions](https://open.spotify.com/album/4qUKzyXuy3GSzQD5RTJLdq) | 4:44 |
 | 40 | [Anne with an E](https://open.spotify.com/track/6Vookb0CmTJyKM2Axi6J1Z) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [Belong](https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ) | 4:07 |
 | 41 | [Shimmering, Warm & Bright](https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n) | [bel canto](https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83) | [Shimmering, Warm and Bright](https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn) | 3:17 |
 | 42 | [Shining Road](https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Loved](https://open.spotify.com/album/2indFH0tGfNSPt7MnIXKX0) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [Swallow \(EP Version\)](https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 4:53 |
 | 50 | [Space Song](https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt) | 5:20 |
 
-Snapshot ID: `AAAAAP7VR+HxEL+Xud64ih6yv/Cy2LbE`
+Snapshot ID: `AAAAAHkWmSeK96fu7lgqaDhndDaE8CL6`

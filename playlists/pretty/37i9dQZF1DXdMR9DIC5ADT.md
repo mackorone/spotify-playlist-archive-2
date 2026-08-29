@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,980 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,978 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 32 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 33 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 | 34 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
-| 35 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
-| 36 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
+| 35 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
+| 36 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 37 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 |
 | 38 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
 | 39 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 42 | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 |
 | 43 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
 | 44 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
-| 45 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
-| 46 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
-| 47 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
-| 48 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
+| 45 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
+| 46 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
+| 47 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
+| 48 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 49 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 50 | [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 |
 
-Snapshot ID: `AAAAAO3ZPb2g2KkbfHYoGNUHFZmMhAIJ`
+Snapshot ID: `AAAAAGPVrbO/L/EJK/fIqB38Hbotp9N+`

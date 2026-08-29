@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,979 likes - 75 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,993 likes - 75 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 70 | [100% Pure Love \- UNIIQU3 Remix](https://open.spotify.com/track/0aCcAr2o7IPxGRxZ6e3rzF) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [100% Pure Love \(UNIIQU3 Remix\)](https://open.spotify.com/album/0snVlqrONcCE5xKYxs3Dpx) | 2:50 |
 | 71 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
 | 72 | [Anytime I Want, Pt\. 2](https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu) | [DJ SoulChild AC](https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH), [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [NJ Turnpike, Vol\. 1 \(A Jersey Club Mixtape\)](https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6) | 1:32 |
-| 73 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
-| 74 | [Doin It Wrong \- DJ iMarkkeyz Remix](https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [iMarkkeyz](https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R) | [Doin It Wrong \(DJ iMarkkeyz Remix\)](https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb) | 2:57 |
+| 73 | [Doin It Wrong \- DJ iMarkkeyz Remix](https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [iMarkkeyz](https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R) | [Doin It Wrong \(DJ iMarkkeyz Remix\)](https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb) | 2:57 |
+| 74 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
 | 75 | [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 |
 
-Snapshot ID: `AAAAAFWTm8bbIGnYqx3SQOExTeTjwXLB`
+Snapshot ID: `AAAAAK0TkGVtE0jV13fQCGKndKaePqN8`

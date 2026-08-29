@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 393967,
+  "num_followers": 393965,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKg80XaBXjoYsOQA0mRvecRXwAcz",
+  "snapshot_id": "AAAAACXYGfp+ftgOvlhPct4+qjuPctu/",
   "tracks": [
     {
       "added_at": "2026-08-26 02:23:50",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-26 02:23:50",
       "album": {
-        "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
-        "url": "https://open.spotify.com/album/4bjpKHTLJ2FtOlzrdXDL1d"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        }
-      ],
-      "duration_ms": 242603,
-      "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
-      "url": "https://open.spotify.com/track/03pAYCtkK1l7D8rQ5rvc89"
-    },
-    {
-      "added_at": "2026-08-26 02:23:50",
-      "album": {
         "name": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30ad\u30b9",
         "url": "https://open.spotify.com/album/5BAI5YNxwWN8HgIy3iN6f6"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 159927,
       "name": "Dive",
       "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
+    },
+    {
+      "added_at": "2026-08-26 02:23:50",
+      "album": {
+        "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
+        "url": "https://open.spotify.com/album/4bjpKHTLJ2FtOlzrdXDL1d"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "duration_ms": 242603,
+      "name": "\u7ffc\u306e\u6298\u308c\u305f\u30a8\u30f3\u30b8\u30a7\u30eb",
+      "url": "https://open.spotify.com/track/03pAYCtkK1l7D8rQ5rvc89"
     },
     {
       "added_at": "2026-08-26 02:23:50",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-08-26 02:23:50",
       "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 242920,
+      "name": "\u6708\u9762\u7740\u9678\u8a08\u753b - Moon Landing Plan",
+      "url": "https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc"
+    },
+    {
+      "added_at": "2026-08-26 02:23:50",
+      "album": {
         "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
         "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 227175,
       "name": "GALA",
       "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
-    },
-    {
-      "added_at": "2026-08-26 02:23:50",
-      "album": {
-        "name": "15",
-        "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 242920,
-      "name": "\u6708\u9762\u7740\u9678\u8a08\u753b - Moon Landing Plan",
-      "url": "https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc"
     },
     {
       "added_at": "2026-08-26 02:23:50",
@@ -1475,46 +1475,6 @@
     {
       "added_at": "2026-08-26 02:23:50",
       "album": {
-        "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
-        "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
-      },
-      "artists": [
-        {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
-        },
-        {
-          "name": "Candee",
-          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
-        },
-        {
-          "name": "ZOT on the WAVE",
-          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
-        }
-      ],
-      "duration_ms": 193039,
-      "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
-      "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
-    },
-    {
-      "added_at": "2026-08-26 02:23:50",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/334wq5LsvTbKOIauntarEf"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/4CZdaN3oZZrWaYao4kU9cx"
-    },
-    {
-      "added_at": "2026-08-26 02:23:50",
-      "album": {
         "name": "Luv Myself (feat. AKLO & KEIJU)",
         "url": "https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA"
       },
@@ -1539,18 +1499,42 @@
     {
       "added_at": "2026-08-26 02:23:50",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/334wq5LsvTbKOIauntarEf"
       },
       "artists": [
         {
-          "name": "3House",
-          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
         }
       ],
-      "duration_ms": 174095,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
+      "duration_ms": 227000,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4CZdaN3oZZrWaYao4kU9cx"
+    },
+    {
+      "added_at": "2026-08-26 02:23:50",
+      "album": {
+        "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
+        "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        }
+      ],
+      "duration_ms": 193039,
+      "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
+      "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
     },
     {
       "added_at": "2026-08-26 02:23:50",
@@ -1567,6 +1551,22 @@
       "duration_ms": 167400,
       "name": "\u604b\u611b\u5f8c\u907a\u75c7",
       "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
+    },
+    {
+      "added_at": "2026-08-26 02:23:50",
+      "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
+      },
+      "artists": [
+        {
+          "name": "3House",
+          "url": "https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w"
+        }
+      ],
+      "duration_ms": 174095,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
     },
     {
       "added_at": "2026-08-26 02:23:50",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-08-26 02:23:50",
       "album": {
+        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+    },
+    {
+      "added_at": "2026-08-26 02:23:50",
+      "album": {
         "name": "\u660e\u308b\u3044\u90e8\u5c4b",
         "url": "https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK"
       },
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2026-08-26 02:23:50",
       "album": {
-        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
+        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
       },
       "artists": [
         {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 225960,
-      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+      "duration_ms": 272036,
+      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2026-08-26 02:23:50",
@@ -1651,22 +1667,6 @@
       "duration_ms": 198370,
       "name": "\u6708\u3078\u884c\u3053\u3046",
       "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
-    },
-    {
-      "added_at": "2026-08-26 02:23:50",
-      "album": {
-        "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-        "url": "https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 272036,
-      "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
-      "url": "https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI"
     },
     {
       "added_at": "2026-08-26 02:23:50",

@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。The Weeknd, Olivia Rodrigo, Alex Warren, Post Malone and more!
 
-14,954 songs - 34 day 19 hr 22 min
+14,955 songs - 34 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12883,6 +12883,7 @@
 | [WA DA DA \(Japanese version\)\~IMLAY Remix\~](https://open.spotify.com/track/47zmJERj81Q9jPu9ykKboQ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [WA DA DA \(Japanese version\)\~IMLAY Remix\~](https://open.spotify.com/album/241VTaEDhSs7Y18LcxDZNm) | 3:16 | 2023-02-16 | 2023-02-24 |
 | [WABISABI](https://open.spotify.com/track/4AOARiilKISqSJb7R9IzHy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [WABISABI](https://open.spotify.com/album/1jng714YIumOqx0qLMyZEG) | 1:52 | 2024-09-19 | 2024-09-27 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-06 | 2023-04-14 |
+| [Wagamama](https://open.spotify.com/track/0dI0U8TOFOKkLlrwJeCdlL) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [B2B](https://open.spotify.com/album/7aueJE4DSLhBilNb9ScCwg) | 2:51 | 2026-08-29 |  |
 | [Wagging Tongue](https://open.spotify.com/track/5g2GhW0Xdc0HHwUCaKkmRQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Memento Mori](https://open.spotify.com/album/3QWc9HhBWgk9dIEwOkJx4q) | 3:24 | 2023-03-24 | 2023-03-31 |
 | [Wagging Tongue \- Wet Leg Remix](https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wagging Tongue \(Remixes\)](https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H) | 4:38 | 2023-07-06 | 2023-07-14 |
 | [WAGWAN](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ALL ROADS LEAD HOME](https://open.spotify.com/album/1JcLZljq8ADWNCdwVJKNID) | 2:07 | 2026-03-26 | 2026-04-03 |

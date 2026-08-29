@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: تامر عاشور
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,295 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,502 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 12 | [الحب عيبنا](https://open.spotify.com/track/7wXCvrSJxHVH0uEAzyY1Ct) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [الحب عيبنا](https://open.spotify.com/album/7IVWERFu8EVQuPMCOXRMBU) | 3:56 |
 | 13 | [Msh Fare2ly](https://open.spotify.com/track/1ioPKsnpJvlHtqwENYKL3m) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:44 |
 | 14 | [Getlak](https://open.spotify.com/track/2wBWtiIjpbKjIZGHHi00WY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 3:56 |
-| 15 | [Men Gheir Kalam](https://open.spotify.com/track/55edd3SDyaoCC8pZ9xhwFz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Sadeek El Bernameg](https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn) | 3:36 |
+| 15 | [Men Gheir Kalam](https://open.spotify.com/track/55edd3SDyaoCC8pZ9xhwFz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Sadeek El Bernameg](https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn) | 3:37 |
 | 16 | [عمك و عم عمك](https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عمك و عم عمك](https://open.spotify.com/album/3ZxFsT3Mo9Aj5sPCpMk4P2) | 3:02 |
 | 17 | [Nano](https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nano](https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk) | 3:36 |
 | 18 | [AS YOU KNOW](https://open.spotify.com/track/2VlrFHUhvGqiWugpCtRYS8) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [KUKII](https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7) | [AS YOU KNOW](https://open.spotify.com/album/56gDPVpY2eebVpwePbfzH1) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
 | 50 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 |
 
-Snapshot ID: `AAAAALQQnKTARMJC47mR3ezV1i9IeG4j`
+Snapshot ID: `AAAAAMsqEreVdecVAqspBVkQ0yIwZIGE`

@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 946806,
+  "num_followers": 946852,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABzRcRZQRFXp1Se7mBXKycO",
+  "snapshot_id": "ao9+AAAAAAAI7xCldv93qg+YOWkFmIFL",
   "tracks": [
     {
       "added_at": null,
@@ -263,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
       },
       "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Neighbors",
-      "url": "https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy"
+      "duration_ms": 240341,
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
       "added_at": null,
@@ -303,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "East Atlanta Love Letter",
-        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
       },
       "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 240341,
-      "name": "Pretty Little Fears (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+      "duration_ms": 216520,
+      "name": "Neighbors",
+      "url": "https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "a m a r i",
-      "url": "https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shea Butter Baby",
         "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 211610,
       "name": "Shea Butter Baby (with J. Cole)",
       "url": "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 148421,
+      "name": "a m a r i",
+      "url": "https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX"
     },
     {
       "added_at": null,

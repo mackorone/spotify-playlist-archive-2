@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,347 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,396 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 12 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 |
 | 13 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
 | 14 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 |
-| 15 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 |
-| 16 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
+| 15 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
+| 16 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 |
 | 17 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 |
 | 18 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 19 | [Some People](https://open.spotify.com/track/2CMfnYSI28O570OE7ExscU) | [liou](https://open.spotify.com/artist/0JokWHgwhvceKMvsNestzx) | [Some People](https://open.spotify.com/album/6wMScXdwVRiJdjxtugTNHw) | 2:26 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 51 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 52 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 |
 | 53 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
-| 54 | [Colorado \- Acoustic Version](https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado \(Acoustic Version\)](https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs) | 2:55 |
-| 55 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
+| 54 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
+| 55 | [Colorado \- Acoustic Version](https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado \(Acoustic Version\)](https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs) | 2:55 |
 | 56 | [Old Bone](https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Old Bone / Trust No Man](https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q) | 3:07 |
 | 57 | [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 |
 | 58 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
 | 59 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
-| 60 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 |
-| 61 | [Rhizome](https://open.spotify.com/track/6ttEKLENY1kjMjaB897Wgs) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [No Fire in the Sand](https://open.spotify.com/album/3pFgeFgOp354TJhd7I7rwQ) | 4:17 |
+| 60 | [Rhizome](https://open.spotify.com/track/6ttEKLENY1kjMjaB897Wgs) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [No Fire in the Sand](https://open.spotify.com/album/3pFgeFgOp354TJhd7I7rwQ) | 4:17 |
+| 61 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 |
 | 62 | [Our New World \- with Kyson](https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Our New World \(with Kyson\)](https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB) | 3:39 |
 | 63 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 |
 | 64 | [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 99 | [Orion](https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Orion](https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9) | 3:37 |
 | 100 | [passenger seat](https://open.spotify.com/track/3dtGmAbmjm3VsILtYkFf10) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [HOMESICK](https://open.spotify.com/album/03BfcKu7N2Hy7yZHLStwlV) | 1:45 |
 
-Snapshot ID: `AAAAAAd24ngzK4qO9bcT1lJ0riWgIoYB`
+Snapshot ID: `AAAAAD8PNgyWodl/S53+GSEY6zBnVFMy`

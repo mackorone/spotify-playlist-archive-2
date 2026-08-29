@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Berq
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,995 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,059 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [IM NACHGANG](https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [IM NACHGANG](https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw) | 2:33 |
 | 75 | [nur nh idee](https://open.spotify.com/track/3Vs6j00BhZVOjOxA2mvtD2) | [doss](https://open.spotify.com/artist/5GlfABPVozsdDtqLfaNgGK) | [nur nh idee](https://open.spotify.com/album/3dzd4KvX6TBfNNemq7cL6Z) | 2:46 |
 
-Snapshot ID: `AAAAABmdAQDtBRgwUWV7u521HjyxQH0N`
+Snapshot ID: `AAAAAPOza8DnHa0nITvNBNFY/6u1EiyJ`

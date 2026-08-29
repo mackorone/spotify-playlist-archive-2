@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Interpol
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,459,647 likes - 81 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459,680 likes - 81 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 80 | [Angel Wings](https://open.spotify.com/track/3iy584wHI5wWPYKVMr95W3) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Angel Wings](https://open.spotify.com/album/5SqZNJucNQDJiwTFrChQzF) | 3:44 |
 | 81 | [Supersweetness](https://open.spotify.com/track/4r7MDevilrja3zOpxHL1Zd) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Supersweetness](https://open.spotify.com/album/7p9EhGvz8LLX4qfruYYpaI) | 3:24 |
 
-Snapshot ID: `AAAAAJFwuQ/3cc/cEbqGVuSVzsDVRpTP`
+Snapshot ID: `AAAAAKrbdO509PsPKd8SEhMT5tLDz34m`

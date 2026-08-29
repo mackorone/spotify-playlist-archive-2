@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 
 > Our editors' favorite Afro House tracks of 2024\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,574 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,604 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 | 54 | [Light Down](https://open.spotify.com/track/0wlYNRYVtGYJsJcd2xe31k) | [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg), [Garla](https://open.spotify.com/artist/7rWJlrAgnfBKkExJOPqpiQ) | [Light Down](https://open.spotify.com/album/59t9U3I17pMqt5ixq3ELpb) | 4:34 |
 | 55 | [Electric Feel](https://open.spotify.com/track/7d6bWTHr7EZgygynnxAKCA) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Electric Feel](https://open.spotify.com/album/29BVrWf0PVRv70xlUbfjhr) | 2:50 |
 | 56 | [Relax My Eyes](https://open.spotify.com/track/5JGDu1UaCRa0BUfvpCxKnq) | [RHUM G](https://open.spotify.com/artist/04ujR8mizyQZjciXFR9XVW), [RIVIIERA](https://open.spotify.com/artist/3v5ekpuoi79QsjwVtnhmTk) | [Relax My Eyes](https://open.spotify.com/album/72nRGNa1Mw74QJf7rEfsx1) | 6:22 |
-| 57 | [Veneno \(&friends Remix\)](https://open.spotify.com/track/6a56Hsf9EGznpPXr4VERkw) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno \(&friends Remix\)](https://open.spotify.com/album/4au0ZInXEbJHLvTLZs7pFi) | 3:55 |
+| 57 | [Veneno \- &friends Remix](https://open.spotify.com/track/6a56Hsf9EGznpPXr4VERkw) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno \(&friends Remix\)](https://open.spotify.com/album/4au0ZInXEbJHLvTLZs7pFi) | 3:55 |
 | 58 | [Buscando Money \- HUGEL, Jesús Fernández Remix; Extended](https://open.spotify.com/track/33W4sYB6uT13ATNgRunXyw) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [Buscando Money \(HUGEL, Jesús Fernández Remix\)](https://open.spotify.com/album/3kwiw3eL0y6btTqWaJe6t2) | 5:08 |
 | 59 | [Thriller \- Afro Halloween Radio Edit](https://open.spotify.com/track/0LBlaDyDuXFxKMlAKkyVnl) | [Softmal](https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ), [LLølita](https://open.spotify.com/artist/0fnCSuylj2kNfNzpvmFeM3) | [Thriller Afro Halloween Mix](https://open.spotify.com/album/65eHXOJPIW5UFhkCnFTboF) | 2:22 |
 | 60 | [Les Saints](https://open.spotify.com/track/7d6YuyqinXLrrHDr3TeI80) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Les Saints EP](https://open.spotify.com/album/2Y4EGwtRPTe63PGNeulR44) | 5:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6PMQY9BFJY.md) - [plain]
 | 74 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/0kTVwwt7g7OR5BAYmJvUue) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/3vTbXNxh4aurW6b8WWSXOV) | 6:16 |
 | 75 | [Delakufa](https://open.spotify.com/track/6KUozwM4TNgRHIWGoqwl8g) | [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Delakufa](https://open.spotify.com/album/369KYFS91QZ4Vhu2ArRUOl) | 3:26 |
 
-Snapshot ID: `AAAAAAxYbihaL8BjjtogZpL1JN2VQ+gY`
+Snapshot ID: `AAAAAAfRsb8VOAg2jvbgV9iBcoxI5hOq`

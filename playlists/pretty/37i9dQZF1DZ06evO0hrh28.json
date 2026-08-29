@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 255844,
+  "num_followers": 255842,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABTr6KoqCotMqnCbdSNee2f",
+  "snapshot_id": "ao9+AAAAAAAfIlNKT9QEhQghVAg7YoDm",
   "tracks": [
     {
       "added_at": null,
@@ -75,30 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "blackout \ud83e\uddca",
-        "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "blackout \ud83e\uddca",
-      "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Foto Remix (feat. Emilia)",
         "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
       },
@@ -123,6 +99,30 @@
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blackout \ud83e\uddca",
+        "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "blackout \ud83e\uddca",
+      "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
     },
     {
       "added_at": null,
@@ -563,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "+ Te Vale",
-        "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
       "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 144732,
-      "name": "+ Te Vale",
-      "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
+      "duration_ms": 166800,
+      "name": "latin girl",
+      "url": "https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI"
     },
     {
       "added_at": null,
@@ -599,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO HAY VERANO SIN GORDO",
-        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
+        "name": "+ Te Vale",
+        "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
       },
       "artists": [
         {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Olvidarte (feat. Emilia)",
-      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+      "duration_ms": 144732,
+      "name": "+ Te Vale",
+      "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
     },
     {
       "added_at": null,
@@ -643,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
       "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 166800,
-      "name": "latin girl",
-      "url": "https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI"
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
     },
     {
       "added_at": null,
@@ -675,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apambichao",
-        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
       "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 162360,
-      "name": "Cumbia Playera",
-      "url": "https://open.spotify.com/track/7JWUbHhM6oeCJ31L949K5x"
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
       },
       "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
+      "duration_ms": 162360,
+      "name": "Cumbia Playera",
+      "url": "https://open.spotify.com/track/7JWUbHhM6oeCJ31L949K5x"
     },
     {
       "added_at": null,

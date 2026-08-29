@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,834 likes - 110 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,851 likes - 110 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 109 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/06CWwwDm7bgCTQgyGi8zJL) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 |
 | 110 | [Quiet Arrival \(Alpha Binaural 116 Hz \- 124 Hz\)](https://open.spotify.com/track/4ZnNZmV9HbPMYdRaDVxvnE) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Quiet Arrival \(Alpha Binaural 116 Hz \- 124 Hz\)](https://open.spotify.com/album/6IPwSmMVscFzZibe8FsjdS) | 3:50 |
 
-Snapshot ID: `AAAAABBQjD6XEjhceCWTU+QTceXel0D8`
+Snapshot ID: `AAAAAGtzMZF5pWIMWOi2TQRmgCaMLAkH`

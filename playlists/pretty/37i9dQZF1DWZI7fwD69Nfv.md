@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI7fwD69Nfv.md) - [plain]
 
 > aquí no hay matcha, parientón, puro cafecito con canela.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,441 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,443 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
+| 1 | [Tus Mentiras \- En Vivo](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 2 | [Fuentes De Ortiz](https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [De Hoy En Adelante, Que Te Vaya Bien](https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh) | 3:33 |
 | 3 | [Suspiros](https://open.spotify.com/track/2evmCe9rkk8do11scsJ0Xa) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Suspiros](https://open.spotify.com/album/1nFpuA8baOSvdt0iRIA9IE) | 2:56 |
 | 4 | [Yo Me Confié](https://open.spotify.com/track/12cRDWVrxI7Wf0KHiVr3fH) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 2:42 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI7fwD69Nfv.md) - [plain]
 | 86 | [No Me Quiero Enamorar](https://open.spotify.com/track/3geeF5EDawH9gnwSXNiq1h) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/1TcvP9Z7x4W7UlURbOyQcJ) | 2:39 |
 | 87 | [Como Tu Querer \- Con Banda](https://open.spotify.com/track/3C1LJd8eEGuN9AzyQbueLS) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:48 |
 
-Snapshot ID: `AAAAAO68bazHLR0CQ/fo+B5veWaQR8cM`
+Snapshot ID: `AAAAABC4Nfy+pJItEXxKXWGorZbEqn44`

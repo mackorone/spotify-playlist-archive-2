@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond y Elena Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,156 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,142 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 | 2 | [Tu recuerdo](https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Tu recuerdo](https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw) | 3:55 |
 | 3 | [Nada Que Me Pagan](https://open.spotify.com/track/4pH4hyu6sNdcZBCllIbo1u) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nada Que Me Pagan](https://open.spotify.com/album/3iumjIgms5xHd1WtX9YbuS) | 4:18 |
 | 4 | [RULAY](https://open.spotify.com/track/440u0o6IMKbLgqNhmuYD8M) | [menteabierta](https://open.spotify.com/artist/3Z5jrGaclyPGZxbGcVuCFy), [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [RULAY](https://open.spotify.com/album/70x2Y06HOorSVh6OLtPupJ) | 2:43 |
-| 5 | [País Portatil](https://open.spotify.com/track/0rBXRLeDu6TUcOvGCj1MHN) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [País Portatil](https://open.spotify.com/album/0nTh4P89pSjDm6YFoDdWS0) | 4:25 |
+| 5 | [País Portátil](https://open.spotify.com/track/0rBXRLeDu6TUcOvGCj1MHN) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [País Portátil](https://open.spotify.com/album/0nTh4P89pSjDm6YFoDdWS0) | 4:25 |
 | 6 | [Me Despido](https://open.spotify.com/track/0wXfqhvBXsTy0Uj8FvJDnH) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Me Despido](https://open.spotify.com/album/7x47TvmcsJe4YA8uaHbDoW) | 2:49 |
 | 7 | [mariposas en el estómago](https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [El Laberinto del Coco](https://open.spotify.com/artist/2Xvxlkf21E6JeWIV0lAMMM) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 3:40 |
 | 8 | [Tú Con Él](https://open.spotify.com/track/4SQQXTfDQQzqMYt9Ems7A1) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [El Papá De La Salsa](https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h) | 5:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1FUX6sM67g.md) - [plain]
 | 59 | [Bailando Bachata](https://open.spotify.com/track/0wJTU840o7lLDqWumgyf33) | [Napoles](https://open.spotify.com/artist/4mqcM1hVacykEmQIB0aJvO), [MAYKEL](https://open.spotify.com/artist/7Gd7D8evygezZAFemifKMC) | [Bailando Bachata](https://open.spotify.com/album/29fbzUtbrxI4VBEcH5odVx) | 3:43 |
 | 60 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 |
 
-Snapshot ID: `AAAAAMKTtg9pBAk7kyhN+VPSuoyrSuAM`
+Snapshot ID: `AAAAAAJ8RIzhHVtet2zCcKdWN9YIFaN/`

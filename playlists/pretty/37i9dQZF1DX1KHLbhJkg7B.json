@@ -1,12 +1,12 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
-  "num_followers": 136770,
+  "num_followers": 136780,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAus+Vf6Wx+72QiMK3G/rXoQkq2U",
+  "snapshot_id": "AAAAAKLeRPlYo4HQkOGn2VI63tidQaZs",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:08",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 230546,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Feelin' Good Again",
-        "url": "https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 216502,
-      "name": "Feelin' Good Again",
-      "url": "https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Feelin' Good Again",
+        "url": "https://open.spotify.com/album/4lmRpFOVjtQrolFgGjKbND"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 216502,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/7ur3BWiEDGPx7V9QkAwGBx"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
         "name": "The Night The Lights Went Out In Georgia",
         "url": "https://open.spotify.com/album/2Y3bfuOSg8kDUHvTlSPrPP"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 256501,
       "name": "The Night The Lights Went Out In Georgia",
       "url": "https://open.spotify.com/track/1jZvywRaT7pNoFMVvaLoP5"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+        "name": "Always On My Mind (feat. Carter Faith)",
+        "url": "https://open.spotify.com/album/6B0uwqA82rhMGMNrJgZmBb"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
         }
       ],
-      "duration_ms": 177867,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
+      "duration_ms": 229183,
+      "name": "Always On My Mind (feat. Carter Faith)",
+      "url": "https://open.spotify.com/track/63eXWA614woXErLdBxICAV"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1147,6 +1151,22 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 177867,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
         "name": "Acoustic Covers (Deluxe)",
         "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 232250,
       "name": "Outskirts of Heaven (feat. Craig Campbell)",
       "url": "https://open.spotify.com/track/2BzVAwyvy5yHbPkMUGhRRH"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Always On My Mind (feat. Carter Faith)",
-        "url": "https://open.spotify.com/album/6B0uwqA82rhMGMNrJgZmBb"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        },
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 229183,
-      "name": "Always On My Mind (feat. Carter Faith)",
-      "url": "https://open.spotify.com/track/63eXWA614woXErLdBxICAV"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Here Without You",
-        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 246152,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
         "name": "Jersey Giant",
         "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 266320,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Here Without You",
+        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 246152,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1447,6 +1447,30 @@
       "duration_ms": 157880,
       "name": "Only Daddy That'll Walk The Line",
       "url": "https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1539,30 +1563,6 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
         "name": "I'm A Ram",
         "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
       },
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/7hNEpM2NFJUYc6KcoPOpLW"
+        "name": "Dammit",
+        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
         }
       ],
-      "duration_ms": 240363,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3m8io2UpoJNECNufNt5SW4"
+      "duration_ms": 199445,
+      "name": "Dammit",
+      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Dammit",
-        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/7hNEpM2NFJUYc6KcoPOpLW"
       },
       "artists": [
         {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 199445,
-      "name": "Dammit",
-      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
+      "duration_ms": 240363,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3m8io2UpoJNECNufNt5SW4"
     },
     {
       "added_at": "2026-08-28 04:02:08",

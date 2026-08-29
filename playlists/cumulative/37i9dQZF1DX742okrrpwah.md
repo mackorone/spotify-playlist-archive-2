@@ -4,7 +4,7 @@
 
 > Vianney, Angèle, Alex Warren et La Mano 1.9 x PLK au top des nouveautés de la semaine !
 
-10,689 songs - 23 day 0 hr 31 min
+10,690 songs - 23 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [200m2](https://open.spotify.com/track/69QxEQLGI0LKbro4AcypKr) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [200m2](https://open.spotify.com/album/6HqEbvzFoKVOobPqRxUsnc) | 2:00 | 2025-07-03 | 2025-07-11 |
 | [2022](https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [2022](https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF) | 2:54 | 2025-09-25 | 2025-10-03 |
 | [2025](https://open.spotify.com/track/6ByrGBVtpOGYIxyDc5XQYJ) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [2025](https://open.spotify.com/album/6QhHyhSidIqwPEQzWCWeig) | 3:18 | 2024-07-25 | 2024-08-02 |
+| [2026](https://open.spotify.com/track/1VWyUUj31HoE3BLCIAEvke) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [2026](https://open.spotify.com/album/6VANzyAP5IDX28q3IRaCEM) | 3:38 | 2026-08-28 |  |
 | [20S](https://open.spotify.com/track/5j01MVH7tjbeHFDUr7ijzD) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [20S](https://open.spotify.com/album/7d55M83JSccUsKp0KiH9G9) | 3:04 | 2026-02-05 | 2026-02-13 |
 | [21](https://open.spotify.com/track/63UVH4oV3GfD0yy3N1hxY8) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Remède](https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI) | 2:48 | 2024-07-25 | 2024-08-02 |
 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-23 | 2025-01-31 |
@@ -885,7 +886,7 @@
 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-11-06 | 2025-11-14 |
 | [Bande organisée 2](https://open.spotify.com/track/3wh4HFS6a3v8Zu1vZadEwA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [13 Organisé](https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Solda](https://open.spotify.com/artist/7FXX45sHqoQoCwqtG0ZV8H), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Bande organisée 2](https://open.spotify.com/album/77qDPmjrdp1m055rJ3vpSr) | 6:16 | 2024-08-15 | 2024-08-23 |
 | [Bande passante](https://open.spotify.com/track/4oqowA0HSpDJL1IKYAJWBs) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bande passante](https://open.spotify.com/album/1HviYb0hyJOsRwE9bcacLv) | 2:49 | 2025-02-07 | 2025-02-14 |
-| [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/770KUfsvpJLcWqFv96JgM6), [Anderson](https://open.spotify.com/artist/1WrqscQTSOcBLyjIv5Qz6H) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 | 2026-08-28 |  |
+| [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP), [Anderson](https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 | 2026-08-28 |  |
 | [Bandit](https://open.spotify.com/track/54PjbXrV6ONeRRZ0Ryvjzg) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Bandit](https://open.spotify.com/album/4C961BvDSC4LhIvTvFBM5K) | 2:36 | 2025-09-11 | 2025-09-19 |
 | [Bandit chef](https://open.spotify.com/track/44A6TlpNKN3uuXfi2tdjnd) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Bandit chef](https://open.spotify.com/album/42L6uuqhDyV6LVNsm42rWi) | 2:40 | 2026-04-02 | 2026-04-10 |
 | [Bandit d'la Calle](https://open.spotify.com/track/38PSf4NGK4r1aYG93uvYps) | [Graya](https://open.spotify.com/artist/6AmKZ6kQdFR64iIiUsRMHT), [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [Vengeance personnelle](https://open.spotify.com/album/1eP9yl8sw0saZo2kBMo2Wm) | 2:55 | 2025-11-13 | 2025-11-21 |

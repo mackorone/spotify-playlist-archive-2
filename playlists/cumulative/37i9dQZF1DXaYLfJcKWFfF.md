@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-459 songs - 1 day 2 hr 31 min
+460 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 | 2025-09-19 |  |
 | [Milele](https://open.spotify.com/track/0ThlnzzzbQjw3WpbuPoafr) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Milele](https://open.spotify.com/album/3Zt55olh4hstOLmrFRNp2G) | 3:29 | 2021-09-30 | 2023-08-18 |
 | [Mimi na wewe](https://open.spotify.com/track/4Os4kaUmrqDpLP0iefW2m3) | [Swahili Ally](https://open.spotify.com/artist/505upYNGyPZJdVAC95Iacr) | [NADUNDA](https://open.spotify.com/album/6jIbGRwcdfU18mvKB7r4aU) | 4:01 | 2020-05-26 | 2023-06-09 |
+| [Mmkay](https://open.spotify.com/track/3AqeEpNCUBSh7MCjwlCe2z) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [Mmkay](https://open.spotify.com/album/1dY4Q7zOwAuaUCx4SKIw6I) | 1:50 | 2026-08-28 |  |
 | [Mmuan Daan](https://open.spotify.com/track/3s5i68yM2uOrvWXxQ5BVHE) | [Muanda](https://open.spotify.com/artist/7FY23WzyHwLPLK7VSHb7gV) | [Mmuan Daan](https://open.spotify.com/album/7pqLfnPiVJGRWFvDXJwTYL) | 3:37 | 2023-03-17 | 2023-08-04 |
 | [Mogre](https://open.spotify.com/track/0o2BUgkstqJoA6L8eebVqS) | [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Mogre](https://open.spotify.com/album/7c5HUxOGSnBeyX9MGwCiD1) | 3:38 | 2024-07-05 | 2024-10-05 |
 | [Money](https://open.spotify.com/track/6GMYPEjFx65qzILJVuLARk) | [Senkulive](https://open.spotify.com/artist/79ynBppzsEuPprCYBIMxac) | [Money](https://open.spotify.com/album/4ddsZufWZXep03HuxtPJJG) | 4:54 | 2022-12-02 | 2023-06-09 |
@@ -398,7 +399,7 @@
 | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/track/2kJsAjvUCXdsq4NKU27eOj) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/album/2upZ5fvsaWPT2LHb7d9IJJ) | 3:02 | 2022-01-27 | 2022-11-26 |
 | [Tiger](https://open.spotify.com/track/5YkCm6xWVVDOujVNkjK8Vg) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Tiger](https://open.spotify.com/album/5LWDDwfXxb0ggIKeElCiF1) | 2:26 | 2023-06-02 | 2023-06-09 |
 | [Tiger](https://open.spotify.com/track/6L74DRgwAPCMU5j0GRdYCZ) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Tiger](https://open.spotify.com/album/3kY0THIOcoEoQtVa0hgfaE) | 3:40 | 2024-04-12 | 2025-05-09 |
-| [Time Away](https://open.spotify.com/track/3WkOq6BS0yWlyGi5nm2dYL) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [Time Away](https://open.spotify.com/album/4gqRI4PONgJxgnTp0exa8o) | 4:27 | 2026-05-22 |  |
+| [Time Away](https://open.spotify.com/track/3WkOq6BS0yWlyGi5nm2dYL) | [Second House](https://open.spotify.com/artist/3T45Gk2rlZuajL50HYD0eB) | [Time Away](https://open.spotify.com/album/4gqRI4PONgJxgnTp0exa8o) | 4:27 | 2026-05-22 | 2026-08-29 |
 | [Time Heals](https://open.spotify.com/track/3X3xMPof9266qz7NvMnEXp) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR) | [For You Knew Me](https://open.spotify.com/album/5YW4m8EgJWTX2c4cHXAPq8) | 3:44 | 2023-05-11 | 2023-06-23 |
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-03-31 | 2024-02-02 |
 | [Titi Dor](https://open.spotify.com/track/1pxGR2ebLpKBC2bS35aYdA) | [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE) | [Titi Dor](https://open.spotify.com/album/0d36iSQ4Z8SYTIPI9wEGAG) | 5:38 | 2021-12-09 | 2023-06-09 |

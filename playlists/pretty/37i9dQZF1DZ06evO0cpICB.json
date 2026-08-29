@@ -1,12 +1,12 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 17746,
+  "num_followers": 17753,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACyGRZV02YU/s3F0bI4dRel",
+  "snapshot_id": "ao9+AAAAAABkeSu6KFtrJRqHUfzc5tnk",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Break Her Heart",
-        "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Don\u2019t Break Her Heart",
-      "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 200000,
       "name": "I can\u2019t be high around you anymore",
       "url": "https://open.spotify.com/track/47SWX89TEMbqdL1CyAzDGb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Break Her Heart",
+        "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Don\u2019t Break Her Heart",
+      "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cardboard Box",
-        "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 161366,
-      "name": "Cardboard Box",
-      "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 167000,
       "name": "Therapy at the Club",
       "url": "https://open.spotify.com/track/7hnDA01jw2lnQ0sLPpyDq6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cardboard Box",
+        "url": "https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 161366,
+      "name": "Cardboard Box",
+      "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
     },
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mood",
-        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 172081,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 205000,
       "name": "Sex In Peace (ft. kwn)",
       "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mood",
+        "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 172081,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 153000,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/0LvHbvbp2jBPNvx1KqNNZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not My Job",
-        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 174588,
-      "name": "Not My Job",
-      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 151500,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5wGL57ptOqYqpTJlhey0k7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not My Job",
+        "url": "https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 174588,
+      "name": "Not My Job",
+      "url": "https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 147539,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THERAPY AT THE CLUB",
         "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 149000,
       "name": "Small Doses",
       "url": "https://open.spotify.com/track/12Fx3yoknUGZ20QIxPPnZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 147539,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
     },
     {
       "added_at": null,

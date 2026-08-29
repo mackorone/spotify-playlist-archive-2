@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hXnntRGfka.md) - [plain]
 
 > Songs from all 12 Albums of the Year shortlisted for The 2026 Mercury Prize.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,319 likes - 24 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,334 likes - 24 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hXnntRGfka.md) - [plain]
 | 23 | [Trance State](https://open.spotify.com/track/0TxmDt3QiR6BvfA3wq9c8X) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Antidepressants](https://open.spotify.com/album/6N0IlrIaCkdqM4V6u3BYxk) | 4:23 |
 | 24 | [Black Boys on Mopeds](https://open.spotify.com/track/0R9R2fD4C8yGHN2BdBA6hm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 3:34 |
 
-Snapshot ID: `AAAAAJMC5xoec1wnAgFoVHiQzI8NG5vO`
+Snapshot ID: `AAAAAFFiAE2sSSgrxSzWOd1rWfZ/VyNo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,220 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,300 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 74 | [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 |
 | 75 | [Enamórate](https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Enamórate](https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32) | 2:27 |
 | 76 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
-| 77 | [Pinterest \- \(Portuguese\)](https://open.spotify.com/track/097Y8hlKp4W3SxhinzzoRK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pinterest \(Portuguese\)](https://open.spotify.com/album/4KlWvvCJBykosyukxzdBzP) | 2:14 |
-| 78 | [Eternamente Bella](https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Eternamente Bella](https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9) | 3:26 |
+| 77 | [Eternamente Bella](https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Eternamente Bella](https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9) | 3:26 |
+| 78 | [Pinterest \- \(Portuguese\)](https://open.spotify.com/track/097Y8hlKp4W3SxhinzzoRK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pinterest \(Portuguese\)](https://open.spotify.com/album/4KlWvvCJBykosyukxzdBzP) | 2:14 |
 | 79 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
 | 80 | [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 |
 | 81 | [Perreito](https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 99 | [PORQUE SOY ABEJA REINA](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 |
 | 100 | [Como Me Duele Perderte](https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 4:27 |
 
-Snapshot ID: `AAAAAJraN920/J8n/PCxkwdoV0xAnc8K`
+Snapshot ID: `AAAAAEbYlvNO2GLJdTXeoL31fb1b1Mhz`

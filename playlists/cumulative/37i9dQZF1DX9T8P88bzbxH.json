@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "One night only. Cover: FLO",
-  "name": "On Tour Singapore: FLO",
+  "description": "One night only. Cover: MILLI",
+  "name": "On Tour Singapore: MILLI",
   "tracks": [
     {
       "album": {
@@ -793,6 +793,28 @@
     },
     {
       "album": {
+        "name": "Show Me The Money 12 Episode 2",
+        "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268563,
+      "name": "AEIOU (Feat. Loco) (Prod. by GRAY)",
+      "url": "https://open.spotify.com/track/1IOb9H50dKN0amB8LChG31"
+    },
+    {
+      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
@@ -1336,6 +1358,28 @@
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212863,
+      "name": "ARMSTRONG",
+      "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
     },
     {
       "album": {
@@ -2651,6 +2695,28 @@
     },
     {
       "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Gong H 3 F",
+          "url": "https://open.spotify.com/artist/4AvLJBT9GUw1MAvfe4cALA"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147027,
+      "name": "BLUES BLURRY (feat. Gong H 3 F)",
+      "url": "https://open.spotify.com/track/6MsuQCN0WJI5RrEJWE5lrv"
+    },
+    {
+      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
       },
@@ -3564,7 +3630,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 161366,
       "name": "Cardboard Box",
       "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
@@ -3824,7 +3890,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 165106,
       "name": "Check",
       "url": "https://open.spotify.com/track/4P36g6o3poLyhEQRZOZhGZ"
@@ -4442,7 +4508,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 159700,
       "name": "Cry Ugly",
       "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
@@ -4608,6 +4674,28 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164627,
+      "name": "DANCE or DEAD",
+      "url": "https://open.spotify.com/track/45DDQu6PXpxsrvF1Chzams"
     },
     {
       "album": {
@@ -5682,7 +5770,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 224920,
       "name": "Don\u2019t Break Her Heart",
       "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
@@ -5708,6 +5796,28 @@
       "duration_ms": 188894,
       "name": "Don\u2019t Wake Me Up",
       "url": "https://open.spotify.com/track/75kDBnxxZLRLJoP7qyVuTX"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133561,
+      "name": "DRANKEINNIT (feat. Hugo)",
+      "url": "https://open.spotify.com/track/5mgMpv114kAwMPtAYAEMrZ"
     },
     {
       "album": {
@@ -7122,7 +7232,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 153400,
       "name": "Floating",
       "url": "https://open.spotify.com/track/0zuZIHagsF9LeStuXAwMtq"
@@ -7202,7 +7312,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
@@ -7854,7 +7964,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 180363,
       "name": "Get It Till I\u2019m Gone",
       "url": "https://open.spotify.com/track/3AiEaPwwcLRp4Rzy0hqhnK"
@@ -8977,6 +9087,24 @@
     },
     {
       "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132312,
+      "name": "HEAVYWEIGHT",
+      "url": "https://open.spotify.com/track/6N5RxcqbKoZ30ijQmQZ3mH"
+    },
+    {
+      "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
       },
@@ -8992,6 +9120,28 @@
       "duration_ms": 184173,
       "name": "Heirloom Pain",
       "url": "https://open.spotify.com/track/5CNmH8vWVBaIlkNUbNBLVO"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176486,
+      "name": "HELL YES (feat. BewhY)",
+      "url": "https://open.spotify.com/track/5ti8EBfP9P2VTFAi8dCvxT"
     },
     {
       "album": {
@@ -9118,6 +9268,28 @@
       "duration_ms": 53733,
       "name": "HESONOO",
       "url": "https://open.spotify.com/track/6bVSqmKuymhl7BiRsHKKtH"
+    },
+    {
+      "album": {
+        "name": "HEY HEY (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
+        "url": "https://open.spotify.com/album/1Y3UXVc7mwAsuVYD7QTPRh"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "\u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c",
+          "url": "https://open.spotify.com/artist/2gFoJCiiRRFm81zelPZR8d"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "HEY HEY (feat. \u0e2d\u0e32\u0e20\u0e32\u0e1e\u0e23 \u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)",
+      "url": "https://open.spotify.com/track/2TJTtCcuOikQ0jSKrtswHI"
     },
     {
       "album": {
@@ -9500,6 +9672,24 @@
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268037,
+      "name": "HP",
+      "url": "https://open.spotify.com/track/5m38DYwttgULPLu54uPLFY"
     },
     {
       "album": {
@@ -10344,7 +10534,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 188348,
       "name": "In My Bag (feat. GloRilla)",
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
@@ -10571,6 +10761,24 @@
     },
     {
       "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183246,
+      "name": "INVISIBLE TEARS",
+      "url": "https://open.spotify.com/track/537pH6hRQYZ0pGAjpxzycN"
+    },
+    {
+      "album": {
         "name": "Cover Sessions, Vol. 5",
         "url": "https://open.spotify.com/album/4GpfRZguf7uOAWUzKePjf5"
       },
@@ -10734,6 +10942,28 @@
       "duration_ms": 196694,
       "name": "I\u2019ll See You There Tomorrow",
       "url": "https://open.spotify.com/track/0bMWoFtQIrnW5YyNMc4aKQ"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128659,
+      "name": "JAA EHH (peekaboo) [feat. Awich]",
+      "url": "https://open.spotify.com/track/1lqGFDvBjPHGM3ORQXjGYC"
     },
     {
       "album": {
@@ -11968,7 +12198,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 183300,
       "name": "Leak It",
       "url": "https://open.spotify.com/track/2fudERIZrBL0glivkAdzco"
@@ -13059,6 +13289,24 @@
     },
     {
       "album": {
+        "name": "Mango Sticky Rice",
+        "url": "https://open.spotify.com/album/2S9K7pSE7Vw7UzRaIAtAhy"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89087,
+      "name": "Mango Sticky Rice",
+      "url": "https://open.spotify.com/track/1R4b7tmxnDdnT9jjuzVq3l"
+    },
+    {
+      "album": {
         "name": "GRADIENT",
         "url": "https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g"
       },
@@ -13431,6 +13679,24 @@
     },
     {
       "album": {
+        "name": "MENACE",
+        "url": "https://open.spotify.com/album/1myy2Uyu72ydZYlXydekjN"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154577,
+      "name": "MENACE",
+      "url": "https://open.spotify.com/track/3h0AyBKSA7fHWanQzv00Nb"
+    },
+    {
+      "album": {
         "name": "reKRUed",
         "url": "https://open.spotify.com/album/5WTrT2e7UknnrUupAkKtzO"
       },
@@ -13718,6 +13984,32 @@
       "duration_ms": 168500,
       "name": "Mirror (feat. Jessy Lanza & Yaeji)",
       "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
+    },
+    {
+      "album": {
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/3R5wfZr723i5qfyPCAuUnS"
+      },
+      "artists": [
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Changbin",
+          "url": "https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3"
     },
     {
       "album": {
@@ -14079,6 +14371,28 @@
     },
     {
       "album": {
+        "name": "Show Me The Money 12 Final",
+        "url": "https://open.spotify.com/album/0ggz2ubI65Fw9c9tIi27xP"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Omega Sapien",
+          "url": "https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228046,
+      "name": "MSG (Feat. Omega Sapien) (Prod. by Spatchies, PapZilla, KIRWAV, Sawat)",
+      "url": "https://open.spotify.com/track/6zLEtJTbYfDI8Kn3ubSB5S"
+    },
+    {
+      "album": {
         "name": "My Answer",
         "url": "https://open.spotify.com/album/0P2qYoVgXNwR6zsxSYhyn8"
       },
@@ -14393,6 +14707,32 @@
     },
     {
       "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283100,
+      "name": "NEVER (Feat. Wonstein, lIlBOI) (Prod. by GRAY)",
+      "url": "https://open.spotify.com/track/46CRlyiQ9Z4GrxQrKgHIyh"
+    },
+    {
+      "album": {
         "name": "THE ONE YOU WANTED",
         "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
       },
@@ -14610,6 +14950,24 @@
       "duration_ms": 199838,
       "name": "NIGHTCRAWLER",
       "url": "https://open.spotify.com/track/4EPqUOzSj94AFzRezWGwde"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53095,
+      "name": "NO HEAVEN",
+      "url": "https://open.spotify.com/track/3g492kj0mHpsKu3K4uYlUT"
     },
     {
       "album": {
@@ -15122,6 +15480,24 @@
       "duration_ms": 205026,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0VNsUOX6Obyr7HnEGyqNCR"
+    },
+    {
+      "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135542,
+      "name": "ONE PUNCH",
+      "url": "https://open.spotify.com/track/641wc6152Ju9qH5UeDmjVf"
     },
     {
       "album": {
@@ -16188,7 +16564,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 189469,
       "name": "Pretty Eyes (feat. FLO)",
       "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
@@ -16704,7 +17080,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 128000,
       "name": "Remedied",
       "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
@@ -17224,6 +17600,24 @@
       "duration_ms": 199062,
       "name": "Sabrina (i am a party)",
       "url": "https://open.spotify.com/track/6zJUp1ihdid6Kn3Ndgcy82"
+    },
+    {
+      "album": {
+        "name": "BABB BUM BUM",
+        "url": "https://open.spotify.com/album/34adoAqaladEYvXmQpujS7"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Sad Aerobic",
+      "url": "https://open.spotify.com/track/4SiWVAhDyttIqIRIeUREiL"
     },
     {
       "album": {
@@ -18189,6 +18583,46 @@
     },
     {
       "album": {
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194640,
+      "name": "SICK WITH IT",
+      "url": "https://open.spotify.com/track/6ZBQ9fevUeMyDumDHPgOeH"
+    },
+    {
+      "album": {
+        "name": "SICK WITH IT (SO-SO Remix)",
+        "url": "https://open.spotify.com/album/0ivs0YsFze0qz71Ychkv86"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "SO-SO",
+          "url": "https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174489,
+      "name": "SICK WITH IT - SO-SO Remix",
+      "url": "https://open.spotify.com/track/38EwiJxpQaqhazYXs8dcyn"
+    },
+    {
+      "album": {
         "name": "Lapit",
         "url": "https://open.spotify.com/album/20Ho2ZnYwEQ3n2q6UINVmI"
       },
@@ -18888,6 +19322,66 @@
       "duration_ms": 206626,
       "name": "Spinning Around",
       "url": "https://open.spotify.com/track/1lzi20keyE8b3ujfQfNBnm"
+    },
+    {
+      "album": {
+        "name": "BABB BUM BUM",
+        "url": "https://open.spotify.com/album/34adoAqaladEYvXmQpujS7"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "1-Flow",
+          "url": "https://open.spotify.com/artist/4ht3vlne7Ph9NQ4t68Ijo4"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Squad Shit (feat. 1-Flow)",
+      "url": "https://open.spotify.com/track/36eiekf6sdAguJ8gTNzZfV"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 12 Episode 1",
+        "url": "https://open.spotify.com/album/67ieVVFQxypYAvx3FirGoG"
+      },
+      "artists": [
+        {
+          "name": "OXYNOVA",
+          "url": "https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa"
+        },
+        {
+          "name": "MASON HOME",
+          "url": "https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "Foggyatthebottom",
+          "url": "https://open.spotify.com/artist/3fXHHmLxAY43pSTlWnbYd7"
+        },
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270304,
+      "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
+      "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
     },
     {
       "album": {
@@ -20172,7 +20666,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 172081,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
@@ -20370,7 +20864,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 167000,
       "name": "Therapy at the Club",
       "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
@@ -21702,7 +22196,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 197493,
       "name": "Walk Like This",
       "url": "https://open.spotify.com/track/59uB0hD8JtxgdEuV3CNgrD"
@@ -23327,6 +23821,24 @@
     },
     {
       "album": {
+        "name": "\u0e1e\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/06rwQctvIIWZqBoDRiJGZm"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184342,
+      "name": "\u0e1e\u0e31\u0e01\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/65wjkTPdu7GZInkMlUsy7b"
+    },
+    {
+      "album": {
         "name": "Are You Serious?",
         "url": "https://open.spotify.com/album/6q0pwIOuL2wTPRnW4HfLwY"
       },
@@ -23360,6 +23872,28 @@
       "duration_ms": 167608,
       "name": "\u0e22\u0e37\u0e48\u0e19\u0e43\u0e1a\u0e2a\u0e21\u0e31\u0e04\u0e23 (Heart Application)",
       "url": "https://open.spotify.com/track/4EyQv6oJtloxRBS1ChYLY1"
+    },
+    {
+      "album": {
+        "name": "BABB BUM BUM",
+        "url": "https://open.spotify.com/album/34adoAqaladEYvXmQpujS7"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "NAMEMT",
+          "url": "https://open.spotify.com/artist/22i4rMtrvKnWENQSiD3xXU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173062,
+      "name": "\u0e23\u0e31\u0e01\u0e19\u0e30\u0e40\u0e27\u0e49\u0e22 (feat. NAMEMT)",
+      "url": "https://open.spotify.com/track/3YgVRnMZS4d0F0LLS8t1AW"
     },
     {
       "album": {
@@ -23475,6 +24009,28 @@
     },
     {
       "album": {
+        "name": "BABB BUM BUM",
+        "url": "https://open.spotify.com/album/34adoAqaladEYvXmQpujS7"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "TangBadVoice",
+          "url": "https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "\u0e2a\u0e32\u0e18\u0e38 (feat. TangBadVoice)",
+      "url": "https://open.spotify.com/track/75WoVa8g30bDbUiFfXVAjC"
+    },
+    {
+      "album": {
         "name": "INK",
         "url": "https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI"
       },
@@ -23490,6 +24046,24 @@
       "duration_ms": 188000,
       "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/6VLp0TwZt3N7NNmaKJIVos"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e38\u0e14\u0e1b\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/2iNxeCUeX0iyTRZOdzjwGG"
+      },
+      "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "\u0e2a\u0e38\u0e14\u0e1b\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/3yFFMbk6JqprCQp9B26vDJ"
     },
     {
       "album": {

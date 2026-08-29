@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > Ouve os hits do verão de 2026! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,480 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,515 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
+| 1 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 | 2 | [SOU GRANDE NO AMOR](https://open.spotify.com/track/3ODDkzwIsHPRxTmtjP4DCs) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [SOU GRANDE NO AMOR](https://open.spotify.com/album/6CWgwUXIjsD7TWLK24hP0x) | 2:40 |
 | 3 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
 | 4 | [Dracula \(with JENNIE\)](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(with JENNIE\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 5 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
-| 6 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 6 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 7 | [VÍCIOS](https://open.spotify.com/track/4VmjNuq8Ux0VGWEn9SajwY) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [VÍCIOS](https://open.spotify.com/album/1mIlESlfdl2mhi9lLy4xm9) | 2:34 |
 | 8 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
 | 9 | [Porta 43](https://open.spotify.com/track/5AaxgkscZPjOR9kQr0QAUf) | [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Porta 43](https://open.spotify.com/album/50OKNeNLgVWU6VmiQ1zkeD) | 2:45 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 58 | [SOZINHO](https://open.spotify.com/track/4WqePRcR6a4MzUpg9k4vph) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [SOZINHO](https://open.spotify.com/album/54lkuV8McOqnmPbUZR7MYF) | 3:13 |
 | 59 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
 
-Snapshot ID: `AAAAAJFhEyH2pomkRbg6cRW0evrehm9a`
+Snapshot ID: `AAAAAFg+HAQWiyynlfOHLgk8yNQexUIo`

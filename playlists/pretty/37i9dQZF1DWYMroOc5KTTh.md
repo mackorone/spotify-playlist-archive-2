@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,125 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,311 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 36 | [Mixed Emotions](https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Everything Will Be Alright](https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv) | 3:25 |
 | 37 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 |
 | 38 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
-| 39 | [Fara](https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fara](https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd) | 3:02 |
-| 40 | [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 |
+| 39 | [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 |
+| 40 | [Fara](https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fara](https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd) | 3:02 |
 | 41 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |
 | 42 | [You and Me](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Renaissance](https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9) | 3:34 |
 | 43 | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 |
 | 50 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
 
-Snapshot ID: `AAAAAOLToz8l4xk8tz0QT1G7/wXnC3i1`
+Snapshot ID: `AAAAAOjDwwuipY88rtUSsH24N4yffEJ+`

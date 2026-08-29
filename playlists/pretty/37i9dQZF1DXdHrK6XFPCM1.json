@@ -1,12 +1,12 @@
 {
   "description": "Waktu Indonesia bagian mager dan dengar lagu-lagu enak.",
-  "num_followers": 347067,
+  "num_followers": 347047,
   "original_name": "Mager Parah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADWs0k1fBOqQuoqZrpUZPYY7YwHv",
+  "snapshot_id": "AAAAABSaXOrIhj0QFf7AeY9ML8b6rmlC",
   "tracks": [
     {
       "added_at": "2025-12-09 07:32:17",
@@ -379,18 +379,18 @@
     {
       "added_at": "2025-12-09 07:32:17",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2025-12-09 07:32:17",
@@ -411,18 +411,18 @@
     {
       "added_at": "2025-12-09 07:32:17",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2025-12-09 07:32:17",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-12-09 07:32:17",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
-    },
-    {
-      "added_at": "2025-12-09 07:32:17",
-      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 259453,
       "name": "She Will Be Loved - Radio Mix",
       "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
+    },
+    {
+      "added_at": "2025-12-09 07:32:17",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
     },
     {
       "added_at": "2025-12-09 07:32:17",

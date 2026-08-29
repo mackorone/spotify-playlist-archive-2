@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,886 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,916 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 69 | [bloodstream](https://open.spotify.com/track/2iAZ1p8ojtvhMxNXogE47k) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/77dC1zk0c6l1KDtOnO8XNC) | 2:57 |
 | 70 | [Anytime, Anywhere, Antoinette](https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn) | [Wade Forster](https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK) | [Anytime, Anywhere, Antoinette](https://open.spotify.com/album/3hQ0qTkMTio82I4gIJkm4r) | 4:18 |
 
-Snapshot ID: `AAAAAGUbjPRFfPkwM0Wx0wW6FE3i55QQ`
+Snapshot ID: `AAAAANfmkqYqZgpJ43hhB+jDUQUo5PuQ`

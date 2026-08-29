@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸 Lauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,954 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,886 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [FIFA](https://open.spotify.com/track/6vCJt3yr9ww6EtnaSnx1Mg) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [FIFA](https://open.spotify.com/album/213uunndQ2NsIwSA6ryD3e) | 3:27 |
 | 100 | [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 4:59 |
 
-Snapshot ID: `AAAAAAH82N2pcvO5AdNI3EqBImZlUe16`
+Snapshot ID: `AAAAAGCza9VEUqH/r2065rmIwL3DFoS+`

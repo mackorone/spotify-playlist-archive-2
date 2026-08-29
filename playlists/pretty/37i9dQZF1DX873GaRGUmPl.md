@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade\. Cover: Vampire Weekend
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,985 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,978 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 35 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 36 | [Love$ick \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Mura Masa](https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD) | 3:12 |
 | 37 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
-| 38 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 |
-| 39 | [Shades Of Cool](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:42 |
+| 38 | [Shades Of Cool](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:42 |
+| 39 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 |
 | 40 | [Don’t Delete The Kisses](https://open.spotify.com/track/1LomCMl5wD3MPVlC6smUHe) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7Mn6FjNopuROYZLIN91hhe) | 4:35 |
 | 41 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
 | 42 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 58 | [TOOTIMETOOTIMETOOTIME](https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:27 |
 | 59 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 60 | [Bros](https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:44 |
-| 61 | [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 |
-| 62 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
+| 61 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
+| 62 | [The Moon Song](https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [The Moon Song](https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm) | 2:21 |
 | 63 | [Everything Now](https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Everything Now](https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr) | 5:03 |
 | 64 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 | 65 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 67 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 | 68 | [Zombie](https://open.spotify.com/track/22eNdxGb4tEvBt0nBCp52o) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Carry On The Grudge](https://open.spotify.com/album/3iRWCjHbKKSICMbXarCTRC) | 4:06 |
 | 69 | [The Wire](https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:05 |
-| 70 | [Changing of the Seasons](https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Changing of the Seasons](https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7) | 3:42 |
-| 71 | [There's A Reason Why \(I Never Returned Your Calls\)](https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 3:42 |
+| 70 | [There's A Reason Why \(I Never Returned Your Calls\)](https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 3:42 |
+| 71 | [Changing of the Seasons](https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Changing of the Seasons](https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7) | 3:42 |
 | 72 | [Tilted](https://open.spotify.com/track/2ILilOGEh31uHITYFazrLM) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine](https://open.spotify.com/album/0xWXamgZr4z2zSYrvcoOar) | 3:53 |
 | 73 | [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 |
 | 74 | [Tints \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/7c3SbTuufigBWURcICnAWy) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 4:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 79 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
 | 80 | [I Can't Stand It](https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 2:57 |
 
-Snapshot ID: `AAAAANa8IxtwfR+h03Qv2q+59HjFrGGy`
+Snapshot ID: `AAAAAKK5FTb0QUF3sZOs+GI7T4dLXM5E`

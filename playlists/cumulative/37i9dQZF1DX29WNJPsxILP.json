@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Badshah",
+  "description": "Best of Hindi Hip-Hop! Cover: THE U.D. & Aadduz",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 131383,
       "name": "Big Drama",
       "url": "https://open.spotify.com/track/61myCTj4EotDnPabirLGtW"
@@ -2469,6 +2469,28 @@
     },
     {
       "album": {
+        "name": "Ghanni Khamma",
+        "url": "https://open.spotify.com/album/4rVVZ4b78m1WIkIEn7i1r5"
+      },
+      "artists": [
+        {
+          "name": "THE U.D",
+          "url": "https://open.spotify.com/artist/4QgEr97eiQSVFmbW9a8v72"
+        },
+        {
+          "name": "Aadduz",
+          "url": "https://open.spotify.com/artist/2IJPDN4qVLqdxX6ZbgiFgb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169591,
+      "name": "Ghanni Khamma",
+      "url": "https://open.spotify.com/track/03ir0OfqWZWHCCSnqw0A4v"
+    },
+    {
+      "album": {
         "name": "Ghor Illegal",
         "url": "https://open.spotify.com/album/0mCZjkKZs4FOhOVKjf4o6c"
       },
@@ -3551,6 +3573,28 @@
     },
     {
       "album": {
+        "name": "Khamma Ghani",
+        "url": "https://open.spotify.com/album/7zRubzHbqkqeu2Qzn2Og8u"
+      },
+      "artists": [
+        {
+          "name": "THE U.D",
+          "url": "https://open.spotify.com/artist/4QgEr97eiQSVFmbW9a8v72"
+        },
+        {
+          "name": "Aadduz",
+          "url": "https://open.spotify.com/artist/2IJPDN4qVLqdxX6ZbgiFgb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171089,
+      "name": "Khamma Ghani",
+      "url": "https://open.spotify.com/track/459tc67J7MQlP0r0JWlu5g"
+    },
+    {
+      "album": {
         "name": "Lunch Break",
         "url": "https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB"
       },
@@ -4046,6 +4090,32 @@
       "duration_ms": 161666,
       "name": "LIFESTYLE",
       "url": "https://open.spotify.com/track/4jHJq2kE3nqF6djDzeZGFg"
+    },
+    {
+      "album": {
+        "name": "Like That (From \"One Of A Kind\") [Feat. Fijiana]",
+        "url": "https://open.spotify.com/album/3mesJtDUhyhaJsOGsCG2in"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
+        },
+        {
+          "name": "Fijiana",
+          "url": "https://open.spotify.com/artist/3QJKfOehAXlsFW2HXU5sx7"
+        },
+        {
+          "name": "Wamp",
+          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159073,
+      "name": "Like That (From \"One Of A Kind\") [Feat. Fijiana]",
+      "url": "https://open.spotify.com/track/2Zvta2GvYPX2dpyMMkZIYb"
     },
     {
       "album": {
@@ -4674,7 +4744,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 180000,
       "name": "Na Pata Mujhe",
       "url": "https://open.spotify.com/track/4iAvWihNPN3aX793ZpI6xY"
@@ -5048,7 +5118,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 166863,
       "name": "One Hit Wonder",
       "url": "https://open.spotify.com/track/7wv3jZpY5CE4IKGuBMpi95"

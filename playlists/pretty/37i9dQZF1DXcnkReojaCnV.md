@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:2gFsmDBM0hkoZPmrO5EdyO">Tedeschi Trucks Band</a> is taking over to share their blues favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,369 likes - 35 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,365 likes - 35 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 34 | [How Blue Can You Get?](https://open.spotify.com/track/1luQwXgJMgF7rs0mYg5uXa) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Regal](https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2) | 3:34 |
 | 35 | [To Know You Is To Love You](https://open.spotify.com/track/2dO7ugDcoN6xBoJ1JMK0bR) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [To Know You Is To Love You](https://open.spotify.com/album/2n1ZIq9IpzwEvmfTdgE6IT) | 5:30 |
 
-Snapshot ID: `AAAAAMBMI7NBKw3N87fudh84njYGBdxi`
+Snapshot ID: `AAAAAMRDttZm2OGcPWHGOz0ihnwXIuJx`

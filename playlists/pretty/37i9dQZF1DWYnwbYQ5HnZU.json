@@ -1,12 +1,12 @@
 {
   "description": "Spotify country fan favorites. Cover: Jon Pardi",
-  "num_followers": 2193751,
+  "num_followers": 2193668,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPhYk7lML0Q0zknZ0eI0ee08+hQH",
+  "snapshot_id": "AAAAAFYges1l6kQrQ+QB5y2rIW2oYTAi",
   "tracks": [
     {
       "added_at": "2026-05-01 04:02:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-05-01 04:02:16",
       "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "As Good As I Once Was",
-      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
-    },
-    {
-      "added_at": "2026-05-01 04:02:16",
-      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 172253,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+    },
+    {
+      "added_at": "2026-05-01 04:02:16",
+      "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "As Good As I Once Was",
+      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
       "added_at": "2026-05-01 04:02:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-01 04:02:16",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-    },
-    {
-      "added_at": "2026-05-01 04:02:16",
-      "album": {
         "name": "RISER",
         "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 254466,
       "name": "Drunk On A Plane",
       "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+    },
+    {
+      "added_at": "2026-05-01 04:02:16",
+      "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2026-05-01 04:02:16",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-01 04:02:16",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "I Go Back",
-      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
-    },
-    {
-      "added_at": "2026-05-01 04:02:16",
-      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 199640,
       "name": "Follow Your Arrow",
       "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
+    },
+    {
+      "added_at": "2026-05-01 04:02:16",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "I Go Back",
+      "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
     },
     {
       "added_at": "2026-05-01 04:02:16",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-05-01 04:02:16",
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
-    },
-    {
-      "added_at": "2026-05-01 04:02:16",
-      "album": {
         "name": "Untamed",
         "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 231333,
       "name": "Burning House",
       "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
+    },
+    {
+      "added_at": "2026-05-01 04:02:16",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "More Hearts Than Mine",
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "added_at": "2026-05-01 04:02:16",

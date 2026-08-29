@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 
 > Feel good songs yang bikin kamu happy
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,779 likes - 77 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,767 likes - 77 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8Ogms1X39p.md) - [plain]
 | 76 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 |
 | 77 | [Tawa](https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Tawa](https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT) | 4:15 |
 
-Snapshot ID: `AAAAAHSftG9juSjMxfsAtTfXgIoUA5sS`
+Snapshot ID: `AAAAAI0weh43cDIX1A2vzbnHWqs3jwTt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,436 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,463 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 41 | [Asterism Waltz](https://open.spotify.com/track/2F3topzcPhqBePB7zEqU8H) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Late Again](https://open.spotify.com/album/6qU9OQbVjw7HwhMFRYLirB) | 2:32 |
 | 42 | [My Song](https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Our Songs](https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF) | 3:44 |
 | 43 | [Nancy](https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i) | 6:06 |
-| 44 | [Moonlight in Vermont](https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 5:17 |
-| 45 | [Blues Arabesque](https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV) | 4:40 |
+| 44 | [Blues Arabesque](https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV) | 4:40 |
+| 45 | [Moonlight in Vermont](https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 5:17 |
 | 46 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc) | 4:30 |
 | 47 | [Reflections](https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi) | [Mads Hansen](https://open.spotify.com/artist/6iKV4zoLGRiV89fT1hbjSF), [Mathias Heise](https://open.spotify.com/artist/28ii7dRvo99jXy6NikDOWk), [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Kaspar Vadsholt](https://open.spotify.com/artist/0OXMwGe6XaYuXQOIIBBNEZ), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Reflections](https://open.spotify.com/album/7mZIkCWKRkDABE76QP4YQL) | 4:15 |
 | 48 | [Alfie](https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Alfie](https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o) | 6:37 |
-| 49 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 |
-| 50 | [The Rumor](https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [The Rumor](https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G) | 4:30 |
+| 49 | [The Rumor](https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [The Rumor](https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G) | 4:30 |
+| 50 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 |
 | 51 | [Gamla allén](https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Gamla allén](https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG) | 3:50 |
 | 52 | [These Foolish Things](https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49) | [Charles Chen](https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY) | [These Foolish Things](https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ) | 5:41 |
 | 53 | [Tell Him I Said Hello](https://open.spotify.com/track/2Lgi3cSv27mb2JkvGAdEX8) | [Nicole Glover](https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT) | [Tell Him I Said Hello](https://open.spotify.com/album/5igLwfMr78OI5MXHbvXksZ) | 5:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 74 | [Love Is in the Air](https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Love Is in the Air](https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y) | 3:45 |
 | 75 | [Little Bird of Passage](https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Little Bird of Passage](https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT) | 5:21 |
 
-Snapshot ID: `AAAAAEWj19SJRIlkSmgaX/HV9Co19cnF`
+Snapshot ID: `AAAAAJCDIUfsPSdvRnO+SM1eDCv3PV4c`

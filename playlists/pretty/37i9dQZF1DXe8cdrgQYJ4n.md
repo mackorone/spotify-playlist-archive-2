@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,296 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,298 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 34 | [Don't Recall](https://open.spotify.com/track/4b1sQpvL7QVgamRZ74F1oA) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [K.A.R.D Project Vol.2 "Don't Recall"](https://open.spotify.com/album/4wTkdR3v9qFdRuCf2hpBZn) | 3:28 |
 | 35 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 |
 | 36 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 |
-| 37 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
-| 38 | [Anyone But You \(Feat\. MIRYO of Brown Eyed Girls\)](https://open.spotify.com/track/2Sprbw65iHnDNsmgbSoH7C) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Miryo](https://open.spotify.com/artist/6wJGHv6dfPrZxFoZXXwtLO) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:28 |
+| 37 | [Anyone But You \(Feat\. MIRYO of Brown Eyed Girls\)](https://open.spotify.com/track/2Sprbw65iHnDNsmgbSoH7C) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Miryo](https://open.spotify.com/artist/6wJGHv6dfPrZxFoZXXwtLO) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:28 |
+| 38 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
 | 39 | [BYE BYE](https://open.spotify.com/track/4OSVR8gq2l3ceJiXNR7iiM) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:16 |
 | 40 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 |
 | 41 | [Summer Tights](https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:34 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 48 | [I’m bad too \(Feat\. DPR LIVE\)](https://open.spotify.com/track/4JcfDrtQWE45N1X4MkcbiV) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 2:12 |
 | 49 | [TTG](https://open.spotify.com/track/3qqwxYn7GZhwRa93L388oA) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 3:29 |
 | 50 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 |
-| 51 | [You don't need my love?](https://open.spotify.com/track/51bYu6E40GyZRu6ce6DVEB) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/5erBmgThxgKG4bhsraVOTX) | 3:12 |
-| 52 | [Happy Alone \(feat\. B.I\)](https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 3:34 |
+| 51 | [Happy Alone \(feat\. B.I\)](https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 3:34 |
+| 52 | [You don't need my love?](https://open.spotify.com/track/51bYu6E40GyZRu6ce6DVEB) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/5erBmgThxgKG4bhsraVOTX) | 3:12 |
 | 53 | [Yesterday You Left Me](https://open.spotify.com/track/4iJZ12gvcunf80gym7qEM2) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [The 3rd EP](https://open.spotify.com/album/1K6yALOFEiqg9KigNjRMKE) | 3:42 |
 | 54 | [Cold As Hell](https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 2:44 |
 | 55 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 59 | [You Better Not](https://open.spotify.com/track/47Vgc15moDELPzmLAQSFgO) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 2:43 |
 | 60 | [Honestly](https://open.spotify.com/track/2EfxJsXgoiilZGIXCGjKHI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/1eeN3nhiJ2qg8sRSrAc43n) | 3:14 |
 
-Snapshot ID: `AAAAAGuzSoE1bA6483L21d1y8ZIoXfMX`
+Snapshot ID: `AAAAADx5WrfCgWkK5W6KCsYFvXtOSsny`

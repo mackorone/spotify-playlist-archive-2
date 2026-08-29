@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 
 > We Outsideeeee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,005 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,024 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 29 | [Find A Way](https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Find A Way](https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK) | 2:34 |
 | 30 | [Running](https://open.spotify.com/track/1uf7mMivE88BQOU37b2DVR) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Running](https://open.spotify.com/album/158FCU86rJzFqPJQnwVpEd) | 2:56 |
 | 31 | [Wish I Had a Girlfriend](https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Wish I Had a Girlfriend](https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw) | 2:48 |
-| 32 | [Stopit](https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Stopit](https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o) | 2:30 |
-| 33 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 |
+| 32 | [Holiday](https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd) | 2:39 |
+| 33 | [Stopit](https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Stopit](https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o) | 2:30 |
 | 34 | [BALENCIAGA II](https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [SAMA'](https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [BALENCIAGA II](https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug) | 5:01 |
 | 35 | [Catching Glory](https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Catching Glory](https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E) | 1:46 |
 | 36 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 43 | [Trapper Sem](https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Trapper Sem](https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3) | 2:18 |
 | 44 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 |
 | 45 | [Electric Energy](https://open.spotify.com/track/0F9ZICuk35THKXQD8uoJpp) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX) | [ORIGIN8A](https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x) | 2:58 |
-| 46 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 |
-| 47 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 |
+| 46 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 |
+| 47 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 |
 | 48 | [Olivia](https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Olivia](https://open.spotify.com/album/71LNcbKRpuxYZ3rfG8zZhm) | 3:05 |
 | 49 | [Wonda Boy](https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Wonda Boy](https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP) | 2:54 |
 | 50 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3tRPv7i7zvy.md) - [plain]
 | 59 | [NLF \(Breakfast\)](https://open.spotify.com/track/2mIp18bu4PbAFjS58EpEWc) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [NLF \(Breakfast\)](https://open.spotify.com/album/4rOoeivLtdfWWUoXXVTrl6) | 3:13 |
 | 60 | [Keep It Sexy](https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Keep It Sexy](https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0) | 2:39 |
 
-Snapshot ID: `AAAAAE8zMiMn6+FSEun+UN4NI0KiKlQq`
+Snapshot ID: `AAAAAHGxeJktqIfKB2g0OttpT3WWbDNb`

@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "Oeil d'aigle",
+        "url": "https://open.spotify.com/album/6wcNk4t3RPH1aVoRWJZYsO"
+      },
+      "artists": [
+        {
+          "name": "Colossale",
+          "url": "https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198368,
+      "name": "Oeil d'aigle",
+      "url": "https://open.spotify.com/track/4qG1ZV9HMsRKsDJKTpMpcS"
+    },
+    {
+      "album": {
         "name": "Koka",
         "url": "https://open.spotify.com/album/6yELoICaxXCZmG3IokahuO"
       },
@@ -4772,6 +4790,24 @@
       "duration_ms": 177833,
       "name": "\u00c9tincelle",
       "url": "https://open.spotify.com/track/49rK6K2PGbBivrLneSAQAO"
+    },
+    {
+      "album": {
+        "name": "\u00c9toile filante",
+        "url": "https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH"
+      },
+      "artists": [
+        {
+          "name": "Naghmeh",
+          "url": "https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327943,
+      "name": "\u00c9toile filante",
+      "url": "https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7"
     }
   ],
   "url": "https://open.spotify.com/playlist/1sxp36xhSTsWgyoJTwHYTS"

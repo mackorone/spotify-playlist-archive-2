@@ -1,12 +1,12 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 824235,
+  "num_followers": 824174,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMy7MyASOHUGsfm6RGmgb+1I7VKT",
+  "snapshot_id": "AAAAAGtlaqPIaGYZDfw6sKr2XAUujGMA",
   "tracks": [
     {
       "added_at": "2025-08-08 04:00:40",
@@ -79,22 +79,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Next Thing You Know",
-        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 215229,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Next Thing You Know",
+        "url": "https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Risk",
         "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 191566,
       "name": "Risk",
       "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "favorite kind of high",
-        "url": "https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 175247,
-      "name": "favorite kind of high",
-      "url": "https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 167232,
       "name": "Never A Good Time",
       "url": "https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "favorite kind of high",
+        "url": "https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "favorite kind of high",
+      "url": "https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9"
     },
     {
       "added_at": "2025-08-08 04:00:40",

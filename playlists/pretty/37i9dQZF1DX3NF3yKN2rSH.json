@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 55989,
+  "num_followers": 55987,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKjcYis+EtqN1N289zEUsShJXV2B",
+  "snapshot_id": "AAAAAPsaqusDU+tvvg7MsLo4sMzgqEYr",
   "tracks": [
     {
       "added_at": "2026-04-04 06:06:32",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
-      },
-      "artists": [
-        {
-          "name": "Elevation Collective",
-          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
-        },
-        {
-          "name": "The Walls Group",
-          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
-        }
-      ],
-      "duration_ms": 130214,
-      "name": "Raised to Life (feat. The Walls Group)",
-      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "I've Got a Testimony",
         "url": "https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 392639,
       "name": "The Blessing (feat. Maranda Curtis)",
       "url": "https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
+      },
+      "artists": [
+        {
+          "name": "Elevation Collective",
+          "url": "https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w"
+        },
+        {
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
+        }
+      ],
+      "duration_ms": 130214,
+      "name": "Raised to Life (feat. The Walls Group)",
+      "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "Healing - Live In Detroit (with Vision)",
+        "url": "https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m"
+        }
+      ],
+      "duration_ms": 357226,
+      "name": "You Did It All (with Vision)",
+      "url": "https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "My Tribute",
         "url": "https://open.spotify.com/album/3CbTWKbmQz0kJnALoC5qsB"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 300800,
       "name": "Take Me Back (feat. Kirk Franklin & Kelontae Gavin)",
       "url": "https://open.spotify.com/track/6rdU89wSvs8KqkQjsbnpa7"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
-        "name": "Healing - Live In Detroit (with Vision)",
-        "url": "https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A"
-      },
-      "artists": [
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        },
-        {
-          "name": "Vision",
-          "url": "https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m"
-        }
-      ],
-      "duration_ms": 357226,
-      "name": "You Did It All (with Vision)",
-      "url": "https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq"
     },
     {
       "added_at": "2026-04-04 06:06:32",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 505120,
+      "name": "If God / Nothing But the Blood",
+      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
         "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 505120,
-      "name": "If God / Nothing But the Blood",
-      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-04-04 06:06:32",
       "album": {
-        "name": "A Worshipper's Heart",
-        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 344019,
-      "name": "Victory Belongs To Jesus",
-      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
-    },
-    {
-      "added_at": "2026-04-04 06:06:32",
-      "album": {
         "name": "Way Maker (Live)",
         "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 500500,
       "name": "Waymaker (Live)",
       "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
+    },
+    {
+      "added_at": "2026-04-04 06:06:32",
+      "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 344019,
+      "name": "Victory Belongs To Jesus",
+      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
     },
     {
       "added_at": "2026-04-04 06:06:32",

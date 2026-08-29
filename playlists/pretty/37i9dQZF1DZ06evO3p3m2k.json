@@ -1,29 +1,13 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 6036,
+  "num_followers": 6040,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAA4DswA10nfKPd/P42nEGSa",
+  "snapshot_id": "ao9+AAAAAABWK3tZ97PO+YIzUG2ln++C",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "La GuapA",
-        "url": "https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 136124,
-      "name": "La GuapA",
-      "url": "https://open.spotify.com/track/360BMRTge92ufqa7fiVffL"
-    },
     {
       "added_at": null,
       "album": {
@@ -63,6 +47,22 @@
       "duration_ms": 225750,
       "name": "El AchanTAdo",
       "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La GuapA",
+        "url": "https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 136124,
+      "name": "La GuapA",
+      "url": "https://open.spotify.com/track/360BMRTge92ufqa7fiVffL"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 147490,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siempre Fui Yo 2 (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 179820,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 147490,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 208090,
+      "name": "Coraz\u00f3n en Crisis",
+      "url": "https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrucciones Para Ser Feliz",
         "url": "https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 149312,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 208090,
-      "name": "Coraz\u00f3n en Crisis",
-      "url": "https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
-        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 218460,
-      "name": "La Primera Vez - Remix",
-      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
         "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 170896,
       "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
       "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
+        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 218460,
+      "name": "La Primera Vez - Remix",
+      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 234358,
-      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
+      "duration_ms": 163295,
+      "name": "\u00bfY C\u00f3mo Es \u00c9l? - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath"
     },
     {
       "added_at": null,
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 163295,
-      "name": "\u00bfY C\u00f3mo Es \u00c9l? - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath"
+      "duration_ms": 234358,
+      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
     }
   ],
   "unique_name": "This Is Juliana",

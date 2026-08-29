@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,226 likes - 79 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,258 likes - 79 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 78 | [A Casa É Sua \- Acoustic Session](https://open.spotify.com/track/5ROOQb6C8Tz71kJbViGSwG) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Acoustic Session, Vol\. 01](https://open.spotify.com/album/1pbf0SKp7UHiOJV8dK3LPp) | 5:42 |
 | 79 | [Nada vai me separar \- Acústico](https://open.spotify.com/track/3Gx2PliooXRtT5Budt9Oc0) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/0OnNop3rDPF1YGjO94Okju) | 4:38 |
 
-Snapshot ID: `AAAAAJXozuiJ5ThKDlZ9oUI+vQxo5S/B`
+Snapshot ID: `AAAAAC1/AjDgEvy4sXik7M1qEo5GL4P1`

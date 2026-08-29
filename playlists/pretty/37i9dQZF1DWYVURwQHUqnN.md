@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Gambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,852 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,777 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 59 | [Khalele](https://open.spotify.com/track/1ZTDyY1NArET01dD5uikC3) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [Khalele](https://open.spotify.com/album/4ZIG7A69SVVsoxXi8sVbOG) | 2:56 |
 | 60 | [Magique](https://open.spotify.com/track/4TIDf6oZOBDIhmgYEK58hB) | [La Famax](https://open.spotify.com/artist/3Ii7kCftek6SPKPEZx3GYE) | [Magique](https://open.spotify.com/album/4RsbKI2UVbfZ7prWHsqkXt) | 2:37 |
 
-Snapshot ID: `AAAAALc5ov33rIUDi2mfhuf+eySCGsdN`
+Snapshot ID: `AAAAACL1yKlVLBWABCfsAmkv/LmsBisg`

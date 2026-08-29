@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,386 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,421 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 10 | [Chinese Translation](https://open.spotify.com/track/66bI8teVSntNwjQGv3pRtF) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Post\-War](https://open.spotify.com/album/7q74XeNS40vgLZhLrCdnuv) | 3:58 |
 | 11 | [No One's Gonna Love You](https://open.spotify.com/track/2IvNxLl01CTAfCOA103Tgx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Cease To Begin](https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ) | 3:37 |
 | 12 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
-| 13 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
+| 13 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
 | 14 | [Wolves](https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 6:14 |
-| 15 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
+| 15 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 16 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
 | 17 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 18 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 35 | [Roscoe](https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:46 |
 | 36 | [Mushaboom](https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:44 |
 | 37 | [I Want Wind to Blow](https://open.spotify.com/track/1bAZV1EBTRi9t1cVg75i8t) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [The Glow, Pt\. 2](https://open.spotify.com/album/6QYoRO2sXThCORAifrP4Bl) | 5:32 |
-| 38 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
-| 39 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
+| 38 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 |
+| 39 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
 | 40 | [Sycamore](https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Woke On A Whaleheart](https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH) | 5:35 |
 | 41 | [You and I](https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 3:25 |
 | 42 | [Kettering](https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Hospice](https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD) | 5:11 |
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 48 | [Lost Coastlines](https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [The Stand Ins](https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi) | 5:31 |
 | 49 | [Kathleen](https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Hello Starling](https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg) | 4:08 |
 | 50 | [Strictly Rule](https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 4:28 |
-| 51 | [Dress Sexy At My Funeral](https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:30 |
-| 52 | [The Sea and the Rhythm](https://open.spotify.com/track/5H8xLLUBnNS9ipRlybQbu6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Sea & the Rhythm](https://open.spotify.com/album/4ujax5DobWOX6ylaK0MEiy) | 5:23 |
-| 53 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
+| 51 | [The Sea and the Rhythm](https://open.spotify.com/track/5H8xLLUBnNS9ipRlybQbu6) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Sea & the Rhythm](https://open.spotify.com/album/4ujax5DobWOX6ylaK0MEiy) | 5:23 |
+| 52 | [Dress Sexy At My Funeral](https://open.spotify.com/track/2lTnA8Z6rmjIvQRcEy3XLH) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:30 |
+| 53 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
 | 54 | [Girl in the War](https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:23 |
-| 55 | [Young Bride](https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [The Trials of Van Occupanther](https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs) | 4:51 |
+| 55 | [Long Ride Home](https://open.spotify.com/track/1v76gn29TvpZg2areWXbxP) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [1000 Kisses](https://open.spotify.com/album/0bpwJNSMStRM5shqRW6ro2) | 3:33 |
 | 56 | [Frankie's Gun!](https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [The Felice Brothers](https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT) | 4:06 |
 | 57 | [He Lays In The Reins](https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ), [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [In The Reins](https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921) | 3:43 |
 | 58 | [Jezebel](https://open.spotify.com/track/66uRb1ytl0l3PHAAAjqySU) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Woman King](https://open.spotify.com/album/5bD1I8I6SMNoysShNdTJa3) | 5:07 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 93 | [Trouble](https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:01 |
 | 94 | [The Cave](https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 3:37 |
 | 95 | [Misread](https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:08 |
-| 96 | [Nantes](https://open.spotify.com/track/4JvclO8lNugobD1afavcYS) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Flying Club Cup](https://open.spotify.com/album/0MhyPFZNeRRP0ian13SOTp) | 3:50 |
-| 97 | [Blood Bank](https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK) | 4:45 |
-| 98 | [Ready, Able](https://open.spotify.com/track/5cf1ZfI16kHp3S1ySpQ36G) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:17 |
-| 99 | [Chicago](https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3) | 6:04 |
-| 100 | [Civilian](https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9) | 3:40 |
+| 96 | [Blood Bank](https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK) | 4:45 |
+| 97 | [Civilian](https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9) | 3:40 |
+| 98 | [Nantes](https://open.spotify.com/track/4JvclO8lNugobD1afavcYS) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Flying Club Cup](https://open.spotify.com/album/0MhyPFZNeRRP0ian13SOTp) | 3:50 |
+| 99 | [Ready, Able](https://open.spotify.com/track/5cf1ZfI16kHp3S1ySpQ36G) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:17 |
+| 100 | [Chicago](https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3) | 6:04 |
 
-Snapshot ID: `AAAAAA0Q9fyFFyc5I2A1fcWoRaDA4olg`
+Snapshot ID: `AAAAAN8s8w1i2PxrbRFhmaz16iJ9zJoG`

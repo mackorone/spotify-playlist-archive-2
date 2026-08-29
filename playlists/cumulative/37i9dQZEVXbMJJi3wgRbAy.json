@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Candombe Con La Ayudita De Mis Amigos",
+        "url": "https://open.spotify.com/album/0wwTfU7BUANqTrR6nlV2pD"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301925,
+      "name": "11 y 6",
+      "url": "https://open.spotify.com/track/1FF3gAcqG3N5FxKBvX8HNi"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
       },
@@ -1349,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Alegre Caballero",
+        "url": "https://open.spotify.com/album/678p9wF5estz16tAglT5K4"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224800,
+      "name": "Alegre Caballero",
+      "url": "https://open.spotify.com/track/3pCfk5AC2LkN9Ug1lm4Eej"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -1573,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Richie Silver",
+        "url": "https://open.spotify.com/album/5hhu80gs4IAxUFWkNRh9hM"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "Amandote",
+      "url": "https://open.spotify.com/track/0h0xy0Lu53vn8JFalDktw6"
+    },
+    {
+      "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj"
       },
@@ -1782,7 +1840,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 139698,
       "name": "Amor del Agro",
       "url": "https://open.spotify.com/track/1ZSYhCqlR7ow8fWxfvuFFZ"
@@ -2574,7 +2632,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 194838,
       "name": "Baby Lover",
       "url": "https://open.spotify.com/track/3kWMm2iFysQf0j1857c1vk"
@@ -2838,6 +2896,36 @@
       "duration_ms": 168400,
       "name": "Bajo De La Piel",
       "url": "https://open.spotify.com/track/3sc0Wv64rOuIRVkQO7rrer"
+    },
+    {
+      "album": {
+        "name": "FAlklore Vol. 2",
+        "url": "https://open.spotify.com/album/0hukQey7qPa49oSVhu5kIv"
+      },
+      "artists": [
+        {
+          "name": "Esto es \u00a1FA!",
+          "url": "https://open.spotify.com/artist/0ElbMDEefrgdxl0geuDPHn"
+        },
+        {
+          "name": "Mex Urtizberea",
+          "url": "https://open.spotify.com/artist/2iPrKTKzQOV6F6PZOS8lMI"
+        },
+        {
+          "name": "Agarrate Catalina",
+          "url": "https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183284,
+      "name": "Balderrama",
+      "url": "https://open.spotify.com/track/3hDNBhAWYjvxUjvHsfXi2C"
     },
     {
       "album": {
@@ -4559,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "Tango, Milonga y Candombe",
+        "url": "https://open.spotify.com/album/0i4nfgNW9qWHfBSITZgr1E"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "Candombe para Gardel",
+      "url": "https://open.spotify.com/track/43iC3dWHlMrBRwH9OlHFuj"
+    },
+    {
+      "album": {
         "name": "Capaz",
         "url": "https://open.spotify.com/album/7IZrNzumndjo4OhsiY4WhS"
       },
@@ -5452,7 +5558,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
@@ -5804,7 +5910,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 157329,
       "name": "Coraz\u00f3n Part\u00edo",
       "url": "https://open.spotify.com/track/40KiHURgiThI7TFkxUJmt0"
@@ -5884,7 +5990,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 131908,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/4C1GR4t5ZVMtmbnLgKukgG"
@@ -6760,7 +6866,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -7210,6 +7316,28 @@
       "duration_ms": 188960,
       "name": "Descolgando el Cielo",
       "url": "https://open.spotify.com/track/31FFyG0uD0xVIcnD9yaaaV"
+    },
+    {
+      "album": {
+        "name": "AYER DIJISTE MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/70YgRmVdUC5cJNrjYwSH4H"
+      },
+      "artists": [
+        {
+          "name": "BALTA",
+          "url": "https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268658,
+      "name": "Desde el coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6UzRohWO3l811keaK0lzZd"
     },
     {
       "album": {
@@ -8219,6 +8347,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n Va A Cantar",
+        "url": "https://open.spotify.com/album/3w1SD6sPzviIc98mB1nd9b"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172853,
+      "name": "Echale Sal A La Vida",
+      "url": "https://open.spotify.com/track/3qCcb9tJlGOzmjCUgrKuem"
+    },
+    {
+      "album": {
         "name": "5202",
         "url": "https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00"
       },
@@ -8872,6 +9018,28 @@
       "duration_ms": 201125,
       "name": "El Vidente",
       "url": "https://open.spotify.com/track/1eRFpPh5Q4LZM3wcgmCYuZ"
+    },
+    {
+      "album": {
+        "name": "Candombe Con La Ayudita De Mis Amigos",
+        "url": "https://open.spotify.com/album/0wwTfU7BUANqTrR6nlV2pD"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        },
+        {
+          "name": "Sebasti\u00e1n Teysera",
+          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209261,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/4F5KoFgwWNZIC6KaFkyfDM"
     },
     {
       "album": {
@@ -10682,7 +10850,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 181277,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
@@ -13618,7 +13786,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -14539,6 +14707,28 @@
     },
     {
       "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/0mBQTLZ1W68D72yLDs4rtO"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        },
+        {
+          "name": "Ketama",
+          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346333,
+      "name": "Loco De Amor",
+      "url": "https://open.spotify.com/track/0yFHCTzyoRgOZ1WO0WAJMO"
+    },
+    {
+      "album": {
         "name": "Loco Enamorado I Variet\u00e9 #4",
         "url": "https://open.spotify.com/album/06ENwZMENzIYycxXAfAKYY"
       },
@@ -14554,7 +14744,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 153000,
       "name": "Loco Enamorado I Variet\u00e9 #4",
       "url": "https://open.spotify.com/track/0UaxhDrvCVcCWCqYQUeeFF"
@@ -17372,7 +17562,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 178255,
       "name": "Muero Por Ti",
       "url": "https://open.spotify.com/track/27mCFtuegT2aQNirEVYuvS"
@@ -23410,7 +23600,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 287666,
       "name": "Se Me Olvida / Empelotica",
       "url": "https://open.spotify.com/track/4RAZ4K0gvNfFGc4KpVcrVX"
@@ -23624,6 +23814,24 @@
       "duration_ms": 179847,
       "name": "SER EL TRAP",
       "url": "https://open.spotify.com/track/2mmYwg4OgThj9vHgwc1rgL"
+    },
+    {
+      "album": {
+        "name": "Alegre Caballero",
+        "url": "https://open.spotify.com/album/678p9wF5estz16tAglT5K4"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Sera Posible",
+      "url": "https://open.spotify.com/track/1L8knnyJUMBZXgHEhIk0wg"
     },
     {
       "album": {
@@ -24256,7 +24464,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 159683,
       "name": "Sin Pena",
       "url": "https://open.spotify.com/track/1961U1D0y1hZw9bLAZuRFx"
@@ -24596,6 +24804,24 @@
       "duration_ms": 199825,
       "name": "SOLO POR VOS",
       "url": "https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi"
+    },
+    {
+      "album": {
+        "name": "Fan",
+        "url": "https://open.spotify.com/album/17ztvFNcWXoW4kuwm7XIbG"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292706,
+      "name": "Solo Se Trata de Vivir",
+      "url": "https://open.spotify.com/track/6H2F2Oz2GVSS3o76H54HHK"
     },
     {
       "album": {
@@ -25128,7 +25354,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 298000,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl"
@@ -25868,6 +26094,24 @@
       "duration_ms": 169379,
       "name": "Terapia de Choque - Remix",
       "url": "https://open.spotify.com/track/4Fjwt9hDxbVHQcEU8vzL3x"
+    },
+    {
+      "album": {
+        "name": "Alegre Caballero",
+        "url": "https://open.spotify.com/album/678p9wF5estz16tAglT5K4"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248213,
+      "name": "Terapia de Murga",
+      "url": "https://open.spotify.com/track/6xv33hrGkN2AV1K12F5DJr"
     },
     {
       "album": {
@@ -28486,7 +28730,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 130806,
       "name": "URUGUAY",
       "url": "https://open.spotify.com/track/2P17NwE5VjwX99Gu6eJ35z"
@@ -30357,6 +30601,24 @@
     },
     {
       "album": {
+        "name": "Rakata - Rada para Ni\u00f1os",
+        "url": "https://open.spotify.com/album/3F4h4eUCEoWWc9eANb6zVS"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99413,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/5ffskOM64vzT0AVrXDMQ8m"
+    },
+    {
+      "album": {
         "name": "TRAMPA AL TIEMPO",
         "url": "https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77"
       },
@@ -30468,7 +30730,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"

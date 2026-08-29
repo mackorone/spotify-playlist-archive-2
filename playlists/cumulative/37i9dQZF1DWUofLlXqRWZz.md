@@ -4,7 +4,7 @@
 
 > This is Ludovico Einaudi\. The essential tracks, all in one playlist.
 
-85 songs - 6 hr 54 min
+86 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ora](https://open.spotify.com/track/6KeXJbrg02axATKVgdW8am) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 7:53 | 2025-01-10 |  |
 | [Orbits](https://open.spotify.com/track/3KkF5prL0SRBaOHqhMNH5n) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 2:57 | 2025-01-10 |  |
 | [Passagio](https://open.spotify.com/track/76R8ILULQyyodS91TkAvOf) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 5:57 | 2025-01-10 |  |
+| [Pathos](https://open.spotify.com/track/3DV69yyFV0bHhkBze5QrmB) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 7:06 | 2026-08-28 |  |
 | [Pathos](https://open.spotify.com/track/4VLkeHhCRvWWfRHImg2tP3) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Pathos \(Theme\)](https://open.spotify.com/album/2w1GSTM5Yr61X7PpeDWl6h) | 7:06 | 2025-01-10 |  |
 | [Pathos \- Theme](https://open.spotify.com/track/1dsJhk09Q9nqu1vhQvAEzq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Pathos \(Theme\)](https://open.spotify.com/album/2w1GSTM5Yr61X7PpeDWl6h) | 4:18 | 2025-01-10 |  |
 | [Petricor](https://open.spotify.com/track/4XWqS8UGO5x4ClB2yH0nbW) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [Elements \(Deluxe\)](https://open.spotify.com/album/5jzohQ50TA36qTumAG1rEA) | 6:34 | 2025-01-10 |  |

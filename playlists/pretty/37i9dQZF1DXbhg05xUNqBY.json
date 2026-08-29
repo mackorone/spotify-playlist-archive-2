@@ -1,29 +1,13 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 345597,
+  "num_followers": 345587,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALGFO/t/344SHpFUSoHkGjia0UyK",
+  "snapshot_id": "AAAAAJzKCZwGv6TnpIEd0iwZo2bP0glN",
   "tracks": [
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "The Old Rugged Cross (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 188251,
-      "name": "The Old Rugged Cross - Spotify Singles",
-      "url": "https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58"
-    },
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 259614,
       "name": "dwell",
       "url": "https://open.spotify.com/track/6APrayamM5q5xumqGca8wT"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "The Old Rugged Cross (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 188251,
+      "name": "The Old Rugged Cross - Spotify Singles",
+      "url": "https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "The Hymns (Spotify Version)",
-        "url": "https://open.spotify.com/album/3hsmfn4WeVjTgH7A6xx3Lp"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 253337,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "FAITH",
         "url": "https://open.spotify.com/album/6lzmdWMbhGb0vbW17XHhco"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 181700,
       "name": "FAITH",
       "url": "https://open.spotify.com/track/1cwtGw7v2peqfQ5mH1L1s1"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "The Hymns (Spotify Version)",
+        "url": "https://open.spotify.com/album/3hsmfn4WeVjTgH7A6xx3Lp"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 253337,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "This Bed I Made",
-        "url": "https://open.spotify.com/album/1atz6Ki6hL5RjUgGIDfkJA"
-      },
-      "artists": [
-        {
-          "name": "Guvna B",
-          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/7bQKckZ2AsrFOok83WJb6v"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Yesterday, Today, & Tomorrow",
         "url": "https://open.spotify.com/album/7sWR7CaR6enqGNpvjYBzbP"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "This Bed I Made",
+        "url": "https://open.spotify.com/album/1atz6Ki6hL5RjUgGIDfkJA"
+      },
+      "artists": [
+        {
+          "name": "Guvna B",
+          "url": "https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/7bQKckZ2AsrFOok83WJb6v"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 181119,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "UNION",
-        "url": "https://open.spotify.com/album/0NNV9E7n3DiKP7bUZxXo20"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 246170,
-      "name": "UNION",
-      "url": "https://open.spotify.com/track/1hUMw4pYM4Gy5xDGC4TaNZ"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -867,6 +851,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "UNION",
+        "url": "https://open.spotify.com/album/0NNV9E7n3DiKP7bUZxXo20"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 246170,
+      "name": "UNION",
+      "url": "https://open.spotify.com/track/1hUMw4pYM4Gy5xDGC4TaNZ"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "If it wasn't for Jesus",
         "url": "https://open.spotify.com/album/1ZL9ejiRgiehK2F65ywwQ4"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 229800,
       "name": "If it wasn't for Jesus",
       "url": "https://open.spotify.com/track/7FVckXqUw0kkUU00TxCvV4"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Jesus, You\u2019re Enough",
-        "url": "https://open.spotify.com/album/0mLZ66xcqSZribygKwuehO"
-      },
-      "artists": [
-        {
-          "name": "Anna Childs",
-          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Jesus, You\u2019re Enough",
-      "url": "https://open.spotify.com/track/3mAMyzElL4P5QQ2UTU1xAK"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "God I'm Just Grateful (Acoustic)",
-        "url": "https://open.spotify.com/album/3CNSVt8dMDslXe0Og9huy8"
+        "name": "Jesus, You\u2019re Enough",
+        "url": "https://open.spotify.com/album/0mLZ66xcqSZribygKwuehO"
       },
       "artists": [
         {
-          "name": "Stephen McWhirter",
-          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
         }
       ],
-      "duration_ms": 238099,
-      "name": "God I'm Just Grateful - Acoustic",
-      "url": "https://open.spotify.com/track/5l2tYwpRlOsaRiVWvfHjIQ"
+      "duration_ms": 224000,
+      "name": "Jesus, You\u2019re Enough",
+      "url": "https://open.spotify.com/track/3mAMyzElL4P5QQ2UTU1xAK"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -943,6 +927,22 @@
       "duration_ms": 186558,
       "name": "wake up",
       "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "God I'm Just Grateful (Acoustic)",
+        "url": "https://open.spotify.com/album/3CNSVt8dMDslXe0Og9huy8"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "duration_ms": 238099,
+      "name": "God I'm Just Grateful - Acoustic",
+      "url": "https://open.spotify.com/track/5l2tYwpRlOsaRiVWvfHjIQ"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/2Zy7pl3HNBWDc0ejgIZmP0"
+      },
+      "artists": [
+        {
+          "name": "Harvest",
+          "url": "https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV"
+        },
+        {
+          "name": "Zach Smith",
+          "url": "https://open.spotify.com/artist/47WznCgJt250fTyZV5PbRv"
+        }
+      ],
+      "duration_ms": 396363,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/7axNlttagpPr20UTVoyAny"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Orange Streetlights (Acoustic Version)",
         "url": "https://open.spotify.com/album/3nD2x0NB49c0XY5EXC3tWW"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 195683,
       "name": "PERFECT LOVE",
       "url": "https://open.spotify.com/track/4P5H3ON3UdK7RevB4Pad7j"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/2Zy7pl3HNBWDc0ejgIZmP0"
-      },
-      "artists": [
-        {
-          "name": "Harvest",
-          "url": "https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV"
-        },
-        {
-          "name": "Zach Smith",
-          "url": "https://open.spotify.com/artist/47WznCgJt250fTyZV5PbRv"
-        }
-      ],
-      "duration_ms": 396363,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/7axNlttagpPr20UTVoyAny"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "MATIN: Love",
+        "url": "https://open.spotify.com/album/2kpyVJ4ezZGPUvuMflolXb"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Ninety One",
+      "url": "https://open.spotify.com/track/6uOabM8DJSKHYmARmcndcd"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/4kMsE5VU9kluT1t8LjnjXi"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 242391,
       "name": "Delight",
       "url": "https://open.spotify.com/track/0fv3Yqa69AM2RiP1eW5ibI"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "MATIN: Love",
-        "url": "https://open.spotify.com/album/2kpyVJ4ezZGPUvuMflolXb"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Ninety One",
-      "url": "https://open.spotify.com/track/6uOabM8DJSKHYmARmcndcd"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "BROKEN BUT I RISE",
+        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
+      },
+      "artists": [
+        {
+          "name": "New Path Worship",
+          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
+        }
+      ],
+      "duration_ms": 199719,
+      "name": "BROKEN BUT I RISE",
+      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Faithful (To The End)",
         "url": "https://open.spotify.com/album/0C7WzdyLTAtRyJ7ZNS3Bqp"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 143947,
       "name": "OMG",
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "BROKEN BUT I RISE",
-        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
-      },
-      "artists": [
-        {
-          "name": "New Path Worship",
-          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
-        }
-      ],
-      "duration_ms": 199719,
-      "name": "BROKEN BUT I RISE",
-      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "seeing green",
+        "url": "https://open.spotify.com/album/241fEPLphNHwpdhHT3fyW3"
+      },
+      "artists": [
+        {
+          "name": "Tianna",
+          "url": "https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "song of healing",
+      "url": "https://open.spotify.com/track/2vi7EDzetoEu6h8TjOdYfV"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "You Put My Mind at Ease",
         "url": "https://open.spotify.com/album/0ZcUYUHN4M9zbvSgNIdh4i"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 216155,
       "name": "You Put My Mind at Ease",
       "url": "https://open.spotify.com/track/5EjFqeH8AtSN2HGMXNXcTR"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "seeing green",
-        "url": "https://open.spotify.com/album/241fEPLphNHwpdhHT3fyW3"
-      },
-      "artists": [
-        {
-          "name": "Tianna",
-          "url": "https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "song of healing",
-      "url": "https://open.spotify.com/track/2vi7EDzetoEu6h8TjOdYfV"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "The Invitation",
-        "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
+        "name": "it is mine",
+        "url": "https://open.spotify.com/album/6aSR7O1rddTf7i6C2S4GP6"
       },
       "artists": [
         {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        },
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Morgan J",
+          "url": "https://open.spotify.com/artist/61kGREOrmdzaTsCVSkVXw1"
         }
       ],
-      "duration_ms": 212543,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
+      "duration_ms": 212565,
+      "name": "it is mine",
+      "url": "https://open.spotify.com/track/3fbGJridDDJ9iJC6mjRSrD"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1751,18 +1747,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "it is mine",
-        "url": "https://open.spotify.com/album/6aSR7O1rddTf7i6C2S4GP6"
+        "name": "The Invitation",
+        "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
       },
       "artists": [
         {
-          "name": "Morgan J",
-          "url": "https://open.spotify.com/artist/61kGREOrmdzaTsCVSkVXw1"
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 212565,
-      "name": "it is mine",
-      "url": "https://open.spotify.com/track/3fbGJridDDJ9iJC6mjRSrD"
+      "duration_ms": 212543,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/30fP7ylLbRJJVKIkVIBgqo"
-      },
-      "artists": [
-        {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
-        }
-      ],
-      "duration_ms": 207999,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/7wQaAiowCmh3TaTMwv2i46"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "interlude",
         "url": "https://open.spotify.com/album/0K6FztVsZTLKNFpMWSKhGP"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 322813,
       "name": "it all belongs to You",
       "url": "https://open.spotify.com/track/0pU4KIzOKxwIsy00R9zkrI"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/30fP7ylLbRJJVKIkVIBgqo"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 207999,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7wQaAiowCmh3TaTMwv2i46"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "In Returning and Rest",
-        "url": "https://open.spotify.com/album/749ia6qL8OJmKlQ2YgP7pl"
-      },
-      "artists": [
-        {
-          "name": "Doyina",
-          "url": "https://open.spotify.com/artist/73qNTHegO6mcJzMrkaZN91"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "In Returning and Rest",
-      "url": "https://open.spotify.com/track/2Xn3rQuKYB24vE05FmVrBT"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Thank God I'm Not Alone (From Claire's Phone)",
         "url": "https://open.spotify.com/album/4qdDQabqGvhoWBr39D1gaR"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 267401,
       "name": "Thank God I'm Not Alone - From Claire's Phone",
       "url": "https://open.spotify.com/track/6evLRCoKGHIJwz7AaBuzHx"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "In Returning and Rest",
+        "url": "https://open.spotify.com/album/749ia6qL8OJmKlQ2YgP7pl"
+      },
+      "artists": [
+        {
+          "name": "Doyina",
+          "url": "https://open.spotify.com/artist/73qNTHegO6mcJzMrkaZN91"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "In Returning and Rest",
+      "url": "https://open.spotify.com/track/2Xn3rQuKYB24vE05FmVrBT"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "How Deep The Father's Love",
-        "url": "https://open.spotify.com/album/5XdXwVSUQh0wYX02GLEPN6"
-      },
-      "artists": [
-        {
-          "name": "Emilie Weiss",
-          "url": "https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg"
-        }
-      ],
-      "duration_ms": 277743,
-      "name": "How Deep The Fathers Love",
-      "url": "https://open.spotify.com/track/77EYXh0Xrc9KXYjW8i6vsq"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Do it Afraid",
         "url": "https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR"
       },
@@ -2007,18 +1991,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Come Thou Fount",
-        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
+        "name": "How Deep The Father's Love",
+        "url": "https://open.spotify.com/album/5XdXwVSUQh0wYX02GLEPN6"
       },
       "artists": [
         {
-          "name": "In the Wild",
-          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
+          "name": "Emilie Weiss",
+          "url": "https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg"
         }
       ],
-      "duration_ms": 284545,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
+      "duration_ms": 277743,
+      "name": "How Deep The Fathers Love",
+      "url": "https://open.spotify.com/track/77EYXh0Xrc9KXYjW8i6vsq"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2035,6 +2019,22 @@
       "duration_ms": 226758,
       "name": "Give Us Clean Hands",
       "url": "https://open.spotify.com/track/4hTd0w8f0YXDcFJxOjQEVV"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Come Thou Fount",
+        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
+      },
+      "artists": [
+        {
+          "name": "In the Wild",
+          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
+        }
+      ],
+      "duration_ms": 284545,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "It's So Good to Need You",
-        "url": "https://open.spotify.com/album/24uTX01x4LqhTnb9YlX6Ly"
-      },
-      "artists": [
-        {
-          "name": "Rachel Morley",
-          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
-        }
-      ],
-      "duration_ms": 243294,
-      "name": "It's So Good to Need You",
-      "url": "https://open.spotify.com/track/3QVm9Y5wLCsVBHfK2D6HpE"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Anything, Everything",
         "url": "https://open.spotify.com/album/61TiNOuCHGDJ2s7wVkDhW7"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 160331,
       "name": "Anything, Everything",
       "url": "https://open.spotify.com/track/6DeNFuhBgxcoSJrDuxDltk"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "It's So Good to Need You",
+        "url": "https://open.spotify.com/album/24uTX01x4LqhTnb9YlX6Ly"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "duration_ms": 243294,
+      "name": "It's So Good to Need You",
+      "url": "https://open.spotify.com/track/3QVm9Y5wLCsVBHfK2D6HpE"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "His Glory Appears",
-        "url": "https://open.spotify.com/album/5XDOKgAomU5BtjrG3HYyPj"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "His Glory Appears",
-      "url": "https://open.spotify.com/track/5k7GutyOODRnGoWZPrOdv5"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Music for After Amen",
         "url": "https://open.spotify.com/album/1KG4KmiW6Hrsz89u99MRe9"
       },
@@ -2251,26 +2235,6 @@
       "duration_ms": 263500,
       "name": "All at Once",
       "url": "https://open.spotify.com/track/71uZjM6lbueLkBrkobiWOR"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Wonderful, Wonderful Lord (Ps 139)",
-        "url": "https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        },
-        {
-          "name": "Rothbury",
-          "url": "https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye"
-        }
-      ],
-      "duration_ms": 274657,
-      "name": "Wonderful, Wonderful Lord (Ps 139)",
-      "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2291,6 +2255,42 @@
       "duration_ms": 176672,
       "name": "444",
       "url": "https://open.spotify.com/track/13guW1X33I82iJyez9u2OS"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "His Glory Appears",
+        "url": "https://open.spotify.com/album/5XDOKgAomU5BtjrG3HYyPj"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "His Glory Appears",
+      "url": "https://open.spotify.com/track/5k7GutyOODRnGoWZPrOdv5"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Wonderful, Wonderful Lord (Ps 139)",
+        "url": "https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Rothbury",
+          "url": "https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye"
+        }
+      ],
+      "duration_ms": 274657,
+      "name": "Wonderful, Wonderful Lord (Ps 139)",
+      "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Every Day I Love You",
-        "url": "https://open.spotify.com/album/2gQLhZ5ML6OQO8ZZmABpU9"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Every Day I Love You",
-      "url": "https://open.spotify.com/track/51LgJSmjDz5BTmoVg7t2yf"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Precious Wine",
         "url": "https://open.spotify.com/album/5aZ4Gy4rkDIdmcpVmwNRAn"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 378181,
       "name": "Precious Wine",
       "url": "https://open.spotify.com/track/0nkjRQ02czr5R11E0EeWCb"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Every Day I Love You",
+        "url": "https://open.spotify.com/album/2gQLhZ5ML6OQO8ZZmABpU9"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Every Day I Love You",
+      "url": "https://open.spotify.com/track/51LgJSmjDz5BTmoVg7t2yf"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2439,6 +2439,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Like Everybody Else",
+        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Like Everybody Else",
+      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "The Way of Love",
         "url": "https://open.spotify.com/album/27B6xYGSZ31DjV0XXqeerp"
       },
@@ -2475,38 +2491,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Forever Communion",
-        "url": "https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc"
-      },
-      "artists": [
-        {
-          "name": "Spencer Annis",
-          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
-        }
-      ],
-      "duration_ms": 206479,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Like Everybody Else",
-        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Like Everybody Else",
-      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Cutting Through",
         "url": "https://open.spotify.com/album/05k0qlSJHk8Puqyppo78ru"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 266815,
       "name": "Cutting Through",
       "url": "https://open.spotify.com/track/3VLyEMI7b12KZFbaMa36YK"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Forever Communion",
+        "url": "https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "duration_ms": 206479,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt"
     },
     {
       "added_at": "2026-07-29 15:30:21",

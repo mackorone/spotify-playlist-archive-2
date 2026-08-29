@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 166346,
+  "num_followers": 166349,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAfljbvva+z9Do4Mb2Ekzmw",
+  "snapshot_id": "ao9+AAAAAAB1Z7cHj3ZI2RuizTE1KuvT",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
+        "name": "Maverick City Music, Vol. 3: Pt. 2",
+        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
       },
       "artists": [
         {
@@ -376,17 +376,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 380453,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7yb3aJG4qnzXy6PWkg3Dyt"
+      "duration_ms": 435535,
+      "name": "The Story I'll Tell ( Feat. Naomi Raine)",
+      "url": "https://open.spotify.com/track/5ypaD5LqwkhRKBuIptdkVl"
     },
     {
       "added_at": null,
@@ -419,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 2",
-        "url": "https://open.spotify.com/album/2R4bNnZCEQUkebqJmcySBt"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
       },
       "artists": [
         {
@@ -428,13 +424,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
         }
       ],
-      "duration_ms": 435535,
-      "name": "The Story I'll Tell ( Feat. Naomi Raine)",
-      "url": "https://open.spotify.com/track/5ypaD5LqwkhRKBuIptdkVl"
+      "duration_ms": 380453,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7yb3aJG4qnzXy6PWkg3Dyt"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4qWwUB9j83xgUIhJXH3l8L"
         }
       ],
-      "duration_ms": 246579,
-      "name": "Goodness Of God - Instrumental Worship",
-      "url": "https://open.spotify.com/track/2WUe7iXgaob8TJITKrQjwt"
+      "duration_ms": 136000,
+      "name": "Sacred Quiet - Instrumental Worship",
+      "url": "https://open.spotify.com/track/5rRcERV6CJhFY2dLspCqcB"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Maverick Way Reimagined",
+        "url": "https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "duration_ms": 177345,
+      "name": "God Problems (Not By Power) [feat. Miles Minnick]",
+      "url": "https://open.spotify.com/track/2GGhJzqZG04f99FnOoIdyL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Was Made To Glorify Your Name",
         "url": "https://open.spotify.com/album/5WUPJV4LB0mMvypBL8Sfc0"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 346056,
       "name": "I Was Made To Glorify Your Name",
       "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Maverick Way Reimagined",
-        "url": "https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        }
-      ],
-      "duration_ms": 177345,
-      "name": "God Problems (Not By Power) [feat. Miles Minnick]",
-      "url": "https://open.spotify.com/track/2GGhJzqZG04f99FnOoIdyL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,224 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,232 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 39 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 40 | [Atlantide](https://open.spotify.com/track/1mP024sin4qRJS0C0VW7GX) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 3:04 |
 | 41 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 |
-| 42 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 |
-| 43 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
+| 42 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 |
+| 43 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 |
 | 44 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 |
 | 45 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 46 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 86 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 |
 | 87 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
 | 88 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
-| 89 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 |
-| 90 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 |
+| 89 | [Knowing Me, Knowing You](https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 4:01 |
+| 90 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 |
 | 91 | [Into My Arms](https://open.spotify.com/track/39CFOvYse9fcMhIwyS73Fl) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 \- Remaster\)](https://open.spotify.com/album/0DpHNtdQBy3e2Iy6TKLWIv) | 4:16 |
 | 92 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 |
 | 93 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 99 | [Hurt](https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 4:03 |
 | 100 | [Asleep \- 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 4:13 |
 
-Snapshot ID: `AAAAAISR9SZ9HeyvvXnz5RA/J5NVVxGf`
+Snapshot ID: `AAAAANB5byiCawx85Fptx6m3sEpyjbHl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,582 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,657 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 41 | [Left Aside](https://open.spotify.com/track/6705zRtqTtOB1GRlsxaSUy) | [Lllyric?](https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj) | [Left Aside](https://open.spotify.com/album/7IulPqCome1TeeGIVachNJ) | 2:23 |
 | 42 | [This World Couldn’t See Us](https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 3:39 |
 | 43 | [The Others](https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:40 |
-| 44 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 |
+| 44 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
 | 45 | [Lost](https://open.spotify.com/track/44cuIdT06T3f5mIIDldv6z) | [Vandal Moon](https://open.spotify.com/artist/0b0HjXjfkApMcVJqsH8wYX) | [Lost](https://open.spotify.com/album/7y0Wt3nBmFUn7Ser3MuMCd) | 3:40 |
-| 46 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 |
-| 47 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
+| 46 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 |
+| 47 | [HUNNY](https://open.spotify.com/track/1GNszTPgt9RwTLIOzwfHWb) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [BLEU](https://open.spotify.com/album/6woJYYYScksahP4fTIMhus) | 2:23 |
 | 48 | [Too Soon to Tell](https://open.spotify.com/track/25rY3GbeeHIBRwyouz9jZT) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 4:07 |
 | 49 | [Durdu Dunya](https://open.spotify.com/track/2OzRao3wILud6BTrsT2cnI) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/2ErVLQ217KC5srxpS3tQz9) | 4:49 |
 | 50 | [Please Stay](https://open.spotify.com/track/7vIFHpoofIaZuh3CsdTuTT) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [Please Stay](https://open.spotify.com/album/2vh1IK3UdV1EpQpwj8I0Lz) | 3:50 |
 
-Snapshot ID: `AAAAAKwbVbg5F9xUca7vIGhmig0HszT8`
+Snapshot ID: `AAAAAMwKtA4N4GF9sgTuvP1fp7fo2k/k`

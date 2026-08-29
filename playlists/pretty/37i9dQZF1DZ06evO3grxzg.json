@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234196,
+  "num_followers": 234179,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABHbkgmVZwLtyzZld3YJwsY",
+  "snapshot_id": "ao9+AAAAAADp/NyF6UUwSGrfk/CcdNVC",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "Milagrito",
+      "url": "https://open.spotify.com/track/2nPPhyPxWv58MqWLbnYkeX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atrevete A So\u00f1ar (Original Sountrack)",
         "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 34226,
       "name": "Everybody Hands Up!!",
       "url": "https://open.spotify.com/track/1W00m9l5aElQhpzLEfgPtp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182133,
-      "name": "Milagrito",
-      "url": "https://open.spotify.com/track/2nPPhyPxWv58MqWLbnYkeX"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Las Populares",
-          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "Fiesta - En Vivo",
-      "url": "https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
         "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 220600,
       "name": "Caminos De Luz",
       "url": "https://open.spotify.com/track/72LXdr5YUCB2s2wxYHuhcQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Fiesta - En Vivo",
+      "url": "https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
+      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Despu\u00e9s de mucho de no hablar",
         "url": "https://open.spotify.com/album/7uyEeszHdWmBA7G6EhHaGF"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 157666,
       "name": "Esa Es Mi Mamita Linda",
       "url": "https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "El Cielo En Brazos De Pap\u00e1",
-      "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
     },
     {
       "added_at": null,
@@ -955,6 +955,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
+        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "El Cielo En Brazos De Pap\u00e1",
+      "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop para los peques",
         "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
       },
@@ -971,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
+        "name": "Dancing Queens Un Tributo Para ABBA",
+        "url": "https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL"
       },
       "artists": [
         {
@@ -980,33 +996,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 177786,
-      "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
-      "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
-        "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Lilibeth Lilibeth",
-          "url": "https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3"
-        },
-        {
-          "name": "Luis Fernando Madriz",
-          "url": "https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC"
-        }
-      ],
-      "duration_ms": 120146,
-      "name": "La Fogata",
-      "url": "https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU"
+      "duration_ms": 209186,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU"
     }
   ],
   "unique_name": "This Is Danna Paola",

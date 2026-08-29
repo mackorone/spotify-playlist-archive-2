@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61536,
+  "num_followers": 61535,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPae2QYqWAWec5OYZN5xPI9UHlrC",
+  "snapshot_id": "AAAAAJb+oPw5ejhE2/H2olPIEqjoudg8",
   "tracks": [
     {
       "added_at": "2026-02-09 02:43:04",
@@ -319,6 +319,30 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        }
+      ],
+      "duration_ms": 209738,
+      "name": "Ithaka",
+      "url": "https://open.spotify.com/track/3QOH6LSk7A9roxTF39fG1M"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "Standard Time Vol. 3: The Resolution Of Romance",
         "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
       },
@@ -347,30 +371,6 @@
       "duration_ms": 287373,
       "name": "Emily",
       "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        }
-      ],
-      "duration_ms": 209738,
-      "name": "Ithaka",
-      "url": "https://open.spotify.com/track/3QOH6LSk7A9roxTF39fG1M"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Ordet",
-        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
-      },
-      "artists": [
-        {
-          "name": "Bremer/McCoy",
-          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "Forenet",
-      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 405226,
       "name": "I'm A Fool To Want You",
       "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Ordet",
+        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
+      },
+      "artists": [
+        {
+          "name": "Bremer/McCoy",
+          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "Forenet",
+      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "It's Nice to Be with You: Jim Hall in Berlin",
-        "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        },
-        {
-          "name": "Jimmy Woode",
-          "url": "https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb"
-        },
-        {
-          "name": "Daniel Humair",
-          "url": "https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL"
-        }
-      ],
-      "duration_ms": 265024,
-      "name": "Young One for Debra",
-      "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Walk The Dog",
         "url": "https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1"
       },
@@ -1231,6 +1207,30 @@
       "duration_ms": 180621,
       "name": "Endless Mind",
       "url": "https://open.spotify.com/track/5MTg1t0AdyxaIvSKv2Zchn"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "It's Nice to Be with You: Jim Hall in Berlin",
+        "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "name": "Jimmy Woode",
+          "url": "https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb"
+        },
+        {
+          "name": "Daniel Humair",
+          "url": "https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL"
+        }
+      ],
+      "duration_ms": 265024,
+      "name": "Young One for Debra",
+      "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
     },
     {
       "added_at": "2026-02-09 02:43:04",

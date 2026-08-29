@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,459,018 likes - 125 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,458,991 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 63 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 |
 | 64 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
 | 65 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Castle on the Hill \(Acoustic\)](https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn) | 3:46 |
-| 66 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 |
-| 67 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
+| 66 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
+| 67 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 |
 | 68 | [Slow Dancing in a Burning Room \- Acoustic](https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Village Sessions](https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX) | 3:52 |
 | 69 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
 | 70 | [Happier \- Acoustic](https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Happier \(Acoustic\)](https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm) | 3:26 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 92 | [I Don't Love You \(I'm Just Lonely\) \- Acoustic](https://open.spotify.com/track/02WH2lgCCZg8xmwmlbDAa8) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [I Don't Love You \(I'm Just Lonely\) \[Acoustic\]](https://open.spotify.com/album/6Aoidehbk7Xx8bbKXrSq5e) | 3:03 |
 | 93 | [sunday](https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:13 |
 | 94 | [Most Girls \- Acoustic](https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls \(Acoustic\)](https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0) | 3:20 |
-| 95 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
-| 96 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
+| 95 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
+| 96 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
 | 97 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 |
 | 98 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
 | 99 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 |
@@ -119,9 +119,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 109 | [Anaheim](https://open.spotify.com/track/0JhILyKbyQnhAo6FHSSIRA) | [Nicole Zefanya](https://open.spotify.com/artist/6Un2wMkT5JajGnF1hBLacG) | [Anaheim](https://open.spotify.com/album/0p6vQipvqvb85ghNzo7Mdp) | 4:18 |
 | 110 | [Old Friends](https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Old Friends](https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI) | 3:33 |
 | 111 | [Craving \- Acoustic Version](https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Craving \(Acoustic\)](https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO) | 3:46 |
-| 112 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 |
+| 112 | [Volcano](https://open.spotify.com/track/084opnma7Z8lJ8RQMTsMdt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:28 |
 | 113 | [Lay It on Me \- Acoustic](https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Lay It on Me \(Acoustic\)](https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7) | 3:21 |
-| 114 | [Volcano](https://open.spotify.com/track/084opnma7Z8lJ8RQMTsMdt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:28 |
+| 114 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 |
 | 115 | [Chemicals \- Acoustic](https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:54 |
 | 116 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 117 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 124 | [Dream \- Acoustic](https://open.spotify.com/track/67l1tytshju3Ily8uIAVKH) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Dream \(Acoustic\)](https://open.spotify.com/album/5Me78hMJtqwiroQEDoFGYh) | 3:18 |
 | 125 | [This Fire](https://open.spotify.com/track/0CtXTPdnF3vc0k20C91M0P) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [A Good Storm](https://open.spotify.com/album/36V5LnjwBt7GTm89aOnVA8) | 3:46 |
 
-Snapshot ID: `AAAAAE4SxOcHM7LwLSJasdjN+34J4/O/`
+Snapshot ID: `AAAAAKNjd009+H9v+wH2TijlxltNCYbk`

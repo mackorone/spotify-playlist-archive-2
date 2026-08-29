@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,359 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,436 likes - 125 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 61 | [Mi Buen Corazon](https://open.spotify.com/track/1wEIkyWSHXm6U7LXO1jZWi) | [Orquesta La Unica](https://open.spotify.com/artist/6SUAzFL6tfEFWtGRoO25YO) | [Mi Buen Corazon](https://open.spotify.com/album/0FC5quGwnqP9EnSOFWyzfZ) | 3:51 |
 | 62 | [La Gozadera \- En Vivo](https://open.spotify.com/track/5kiRTlhM3qC4OdNeXSVieC) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [En Contacto \(En Vivo\)](https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD) | 2:54 |
 | 63 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 4:47 |
-| 64 | [Me Va, Me Va \(En Vivo\)](https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 3:17 |
-| 65 | [Limonadas Verdes](https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu) | [Tropical Del Bravo](https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1) | [Limonadas Verdes](https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c) | 3:01 |
+| 64 | [Limonadas Verdes](https://open.spotify.com/track/7xAdE52Z6T1fcrhqUvPKFu) | [Tropical Del Bravo](https://open.spotify.com/artist/1h593dhQfwv3e4t9YdzRU1) | [Limonadas Verdes](https://open.spotify.com/album/6W8Ni4G40270CQ77gXjU0c) | 3:01 |
+| 65 | [Me Va, Me Va \(En Vivo\)](https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 3:17 |
 | 66 | [El Negro José](https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2) | [El Combo Palacio](https://open.spotify.com/artist/3aBcVktPy5mssT2slj5kC7), [Los Virtuosos De La Salsa](https://open.spotify.com/artist/1q9QXB3clbcfukhyR5aLub) | [Nuevamente! Salsas y Cumbias](https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ) | 4:12 |
 | 67 | [Ya No Hay Beatles \- 2026 Remasterizada](https://open.spotify.com/track/5VKlsr3Z3jpSqU5Ep5IcmZ) | [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [Ya No Hay Beatles \(2026 Remasterizada\)](https://open.spotify.com/album/4n2hcjcOnWz5yrqIRH6Fxj) | 2:48 |
 | 68 | [Adicto a Tu Piel \(Rebajada\)](https://open.spotify.com/track/70jvpdUE9glYJHYWaWb4Er) | [Yulios Kumbia](https://open.spotify.com/artist/2qQFSoLsMljmCc7kWiSOlH) | [Adicto a Tu Piel \(Rebajada\)](https://open.spotify.com/album/74pQxU1c30gMJp7OF5XugE) | 4:03 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cwL6qhvzYg.md) - [plain]
 | 124 | [Oye](https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 3:09 |
 | 125 | [La Mujer del Pelotero](https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Llegó Papá](https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv) | 3:18 |
 
-Snapshot ID: `AAAAAMogV0qtgoH4MGNfuipdh+x/jP+4`
+Snapshot ID: `AAAAANVP9wDGHWooymL+xhM+v5eaoI4d`

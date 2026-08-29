@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,707 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,716 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 33 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 |
 | 34 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
 | 35 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
-| 36 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
-| 37 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
-| 38 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
+| 36 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
+| 37 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
+| 38 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 39 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
 | 40 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 |
 | 41 | [La resaka](https://open.spotify.com/track/12rV4fh9cnftIXXmTtjhhI) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 99 | [Bello Abril](https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 2:21 |
 | 100 | [Revoloteando](https://open.spotify.com/track/0Vuh6a1lDHMLYG4NBOnsHi) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Hormigas](https://open.spotify.com/album/1sIA6YTTCHQ50lQTBregzD) | 3:56 |
 
-Snapshot ID: `AAAAAOIDSPCyBv5XYB6QIF5PyR2L8IVK`
+Snapshot ID: `AAAAACsuX4u3wxxV50hnBx/rT7CP4jmv`

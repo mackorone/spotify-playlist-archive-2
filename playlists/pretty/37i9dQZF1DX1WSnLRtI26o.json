@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOc3Rk6ixrA8AVgGNf3pLIj4fjKC",
+  "snapshot_id": "AAAAAL2wI4f8saWyjxAS8AVjqgiKgooA",
   "tracks": [
     {
       "added_at": "2022-04-13 19:43:54",
@@ -99,22 +99,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 233712,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 199440,
       "name": "There's Nothing Holdin' Me Back",
       "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 233712,
+      "name": "Shape of You",
+      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -183,22 +183,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 206880,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -651,26 +651,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -691,18 +671,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -719,6 +703,22 @@
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 214477,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Always in Between (Deluxe)",
-        "url": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/4r1CoAATVuxag55Ct3Y1aX"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Always in Between (Deluxe)",
+        "url": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/4r1CoAATVuxag55Ct3Y1aX"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2009,22 +2009,6 @@
       "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "1989 (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/4D7kxLhSz7siCOw7KA5rQn"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Never Really Over",
@@ -2039,6 +2023,22 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "1989 (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/6EsTJnpahwW6xX20zvqQgZ"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/4D7kxLhSz7siCOw7KA5rQn"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Piece By Piece (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 198741,
-      "name": "Heartbeat Song",
-      "url": "https://open.spotify.com/track/7FC9Lng8iXU081lbigu8m8"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Phoenix (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 215826,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6Xy72HZ9nf2jx48dQuF1mA"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Piece By Piece (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 198741,
+      "name": "Heartbeat Song",
+      "url": "https://open.spotify.com/track/7FC9Lng8iXU081lbigu8m8"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3023,6 +3023,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Settle",
         "url": "https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1"
       },
@@ -3043,22 +3059,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
       },
@@ -3071,22 +3071,6 @@
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "New Light",
-        "url": "https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 216014,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3107,6 +3091,22 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 216014,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3165,22 +3165,6 @@
       "url": "https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "something special (hi)",
-        "url": "https://open.spotify.com/album/3ym5rYu42SjQOoirjjg8Dy"
-      },
-      "artists": [
-        {
-          "name": "joan",
-          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
-        }
-      ],
-      "duration_ms": 157096,
-      "name": "something special",
-      "url": "https://open.spotify.com/track/10e9vFUj8aRJItKhhIsmRT"
-    },
-    {
       "added_at": "2022-04-13 19:43:54",
       "album": {
         "name": "Get To Know You",
@@ -3197,24 +3181,20 @@
       "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
     },
     {
-      "added_at": "2021-10-08 04:01:00",
+      "added_at": "2021-09-03 04:01:00",
       "album": {
-        "name": "A Second to Midnight",
-        "url": "https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr"
+        "name": "something special (hi)",
+        "url": "https://open.spotify.com/album/3ym5rYu42SjQOoirjjg8Dy"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "joan",
+          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
         }
       ],
-      "duration_ms": 207986,
-      "name": "A Second to Midnight",
-      "url": "https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9"
+      "duration_ms": 157096,
+      "name": "something special",
+      "url": "https://open.spotify.com/track/10e9vFUj8aRJItKhhIsmRT"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3255,6 +3235,26 @@
       "duration_ms": 165133,
       "name": "Move",
       "url": "https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "A Second to Midnight",
+        "url": "https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "A Second to Midnight",
+      "url": "https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9"
     },
     {
       "added_at": "2021-11-12 05:01:00",

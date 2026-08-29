@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 215263,
       "name": "Come Get This Love",
       "url": "https://open.spotify.com/track/1nog9d1crD4uhMmhD3MVM8"
@@ -2405,6 +2405,28 @@
     },
     {
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/2rj1PUCfImp80DCraAT4RT"
+      },
+      "artists": [
+        {
+          "name": "R3WIRE",
+          "url": "https://open.spotify.com/artist/7fWHxqQznKDOJeJofEjDcn"
+        },
+        {
+          "name": "Glaxxs",
+          "url": "https://open.spotify.com/artist/2fS24qXq5fKHqpREWNxdmH"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/3Fa41YqHS2JYXaoAxurcie"
+    },
+    {
+      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
       },
@@ -2442,7 +2464,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 288000,
       "name": "Control",
       "url": "https://open.spotify.com/track/0R7wuhNYrUebrcHO2WW1SD"
@@ -2589,6 +2611,32 @@
     },
     {
       "album": {
+        "name": "Da Fonk (feat. Joni) [Remixes]",
+        "url": "https://open.spotify.com/album/1M61Gjki5K61x8ceuQB4G1"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Joni",
+          "url": "https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe"
+        },
+        {
+          "name": "Marco Carola",
+          "url": "https://open.spotify.com/artist/2p8O7NCyfWf1sIZamrU9N1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366193,
+      "name": "Da Fonk (feat. Joni) - Marco Carola Bass Mix",
+      "url": "https://open.spotify.com/track/6Nd2wMOkBCLoLjJNzRPjY1"
+    },
+    {
+      "album": {
         "name": "DADDY KEEPS CALLING",
         "url": "https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C"
       },
@@ -2622,7 +2670,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 320000,
       "name": "DAKI DAKI",
       "url": "https://open.spotify.com/track/15qBvmmFhyxnANuuWu9sCg"
@@ -2718,7 +2766,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 217797,
       "name": "Dance Dance Dance!",
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
@@ -4258,7 +4306,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 193846,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5KBmsWg035nZmVpAy9ZpYe"
@@ -4937,6 +4985,24 @@
     },
     {
       "album": {
+        "name": "Here Before",
+        "url": "https://open.spotify.com/album/5rXInLrH3ATcnB4XW6DXxO"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/2OnEIYs6lE6yLRG7yWARmw"
+    },
+    {
+      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13"
       },
@@ -5430,6 +5496,28 @@
       "duration_ms": 150722,
       "name": "I LOVE UR GF",
       "url": "https://open.spotify.com/track/7ybT12xjSu2d1cdeObULHz"
+    },
+    {
+      "album": {
+        "name": "i need u",
+        "url": "https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225017,
+      "name": "i need u",
+      "url": "https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L"
     },
     {
       "album": {
@@ -7766,7 +7854,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 219047,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh"
@@ -7814,6 +7902,32 @@
       "duration_ms": 118352,
       "name": "Never Say Sorry",
       "url": "https://open.spotify.com/track/5A8TdX0A5hKY3B3xmjPgvt"
+    },
+    {
+      "album": {
+        "name": "Night Driver",
+        "url": "https://open.spotify.com/album/487NlisYoDoYRp14Ck1YVL"
+      },
+      "artists": [
+        {
+          "name": "Mariano Mellino",
+          "url": "https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE"
+        },
+        {
+          "name": "Lopezhouse",
+          "url": "https://open.spotify.com/artist/1s9TOnmbJiiToj8Z0WlAcp"
+        },
+        {
+          "name": "Folgar",
+          "url": "https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228442,
+      "name": "Night Driver",
+      "url": "https://open.spotify.com/track/2LZzi5V3eydmkoQqS8gddr"
     },
     {
       "album": {
@@ -8004,7 +8118,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 137674,
       "name": "Not Ready Yet",
       "url": "https://open.spotify.com/track/79a1CHAzJjVDSHiW0BhNmc"
@@ -8282,6 +8396,24 @@
       "duration_ms": 160529,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/254KFvvVq6V53UrSZFJcBy"
+      },
+      "artists": [
+        {
+          "name": "ConKi",
+          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190645,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/5e1i4udpISXoQbYdzkMwBe"
     },
     {
       "album": {
@@ -9493,6 +9625,24 @@
     },
     {
       "album": {
+        "name": "should've never loved you",
+        "url": "https://open.spotify.com/album/03etYh1XvxLoDZyjp5SDYM"
+      },
+      "artists": [
+        {
+          "name": "no regrets",
+          "url": "https://open.spotify.com/artist/6KlQgK8ir1JWhUWizVL7uY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135909,
+      "name": "should've never loved you",
+      "url": "https://open.spotify.com/track/3dlNmJS09ksZN719Eizlx6"
+    },
+    {
+      "album": {
         "name": "Side To Side",
         "url": "https://open.spotify.com/album/3BB35BRE9ky9uVlr6EK7EA"
       },
@@ -9940,7 +10090,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 192073,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0XxReWqJHcR5AhIIb1LVxy"
@@ -12215,6 +12365,24 @@
     },
     {
       "album": {
+        "name": "We Wanna Live",
+        "url": "https://open.spotify.com/album/0nqNlA98FmzH5WvqnVG9Cf"
+      },
+      "artists": [
+        {
+          "name": "Sandals",
+          "url": "https://open.spotify.com/artist/306HCAOWq4c6F45Jdk8DyN"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 730826,
+      "name": "We Wanna Live - DSS Remix",
+      "url": "https://open.spotify.com/track/0OxcwAyWvqGKKFZJfmZ5P9"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
       },
@@ -12274,6 +12442,24 @@
       "duration_ms": 175262,
       "name": "What If It Takes You Away (feat. Malou)",
       "url": "https://open.spotify.com/track/4jRtoUQ5xVNNAxo71Mxh97"
+    },
+    {
+      "album": {
+        "name": "What It Means To Me",
+        "url": "https://open.spotify.com/album/1e2MSsFMxRYt83QiazeeN2"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259475,
+      "name": "What It Means To Me",
+      "url": "https://open.spotify.com/track/1km3BtyHrqMH1KQijG8tvd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,634 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,631 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 53 | [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 |
 | 54 | [光朝](https://open.spotify.com/track/09tkV5i4lWmAVSumsJIsEE) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [空はまるで](https://open.spotify.com/album/3IoDRMDTRFh4HqmhRIrGOJ) | 3:15 |
 | 55 | [6 Years](https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [6 Years](https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM) | 2:42 |
-| 56 | [la misma piedra](https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU) | [Ton Felices](https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [la misma piedra](https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE) | 3:36 |
+| 56 | [junior](https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [jones](https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs) | 4:28 |
 | 57 | [キャンディ](https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 3:46 |
-| 58 | [junior](https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [jones](https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs) | 4:28 |
+| 58 | [la misma piedra](https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU) | [Ton Felices](https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [la misma piedra](https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE) | 3:36 |
 | 59 | [言わせばない](https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [言わせばない](https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR) | 4:56 |
 | 60 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
 | 61 | [Call It A Day](https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [Call It A Day](https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2) | 2:56 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 91 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
 | 92 | [Easy](https://open.spotify.com/track/1gIPa9lKYq33Y7B9bJoBau) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011) | [Easy](https://open.spotify.com/album/2kKGCcO1yYBdkbUMRb2VxJ) | 3:58 |
 | 93 | [Tanana](https://open.spotify.com/track/5U1bU8Km0S3jrMfY0udtsu) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [Clémentine](https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ) | [スタジオ地図 Music Journey Vol\. 2 \- 高木正勝 うたの時間](https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4) | 3:31 |
-| 94 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 |
-| 95 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 |
-| 96 | [pineapple bun](https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [pineapple bun](https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md) | 3:29 |
+| 94 | [pineapple bun](https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [pineapple bun](https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md) | 3:29 |
+| 95 | [君は言うかな](https://open.spotify.com/track/41hpqH0V4sz4FvZ2JOfBDb) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君は言うかな](https://open.spotify.com/album/2RH9084rMEQaLhFSIeEHny) | 4:27 |
+| 96 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 |
 | 97 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 |
 | 98 | [burn blister](https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [burn blister](https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY) | 3:09 |
 | 99 | [Here with me](https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Here with me](https://open.spotify.com/album/5MFOtHKYiQaxG9Ge3M26Zi) | 4:03 |
 | 100 | [Your Light](https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ) | [8WHAT](https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i), [Alisara Arial](https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP), [YiDD](https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk) | [Your Light](https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ) | 2:44 |
 
-Snapshot ID: `AAAAAL915YqNYiQBZS7vsfqjbK66elcx`
+Snapshot ID: `AAAAAJ/XaoIYU8LxbtabuDYMTKhTqohF`

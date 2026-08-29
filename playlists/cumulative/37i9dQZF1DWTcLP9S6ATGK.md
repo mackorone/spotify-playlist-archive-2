@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Whisnu Santika, Judika
 
-1,097 songs - 2 day 23 hr 12 min
+1,098 songs - 2 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/track/7c03QS94XIfcetKSNDhUdd) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Berapa Kali Kita Akan Saling Memaafkan](https://open.spotify.com/album/2fBBeFic82PIPRE9t0zQBX) | 4:44 | 2026-04-09 | 2026-08-14 |
 | [Berdebu Memori](https://open.spotify.com/track/6GlLJjIMdcH1ra9rKTlWxz) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g), [Gabriel Prince](https://open.spotify.com/artist/16l5VqPQtbScYq3mi7wGxg) | [Berdebu Memori](https://open.spotify.com/album/09GTiArJaSBdv6jqsht7wQ) | 4:12 | 2026-07-30 | 2026-08-28 |
 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 | 2025-01-30 | 2025-09-26 |
+| [Berharap](https://open.spotify.com/track/2xewuXavdzmk6yVniNY596) | [Kevin Aprilio](https://open.spotify.com/artist/1JBtcNC11ceVl8JXaR4dbV), [Widy Vierratale](https://open.spotify.com/artist/6ImmfK9kPcIaYcQEiUfEJb) | [Berharap](https://open.spotify.com/album/0nOTBbapQWzdFHZAfiAz9F) | 3:09 | 2026-08-28 |  |
 | [Beri Aku Kesempatan](https://open.spotify.com/track/3yb7fJpijqncdBtr3YDVAT) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Beri Aku Kesempatan](https://open.spotify.com/album/59cuhAWHlkyvRFAiuw3dXJ) | 3:02 | 2025-10-30 | 2025-12-05 |
 | [Berjalan Adanya](https://open.spotify.com/track/6ZLlgoRysbx0XWWRuMWR1N) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Berjalan Adanya](https://open.spotify.com/album/3IEDfeJRAQam1cMQInbqmN) | 4:06 | 2024-08-08 | 2024-10-18 |
 | [Berjauhan Tanpa Kata](https://open.spotify.com/track/1VKEzUHIPbpgo1JgghPyFb) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Berjauhan Tanpa Kata](https://open.spotify.com/album/4hQPIIYb6FSjh6z7QjuWY8) | 3:19 | 2025-04-24 | 2025-05-02 |

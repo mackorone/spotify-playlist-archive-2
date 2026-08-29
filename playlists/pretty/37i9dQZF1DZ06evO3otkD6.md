@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,269 likes - 48 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,303 likes - 48 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 47 | [Sueño de Ti](https://open.spotify.com/track/0lLygnowX78lFphF2235qe) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [MLKMN](https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz) | [Prisma](https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv) | 4:20 |
 | 48 | [Blink Twice \- Dos Veces Remix](https://open.spotify.com/track/6SNHfk6CipQOSALhblynof) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Blink Twice \(Dos Veces Remix\)](https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J) | 2:34 |
 
-Snapshot ID: `ao4sgAAAAADyP/lQDmccRZZTFiMl9id5`
+Snapshot ID: `ao9+AAAAAAAl7zNDdFNeYFiZ97Jze3Cd`

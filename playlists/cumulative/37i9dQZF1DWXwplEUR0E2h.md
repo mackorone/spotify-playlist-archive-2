@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Ryan Castro
 
-274 songs - 14 hr 18 min
+275 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Mi Novio Tiene Novia \- W Sound 02](https://open.spotify.com/track/3tl2XUAf62E3wes6ksknHb) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mi Novio Tiene Novia \(W Sound 02\)](https://open.spotify.com/album/18DIWERxEIXRxekX8aPYMW) | 2:42 | 2024-10-11 | 2025-06-14 |
 | [MIA](https://open.spotify.com/track/728CYlabJRqWZG2er2Trul) | [AGUDELO888](https://open.spotify.com/artist/3awRE6jqoFW9iipvpPTCMM), [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [MIA](https://open.spotify.com/album/6gnfzv42EOXTYWF3ffDtn6) | 3:26 | 2025-06-13 | 2025-09-19 |
 | [Mil Veces](https://open.spotify.com/track/6GYaCM2ILUZAaW62kqI3sK) | [Juan Palacio](https://open.spotify.com/artist/1KTNuIeXk9dBwuqyH7TNXy) | [Mil Veces](https://open.spotify.com/album/7KkxtMpWGKhN71HAKWoiUz) | 2:48 | 2026-06-19 | 2026-08-19 |
+| [mimosa](https://open.spotify.com/track/0fmreURNhbPSNCaFuSrtxO) | [lila sky](https://open.spotify.com/artist/3LsIR9rVSsNmyRYcJOsdyH), [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL) | [mimosa](https://open.spotify.com/album/5X1hoVn2c5yyf3CJBLTMX8) | 2:22 | 2026-08-28 |  |
 | [MIONCA](https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [MIONCA](https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB) | 3:06 | 2024-05-17 | 2024-10-18 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2023-09-30 |  |
 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 | 2023-09-30 |  |

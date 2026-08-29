@@ -4,7 +4,7 @@
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-623 songs - 23 hr 51 min
+627 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Blvck Kat](https://open.spotify.com/track/0Iu9uuTyFis6muasxFY7cV) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Blvck Kat](https://open.spotify.com/album/2sWYPBDHAKJNm8XxsZkLU9) | 3:16 | 2024-01-05 | 2025-08-22 |
 | [Bread & Butter](https://open.spotify.com/track/5MMoO7EoigWtou55ex6E9F) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Bread & Butter](https://open.spotify.com/album/6n8P5Kc8jHe75JUCuaSr9A) | 1:24 | 2024-01-05 | 2025-08-22 |
 | [Breathing](https://open.spotify.com/track/05Ze1zg6BmU0UtLv1upnLb) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Breathing](https://open.spotify.com/album/67LIvPyCZM0V1Lf9EOYm8T) | 2:10 | 2024-01-05 |  |
-| [Brief Stack](https://open.spotify.com/track/2aJ4q1Y7Ks5NMKcLr3DUrZ) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Brief Stack](https://open.spotify.com/album/4eFJkuboRVGp7xYylyRgNQ) | 2:27 | 2024-01-05 |  |
+| [Brief Stack](https://open.spotify.com/track/2aJ4q1Y7Ks5NMKcLr3DUrZ) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Brief Stack](https://open.spotify.com/album/4eFJkuboRVGp7xYylyRgNQ) | 2:27 | 2024-01-05 | 2026-08-29 |
 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 | 2024-01-05 | 2025-05-10 |
 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 | 2024-01-05 | 2025-08-22 |
 | [By The Lake](https://open.spotify.com/track/5pf8OQ19OvfPxhGuLpokXQ) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [By The Lake](https://open.spotify.com/album/5g6ci06rDqKFW03q30m2iS) | 2:09 | 2025-08-21 | 2025-09-26 |
@@ -97,6 +97,7 @@
 | [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2024-01-05 | 2025-12-09 |
 | [catch me](https://open.spotify.com/track/2YWzE3OlGyjqMF33UvIay1) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [catch me](https://open.spotify.com/album/5Ba3nDEnqnkF3Hq2YBIDGy) | 2:31 | 2024-01-05 |  |
 | [Chang](https://open.spotify.com/track/2HgAzyBHR3TGJBpksx3I6L) | [AN99](https://open.spotify.com/artist/6ufkUF0S5027zUcnMvQq0I) | [Chang](https://open.spotify.com/album/7ckxYovGXDYUTtGfgzkKbU) | 1:45 | 2024-03-01 | 2024-11-08 |
+| [Charly](https://open.spotify.com/track/17zajmB2gnQiCPx20NPBRl) | [nurse noir](https://open.spotify.com/artist/3d777CYj1CxUWukg7Btbxm) | [Charly](https://open.spotify.com/album/1VBh4Dcp8rnrmmzhk5xwDD) | 2:19 | 2026-08-28 |  |
 | [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2024-01-05 | 2025-01-01 |
 | [Cherries and Blossoms](https://open.spotify.com/track/56cMel1zfzxtK41JFABVKV) | [Aiko Ai](https://open.spotify.com/artist/4ifCvddHRxg397i6vjqwby) | [Cherries and Blossoms](https://open.spotify.com/album/1JJFpT7M1xqL6DCa7kp2GW) | 1:43 | 2024-01-05 | 2025-08-22 |
 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 | 2024-01-05 |  |
@@ -176,9 +177,11 @@
 | [faster](https://open.spotify.com/track/5QN0VL4Zthy2vdMpXzMDR7) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [faster](https://open.spotify.com/album/0an1ldE8K3dZ61nvVhC8QN) | 2:34 | 2024-01-05 | 2025-08-22 |
 | [fight the flab](https://open.spotify.com/track/5NkFP4QgCvAA050xLpTxBk) | [teen mtnt](https://open.spotify.com/artist/1ALWskzFjZDKZiaBNigjr4) | [fight the flab](https://open.spotify.com/album/1aCURXh2Alk0Uj1Yw39CYY) | 2:19 | 2024-01-05 | 2025-08-22 |
 | [Filter FFP4](https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Filter FFP4](https://open.spotify.com/album/4MkKgGIsJONe4nsXWnbEEf) | 1:55 | 2024-01-05 | 2025-08-22 |
+| [fireflies](https://open.spotify.com/track/2ysRTsqiXpcYaE5MMNQIbe) | [idle hrs](https://open.spotify.com/artist/4HrVlP6B7WhPbiw5uJW1Wt) | [fireflies](https://open.spotify.com/album/0ndMlb3FqD1ny6gv4t74ZO) | 2:03 | 2026-08-28 |  |
 | [first things first](https://open.spotify.com/track/1wEpA0CBRytqdJQcNT4UZB) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [first things first](https://open.spotify.com/album/1eox4CtQHP36x9RuByM2kW) | 2:11 | 2024-01-05 | 2025-12-09 |
 | [First Things First](https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [First Things First](https://open.spotify.com/album/26GxtM80uLUiS82C069HQm) | 2:06 | 2024-11-07 | 2025-08-22 |
 | [Flattery](https://open.spotify.com/track/0EZzvnbBEDGBjaQRseSrbf) | [The Modern Zolo](https://open.spotify.com/artist/566dcTwvUwHWNp2bThMR3f) | [After Life](https://open.spotify.com/album/1pyFsXsMNGOaRzBPQtZLdQ) | 2:00 | 2024-01-05 | 2025-08-22 |
+| [Flave](https://open.spotify.com/track/69AT3zGrT8dl2hSQPActta) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Flave](https://open.spotify.com/album/6OsJChadFmEpixefGaA6uw) | 2:00 | 2026-08-28 |  |
 | [Flexible Funk](https://open.spotify.com/track/70hHzMEeNshCpPdLKJQZPj) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Flexible Funk](https://open.spotify.com/album/4WF3YNB4hocJ2aw04TeyGj) | 1:34 | 2024-01-05 | 2025-04-05 |
 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 | 2024-01-05 |  |
 | [Flow State](https://open.spotify.com/track/71XyPCA7lYpu2IH6OVGlvr) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Flow State](https://open.spotify.com/album/1yvMQPDOZUWcojv5pk8133) | 2:38 | 2024-01-05 | 2025-09-26 |
@@ -266,7 +269,7 @@
 | [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2024-01-05 | 2025-05-10 |
 | [in the shadows](https://open.spotify.com/track/26Wu26lCBd5Pf5bMyhlDPP) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [in the shadows](https://open.spotify.com/album/1aJZsbwArORSxptMMAsksU) | 2:29 | 2024-02-09 | 2025-09-26 |
 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2024-01-05 |  |
-| [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2024-01-05 |  |
+| [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2024-01-05 | 2026-08-29 |
 | [Inspired](https://open.spotify.com/track/7FtklceBvMCY4Fju8qATUH) | [Flying Fruits](https://open.spotify.com/artist/6sVtAx9fJjuO2RSlJlN7fq) | [Inspired](https://open.spotify.com/album/2TTKmkQ72n4DRtLJWx9kZm) | 1:40 | 2024-03-01 | 2025-04-05 |
 | [Iron Pan Love](https://open.spotify.com/track/3Gf8p9tWhMqE1pTiCXBoAo) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Iron Pan Love](https://open.spotify.com/album/1FdWrYSVPdYzE1WK9LpDTc) | 2:01 | 2024-01-05 | 2025-08-22 |
 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 | 2024-07-19 | 2024-07-27 |
@@ -351,7 +354,7 @@
 | [Memory Lane](https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Memory Lane](https://open.spotify.com/album/280ABIKRcVoUXHuuPC5MGv) | 1:56 | 2024-01-05 | 2025-08-22 |
 | [Meowtown](https://open.spotify.com/track/6Pm9etykP81ZPhwztUv8LQ) | [Kissa Kat](https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL) | [Meowtown](https://open.spotify.com/album/5rJarXsGwgOGGcUgTiItZn) | 2:28 | 2024-01-18 | 2025-08-22 |
 | [Midnight Vibes](https://open.spotify.com/track/4tdzoOabbIog8LgFQEVZpv) | [RC Jay](https://open.spotify.com/artist/7a8SlbNNbqQW2kXkoGlkr2) | [Midnight Vibes](https://open.spotify.com/album/2ygtwvjYljWpHxtM5UdwNP) | 2:10 | 2024-01-05 | 2025-08-22 |
-| [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 | 2024-01-05 |  |
+| [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 | 2024-01-05 | 2026-08-29 |
 | [Mindchatter](https://open.spotify.com/track/5vKh3U5WDmo7X8aPcVDIFV) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Mindchatter](https://open.spotify.com/album/0H8r0Cq6xlAg0JvqOfiMuT) | 2:05 | 2024-01-05 | 2025-12-09 |
 | [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 | 2024-01-05 |  |
 | [Miss Blue](https://open.spotify.com/track/5MJfUP3yb2DNxGs88epnBY) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Miss Blue](https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7) | 2:57 | 2024-01-05 |  |
@@ -430,7 +433,7 @@
 | [Pendulum](https://open.spotify.com/track/2LB3xquVei6eQEJYSofh0z) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Pendulum](https://open.spotify.com/album/7yTNsaO89jgkGBajDI3r9y) | 2:15 | 2024-01-05 | 2025-08-22 |
 | [Periodical](https://open.spotify.com/track/1lAJMJ01FU1RibQigO6RQ1) | [GoldFuzion](https://open.spotify.com/artist/4PLfIjxmgFV3L62gIpMjvd) | [Periodical](https://open.spotify.com/album/4Ba1rWftGBXNSj4ZXLY4H6) | 2:08 | 2024-01-05 | 2025-08-22 |
 | [petal](https://open.spotify.com/track/3dkGPR1S8xKvV9RwmII3Mp) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [petal](https://open.spotify.com/album/4n6F9v7ajeO9Fp6lmFeLnH) | 2:01 | 2024-01-05 | 2025-08-22 |
-| [Peter Ran](https://open.spotify.com/track/0WLk5AGaZMeiQSRInu129w) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Peter Ran](https://open.spotify.com/album/6PBbVsmxuTSPiSb9urnRXp) | 2:21 | 2024-01-05 |  |
+| [Peter Ran](https://open.spotify.com/track/0WLk5AGaZMeiQSRInu129w) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Peter Ran](https://open.spotify.com/album/6PBbVsmxuTSPiSb9urnRXp) | 2:21 | 2024-01-05 | 2026-08-29 |
 | [Petula Thomas](https://open.spotify.com/track/34buaMEM4YjE8xsbX1L7PL) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Angels Below](https://open.spotify.com/album/3nkx7BWx32cqXUVIrKEQwv) | 2:28 | 2024-01-05 | 2025-09-26 |
 | [Photograf Of My Room](https://open.spotify.com/track/4o16Tg4phbklKHbEMFAd7Z) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Photograf Of My Room](https://open.spotify.com/album/0KPJZONq3IMzxa4smUXq5Q) | 2:02 | 2024-03-01 | 2025-04-05 |
 | [Phunk dilla](https://open.spotify.com/track/2dOCWgcDWcxpWq2VwmYDQE) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Phunk Dilla](https://open.spotify.com/album/09RnXYULh66hA5vyrafMmF) | 2:24 | 2024-01-05 | 2024-06-22 |
@@ -444,7 +447,7 @@
 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 | 2024-02-23 | 2025-09-26 |
 | [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 | 2024-01-05 |  |
 | [Proletarian](https://open.spotify.com/track/6eFrj1ET7RnXJ1yoijLtmy) | [Mr Clyde](https://open.spotify.com/artist/1opBFPwxKU6AtV79qj6wby) | [Proletarian](https://open.spotify.com/album/1tRUkbUU72JPWg5eDes1ne) | 1:06 | 2024-03-01 | 2024-07-27 |
-| [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2024-01-05 |  |
+| [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 | 2024-01-05 | 2026-08-29 |
 | [Purified Soul](https://open.spotify.com/track/2JGKpdMtspPxONj1xJYwS1) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Purified Soul & Refreshing Air](https://open.spotify.com/album/0GIIExJeHSE5hR32lBLnVi) | 3:12 | 2024-01-05 | 2025-08-22 |
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2024-01-05 | 2025-08-22 |
 | [purpose](https://open.spotify.com/track/3PTOLEY1ePZC1jEIXVsKUF) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [purpose](https://open.spotify.com/album/3zKixwSv83Sho0KtDRteju) | 2:24 | 2024-03-01 | 2025-12-09 |
@@ -479,6 +482,7 @@
 | [Seattle](https://open.spotify.com/track/6OXNET31Fn6HyFBwVz8f1Y) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Seattle](https://open.spotify.com/album/7z312yRo96Kz4FmncwfLjB) | 2:21 | 2024-01-05 | 2025-08-22 |
 | [Selfcare](https://open.spotify.com/track/0F6Irj8z2glFrxpthcMLxQ) | [its\-ya\-boi](https://open.spotify.com/artist/1FbBiHKRJo32d7cDKVXkqK) | [Selfcare](https://open.spotify.com/album/5ZHAHgKGMMU6FrH5j0S9ew) | 2:38 | 2025-04-04 | 2025-08-22 |
 | [September](https://open.spotify.com/track/7uu7u0v9IOOvDFpab8Yf6t) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Boss Hogg](https://open.spotify.com/album/59CYVZphliSm8ekQ6z1jP5) | 1:46 | 2024-01-05 | 2025-12-09 |
+| [Serene](https://open.spotify.com/track/6rRqi5PccEj7r6fMry7kZG) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Serene](https://open.spotify.com/album/0qF8lclwLcRP36Guf9VvWc) | 2:19 | 2026-08-28 |  |
 | [series one](https://open.spotify.com/track/7euY11C8aJF0cCTL4nqJxn) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [series one](https://open.spotify.com/album/2P6V6lLhsY74iDGlhBSYpW) | 2:31 | 2024-01-05 | 2025-08-22 |
 | [seven](https://open.spotify.com/track/0x5lZBgd6EekTwkTGVGE7M) | [Praizee](https://open.spotify.com/artist/04zAPci2CXOZnrVNw9PWaC) | [seven](https://open.spotify.com/album/2kbVdVtXdNRlDg8gUbOmJ2) | 2:36 | 2024-01-05 | 2025-03-22 |
 | [Shade](https://open.spotify.com/track/1KDSYqKNzT5uo6aHDL88vC) | [Dippie Moon](https://open.spotify.com/artist/5c764NOMWRwarAlKX2Dd8L) | [Shade](https://open.spotify.com/album/2b5gBLg7rnvm78UE3amQk7) | 2:00 | 2024-01-05 | 2025-03-22 |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 533366,
+  "num_followers": 533376,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMtqqqY9UKmCvhF05eRy4HGMYlKa",
+  "snapshot_id": "AAAAAC6AxQXxenOrMqCFPCverJImq0GU",
   "tracks": [
     {
       "added_at": "2023-08-25 09:30:35",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Alors on danse - Radio Edit",
+      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Alors on danse - Radio Edit",
-      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 227073,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "18 Months",
         "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
       },
@@ -443,26 +443,6 @@
       "duration_ms": 234506,
       "name": "I Need Your Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -487,26 +467,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 194840,
-      "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
-      "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -531,6 +507,30 @@
       "duration_ms": 203000,
       "name": "More Than You Know",
       "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
+      "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 208133,
       "name": "Without You (feat. Usher)",
       "url": "https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Wish You Were Mine",
-        "url": "https://open.spotify.com/album/0iAuPLI4L4n6lpv3YGMnWU"
-      },
-      "artists": [
-        {
-          "name": "Philip George",
-          "url": "https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Wish You Were Mine - Radio Edit",
-      "url": "https://open.spotify.com/track/412luShbmlgqqgYFStIB1s"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 154226,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Wish You Were Mine",
+        "url": "https://open.spotify.com/album/0iAuPLI4L4n6lpv3YGMnWU"
+      },
+      "artists": [
+        {
+          "name": "Philip George",
+          "url": "https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Wish You Were Mine - Radio Edit",
+      "url": "https://open.spotify.com/track/412luShbmlgqqgYFStIB1s"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1463,26 +1463,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
+        "name": "Born To Be Yours",
+        "url": "https://open.spotify.com/album/31J0UqxAkl9utyC0L59Mae"
       },
       "artists": [
         {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 254653,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/4b2tcjrG1qUkSdsqEFP2dB"
+      "duration_ms": 193320,
+      "name": "Born To Be Yours",
+      "url": "https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1507,22 +1503,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Born To Be Yours",
-        "url": "https://open.spotify.com/album/31J0UqxAkl9utyC0L59Mae"
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
         },
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
         }
       ],
-      "duration_ms": 193320,
-      "name": "Born To Be Yours",
-      "url": "https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM"
+      "duration_ms": 254653,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/4b2tcjrG1qUkSdsqEFP2dB"
     },
     {
       "added_at": "2023-08-25 09:30:35",

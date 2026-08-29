@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,061 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,057 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 59 | [道草](https://open.spotify.com/track/3dyNDrWUWPPpjBOn3Pk6iZ) | [スーパー登山部](https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9) | [道草](https://open.spotify.com/album/3cbsLKhLkthdr5VJKkBqob) | 3:11 |
 | 60 | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3) | 3:37 |
 
-Snapshot ID: `AAAAAJN/i3s4ieyNicnCczWIBY3dKYem`
+Snapshot ID: `AAAAAEg2NNra3yzCNNay5+c66Kbm1XDL`

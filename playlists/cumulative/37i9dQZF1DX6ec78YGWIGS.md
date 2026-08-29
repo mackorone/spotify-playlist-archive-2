@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Angela Torres
 
-534 songs - 1 day 2 hr 22 min
+535 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [misteriosa \(xulinho\)](https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [misteriosa \(xulinho\)](https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1) | 3:15 | 2024-08-23 | 2024-10-12 |
 | [mitad](https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [mitad](https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp) | 2:52 | 2024-03-08 | 2024-07-13 |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2023-05-12 | 2023-07-14 |
+| [money in my bag](https://open.spotify.com/track/1lnn3kYK8NdLupdavcQLmQ) | [Natán](https://open.spotify.com/artist/0E9SrOvn3lOYk15neJW2Lb) | [money in my bag](https://open.spotify.com/album/4DmQA5s0Xb8bKX1bQHoGvY) | 2:04 | 2026-08-28 |  |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2023-05-12 | 2023-06-10 |
 | [Montecarlo](https://open.spotify.com/track/0I0EAJKaGTSxdfMJhZqus7) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Montecarlo](https://open.spotify.com/album/2iPfnIv70XYMxlJdZr8mpZ) | 2:51 | 2024-11-29 | 2025-07-25 |
 | [Moon](https://open.spotify.com/track/1tosKE9RoZJeEmWJlhhZUv) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Moon](https://open.spotify.com/album/57uuWnwvILadWNMwTVOdZY) | 2:47 | 2023-05-12 | 2023-07-01 |

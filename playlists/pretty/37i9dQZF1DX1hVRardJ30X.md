@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by YOSHI & Jesse Baez, Natanael Cano, Clarent & Omar Courtz, Wisin & Ivy Queen & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,627 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,732 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 33 | [Velas y Champagne](https://open.spotify.com/track/5tAO8A2erZ9CoSF4fCOCZL) | [Jorge Morales El Jilguero](https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [FKNN Corazon](https://open.spotify.com/album/0WgWcRS2HKVgUGQaW3AKWT) | 3:15 |
 | 34 | [CAMIONETA](https://open.spotify.com/track/3JptJPIO9qO2CBsgOh6lYU) | [Sam Eli](https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG) | [CAMIONETA](https://open.spotify.com/album/5OKKOjixzfh9rjgMz3UIrW) | 2:34 |
 | 35 | [CARA LAVADA](https://open.spotify.com/track/40b2cLXLnw0ta5fqPMvKPv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [CARA LAVADA](https://open.spotify.com/album/67mpE7j6NUIZjL6pbnzzWj) | 3:06 |
-| 36 | [PARAMICORAZON:](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON:](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
+| 36 | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
 | 37 | [pedazos de mi](https://open.spotify.com/track/076uPUEVkZlwGQf2PNBcLq) | [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [duele más cada vez que duele menos](https://open.spotify.com/album/5GA49bnAwvGu3hYhMSQOD4) | 3:09 |
 | 38 | [CRUZ](https://open.spotify.com/track/47KOrBoXsYP9nhOUQi6BWz) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Jhoni](https://open.spotify.com/artist/38dLFB2qWMHGgmRUlZAe47) | [CRUZ](https://open.spotify.com/album/7s3sSR4iGRM4lpzEnxYRMy) | 2:00 |
 | 39 | [VIAJE DE IDA](https://open.spotify.com/track/4oohl0TadKcQKm2J0zBmip) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [VIAJE DE IDA](https://open.spotify.com/album/6kf6WGzdT5ce45lsImaCLh) | 1:50 |
 | 40 | [Me Enamoró](https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8) | [Osman Música](https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC) | [Me Enamoró](https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf) | 2:34 |
 
-Snapshot ID: `AAAAABk8rdvopvYPUBlJ3cqC9cLQErBn`
+Snapshot ID: `AAAAAP+UbgXWrAQQgQjRZHokztsyRFje`

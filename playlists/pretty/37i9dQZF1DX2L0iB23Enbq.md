@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 
 > Viral, trending and taking off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,254,405 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,254,112 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2L0iB23Enbq.md) - [plain]
 | 49 | [RICHMAN](https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [WANT](https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm) | 3:19 |
 | 50 | [misery.](https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY) | [pupsies](https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm) | [misery.](https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2) | 2:46 |
 
-Snapshot ID: `AAAAAE8F81/vbborKytC4lSn2fR6WOdr`
+Snapshot ID: `AAAAAPcAqFZD32tSvBEMrATqlrPfaxb4`

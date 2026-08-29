@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,660 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,651 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 33 | [Never Felt This Way](https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 5:35 |
 | 34 | [Still](https://open.spotify.com/track/36tR7kGlYwgi9IWpuUSbp1) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:50 |
 | 35 | [Lovin U](https://open.spotify.com/track/5WTkxsVu35amucxPu4wi9b) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:48 |
-| 36 | [Say So](https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Say So](https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq) | 3:32 |
-| 37 | [All I Ever Think About](https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Epiphany](https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN) | 3:40 |
+| 36 | [All I Ever Think About](https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Epiphany](https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN) | 3:40 |
+| 37 | [Say So](https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Say So](https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq) | 3:32 |
 | 38 | [The Ingredients Of Love \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:56 |
 | 39 | [Lovin' You](https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 5:17 |
 | 40 | [Let's Stay Together \- Midnight Mix](https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 49 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
 | 50 | [THIS COULD BE US](https://open.spotify.com/track/0miHCBjdt3mvJAKQGnS22b) | [The PLAYlist](https://open.spotify.com/artist/1nSfOAkqOqmmnCY6OfoPS5), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Chasing Goosebumps](https://open.spotify.com/album/2bwJ67gJzPogCpCIglLi2H) | 4:18 |
 
-Snapshot ID: `AAAAAMDXhhVQb5SX96J+bPMbbkHW2CDF`
+Snapshot ID: `AAAAADy9Piu7u95T3EqvfOGHyElpJCM5`

@@ -2,9 +2,9 @@
 
 ### [RADAR Brasil](https://open.spotify.com/playlist/37i9dQZF1DWTVE8ZCcLQ5Q)
 
-> Bruna Lipiani e novos talentos do Brasil\. Dê play no futuro.
+> Kouth e e outros artistas diferenciados estão no nosso RADAR.
 
-476 songs - 23 hr 36 min
+478 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Sorte Ou Destino](https://open.spotify.com/track/4psWINtVGZsaeIMnMMbioJ) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Sorte Ou Destino](https://open.spotify.com/album/3pr3NteIF17LVr6xrauydr) | 2:55 | 2021-11-19 | 2022-02-12 |
 | [Sozinho](https://open.spotify.com/track/0nNYbrbitdEFOOdDaWfAca) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Sozinho](https://open.spotify.com/album/6PkMsrQPEEzVor6iq8G7aT) | 2:36 | 2024-05-02 | 2025-04-16 |
 | [Splash](https://open.spotify.com/track/0MiKYMb1Xl8IKdPhX7FY42) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Splash](https://open.spotify.com/album/4SWhKicqhmRaAICmYGfzsM) | 2:48 | 2024-05-02 | 2025-04-16 |
+| [STAGE DIVING](https://open.spotify.com/track/6Ul0UJcOtYm6WmW6pkvLIa) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Necroez](https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ) | [DIÁRIO DE UMA GAROTA SUBVERSIVA \(DELUXE\)](https://open.spotify.com/album/1yq6Lc1lFmXLscGO6kvQ5z) | 2:59 | 2026-08-28 |  |
 | [Sua voz é casa](https://open.spotify.com/track/7mdp1S8HZPBe5JJG29Ycms) | [Bemquerê](https://open.spotify.com/artist/5PjiW9pnze1JE3UNbp9VJU) | [Sua voz é casa](https://open.spotify.com/album/6hMSYXfzLMVY7Cw3r36UBX) | 2:33 | 2026-05-06 |  |
 | [Suor e Sossego \- Ao Vivo](https://open.spotify.com/track/6uW4awqaCIK6GZ0i4dwMjo) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin \(Ao Vivo\)](https://open.spotify.com/album/57BbZLpiOLdCOz3pMmIxbu) | 2:33 | 2026-05-06 |  |
 | [Surra De Hãn](https://open.spotify.com/track/4X3mB2pXjhLYl5ssBsovpG) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [MAGNÉTICO](https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG) | 2:43 | 2024-05-02 | 2025-04-16 |
@@ -483,6 +484,7 @@
 | [Yamaha](https://open.spotify.com/track/3UQwJndjyZtfqKe4HKRSMU) | [Ciana](https://open.spotify.com/artist/2YUZgtzQwtoPYnENthHU8f) | [Yamaha](https://open.spotify.com/album/5vkY5ciGlzxpJhAjGB6Cf3) | 3:07 | 2022-02-14 | 2022-07-29 |
 | [Zero Zero](https://open.spotify.com/track/0FnWtGORbAVaJ6VMfRuymK) | [Brenu](https://open.spotify.com/artist/5MiTkJ4H1ELFFLNSU149Uv), [Relikia](https://open.spotify.com/artist/6W87gpXtGPtbgQer83mS2J), [Subsolo](https://open.spotify.com/artist/68u9LcXws8gMwc6BoPyJtm), [LEON PX](https://open.spotify.com/artist/4x6FtbtAEHbc2Tm5P8aDBD) | [Mixtape 2025'S](https://open.spotify.com/album/1Pi2QHOml84wIC7ADjfW4Z) | 3:16 | 2025-04-15 | 2026-05-07 |
 | [ÁREA DE RISCO \(feat\. Tasha & Tracie\)](https://open.spotify.com/track/3LOE3USq9MD6a92KK37Ax1) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [JOVEM OG](https://open.spotify.com/album/62rhAAgqTCXMeM5xXGOXMJ) | 3:50 | 2021-11-19 | 2022-02-03 |
+| [ÍCONE FASHION \- Remix](https://open.spotify.com/track/47SzUXU4kpNrR8HtftdLVu) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [DIÁRIO DE UMA GAROTA SUBVERSIVA \(DELUXE\)](https://open.spotify.com/album/1yq6Lc1lFmXLscGO6kvQ5z) | 2:39 | 2026-08-28 |  |
 | [Ô Moça](https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Ô Moça](https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6) | 3:00 | 2021-11-19 | 2022-02-15 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

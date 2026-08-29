@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 280320,
       "name": "Abantu Bam",
       "url": "https://open.spotify.com/track/0UwENEL1GkvnoxHqT1Wv8q"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 156018,
       "name": "Amasosha",
       "url": "https://open.spotify.com/track/3T7oE9TuoP5Bi3sYeNtMUI"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 239804,
       "name": "Amayeyeye",
       "url": "https://open.spotify.com/track/7xQ5EqFC2BZXYXw6nr0WCa"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 204062,
       "name": "Angeke",
       "url": "https://open.spotify.com/track/33ap6NMDFAAgebIlBe9D6f"
@@ -2631,6 +2631,28 @@
     },
     {
       "album": {
+        "name": "Dedela",
+        "url": "https://open.spotify.com/album/2teIbqn8UK4UPHih8v7FG5"
+      },
+      "artists": [
+        {
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
+        },
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232384,
+      "name": "Dedela",
+      "url": "https://open.spotify.com/track/3dyGZeIOdg52yqI10WqkWN"
+    },
+    {
+      "album": {
         "name": "Deliverance",
         "url": "https://open.spotify.com/album/2awBgbqJroUjLjWB6CIDFB"
       },
@@ -2858,7 +2880,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 249000,
       "name": "Dubai 2.0",
       "url": "https://open.spotify.com/track/7Bi0Rt3lUshalz9sHFunqf"
@@ -3424,7 +3446,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 211487,
       "name": "Eyokuza (feat. Anele & Fokza Joat)",
       "url": "https://open.spotify.com/track/5thG18z6SwdDWvYn86G7DI"
@@ -3830,7 +3852,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 204068,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/6LD23718ptbF2UipIVjoaN"
@@ -5246,6 +5268,24 @@
     {
       "album": {
         "name": "Indlela",
+        "url": "https://open.spotify.com/album/59NY0i8MgMP4JjijQCDosy"
+      },
+      "artists": [
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214128,
+      "name": "Indlela",
+      "url": "https://open.spotify.com/track/0N28AEFORE5Sy1ipduBpEt"
+    },
+    {
+      "album": {
+        "name": "Indlela",
         "url": "https://open.spotify.com/album/5BCLoOkSDgxLnSb7WnfAV0"
       },
       "artists": [
@@ -5868,6 +5908,28 @@
       "duration_ms": 159999,
       "name": "Isimilo",
       "url": "https://open.spotify.com/track/5njbGaMKH2Pq4cXk6cdu7I"
+    },
+    {
+      "album": {
+        "name": "Isimo Sami 2.0 Revisit",
+        "url": "https://open.spotify.com/album/5IvrIVAh3f4LHwfj9ESV7l"
+      },
+      "artists": [
+        {
+          "name": "UMatollgate",
+          "url": "https://open.spotify.com/artist/0TtLcYUD2r9OIGDNDRC2rZ"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266840,
+      "name": "Isimo Sami 2.0 Revisit",
+      "url": "https://open.spotify.com/track/2dSfgETHrl09a42PqfzEUf"
     },
     {
       "album": {
@@ -8527,6 +8589,32 @@
     },
     {
       "album": {
+        "name": "Mangicabanga Ngawe",
+        "url": "https://open.spotify.com/album/0xQ7ZIZEgw9YXNM0xAJ2jA"
+      },
+      "artists": [
+        {
+          "name": "Sbahle",
+          "url": "https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5"
+        },
+        {
+          "name": "Thandorh",
+          "url": "https://open.spotify.com/artist/7zkK4WptG6YKRW83micyad"
+        },
+        {
+          "name": "Aneh C",
+          "url": "https://open.spotify.com/artist/4DT0G6Rety3qyFkDJuVRTp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192071,
+      "name": "Mangicabanga Ngawe",
+      "url": "https://open.spotify.com/track/4fNzPfuRU4RPfiUr4MMMLQ"
+    },
+    {
+      "album": {
         "name": "Son of Elvis",
         "url": "https://open.spotify.com/album/4d2zcshoD27NGmfXUaiTlP"
       },
@@ -9120,7 +9208,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 234000,
       "name": "Muntu Wami",
       "url": "https://open.spotify.com/track/29i0sPGkNsyZJdsG92Cyht"
@@ -9690,7 +9778,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 224000,
       "name": "Ngamamenemene",
       "url": "https://open.spotify.com/track/7eQMLvL6Ru8yD2SrNTLtbY"
@@ -9814,7 +9902,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 156000,
       "name": "Ngibongiseni",
       "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
@@ -10538,7 +10626,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 246183,
       "name": "Nhliziyo Yami",
       "url": "https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk"
@@ -11008,6 +11096,28 @@
       "duration_ms": 174000,
       "name": "Ntombazana",
       "url": "https://open.spotify.com/track/6fJlDSuDWB6YEtY9GwtUr4"
+    },
+    {
+      "album": {
+        "name": "Ntombi YomSotho",
+        "url": "https://open.spotify.com/album/5OWa7YwEt4EpMNYpnffd9C"
+      },
+      "artists": [
+        {
+          "name": "Sqiniseko SqinQ",
+          "url": "https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ"
+        },
+        {
+          "name": "Danya Devs",
+          "url": "https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247619,
+      "name": "Ntombi YomSotho",
+      "url": "https://open.spotify.com/track/4bSpLUkOha2SlMIrg2yOl5"
     },
     {
       "album": {

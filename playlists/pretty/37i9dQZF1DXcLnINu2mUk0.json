@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADckTfBDWf5rKrlnN+rPhYs9dzDx",
+  "snapshot_id": "AAAAAI3mZPgFbpmZZQeeAKqRuwR9swbd",
   "tracks": [
     {
       "added_at": "2026-08-27 23:00:50",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2026-08-27 23:00:50",
       "album": {
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
+    },
+    {
+      "added_at": "2026-08-27 23:00:50",
+      "album": {
         "name": "coca cola",
         "url": "https://open.spotify.com/album/6mxgIkGMNOlKIncNA5pX2G"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 219175,
       "name": "coca cola",
       "url": "https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT"
-    },
-    {
-      "added_at": "2026-08-27 23:00:50",
-      "album": {
-        "name": "Perfume (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2026-08-27 23:00:50",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-08-27 23:00:50",
       "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "\u00c0 Procura",
-      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
-    },
-    {
-      "added_at": "2026-08-27 23:00:50",
-      "album": {
         "name": "Barco",
         "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 216556,
       "name": "Barco",
       "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
+    },
+    {
+      "added_at": "2026-08-27 23:00:50",
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "\u00c0 Procura",
+      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
     }
   ],
   "unique_name": "Seda",

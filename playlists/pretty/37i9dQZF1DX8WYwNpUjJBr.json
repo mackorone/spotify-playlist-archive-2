@@ -1,12 +1,12 @@
 {
   "description": "\uc720\uc800\ubcc4 \ub9de\ucda4\uc73c\ub85c \ud31d \uc74c\uc545\ub4e4\uc744 \ucd94\ucc9c\ud574 \ub4dc\ub9bd\ub2c8\ub2e4.",
-  "num_followers": 76189,
+  "num_followers": 76209,
   "original_name": "Pop \ud130\uc9c0\ub294 \ud31d\ucf58 \ud55c \uc785",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAXbg9GiwoevneDWDBFQE+7c63J9",
+  "snapshot_id": "AAAAAJS2hj1tXChD3eYP3PKt6dl4IuNs",
   "tracks": [
     {
       "added_at": "2026-07-03 07:24:14",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-07-03 07:24:14",
       "album": {
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "added_at": "2026-07-03 07:24:14",
+      "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2026-07-03 07:24:14",
-      "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
       "added_at": "2026-07-03 07:24:14",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-07-03 07:24:14",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2026-07-03 07:24:14",
-      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2026-07-03 07:24:14",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2026-07-03 07:24:14",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-03 07:24:14",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
-    },
-    {
-      "added_at": "2026-07-03 07:24:14",
-      "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
+    },
+    {
+      "added_at": "2026-07-03 07:24:14",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
       "added_at": "2026-07-03 07:24:14",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-07-03 07:24:14",
       "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
-      "added_at": "2026-07-03 07:24:14",
-      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2026-07-03 07:24:14",
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "added_at": "2026-07-03 07:24:14",

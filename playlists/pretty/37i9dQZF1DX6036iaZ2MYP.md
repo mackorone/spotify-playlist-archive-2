@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 ### [Afro Station](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover:   Mauvais Djo
+> Tracks popping off in the Afro scene\. Cover:   Mauvais djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,188 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,407 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/770KUfsvpJLcWqFv96JgM6), [Anderson](https://open.spotify.com/artist/1WrqscQTSOcBLyjIv5Qz6H) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 |
+| 1 | [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP), [Anderson](https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 |
 | 2 | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA) | 2:38 |
 | 3 | [Malaise](https://open.spotify.com/track/1u80lk7PSZDRo25cQfew2t) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [Malaise](https://open.spotify.com/album/3hU2vbR7bG2qpRlPXsib1F) | 2:19 |
 | 4 | [2FRESH](https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:34 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 14 | [HELLOW](https://open.spotify.com/track/4SflWbTGSxuuZVihqZnoKo) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [HELLOW](https://open.spotify.com/album/1f5syRhp4ZgXlfq737m0e2) | 2:20 |
 | 15 | [FRE$H](https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [FRE$H](https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3) | 2:18 |
 | 16 | [Tu danses pas tu bois pas](https://open.spotify.com/track/20TUbbBCFlJr7oar6IiNdB) | [La Traine](https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Tu danses pas tu bois pas](https://open.spotify.com/album/4yZu1QWbLL4XoeL2Lemtz0) | 2:36 |
-| 17 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 |
+| 17 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 18 | [ONE MORE TIME](https://open.spotify.com/track/42OPNneDjwPmBsm0Et8vaC) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [S.O.S \(Save Our Summer\)](https://open.spotify.com/album/2Eu5TBvImBDuslBP3KYoeE) | 2:44 |
 | 19 | [Dantata](https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Dantata](https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn) | 2:51 |
 | 20 | [Kilomètres](https://open.spotify.com/track/6qkGS6EK6PPk4e6IIfBZQi) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Kilomètres](https://open.spotify.com/album/3Fo19HUYgagNhUbZo6q9VV) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Can You Stay](https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:54 |
 | 50 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
 
-Snapshot ID: `AAAAAKKjV6eCIY0vm4acaaSox1AbCaVs`
+Snapshot ID: `AAAAABhcSie6KIhjlyrFQxKYmOB5qYKz`

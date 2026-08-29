@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,180 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,237 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Oh my god](https://open.spotify.com/track/32TyEa7PkqtZp7GMRaTO6k) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Oh my god](https://open.spotify.com/album/3Md41qoyHYFo2uPS56SEud) | 2:15 |
 | 40 | [Soir](https://open.spotify.com/track/4ZE549LjUxCk0d9OTasc99) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [WONDERSUMMER](https://open.spotify.com/album/7rs9gnSL0Jt5vve7D43wf0) | 2:15 |
 
-Snapshot ID: `AAAAAGt1SDmUtuOAyAIN4L/a3L1vAxkg`
+Snapshot ID: `AAAAAEsjmf0YItO2u1UtOmM3k5Vb6vke`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,418 likes - 75 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,429 likes - 75 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 40 | [Hate It Or Love It](https://open.spotify.com/track/7CTBE7KWgRWRxrjNVf8Iom) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Hate It Or Love It](https://open.spotify.com/album/0SUSpa6G2zjytaV0TbOonQ) | 6:18 |
 | 41 | [Kaleidoscope](https://open.spotify.com/track/20tsqOUnmxpTtWP5SWehfq) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Dulus](https://open.spotify.com/artist/6HqASwlS6PmHBYU3avHe15) | [Kaleidoscope](https://open.spotify.com/album/31dJzsJ6wnvLzLnku4vMnp) | 3:20 |
 | 42 | [Les Saints](https://open.spotify.com/track/7d6YuyqinXLrrHDr3TeI80) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Les Saints EP](https://open.spotify.com/album/2Y4EGwtRPTe63PGNeulR44) | 5:16 |
-| 43 | [Ezizweni \(Nitefreak Remix\)](https://open.spotify.com/track/7HewQPen9NTYZdWdCbE6j3) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Luke Ntombela](https://open.spotify.com/artist/0gxKZ0KGwSMOuZ1A0PtVmD) | [Ezizweni \(Nitefreak Remix\)](https://open.spotify.com/album/0UvsgCBwKsYpkOBt0xdPaj) | 3:29 |
+| 43 | [Ezizweni \- Nitefreak Remix](https://open.spotify.com/track/7HewQPen9NTYZdWdCbE6j3) | [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Luke Ntombela](https://open.spotify.com/artist/0gxKZ0KGwSMOuZ1A0PtVmD) | [Ezizweni \(Nitefreak Remix\)](https://open.spotify.com/album/0UvsgCBwKsYpkOBt0xdPaj) | 3:29 |
 | 44 | [Whatever We Call It](https://open.spotify.com/track/2t77dSAshWuQXFW2F8ojmG) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [meera](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Whatever We Call It](https://open.spotify.com/album/4NgWz429zWjwleHCRlw5vG) | 8:03 |
 | 45 | [Simplicity \- Gai Barone Remix](https://open.spotify.com/track/4qmCD9Xr01GogkX0pFLV5s) | [Kasey Taylor](https://open.spotify.com/artist/4LPdRAStgPlxFxU2B8zJGo), [Chris Meehan](https://open.spotify.com/artist/1XmHYgQQheXd6nLsAdVQn3), [Gai Barone](https://open.spotify.com/artist/6ITKskiAcS4w9egVKClT7e) | [Simplicity](https://open.spotify.com/album/50RjIgddAYovhzeJ0VUDjI) | 8:58 |
 | 46 | [Si Te Portas Bonito \- Edit](https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 1:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 74 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 | 75 | [Via Infinita \- Marsh Remix](https://open.spotify.com/track/57j2b5YIcwavOLkl5yFkQG) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Via Infinita \(Marsh Remix\)](https://open.spotify.com/album/3IKJOrjCJDQJCGqnbv85ss) | 4:46 |
 
-Snapshot ID: `AAAAAPHXbbIc0bqaXNVbz5EQFSkZV5ru`
+Snapshot ID: `AAAAAJaVM/snlFkPY8P+UQ9cFvFGcYCy`

@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 70's! Cover: The Cats",
-  "num_followers": 99116,
+  "num_followers": 99130,
   "original_name": "70's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFmUJsn0hzsE828vaOKvLz9YybJy",
+  "snapshot_id": "AAAAAPGZDvxIatDcz4El1h5Tr/WBzKTs",
   "tracks": [
     {
       "added_at": "2024-08-28 19:18:25",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 213266,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor",
         "url": "https://open.spotify.com/album/2BU2SNYoIPtZvGEJckdIhx"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Ladies of the Canyon",
         "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 134800,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296480,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "This Girl's in Love with You",
         "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 197538,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296480,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
     },
     {
       "added_at": "2024-08-28 19:18:25",

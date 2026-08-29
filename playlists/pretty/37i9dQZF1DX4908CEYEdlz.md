@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: Queens of the Stoneage
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,070 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,919 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 9 | [Temple Of Ekur](https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:19 |
 | 10 | [Shine Again](https://open.spotify.com/track/1C8ywgYYblKrskpRggjNRV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Shine Again](https://open.spotify.com/album/6HqfvcCZYZMzTCbfWwu153) | 4:05 |
 | 11 | [Hexagons](https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Hexagons](https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV) | 5:26 |
-| 12 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
-| 13 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 |
+| 12 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 |
+| 13 | [In A Life](https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:33 |
 | 14 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 |
 | 15 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 |
 | 16 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 21 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
 | 22 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 23 | [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 |
-| 24 | [Dear God](https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Dear God](https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu) | 6:08 |
-| 25 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 |
+| 24 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 |
+| 25 | [Dear God](https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Dear God](https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu) | 6:08 |
 | 26 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
 | 27 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 |
 | 28 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 60 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 |
 | 61 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
 | 62 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
-| 63 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
+| 63 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
 | 64 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 |
-| 65 | [High on Me](https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [High on Me](https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv) | 3:02 |
-| 66 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
+| 65 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
+| 66 | [High on Me](https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [High on Me](https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv) | 3:02 |
 | 67 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
 | 68 | [Too Close / Too Late](https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:41 |
 | 69 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 |
 | 75 | [Fighting On \- 2021 \- Remaster](https://open.spotify.com/track/1oanSbsnFXySrSFgQznX1R) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 \- Remaster\)](https://open.spotify.com/album/7ERVgqxIIkmy5CfPRlWrWi) | 4:29 |
 
-Snapshot ID: `AAAAAIFu47ngQf39TUiFoqjD+ZenLKn+`
+Snapshot ID: `AAAAAAN2bl2yF4TyTNCAVZQ27hA3YaCp`

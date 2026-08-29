@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ A curated space for the avant\-garde⋆ ˚₊‧⁺ Cover: underscores
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,104 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,129 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 74 | [FENIAN](https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3) | 3:14 |
 | 75 | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/track/4S0TvmAnhdoEXmCTmiFNp6) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－･･ ･ ･－－･ ･－ ･－･ － ･･－ ･－･ ･](https://open.spotify.com/album/6V2s6MGb8X7C9eZfDhF7Jy) | 7:10 |
 
-Snapshot ID: `AAAAAIOv+f2DV1Go0+hlOIu7x/SO2rNR`
+Snapshot ID: `AAAAAGFBUwmeWGKerWfnIGaVRXGGbAL1`

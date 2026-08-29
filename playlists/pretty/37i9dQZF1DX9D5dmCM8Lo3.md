@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,612 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,657 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 49 | [I'm full of spite mane I'm too fucking petty](https://open.spotify.com/track/7u6hkmIzrxaffZULmJQmF2) | [staysie atoms](https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd), [BISKHIT](https://open.spotify.com/artist/2pDFiiTBeRA0unegywq4HX) | [TOXIC SHAWTY ANTHEM](https://open.spotify.com/album/41VxLMH698S4R6pCMTG9Xx) | 3:27 |
 | 50 | [cant you see](https://open.spotify.com/track/6Jhb9RtpCGwMS8XpmWqn8N) | [toadmilk](https://open.spotify.com/artist/0JLuRzD73XnnlmzQtyp3OU) | [cant you see](https://open.spotify.com/album/1QSOdmHN1AD1amrZlVonJs) | 2:41 |
 
-Snapshot ID: `AAAAAPS0pHvA5UELmpkSe97nxQnsRaqU`
+Snapshot ID: `AAAAABrZ+brCOfimR3TUIKYWQletNgxo`

@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295378,
+  "num_followers": 295377,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVEIyDk9dXvVHOFeiYKZPm1G8SQ",
+  "snapshot_id": "AAAAAMVOszeCWbrIfg9rV0OnWMmD2er5",
   "tracks": [
     {
       "added_at": "2026-07-17 17:28:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 363918,
-      "name": "Hit My Head All Day",
-      "url": "https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Florida Water Blues",
         "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 233197,
       "name": "Riding",
       "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 363918,
+      "name": "Hit My Head All Day",
+      "url": "https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Death Destruction Mayhem",
-        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
-      },
-      "artists": [
-        {
-          "name": "Ceremony",
-          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Death Destruction Mayhem",
-      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Prevail",
         "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Sleep In It",
-        "url": "https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v"
+        "name": "Death Destruction Mayhem",
+        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
       },
       "artists": [
         {
-          "name": "C.O.F.F.I.N",
-          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
         }
       ],
-      "duration_ms": 179133,
-      "name": "Sleep In It",
-      "url": "https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF"
+      "duration_ms": 178613,
+      "name": "Death Destruction Mayhem",
+      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -871,6 +855,22 @@
       "duration_ms": 213904,
       "name": "Van Goes",
       "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Sleep In It",
+        "url": "https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v"
+      },
+      "artists": [
+        {
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Sleep In It",
+      "url": "https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Something Worth Waiting For",
+        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 204123,
+      "name": "Still Around",
+      "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Projector",
         "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 234600,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Something Worth Waiting For",
-        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG"
-      },
-      "artists": [
-        {
-          "name": "Friko",
-          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
-        }
-      ],
-      "duration_ms": 204123,
-      "name": "Still Around",
-      "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Rolling By",
-        "url": "https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c"
-      },
-      "artists": [
-        {
-          "name": "Antenna",
-          "url": "https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f"
-        }
-      ],
-      "duration_ms": 182714,
-      "name": "Rolling By",
-      "url": "https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Within Dreams",
         "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 145173,
       "name": "Volvo (On The Road)",
       "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Rolling By",
+        "url": "https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c"
+      },
+      "artists": [
+        {
+          "name": "Antenna",
+          "url": "https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f"
+        }
+      ],
+      "duration_ms": 182714,
+      "name": "Rolling By",
+      "url": "https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 177975,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Cherry Picker",
         "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 180469,
       "name": "Cherry Picker",
       "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Mind's a Lie",
-        "url": "https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn"
-      },
-      "artists": [
-        {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
-        }
-      ],
-      "duration_ms": 286029,
-      "name": "Mind's a Lie",
-      "url": "https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Wet Brain",
-        "url": "https://open.spotify.com/album/3Fe59iFbf9HvNsGi3jUnen"
+        "name": "Mind's a Lie",
+        "url": "https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn"
       },
       "artists": [
         {
-          "name": "TVOD",
-          "url": "https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh"
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
         }
       ],
-      "duration_ms": 137750,
-      "name": "Wet Brain",
-      "url": "https://open.spotify.com/track/0hGvkifKlk8MbqrhQloipy"
+      "duration_ms": 286029,
+      "name": "Mind's a Lie",
+      "url": "https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1495,6 +1479,22 @@
       "duration_ms": 108169,
       "name": "Castaways",
       "url": "https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Wet Brain",
+        "url": "https://open.spotify.com/album/3Fe59iFbf9HvNsGi3jUnen"
+      },
+      "artists": [
+        {
+          "name": "TVOD",
+          "url": "https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh"
+        }
+      ],
+      "duration_ms": 137750,
+      "name": "Wet Brain",
+      "url": "https://open.spotify.com/track/0hGvkifKlk8MbqrhQloipy"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
-      },
-      "artists": [
-        {
-          "name": "Ultra Lights",
-          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
-        }
-      ],
-      "duration_ms": 127173,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Up On Gravity Hill",
         "url": "https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN"
       },
@@ -1563,22 +1547,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Hedgesitting",
-        "url": "https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW"
-      },
-      "artists": [
-        {
-          "name": "Cola",
-          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
-        }
-      ],
-      "duration_ms": 286771,
-      "name": "Hedgesitting",
-      "url": "https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "O, My Love",
         "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
       },
@@ -1591,6 +1559,38 @@
       "duration_ms": 178006,
       "name": "O, My Love",
       "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
+      },
+      "artists": [
+        {
+          "name": "Ultra Lights",
+          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
+        }
+      ],
+      "duration_ms": 127173,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Hedgesitting",
+        "url": "https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW"
+      },
+      "artists": [
+        {
+          "name": "Cola",
+          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+        }
+      ],
+      "duration_ms": 286771,
+      "name": "Hedgesitting",
+      "url": "https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY"
     },
     {
       "added_at": "2026-07-17 17:28:38",

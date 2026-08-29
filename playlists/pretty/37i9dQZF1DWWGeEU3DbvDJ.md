@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The BBMAs returns with performances from your favorite chart\-topping artists! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,190 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,187 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 43 | [Wanna Be Loved](https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 3:37 |
 | 44 | [CRAZY](https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 |
 | 45 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
-| 46 | [Where You Are](https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
-| 47 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 |
+| 46 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 |
+| 47 | [Where You Are](https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 |
 | 48 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 |
 | 49 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 |
 | 50 | [Después De La 1](https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [LOUKI](https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg) | [MJ](https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp) | 2:57 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 77 | [Thank God I Do](https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:18 |
 | 78 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 |
 | 79 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
-| 80 | [BENIN BOYS](https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:49 |
-| 81 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 |
+| 80 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 |
+| 81 | [BENIN BOYS](https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:49 |
 | 82 | [feelslikeimfallinginlove](https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:56 |
 | 83 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
 | 84 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 99 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/6WUkjtKniX6z1JpH3twAry) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 5:06 |
 | 100 | [Hang Tight Honey](https://open.spotify.com/track/05NgrkYTr8cBiqG1qCmpVm) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:09 |
 
-Snapshot ID: `AAAAAMNZGf6d53iD5mG6//USd+f35TGa`
+Snapshot ID: `AAAAAFIaGNDhvxN7vSv+xo6IFNKiQSkK`

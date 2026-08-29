@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Shiva, Dipinto, Khodi, SKT e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,017 likes - 99 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,048 likes - 99 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 9 | [Strip For Me](https://open.spotify.com/track/5IxLvieYg1eXp4U7bD5aWx) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Strip For Me](https://open.spotify.com/album/78gqUMvAgrlGflKiCGEBzq) | 3:30 |
 | 10 | [ZAMPIRONI](https://open.spotify.com/track/77MJc2Z6QCNaG0MDuwNGOw) | [Zizzu](https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v) | [ZAMPIRONI](https://open.spotify.com/album/3qjXUtL974aMV5OyH8IrMv) | 2:25 |
 | 11 | [AMORESWAG](https://open.spotify.com/track/3Z4DQLhLTseamUcZAk9QCt) | [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW) | [AMORESWAG](https://open.spotify.com/album/5x9iNZPDKBTyXA8eutJzdt) | 2:27 |
-| 12 | [MOLLY & PERCOCET](https://open.spotify.com/track/1tM8ONGcgmvt91bBd9DiVU) | [manueltime](https://open.spotify.com/artist/6N77V5lSWGy12nnqNmjYW0), [Almighty Brian](https://open.spotify.com/artist/0067CTZR9FIUo865ZSMpQw), [OGKAGE](https://open.spotify.com/artist/10EWS82AzwXYzLhaIf9wD3) | [MOLLY & PERCOCET](https://open.spotify.com/album/6Vy5FSOCSoZk65g4kM4qYu) | 1:43 |
+| 12 | [MOLLY & PERCOCET](https://open.spotify.com/track/1tM8ONGcgmvt91bBd9DiVU) | [manueltime](https://open.spotify.com/artist/6N77V5lSWGy12nnqNmjYW0), [Almighty Brian](https://open.spotify.com/artist/0067CTZR9FIUo865ZSMpQw), [OGKAGE](https://open.spotify.com/artist/10EWS82AzwXYzLhaIf9wD3) | [MOLLY & PERCOCET](https://open.spotify.com/album/6Vy5FSOCSoZk65g4kM4qYu) | 1:40 |
 | 13 | [SCONTROSA \(feat\. G.Mineiro\)](https://open.spotify.com/track/40UibIQfdcyLJDgfDDA2MR) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 1:54 |
 | 14 | [KUTA UBUD](https://open.spotify.com/track/2e79sjRRdXPRc8wijqAVnX) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [KUTA UBUD](https://open.spotify.com/album/4QLgbioQMtsszGKfYtI8cQ) | 2:48 |
 | 15 | [K\-Hole](https://open.spotify.com/track/6VO9ZURtZ6s3jwR3dhUbON) | [headows](https://open.spotify.com/artist/13LA1PXTvCYn9VT4dqGAfq) | [K\-Hole](https://open.spotify.com/album/3HT3yd272iUgi5RNlEq6xu) | 2:00 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 98 | [VALENTINA NAPPI \(feat\. Naver, Basti\)](https://open.spotify.com/track/0sHk9tq3YyHKWP89IlPwEQ) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Basti](https://open.spotify.com/artist/6UvUvAAN80uvFs2T4th3rM) | [IO NON SONO SPENDER](https://open.spotify.com/album/33rYT0Uxu1e1ZFfKiegFM0) | 3:28 |
 | 99 | [KILO](https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC) | [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [KILO](https://open.spotify.com/album/3kBv841fvjeleGj1UFnQji) | 1:49 |
 
-Snapshot ID: `AAAAAEQeJ6i3S+snv8Ogz5tdEYH/jXwQ`
+Snapshot ID: `AAAAAO3T3iavjcivr4ew/cSnCGNm+Dw2`

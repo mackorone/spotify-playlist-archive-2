@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Sam Smith",
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: The Weeknd",
   "name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "tracks": [
     {
@@ -3647,6 +3647,24 @@
     },
     {
       "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
+    },
+    {
+      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb"
       },
@@ -4390,6 +4408,28 @@
       "duration_ms": 241470,
       "name": "From Down Here",
       "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
+    {
+      "album": {
+        "name": "August 26",
+        "url": "https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213746,
+      "name": "Fuck",
+      "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
     },
     {
       "album": {
@@ -5387,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4"
       },
@@ -5420,7 +5478,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 158792,
       "name": "Heaven Baby (feat. ZAYN)",
       "url": "https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24"
@@ -6612,7 +6670,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 200400,
       "name": "In & Out",
       "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
@@ -8652,7 +8710,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 233037,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/59edZBlolguuivWORanXkJ"
@@ -9769,6 +9827,28 @@
     },
     {
       "album": {
+        "name": "Out Of Time with Tomoko Aran",
+        "url": "https://open.spotify.com/album/0Tc7ROEvsDP3iqzU8GRC5E"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Tomoko Aran",
+          "url": "https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171818,
+      "name": "Out Of Time with Tomoko Aran",
+      "url": "https://open.spotify.com/track/0nc2dv3B8W2FhBgwCkZxJa"
+    },
+    {
+      "album": {
         "name": "Out The Window",
         "url": "https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307"
       },
@@ -10250,7 +10330,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 189469,
       "name": "Pretty Eyes (feat. FLO)",
       "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
@@ -11277,6 +11357,24 @@
     },
     {
       "album": {
+        "name": "serena joy",
+        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185838,
+      "name": "serena joy",
+      "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
+    },
+    {
+      "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
       },
@@ -11382,7 +11480,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 254026,
       "name": "She\u2019s the Best",
       "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
@@ -14535,6 +14633,24 @@
     },
     {
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178334,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
+    },
+    {
+      "album": {
         "name": "WANTCHU",
         "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
       },
@@ -14824,7 +14940,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 140266,
       "name": "WHAT ELSE?",
       "url": "https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF"

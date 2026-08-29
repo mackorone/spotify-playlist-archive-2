@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Mama's Broke
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,647 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,676 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Gonna Love You](https://open.spotify.com/track/1DxHrCHAwrKh8L2FdwrQhu) | [John Hollier & the Rêverie](https://open.spotify.com/artist/57boDAppxqwgLqZs4NRmFs) | [Rainmaker](https://open.spotify.com/album/300BYZlr1qe8sUE0qD5BOK) | 2:42 |
 | 100 | [More](https://open.spotify.com/track/3VcsNXPuVExzrsc3Garkmf) | [Kalyn Fay](https://open.spotify.com/artist/2ojhmBnnR44AHdtGGK8f9q) | [More](https://open.spotify.com/album/3hYLDvOXofP7VgpUY5aC1v) | 3:08 |
 
-Snapshot ID: `AAAAAObeMk30hDhvWpMdRND1ZIIxUIXA`
+Snapshot ID: `AAAAALZqEWqvfnyzcaUIl3VdZpGxPEdT`

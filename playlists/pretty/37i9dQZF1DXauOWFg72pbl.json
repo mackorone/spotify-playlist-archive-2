@@ -1,12 +1,12 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 612041,
+  "num_followers": 612067,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4rRGpqdDTczlVs+sS5rwThzqnn",
+  "snapshot_id": "AAAAAFqinsaPTAeSK0AitncG5Bcli64K",
   "tracks": [
     {
       "added_at": "2026-02-08 16:59:41",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Mind Over Matter",
-        "url": "https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Mind Over Matter",
-      "url": "https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 211226,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/3cSzKBfylctgJwqorcNEo2"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Mind Over Matter",
+      "url": "https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI"
     },
     {
       "added_at": "2026-02-08 16:59:41",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "Contraband",
         "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 248306,
       "name": "Slither",
       "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2026-02-08 16:59:41",

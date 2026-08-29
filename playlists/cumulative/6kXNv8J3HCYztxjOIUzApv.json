@@ -453,6 +453,28 @@
     },
     {
       "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5DsiCJMmtjzRsMWYQxmgCO"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        },
+        {
+          "name": "Kat Von D",
+          "url": "https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235465,
+      "name": "Another Brick In The Wall (feat. Kat Von D)",
+      "url": "https://open.spotify.com/track/07fdSyrJMOkTwY7Tyg38GG"
+    },
+    {
+      "album": {
         "name": "Mis-An-Thrope",
         "url": "https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1"
       },
@@ -4570,6 +4592,24 @@
       "duration_ms": 209500,
       "name": "Sham Pain - 2025 VERSION",
       "url": "https://open.spotify.com/track/5c0HUbN3NRPQjdzqr8zBkc"
+    },
+    {
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5DsiCJMmtjzRsMWYQxmgCO"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1S057qXZHpVy4Wfh5cMbwN"
     },
     {
       "album": {

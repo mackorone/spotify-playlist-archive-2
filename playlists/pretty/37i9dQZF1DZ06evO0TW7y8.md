@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,993 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,012 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 20 | [Lately](https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:07 |
 | 21 | [The Way It Was](https://open.spotify.com/track/4U2CDe6ldkhHArb060Dvwf) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 3:44 |
 | 22 | [Peng Black Girls Remix \- A COLORS SHOW](https://open.spotify.com/track/7L15RIYFpoiHKJQNHsYhWM) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Peng Black Girls Remix \- A COLORS SHOW](https://open.spotify.com/album/472cjeBcWY3uAAJtxnpM4z) | 3:26 |
-| 23 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:15 |
-| 24 | [Teenage Fantasy](https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:46 |
+| 23 | [Teenage Fantasy](https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:46 |
+| 24 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:15 |
 | 25 | [This City \(feat\. Devlin\)](https://open.spotify.com/track/5izYtB29cwjnVVUVEulUv0) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 3:15 |
 | 26 | [With You](https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY) | 3:21 |
 | 27 | [The Way I Love You](https://open.spotify.com/track/6u1xR1LKAiahXPrwjNCkky) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/5LM2wQNoA6LlS5aTR4PKJj) | 3:23 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 38 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 |
 | 39 | [Tomorrow](https://open.spotify.com/track/14qLa09blyCJdkRJRQ8lpV) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:52 |
 | 40 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 |
-| 41 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:49 |
+| 41 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 |
 | 42 | [Backwards](https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:44 |
-| 43 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 |
+| 43 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/11bJ1ws3dathgY9uzADUhL) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:49 |
 | 44 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 |
-| 45 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:58 |
+| 45 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
 | 46 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
-| 47 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
+| 47 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/7ymllAe6kR6TSmiDXmnOWx) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:58 |
 | 48 | [Loving You \(feat\. Maverick Sabre\)](https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/4AT8IOeR5ZntLmTOeCj75j) | 2:32 |
 | 49 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 |
 | 50 | [Home](https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 2:46 |
 
-Snapshot ID: `ao4sgAAAAADns1EGOkr3YvP4w+JtRGM+`
+Snapshot ID: `ao9+AAAAAACCo9bRb2nTCtgfkxGBrbtj`

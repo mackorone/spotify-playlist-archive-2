@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 
 > Unforgettable love songs from the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,423 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,481 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 49 | [The Look Of Love \- Mono Version](https://open.spotify.com/track/0j4nxNMlaLybQ2sLA1Nxpr) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Complete A And B Sides 1963 \- 1970](https://open.spotify.com/album/1nqFVeqOlIVan8xkKX0O6j) | 3:31 |
 | 50 | [Spanish Eyes](https://open.spotify.com/track/3CFx8SBSwY8Q1IplDTQ6kB) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Premium Gold Collection](https://open.spotify.com/album/7gpbWojUBxKgHZyIhcFcMW) | 2:46 |
 
-Snapshot ID: `AAAAAM3IUme/2IOKxSGeX3yvDdNT0ndy`
+Snapshot ID: `AAAAAHyYsNEQbDcIH7Kbq1NNUyOT7f0B`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,972 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,060 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 61 | [Inolvidable](https://open.spotify.com/track/6JeEtAKTZj4hz7KqxmhJpU) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16) | [Con Amor Se Gana](https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV) | 4:35 |
 | 62 | [Y Nos Amamos](https://open.spotify.com/track/0ycMl4897bcU6pTL6DgBRs) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 3:54 |
 | 63 | [No Puedo Prescindir De Ti](https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Super Exitos](https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT) | 4:10 |
-| 64 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
-| 65 | [Tù No Le Amas Le Temes](https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [20th Anniversary](https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW) | 4:27 |
+| 64 | [Tù No Le Amas Le Temes](https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [20th Anniversary](https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW) | 4:27 |
+| 65 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
 | 66 | [Dile A El](https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9) | [Anthony Cruz](https://open.spotify.com/artist/1sM3IJxKOV5gc3JfvxWADC) | [Para Ti...](https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP) | 5:26 |
 | 67 | [Lloraras](https://open.spotify.com/track/38TXGZ4G7c9jBCBrwV1OrB) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [Esenciales Volúmen I](https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp) | 3:41 |
 | 68 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/481Da1w7hnEZ61sAHKnrer) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:02 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 88 | [Enamorado De Ti \- Salsa Version](https://open.spotify.com/track/5EOiyV8PrLDXBuvS1NdVu3) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Ronnie Torres and Ramon Sanchez](https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge) | [Lo Que Llevo Por Dentro](https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs) | 4:52 |
 | 89 | [Aparentemente](https://open.spotify.com/track/4SipDsIDlvpv37P41D7Ec3) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 5:05 |
 | 90 | [O Ella O Yo](https://open.spotify.com/track/0jysCamDBv9EeAlfwj2Lla) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Serie Cinco Estrellas](https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb) | 4:48 |
-| 91 | [Mascarada](https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX) | [Johnny Ray](https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw) | [Exitos Eternos](https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg) | 4:37 |
-| 92 | [Si Me Preguntan Por Ti](https://open.spotify.com/track/3kLOt4pxDk5ZYCprFXnTsZ) | [Brenda K\. Starr](https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B) | [No Lo Voy a Olvidar](https://open.spotify.com/album/5jMe7L01uhfNshwYuKvfVg) | 4:39 |
+| 91 | [Si Me Preguntan Por Ti](https://open.spotify.com/track/3kLOt4pxDk5ZYCprFXnTsZ) | [Brenda K\. Starr](https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B) | [No Lo Voy a Olvidar](https://open.spotify.com/album/5jMe7L01uhfNshwYuKvfVg) | 4:39 |
+| 92 | [Mascarada](https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX) | [Johnny Ray](https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw) | [Exitos Eternos](https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg) | 4:37 |
 | 93 | [Agua Pasada](https://open.spotify.com/track/046WevUCvKfJC6FrowsePK) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16) | [No Me Compares](https://open.spotify.com/album/7b6xEvGDEPsUEtT9VfPaFj) | 4:57 |
 | 94 | [El Apartamento](https://open.spotify.com/track/6ilUvSefuUnXgEqxj7SD5Z) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Salsa de Amor Vol\. 3](https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ) | 4:18 |
 | 95 | [Discúlpeme Señora](https://open.spotify.com/track/1X8CGZ8BzIiCyfFAYHYMKu) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Greatest Hits \(Serie Cristal\)](https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6) | 4:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 99 | [Lobo Domesticado](https://open.spotify.com/track/3G6Uc9tOzUlz4hYWxm5ZIB) | [Hector Tricoche](https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En) | [Salsa](https://open.spotify.com/album/7vo5EEhq9ddrbu6DdV6dLh) | 4:54 |
 | 100 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
 
-Snapshot ID: `AAAAAMO+jAY+mCGoXhtG1QASvIb5V0L9`
+Snapshot ID: `AAAAAGQHzfrtiCfLFFcip9WPo9O1JRQZ`

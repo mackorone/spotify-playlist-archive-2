@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,722 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,738 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 14 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 |
 | 15 | [Nothing Else Matters](https://open.spotify.com/track/7HdDZScUII7zKRQKqXKUrH) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/0bztigq9w8sLg2nHdmq4Td) | 4:34 |
 | 16 | [All Through the Night](https://open.spotify.com/track/32RC7EvEAUUn9aoQZlWT2e) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 1](https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o) | 3:17 |
-| 17 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe) | 2:34 |
-| 18 | [What Would You Do](https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:03 |
+| 17 | [What Would You Do](https://open.spotify.com/track/2WwzQJt4hG7YC6x16ZTYFM) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:03 |
+| 18 | [I'm On Fire \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe) | 2:34 |
 | 19 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 |
 | 20 | [I'll Stand by You](https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [I'll Stand by You](https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE) | 3:24 |
 | 21 | [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:05 |
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 65 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
 | 66 | [In The Aeroplane Over The Sea](https://open.spotify.com/track/1uR8YDxSxeo8BkbR6MUdvg) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [In The Aeroplane Over The Sea](https://open.spotify.com/album/3QSWBOJ6C8nEI35vhOkZ4u) | 3:41 |
 | 67 | [Blank Space](https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Blank Space](https://open.spotify.com/album/1HozJh2kGkfP40jiGSNndN) | 4:05 |
-| 68 | [Only You \(1twofeel Reprise\)](https://open.spotify.com/track/4JKq0hEhwUtxKSfK0rU1UH) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Only You \(1twofeel Reprise\)](https://open.spotify.com/album/6Sm1ySYQ4fa7F7nujVvjSO) | 3:38 |
-| 69 | [Wicked Game](https://open.spotify.com/track/1FfoHjy7kr5IGtOjAKjeiv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Wicked Game](https://open.spotify.com/album/4Up5UVa1Fk36EcO67AuyLh) | 4:55 |
+| 68 | [Wicked Game](https://open.spotify.com/track/1FfoHjy7kr5IGtOjAKjeiv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Wicked Game](https://open.spotify.com/album/4Up5UVa1Fk36EcO67AuyLh) | 4:55 |
+| 69 | [Only You \(1twofeel Reprise\)](https://open.spotify.com/track/4JKq0hEhwUtxKSfK0rU1UH) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Only You \(1twofeel Reprise\)](https://open.spotify.com/album/6Sm1ySYQ4fa7F7nujVvjSO) | 3:38 |
 | 70 | [No Surprises \(feat\. Janelle Monáe\)](https://open.spotify.com/track/4cRPXadQRylHEWmQJ02fIc) | [Roman GianArthur](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [OK Lady](https://open.spotify.com/album/5cxdHvTNzejoUNA48rbkRm) | 4:04 |
 | 71 | [Earned It](https://open.spotify.com/track/2MxrQDEu6efhLEOWM2ckSU) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Earned It](https://open.spotify.com/album/5F3EDc5Y9ca36xAwDEfAp8) | 4:07 |
 | 72 | [Delicate](https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w) | [Hanne Leland](https://open.spotify.com/artist/0bpp6ZhXQogfVnZHiWYNX0) | [Delicate](https://open.spotify.com/album/0YQHlteoWyLWbbmxwRi4Lk) | 4:35 |
 | 73 | [Ultralight Beam](https://open.spotify.com/track/3wAW1vIrWxUmJajU9tl0AP) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 2:55 |
-| 74 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 |
-| 75 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 |
+| 74 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 |
+| 75 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 |
 | 76 | [The Tourist](https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 4:52 |
 | 77 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 |
-| 78 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
-| 79 | [Love Is A Stranger](https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Love Is A Stranger](https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy) | 3:38 |
+| 78 | [Love Is A Stranger](https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Love Is A Stranger](https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy) | 3:38 |
+| 79 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
 | 80 | [Like Spinning Plates](https://open.spotify.com/track/1K6bvVleOIMX5SEuXphEKu) | [Bella Ruse](https://open.spotify.com/artist/3CY9C8A6FB0Oz1No32iRUd) | [Kuhzoo](https://open.spotify.com/album/3WJi7Dj2IQ1g8UgaayEg5r) | 2:53 |
 | 81 | [Everybody Here Wants You](https://open.spotify.com/track/6Ae3iEZalzep9aDRbGGMHK) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Everybody Here Wants You](https://open.spotify.com/album/0Fp9ynUHdMWvqhUm8PCdje) | 4:17 |
 | 82 | [Final Song](https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a), [Jesse Justin](https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm) | [Final Song](https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Avant Gardener](https://open.spotify.com/track/1AbLKGveV3jFFKVKFYP2Ur) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/2QeazQ3EKDtLZ6lRdZceNa) | 4:19 |
 | 100 | [In My Life](https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX) | 2:34 |
 
-Snapshot ID: `AAAAAJbonrjjZiVzPsZDHAsAsleyV32X`
+Snapshot ID: `AAAAANzFjFxHDMzlu8DhwRJ7n2UiiC1u`

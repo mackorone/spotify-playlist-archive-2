@@ -1,12 +1,12 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 520422,
+  "num_followers": 520509,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMZ1MiDP+tKCimdKjpwXESDZsPR4",
+  "snapshot_id": "AAAAAFYYmEJLk1dEyUH51Z8JbaRbwTxW",
   "tracks": [
     {
       "added_at": "2026-05-12 05:08:23",
@@ -323,6 +323,26 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 302425,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 601586,
       "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
       "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 302425,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "S\u00e9 Fuerte",
-        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
-      },
-      "artists": [
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 211995,
-      "name": "Cada ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 252493,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "S\u00e9 Fuerte",
+        "url": "https://open.spotify.com/album/49IgbjzO62GQp2vqOkm4vh"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 211995,
+      "name": "Cada ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2Z3IbT1sAYAvkPrP4sSmmx"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Laberinto",
-        "url": "https://open.spotify.com/album/14rxyyOhgm9hgYnxSk74eE"
-      },
-      "artists": [
-        {
-          "name": "Veinte Veinte",
-          "url": "https://open.spotify.com/artist/0Yu8Y1leAD10YLyRhWnqwf"
-        }
-      ],
-      "duration_ms": 271178,
-      "name": "Cara a Cara",
-      "url": "https://open.spotify.com/track/2Z7IlhEqve1X8EvD7AIzWy"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Todo Pasar\u00e1",
         "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Laberinto",
+        "url": "https://open.spotify.com/album/14rxyyOhgm9hgYnxSk74eE"
+      },
+      "artists": [
+        {
+          "name": "Veinte Veinte",
+          "url": "https://open.spotify.com/artist/0Yu8Y1leAD10YLyRhWnqwf"
+        }
+      ],
+      "duration_ms": 271178,
+      "name": "Cara a Cara",
+      "url": "https://open.spotify.com/track/2Z7IlhEqve1X8EvD7AIzWy"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "ESTAR BIEN",
-        "url": "https://open.spotify.com/album/0xaShTX3JNAeEGq1PaapGT"
-      },
-      "artists": [
-        {
-          "name": "ZOE Worship",
-          "url": "https://open.spotify.com/artist/2ZfB6mbNS4AQTid9M6GDjK"
-        }
-      ],
-      "duration_ms": 207100,
-      "name": "ESTAR BIEN",
-      "url": "https://open.spotify.com/track/4cuHB56Vlh6dHycYLSzowC"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Generacion Radical",
         "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
       },
@@ -1471,50 +1455,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+        "name": "ESTAR BIEN",
+        "url": "https://open.spotify.com/album/0xaShTX3JNAeEGq1PaapGT"
       },
       "artists": [
         {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+          "name": "ZOE Worship",
+          "url": "https://open.spotify.com/artist/2ZfB6mbNS4AQTid9M6GDjK"
         }
       ],
-      "duration_ms": 310961,
-      "name": "Alaba A Dios",
-      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Despierta Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 645440,
-      "name": "Dios Incomparable (Invitado: Marco Barrientos)",
-      "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
+      "duration_ms": 207100,
+      "name": "ESTAR BIEN",
+      "url": "https://open.spotify.com/track/4cuHB56Vlh6dHycYLSzowC"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1531,6 +1483,22 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Despierta Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 645440,
+      "name": "Dios Incomparable (Invitado: Marco Barrientos)",
+      "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1560,9 +1528,57 @@
           "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
         }
       ],
-      "duration_ms": 240483,
-      "name": "Himno De Victoria",
-      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
+      "duration_ms": 310961,
+      "name": "Alaba A Dios",
+      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1579,6 +1595,22 @@
       "duration_ms": 264800,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 240483,
+      "name": "Himno De Victoria",
+      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1643,38 +1675,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Voy A Profetizar",
-        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 284238,
-      "name": "El Rey Te Mand\u00f3 Llamar",
-      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "El Cielo Gobierna",
         "url": "https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+        "name": "Voy A Profetizar",
+        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
       },
       "artists": [
         {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
         }
       ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
+      "duration_ms": 284238,
+      "name": "El Rey Te Mand\u00f3 Llamar",
+      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
     },
     {
       "added_at": "2026-05-12 05:08:23",

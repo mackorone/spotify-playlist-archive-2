@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,509 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,554 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,19 +52,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 42 | [We're in This Love Together](https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 3:46 |
 | 43 | [One Hundred Ways](https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:19 |
 | 44 | [Tell Me If You Still Care](https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [On The Rise](https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb) | 6:56 |
-| 45 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin \(Expanded Edition\)](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
-| 46 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
+| 45 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
+| 46 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin \(Expanded Edition\)](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
 | 47 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
-| 48 | [Very Special](https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:28 |
-| 49 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/6E4Qe7pd7cwxRCwINyELaL) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
+| 48 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/6E4Qe7pd7cwxRCwINyELaL) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
+| 49 | [Very Special](https://open.spotify.com/track/6wKAZB2lwOWeqpwquNHThG) | [Debra Laws](https://open.spotify.com/artist/6iA5wBxxMxUMr9a4fnJd34) | [Very Special](https://open.spotify.com/album/2mjNADEgtMAoNfXTLcFTn4) | 4:28 |
 | 50 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
 | 51 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
 | 52 | [Never Knew Love Like This Before](https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Stephanie Mills](https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO) | 5:25 |
 | 53 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 54 | [Arrow Through Me \- Remastered 1993](https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Back To The Egg](https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc) | 3:36 |
-| 55 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 3:29 |
-| 56 | [Please Don't Go Girl](https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:23 |
-| 57 | [Stay With Me](https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [In A Special Way](https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa) | 3:45 |
+| 55 | [Please Don't Go Girl](https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:23 |
+| 56 | [Stay With Me](https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [In A Special Way](https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa) | 3:45 |
+| 57 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/7nhWtCc3v6Vem80gYPlppQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 3:29 |
 | 58 | [Ebony Eyes](https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Cold Blooded \(Expanded Edition\)](https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B) | 5:07 |
 | 59 | [For the Love of You, Pts\. 1 & 2](https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:37 |
 | 60 | [Never Can Say Goodbye](https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/1RhSU65eltYthavUXScSzB) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 99 | [Pensando Nela](https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:36 |
 | 100 | [Insatiable Woman \- 12" Version](https://open.spotify.com/track/005dZEnx7On15zBKACxlG7) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [Caravan of Love \(Expanded Version\)](https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7) | 6:14 |
 
-Snapshot ID: `AAAAAPpdeb5bDy2qeD/EElnv4LOSNJiT`
+Snapshot ID: `AAAAAMdvp4Y/eGWDRmNu4dfTD/PfICwI`

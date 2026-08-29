@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,776 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,799 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 81 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 82 | [Here Comes The River](https://open.spotify.com/track/1bkmxox97PzwqGCEaFuFLD) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Wave](https://open.spotify.com/album/4sgJYX3we1RoranerDs8ph) | 4:13 |
 | 83 | [I Lied](https://open.spotify.com/track/0LwMEbqobYWjhwMpYaFWpM) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/48nTl6TmV8hS2x8MCQlUbm) | 3:54 |
-| 84 | [Siren Song](https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Siren Song](https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq) | 3:03 |
-| 85 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
+| 84 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
+| 85 | [Siren Song](https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Siren Song](https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq) | 3:03 |
 | 86 | [Freedom](https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Only Pieces of the Truth](https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG) | 4:21 |
 | 87 | [John Came Home](https://open.spotify.com/track/6lYLBkRAE90WZuYW649Zek) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:11 |
 | 88 | [Dead Of Night](https://open.spotify.com/track/6jzAkKTa5sRAcIG4N1DkV6) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 99 | [Define You](https://open.spotify.com/track/3AeQrVZPOszHLdES1OJ1Md) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Challenger](https://open.spotify.com/album/6uK1BjcfTLBHePE1oSU3ro) | 3:34 |
 | 100 | [The Open Road](https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1woKCA8dTokL647kKXySq6) | 3:20 |
 
-Snapshot ID: `AAAAAPZb1j9dxprhquKuQQwumqJfKsu4`
+Snapshot ID: `AAAAAEOYcsYLdd3zyBjRmHdg8gzWxK/5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > ايه الجديد؟ الغلاف: إس
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [TAB EH?](https://open.spotify.com/track/07VNX7kQuXuhXM4BDc8Mwf) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw) | [TAB EH?](https://open.spotify.com/album/7tM1CUtPCfLeGFaT07aJn8) | 2:24 |
 | 60 | [As2ela](https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [As2ela](https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5) | 3:41 |
 
-Snapshot ID: `AAAAAAT05ozUh5yELR/0OmyJas5D8miU`
+Snapshot ID: `AAAAADLW4PS7wKEC6FpSeXks+3wyMQNo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,128 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,148 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 18 | [Casio](https://open.spotify.com/track/44ZKnfWEkp7wPs035j4Tua) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:54 |
 | 19 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 |
 | 20 | [Vibe](https://open.spotify.com/track/4l2tDbFbVJmJv2yJLeKxOo) | [Jimothy Lacoste](https://open.spotify.com/artist/0sq3OExudqk1vOkbSuc8KW) | [Vibe](https://open.spotify.com/album/2MwIYVdnHa9cdyr8DuWARX) | 2:42 |
-| 21 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 |
+| 21 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
 | 22 | [Polish Girl](https://open.spotify.com/track/7vA9zWg6fmjLZn105Uj4TE) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Era Extraña](https://open.spotify.com/album/2N9pVEQw0ByXjNn9QSknz3) | 4:24 |
-| 23 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
+| 23 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 |
 | 24 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 |
 | 25 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 |
 | 26 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Vd1jJ7X9H8.md) - [plain]
 | 49 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
 | 50 | [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 |
 
-Snapshot ID: `AAAAAMd1YALgKX7dSM3CKVEDHefJ5DBo`
+Snapshot ID: `AAAAAP/oJ0WNskTUPWJlCmK6/bpwN8UM`

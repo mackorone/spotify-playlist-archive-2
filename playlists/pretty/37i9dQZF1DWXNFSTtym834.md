@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410,078 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,410,220 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 83 | [As I Am](https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Train of Thought](https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj) | 7:47 |
 | 84 | [Blood Brothers \- 2015 Remaster](https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Brave New World \(2015 Remaster\)](https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB) | 7:14 |
 | 85 | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ) | 4:09 |
-| 86 | [Nymphetamine Fix](https://open.spotify.com/track/6WuqJLVZcyJklg7lIozAO8) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Nymphetamine Special Edition](https://open.spotify.com/album/0e5cBxKWQYe52fyu23P01P) | 5:02 |
-| 87 | [The Quiet Place](https://open.spotify.com/track/2gUrjc9fWHZytKm6FtBY7E) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Soundtrack to Your Escape \(The Quiet Place Version\)](https://open.spotify.com/album/62MmtzoCMy82PoeKb6TIVf) | 3:45 |
+| 86 | [The Quiet Place](https://open.spotify.com/track/2gUrjc9fWHZytKm6FtBY7E) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Soundtrack to Your Escape \(The Quiet Place Version\)](https://open.spotify.com/album/62MmtzoCMy82PoeKb6TIVf) | 3:45 |
+| 87 | [Nymphetamine Fix](https://open.spotify.com/track/6WuqJLVZcyJklg7lIozAO8) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Nymphetamine Special Edition](https://open.spotify.com/album/0e5cBxKWQYe52fyu23P01P) | 5:02 |
 | 88 | [Step Up](https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Desensitized](https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy) | 3:17 |
 | 89 | [Through Struggle](https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:58 |
 | 90 | [Fall Into Sleep](https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 99 | [Frantic](https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 5:50 |
 | 100 | [Rot](https://open.spotify.com/track/78SOBkauu6CnXV2OtpDrHK) | [Dry Kill Logic](https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX) | [The Darker Side of Nonsense](https://open.spotify.com/album/2MwTe2PM8IAZy84vfYtpEz) | 4:32 |
 
-Snapshot ID: `AAAAAFLBpFVCmpnw0uyKkIvc8X0gg2op`
+Snapshot ID: `AAAAALtDIECkbj4XTokMdNVfPPfk1lVj`

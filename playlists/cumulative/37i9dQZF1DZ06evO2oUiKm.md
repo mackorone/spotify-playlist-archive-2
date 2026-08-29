@@ -4,7 +4,7 @@
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 22 min
+102 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [I Want You \- Interlude](https://open.spotify.com/track/6Hur7QmuHJsPG59BNRw1pn) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 1:08 | 2025-06-08 | 2025-06-26 |
 | [I'm Here](https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:31 | 2024-12-14 |  |
 | [I've Already Won](https://open.spotify.com/track/6CiLixdgvog7l1tY18vEaz) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:07 | 2024-12-14 | 2025-11-09 |
-| [If I Only Had A Brain](https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [If I Only Had A Brain](https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI) | 3:10 | 2026-04-19 |  |
+| [If I Only Had A Brain](https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Night Blooms](https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU) | 3:10 | 2026-08-29 |  |
+| [If I Only Had A Brain](https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [If I Only Had A Brain](https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI) | 3:10 | 2026-04-19 | 2026-08-29 |
 | [Inside \(feat\. Cynthia Erivo\)](https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 2:20 | 2024-12-14 |  |
 | [Intro \(feat\. Cynthia Erivo\)](https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 2:40 | 2024-12-14 |  |
 | [It Would Be](https://open.spotify.com/track/7FOHuxnnNpNoB0t8BhTV0I) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [It Would Be](https://open.spotify.com/album/5axtvktcltQMAFIoo2cxe8) | 3:46 | 2026-07-16 |  |

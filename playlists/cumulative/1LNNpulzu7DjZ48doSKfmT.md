@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-1,195 songs - 2 day 13 hr 21 min
+1,199 songs - 2 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Allora resta qui](https://open.spotify.com/track/78jtACfnmzVqlJedIagcPJ) | [Perileo](https://open.spotify.com/artist/5kpzHHKGRxJsHdMXIbABKX) | [Allora resta qui](https://open.spotify.com/album/55wWCIVgEHjujuN5pNJ9Hj) | 3:34 | 2026-07-22 |  |
 | [Almas Perdidas](https://open.spotify.com/track/5Y2wRrvOqD6sj94cmGhnql) | [Broke Chain](https://open.spotify.com/artist/6qIkQukHyKGHIw9NCjqrlj) | [Almas Perdidas](https://open.spotify.com/album/7JWyjav1I4VdnSK1Y5mKJZ) | 2:45 | 2025-10-09 | 2026-01-15 |
 | [Aloha Vibes](https://open.spotify.com/track/5iner6pw593QANnZP3Abgr) | [Faith Rivera](https://open.spotify.com/artist/0OJl9lZP81ON2jhv7QpVYt), [Brittni Paiva](https://open.spotify.com/artist/030ma4QtsnydUwd4M2qXWt) | [Aloha Vibes](https://open.spotify.com/album/3jWHak3tyL2LF3tdozpmrF) | 3:35 | 2025-07-16 | 2026-01-15 |
+| [Alta Rotação](https://open.spotify.com/track/1lG27Q90rY4LdimFOoNKhz) | [wiLL Rock](https://open.spotify.com/artist/2S5CjbZ9rnWw4qqj8CDA9b) | [Pindorama](https://open.spotify.com/album/6vsv76JvrLRiRPed7Cq400) | 1:42 | 2026-08-28 |  |
 | [Altar](https://open.spotify.com/track/54W2cEcp8UaHgTD1927H2y) | [Fiebre de las Montañas Rocosas](https://open.spotify.com/artist/0wluskMzTXGEgOCmezbaNM) | [Altar](https://open.spotify.com/album/1UVSdVOF5KmQS1qO1GQEtE) | 3:42 | 2026-01-12 | 2026-02-23 |
 | [Always Wanting The Other Side](https://open.spotify.com/track/6utchQtApIbNNQPE8rBd8Q) | [Lazel James](https://open.spotify.com/artist/1mYX0nkMGUbQByxSkBDJaW) | [Always Wanting The Other Side](https://open.spotify.com/album/17x1EUsotuZhH5uBUMu7h9) | 3:40 | 2025-12-01 | 2026-02-23 |
 | [Am I dreaming](https://open.spotify.com/track/1gWRTr1sY6qx7T9fVasiZ8) | [Gianfranco Dell'Olio](https://open.spotify.com/artist/64ZNNzMbu3WMfXfNPi0nDN) | [Am I dreaming](https://open.spotify.com/album/3ygmUH6GkfiRHlLt1HsW8j) | 3:07 | 2026-01-03 | 2026-02-23 |
@@ -133,6 +134,7 @@
 | [Black Mamba](https://open.spotify.com/track/4NCVAuYOzxXPaakOvgKN4D) | [Autran](https://open.spotify.com/artist/3WJPaWNNErCsuJ4AsZuaQF) | [Black Mamba](https://open.spotify.com/album/4AD6WSHCKbXRx2taIWZel0) | 3:36 | 2025-12-29 | 2026-02-23 |
 | [Blame It On Me](https://open.spotify.com/track/4QhnVwT9cTFDHNk2xtEX4z) | [Djyonimusic](https://open.spotify.com/artist/3aqrx4kAkdwGG2AIytYurA) | [Blame It On Me](https://open.spotify.com/album/2nUGDC8kU2NIceF886lyNm) | 3:06 | 2025-09-23 | 2026-01-15 |
 | [Blazin' 91](https://open.spotify.com/track/2infl0OAZjwd6kj61ibYxa) | [New Devil](https://open.spotify.com/artist/03CZFwY4NeS5nxKBjO8jhj) | [Blazin' 91](https://open.spotify.com/album/5SKZYVTrJHpBu2vbMwpRXw) | 2:10 | 2026-02-22 |  |
+| [BLEED FOR YOU](https://open.spotify.com/track/0EG9iOzgbqHWoQBRZNcN0x) | [HUSAM4SUDAN](https://open.spotify.com/artist/2NGWHehBrZ0HMQ9DNwcNIZ) | [BLEED FOR YOU](https://open.spotify.com/album/3iiXnHbeC0NOGq6CXHvKp9) | 3:17 | 2026-08-28 |  |
 | [Blessed By The Lord](https://open.spotify.com/track/2w9YM7X2UccXVeLl7yHIoW) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Flawx](https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq), [Carlprit](https://open.spotify.com/artist/0Wj6u7zMY2dOLkJGz62bEp) | [Blessed By The Lord](https://open.spotify.com/album/4uZWVApaFznJVfEMbXgbNT) | 2:56 | 2025-10-27 | 2026-02-17 |
 | [Blind](https://open.spotify.com/track/26BRaHXbNuJtVZ36nHoV8a) | [SASS](https://open.spotify.com/artist/3HKCvaNgdKpPbnku7mYk3A) | [Blind](https://open.spotify.com/album/4KUfGRRzXvhSi3m91ANHmd) | 3:44 | 2025-09-17 | 2026-01-15 |
 | [Blind Faith](https://open.spotify.com/track/3nntpWzSUm61YaLy5MYqTm) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Blind Faith](https://open.spotify.com/album/2dvToE0xWlFUbh0GhFxaWB) | 3:38 | 2026-01-14 | 2026-02-23 |
@@ -1147,6 +1149,7 @@
 | [Wonder Why](https://open.spotify.com/track/4NLhC4qN9hagEV5LFYhCZY) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Wonder Why](https://open.spotify.com/album/56AFzt3kCvJJS0APSBrZK8) | 1:30 | 2025-11-04 | 2026-02-23 |
 | [woods \(get lost\)](https://open.spotify.com/track/4tUSXXO5d4cOhqy4jiX8l4) | [Psul Aqae](https://open.spotify.com/artist/7kzBQeS309zaSvqF2yAMRB) | [PITCH PROJECT](https://open.spotify.com/album/6dE7H1VXjCrvtRAzvqelJ8) | 2:35 | 2026-02-14 | 2026-07-23 |
 | [Work From Anywhere](https://open.spotify.com/track/5PMJ3V5KlIDnSBUawpejTa) | [George Pelham](https://open.spotify.com/artist/76Vy0VBFDdQSJT4pQxLDjT) | [Work From Anywhere](https://open.spotify.com/album/5P6h9zYPieQW4B0JM4lsf1) | 2:17 | 2026-04-05 |  |
+| [Work It](https://open.spotify.com/track/4BzouO8SJUHpMiE5mvM2cv) | [Tony Blame](https://open.spotify.com/artist/0bDNPyUJPuO1AXKNTDU2Xc), [Cbass](https://open.spotify.com/artist/2i3goSd4yk5j3dfc17rjlC) | [Work It](https://open.spotify.com/album/7Il9crNJ3w0KRBao1o0KlV) | 3:04 | 2026-08-28 |  |
 | [Workin' On Me \(Refined Version\)](https://open.spotify.com/track/0qwKm3loZ7FuZtnhzHEmN3) | [Nerva](https://open.spotify.com/artist/4Z9e2tlCxKn24HNEAFxOip) | [Workin' On Me \(Refined Version\)](https://open.spotify.com/album/7us00Jmo0nWJUW8GkqN7Bk) | 1:46 | 2026-05-01 |  |
 | [WORLD IS YOURZ](https://open.spotify.com/track/6nyUEr4qfTKkYGvcrHW5MK) | [Suriel](https://open.spotify.com/artist/3Gk8hBO5SYfO2W2xw7NZjJ) | [PRESSURE II](https://open.spotify.com/album/66pMIPGdNUdvKPCojGqxJs) | 2:04 | 2026-01-26 |  |
 | [Worth the Struggle](https://open.spotify.com/track/13cMbzMIydItAmlWYm3L3U) | [David Collins](https://open.spotify.com/artist/61YQF8YHJz9zynwC5I4Gz2) | [Keeper](https://open.spotify.com/album/50qbCRb25OS6DNpNqVaxbm) | 3:14 | 2025-09-17 | 2026-01-15 |
@@ -1175,6 +1178,7 @@
 | [Your Eyes](https://open.spotify.com/track/1pzwOKIWXwyXKg5M6iuFlz) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Your Eyes](https://open.spotify.com/album/3lp2R87wuLtvFceJWmU987) | 3:31 | 2026-08-25 |  |
 | [Your Lies](https://open.spotify.com/track/1yPqymEGhhXgqVeMKJZdQC) | [MONTANO](https://open.spotify.com/artist/3j6v2iBz4UOtxKwWc6lrle) | [Your Lies](https://open.spotify.com/album/69mP01SS5JCSxjg3A2Pc1j) | 4:55 | 2026-01-08 | 2026-02-23 |
 | [Your Love Shines Down Like a Supernova's Death](https://open.spotify.com/track/0pNHZJgtYJoN9UfLvxvOL3) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:06 | 2025-09-17 | 2026-01-15 |
+| [Yours Truly](https://open.spotify.com/track/0YKr5EU0ak0Dq3oWfYeMdN) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Yours Truly](https://open.spotify.com/album/5si7G1jQNCh3EILhLrjCxa) | 3:21 | 2026-08-28 |  |
 | [Yourself](https://open.spotify.com/track/1GLjy14swKzCOl2PwS74fv) | [AMBAK](https://open.spotify.com/artist/7fiI0BYkdtlQ34j4DIcstY) | [Yourself](https://open.spotify.com/album/6HWhQEgD2RDKsmI4OE0kwu) | 2:04 | 2025-09-23 | 2026-01-15 |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2025-11-02 | 2026-02-23 |
 | [Yugoslavia](https://open.spotify.com/track/2L0NsIbGFysODDb1qkD105) | [Ivanovski The Great](https://open.spotify.com/artist/018l4d5oVLKYYTxggwEqqI) | [Yugoslavia](https://open.spotify.com/album/65nEphog4h7sdwIjv6WImN) | 2:49 | 2026-01-05 | 2026-02-23 |

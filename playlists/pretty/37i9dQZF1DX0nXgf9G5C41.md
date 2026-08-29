@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 
 > A dive into the revival of hardcore punk from DIY to mainstream stages
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,679 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,710 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 | 49 | [Hate Training](https://open.spotify.com/track/7nqAMTYfEp2WzchCcxXMeK) | [Punitive Damage](https://open.spotify.com/artist/32puPZDhSygVTfmi1hQUlQ) | [Hate Training b/w Baptism of Fire](https://open.spotify.com/album/7a1xHgtMBG7SzhrlwxUCGg) | 1:36 |
 | 50 | [Chosen](https://open.spotify.com/track/55r61EJfvwCJ33xKkm9JET) | [Thirdface](https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG) | [Do It With a Smile](https://open.spotify.com/album/3jgxc23UY1lofVUFVCvUxf) | 1:03 |
 
-Snapshot ID: `AAAAABae53PV/lA4ejOQ2zSQDu1c1CbA`
+Snapshot ID: `AAAAAN2g5RvSEGL7a/6sKGdmgruy/xET`

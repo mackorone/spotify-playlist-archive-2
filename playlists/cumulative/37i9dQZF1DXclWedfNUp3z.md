@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-484 songs - 1 day 9 hr 17 min
+486 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Behind the Eyes](https://open.spotify.com/track/7oFocF6NHEyASI4A8y0aCS) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR), [FSOL](https://open.spotify.com/artist/3jOeWmwth0yR5cuXLWXNme) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 6:26 | 2021-11-24 | 2024-09-17 |
 | [Besides You](https://open.spotify.com/track/0Ux83HlRGB8O4DPFXMPuT3) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Oliver](https://open.spotify.com/album/1Zy4HydcCJHo5KstRHgiRG) | 1:20 | 2021-10-20 | 2022-04-21 |
 | [BETA](https://open.spotify.com/track/3qw2hvViEGRFhJgUzD0JV8) | [Memory Garden](https://open.spotify.com/artist/6FpeEQFyQWeVRnEpQfBXd9) | [Dream Phases](https://open.spotify.com/album/0rhLfyF8ldsppYVg6qPjiW) | 6:32 | 2026-08-07 |  |
-| [Bird Language](https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 3:27 | 2025-01-06 |  |
+| [Bird Language](https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 3:27 | 2025-01-06 | 2026-08-29 |
 | [Birdy Island](https://open.spotify.com/track/2YbmzDGhrwcl5s1X3lLU5O) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 2:27 | 2021-10-20 | 2023-12-15 |
 | [Birdy Island](https://open.spotify.com/track/5NMOIpKNftWJ42W9wFGxct) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/3n2XRVTEOWVzxs6o0NcXgJ) | 2:27 | 2021-10-20 | 2022-07-29 |
 | [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 | 2022-09-03 | 2023-05-24 |
@@ -132,6 +132,7 @@
 | [Echo Affinity](https://open.spotify.com/track/42cbG4Op4sjhFEHagNsWqT) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T), [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr) | [Field Works: Ultrasonic](https://open.spotify.com/album/5pJLTSGYfTkCnXdcz9Dfyt) | 5:37 | 2021-10-20 | 2022-07-28 |
 | [El Viento Que No Sopla](https://open.spotify.com/track/4X4HLnOhOZ1vK4gZzsgQ6q) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ) | [Los Secretos De La Luz](https://open.spotify.com/album/5N7mINsQuqiJW5vuX9iCNq) | 10:48 | 2025-02-28 |  |
 | [em2500 M253X \[London 03.06.17\]](https://open.spotify.com/track/6j5qH88J2AHWYiNq0tCMjN) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 1:52 | 2024-12-19 |  |
+| [Emergence](https://open.spotify.com/track/2iX8JeAwhdElCOOXOBkmST) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Emergence](https://open.spotify.com/album/11TeUYDhUYDW1nnDCZ7KRX) | 2:45 | 2026-08-28 |  |
 | [En El Bosque](https://open.spotify.com/track/4BZU3KLHn3PzgA4EREWX4l) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Nocturnina](https://open.spotify.com/album/6jSvr6MVCXunzOMKoOxaEE) | 6:34 | 2021-10-20 | 2022-07-29 |
 | [encore](https://open.spotify.com/track/6j9ZkqEmEjpuNIarmiwum2) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [環響音](https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV) | 2:12 | 2026-01-16 |  |
 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 | 2021-10-20 |  |
@@ -139,7 +140,7 @@
 | [Escape Wheel](https://open.spotify.com/track/6yFQMacjTp4imNsBfvvbx2) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Escape Wheel](https://open.spotify.com/album/0kTPROk36sCcIBdSqxP1OQ) | 6:42 | 2023-07-28 | 2023-11-11 |
 | [Espiral \- 冥丁 Remix](https://open.spotify.com/track/15sBxSySsqOVSSknoW2lGX) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q), [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii), [冥丁](https://open.spotify.com/artist/1MFolUggfCDsdJVAcG9acN) | [Espiral \(冥丁 Remix\)](https://open.spotify.com/album/3EcNMaev1ftGBkIBc0LEq2) | 4:11 | 2022-07-15 |  |
 | [Estela](https://open.spotify.com/track/484BYcMwHgvH0RQ4s1m95F) | [co de sus](https://open.spotify.com/artist/1v830WmXPBjRcQLudfXOy1) | [Estela](https://open.spotify.com/album/1q8G9fgUuJS70Z7Y8FuHsJ) | 4:40 | 2022-04-07 | 2022-12-30 |
-| [Estrellas II](https://open.spotify.com/track/1QQL5JeQJH0S4gMYthiqLd) | [Oksana Linde](https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx) | [Travesías](https://open.spotify.com/album/1MLkED8Yzrbs5wLlUnjSgI) | 2:58 | 2025-06-19 |  |
+| [Estrellas II](https://open.spotify.com/track/1QQL5JeQJH0S4gMYthiqLd) | [Oksana Linde](https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx) | [Travesías](https://open.spotify.com/album/1MLkED8Yzrbs5wLlUnjSgI) | 2:58 | 2025-06-19 | 2026-08-29 |
 | [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 | 2022-02-23 |  |
 | [Everlight](https://open.spotify.com/track/6E27OStcsRUvwjCszynEFg) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Everlight](https://open.spotify.com/album/48Qad0TNDOsyYusOMWeWCe) | 2:55 | 2021-10-20 | 2022-07-11 |
 | [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 3:51 | 2021-11-12 | 2022-07-11 |
@@ -291,6 +292,7 @@
 | [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-08-02 | 2024-04-19 |
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 | 2022-09-03 |
 | [Noodles](https://open.spotify.com/track/17Wzd6vAVq0qJqxHHc1iQ3) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 4:52 | 2022-03-30 | 2022-06-22 |
+| [Noon Liquid Ore](https://open.spotify.com/track/6q7FZB4GmywHFMPI33MDhw) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Noon Liquid Ore](https://open.spotify.com/album/7siXfrYv4oeYcqQFtlNjn8) | 4:25 | 2026-08-28 |  |
 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-14 |  |
 | [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-15 | 2024-08-15 |
 | [Nylon Bell Pot](https://open.spotify.com/track/6EoUeqkKpALb2HXWyEYIDk) | [Ben Hackett](https://open.spotify.com/artist/050oABtOYcWMjuoWR7saCa) | [Nylon Bell Pot / Loose Changes 2](https://open.spotify.com/album/3fQsUY9826C3ccViItiPO7) | 3:37 | 2025-03-27 |  |

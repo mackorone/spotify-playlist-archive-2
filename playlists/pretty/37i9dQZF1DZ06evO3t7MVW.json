@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 99867,
+  "num_followers": 99882,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADvYJCuCJEB/1JUaEHsMSuX",
+  "snapshot_id": "ao9+AAAAAAChUxTy9LcuB49vFa7gmdI5",
   "tracks": [
     {
       "added_at": null,
@@ -359,30 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like That (feat. Bradley Nowell)",
-        "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Jakobs Castle",
-          "url": "https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro"
-        },
-        {
-          "name": "Bradley Nowell",
-          "url": "https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG"
         }
       ],
-      "duration_ms": 227554,
-      "name": "Feel Like That (feat. Bradley Nowell)",
-      "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
+      "duration_ms": 227266,
+      "name": "Visions (with Stick Figure)",
+      "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
     },
     {
       "added_at": null,
@@ -423,22 +415,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
+        "name": "Feel Like That (feat. Bradley Nowell)",
+        "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
       },
       "artists": [
         {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Jakobs Castle",
+          "url": "https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro"
+        },
+        {
+          "name": "Bradley Nowell",
+          "url": "https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG"
         }
       ],
-      "duration_ms": 227266,
-      "name": "Visions (with Stick Figure)",
-      "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
+      "duration_ms": 227554,
+      "name": "Feel Like That (feat. Bradley Nowell)",
+      "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
     },
     {
       "added_at": null,

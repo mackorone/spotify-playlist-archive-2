@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "Perrie (Fan Edition)",
+        "url": "https://open.spotify.com/album/3VYER2TreguhiDUlXnTkli"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "2-2",
+      "url": "https://open.spotify.com/track/7bwBoVmrfB0xMbUose7HYb"
+    },
+    {
+      "album": {
         "name": "A Good Night",
         "url": "https://open.spotify.com/album/2hHh6SaRQhRbeXdQkk4cV9"
       },

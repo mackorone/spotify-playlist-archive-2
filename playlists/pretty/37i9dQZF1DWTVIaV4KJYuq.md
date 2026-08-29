@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,934 likes - 110 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,946 likes - 110 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 35 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 |
 | 36 | [Dance Me to the End of Love \- Bonus](https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:05 |
 | 37 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
-| 38 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:49 |
+| 38 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
 | 39 | [Heart of Gold \(Cover\)](https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 2:46 |
 | 40 | [Bridge Over Troubled Water](https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:54 |
-| 41 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
+| 41 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:49 |
 | 42 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [The Things We Do for Love](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
 | 43 | [I Wanna Dance with Somebody](https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY) | [Rachel Brown](https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE) | [The Band](https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0) | 3:39 |
 | 44 | [Wish You Were Here](https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Wish You Were Here](https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C) | 4:45 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 85 | [Common People](https://open.spotify.com/track/0RA1JKkRycZg27V6o70lf7) | [Conor Patrick](https://open.spotify.com/artist/2Zmbe847JU96530bnvtIBh), [Emma Genta](https://open.spotify.com/artist/2mwJYIhbQClnc3UXZBTn1O) | [Common People](https://open.spotify.com/album/1XM4qAth5mhPmlpUJQcKlg) | 4:03 |
 | 86 | [The Times They Are A\-Changin’ \- Performance Version](https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [The Times They Are A\-Changin’ \(Performance Version\)](https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6) | 3:00 |
 | 87 | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/album/7opVxBLRbaAq1q7aMSLeHo) | 4:18 |
-| 88 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
-| 89 | [The Way You Make Me Feel](https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Way You Make Me Feel](https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp) | 3:52 |
+| 88 | [The Way You Make Me Feel](https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Way You Make Me Feel](https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp) | 3:52 |
+| 89 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
 | 90 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0) | [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [Covers Collection](https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy) | 3:20 |
 | 91 | [Here Comes Your Man](https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO), [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Here Comes Your Man](https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK) | 2:39 |
 | 92 | [Season of the Witch](https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [Lunafied](https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of) | 5:20 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 105 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 106 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
 | 107 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 |
-| 108 | [With A Little Help From My Friends](https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N) | 5:12 |
-| 109 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
-| 110 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
+| 108 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
+| 109 | [With A Little Help From My Friends](https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N) | 5:12 |
+| 110 | [Days Like This](https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq) | 2:29 |
 
-Snapshot ID: `AAAAAOfemItYeYnPLqruxgp6SrY5gKON`
+Snapshot ID: `AAAAACXY7sp6zBVOpLpOuc6YGu/obv84`

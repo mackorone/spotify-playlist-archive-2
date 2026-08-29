@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 66445,
+  "num_followers": 66474,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADGpQ0stN6t7xoxY43qs3q9",
+  "snapshot_id": "ao9+AAAAAABzO8OaB3hugpdZRdKwj8e3",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Cannot Be Stopped",
-        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Chris Quilala",
-          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 261360,
-      "name": "You Cannot Be Stopped",
-      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+      "duration_ms": 290133,
+      "name": "Great Things",
+      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "You Cannot Be Stopped",
+        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 290133,
-      "name": "Great Things",
-      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
+      "duration_ms": 261360,
+      "name": "You Cannot Be Stopped",
+      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
     },
     {
       "added_at": null,

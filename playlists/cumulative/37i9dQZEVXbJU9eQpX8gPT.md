@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,156 songs - 4 day 20 hr 40 min
+2,157 songs - 4 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Bola](https://open.spotify.com/track/3BOo2w8IGRHAgVrTLPEkLg) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [DEIMI](https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 3:35 | 2025-09-13 | 2025-09-19 |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-04-28 | 2024-09-03 |
 | [Bombonera](https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 3:31 | 2025-06-07 | 2025-06-11 |
-| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-06-28 | 2026-08-18 |
+| [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-06-28 |  |
 | [Bonne année](https://open.spotify.com/track/6H2GjPvnzQp3SeSD3ATQQk) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Nessun Dorma](https://open.spotify.com/album/3P3HOG65MAutJUYkKfByN9) | 3:09 | 2021-07-04 | 2021-07-15 |
 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 | 2024-07-27 | 2024-10-23 |
 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 | 2025-12-20 | 2026-05-24 |
@@ -1277,7 +1277,7 @@
 | [MINUIT D'APRÈS](https://open.spotify.com/track/55pzc28mlzcpExm9yBw7US) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [MINUIT D'APRÈS](https://open.spotify.com/album/1J3tSpZ8R7Lrqu8zQPQw2v) | 3:03 | 2026-04-14 | 2026-04-19 |
 | [MIRACLE](https://open.spotify.com/track/0Tvxs4vFk1enA3TORHHmMu) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Miracle](https://open.spotify.com/album/5euNvWqq6drNsuB4waFBcI) | 2:36 | 2026-04-25 | 2026-04-29 |
 | [Mission](https://open.spotify.com/track/31GBHnt54ns1UD2CmAmTCW) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:08 | 2023-06-24 | 2023-07-02 |
-| [Mizane](https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc) | 2:57 | 2024-02-13 |  |
+| [Mizane](https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc) | 2:57 | 2024-02-13 | 2026-08-29 |
 | [Mizane](https://open.spotify.com/track/5xQjkh8HwTSGAeQErejyhQ) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/3bkqMAcncddHFeAOxXT3qW) | 2:57 | 2021-03-27\* | 2021-07-04 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-24 | 2023-05-09 |
 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 | 2023-10-14 | 2023-11-25 |
@@ -1954,7 +1954,7 @@
 | [Tromsõ](https://open.spotify.com/track/1O8UJaISI6JML7g7WPTZNa) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 2:34 | 2025-09-13 | 2025-09-20 |
 | [Trump](https://open.spotify.com/track/2C7txY1gksw7OkWz8Ivn6M) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:33 | 2021-06-24 | 2021-06-25 |
 | [Trump](https://open.spotify.com/track/36Bjp9ZefI3K5zeBKOENbn) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Trump](https://open.spotify.com/album/2gZnadHn3UQiCxfckQkoOW) | 3:33 | 2021-06-23 | 2021-06-24 |
-| [Tsswirtek](https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tsswirtek](https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO) | 2:27 | 2025-09-28 |  |
+| [Tsswirtek](https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tsswirtek](https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO) | 2:27 | 2025-09-28 | 2026-08-29 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-09 |
 | [Tsunami](https://open.spotify.com/track/5nPUi1FjzXA2Ur35LIS0X3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:37 | 2023-02-18 | 2023-02-20 |
 | [Tt Va Bien](https://open.spotify.com/track/4Tid3jOcqtTtvGe4IQO5Kv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tt Va Bien](https://open.spotify.com/album/2DbK52rV0HWp7jVKJXDQ2s) | 2:38 | 2021-05-17 | 2022-01-30 |
@@ -2009,6 +2009,7 @@
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2021-12-05 | 2022-01-17 |
 | [Vérité](https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:19 | 2021-12-05 | 2021-12-11 |
 | [W](https://open.spotify.com/track/3WyQmaqMKBHYWLxyFzvbBV) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [W](https://open.spotify.com/album/0Gyj8PmPy4cD2fg0vYuf43) | 2:47 | 2024-10-27 | 2024-11-05 |
+| [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 | 2026-08-28 |  |
 | [wacced out murals](https://open.spotify.com/track/0dYNnBMNujBe6v9JeU5NC5) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 5:17 | 2024-11-23 | 2024-11-25 |
 | [wacced out murals](https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 5:17 | 2024-11-24 | 2024-11-26 |
 | [Wad Al Makhazin](https://open.spotify.com/track/5FyrOaDON6T8au7Xv8M5lr) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 2:51 | 2025-07-05 | 2025-08-01 |

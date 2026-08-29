@@ -1,12 +1,12 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 62788,
+  "num_followers": 62809,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPXjf7UWAhnLkRJRCYZ6FrAFSzvW",
+  "snapshot_id": "AAAAAM1FndRRMEZYJj8uLvEm+2RkBXC8",
   "tracks": [
     {
       "added_at": "2026-08-28 00:02:09",
@@ -303,6 +303,26 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "WHO THIS (feat. BNXN)",
+      "url": "https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
         "name": "ANGELS",
         "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "WHO THIS (feat. BNXN)",
-      "url": "https://open.spotify.com/track/45RiO1tPfqdalo3barp8e9"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -411,6 +411,26 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
+        "name": "Sunita",
+        "url": "https://open.spotify.com/album/6AHQyihE6ZzqkXM1a2yub8"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "Sunita",
+      "url": "https://open.spotify.com/track/56knZKB3FZe2abU33OrsJN"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
         "name": "catharsis",
         "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 147302,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
-        "name": "Sunita",
-        "url": "https://open.spotify.com/album/6AHQyihE6ZzqkXM1a2yub8"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 184607,
-      "name": "Sunita",
-      "url": "https://open.spotify.com/track/56knZKB3FZe2abU33OrsJN"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Gorgeous",
-        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 182790,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "Till The Wheels Fall Off",
         "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 169655,
       "name": "Till The Wheels Fall Off",
       "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7Fo5tL7m98AhCG0GoA5XMx"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 182790,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/26WHsDWr4zdbxtZ1XRdnsD"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -803,26 +803,22 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Okpeke (Dance for Me)",
-        "url": "https://open.spotify.com/album/2YTlHepyfJXo6VdFNCs0y9"
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
       "artists": [
         {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 145328,
-      "name": "Okpeke (Dance for Me)",
-      "url": "https://open.spotify.com/track/4vi0W5kYanPq7TzDMR51I3"
+      "duration_ms": 218947,
+      "name": "Despacito (feat. FOLA)",
+      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -843,22 +839,26 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "No Excuses",
-        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+        "name": "Okpeke (Dance for Me)",
+        "url": "https://open.spotify.com/album/2YTlHepyfJXo6VdFNCs0y9"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
         },
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 218947,
-      "name": "Despacito (feat. FOLA)",
-      "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+      "duration_ms": 145328,
+      "name": "Okpeke (Dance for Me)",
+      "url": "https://open.spotify.com/track/4vi0W5kYanPq7TzDMR51I3"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "ON YOU",
         "url": "https://open.spotify.com/album/3HAjphodzLCIimI20NpAAz"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 160560,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "2026 Golden Run",
-        "url": "https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg"
-      },
-      "artists": [
-        {
-          "name": "TRK.",
-          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
-        }
-      ],
-      "duration_ms": 173471,
-      "name": "Numero Uno",
-      "url": "https://open.spotify.com/track/6vKcCo9wDTcjBiETLlVgul"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "Break Me Down",
         "url": "https://open.spotify.com/album/0SBJsFZNM69n4BygNSXDKm"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+        "name": "2026 Golden Run",
+        "url": "https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
         }
       ],
-      "duration_ms": 149126,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
+      "duration_ms": 173471,
+      "name": "Numero Uno",
+      "url": "https://open.spotify.com/track/6vKcCo9wDTcjBiETLlVgul"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1047,6 +1031,22 @@
       "duration_ms": 192921,
       "name": "Hildabaci - Remix",
       "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "ATOM II",
-        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 157487,
-      "name": "Feel Am",
-      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 170191,
       "name": "Luvaluvah",
       "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "ATOM II",
+        "url": "https://open.spotify.com/album/6RvwiBdC6WFuKyQuc7FE86"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 157487,
+      "name": "Feel Am",
+      "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 163826,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 183000,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 163826,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a"
     },
     {
       "added_at": "2026-08-28 00:02:09",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-08-28 00:02:09",
       "album": {
-        "name": "DEARLY",
-        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 181495,
-      "name": "DEARLY",
-      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
-    },
-    {
-      "added_at": "2026-08-28 00:02:09",
-      "album": {
         "name": "Stay a Little Longer",
         "url": "https://open.spotify.com/album/5KqThHWfVuq0mHpLDJGM34"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 174915,
       "name": "Stay a Little Longer",
       "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
+    },
+    {
+      "added_at": "2026-08-28 00:02:09",
+      "album": {
+        "name": "DEARLY",
+        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 181495,
+      "name": "DEARLY",
+      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
     },
     {
       "added_at": "2026-08-28 00:02:09",

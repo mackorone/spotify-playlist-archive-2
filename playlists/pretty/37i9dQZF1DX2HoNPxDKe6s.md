@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 
 > The hip\-hop party soundtrack of summer, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,526 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,574 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 | 9 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 |
 | 10 | [Spend Dat](https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Spend Dat](https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC) | 3:01 |
 | 11 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
-| 12 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 |
-| 13 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
+| 12 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 |
+| 13 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 |
 | 14 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 |
 | 15 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |
 | 16 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 | 37 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 | 38 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 |
 | 39 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 |
-| 40 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
-| 41 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
-| 42 | [WE ON GO](https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA \(Extended\)](https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1) | 2:48 |
-| 43 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 |
+| 40 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
+| 41 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
+| 42 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 |
+| 43 | [WE ON GO](https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA \(Extended\)](https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1) | 2:48 |
 | 44 | [Crew \(feat\. Brent Faiyaz & Shy Glizzy\)](https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:56 |
 | 45 | [Aston Martin Music](https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 4:30 |
 | 46 | [Bad and Boujee \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 5:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HoNPxDKe6s.md) - [plain]
 | 49 | [Blueberry Faygo](https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Certified Hitmaker](https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ) | 2:42 |
 | 50 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 |
 
-Snapshot ID: `AAAAAMPkSc8Vxjc5zgvh+kQPNsoCS+Dp`
+Snapshot ID: `AAAAACQdvlqkjBxOKV0G5QGbZtML9fNN`

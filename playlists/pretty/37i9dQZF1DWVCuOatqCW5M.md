@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Rito Riba, Hansika Pareek, Shekhar Ravjiani, Swanand Kirkire and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,936 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,011 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 48 | [Tu Mileya](https://open.spotify.com/track/5aVRmW3nY4rOeRojw4h6jQ) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Tu Mileya](https://open.spotify.com/album/2qG7b9E3cDSSncXO5nfjWC) | 3:09 |
 | 49 | [Meri Saansein](https://open.spotify.com/track/1DgdyYtZjfmBOxLuDLHXyH) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js) | [Meri Saansein](https://open.spotify.com/album/45kudbR7PLOdQz52cgP8FW) | 2:39 |
 
-Snapshot ID: `AAAAAOTw9wVbGvDEfbN4/yEpcM8ek4sP`
+Snapshot ID: `AAAAAE2QH8ZcRDXscRSdK5MnxVsNn2zn`

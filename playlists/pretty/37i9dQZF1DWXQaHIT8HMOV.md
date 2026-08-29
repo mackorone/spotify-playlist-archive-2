@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,183 likes - 66 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,206 likes - 66 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 65 | [Setting](https://open.spotify.com/track/1KlO3pDb3AS2Vi0SYMIB8L) | [KAPEKE](https://open.spotify.com/artist/5PmsG49rnSaGHFElOTkHi2), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Setting](https://open.spotify.com/album/4qx633m4zSy8Z6q1BSDbtX) | 2:04 |
 | 66 | [Mangadalena](https://open.spotify.com/track/641jmL3qvN9LopncAeNjBs) | [Echoled](https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k) | [Mangadalena](https://open.spotify.com/album/6URFM6zBF9JSk6LUPjFCvv) | 3:14 |
 
-Snapshot ID: `AAAAAPA+86967ajzfgULJsuhxx7+iabg`
+Snapshot ID: `AAAAAEI3eRCrShvM0E5MG+zzKJ3yZDnX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Pamungkas
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,564 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,532 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 99 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 |
 | 100 | [setidaknya aku telah mencoba](https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [setidaknya aku telah mencoba](https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn) | 2:54 |
 
-Snapshot ID: `AAAAAL8H/uiRI10/SeeJoO8gZeXz4WQQ`
+Snapshot ID: `AAAAAOKaTA8NC6AabrfdQAnoD2mXxoSu`

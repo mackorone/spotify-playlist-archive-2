@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,963 likes - 155 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,111 likes - 155 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 154 | [A Brighter Tomorrow](https://open.spotify.com/track/4qYHigKF19knY6xRZRdDzz) | [Indigo Rae](https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3) | [A Brighter Tomorrow](https://open.spotify.com/album/69XDC2T2Ge8uxw4fr4T4UY) | 2:30 |
 | 155 | [Timeline](https://open.spotify.com/track/66ckeiLFnVpv9IZ5iW3Zcx) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Timeline](https://open.spotify.com/album/3svuR8slEDnUTRXwEpsOah) | 2:59 |
 
-Snapshot ID: `AAAAAA9ZcwyX8OoxkPjc9sJH3CF322Qy`
+Snapshot ID: `AAAAABOLjGhDQ82ROA1CfCE6b8Rfe8pg`

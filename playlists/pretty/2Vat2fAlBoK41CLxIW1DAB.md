@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,583 likes - 1,151 songs - 3 day 0 hr 15 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,583 likes - 1,159 songs - 3 day 0 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1159,5 +1159,13 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1149 | [Summer Fling](https://open.spotify.com/track/3LTaQWHU0KhsxNpayeYgVM) | [Four Stars](https://open.spotify.com/artist/2tdl7uw2qVGiuAk0AjUpGG), [Hardly](https://open.spotify.com/artist/2qvaUQfA66ZSHlifxxvGr3) | [Summer Fling](https://open.spotify.com/album/7b8nvJlo0Q46vlGYTst6sH) | 2:50 |
 | 1150 | [Lift Me Up](https://open.spotify.com/track/6MS9JFqZY2bxILcwyr3n5n) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [Lift Me Up](https://open.spotify.com/album/44YEDKM5XEB1MbzyeiGYqe) | 4:03 |
 | 1151 | [Time](https://open.spotify.com/track/60J0FaM0STeb72RTyIXKbf) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Time](https://open.spotify.com/album/5GCWSi13Cx0ggZKxr4CJFc) | 4:11 |
+| 1152 | [Dispárame](https://open.spotify.com/track/6twbgCaqNnz64uuGJcEuOn) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Todos Amigos](https://open.spotify.com/album/3PiCN0yijn6k2p1EGzhNLr) | 3:27 |
+| 1153 | [Rams Ram](https://open.spotify.com/track/0plEu3wKASWXx9dul04lDF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Rams Ram](https://open.spotify.com/album/1vSFAO5S1fEKOAMkgtCh1T) | 4:27 |
+| 1154 | [The Fall](https://open.spotify.com/track/74ur5oZ28lcRNYOkG8jTnj) | [Point Pleasant](https://open.spotify.com/artist/3hgIVMcwENmMH8A0dl6Njt) | [The Fall](https://open.spotify.com/album/6R8ZtTNKmIHxJY7ACVV1Mg) | 4:07 |
+| 1155 | [Shattered on Removal](https://open.spotify.com/track/45kNbwv3K8FOnfR8PZhsiY) | [Northern Sand](https://open.spotify.com/artist/2pGsj94nqWra3rYjEjDYoG) | [Shattered on Removal](https://open.spotify.com/album/5KMWjnA3rbYaDNW8kQFU9S) | 4:18 |
+| 1156 | [No Friends Left](https://open.spotify.com/track/6L1yZEApeMG2EMWfz7u8U4) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [No Friends Left](https://open.spotify.com/album/05nP9zQOxxEakXpzXALcWf) | 4:08 |
+| 1157 | [Euthanasia](https://open.spotify.com/track/6UwyXsOW9qNrHwpBsbuPkO) | [Morwëna](https://open.spotify.com/artist/2vG7p8ihVMYrJibA9rhs6U) | [Morwëna](https://open.spotify.com/album/4yCcplnApHoEBASJXFOEbm) | 2:48 |
+| 1158 | [Be Fine](https://open.spotify.com/track/5P7QYmlOAGLbiThDsPYRCr) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/008Zi78Bpbq2bZvISxuLqw) | 3:21 |
+| 1159 | [DEAD TO ME](https://open.spotify.com/track/3qMCxw1Ft0kwAlxd95U1m8) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt), [Geena Fontanella](https://open.spotify.com/artist/10wiqOOU6bWDY4TavxRO42), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [MEDUSA](https://open.spotify.com/album/4RQq7Irj68CN1uYQhO1qDC) | 3:16 |
 
-Snapshot ID: `AAAEqfJeEMv1AbCXRf4KNTp1SBFES+kv`
+Snapshot ID: `AAAEsfJqfKQt2pnR+FWPA5accvrd9HXf`

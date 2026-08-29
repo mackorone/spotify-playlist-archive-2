@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: Mrozu, Kacperczyk
 
-988 songs - 2 day 0 hr 1 min
+989 songs - 2 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,8 @@
 | [Lloret de Mar](https://open.spotify.com/track/4S78rQHd6cSC8g2TfdNJTf) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Lloret de Mar](https://open.spotify.com/album/6umGWX7xQ0WgIDeZFsFFYX) | 2:05 | 2024-09-19 | 2025-01-17 |
 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 | 2025-10-02 | 2025-11-28 |
 | [LOSER](https://open.spotify.com/track/2MigZHK1Xjuow1P0BeR5k3) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [LOSER](https://open.spotify.com/album/5xn1mAB7jn8mURro3m2I4H) | 2:45 | 2025-05-01 | 2025-05-16 |
-| [LOT](https://open.spotify.com/track/0A9VVbdNzuSBsBm2XoQEEr) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [LOT](https://open.spotify.com/album/6MiCXhjKttU1iurCMYMc7S) | 2:49 | 2026-08-27 |  |
+| [LOT](https://open.spotify.com/track/0A9VVbdNzuSBsBm2XoQEEr) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [LOT](https://open.spotify.com/album/6MiCXhjKttU1iurCMYMc7S) | 2:49 | 2026-08-27 | 2026-08-29 |
+| [LOT](https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [LOT](https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC) | 2:49 | 2026-08-28 |  |
 | [love song sad](https://open.spotify.com/track/3cfWFPP2ppll7GxjZopnJp) | [NIKOŚ](https://open.spotify.com/artist/3iRmsaD6hZKTJJABRJKlCX) | [love song sad](https://open.spotify.com/album/6Hh6nEb6skP7BkO3bZ0caO) | 2:57 | 2024-09-26 | 2024-10-04 |
 | [LOVESONG](https://open.spotify.com/track/7496oBsqMZXTkKYK9nls14) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [LOVESONG](https://open.spotify.com/album/0J2VCffmw6ZWm2dP4cRO92) | 2:38 | 2025-02-13 | 2025-02-28 |
 | [LUBIMY](https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV) | [LUBIMY](https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT) | 2:28 | 2026-06-11 |  |

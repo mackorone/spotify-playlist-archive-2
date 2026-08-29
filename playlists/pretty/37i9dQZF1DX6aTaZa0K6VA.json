@@ -1,12 +1,12 @@
 {
   "description": "Super mega hits!  Foto: Alex Warren",
-  "num_followers": 6556429,
+  "num_followers": 6555518,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPKUXEYqN6rSWehBMgdnkkIECccd",
+  "snapshot_id": "AAAAAEaofwnmDpLGBkBeeaGVQgJ8V9f0",
   "tracks": [
     {
       "added_at": "2026-08-28 06:00:11",
@@ -95,18 +95,18 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -127,18 +127,18 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2026-08-28 06:00:11",
-      "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "added_at": "2026-08-28 06:00:11",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-08-28 06:00:11",
+      "album": {
         "name": "Come Over",
         "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2026-08-28 06:00:11",
-      "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
+    },
+    {
+      "added_at": "2026-08-28 06:00:11",
+      "album": {
         "name": "PINKY UP",
         "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 145680,
       "name": "Less than a Lover",
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
-    },
-    {
-      "added_at": "2026-08-28 06:00:11",
-      "album": {
-        "name": "Hopes And Fears",
-        "url": "https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "MORNING DEW (DONK)",
-        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 243896,
-      "name": "MORNING DEW (DONK)",
-      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+      "duration_ms": 245490,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 245490,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
-    },
-    {
-      "added_at": "2026-08-28 06:00:11",
-      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2026-08-28 06:00:11",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2026-08-28 06:00:11",
+      "album": {
         "name": "Goals (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 180345,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ"
-    },
-    {
-      "added_at": "2026-08-28 06:00:11",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Madwoman",
-      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
-    },
-    {
-      "added_at": "2026-08-28 06:00:11",
-      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2026-08-28 06:00:11",
       "album": {
-        "name": "Watch It Burn",
-        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
+        "name": "A Matter of Time: The Final Hour",
+        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 175555,
-      "name": "Watch It Burn",
-      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
+      "duration_ms": 239333,
+      "name": "Madwoman",
+      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
     },
     {
       "added_at": "2026-08-28 06:00:11",
@@ -1579,6 +1563,22 @@
       "duration_ms": 221709,
       "name": "make you mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "added_at": "2026-08-28 06:00:11",
+      "album": {
+        "name": "Watch It Burn",
+        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Watch It Burn",
+      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
     },
     {
       "added_at": "2026-08-28 06:00:11",

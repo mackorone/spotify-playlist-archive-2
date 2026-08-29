@@ -1,12 +1,12 @@
 {
   "description": "New bops? Girlies said yes pls \ud83e\udef6 \u2728\ud83d\udc85",
-  "num_followers": 449486,
+  "num_followers": 449471,
   "original_name": "hot girl bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPkeGplNiBz5X2ypQrnToCTdOuUA",
+  "snapshot_id": "AAAAAHNJkzKaJ/oys109slanrnHOxleV",
   "tracks": [
     {
       "added_at": "2026-01-15 23:00:40",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2026-01-15 23:00:40",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
-    },
-    {
-      "added_at": "2026-01-15 23:00:40",
-      "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2026-01-15 23:00:40",
       "album": {
-        "name": "Blue Strips",
-        "url": "https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR"
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
       },
       "artists": [
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 147209,
-      "name": "Blue Strips",
-      "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "added_at": "2026-01-15 23:00:40",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 171335,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
     }
   ],
   "unique_name": "hot girl bops",

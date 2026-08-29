@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/druski/?hl=en">Druski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,725 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,736 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 49 | [Biggest Opp \(feat\. 5th Ward Greedy, Real Taker & Yung Mal\)](https://open.spotify.com/track/6slucYWVAkGbdMXxrmwMED) | [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [5th Ward Greedy](https://open.spotify.com/artist/6vv9MooabxcG6oEZAzrgnF), [Real Taker](https://open.spotify.com/artist/5pVXtBRmHkw3lQRONcNQdA), [Yung Mal](https://open.spotify.com/artist/51UYpk7RRrgbC51ydS0KNg) | [Gotti Outta Here](https://open.spotify.com/album/28UAekns23I51HBjwmAaAN) | 4:34 |
 | 50 | [Vaccine](https://open.spotify.com/track/1t7H77FNwoit8U4NiXij66) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vaccine](https://open.spotify.com/album/3NhMZdOVKu2RWctws9Zk4n) | 2:06 |
 
-Snapshot ID: `AAAAABuOcdtsvImp7T8diy2T6KInIJSZ`
+Snapshot ID: `AAAAAByZXv1HKVKF4qW52iqD+6E8PmMj`

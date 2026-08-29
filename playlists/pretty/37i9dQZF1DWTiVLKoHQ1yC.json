@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 261971,
+  "num_followers": 262016,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEm0GRZ+CpMuixc+808yYpchar6Q",
+  "snapshot_id": "AAAAAICqhRNfQiTfk/eqYT8mJJgHUwFZ",
   "tracks": [
     {
       "added_at": "2026-08-20 23:00:42",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-08-20 23:00:42",
       "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/6RuRTsKl4067TT0a1cBrEA"
+      },
+      "artists": [
+        {
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+        }
+      ],
+      "duration_ms": 158185,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/2C3hYcZLLDBD3FykbvgZ6o"
+    },
+    {
+      "added_at": "2026-08-20 23:00:42",
+      "album": {
         "name": "Spacer",
         "url": "https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 184505,
       "name": "Spacer",
       "url": "https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV"
-    },
-    {
-      "added_at": "2026-08-20 23:00:42",
-      "album": {
-        "name": "Like I Do",
-        "url": "https://open.spotify.com/album/6RuRTsKl4067TT0a1cBrEA"
-      },
-      "artists": [
-        {
-          "name": "Hyzteria",
-          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
-        }
-      ],
-      "duration_ms": 158185,
-      "name": "Like I Do",
-      "url": "https://open.spotify.com/track/2C3hYcZLLDBD3FykbvgZ6o"
     },
     {
       "added_at": "2026-08-20 23:00:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-08-20 23:00:42",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd"
-      },
-      "artists": [
-        {
-          "name": "Nohr",
-          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
-        }
-      ],
-      "duration_ms": 150879,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j"
-    },
-    {
-      "added_at": "2026-08-20 23:00:42",
-      "album": {
         "name": "Strange",
         "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 224731,
       "name": "Strange",
       "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
+    },
+    {
+      "added_at": "2026-08-20 23:00:42",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd"
+      },
+      "artists": [
+        {
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
+        }
+      ],
+      "duration_ms": 150879,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j"
     },
     {
       "added_at": "2026-08-20 23:00:42",
@@ -759,26 +759,6 @@
     {
       "added_at": "2026-08-20 23:00:42",
       "album": {
-        "name": "Burn For You",
-        "url": "https://open.spotify.com/album/48ydweaf3dibsmtvnscQFj"
-      },
-      "artists": [
-        {
-          "name": "Nosi",
-          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
-        },
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        }
-      ],
-      "duration_ms": 161155,
-      "name": "Burn For You",
-      "url": "https://open.spotify.com/track/4NKlu1nHjgLMRGo3qxF7di"
-    },
-    {
-      "added_at": "2026-08-20 23:00:42",
-      "album": {
         "name": "Beside You",
         "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 305235,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
+    },
+    {
+      "added_at": "2026-08-20 23:00:42",
+      "album": {
+        "name": "Burn For You",
+        "url": "https://open.spotify.com/album/48ydweaf3dibsmtvnscQFj"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        }
+      ],
+      "duration_ms": 161155,
+      "name": "Burn For You",
+      "url": "https://open.spotify.com/track/4NKlu1nHjgLMRGo3qxF7di"
     },
     {
       "added_at": "2026-08-20 23:00:42",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-08-20 23:00:42",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
-    },
-    {
-      "added_at": "2026-08-20 23:00:42",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
       },
@@ -887,26 +871,34 @@
     {
       "added_at": "2026-08-20 23:00:42",
       "album": {
-        "name": "Wander",
-        "url": "https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM"
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
       },
       "artists": [
         {
-          "name": "MXV",
-          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
-        },
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
         }
       ],
-      "duration_ms": 210967,
-      "name": "Wander",
-      "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-08-20 23:00:42",
+      "album": {
+        "name": "Feel The Beat Of My Heart",
+        "url": "https://open.spotify.com/album/67TKhqqjMVTO6LJpGRAy10"
+      },
+      "artists": [
+        {
+          "name": "Love,Shaun",
+          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
+        }
+      ],
+      "duration_ms": 130757,
+      "name": "Feel The Beat Of My Heart",
+      "url": "https://open.spotify.com/track/4NVvZMu1g4JijcxDD2puSt"
     },
     {
       "added_at": "2026-08-20 23:00:42",
@@ -931,6 +923,30 @@
       "duration_ms": 220708,
       "name": "Just Can't Stop",
       "url": "https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv"
+    },
+    {
+      "added_at": "2026-08-20 23:00:42",
+      "album": {
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM"
+      },
+      "artists": [
+        {
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        },
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
     },
     {
       "added_at": "2026-08-20 23:00:42",
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2026-08-20 23:00:42",
       "album": {
-        "name": "Feel The Beat Of My Heart",
-        "url": "https://open.spotify.com/album/67TKhqqjMVTO6LJpGRAy10"
-      },
-      "artists": [
-        {
-          "name": "Love,Shaun",
-          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
-        }
-      ],
-      "duration_ms": 130757,
-      "name": "Feel The Beat Of My Heart",
-      "url": "https://open.spotify.com/track/4NVvZMu1g4JijcxDD2puSt"
-    },
-    {
-      "added_at": "2026-08-20 23:00:42",
-      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/02hZdMx9nXn5VyCMalWTnj"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-20 23:00:42",
       "album": {
-        "name": "Thinkin' Bout You",
-        "url": "https://open.spotify.com/album/64RcVLjy4BzPOrHWFC526Q"
-      },
-      "artists": [
-        {
-          "name": "Because of Art",
-          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
-        }
-      ],
-      "duration_ms": 235014,
-      "name": "Thinkin' Bout You",
-      "url": "https://open.spotify.com/track/3HCVUH2yntYEwkdCMSV7ao"
-    },
-    {
-      "added_at": "2026-08-20 23:00:42",
-      "album": {
         "name": "I Never Want This To End EP",
         "url": "https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw"
       },
@@ -1147,6 +1131,30 @@
       "duration_ms": 178793,
       "name": "I Never Want This To End",
       "url": "https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe"
+    },
+    {
+      "added_at": "2026-08-20 23:00:42",
+      "album": {
+        "name": "To The Heart / We Go Again",
+        "url": "https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR"
+      },
+      "artists": [
+        {
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        },
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Maria Metaxa",
+          "url": "https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "To The Heart",
+      "url": "https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91"
     },
     {
       "added_at": "2026-08-20 23:00:42",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,916 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,771 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 27 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 |
 | 28 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
 | 29 | [Vidas Paralelas](https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 3:57 |
-| 30 | [Mira cómo vuelo](https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Detroit](https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT) | 3:09 |
-| 31 | [Viento de Cara](https://open.spotify.com/track/5sKdpvvNyRJifUmYLNiYys) | [Supersubmarina](https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K) | [Viento de Cara](https://open.spotify.com/album/1H12cM0oy1TMb5snNa040x) | 4:17 |
+| 30 | [Viento de Cara](https://open.spotify.com/track/5sKdpvvNyRJifUmYLNiYys) | [Supersubmarina](https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K) | [Viento de Cara](https://open.spotify.com/album/1H12cM0oy1TMb5snNa040x) | 4:17 |
+| 31 | [Mira cómo vuelo](https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Detroit](https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT) | 3:09 |
 | 32 | [Somos Dos](https://open.spotify.com/track/35u3Isd3DuXKAEC7JCC0lB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 3:59 |
 | 33 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
 | 34 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 66 | [Reina Japonesa](https://open.spotify.com/track/0E47pBZ2vm2NkEDKONAIuo) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Por su Atención, Gracias](https://open.spotify.com/album/25mt05Oju0dvQc0M0DXCvS) | 3:37 |
 | 67 | [Te debo una canción](https://open.spotify.com/track/3OZ0BqpkRr5NiZSDzlLLV1) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Te debo una canción](https://open.spotify.com/album/4qsaZeogZgYAFJGbMi0qhz) | 3:31 |
 | 68 | [Espada](https://open.spotify.com/track/74JGKtGEQjx2gXZgSR4v93) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Otra Era](https://open.spotify.com/album/1Ag7xE38iyJ4NzzbRSpvah) | 4:14 |
-| 69 | [El Micrófono](https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Piñata](https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu) | 3:34 |
-| 70 | [Como puedes vivir contigo mismo](https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE) | 4:21 |
+| 69 | [Como puedes vivir contigo mismo](https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE) | 4:21 |
+| 70 | [El Micrófono](https://open.spotify.com/track/2hfGuADMk6YBgciFuJnv5s) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Piñata](https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu) | 3:34 |
 | 71 | [Qué Vida Tan Dura](https://open.spotify.com/track/6G64bXQenyGECXByr6V0jC) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Qué Vida Tan Dura](https://open.spotify.com/album/0ypPJ3XxslrGMZE6qX1AQG) | 3:23 |
 | 72 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 |
 | 73 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 |
@@ -91,16 +91,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 81 | [Enterrarte](https://open.spotify.com/track/1426f7xQMhO5HTvKpv7TbI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sexo Con Modelos](https://open.spotify.com/album/0chduE6pCglPaH32gP0ctx) | 3:27 |
 | 82 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
 | 83 | [El Lado Oscuro de Tu Corazón](https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 3:42 |
-| 84 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
-| 85 | [Adelante](https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:28 |
+| 84 | [Adelante](https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:28 |
+| 85 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
 | 86 | [Frequency](https://open.spotify.com/track/3NV8Q9CmBFcxryZDAJszu4) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Run..\. The Sun Is Burning All Your Hopes](https://open.spotify.com/album/1c7DoDLM0uRXXOGOE2wjes) | 3:09 |
 | 87 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 |
 | 88 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
 | 89 | [Teoria Espacial](https://open.spotify.com/track/5VizzlCG9Dk90xauIBB0Ym) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Teoria Espacial](https://open.spotify.com/album/4Xu9USd1LkXxBAu2GETnqi) | 3:50 |
 | 90 | [Todo Estaba Bien](https://open.spotify.com/track/72m6x9D3NCMs2MsE4wHMIC) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Todo Estaba Bien](https://open.spotify.com/album/7KPVPMG8NmmqMsuPlQDl8P) | 3:08 |
 | 91 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
-| 92 | [PUEDE SER](https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
-| 93 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
+| 92 | [No Longer Fun](https://open.spotify.com/track/2gPCcMmgh2qM6oaKefJ6tW) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Rey Pila](https://open.spotify.com/album/1TqxGOWXOg9ds7mQicRSWS) | 3:25 |
+| 93 | [PUEDE SER](https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 94 | [Cuestión De Suerte](https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Cuestión De Suerte](https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t) | 3:13 |
 | 95 | [El Destino](https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Franco \(Bonus Track Version\)](https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj) | 3:24 |
 | 96 | [Como Vez Primera](https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 99 | [LA ARAÑA](https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Isla de Oro](https://open.spotify.com/album/0dm3jrhjmQgBMNZGtJsnr8) | 3:29 |
 | 100 | [Minutos de Aire \(feat\. Jorge Gonzalez\)](https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 5 Coyote Nights](https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F) | 4:37 |
 
-Snapshot ID: `AAAAACs80y0xtKC2HtYCXPD4XcYGBVkm`
+Snapshot ID: `AAAAAM1Dyz6BqE+u9PdTsGszZoW1+mcO`

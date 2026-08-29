@@ -6697,6 +6697,24 @@
     },
     {
       "album": {
+        "name": "carefree and loose",
+        "url": "https://open.spotify.com/album/6j9ayYbsBSZ4IwJucbiob6"
+      },
+      "artists": [
+        {
+          "name": "CADEJO",
+          "url": "https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up"
+        }
+      ],
+      "date_added": "2026-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298500,
+      "name": "carefree",
+      "url": "https://open.spotify.com/track/0bfQGykryWLoSnsNhzm0lu"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/23Nqf1f0vBrhOET902Anet"
       },

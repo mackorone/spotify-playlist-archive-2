@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,665 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,674 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 25 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 |
 | 26 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 |
 | 27 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 |
-| 28 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
-| 29 | [Born to Roam](https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0) | [Phil Campbell and the Bastard Sons](https://open.spotify.com/artist/7fRzvXVDS5fOLD91WQwE6q) | [We're the Bastards](https://open.spotify.com/album/7tCaRKwyNx4rCewpPyD8yv) | 4:58 |
+| 28 | [Born to Roam](https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0) | [Phil Campbell and the Bastard Sons](https://open.spotify.com/artist/7fRzvXVDS5fOLD91WQwE6q) | [We're the Bastards](https://open.spotify.com/album/7tCaRKwyNx4rCewpPyD8yv) | 4:58 |
+| 29 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
 | 30 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 |
 | 31 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
 | 32 | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Middle of Nowhere \(feat\. Chad Kroeger\)](https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 74 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 |
 | 75 | [Alabama](https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP) | [Bishop Gunn](https://open.spotify.com/artist/78FpcvFFNC1ZTrUvWb0tlm) | [Natchez](https://open.spotify.com/album/7cuM4fOrG1nbdsGggB4Zq4) | 3:34 |
 
-Snapshot ID: `AAAAAONeVXZc7YVlrZLLXquIqVA905DJ`
+Snapshot ID: `AAAAAEtgWZ0JhuS3c1ZaOqlWX0QVIK++`

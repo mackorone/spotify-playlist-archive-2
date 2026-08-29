@@ -4,7 +4,7 @@
 
 > This is BK\. The essential tracks, all in one playlist.
 
-169 songs - 10 hr 42 min
+170 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Não Preciso Que Você Duvide](https://open.spotify.com/track/3Cx69RPbGwXtBYJeMwUkZc) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Cidade do Pecado](https://open.spotify.com/album/1rqGgyvgN6ypRrnh0s6hsn) | 2:38 | 2023-09-18 | 2025-11-26 |
 | [Né Segredo](https://open.spotify.com/track/4Cjlg0MKu53vqeyLif4n44) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:02 | 2024-03-30 | 2024-11-23 |
 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 | 2023-09-18 | 2025-12-06 |
+| [O Mundo é Nosso](https://open.spotify.com/track/324k0ESF7Z8HjZYusqKIdc) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 3:43 | 2026-08-29 |  |
 | [O Próximo Nascer do Sol](https://open.spotify.com/track/0ohQxfwxXcXA6TsZK6egvJ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/2R3jSaMM1H6qecjhZtlgJH) | 3:06 | 2023-09-18 | 2024-04-02 |
 | [O Próximo Nascer do Sol](https://open.spotify.com/track/47PieBHqNxpbLZqsDAUCI4) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 3:06 | 2025-05-29 | 2025-11-27 |
 | [O Próximo Nascer do Sol](https://open.spotify.com/track/60B493B55sBjjJ5JFhAUkm) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 3:06 | 2025-11-27 |  |

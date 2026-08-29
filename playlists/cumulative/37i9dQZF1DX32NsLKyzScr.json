@@ -14505,6 +14505,24 @@
     },
     {
       "album": {
+        "name": "Keep Control",
+        "url": "https://open.spotify.com/album/5TQ88IYim8ADpDkDWnZWUA"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "date_added": "2026-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Keep Control",
+      "url": "https://open.spotify.com/track/2ldf5EYPaRXPqPlX50Sgbx"
+    },
+    {
+      "album": {
         "name": "Keep The Love (Tom Staar Remix)",
         "url": "https://open.spotify.com/album/0gQhkTqf5yzb1bXseIv0qS"
       },
@@ -20838,7 +20856,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 260039,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN"

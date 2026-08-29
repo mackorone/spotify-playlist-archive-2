@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 140355,
+  "num_followers": 140364,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABzxMgLSh9U5J2zKFPkpDhn",
+  "snapshot_id": "ao9+AAAAAADIjml+4ujex6YWHqE9Nloh",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Secret Love",
-        "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 252609,
-      "name": "Your Secret Love",
-      "url": "https://open.spotify.com/track/56JRqiQ6QRaehxkG8852pL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dance",
         "url": "https://open.spotify.com/album/5GHzB4bwVYzl7Cbz17z8wb"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 257800,
       "name": "Can't Let You Go (The Sha La Song)",
       "url": "https://open.spotify.com/track/2WB9kG4tMNNtri6xvddDEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Secret Love",
+        "url": "https://open.spotify.com/album/3F4E8x0AIxDFBFjFlLYPeN"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 252609,
+      "name": "Your Secret Love",
+      "url": "https://open.spotify.com/track/56JRqiQ6QRaehxkG8852pL"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance With My Father",
-        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever, For Always, For Love",
         "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
@@ -502,15 +486,11 @@
         {
           "name": "Luther Vandross",
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 385506,
-      "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
-      "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
+      "duration_ms": 304666,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0sIkUPLns02tRPM7pjQEj4"
     },
     {
       "added_at": null,
@@ -559,6 +539,26 @@
       "duration_ms": 302523,
       "name": "Any Love",
       "url": "https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance With My Father",
+        "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 385506,
+      "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
+      "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 558719,
-      "name": "Superstar / Until You Come Back to Me (That's What I'm Gonna Do)",
-      "url": "https://open.spotify.com/track/6ykYnj6kpUsaUur53jMnhN"
+      "duration_ms": 325953,
+      "name": "Make Me a Believer",
+      "url": "https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luther Vandross",
-        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+        "name": "Power Of Love",
+        "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 261640,
-      "name": "Bring Your Heart To Mine",
-      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
+      "duration_ms": 275119,
+      "name": "Don't Want to Be a Fool",
+      "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
     },
     {
       "added_at": null,
@@ -680,25 +680,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 325953,
-      "name": "Make Me a Believer",
-      "url": "https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Power Of Love",
-        "url": "https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 275119,
-      "name": "Don't Want to Be a Fool",
-      "url": "https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9"
+      "duration_ms": 558719,
+      "name": "Superstar / Until You Come Back to Me (That's What I'm Gonna Do)",
+      "url": "https://open.spotify.com/track/6ykYnj6kpUsaUur53jMnhN"
     },
     {
       "added_at": null,
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Love",
-        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
+        "name": "Luther Vandross",
+        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 337510,
-      "name": "For You to Love",
-      "url": "https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM"
+      "duration_ms": 261640,
+      "name": "Bring Your Heart To Mine",
+      "url": "https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
       "duration_ms": 375791,
       "name": "Because It's Really Love",
       "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Love",
+        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 337510,
+      "name": "For You to Love",
+      "url": "https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night I Fell In Love",
-        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 245551,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 292533,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Night I Fell In Love",
+        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 245551,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3"
     },
     {
       "added_at": null,

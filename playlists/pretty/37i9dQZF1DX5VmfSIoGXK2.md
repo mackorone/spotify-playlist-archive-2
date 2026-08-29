@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > the wonderful sounds of Jazz House, from Norway, Venezuela, Nigeria & beyond 🌎 featuring Dublon
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,317 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,357 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 99 | [rest](https://open.spotify.com/track/61EB06W5tI4TPL7qTnKYsQ) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [rest](https://open.spotify.com/album/5Oc68WoBe2ccnCpbJ1WOYy) | 4:40 |
 | 100 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 |
 
-Snapshot ID: `AAAAADGxtNrRtGOmGFlMwsKxpM4q6jZI`
+Snapshot ID: `AAAAAEWAShaefYtSLotQshYPEeYbVR43`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,462 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,508 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [Coming Home](https://open.spotify.com/track/00LQrrlaoPrNwOXBvu1W8W) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:59 |
 | 50 | [SLY](https://open.spotify.com/track/251NWV5NpXsGQJ6OR2YjVi) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 5:16 |
 
-Snapshot ID: `ao4sgAAAAADBERwUheptSc/0uS9NFQIc`
+Snapshot ID: `ao9+AAAAAABbjr9Dy/04pfykVmh3g059`

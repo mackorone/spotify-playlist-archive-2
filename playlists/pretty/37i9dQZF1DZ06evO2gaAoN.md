@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,204 likes - 39 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,251 likes - 39 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 4 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
 | 5 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 6 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
-| 7 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
-| 8 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/1tLZhEZgYZGP0GeopkBjSG) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/77YroeAWQJO7OkQsx3GfCz) | 3:13 |
+| 7 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/1tLZhEZgYZGP0GeopkBjSG) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/77YroeAWQJO7OkQsx3GfCz) | 3:13 |
+| 8 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
 | 9 | [Truth or Dare](https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:10 |
 | 10 | [MR\. NONCHALANT](https://open.spotify.com/track/12oVYxJ2cLtfQldiPvp4F6) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:17 |
 | 11 | [DYNAMITE](https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [DYNAMITE](https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ) | 2:57 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 38 | [La Di](https://open.spotify.com/track/4OCK9za3Z06Oqj4HaKBE2S) | [Mykyle](https://open.spotify.com/artist/3EdCT2bYR55ySYU7hwbmcG), [Si Xiazi](https://open.spotify.com/artist/0DhzfTcgpek8kkWvNJKwtB), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [La Di](https://open.spotify.com/album/0dSB2LstksZRA0adSfyTbV) | 4:09 |
 | 39 | [Thata Ahh \(feat\. Young Stunna, Madumane & Tyla\)](https://open.spotify.com/track/1lp3GifJS4r6hE6vUCfBzS) | [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [THATA USHAKA](https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL) | 6:13 |
 
-Snapshot ID: `ao4sgAAAAABu8091uTG1l3zmPtkfkoCb`
+Snapshot ID: `ao9+AAAAAADLV/u9H1Av3tFkhb2ZzSvs`

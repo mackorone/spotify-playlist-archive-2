@@ -4,7 +4,7 @@
 
 > Neue Musik von Paula Hartmann, Apache 207, Olivia Rodrigo, Berq, badmómzjay & vielen mehr!
 
-10,355 songs - 21 day 2 hr 32 min
+10,357 songs - 21 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6617,6 +6617,7 @@
 | [Nowhere Fast](https://open.spotify.com/track/2p6y4R0mIqjr919ASPeFh8) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Nowhere Fast](https://open.spotify.com/album/0Had0RbdGN44yC2zoYXA8Z) | 2:56 | 2026-06-26 | 2026-07-03 |
 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 | 2024-05-09 | 2024-05-17 |
 | [NPCs \(mit Aggu\)](https://open.spotify.com/track/2kBllzLD3kRVAecjxkOUrQ) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [NPCs \(mit Aggu\)](https://open.spotify.com/album/6uVRCzyYxSiQSEIWyLHF8D) | 2:24 | 2025-02-06 | 2025-02-14 |
+| [nr1](https://open.spotify.com/track/19AOQXG98wn0gpHxp5nE5r) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [nr1](https://open.spotify.com/album/4Ldt6FuxZ6F1yCnxJGoKhw) | 2:30 | 2026-08-28 |  |
 | [NRW Connect](https://open.spotify.com/track/7na1uJMyHz0a73FMUtrQSi) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [NRW Connect](https://open.spotify.com/album/68ihCoA4fG5J3wzb5MXm7r) | 2:24 | 2024-08-15 | 2024-08-23 |
 | [Nu Lova](https://open.spotify.com/track/5a0GDt1xtU00fGHbXHFfon) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Nu Lova](https://open.spotify.com/album/75c5XqGFHh1SG809KlXhFj) | 3:22 | 2024-09-26 | 2024-10-04 |
 | [Null \- A COLORS SHOW](https://open.spotify.com/track/63NKBJeM4DEa4GkSdCN2tq) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Null \- A COLORS SHOW](https://open.spotify.com/album/2DA4YAyStJMXliF6dHHFmc) | 3:50 | 2026-07-02 | 2026-07-10 |
@@ -7428,6 +7429,7 @@
 | [Recommend](https://open.spotify.com/track/5AKMns2BAQCuZUlVZr5GGD) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Recommend](https://open.spotify.com/album/1guKBOUhoB5kkgwrgAEFpq) | 2:38 | 2026-07-09 | 2026-07-17 |
 | [red bikini](https://open.spotify.com/track/6HRfpEsRjpbi0vuS2od9t9) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [red bikini](https://open.spotify.com/album/0gHXJ2q3TX31arXhf31vbh) | 3:36 | 2026-05-14 | 2026-05-22 |
 | [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 | 2026-06-11 | 2026-06-19 |
+| [Red Bull Weiss](https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Red Bull Weiss](https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme) | 1:50 | 2026-08-28 |  |
 | [Red Cherry](https://open.spotify.com/track/2sn7cJhcBVHyiNhcnmeFee) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [Red Cherry](https://open.spotify.com/album/0GvGdPOAQn9qsPBuXMqy02) | 2:28 | 2025-11-13 | 2025-11-21 |
 | [RED CUPS \(feat\. Paula Hartmann\)](https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [RED CUPS \(feat\. Paula Hartmann\)](https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT) | 3:26 | 2024-09-19 | 2024-09-27 |
 | [Red Eye](https://open.spotify.com/track/2U0nxeHKXOKLG4E30w2WGC) | [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Red Eye](https://open.spotify.com/album/2L7NJFxSMRMSDnY0hqxOiH) | 2:04 | 2026-02-12 | 2026-02-20 |

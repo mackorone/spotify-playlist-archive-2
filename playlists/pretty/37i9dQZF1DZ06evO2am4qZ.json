@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADGTMhkptIb9sEEpYnyDjrK",
+  "snapshot_id": "ao9+AAAAAAAJsPIxF0cL/DDfc5WBE1ar",
   "tracks": [
     {
       "added_at": null,
@@ -149,7 +149,7 @@
         }
       ],
       "duration_ms": 151846,
-      "name": "Playground (from the series Arcane League of Legends) (Baby Tate Remix)",
+      "name": "Playground - from the series Arcane League of Legends (Baby Tate Remix)",
       "url": "https://open.spotify.com/track/24hmRlHbOk8vmvMBTVJbc6"
     },
     {
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chill Hits",
+        "url": "https://open.spotify.com/album/1RniJMnSKSAV3weUsCyoNZ"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 167151,
+      "name": "Yasss Queen",
+      "url": "https://open.spotify.com/track/5dbKYoGRGgKtamrxymtFQh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "why can't we just pretend?",
         "url": "https://open.spotify.com/album/1VNREdUl5SOOkfCcsUFPWJ"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 162060,
       "name": "oOo that's my type",
       "url": "https://open.spotify.com/track/7qE6dk8O1vZ5ow52r3yXRz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Hits",
-        "url": "https://open.spotify.com/album/1RniJMnSKSAV3weUsCyoNZ"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 167151,
-      "name": "Yasss Queen",
-      "url": "https://open.spotify.com/track/5dbKYoGRGgKtamrxymtFQh"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 198482,
-      "name": "BLACK PEARLS (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boys Are From Mars (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 192386,
       "name": "Boys Are From Mars (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 198482,
+      "name": "BLACK PEARLS (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/495HEwAyUnkb6ki1bD9dhS"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What's Love / Sl*t Him Out",
+        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 250774,
+      "name": "What's Love",
+      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 192057,
       "name": "Don\u2019t Even Think About It (with Baby Tate)",
       "url": "https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What's Love / Sl*t Him Out",
-        "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 250774,
-      "name": "What's Love",
-      "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
     },
     {
       "added_at": null,

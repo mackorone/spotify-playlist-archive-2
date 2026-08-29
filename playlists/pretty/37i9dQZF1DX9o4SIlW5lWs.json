@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 283682,
+  "num_followers": 283770,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqFGxy3m1IkXjMMxgaR0qgt5aTZ",
+  "snapshot_id": "AAAAADBV+5a4HskrYPwzleaJdFZfpThV",
   "tracks": [
     {
       "added_at": "2026-06-19 03:00:24",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Sin Fronteras",
-        "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "El Embrujo",
-      "url": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Volver a Vernos",
         "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 171957,
       "name": "Volver a Vernos",
       "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Sin Fronteras",
+        "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 236973,
+      "name": "El Embrujo",
+      "url": "https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "No me sale",
         "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 208506,
       "name": "No me sale",
       "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Latidos",
-        "url": "https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Latidos",
-      "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Le Doy Gracias a la Vida (Y a Todos)",
-        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 191712,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Me Encanta",
         "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 211896,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Le Doy Gracias a la Vida (Y a Todos)",
+        "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 191712,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Amor Pirata",
-      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 205611,
       "name": "Boleto al Amor",
       "url": "https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Amor Pirata",
+      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "La Casa De La Cumbia vol.1",
+        "url": "https://open.spotify.com/album/0GHBhM6ApWzKRsF0QDV3Pi"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Cicactrices",
+      "url": "https://open.spotify.com/track/43qGouonxPSloBl8bUEk4I"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "Tu Sacaganas",
         "url": "https://open.spotify.com/album/7vWrU6A3G7XhVUKEFnspB0"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "La Casa De La Cumbia vol.1",
-        "url": "https://open.spotify.com/album/0GHBhM6ApWzKRsF0QDV3Pi"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Cicactrices",
-      "url": "https://open.spotify.com/track/43qGouonxPSloBl8bUEk4I"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Mensajeros del Amor",
         "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 192120,
       "name": "El Soy Yo",
       "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Vete de Mi Lado",
-        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
-      },
-      "artists": [
-        {
-          "name": "Los Chakales",
-          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Vete de Mi Lado",
-      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Me Equivoqu\u00e9 Otra Vez",
         "url": "https://open.spotify.com/album/5s8s1HOQNJ1Fl9aDLkMQpy"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 175971,
       "name": "Me Equivoqu\u00e9 Otra Vez",
       "url": "https://open.spotify.com/track/2A4e9DgiXeal1EIJa4xAgk"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Vete de Mi Lado",
+        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
+      },
+      "artists": [
+        {
+          "name": "Los Chakales",
+          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Vete de Mi Lado",
+      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Como Duele / Tu Presa / Te Vas A Arrepentir",
-        "url": "https://open.spotify.com/album/7MI2qYvaIGpT4F9pWQ6qwa"
-      },
-      "artists": [
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
-        },
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 457596,
-      "name": "Como Duele/ Tu Presa/ Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/1HP2lOzVbv8WHUT6IIgYCf"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Si Te Agarran Las Ganas",
         "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 239418,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Como Duele / Tu Presa / Te Vas A Arrepentir",
+        "url": "https://open.spotify.com/album/7MI2qYvaIGpT4F9pWQ6qwa"
+      },
+      "artists": [
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+        },
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 457596,
+      "name": "Como Duele/ Tu Presa/ Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/1HP2lOzVbv8WHUT6IIgYCf"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "PRELUDIOS (EN VIVO)",
-        "url": "https://open.spotify.com/album/06iXtfYHxTVepSLWT467Wq"
+        "name": "Hay Mas de Mi",
+        "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 207485,
-      "name": "FUE ELLA, FUI YO - EN VIVO",
-      "url": "https://open.spotify.com/track/4oe4Yi4dv1rviTg6w2kLj0"
+      "duration_ms": 213293,
+      "name": "Si Me Lo Pide Otra Vez",
+      "url": "https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Hay Mas de Mi",
-        "url": "https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV"
+        "name": "PRELUDIOS (EN VIVO)",
+        "url": "https://open.spotify.com/album/06iXtfYHxTVepSLWT467Wq"
       },
       "artists": [
         {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 213293,
-      "name": "Si Me Lo Pide Otra Vez",
-      "url": "https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR"
+      "duration_ms": 207485,
+      "name": "FUE ELLA, FUI YO - EN VIVO",
+      "url": "https://open.spotify.com/track/4oe4Yi4dv1rviTg6w2kLj0"
     },
     {
       "added_at": "2026-06-19 03:00:24",

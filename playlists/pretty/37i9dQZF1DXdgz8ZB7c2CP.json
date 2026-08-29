@@ -1,13 +1,29 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udf1f featuring Juelz",
-  "num_followers": 844687,
+  "num_followers": 844675,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANtucUugs409L04MuRuONPjdtMyY",
+  "snapshot_id": "AAAAAIXVsRz06IEFj7ShijVeMDLOek//",
   "tracks": [
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "\"Not Found\" (EP)",
+        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
+      },
+      "artists": [
+        {
+          "name": "eric404",
+          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
+    },
     {
       "added_at": "2026-08-21 15:18:15",
       "album": {
@@ -29,56 +45,20 @@
       "url": "https://open.spotify.com/track/3GYv23rXigfEB2Sw6WbCPx"
     },
     {
-      "added_at": "2026-08-14 04:01:52",
+      "added_at": "2026-08-28 16:14:58",
       "album": {
-        "name": "SOLD MY SOUL (Visages Remix)",
-        "url": "https://open.spotify.com/album/3aukM8QnWdm13jRbFXUKFt"
+        "name": "Luire",
+        "url": "https://open.spotify.com/album/2qHnk7ZccHKCzD85XMOP7c"
       },
       "artists": [
         {
-          "name": "BSEARL",
-          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
-        },
-        {
-          "name": "Visages",
-          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
         }
       ],
-      "duration_ms": 246857,
-      "name": "SOLD MY SOUL (Visages Remix)",
-      "url": "https://open.spotify.com/track/15hsxVP6IPOAmwak6xkCEI"
-    },
-    {
-      "added_at": "2026-05-08 04:04:13",
-      "album": {
-        "name": "\"Not Found\" (EP)",
-        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
-      },
-      "artists": [
-        {
-          "name": "eric404",
-          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
-    },
-    {
-      "added_at": "2026-08-21 15:18:15",
-      "album": {
-        "name": "Eat Me Better",
-        "url": "https://open.spotify.com/album/4fhbIL0tPEjPa3abGhPIlk"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Eat Me Better",
-      "url": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"
+      "duration_ms": 218500,
+      "name": "Luire",
+      "url": "https://open.spotify.com/track/3l8jZ0xLKqF31e4zUhxbdR"
     },
     {
       "added_at": "2026-05-01 04:02:39",
@@ -101,24 +81,60 @@
       "url": "https://open.spotify.com/track/6Q7WM5xVcgXIy9qd41EqyZ"
     },
     {
-      "added_at": "2026-08-21 15:18:15",
+      "added_at": "2026-08-28 16:14:58",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/4Ca3BtmO41F1EvydCfcoOw"
+        "name": "WHEN I TALK!",
+        "url": "https://open.spotify.com/album/52IP1UM34Tnd2XXAjaxlGl"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
         },
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Chuck Sutton",
+          "url": "https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN"
         }
       ],
-      "duration_ms": 291971,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/45Q7gfiscW28MWPY9VvebZ"
+      "duration_ms": 173116,
+      "name": "WHEN I TALK!",
+      "url": "https://open.spotify.com/track/6c3EEVUELrRPujWdYCxmDA"
+    },
+    {
+      "added_at": "2026-08-14 04:01:52",
+      "album": {
+        "name": "SOLD MY SOUL (Visages Remix)",
+        "url": "https://open.spotify.com/album/3aukM8QnWdm13jRbFXUKFt"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "SOLD MY SOUL (Visages Remix)",
+      "url": "https://open.spotify.com/track/15hsxVP6IPOAmwak6xkCEI"
+    },
+    {
+      "added_at": "2026-08-21 15:18:15",
+      "album": {
+        "name": "Eat Me Better",
+        "url": "https://open.spotify.com/album/4fhbIL0tPEjPa3abGhPIlk"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Eat Me Better",
+      "url": "https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu"
     },
     {
       "added_at": "2026-08-21 15:18:15",
@@ -135,6 +151,78 @@
       "duration_ms": 172177,
       "name": "HANDS GO HIGHER",
       "url": "https://open.spotify.com/track/0I0N6qLlaOttw24Cdfe1mO"
+    },
+    {
+      "added_at": "2026-08-28 16:14:58",
+      "album": {
+        "name": "808",
+        "url": "https://open.spotify.com/album/6YVrO1ehYsQFlDlYAtTViw"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Cap1talA",
+          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "808",
+      "url": "https://open.spotify.com/track/0r8iGm1w5lPfQsYJ1xwEq6"
+    },
+    {
+      "added_at": "2026-08-21 15:18:15",
+      "album": {
+        "name": "Ignite",
+        "url": "https://open.spotify.com/album/6N0meindJK5Zcks5nlvpeF"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Tasha Baxter",
+          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
+        }
+      ],
+      "duration_ms": 180339,
+      "name": "Ignite",
+      "url": "https://open.spotify.com/track/3jfBMg8uje6vAYTxdK0Jqt"
+    },
+    {
+      "added_at": "2026-08-28 16:14:58",
+      "album": {
+        "name": "ONE TIME 2 THE BEAT",
+        "url": "https://open.spotify.com/album/5kfjzzNlQHAmCLm6pQP4Ae"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 151985,
+      "name": "ONE TIME 2 THE BEAT",
+      "url": "https://open.spotify.com/track/1OFDTRe2Vzjwf4zOCRZBen"
+    },
+    {
+      "added_at": "2026-08-01 02:03:30",
+      "album": {
+        "name": "Spotted I",
+        "url": "https://open.spotify.com/album/2jWptg5kuYUa4JbIUZC1kE"
+      },
+      "artists": [
+        {
+          "name": "Redstain",
+          "url": "https://open.spotify.com/artist/1OtzdqtxsQqVFl3gM5JYDq"
+        }
+      ],
+      "duration_ms": 103285,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5IM3QDSAX5uqoNSSWLJFtj"
     },
     {
       "added_at": "2026-07-17 04:01:39",
@@ -157,6 +245,46 @@
       "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
     },
     {
+      "added_at": "2026-07-31 04:02:28",
+      "album": {
+        "name": "STAR CEILING",
+        "url": "https://open.spotify.com/album/4Re9Hd2rxTMia3AqzgLvhq"
+      },
+      "artists": [
+        {
+          "name": "Caden Jester",
+          "url": "https://open.spotify.com/artist/5EItlcqDuWBook5YJM5NZS"
+        },
+        {
+          "name": "REVEAL",
+          "url": "https://open.spotify.com/artist/26aqV0vefRI5u7UTrgLWNl"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "STAR CEILING",
+      "url": "https://open.spotify.com/track/5GR6bwFexHUIs1sXS1gH3b"
+    },
+    {
+      "added_at": "2026-08-28 16:14:58",
+      "album": {
+        "name": "Bust Up The Set",
+        "url": "https://open.spotify.com/album/5fq3Q6ufiBCdDfUaUaKDL4"
+      },
+      "artists": [
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        },
+        {
+          "name": "Walschlager",
+          "url": "https://open.spotify.com/artist/1nMJGPElEBgfBPnrRV2WgW"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Bust Up The Set",
+      "url": "https://open.spotify.com/track/5lFJSn14SKP1TLZTfadAsT"
+    },
+    {
       "added_at": "2026-08-07 04:02:24",
       "album": {
         "name": "Bad Habit",
@@ -175,6 +303,38 @@
       "duration_ms": 154285,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9"
+    },
+    {
+      "added_at": "2026-07-24 04:02:33",
+      "album": {
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/7l5I1MGwDI6j4l8wSwMs9C"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c"
+    },
+    {
+      "added_at": "2026-08-28 16:14:58",
+      "album": {
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/0dQT90JKL9F1DwypvdXLnS"
+      },
+      "artists": [
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        }
+      ],
+      "duration_ms": 219510,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/06YSAXL2SkQImWg1oAivg8"
     },
     {
       "added_at": "2026-08-07 04:02:24",
@@ -213,6 +373,22 @@
       "url": "https://open.spotify.com/track/0vAFaI4Dx0qdhRR1WmlIU7"
     },
     {
+      "added_at": "2026-08-28 16:14:58",
+      "album": {
+        "name": "GOIN' ALL THE WAY",
+        "url": "https://open.spotify.com/album/1vsUmqCmrUZl37jF0Vq9ou"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "GOIN' ALL THE WAY",
+      "url": "https://open.spotify.com/track/0y7coha2WoxWkEBsKVfBBz"
+    },
+    {
       "added_at": "2026-08-14 04:01:52",
       "album": {
         "name": "Buggy",
@@ -233,26 +409,6 @@
       "url": "https://open.spotify.com/track/5HzP8YYL1893UOmIrrD6FV"
     },
     {
-      "added_at": "2026-07-31 04:02:28",
-      "album": {
-        "name": "STAR CEILING",
-        "url": "https://open.spotify.com/album/4Re9Hd2rxTMia3AqzgLvhq"
-      },
-      "artists": [
-        {
-          "name": "Caden Jester",
-          "url": "https://open.spotify.com/artist/5EItlcqDuWBook5YJM5NZS"
-        },
-        {
-          "name": "REVEAL",
-          "url": "https://open.spotify.com/artist/26aqV0vefRI5u7UTrgLWNl"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "STAR CEILING",
-      "url": "https://open.spotify.com/track/5GR6bwFexHUIs1sXS1gH3b"
-    },
-    {
       "added_at": "2026-08-21 15:18:15",
       "album": {
         "name": "Want U",
@@ -269,20 +425,20 @@
       "url": "https://open.spotify.com/track/1A0GyxY3IXA27sybS5HpqE"
     },
     {
-      "added_at": "2026-07-24 04:02:33",
+      "added_at": "2026-08-28 16:14:58",
       "album": {
-        "name": "U&I",
-        "url": "https://open.spotify.com/album/7l5I1MGwDI6j4l8wSwMs9C"
+        "name": "fast lane",
+        "url": "https://open.spotify.com/album/1V95zWe9SNVNBe8TnGjwiC"
       },
       "artists": [
         {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
         }
       ],
-      "duration_ms": 152533,
-      "name": "U&I",
-      "url": "https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c"
+      "duration_ms": 188769,
+      "name": "fast lane",
+      "url": "https://open.spotify.com/track/6Ve4d45O3jQpGvnTcStJpQ"
     },
     {
       "added_at": "2026-08-21 15:18:15",
@@ -325,26 +481,6 @@
       "url": "https://open.spotify.com/track/7gZss68Fd1NkvrQ1EfuJED"
     },
     {
-      "added_at": "2026-08-21 15:18:15",
-      "album": {
-        "name": "Ignite",
-        "url": "https://open.spotify.com/album/6N0meindJK5Zcks5nlvpeF"
-      },
-      "artists": [
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        },
-        {
-          "name": "Tasha Baxter",
-          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
-        }
-      ],
-      "duration_ms": 180339,
-      "name": "Ignite",
-      "url": "https://open.spotify.com/track/3jfBMg8uje6vAYTxdK0Jqt"
-    },
-    {
       "added_at": "2026-08-14 04:01:52",
       "album": {
         "name": "CLENCH MY FIST",
@@ -363,6 +499,22 @@
       "duration_ms": 185142,
       "name": "CLENCH MY FIST",
       "url": "https://open.spotify.com/track/620nKA2eC0ItixHC1pGHBA"
+    },
+    {
+      "added_at": "2026-08-28 16:14:58",
+      "album": {
+        "name": "CALL ME",
+        "url": "https://open.spotify.com/album/0kuEYc7r5HsWu9v9avK9Wz"
+      },
+      "artists": [
+        {
+          "name": "LUMBERJVCK",
+          "url": "https://open.spotify.com/artist/4KGyomagqa7oWswreOlh3T"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "CALL ME",
+      "url": "https://open.spotify.com/track/7sG81qzdP3H3EdBVve8A3r"
     },
     {
       "added_at": "2026-07-31 04:02:28",
@@ -421,6 +573,22 @@
       "url": "https://open.spotify.com/track/450o2Q2eGFkjIPZCx7oU28"
     },
     {
+      "added_at": "2026-08-28 16:14:58",
+      "album": {
+        "name": "GUNMAN",
+        "url": "https://open.spotify.com/album/0pru5JwsxcCJkk82lBLTot"
+      },
+      "artists": [
+        {
+          "name": "Chopsoe",
+          "url": "https://open.spotify.com/artist/5y8reXJqfkQwiFoFHOqTzF"
+        }
+      ],
+      "duration_ms": 157741,
+      "name": "GUNMAN",
+      "url": "https://open.spotify.com/track/3neNtifqx7HaNP5gmUQpiL"
+    },
+    {
       "added_at": "2026-08-14 04:01:52",
       "album": {
         "name": "Bright Side",
@@ -439,22 +607,6 @@
       "duration_ms": 199285,
       "name": "Bright Side",
       "url": "https://open.spotify.com/track/50YReqhlfgqzthTUGBhQaF"
-    },
-    {
-      "added_at": "2026-08-01 02:03:30",
-      "album": {
-        "name": "Spotted I",
-        "url": "https://open.spotify.com/album/2jWptg5kuYUa4JbIUZC1kE"
-      },
-      "artists": [
-        {
-          "name": "Redstain",
-          "url": "https://open.spotify.com/artist/1OtzdqtxsQqVFl3gM5JYDq"
-        }
-      ],
-      "duration_ms": 103285,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/5IM3QDSAX5uqoNSSWLJFtj"
     },
     {
       "added_at": "2026-08-21 15:18:15",
@@ -543,26 +695,6 @@
       "duration_ms": 168000,
       "name": "NEEDU2NEEDME",
       "url": "https://open.spotify.com/track/5qtU96Z2JVHIvU0fLMiNE3"
-    },
-    {
-      "added_at": "2026-06-12 15:55:15",
-      "album": {
-        "name": "thumbs",
-        "url": "https://open.spotify.com/album/49sl0vtr7UGlAlqPNi1UG8"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "thumbs",
-      "url": "https://open.spotify.com/track/6vBfayVtFTjDg7eGKNPbrS"
     },
     {
       "added_at": "2026-08-07 04:02:24",
@@ -683,26 +815,6 @@
       "duration_ms": 151304,
       "name": "To My Core",
       "url": "https://open.spotify.com/track/0w7HRZB1DfcPscSJ7hYdhX"
-    },
-    {
-      "added_at": "2026-07-31 04:02:28",
-      "album": {
-        "name": "Baewatch (FREE JIMI Remix)",
-        "url": "https://open.spotify.com/album/2F4nonNuz101zk6h9s5BLc"
-      },
-      "artists": [
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
-        },
-        {
-          "name": "FREE JIMI",
-          "url": "https://open.spotify.com/artist/0S3uHVwh6XhFE69pO20yJf"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Baewatch - FREE JIMI Remix",
-      "url": "https://open.spotify.com/track/3eqQMdKP0wiEKAov3k4bQJ"
     },
     {
       "added_at": "2026-08-14 04:01:52",
@@ -1061,26 +1173,6 @@
       "url": "https://open.spotify.com/track/4ikdOTIV0RlhbSkJFBx2mE"
     },
     {
-      "added_at": "2026-05-15 04:02:26",
-      "album": {
-        "name": "RINGING IN MY HEAD",
-        "url": "https://open.spotify.com/album/5XEjTpsEYMuZtJlo69Zxb7"
-      },
-      "artists": [
-        {
-          "name": "2XT",
-          "url": "https://open.spotify.com/artist/3l5WfQg5rEqCbvLZSyuvVi"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "RINGING IN MY HEAD",
-      "url": "https://open.spotify.com/track/2rlcmaj7JHt6Oz9ewQGoSt"
-    },
-    {
       "added_at": "2026-06-19 04:02:07",
       "album": {
         "name": "Maybe",
@@ -1349,38 +1441,6 @@
       "url": "https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l"
     },
     {
-      "added_at": "2026-05-15 04:02:26",
-      "album": {
-        "name": "DO AS I SAY",
-        "url": "https://open.spotify.com/album/0ldvzzs4B1TDj8kUPv5HLb"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "DO AS I SAY",
-      "url": "https://open.spotify.com/track/56NCLe3cAx4QCtHDhl6WD8"
-    },
-    {
-      "added_at": "2026-02-27 05:00:26",
-      "album": {
-        "name": "WILDFIRES v2",
-        "url": "https://open.spotify.com/album/4SUCNE5WmZM6ocaEwbbvZO"
-      },
-      "artists": [
-        {
-          "name": "Port London",
-          "url": "https://open.spotify.com/artist/4hvH07yUsAeYBO5KeyAefq"
-        }
-      ],
-      "duration_ms": 130928,
-      "name": "WILDFIRES v2",
-      "url": "https://open.spotify.com/track/2Q0VLkprjKv6PLuJb2X4f4"
-    },
-    {
       "added_at": "2026-04-24 04:02:20",
       "album": {
         "name": "Snazur EP",
@@ -1483,26 +1543,6 @@
     {
       "added_at": "2026-04-17 04:04:00",
       "album": {
-        "name": "Panta Rhei (feat. LORA)",
-        "url": "https://open.spotify.com/album/1i1H0WNFhwO3tzHSg8tt49"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "LORA",
-          "url": "https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8"
-        }
-      ],
-      "duration_ms": 147431,
-      "name": "Panta Rhei (feat. LORA)",
-      "url": "https://open.spotify.com/track/4kTfmtKo0VjWqga4sW0WwZ"
-    },
-    {
-      "added_at": "2026-04-17 04:04:00",
-      "album": {
         "name": "Oh Yeah",
         "url": "https://open.spotify.com/album/0LNFvvwOvUhwk1SBSZ0v9u"
       },
@@ -1557,42 +1597,6 @@
       "url": "https://open.spotify.com/track/0Cum83rmJihiD99CkRmOCn"
     },
     {
-      "added_at": "2026-03-20 15:46:35",
-      "album": {
-        "name": "Log On",
-        "url": "https://open.spotify.com/album/38ayWEpDFSJOk8EIUJLVG2"
-      },
-      "artists": [
-        {
-          "name": "Dennett",
-          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Log On",
-      "url": "https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw"
-    },
-    {
-      "added_at": "2026-03-20 15:46:35",
-      "album": {
-        "name": "2 u",
-        "url": "https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 136170,
-      "name": "2 u",
-      "url": "https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB"
-    },
-    {
       "added_at": "2026-01-16 19:10:38",
       "album": {
         "name": "GET WHAT I WANT",
@@ -1627,26 +1631,6 @@
       "duration_ms": 158873,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
-    },
-    {
-      "added_at": "2026-03-20 15:46:35",
-      "album": {
-        "name": "i go hard",
-        "url": "https://open.spotify.com/album/5NSIWxRabxh0ptE8nejj4W"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "i go hard",
-      "url": "https://open.spotify.com/track/4zBWyLe96iTLDSu68zneAj"
     },
     {
       "added_at": "2026-03-06 05:00:25",

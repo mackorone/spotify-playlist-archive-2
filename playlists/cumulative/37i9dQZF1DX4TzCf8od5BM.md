@@ -4,7 +4,7 @@
 
 > Sofia the First: Royal Magic is now available to watch on Disney Jr\. and Disney+!
 
-249 songs - 6 hr 38 min
+250 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Time for Your Check Up \(Bella Version\)](https://open.spotify.com/track/69kHflbAghcdkZbSeK7yeH) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Doc McStuffins \- The Doc and Bella Are In!](https://open.spotify.com/album/1MCUqpnsjpG4d0KwQszJcr) | 1:41 | 2023-09-01 |  |
 | [Time to Build](https://open.spotify.com/track/04ypuaKD73O8Q3i40yWvZ3) | [Pupstruction \- Cast](https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Pupstruction](https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI) | 0:57 | 2023-06-16 |  |
 | [Time to Shine](https://open.spotify.com/track/1qDhlnqtKmW1VUcr7rcz6m) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Sofia the First: Royal Magic](https://open.spotify.com/album/1j0tuWhwfJUN7MbkVZYyQj) | 3:35 | 2026-05-12 | 2026-05-16 |
+| [Time to Shine x Princess Things \(Mashup\) \- From "Disney Jr\. Music: Sofia the First: Royal Magic"](https://open.spotify.com/track/5ucu0vxmDOaimZ7XxXf2C2) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Time to Shine x Princess Things \(Mashup\) \[From "Disney Jr\. Music: Sofia the First: Royal Magic"\]](https://open.spotify.com/album/0B3dsbmhxJ4jN2MYka58ni) | 2:46 | 2026-08-28 |  |
 | [Time to Spidey Save the Day \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/6xQ0m1Y44VjkmFDCpgRq4a) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Time to Spidey Save the Day \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/2IHNXES7SoyxWN1Nr2fpt7) | 2:02 | 2022-03-18 |  |
 | [Too Much of a Good Thing](https://open.spotify.com/track/4TUZu9EHLZ4oBdD2OFdydu) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Alice's Wonderland Bakery](https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI) | 1:29 | 2022-03-18 |  |
 | [Totally Awesome \(Theme Song\) \- From "Disney Jr\. Music: Marvel's Iron Man and His Awesome Friends"](https://open.spotify.com/track/7HlyhsEHiwqHuyQzR5u1Bl) | [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Totally Awesome \(Theme Song\) \[From "Disney Jr\. Music: Iron Man and His Awesome Friends"\]](https://open.spotify.com/album/1l5cv3fTpKRsknNk9qe5h0) | 1:55 | 2025-06-27 |  |

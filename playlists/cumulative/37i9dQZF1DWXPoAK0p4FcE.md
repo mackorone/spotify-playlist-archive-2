@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Uncle Ben
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Safeplanet
 
-192 songs - 13 hr 22 min
+193 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [La La La](https://open.spotify.com/track/0pJmvjvcdE8jD21juh5rjm) | [Funky Wah Wah](https://open.spotify.com/artist/4tfffNgXDx3XSZkcn4APIj), [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [La La La](https://open.spotify.com/album/6CWlXDZuXueZpDdg4CQYrM) | 3:45 | 2024-10-25 | 2025-03-01 |
 | [Lucky](https://open.spotify.com/track/34a5mnnhwNtONOVuOazEri) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [not smoke, but cloud](https://open.spotify.com/album/6lvlRdaGuZsY6FJ3O4wAtd) | 3:17 | 2026-05-07 |  |
 | [Manila](https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [T R E E](https://open.spotify.com/album/17DQWeQS7HlLcufeV1vAMY) | 4:09 | 2024-06-27 | 2025-03-22 |
-| [maybesome](https://open.spotify.com/track/2RoJGBeBTrdqlHA2Eaxe9I) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [maybesome](https://open.spotify.com/album/5dyvEY9NepxqSafQEIWt8w) | 4:20 | 2026-08-14 |  |
+| [maybesome](https://open.spotify.com/track/2RoJGBeBTrdqlHA2Eaxe9I) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [maybesome](https://open.spotify.com/album/5dyvEY9NepxqSafQEIWt8w) | 4:20 | 2026-08-14 | 2026-08-29 |
 | [old school](https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk), [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [old school](https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV) | 2:57 | 2024-10-04 | 2024-11-02 |
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-06-27 | 2025-02-13 |
 | [please](https://open.spotify.com/track/5uh8m6ftdzlDdkUgqjTq6E) | [sujipuli](https://open.spotify.com/artist/03Gzv2feBkh5Po9ZH6Mn64) | [please](https://open.spotify.com/album/7zwYehnbEk2vJQclnXOr4p) | 5:46 | 2025-10-03 | 2025-11-08 |
@@ -76,6 +76,7 @@
 | [ดวงดาว](https://open.spotify.com/track/057fM9Lihc7TEQB26j5OGM) | [Monomania](https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z) | [ดวงดาว](https://open.spotify.com/album/6OR0AK67vjadPL6R5pZaje) | 4:13 | 2025-08-15 | 2025-09-20 |
 | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/track/6BKMVMcZF0vB9LEria3th7) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/album/4UYFjP7uXK2MnYY4zTSTIp) | 3:34 | 2024-06-27 | 2024-08-17 |
 | [ดอกไม้ \(Let it Flow\)](https://open.spotify.com/track/7IKvc0e6Lx0gP21U71cxPS) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [Aheye 4EVE](https://open.spotify.com/artist/2vF2uyBlYQtOStphoKri2q) | [eco • ego](https://open.spotify.com/album/6CWCK74uh8oqdbZJFTiWET) | 3:53 | 2026-05-22 | 2026-06-20 |
+| [ดั่งถูกกำหนดไว้ \( The Moment \)](https://open.spotify.com/track/3s5fZynFonUi3KtB1fQrRM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดั่งถูกกำหนดไว้ \( The Moment \)](https://open.spotify.com/album/4WmPgsX2Ry61WTPfHR49Iw) | 3:34 | 2026-08-28 |  |
 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 | 2024-11-01 |  |
 | [ดาวเคราะห์](https://open.spotify.com/track/6Sk7GuEpr3NYxVsMmRYHZM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดาวเคราะห์](https://open.spotify.com/album/1kLrFPixDXY499py8uQryD) | 4:00 | 2024-11-28 | 2025-11-15 |
 | [ดีใจที่เคยได้รักเธอ](https://open.spotify.com/track/5kQmnmvaRqdOvrHXcwdBrN) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ดีใจที่เคยได้รักเธอ](https://open.spotify.com/album/4g1fCj4DX9L8JCptDEbYVW) | 4:37 | 2026-05-15 | 2026-08-08 |

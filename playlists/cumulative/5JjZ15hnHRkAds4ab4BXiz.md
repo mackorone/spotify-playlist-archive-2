@@ -4,7 +4,7 @@
 
 > 
 
-936 songs - 2 day 11 hr 50 min
+941 songs - 2 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Alien Crime Lord](https://open.spotify.com/track/4S5T3NPeWSPqgb3ElxL8MN) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Alien Crime Lord](https://open.spotify.com/album/5qIsoDussf4NrGw5WC9rXM) | 4:25 | 2024-06-06 |  |
 | [ALieNNatioN](https://open.spotify.com/track/7zpHInsypgrnY9zTeCXtI4) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:39 | 2024-06-06 |  |
 | [All I Need](https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:48 | 2025-12-17 |  |
+| [All I Want](https://open.spotify.com/track/4Cy0NHJ8Gh0xMdwyM9RkQm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 6:41 | 2026-08-28 |  |
 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 | 2026-08-20 |  |
 | [All or Nothing](https://open.spotify.com/track/44Wrizz3xIqDzjPREdGoAz) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 2:49 | 2024-12-31 | 2026-06-15 |
 | [All The Time](https://open.spotify.com/track/7uFZNMEZzAGOwQ6EZID1K4) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:01 | 2024-05-11 |  |
@@ -330,6 +331,7 @@
 | [Human Sadness](https://open.spotify.com/track/3YB9cvd668HXBEq8rbBW8P) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 10:56 | 2024-05-19 |  |
 | [Hunting for Witches](https://open.spotify.com/track/64i71pjySnBlA7P46uSGZ7) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:30 | 2024-12-29 |  |
 | [Hymn for a Scarecrow](https://open.spotify.com/track/5HeOentQ2WtfIbaEf2rry0) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 4:50 | 2024-05-24 | 2025-12-21 |
+| [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 | 2026-08-28 |  |
 | [I Can Feel My Heart Touching You](https://open.spotify.com/track/5BY4CcMVoeobiQOFtNj1VY) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [To See the Next Part of the Dream](https://open.spotify.com/album/5IyHtkKQvafw7bQYFnx4FO) | 5:36 | 2026-05-16 |  |
 | [I Can't Put My Finger on It](https://open.spotify.com/track/1a5OuEJpTzTPNPEeN6GYV7) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 2:25 | 2024-04-08 |  |
 | [I Can't Win](https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:42 | 2024-04-09 |  |
@@ -551,6 +553,7 @@
 | [One More Chance](https://open.spotify.com/track/7d57hJikVPsmA5w2OJl1Mi) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [One More Chance](https://open.spotify.com/album/0g88HGxlhnR64LLoGkebXA) | 4:39 | 2026-08-14 |  |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2024-06-10 | 2024-06-15 |
 | [One of the Ones](https://open.spotify.com/track/4nVOB6SE1RxldJIzIEEsk0) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 2:38 | 2024-06-06 |  |
+| [One Touch](https://open.spotify.com/track/6nlmCGmPBYfdKnMpavObQm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 7:45 | 2026-08-28 |  |
 | [One Way Trigger](https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 4:02 | 2024-05-11 |  |
 | [Only In Dreams](https://open.spotify.com/track/6HGnJDJRjuWz1QR7VMIJuG) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2) | 7:59 | 2024-04-04 |  |
 | [Open Book](https://open.spotify.com/track/57mKauLYvQxeHeN0zMC4uu) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Capture / Release](https://open.spotify.com/album/5hByxCjY4YeyHivRJFpzL6) | 2:17 | 2026-02-17 |  |
@@ -591,6 +594,7 @@
 | [Possibilities](https://open.spotify.com/track/4lYzgVFaTWuhiG3vBhRBk5) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 1:59 | 2024-04-10 |  |
 | [Possum Springs](https://open.spotify.com/track/5DiXRd8Ag670TymbrjbC5P) | [Alec Holowka](https://open.spotify.com/artist/2msAsizgFUJio7s8sgme16) | [Night in the Woods \(Original Soundtrack, Vol\. 1\) \[At the End of Everything\]](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8) | 5:20 | 2023-11-14 |  |
 | [Posthumous Forgiveness](https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:06 | 2024-05-11 | 2026-02-27 |
+| [Pow Pow](https://open.spotify.com/track/3VhBuvzzuGUuh7nyJJvGLk) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 8:23 | 2026-08-28 |  |
 | [Powerlines](https://open.spotify.com/track/7nmtH3cyqEmKz8F09V60yO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:18 | 2026-04-10 |  |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-03-12 | 2025-10-14 |
 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 | 2024-04-05 |  |
@@ -932,6 +936,7 @@
 | [You Just Haven't Earned It Yet, Baby](https://open.spotify.com/track/3EHD1utxPtIogoeZ7QrVWT) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:33 | 2025-12-15 |  |
 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 | 2024-06-16 |  |
 | [You Talk Way Too Much](https://open.spotify.com/track/6lnnaGN20kl0jEYJSxCgU9) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:06 | 2024-04-03 |  |
+| [You Wanted a Hit](https://open.spotify.com/track/3fU0407Cls1hLW1ap5w2Lr) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 9:06 | 2026-08-28 |  |
 | [You're in It](https://open.spotify.com/track/3883MsT2s2VZhK52S0nCmt) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Klang](https://open.spotify.com/album/5Nc7Gz3OpFuC59MIch0lvF) | 3:06 | 2026-02-17 |  |
 | [You're So Right](https://open.spotify.com/track/22iKX3jvZwZNW7RlrwQ822) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 2:33 | 2024-05-10 |  |
 | [You're This Way Now](https://open.spotify.com/track/3hPrOo9ePoX26RjR0GLcQX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Ferric Oxide \(Demos 1997 \- 2001\)](https://open.spotify.com/album/2XEgoiYtf35w31ZZm3isN0) | 3:44 | 2026-05-17 |  |

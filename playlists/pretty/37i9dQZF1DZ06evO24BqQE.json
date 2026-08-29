@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 52631,
+  "num_followers": 52663,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAD0ROdeiOoSWyAELNUT+a5o",
+  "snapshot_id": "ao9+AAAAAAAXe7QCPOF4yyoaHu0qFffU",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "alone (Remix)",
-        "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 154578,
-      "name": "alone - Remix",
-      "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
+      "duration_ms": 178910,
+      "name": "Frank Sinatra",
+      "url": "https://open.spotify.com/track/0d7KdxC7iAxRKDjNdx2seP"
     },
     {
       "added_at": null,
@@ -259,22 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Game Needs Us",
-        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+        "name": "alone (Remix)",
+        "url": "https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 178910,
-      "name": "Frank Sinatra",
-      "url": "https://open.spotify.com/track/0d7KdxC7iAxRKDjNdx2seP"
+      "duration_ms": 154578,
+      "name": "alone - Remix",
+      "url": "https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4"
     },
     {
       "added_at": null,
@@ -447,6 +447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Many Ways (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Propeller (feat. Dave & BNXN)",
         "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 204440,
       "name": "Propeller (feat. Dave & BNXN)",
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Many Ways (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
       "added_at": null,

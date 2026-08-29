@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 
 > The most interesting tracks in the current world of pop music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,678 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,164 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 61 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
 | 62 | [Silver Lining](https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/0jAVa8PcQSqGTFIXVyxFoy) | 3:17 |
 | 63 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
-| 64 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
-| 65 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
+| 64 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
+| 65 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
 | 66 | [Bluest Flame](https://open.spotify.com/track/41goAg1ZxePWjXXfZ7PhG7) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:42 |
 | 67 | [Orbit](https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Fools Gold](https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV) | 3:12 |
 | 68 | [FU & UF](https://open.spotify.com/track/6vcMLDXzAHtw4fg2mI6veW) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [FU & UF](https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1) | 2:39 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 91 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 |
 | 92 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 |
 | 93 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 |
-| 94 | [Miss Me Vendetta](https://open.spotify.com/track/0gxTKWnU4Nw96sA4na2xUN) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Miss Me Vendetta](https://open.spotify.com/album/5WuxJ5z2dRAVEvy3Jzm5p6) | 3:03 |
-| 95 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
+| 94 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
+| 95 | [Miss Me Vendetta](https://open.spotify.com/track/0gxTKWnU4Nw96sA4na2xUN) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Miss Me Vendetta](https://open.spotify.com/album/5WuxJ5z2dRAVEvy3Jzm5p6) | 3:03 |
 | 96 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
 | 97 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 |
 | 98 | [Fire and Gasoline \- A COLORS ENCORE](https://open.spotify.com/track/1xcpUNL3PDeoiELg1G9xWX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Fire and Gasoline \- A COLORS ENCORE](https://open.spotify.com/album/2QasLXrreblFvRUsgYhj6v) | 3:11 |
 | 99 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
-| 100 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
+| 100 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 
-Snapshot ID: `AAAAAGqpmhIx0XORduOknBA4XUk1s3eK`
+Snapshot ID: `AAAAAIvKX4rFzOWU6ebcsdmrBl82d0Hi`

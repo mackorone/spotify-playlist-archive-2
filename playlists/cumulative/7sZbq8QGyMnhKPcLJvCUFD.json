@@ -8997,6 +8997,28 @@
     },
     {
       "album": {
+        "name": "LABELS",
+        "url": "https://open.spotify.com/album/5fRlErO9wTjsowLapItSS0"
+      },
+      "artists": [
+        {
+          "name": "Lynxie",
+          "url": "https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C"
+        },
+        {
+          "name": "Pat",
+          "url": "https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "LABELS",
+      "url": "https://open.spotify.com/track/10QU20w7EtwdmgWty5ePIq"
+    },
+    {
+      "album": {
         "name": "Lost Words EP",
         "url": "https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI"
       },

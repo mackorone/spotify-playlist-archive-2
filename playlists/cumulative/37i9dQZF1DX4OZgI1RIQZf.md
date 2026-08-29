@@ -4,7 +4,7 @@
 
 > The best indie songs from all decades for your Halloween party
 
-182 songs - 11 hr 8 min
+183 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Help I'm Alive](https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 4:45 | 2023-10-27 |  |
 | [Help I'm Alive](https://open.spotify.com/track/0cahtHEywK64NSWqm2SDTi) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH) | 4:46 | 2022-10-26 | 2024-04-19 |
 | [Highly Suspicious](https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Evil Urges](https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1) | 3:04 | 2022-10-26 |  |
+| [Holiday in Lily Dale](https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ) | [Get Well Soon](https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s) | [Holiday in Lily Dale](https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ) | 4:53 | 2026-08-28 |  |
 | [House of Cards](https://open.spotify.com/track/7lsXE4f6JvbQC2bVUsEQHI) | [The Crush](https://open.spotify.com/artist/75Tzs2XdfSZUvMZZrivNDb) | [Samhain](https://open.spotify.com/album/486TNLvAmoExeXdB9Iiu4n) | 3:31 | 2026-04-24 |  |
 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 | 2022-10-26 | 2024-04-19 |
 | [Howlin' for You](https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:11 | 2023-10-27 |  |
@@ -121,10 +122,10 @@
 | [Pet Sematary \(Single Version\)](https://open.spotify.com/track/4R0hIlQuvdDGoXBb8uo1nb) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Hardhitting Halloween Hits](https://open.spotify.com/album/2CHgEwkjnMNavROAqTA77Y) | 3:30 | 2022-11-02 | 2022-11-13 |
 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 | 2022-10-26 |  |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-10-26 |  |
-| [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 | 2022-10-26 |  |
+| [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 | 2022-10-26 | 2026-08-29 |
 | [Release The Bats](https://open.spotify.com/track/5Nb2FhpX5DjmvybICaqDoU) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Live 81\-82](https://open.spotify.com/album/2FbzZ11gAKgysGmMRqmrZf) | 3:05 | 2022-10-26 | 2022-11-03 |
 | [Right On, Frankenstein!](https://open.spotify.com/track/32XH0vxdpKpcJ80NSpRbbz) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:05 | 2022-10-26 | 2024-04-19 |
-| [Right On, Frankenstein!](https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw) | 3:05 | 2023-10-27 | 2026-08-21 |
+| [Right On, Frankenstein!](https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw) | 3:05 | 2023-10-27 |  |
 | [River Styx](https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo \(Deluxe Version\)](https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP) | 3:52 | 2023-10-27 |  |
 | [River Styx](https://open.spotify.com/track/4X5BZo70kQoOcDN2KlbrPC) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII) | 3:55 | 2022-10-26 | 2024-04-19 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-10-16 | 2025-10-25 |
@@ -136,7 +137,7 @@
 | [Skeleton Boy](https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU) | 3:33 | 2022-10-26 | 2024-04-19 |
 | [Skeleton Boy](https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft) | 3:33 | 2023-10-27 |  |
 | [Skeleton Dance](https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl) | 3:37 | 2022-10-26 | 2023-12-04 |
-| [Skeleton Dance](https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/0OaVZJwUqAyLlniMCB5O6K) | 3:37 | 2023-10-27 |  |
+| [Skeleton Dance](https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/0OaVZJwUqAyLlniMCB5O6K) | 3:37 | 2023-10-27 | 2026-08-29 |
 | [Skeleton Dance](https://open.spotify.com/track/4NRa0k3kkCuL0cZDFCBRer) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/7w4b556eeov0CXCQYYYkls) | 3:37 | 2023-10-27 | 2024-04-19 |
 | [Skeleton Song](https://open.spotify.com/track/7H4N9ufe5nkeyAYvWg8OwB) | [Bambi L](https://open.spotify.com/artist/2pcRdJu290vEYb27Az15Vh) | [Skeleton Song](https://open.spotify.com/album/5WUaj6nUeHUVPqYnOfUORW) | 2:42 | 2022-10-26 |  |
 | [Skeleton Song](https://open.spotify.com/track/6r2PtKqXYf0MfAG74uLvsL) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS) | 5:07 | 2023-10-27 |  |

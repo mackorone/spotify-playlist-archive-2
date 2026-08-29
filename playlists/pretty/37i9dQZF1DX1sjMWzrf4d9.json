@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJc5csgMDwy2uD/bEOnWzqvllv7J",
+  "snapshot_id": "AAAAAPRlO2kU0dAcWOOFaOsQWUNFJL6A",
   "tracks": [
     {
       "added_at": "2022-12-01 09:00:00",
@@ -63,22 +63,18 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+      "duration_ms": 210560,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -103,18 +99,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2022-12-01 09:00:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-12-01 09:00:00",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
+    },
+    {
+      "added_at": "2022-12-01 09:00:00",
+      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 255377,
       "name": "United In Grief",
       "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
-    },
-    {
-      "added_at": "2022-12-01 09:00:00",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
     },
     {
       "added_at": "2022-12-01 09:00:00",

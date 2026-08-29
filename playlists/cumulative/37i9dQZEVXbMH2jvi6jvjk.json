@@ -9541,6 +9541,28 @@
     },
     {
       "album": {
+        "name": "27:27",
+        "url": "https://open.spotify.com/album/1Ec0jVUUxyahw0pQRpR04T"
+      },
+      "artists": [
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        },
+        {
+          "name": "Thami Mthabela",
+          "url": "https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Buyelekhaya (feat. Thami Mthabela)",
+      "url": "https://open.spotify.com/track/5pVeDbjv2a1VivRNiOc5j5"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -10684,7 +10706,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 283582,
       "name": "Chocolate Gaga",
       "url": "https://open.spotify.com/track/0sz5lMk2ifLqcbqHTFVLeC"
@@ -26240,7 +26262,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 237662,
       "name": "Isibaya Sikababa",
       "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
@@ -26310,7 +26332,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 251960,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
@@ -28090,7 +28112,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
@@ -31748,7 +31770,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -32302,7 +32324,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 446316,
       "name": "Lilizela",
       "url": "https://open.spotify.com/track/0EHeLEHLDKzU9eiBd61esH"
@@ -38284,7 +38306,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 345248,
       "name": "Natala",
       "url": "https://open.spotify.com/track/0lFyg0WcBIm7tPCKerHyM8"
@@ -40344,7 +40366,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 228179,
       "name": "Ngzomthatha",
       "url": "https://open.spotify.com/track/1fU3m1fWGQsKzm7tfDCjDs"
@@ -47754,7 +47776,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 60081,
       "name": "Sample",
       "url": "https://open.spotify.com/track/2qa3X1zH5beq8hx6mVairO"
@@ -47796,32 +47818,6 @@
       "duration_ms": 335652,
       "name": "Samsokolo",
       "url": "https://open.spotify.com/track/0B2mXxwRJh5CTednLnXpsM"
-    },
-    {
-      "album": {
-        "name": "Tsotsi",
-        "url": "https://open.spotify.com/album/1hqolCrnHaf8uJC23AyC1j"
-      },
-      "artists": [
-        {
-          "name": "Makhadzi Entertainment",
-          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
-        },
-        {
-          "name": "Memie",
-          "url": "https://open.spotify.com/artist/0xobBIVoTC1mgQA54u17uX"
-        },
-        {
-          "name": "Prince Benza",
-          "url": "https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k"
-        }
-      ],
-      "date_added": "2026-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 286944,
-      "name": "Sanamarena (feat. Prince Benza)",
-      "url": "https://open.spotify.com/track/1zwQBlIxyYhBCfNEyfb5i6"
     },
     {
       "album": {
@@ -48569,6 +48565,32 @@
     },
     {
       "album": {
+        "name": "Tsotsi",
+        "url": "https://open.spotify.com/album/1hqolCrnHaf8uJC23AyC1j"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi Entertainment",
+          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
+        },
+        {
+          "name": "Memie",
+          "url": "https://open.spotify.com/artist/0xobBIVoTC1mgQA54u17uX"
+        },
+        {
+          "name": "Prince Benza",
+          "url": "https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k"
+        }
+      ],
+      "date_added": "2026-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286944,
+      "name": "Seanamarena (feat. Prince Benza)",
+      "url": "https://open.spotify.com/track/1zwQBlIxyYhBCfNEyfb5i6"
+    },
+    {
+      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
@@ -48826,7 +48848,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-17",
+      "date_removed": null,
       "duration_ms": 257368,
       "name": "Sefela sa Lekompo",
       "url": "https://open.spotify.com/track/0zA9hFYpwlRNtBQ0o6VcNh"
@@ -53826,7 +53848,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -60516,7 +60538,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 198009,
       "name": "Uyajola lo",
       "url": "https://open.spotify.com/track/4oqN0vEjGjzwppSJFaFuuH"
@@ -61540,7 +61562,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 278804,
       "name": "Vuka Vuka Ksile!!! - Remix",
       "url": "https://open.spotify.com/track/0Dh9VhB2hjN4pkvPvreIzw"

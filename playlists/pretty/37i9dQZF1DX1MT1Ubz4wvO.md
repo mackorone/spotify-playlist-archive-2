@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Estoy Bien
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,496 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,489 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Carta](https://open.spotify.com/track/6f4YYiPtpefhoCQA0MqCJG) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Carta](https://open.spotify.com/album/5T3R0pYhW3KuiQ616wn469) | 3:41 |
 | 2 | [Bite My Tongue](https://open.spotify.com/track/414NTfPwNeMYTPLIICa2CH) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Everything’s Falling](https://open.spotify.com/album/0YJACBRXuL7jthY9RBtlS5) | 3:19 |
-| 3 | [PARAMICORAZON:](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON:](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
+| 3 | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
 | 4 | [ese cuchillo](https://open.spotify.com/track/5drJXzqG72ztStB3YB8iIp) | [El Muchacho de los Ojos Tristes](https://open.spotify.com/artist/0MDwsY5nQTWmb1TPOqVh0H) | [ese cuchillo](https://open.spotify.com/album/7hqEYaGFgXo8YYoUyoe5ca) | 3:11 |
 | 5 | [Cuando Ves Alrededor](https://open.spotify.com/track/074a6TTcnTwOtdkwYsbNRA) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Cuando Ves Alrededor](https://open.spotify.com/album/0V2zNNIXFnSlhdfjVpJtuq) | 4:04 |
 | 6 | [Pa Mis Carnales](https://open.spotify.com/track/2k5OUMIny0ZW6ls1y4ssGf) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Arriba La L](https://open.spotify.com/album/1XKtSl05ezH6lWTmVgTLUL) | 3:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 59 | [Estírate](https://open.spotify.com/track/2Utdhgwpw74c5pTFLxUP4Z) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [Bastardo](https://open.spotify.com/album/2nqk8rdxZ6286HdAjGapI3) | 3:33 |
 | 60 | [Hemos Venido a J\*\*\*\*\*\* Todo](https://open.spotify.com/track/6gLVEHHGOmNXpRnSkRc6rs) | [Nixon](https://open.spotify.com/artist/6F929uaj0yCvUoXHkHft00) | [Hemos Venido a J\*\*\*\*\*\* Todo](https://open.spotify.com/album/1yOciDZBXIuXc4GtwRt8lS) | 3:09 |
 
-Snapshot ID: `AAAAAOchu9og9MKczNOsskfQ74yT67Zc`
+Snapshot ID: `AAAAAIRIby/Y6lSMutaft7LLABxyal+H`

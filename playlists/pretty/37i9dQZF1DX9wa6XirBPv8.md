@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,972 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,159 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 69 | [Transatlanticism](https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe) | 7:55 |
 | 70 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 | 71 | [Catalina Fight Song](https://open.spotify.com/track/2TqfK2N1kFoX7OySPCB7pQ) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 1:05 |
-| 72 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
+| 72 | [The Difference Between Medicine And Poison Is In The Dose](https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [On Letting Go](https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz) | 4:17 |
 | 73 | [Understanding In A Car Crash](https://open.spotify.com/track/3U5TzKrZP6sqiR43LQArV7) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:24 |
-| 74 | [The Difference Between Medicine And Poison Is In The Dose](https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [On Letting Go](https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz) | 4:17 |
+| 74 | [Note to Self](https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 3:53 |
 | 75 | [Punk Rock Princess](https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix) | 3:52 |
 | 76 | [Monsters](https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [VOICES](https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2) | 4:03 |
-| 77 | [Emily](https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 2:39 |
-| 78 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |
-| 79 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
+| 77 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 |
+| 78 | [Beating Heart Baby](https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Decadence](https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6) | 3:23 |
+| 79 | [Emily](https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Dear Diary, My Teen Angst Has A Body Count](https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS) | 2:39 |
 | 80 | [The Mixed Tape \- 2015 Remastered](https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit](https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM) | 3:14 |
 | 81 | [Act Appalled](https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [Juturna](https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP) | 3:20 |
 | 82 | [Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 2:28 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 115 | [In A Sweater Poorly Knit](https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH) | [mewithoutYou](https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo) | [Brother, Sister](https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg) | 5:26 |
 | 116 | [Bruised and Scarred](https://open.spotify.com/track/7EbUzSDb2R7EgyO3uGN1Oz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Anywhere but Here](https://open.spotify.com/album/0JK09CS7SdFERmAiBNjawF) | 3:23 |
 | 117 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 |
-| 118 | [Art Is Hard](https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [The Ugly Organ](https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz) | 2:46 |
-| 119 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |
+| 118 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |
+| 119 | [Art Is Hard](https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [The Ugly Organ](https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz) | 2:46 |
 | 120 | [Aside](https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Left and Leaving](https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe) | 3:21 |
 | 121 | [Is This Thing On?](https://open.spotify.com/track/5dgyKLZKxfreuDaDQwEj9U) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 3:37 |
 | 122 | [Summer](https://open.spotify.com/track/6IJPRTfpS3CkUy67iNCnIg) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Maybe This Place Is The Same And We're Just Changing](https://open.spotify.com/album/15hosvWOCdHKAhXNomH9Ln) | 3:21 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 124 | [This Years Most Open Heartbreak](https://open.spotify.com/track/1AZ8CSdziuczeW2ckUPvO2) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 2:42 |
 | 125 | [The Season](https://open.spotify.com/track/67mSnPBrCNWevJjLplCW66) | [All Get Out](https://open.spotify.com/artist/40YwbT9WnYAkFgBSYtHGQj) | [The Season](https://open.spotify.com/album/2mWwk4gv1U8BneOTqlgQTT) | 3:35 |
 
-Snapshot ID: `AAAAABTidy9oEHlMtJhUcqhj7YTFAKDp`
+Snapshot ID: `AAAAAAInmgR8fTJmKEUFJEZPEjgai8yg`

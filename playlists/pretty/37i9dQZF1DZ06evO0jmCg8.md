@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,527 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,528 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 31 | [Stolen Life](https://open.spotify.com/track/47j6K08MLO1PiYsxv7VCVM) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 2:58 |
 | 32 | [The Race](https://open.spotify.com/track/6tzxM7GwiC5Yci3s08n5B4) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2) | 3:15 |
 | 33 | [I Am Legend/Out for Blood](https://open.spotify.com/track/3y9BI61Ssc71BX3Yh6aE5N) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:58 |
-| 34 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 |
-| 35 | [Bloodstained Cross](https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:49 |
+| 34 | [Bloodstained Cross](https://open.spotify.com/track/5GLFAymISsbuFDjGEtppMV) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:49 |
+| 35 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 |
 | 36 | [Enemy Within](https://open.spotify.com/track/64byKssQy7aEEgACgP5Gys) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:19 |
 | 37 | [Taking Back My Soul](https://open.spotify.com/track/7rk5lB4drqcl2O7fcZoTj9) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:35 |
 | 38 | [Liars & Thieves](https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 49 | [Presage](https://open.spotify.com/track/25HZHTKy9gkPwSCJMsmzpy) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 0:47 |
 | 50 | [Revolution Begins](https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Rise of the Tyrant](https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl) | 4:11 |
 
-Snapshot ID: `ao4sgAAAAAAxDG7X6cuCzCE9YGU8toT/`
+Snapshot ID: `ao9+AAAAAAAMO9+POjHynOY3d9DGe2+C`

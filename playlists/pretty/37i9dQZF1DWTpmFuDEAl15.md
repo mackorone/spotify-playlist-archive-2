@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,429 likes - 111 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,439 likes - 111 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 110 | [U Send Me Swingin'](https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm) | [Mint Condition](https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ) | [From The Mint Factory](https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe) | 5:14 |
 | 111 | [No Mileage](https://open.spotify.com/track/7jv6uNGh1mb61MoYbuZfvU) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Pretty Girlz Run The World](https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh) | 2:13 |
 
-Snapshot ID: `AAAAAFDDJO6O4Dcn29VRfekmrXvlPFGd`
+Snapshot ID: `AAAAAJ94pxWD8HhNTZ7YS9qOoVvS3q29`

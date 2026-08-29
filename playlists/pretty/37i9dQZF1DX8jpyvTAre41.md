@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Wine Lips
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,656 likes - 147 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,698 likes - 147 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 6 | [Everything At Once](https://open.spotify.com/track/5Hwv7ZHrkqqNUe5FpKJRf8) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [There Near](https://open.spotify.com/album/4x9eupWjvX2qpy7pAgPAQE) | 4:13 |
 | 7 | [SEEIN’ STARS: ELTON JOHN VERSION](https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 4:13 |
 | 8 | [Barbarians Blood](https://open.spotify.com/track/2paME07MM072G5YvGaFYM3) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Marrow Deep](https://open.spotify.com/album/0vg1J7pmgC1X7ZeGllEQGz) | 4:37 |
-| 9 | [Boomerang](https://open.spotify.com/track/4z0qFC4CvomKKleyZ5tq4f) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Boomerang](https://open.spotify.com/album/0dR8SKHEpjQuHhXpxQcbUz) | 3:31 |
+| 9 | [Boomerang](https://open.spotify.com/track/53ME7mRitjblNcZsvMGKH5) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Boomerang](https://open.spotify.com/album/3bLzoXBp4F6RZ0IFWaJeqt) | 3:31 |
 | 10 | [Tea Time](https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:46 |
 | 11 | [Wings On Fire](https://open.spotify.com/track/36g619h8gPXcIxOQKDLQ5D) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton](https://open.spotify.com/album/2LgXUDNp1uPV0t55aTlfUT) | 4:15 |
 | 12 | [Bad News](https://open.spotify.com/track/5axFVupg57hf7xoiUSiprW) | [Les Shirley](https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer) | [Bad News](https://open.spotify.com/album/72jtXGWPmEACJ2fLqnBaND) | 3:07 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 146 | [Knocking at the Sky](https://open.spotify.com/track/16naEqXaSBJunVZvqLhsHq) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre \(Deluxe\)](https://open.spotify.com/album/3AGFxS8n4Bicv65GAOW3od) | 4:28 |
 | 147 | [I'm Never Gonna R.I.P.](https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I'm Never Gonna R.I.P.](https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD) | 2:04 |
 
-Snapshot ID: `AAAAAEl2+gZBRBHwhJflZMr49Z1c48Ko`
+Snapshot ID: `AAAAAH8X3mfnz8HdVmZPXpng6X2gUqsN`

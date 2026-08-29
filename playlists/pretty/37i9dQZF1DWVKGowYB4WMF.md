@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 
 > Jelly, arcades and a man on the moon, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,434 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,451 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 8 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 9 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
 | 10 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 11 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
-| 12 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
-| 13 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
+| 11 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:43 |
+| 12 | [Run To You](https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:53 |
+| 13 | [December, 1963 \(Oh What a Night!\)](https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [Who Loves You](https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU) | 3:17 |
 | 14 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
 | 15 | [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 7:14 |
 | 16 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 49 | [Up Where We Belong](https://open.spotify.com/track/5NoUgO4Kr93QymQGQlBC7b) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Ultimate Collection 1968\-2003](https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV) | 3:53 |
 | 50 | [A Groovy Kind of Love \- 2016 Remaster](https://open.spotify.com/track/3BSi5qoJGLab7rn7zfmTPA) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:30 |
 | 51 | [Xanadu](https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45) | 3:28 |
-| 52 | [Love Is The Drug](https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Siren](https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH) | 4:11 |
-| 53 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
+| 52 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
+| 53 | [Love Is The Drug](https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Siren](https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH) | 4:11 |
 | 54 | [Echo Beach](https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ) | [Martha and the Muffins](https://open.spotify.com/artist/5nWbdgU2jcFSbrPV7EAoLK) | [Metro Music](https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX) | 3:39 |
 | 55 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr) | 2:59 |
 | 56 | [Let's Stick Together](https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Let's Stick Together](https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 79 | [Dead Ringer for Love \(with Cher\)](https://open.spotify.com/track/6LR5yuN6XStHDZiusCxqYe) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Dead Ringer](https://open.spotify.com/album/2Y9CaNn1xUX2EJWIiBG45i) | 4:20 |
 | 80 | [What's Love Got to Do with It](https://open.spotify.com/track/0PlxkfQrCeE0XMqcjGlzsi) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:46 |
 
-Snapshot ID: `AAAAAIHnp20Ra5S3ZaSr2IO8oQI1Gv/Z`
+Snapshot ID: `AAAAAJJiYbYavBLxM2ya5H54TmNRNHFW`

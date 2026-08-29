@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,526 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,567 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 35 | [Burns \- Edit](https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Burns \(Edit\)](https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa) | 3:10 |
 | 36 | [Bloom](https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Bloom](https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD) | 3:37 |
 | 37 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
-| 38 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
-| 39 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
+| 38 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
+| 39 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 40 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
 | 41 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 |
 | 42 | [Jaded](https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Reality Testing](https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK) | 4:49 |
-| 43 | [Loading](https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 4:44 |
-| 44 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 |
+| 43 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 |
+| 44 | [Loading](https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 4:44 |
 | 45 | [I Let Go](https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Light Shines Through](https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k) | 4:18 |
 | 46 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
 | 47 | [Marseille](https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Marseille](https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6) | 2:25 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 56 | [X\-Dream](https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [X\-Dream](https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV) | 4:21 |
 | 57 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
 | 58 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
-| 59 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
-| 60 | [the place](https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 3:41 |
+| 59 | [the place](https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 3:41 |
+| 60 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
 | 61 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 62 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
 | 63 | [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 95 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
 | 96 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
 | 97 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
-| 98 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
-| 99 | [Poison Tree](https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Inca Ore / Grouper](https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE) | 3:16 |
-| 100 | [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 |
+| 98 | [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 |
+| 99 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
+| 100 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 |
 
-Snapshot ID: `AAAAAOeOtY35RErZS3h0HtwznY5vKVAy`
+Snapshot ID: `AAAAAGOYJ6J0mxCPY7S1s/ZlyxV2uG9i`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,963 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,962 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [El Manual de Lo Prohibido](https://open.spotify.com/track/4ZigeFK2QTarNLSLallsti) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Raúl Ornelas](https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845) | [Sólo / Ni Tan Sólo 2](https://open.spotify.com/album/4nB4bxKtBnl30ZhYLs6o6T) | 4:05 |
 | 100 | [Porque la Queria](https://open.spotify.com/track/4qGQMRzfi3zZRTMy5HIevR) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Te Seguiré](https://open.spotify.com/album/1oxsfEFwpEc1PnUYTBQpjH) | 3:39 |
 
-Snapshot ID: `AAAAAMp9f8QoCw5n8tcEcl/qyMkPc25Y`
+Snapshot ID: `AAAAANJeMpsh7JuXkBk9vnNlb3tnV1RQ`

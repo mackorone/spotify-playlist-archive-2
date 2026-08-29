@@ -1,12 +1,12 @@
 {
   "description": "Fresh from the recording to your ears. Latest Hindi music, right here. Cover: Awarapan 2 ",
-  "num_followers": 1018103,
+  "num_followers": 1018236,
   "original_name": "New Music Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZLwKM+M7UvES28G5oKRjHQfA6Q",
+  "snapshot_id": "AAAAAK1o8XD5aecZSAhmXOTs6a8CP3up",
   "tracks": [
     {
       "added_at": "2026-08-27 05:41:58",
@@ -91,6 +91,30 @@
       "duration_ms": 192777,
       "name": "Raaton Mein Aana (From \"Vibe\")",
       "url": "https://open.spotify.com/track/1CELH8oOGTS3J4lTyQhD7l"
+    },
+    {
+      "added_at": "2026-08-28 18:26:44",
+      "album": {
+        "name": "Chimna",
+        "url": "https://open.spotify.com/album/5wR2qGBeLPWz1mQHgpjM37"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Nagesh Morwekar",
+          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Chimna",
+      "url": "https://open.spotify.com/track/29bVQklwOXJEpOhmNdcpGg"
     },
     {
       "added_at": "2026-08-27 05:41:58",
@@ -290,6 +314,10 @@
         {
           "name": "Shreya Jain",
           "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Shubham Shirule",
+          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
         }
       ],
       "duration_ms": 174545,
@@ -1571,34 +1599,6 @@
       "duration_ms": 190608,
       "name": "Diya Tale Andhera",
       "url": "https://open.spotify.com/track/3jR1fAHqZ2oxzor3j8Ofkv"
-    },
-    {
-      "added_at": "2026-08-27 05:41:58",
-      "album": {
-        "name": "Bin Tere",
-        "url": "https://open.spotify.com/album/3rmbAftMJw7DWsuXAN5m3L"
-      },
-      "artists": [
-        {
-          "name": "Akash Tripathi",
-          "url": "https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4"
-        },
-        {
-          "name": "Ramil Ganjoo",
-          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
-        },
-        {
-          "name": "Janisht Joshi",
-          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
-        },
-        {
-          "name": "Alvina D'souza",
-          "url": "https://open.spotify.com/artist/11pk708XY9mlYHHNWLTWry"
-        }
-      ],
-      "duration_ms": 157758,
-      "name": "Bin Tere",
-      "url": "https://open.spotify.com/track/7y4DczQ6h7g2DorzHxEHvj"
     },
     {
       "added_at": "2026-08-27 05:41:58",

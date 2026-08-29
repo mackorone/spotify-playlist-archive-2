@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,949 likes - 49 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,956 likes - 49 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 23 | [Hymne \- Remastered](https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 2:44 |
 | 24 | [Main Titles](https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:42 |
 | 25 | [Dreams of Surf](https://open.spotify.com/track/3PUufjfgnfjiDXj8nW77hq) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:43 |
-| 26 | [Across the Mountains \(From "Alexander" Soundtrack\)](https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6), [Maria Bildea](https://open.spotify.com/artist/1ft7wSsl5xVNOzuIteOqi4), [Irina Valentinovna Karpouchina](https://open.spotify.com/artist/6EFd1h6niaS79UnMV9PlU4), [Konstantinos Paliatsaras](https://open.spotify.com/artist/1pM22HiX08GjuozIH3NOCi), [Vanessa\-Mae Vanakorn Nicholson](https://open.spotify.com/artist/5KM9N7qB2m9DD6ZaeJGrFL), [Epirus Polyphonic Ensemble](https://open.spotify.com/artist/3Vw17o3vjrvPvZ20KFwj5v) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:12 |
-| 27 | [Losing Sleep](https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 6:41 |
+| 26 | [Losing Sleep](https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 6:41 |
+| 27 | [Across the Mountains \(From "Alexander" Soundtrack\)](https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6), [Maria Bildea](https://open.spotify.com/artist/1ft7wSsl5xVNOzuIteOqi4), [Irina Valentinovna Karpouchina](https://open.spotify.com/artist/6EFd1h6niaS79UnMV9PlU4), [Konstantinos Paliatsaras](https://open.spotify.com/artist/1pM22HiX08GjuozIH3NOCi), [Vanessa\-Mae Vanakorn Nicholson](https://open.spotify.com/artist/5KM9N7qB2m9DD6ZaeJGrFL), [Epirus Polyphonic Ensemble](https://open.spotify.com/artist/3Vw17o3vjrvPvZ20KFwj5v) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:12 |
 | 28 | [Through the Night Mist](https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:12 |
 | 29 | [To the Unknown Man](https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Spiral](https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX) | 9:06 |
 | 30 | [Memories of Blue](https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 5:40 |
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 38 | [Rosetta](https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 5:02 |
 | 39 | [In the magic of Cosmos](https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [In the magic of Cosmos](https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1) | 2:07 |
 | 40 | [Le singe bleu \- Remastered](https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 7:40 |
-| 41 | [Spanish Harbour](https://open.spotify.com/track/6PKyIEkpoyOh9K47NdHTzG) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 6:42 |
-| 42 | [The Tao Of Love](https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [China](https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk) | 2:44 |
+| 41 | [The Tao Of Love](https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [China](https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk) | 2:44 |
+| 42 | [Spanish Harbour](https://open.spotify.com/track/6PKyIEkpoyOh9K47NdHTzG) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 6:42 |
 | 43 | [Main Theme \- From "Chariots of Fire"](https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:26 |
 | 44 | [12 O'Clock](https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Best Of](https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39) | 5:31 |
-| 45 | [Bon Voyage](https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:32 |
-| 46 | [Eternal Alexander \(From "Alexander" Soundtrack\)](https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:37 |
+| 45 | [Eternal Alexander \(From "Alexander" Soundtrack\)](https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:37 |
+| 46 | [Bon Voyage](https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 2:32 |
 | 47 | [Nocturnal Promenade](https://open.spotify.com/track/55PQaWj0EcF5YWPthNi7fb) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:51 |
 | 48 | [Dawn](https://open.spotify.com/track/2hJ1ZvyDUomcJZPB9deUq9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:16 |
 | 49 | [Twilight](https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:57 |
 
-Snapshot ID: `ao4sgAAAAACleGGh0npmxF9LvhagGIV7`
+Snapshot ID: `ao9+AAAAAAAnegEMx2hhjzblij+jD4nl`

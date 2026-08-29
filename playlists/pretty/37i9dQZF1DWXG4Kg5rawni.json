@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115700,
+  "num_followers": 115697,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABaIrOWzSHKIoalUNqsFLV1py30h",
+  "snapshot_id": "AAAAAPuOAB2MAy2B1iR0gqBCmbHNRy60",
   "tracks": [
     {
       "added_at": "2026-06-12 03:01:50",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Somos Iguais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
-      },
-      "artists": [
-        {
-          "name": "Thiago Grulha",
-          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
-        }
-      ],
-      "duration_ms": 155106,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
         "name": "A B\u00ean\u00e7\u00e3o do Senhor",
         "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 250636,
       "name": "A B\u00ean\u00e7\u00e3o do Senhor",
       "url": "https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "Somos Iguais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
+      },
+      "artists": [
+        {
+          "name": "Thiago Grulha",
+          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
+        }
+      ],
+      "duration_ms": 155106,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
-      },
-      "artists": [
-        {
-          "name": "Cassiane e Jairinho",
-          "url": "https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 223886,
-      "name": "Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 235373,
       "name": "Encontrar Voc\u00ea",
       "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
+      },
+      "artists": [
+        {
+          "name": "Cassiane e Jairinho",
+          "url": "https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 223886,
+      "name": "Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+        }
+      ],
+      "duration_ms": 174926,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
         "name": "Chave do Amor",
         "url": "https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 190377,
       "name": "Chave do Amor",
       "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Bulian",
-          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
-        }
-      ],
-      "duration_ms": 174926,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC"
     },
     {
       "added_at": "2026-06-12 03:01:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: AratheJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,940 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,968 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [ROVER](https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [CHRISTO DISCO](https://open.spotify.com/album/0FXrgbufzQTknLpinb21ao) | 2:19 |
 | 50 | [BOUNCE](https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [BOUNCE](https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J) | 2:33 |
 
-Snapshot ID: `AAAAAMBWnSy7rVCjJA59ZzbYsXxu9PCQ`
+Snapshot ID: `AAAAAMjTHtOaEq5I0M3760PClDvad/y6`

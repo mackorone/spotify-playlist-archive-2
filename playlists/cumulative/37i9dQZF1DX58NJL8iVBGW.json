@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Alcohol and Adderall",
+        "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212997,
+      "name": "Alcohol and Adderall",
+      "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
+    },
+    {
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
       },
@@ -484,7 +502,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 205773,
       "name": "Barton Hollow",
       "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 225760,
       "name": "Beat The Devil's Tattoo",
       "url": "https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv"
@@ -996,6 +1014,24 @@
       "duration_ms": 226333,
       "name": "Danger and Dread",
       "url": "https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez"
+    },
+    {
+      "album": {
+        "name": "Dark Feathers",
+        "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
+      },
+      "artists": [
+        {
+          "name": "Renee Christine",
+          "url": "https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237115,
+      "name": "Dark Feathers",
+      "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
     },
     {
       "album": {
@@ -1472,7 +1508,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 166493,
       "name": "Far From Any Road",
       "url": "https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq"
@@ -2485,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "Leaving The Zoo",
+        "url": "https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323341,
+      "name": "Leaving The Zoo",
+      "url": "https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF"
+    },
+    {
+      "album": {
         "name": "Little Wing",
         "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
       },
@@ -2918,6 +2972,24 @@
       "duration_ms": 220432,
       "name": "One Trip Pony",
       "url": "https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U"
+    },
+    {
+      "album": {
+        "name": "Open Up Your Mind",
+        "url": "https://open.spotify.com/album/7AjDfTvIIbRpaByE5zkFgG"
+      },
+      "artists": [
+        {
+          "name": "Avi Kaplan",
+          "url": "https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184178,
+      "name": "Open Up Your Mind",
+      "url": "https://open.spotify.com/track/1YRGRLjCWNlwnmU5spyolO"
     },
     {
       "album": {
@@ -3534,7 +3606,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 192475,
       "name": "Sleeping on the Blacktop",
       "url": "https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A"
@@ -3912,7 +3984,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 258373,
       "name": "The Devil & The Huntsman",
       "url": "https://open.spotify.com/track/798DGIdVPsLFXvDblTeM7d"
@@ -3970,6 +4042,28 @@
       "duration_ms": 180141,
       "name": "The Edge of the Map (Cumberland Gap)",
       "url": "https://open.spotify.com/track/2kCAq5RxMJF0U7kYmzDcoL"
+    },
+    {
+      "album": {
+        "name": "PHTHALO",
+        "url": "https://open.spotify.com/album/24IlLpP9lmcbGWNVFcAUyg"
+      },
+      "artists": [
+        {
+          "name": "Rabbitology",
+          "url": "https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO"
+        },
+        {
+          "name": "Marcus Quintana",
+          "url": "https://open.spotify.com/artist/38qdZMLzuzs2mRPzoNGfPW"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "The Glowing",
+      "url": "https://open.spotify.com/track/1ZOSoprOOKyOvlSOw1sV5V"
     },
     {
       "album": {

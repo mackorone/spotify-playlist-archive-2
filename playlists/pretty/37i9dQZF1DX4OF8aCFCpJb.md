@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,344 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,341 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 39 | [Sweet Reggaemusik](https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [Sweet Reggaemusik](https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC) | 2:42 |
 | 40 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
 | 41 | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b) | [Promoe](https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU) | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG) | 3:26 |
-| 42 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
-| 43 | [Så fakking fin](https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Så fakking fin](https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA) | 2:40 |
+| 42 | [Så fakking fin](https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Så fakking fin](https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA) | 2:40 |
+| 43 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
 | 44 | [Ska vi](https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Ska vi](https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9) | 3:15 |
 | 45 | [Säg Till Mig](https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Säg Till Mig](https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW) | 4:20 |
 | 46 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Back on track](https://open.spotify.com/track/1yCqXDVbXDyF75VliHTJyv) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [MIVAS](https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Back on track](https://open.spotify.com/album/79ja6VUuZvbr0g7POJ1Xb1) | 3:34 |
 | 50 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
 
-Snapshot ID: `AAAAAK83VnVv/NIfRqzRbeUhAuTkz2My`
+Snapshot ID: `AAAAADVPHSc7MrVHlbUX2cyMfH83zLLm`

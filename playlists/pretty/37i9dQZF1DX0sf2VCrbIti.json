@@ -6,23 +6,23 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOTGx2myUQoOgRYoT6ghgj/vIK1F",
+  "snapshot_id": "AAAAAORdLu7/4xxiWdtLDZW+p1x4kdqz",
   "tracks": [
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -51,18 +51,18 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Mujeriego",
-        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Mujeriego",
-      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 187524,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
+        "name": "Mariachi Total",
+        "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/17UQaysFON93fn278DeWqg"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
         "name": "El Baile del Siglo Con Joe Arroyo",
         "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
       },
@@ -1147,18 +1163,34 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Mariachi Total",
-        "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
+        "name": "Cinco Pa' las 12",
+        "url": "https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "N\u00e9stor Zavarce",
+          "url": "https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr"
         }
       ],
-      "duration_ms": 221831,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/17UQaysFON93fn278DeWqg"
+      "duration_ms": 181133,
+      "name": "Cinco Pa' las 12",
+      "url": "https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
+        "name": "Cl\u00e1sicos de Oro de Billo Caracas Boy's, Vol II",
+        "url": "https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Aguinaldo Con Billo",
+      "url": "https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -1211,18 +1243,18 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Cinco Pa' las 12",
-        "url": "https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2eDs8NuigDls3kImG3u2yM"
       },
       "artists": [
         {
-          "name": "N\u00e9stor Zavarce",
-          "url": "https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr"
+          "name": "Willie Colon Y Ruben Blades",
+          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Cinco Pa' las 12",
-      "url": "https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG"
+      "duration_ms": 401786,
+      "name": "Plastico",
+      "url": "https://open.spotify.com/track/0iHzbGak1CdbDBCu8VDwNU"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2eDs8NuigDls3kImG3u2yM"
-      },
-      "artists": [
-        {
-          "name": "Willie Colon Y Ruben Blades",
-          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
-        }
-      ],
-      "duration_ms": 401786,
-      "name": "Plastico",
-      "url": "https://open.spotify.com/track/0iHzbGak1CdbDBCu8VDwNU"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
         "name": "Las Mejores Gaitas Vol.2",
         "url": "https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 196266,
       "name": "Viejo A\u00f1o",
       "url": "https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
-        "name": "Las Mejores Gaitas Vol.2",
-        "url": "https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S"
-      },
-      "artists": [
-        {
-          "name": "Gran Coquivacoa",
-          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Gaita Onomatopeyica",
-      "url": "https://open.spotify.com/track/0HAoMv4QDZ52UCiCSWwLyy"
     }
   ],
   "unique_name": "\u00a1Felices Fiestas!",

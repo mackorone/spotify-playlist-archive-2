@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: The Rolling Stones",
-  "num_followers": 627319,
+  "num_followers": 627413,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQv2upfAjKv4HDelXlklRknTTU1",
+  "snapshot_id": "AAAAAPoeHOOo+8dR5sa62TLv2m7hInvL",
   "tracks": [
     {
       "added_at": "2026-05-07 23:00:24",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "The New Abnormal",
-        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 309053,
-      "name": "The Adults Are Talking",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 482830,
       "name": "Stairway to Heaven - Remaster",
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "Let It Bleed",
-        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 270773,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 252773,
       "name": "Rhiannon",
       "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 270773,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 208266,
       "name": "Lovesong - Remastered",
       "url": "https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "Be Here Now (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
         }
       ],
-      "duration_ms": 355866,
-      "name": "Stand By Me - Remastered",
-      "url": "https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi"
+      "duration_ms": 713191,
+      "name": "Pneuma",
+      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "Fear Inoculum",
-        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+        "name": "Be Here Now (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy"
       },
       "artists": [
         {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 713191,
-      "name": "Pneuma",
-      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+      "duration_ms": 355866,
+      "name": "Stand By Me - Remastered",
+      "url": "https://open.spotify.com/track/5WTPhYmwwojFP73O7p3Izi"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "Hot Space (2011 Remaster)",
-        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 260213,
       "name": "Road to Nowhere - 2005 Remaster",
       "url": "https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
+        "name": "Hot Space (2011 Remaster)",
+        "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
     },
     {
       "added_at": "2026-05-07 23:00:24",

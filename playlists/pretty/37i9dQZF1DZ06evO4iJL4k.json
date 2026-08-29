@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 326696,
+  "num_followers": 326736,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADOYRPZeHg2RpXUvGLgCQX1",
+  "snapshot_id": "ao9+AAAAAABVI34Z6wzXN5voDbd1Oj4z",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 217731,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viz\u00e3o de Cria 2",
         "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 306141,
       "name": "Viz\u00e3o de Cria 2",
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/06ZRaFS4lY8dQQXTYrAlOZ"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 217731,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
     },
     {
       "added_at": null,
@@ -1051,30 +1051,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/0gwX24ETyA2GnM0eSYL806"
       },
       "artists": [
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
         },
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 205746,
-      "name": "PARAN\u00d3IAS",
-      "url": "https://open.spotify.com/track/3jyLr0r8E1uWC1ZUz52KzY"
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/11njCTxuLoTHXoScUxOsLC"
     },
     {
       "added_at": null,
@@ -1127,22 +1119,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrela do Rap",
-        "url": "https://open.spotify.com/album/0gwX24ETyA2GnM0eSYL806"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
       },
       "artists": [
         {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         },
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/11njCTxuLoTHXoScUxOsLC"
+      "duration_ms": 205746,
+      "name": "PARAN\u00d3IAS",
+      "url": "https://open.spotify.com/track/3jyLr0r8E1uWC1ZUz52KzY"
     },
     {
       "added_at": null,

@@ -1341,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Bugie",
+        "url": "https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193223,
+      "name": "Bugie",
+      "url": "https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu"
+    },
+    {
+      "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
       },
@@ -4958,7 +4976,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 180524,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/3CaLAEZ5u8PEiylYQVIv10"

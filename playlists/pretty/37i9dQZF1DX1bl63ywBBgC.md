@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,930 likes - 90 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,985 likes - 90 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 56 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
 | 57 | [Pasos de Gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
 | 58 | [Bonita](https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau) | [Cabas](https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i) | [Amores Difíciles](https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P) | 3:57 |
-| 59 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
-| 60 | [Te regalo](https://open.spotify.com/track/0fmgOwkb9AwgzXhYVSZRDs) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Baute](https://open.spotify.com/album/6IPD0w0Nlo5JE0A54GQEMp) | 2:49 |
+| 59 | [Te regalo](https://open.spotify.com/track/0fmgOwkb9AwgzXhYVSZRDs) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Baute](https://open.spotify.com/album/6IPD0w0Nlo5JE0A54GQEMp) | 2:49 |
+| 60 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 61 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
 | 62 | [Perderme Contigo](https://open.spotify.com/track/7mHFWWfVlhqGjeIQ5qt9i2) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [¿Dónde Nos Quedamos?](https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx) | 4:06 |
 | 63 | [Pequeñas Cosas](https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos](https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo) | 5:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 89 | [Azúcar Amargo](https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Exitos](https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd) | 4:41 |
 | 90 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
 
-Snapshot ID: `AAAAAKZNt1ugdd0jSRg7DO3s0UwEOLh0`
+Snapshot ID: `AAAAADXgpbddm9xqMjrDj8VPIn3ETuyz`

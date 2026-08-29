@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de M\u00fasica Mexicana de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 591611,
+  "num_followers": 591651,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE3LWIcqNul5c/uF/Z7sPickZjXq",
+  "snapshot_id": "AAAAAGAIdf4RAYH4Fpul97Ge+cMMFz3Z",
   "tracks": [
     {
       "added_at": "2026-08-14 06:40:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "Ll\u00e9vame Contigo",
-        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "\u00bfY Todo Para Qu\u00e9?",
-      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 191413,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
+        "name": "Ll\u00e9vame Contigo",
+        "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
         "name": "AMARTE ME HIZO ODIARTE",
         "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 225581,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3"
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 209266,
       "name": "El Vals Del Olvido",
       "url": "https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 225581,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 135611,
-      "name": "Los Botones Azules",
-      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
         "name": "Qu\u00e9 Fuimos (En Vivo)",
         "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 230034,
       "name": "Qu\u00e9 Fuimos - En Vivo",
       "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 135611,
+      "name": "Los Botones Azules",
+      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 203829,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 197091,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203829,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
+        "name": "7 DIAS",
+        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "7 DIAS",
+      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
         "name": "Amigos? No.",
         "url": "https://open.spotify.com/album/4b2QIGSCXrUQSURm2PnbUT"
       },
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "7 DIAS",
-        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "7 DIAS",
-      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
         "name": "LOS MENSAJES DE WHATSAPP",
         "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
       },
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+    },
+    {
+      "added_at": "2026-08-14 06:40:00",
+      "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
-    },
-    {
-      "added_at": "2026-08-14 06:40:00",
-      "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1423,18 +1423,22 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+      "duration_ms": 230795,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
     },
     {
       "added_at": "2026-08-14 06:40:00",
@@ -1459,22 +1463,18 @@
     {
       "added_at": "2026-08-14 06:40:00",
       "album": {
-        "name": "Porque Te Vas",
-        "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 230795,
-      "name": "Porque Te Vas",
-      "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2026-08-14 06:40:00",

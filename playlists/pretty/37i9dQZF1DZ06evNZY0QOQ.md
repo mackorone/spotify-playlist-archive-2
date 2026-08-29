@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,626 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,625 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [say no more](https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:40 |
 | 50 | [Cocoro](https://open.spotify.com/track/6kjNnf3xoreZJHvZ1oSARR) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:49 |
 
-Snapshot ID: `ao4sgAAAAADm1kzQCOgpW+SV1ktbZAD/`
+Snapshot ID: `ao9+AAAAAAD080iTcL1sXcac7apYN4WQ`

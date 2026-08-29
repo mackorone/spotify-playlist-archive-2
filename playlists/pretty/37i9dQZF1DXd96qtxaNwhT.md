@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,097 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,089 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 19 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 |
 | 20 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 |
 | 21 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 |
-| 22 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
-| 23 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 |
+| 22 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 |
+| 23 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
 | 24 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 |
 | 25 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 |
 | 26 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 38 | [Hello My Old Lover](https://open.spotify.com/track/2ZMetkVW6HlEE5T0Paei2Z) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Hello My Old Lover](https://open.spotify.com/album/576OBHrTMTv0uNbSrCZQHp) | 3:09 |
 | 39 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 |
 | 40 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
-| 41 | [To Be Free \- Demo Version](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free \(Demo Version\)](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 |
-| 42 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 |
+| 41 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 |
+| 42 | [To Be Free \- Demo Version](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free \(Demo Version\)](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 |
 | 43 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 |
 | 44 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 |
 | 45 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 59 | [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 |
 | 60 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
 | 61 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
-| 62 | [LOVE AGAIN](https://open.spotify.com/track/2VLwPqWsKHp28IVV6DubgY) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [LOVE AGAIN](https://open.spotify.com/album/4oa34knWDKegbx45qPDBrp) | 2:56 |
-| 63 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
+| 62 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
+| 63 | [LOVE AGAIN](https://open.spotify.com/track/2VLwPqWsKHp28IVV6DubgY) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [LOVE AGAIN](https://open.spotify.com/album/4oa34knWDKegbx45qPDBrp) | 2:56 |
 | 64 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 |
 | 65 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 |
 | 66 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 72 | [I Do](https://open.spotify.com/track/0QTI2S5oOheSLU8WQuGmja) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Beste Zangers 2023 \(Duncan Laurence\)](https://open.spotify.com/album/7d9Z8E52D6So8lzxJQ67y3) | 2:51 |
 | 73 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 |
 | 74 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
-| 75 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
+| 75 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
 
-Snapshot ID: `AAAAACU8LBpg6txKVUtvlys6v4ES5fxD`
+Snapshot ID: `AAAAALvLlPgpyzZIqv8RED7van70xKDQ`

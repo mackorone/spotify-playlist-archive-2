@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Gabriel Guedes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,103 likes - 31 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,104 likes - 31 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 30 | [You're Not Done \- Radio Version](https://open.spotify.com/track/3vlOekCXyaDER2FgMVVVRZ) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3) | [You're Not Done \(Radio Version\)](https://open.spotify.com/album/2iyX92I8JBc3khUr1UP3pG) | 3:53 |
 | 31 | [Joy In The Morning](https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning](https://open.spotify.com/album/170FUziX94zYLzcV7arINC) | 8:48 |
 
-Snapshot ID: `AAAAAAQBBkG7X/CbZRmzn48AM9iLqHFM`
+Snapshot ID: `AAAAAKVNnzaGNdTmF3Kigj/gimeVwQFs`

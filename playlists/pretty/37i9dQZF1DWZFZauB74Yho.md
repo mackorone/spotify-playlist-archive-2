@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: Two Runner
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,837 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,836 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 13 | [10,000 Miles From a Friend](https://open.spotify.com/track/6TIiTVfOnsg3oaxw8GohHV) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [10,000 Miles From a Friend](https://open.spotify.com/album/045cbYblo7x4Ir4vOElCfk) | 5:06 |
 | 14 | [High Hoping](https://open.spotify.com/track/6ItSQmtHLj7tuTWs1obPv9) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [High Hoping](https://open.spotify.com/album/0thUyC0fFemucdUPT9l3cK) | 3:25 |
 | 15 | [That Guy](https://open.spotify.com/track/5qSBZwInMyHeCwwRZtgRQj) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH), [Kym Warner](https://open.spotify.com/artist/6tNhp7ssvjOerCX5JAuMBS) | [That Guy](https://open.spotify.com/album/6u7hgMIM4FuHZlWRVTq7KZ) | 3:52 |
-| 16 | [Like A River](https://open.spotify.com/track/3fbHdJu0V2dseGchHTjqUw) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [AJ Lee](https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG), [Gena Britt](https://open.spotify.com/artist/58w5My0xczC07lwAp8T0PJ), [Hasee Ciaccio](https://open.spotify.com/artist/0AoPdpx2v9EgQHmVvDxd7m), [Wila Frank](https://open.spotify.com/artist/5BytlUovIxRBOBPdbC3UWu) | [Bluegrass Women](https://open.spotify.com/album/2WGv7S4udUAHiWaXVJaq75) | 3:57 |
+| 16 | [Like A River](https://open.spotify.com/track/3fbHdJu0V2dseGchHTjqUw) | [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [AJ Lee](https://open.spotify.com/artist/4KPSf2GwMkfffWc3yBudZG), [Gena Britt](https://open.spotify.com/artist/58w5My0xczC07lwAp8T0PJ), [Hasee Ciaccio](https://open.spotify.com/artist/0AoPdpx2v9EgQHmVvDxd7m), [Wila Frank](https://open.spotify.com/artist/5BytlUovIxRBOBPdbC3UWu), [Bronwyn](https://open.spotify.com/artist/24S2vTDYhK9PESL4DvCWtq) | [Bluegrass Women](https://open.spotify.com/album/2WGv7S4udUAHiWaXVJaq75) | 3:57 |
 | 17 | [Shady Grove](https://open.spotify.com/track/4uWjmKEs2yRC5pNyaXiXy9) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Shady Grove](https://open.spotify.com/album/7gSwiWGKQCk3sgrDFvahN9) | 4:07 |
 | 18 | [Make It Out Alive](https://open.spotify.com/track/6OZGgAg3b2AbtXJkvv9QGW) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Make It Out Alive](https://open.spotify.com/album/7oUTFH0ov1b53sMlzEc4Yl) | 3:54 |
 | 19 | [Lonely USA](https://open.spotify.com/track/2xYHykIg6PTj9KmXiY0SCN) | [Meels](https://open.spotify.com/artist/5AH6zdOi1I9eHP2jlUHLnq) | [Lonely USA](https://open.spotify.com/album/2bgN3BMK5nkFxJfj5KdwvD) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 99 | [Magic Accident](https://open.spotify.com/track/5vypHtcvQNHK2TNFaednYJ) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Magic Accident](https://open.spotify.com/album/5LwlAnEWE4l7TSydKpuEDh) | 3:51 |
 | 100 | [The Devil Went Down to Deep Gap](https://open.spotify.com/track/0pUBXgIdM27fY0qFx7eq5o) | [Bryan Sutton](https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [The Devil Went Down to Deep Gap](https://open.spotify.com/album/51H5dgdCD3fTgYfYEXWfTB) | 5:02 |
 
-Snapshot ID: `AAAAAFqEE0foQ+Ku/s8ozSpzad0FOYXc`
+Snapshot ID: `AAAAADSKapC3kKEF2e6s9LpirCCiUoxE`

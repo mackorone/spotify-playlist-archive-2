@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,137 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,136 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,21 +40,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 30 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 |
 | 31 | [Pa q me escribes?](https://open.spotify.com/track/59UT3zWpFwROD3DmsIIZz7) | [Vreno Yg](https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj) | [Pa q me escribes?](https://open.spotify.com/album/4tvRbe0cAMnn0rm4tUoofk) | 2:00 |
 | 32 | [Lukisan](https://open.spotify.com/track/4JCCxTFPJVyKScKv7AwZcl) | [El Riss](https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5) | [Lukisan](https://open.spotify.com/album/3qxSIjuljZrg7LEQ8RVema) | 4:15 |
-| 33 | [Knock Me Off My Feet](https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Knock Me Off My Feet](https://open.spotify.com/album/26u0sUGviB0cRFSHIQpbs0) | 2:21 |
+| 33 | [BRIGHT](https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [BRIGHT](https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P) | 3:49 |
 | 34 | [想當你永遠的星辰](https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想當你永遠的星辰](https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI) | 3:31 |
 | 35 | [Onions](https://open.spotify.com/track/6R1NQXv3yXEMNmEoq3oV5w) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Onions](https://open.spotify.com/album/2QbGDADifKwU9DlKwQvK6I) | 3:08 |
-| 36 | [BRIGHT](https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [BRIGHT](https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P) | 3:49 |
-| 37 | [idk](https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [idk](https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK) | 2:53 |
+| 36 | [idk](https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [idk](https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK) | 2:53 |
+| 37 | [Knock Me Off My Feet](https://open.spotify.com/track/6Xgbgdi7F7BGrZPrYcxFVl) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Knock Me Off My Feet](https://open.spotify.com/album/26u0sUGviB0cRFSHIQpbs0) | 2:21 |
 | 38 | [System](https://open.spotify.com/track/3kPWyMLOMqigwl4p4aJZWa) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:54 |
 | 39 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 40 | [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 |
 | 41 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 |
 | 42 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 |
-| 43 | [You Could Hate Me](https://open.spotify.com/track/4FW012Xh3vSGRmw4rpGLAR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 4:11 |
-| 44 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
+| 43 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
+| 44 | [You Could Hate Me](https://open.spotify.com/track/4FW012Xh3vSGRmw4rpGLAR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 4:11 |
 | 45 | [Perfect](https://open.spotify.com/track/1ZE95YrQTRP8zqMNWhySjP) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Perfect](https://open.spotify.com/album/5m1g4NScg6USxohPQIYpz2) | 3:25 |
-| 46 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
-| 47 | [Woman Lake](https://open.spotify.com/track/13jIYWdJqaXqON3URRS6Q3) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:44 |
+| 46 | [Woman Lake](https://open.spotify.com/track/13jIYWdJqaXqON3URRS6Q3) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:44 |
+| 47 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 48 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
 | 49 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
 | 50 | [Racing Mount Pleasant](https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 74 | [Good Time](https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6), [SUMMERGIRL](https://open.spotify.com/artist/6BtRULhGOoSfhbuf9esr27) | [Good Time](https://open.spotify.com/album/6YytS1n0RZNIXE6kgRRSP8) | 3:05 |
 | 75 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 |
 
-Snapshot ID: `AAAAAMQGvhYAKQ4mfkWlQKnCOoa5Tdg2`
+Snapshot ID: `AAAAAC+Lx32mrUgvQId786wJVas0TuZ2`

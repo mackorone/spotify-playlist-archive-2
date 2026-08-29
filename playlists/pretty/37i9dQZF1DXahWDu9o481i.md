@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: MILLENNIUM PARADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,550 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,389 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 34 | [BESITO](https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [BESITO](https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa) | 2:59 |
 | 35 | [new life forms](https://open.spotify.com/track/1hn8Yk25LhVUPgUBICzAKp) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [new avatar](https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE) | 3:24 |
 | 36 | [Closer](https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Closer](https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy) | 3:09 |
-| 37 | [Bajo Cero](https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Bajo Cero](https://open.spotify.com/album/2zGuFILxHQ0516trrslslS) | 3:34 |
-| 38 | [Low Top Vanz](https://open.spotify.com/track/384mFYERldsNdnpf4ehd7m) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [S.K.A.T.E.](https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl) | 3:47 |
+| 37 | [Low Top Vanz](https://open.spotify.com/track/384mFYERldsNdnpf4ehd7m) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [S.K.A.T.E.](https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl) | 3:47 |
+| 38 | [Bajo Cero](https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Bajo Cero](https://open.spotify.com/album/2zGuFILxHQ0516trrslslS) | 3:34 |
 | 39 | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC) | 3:14 |
-| 40 | [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 |
-| 41 | [Blood](https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Role Model Hermit](https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh) | 3:56 |
+| 40 | [Blood](https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Role Model Hermit](https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh) | 3:56 |
+| 41 | [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 |
 | 42 | [Hell of a time](https://open.spotify.com/track/1mNyD4FwFJGIAxnnDpTBtp) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Hell of a time](https://open.spotify.com/album/5rfkiovkHkwCnIZ7q3GTkF) | 3:43 |
 | 43 | [Bone Collector](https://open.spotify.com/track/3EsL6WLnJvF6t3nuPBxRY2) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [The Thread](https://open.spotify.com/album/6x9IdAz7Br6NnlK7BBJubL) | 3:40 |
 | 44 | [what u want](https://open.spotify.com/track/68icwERFCZaV107eHjqt77) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [what u want](https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo) | 2:45 |
 | 45 | [Take Me to Sunrise](https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Take Me to Sunrise](https://open.spotify.com/album/1NT0szKQ4xFjSpNqovc3Qy) | 3:14 |
-| 46 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
-| 47 | [I Wish](https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [I Wish](https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW) | 3:00 |
+| 46 | [I Wish](https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [I Wish](https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW) | 3:00 |
+| 47 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
 | 48 | [Always Be Mine \(feat\. Jordan Ward\)](https://open.spotify.com/track/1lOZSJPpreVaSCmP5M4ZjW) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 3:42 |
 | 49 | [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 |
 | 50 | [Sleeping with My Boots On](https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Lucky to Be](https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv) | 2:08 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 75 | [Rabbit](https://open.spotify.com/track/1BEemD48y6mh62yV0aaI6T) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Rabbit](https://open.spotify.com/album/3wnttB1pXHezmp05emenyE) | 2:37 |
 | 76 | [Gold Chains](https://open.spotify.com/track/5luzX1r1iduu6SqL3ueG9C) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [Skiddle Bandana](https://open.spotify.com/album/1ua9bT9kFnJeGi9j9nbfIL) | 2:36 |
 
-Snapshot ID: `AAAAAPQqiyo8ZW6XVbu1vjyHqd4KikRg`
+Snapshot ID: `AAAAAHeXftrhEayrEnNWr3SkFU4fTNvu`

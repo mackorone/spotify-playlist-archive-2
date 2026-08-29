@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103864,
+  "num_followers": 103865,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAB6ssR4B7pix33fGpzgu+gE",
+  "snapshot_id": "ao9+AAAAAABB64ofHGZaOmSqouEFoT5O",
   "tracks": [
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Me Vas A Dar (Cumbia)",
-        "url": "https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 207248,
-      "name": "Qu\u00e9 Me Vas A Dar - Cumbia",
-      "url": "https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TERAPIA",
         "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 161314,
       "name": "Empezar de Cero",
       "url": "https://open.spotify.com/track/5XsZdVYMjs2DM6ODdbGnHV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Me Vas A Dar (Cumbia)",
+        "url": "https://open.spotify.com/album/65PsHT4xP40nlvdVNE1ldU"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 207248,
+      "name": "Qu\u00e9 Me Vas A Dar - Cumbia",
+      "url": "https://open.spotify.com/track/0OXXOSfjkIwHBA32jiguQ2"
     },
     {
       "added_at": null,

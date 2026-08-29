@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Angela Torres",
-  "num_followers": 577643,
+  "num_followers": 577881,
   "original_name": "POP FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADw0l70ysdcVD7MWtbH+f1Hco+cA",
+  "snapshot_id": "AAAAAJK7qYlnG1EviGjw1FqS4vtQnJzc",
   "tracks": [
     {
       "added_at": "2026-08-28 03:00:14",
@@ -343,6 +343,22 @@
       "duration_ms": 120652,
       "name": "CHE MI AMOR",
       "url": "https://open.spotify.com/track/5d2noeCqHI8Z1SjwpTYdMb"
+    },
+    {
+      "added_at": "2026-08-28 03:00:14",
+      "album": {
+        "name": "money in my bag",
+        "url": "https://open.spotify.com/album/4DmQA5s0Xb8bKX1bQHoGvY"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1n",
+          "url": "https://open.spotify.com/artist/0E9SrOvn3lOYk15neJW2Lb"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "money in my bag",
+      "url": "https://open.spotify.com/track/1lnn3kYK8NdLupdavcQLmQ"
     },
     {
       "added_at": "2026-08-28 03:00:14",

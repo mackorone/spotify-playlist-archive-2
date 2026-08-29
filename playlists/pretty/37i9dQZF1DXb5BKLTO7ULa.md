@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Alex Warren, Samuel Welten & Russo, Olivia Rodrigo, Sarah Julia, DI\-RECT, Bokoesam en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,983 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,192 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 12 | [Hollow](https://open.spotify.com/track/5MSPozbZ7TQSNIBsd4qjlt) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hollow](https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ) | 3:15 |
 | 13 | [U know me](https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Marz Fay](https://open.spotify.com/artist/54n62ymWbi4eV4AbE8ol3i) | [U know me](https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw) | 3:14 |
 | 14 | [Send Shots](https://open.spotify.com/track/2l8RyIEP6A1aPkM2EVecNY) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Send Shots](https://open.spotify.com/album/68StQRtOUcywtJN19YKfcZ) | 2:39 |
-| 15 | [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/770KUfsvpJLcWqFv96JgM6), [Anderson](https://open.spotify.com/artist/1WrqscQTSOcBLyjIv5Qz6H) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 |
+| 15 | [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP), [Anderson](https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 |
 | 16 | [Pay That Toll](https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Pay That Toll](https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh) | 2:47 |
 | 17 | [TAKE A TRIP \(With Bricknasty & Khakikid\)](https://open.spotify.com/track/4TvXF0n2kmBDA4rFACcxFq) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [TAKE A TRIP \(With Bricknasty & Khakikid\)](https://open.spotify.com/album/5Zwiw4sOub6RrXfAoxPz0p) | 4:00 |
 | 18 | [You Love Me](https://open.spotify.com/track/48HVMmDbJuZDZY8wwSii4l) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [You Love Me](https://open.spotify.com/album/0svkRLuuzbdyZIs1yVUl4R) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Rollercoaster](https://open.spotify.com/track/0ZJ5pfR6GTqEfDqZFkpu5b) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Rollercoaster](https://open.spotify.com/album/6LYbzBb95GIAGNhitP4IaY) | 2:32 |
 | 100 | [Litter in Japan](https://open.spotify.com/track/5Gwq6Oefxhub81prd9Ib00) | [Cindy](https://open.spotify.com/artist/4IBfgHz5w50nCCqVxtbViI) | [Litter in Japan](https://open.spotify.com/album/6P5cUz4tpCK6b1uCnSrgE5) | 4:10 |
 
-Snapshot ID: `AAAAAM0V5xyKcL08QmM+2wUG9bY5rjGA`
+Snapshot ID: `AAAAAPgffyg2tRoBwCNzp4Yo1FOzOBXq`

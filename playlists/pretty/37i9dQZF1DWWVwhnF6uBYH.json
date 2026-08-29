@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 779380,
+  "num_followers": 779504,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC6rGNi8RnGVyKPikIvXdeZvMv+G",
+  "snapshot_id": "AAAAAGQOKjjwzErc9PFwk34R6MO8vkVm",
   "tracks": [
     {
       "added_at": "2026-08-07 18:42:29",
@@ -117,7 +117,7 @@
         }
       ],
       "duration_ms": 280250,
-      "name": "Tus Mentiras (En Vivo)",
+      "name": "Tus Mentiras - En Vivo",
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-08-07 18:42:29",
       "album": {
-        "name": "La Cita Fresita (En Vivo)",
-        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "La Cita Fresita - En Vivo",
-      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
-    },
-    {
-      "added_at": "2026-08-07 18:42:29",
-      "album": {
         "name": "Mejores Jordans",
         "url": "https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 234077,
       "name": "Mejores Jordans",
       "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
+    },
+    {
+      "added_at": "2026-08-07 18:42:29",
+      "album": {
+        "name": "La Cita Fresita (En Vivo)",
+        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "duration_ms": 180163,
+      "name": "La Cita Fresita - En Vivo",
+      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
     },
     {
       "added_at": "2026-08-07 18:42:29",
@@ -799,38 +799,6 @@
     {
       "added_at": "2026-08-07 18:42:29",
       "album": {
-        "name": "Changuito Me Apodaron",
-        "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 163350,
-      "name": "Changuito Me Apodaron",
-      "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
-    },
-    {
-      "added_at": "2026-08-07 18:42:29",
-      "album": {
-        "name": "Fotograf\u00eda",
-        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 212532,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
-    },
-    {
-      "added_at": "2026-08-07 18:42:29",
-      "album": {
         "name": "Pa la Ma\u00f1a",
         "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 159937,
       "name": "Pa la Ma\u00f1a",
       "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
+    },
+    {
+      "added_at": "2026-08-07 18:42:29",
+      "album": {
+        "name": "Fotograf\u00eda",
+        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 212532,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
+    },
+    {
+      "added_at": "2026-08-07 18:42:29",
+      "album": {
+        "name": "Changuito Me Apodaron",
+        "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 163350,
+      "name": "Changuito Me Apodaron",
+      "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
     },
     {
       "added_at": "2026-08-07 18:42:29",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-08-07 18:42:29",
       "album": {
+        "name": "Pura Pieza de Mi Gusto",
+        "url": "https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 135616,
+      "name": "Noches de Junio",
+      "url": "https://open.spotify.com/track/0SeeNu3S0xLViR8M4sGAOF"
+    },
+    {
+      "added_at": "2026-08-07 18:42:29",
+      "album": {
         "name": "Todo Es Diferente",
         "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 200254,
       "name": "Todo Es Diferente",
       "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
-    },
-    {
-      "added_at": "2026-08-07 18:42:29",
-      "album": {
-        "name": "Pura Pieza de Mi Gusto",
-        "url": "https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 135616,
-      "name": "Noches de Junio",
-      "url": "https://open.spotify.com/track/0SeeNu3S0xLViR8M4sGAOF"
     },
     {
       "added_at": "2026-08-07 18:42:29",

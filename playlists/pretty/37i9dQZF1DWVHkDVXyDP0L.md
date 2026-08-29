@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Lucky
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,111 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,104 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Hurracane](https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Hurracane](https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4) | 3:05 |
 | 100 | [Sleep In It](https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Sleep In It](https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v) | 2:59 |
 
-Snapshot ID: `AAAAACL4RrjAC5JQYO18WW96b+eRr6Up`
+Snapshot ID: `AAAAAOJwr0dNrUzixo7t1yB7rAPcs1aa`

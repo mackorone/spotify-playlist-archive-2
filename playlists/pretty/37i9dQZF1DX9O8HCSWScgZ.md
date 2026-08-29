@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,621 likes - 72 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,642 likes - 72 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8HCSWScgZ.md) - [plain]
 | 71 | [Maze](https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Maze](https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW) | 2:12 |
 | 72 | [So Very Much](https://open.spotify.com/track/5dN8phxVcvz7BAIMuI4wqv) | [nora haze](https://open.spotify.com/artist/1pcopnUDTLC87zfDfV16es) | [So Very Much](https://open.spotify.com/album/3EhNEOMhyAweUU6beirfnQ) | 2:05 |
 
-Snapshot ID: `AAAAACVJalo1m/BWUClio/vfqIqAHIee`
+Snapshot ID: `AAAAAKALxf0lvSYb6i0oEx4kDgLl0+De`

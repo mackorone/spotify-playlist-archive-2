@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 60963,
+  "num_followers": 60964,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAJJAZKvK1AMX6Fd8ztVoiF4asixBM5",
+  "snapshot_id": "AAAJKPyJh3rw9Wp9XAzrQX+4N5SX0xKk",
   "tracks": [
     {
       "added_at": "2026-07-31 15:08:40",
@@ -71,6 +71,26 @@
       "duration_ms": 185267,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/28BrHsuOJiA3SKrlnlzaUc"
+    },
+    {
+      "added_at": "2026-08-28 14:00:10",
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5DsiCJMmtjzRsMWYQxmgCO"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        },
+        {
+          "name": "Kat Von D",
+          "url": "https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU"
+        }
+      ],
+      "duration_ms": 235465,
+      "name": "Another Brick In The Wall (feat. Kat Von D)",
+      "url": "https://open.spotify.com/track/07fdSyrJMOkTwY7Tyg38GG"
     },
     {
       "added_at": "2026-06-30 18:45:14",
@@ -315,6 +335,22 @@
       "duration_ms": 235000,
       "name": "The Duelist",
       "url": "https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE"
+    },
+    {
+      "added_at": "2026-08-28 14:00:28",
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/5DsiCJMmtjzRsMWYQxmgCO"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1S057qXZHpVy4Wfh5cMbwN"
     },
     {
       "added_at": "2025-07-18 08:08:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,799 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,794 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 26 | [Hissettin mi](https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Hissettin mi](https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6) | 3:32 |
 | 27 | [Hatıralar](https://open.spotify.com/track/6sOTwzUE73fU6OFNRtYDi3) | [Mirkelam](https://open.spotify.com/artist/7o8wIiSHxNMlXrtR1OWPH0) | [Mirkelam](https://open.spotify.com/album/06NY0Tr8dJyG8bPj2lpMUf) | 4:36 |
 | 28 | [Müteşekkir](https://open.spotify.com/track/611rMkMHYTBQ2dYoUubI72) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:33 |
-| 29 | [Gözlerinin Hapsindeyim](https://open.spotify.com/track/7B35SoCqYSOKiea23ZJ3QK) | [Kayahan](https://open.spotify.com/artist/71wTGSTWEPSLnfe7tA2wkX) | [Yemin Ettim](https://open.spotify.com/album/0wk9uSvvpf9DncU45NDb8V) | 2:52 |
-| 30 | [Çapkınca](https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çapkınca](https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo) | 3:38 |
+| 29 | [Çapkınca](https://open.spotify.com/track/7dUqzkI19Bzy8LAWWMlJTn) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [Çapkınca](https://open.spotify.com/album/7gwa9w1nvCdv23BC93xFIo) | 3:38 |
+| 30 | [Gözlerinin Hapsindeyim](https://open.spotify.com/track/7B35SoCqYSOKiea23ZJ3QK) | [Kayahan](https://open.spotify.com/artist/71wTGSTWEPSLnfe7tA2wkX) | [Yemin Ettim](https://open.spotify.com/album/0wk9uSvvpf9DncU45NDb8V) | 2:52 |
 | 31 | [Bildiğim Gibi](https://open.spotify.com/track/1DpVhmrVGIz6y9hh9Gs3qK) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Nilipek.](https://open.spotify.com/artist/1tgfi3YYoeXKehnjKaMsOo) | [Bildiğim Gibi](https://open.spotify.com/album/6swdEawnwOI5RjbyjGPoro) | 2:54 |
 | 32 | [Güneşin Kızkardeşi](https://open.spotify.com/track/65Nr8C2BnozPaFH02SP38v) | [Gökçe Kılınçer](https://open.spotify.com/artist/1XDrTgMm3OOlIPOfyxm4xM) | [Kalbimde İzi Var](https://open.spotify.com/album/2hWypQdjsGKsyER7NlmIZj) | 4:37 |
 | 33 | [Kuzu Kuzu \(Akustik Version\)](https://open.spotify.com/track/6dcCXXpoqvumthffl42A4t) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuzu Kuzu](https://open.spotify.com/album/32fmr8WaoHl7XJXnlzyVyX) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 49 | [Sarmaşık](https://open.spotify.com/track/0dHrMOcScWdo0MUbRkXlRN) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Sarmaşık](https://open.spotify.com/album/74BgSM2izWU4m4sOk1Q3UY) | 4:05 |
 | 50 | [Sarmaş Dolaş](https://open.spotify.com/track/5RV4zgdvrUwm5b4Zzt9rNs) | [Gündoğarken](https://open.spotify.com/artist/3vcMKbHLV3BQnsi5H9Snei) | [Bir Yaz Daha Bitiyor](https://open.spotify.com/album/54QvyT6tpi4dt7mr2lsbbl) | 3:17 |
 
-Snapshot ID: `AAAAAGcMX2zatj0K18kiNx+8t2X75f47`
+Snapshot ID: `AAAAAKnmJEGZDIKW3Nu+3Kzr/zC2OmcG`

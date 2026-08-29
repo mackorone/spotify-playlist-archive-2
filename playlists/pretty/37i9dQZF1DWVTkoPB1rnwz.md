@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,545 likes - 103 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,556 likes - 103 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 102 | [Rose Bay \- Reworked by Leo Einaudi](https://open.spotify.com/track/2nsGRmMFJlYuvNsalF5RzZ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Rose Bay \(Reworked by Leo Einaudi\)](https://open.spotify.com/album/4rmTjpTDKhaTKl2VLhSbH2) | 3:37 |
 | 103 | [Over Ocean Waves](https://open.spotify.com/track/6W7VUWThQ9N0UQKH0ooqwx) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Over Ocean Waves](https://open.spotify.com/album/6T2ubYn6HkoPJ3mVy3rLyR) | 4:10 |
 
-Snapshot ID: `AAAAAFVb8bCKqL5ECht5iGoRopFGJEUD`
+Snapshot ID: `AAAAAJ1xTBbY6VdZC6drtUwV+xT2E8oe`

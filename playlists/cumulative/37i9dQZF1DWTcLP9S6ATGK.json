@@ -2175,6 +2175,28 @@
     },
     {
       "album": {
+        "name": "Berharap",
+        "url": "https://open.spotify.com/album/0nOTBbapQWzdFHZAfiAz9F"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aprilio",
+          "url": "https://open.spotify.com/artist/1JBtcNC11ceVl8JXaR4dbV"
+        },
+        {
+          "name": "Widy Vierratale",
+          "url": "https://open.spotify.com/artist/6ImmfK9kPcIaYcQEiUfEJb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189142,
+      "name": "Berharap",
+      "url": "https://open.spotify.com/track/2xewuXavdzmk6yVniNY596"
+    },
+    {
+      "album": {
         "name": "Beri Aku Kesempatan",
         "url": "https://open.spotify.com/album/59cuhAWHlkyvRFAiuw3dXJ"
       },

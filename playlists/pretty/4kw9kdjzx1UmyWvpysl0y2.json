@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122887,
+  "num_followers": 122881,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVte4gk7rETM7B/wNi5m2ks8vsl1gY",
+  "snapshot_id": "AAAVtlPwmjeNkbgaKtTtkNZ57N9xfdRk",
   "tracks": [
+    {
+      "added_at": "2026-08-28 14:23:24",
+      "album": {
+        "name": "I Need",
+        "url": "https://open.spotify.com/album/1vljf6DgdCNGRX3GZz5Rul"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        }
+      ],
+      "duration_ms": 189937,
+      "name": "I Need",
+      "url": "https://open.spotify.com/track/7xCNiQp9kNdBjo8SYllMtc"
+    },
     {
       "added_at": "2026-08-27 21:14:26",
       "album": {

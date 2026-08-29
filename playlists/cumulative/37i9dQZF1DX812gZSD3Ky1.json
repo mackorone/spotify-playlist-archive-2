@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BLUE PONGTIWAT",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICERED",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -7391,6 +7391,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/2k3ICqEXZR7jmZESOqXxWx"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/6uhCnqc4Tncn1vqkuGubPO"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ"
       },
@@ -8732,7 +8750,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 232534,
       "name": "If You Don\u2019t Mean It (\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14 \u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e34\u0e14)",
       "url": "https://open.spotify.com/track/2d3fZAlYyt6xqPkL9U9h1f"
@@ -21730,7 +21748,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 169411,
       "name": "Your Candy",
       "url": "https://open.spotify.com/track/4U1QLVuGWbfx4SM1YkdFi4"
@@ -21842,7 +21860,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 242000,
       "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e40\u0e14\u0e35\u0e22\u0e27",
       "url": "https://open.spotify.com/track/0QBkLn6FbUrVXol6eOOhCQ"
@@ -22665,6 +22683,28 @@
     },
     {
       "album": {
+        "name": "\u0e1c\u0e25\u0e02\u0e49\u0e32\u0e07\u0e40\u0e04\u0e35\u0e22\u0e07 (Love Effects)",
+        "url": "https://open.spotify.com/album/4YdCEB8fSXfRuxN6xucQwt"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "\u0e1c\u0e25\u0e02\u0e49\u0e32\u0e07\u0e40\u0e04\u0e35\u0e22\u0e07 (Love Effects)",
+      "url": "https://open.spotify.com/track/51oHM0kPw2uCIIqhSj9e6B"
+    },
+    {
+      "album": {
         "name": "\u0e1c\u0e39\u0e49\u0e04\u0e23\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 (Twilightship)",
         "url": "https://open.spotify.com/album/4bqyh7GFefzovFkvbyqM6y"
       },
@@ -22680,6 +22720,24 @@
       "duration_ms": 241695,
       "name": "\u0e1c\u0e39\u0e49\u0e04\u0e23\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 (Twilightship)",
       "url": "https://open.spotify.com/track/0qfBsD7SA7jqkmVvad5JbY"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e15\u0e47\u0e21\u0e14\u0e27\u0e07",
+        "url": "https://open.spotify.com/album/61b1NDNuPDXSMXaqJHrqid"
+      },
+      "artists": [
+        {
+          "name": "KLEAR",
+          "url": "https://open.spotify.com/artist/2PfxoKmrvMLvTAkn5azNZ6"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255294,
+      "name": "\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e15\u0e47\u0e21\u0e14\u0e27\u0e07",
+      "url": "https://open.spotify.com/track/13ooJdWo9mm0KsBBw1ToBf"
     },
     {
       "album": {
@@ -22774,6 +22832,28 @@
       "duration_ms": 199088,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32?",
       "url": "https://open.spotify.com/track/1mpANQ0OuSDz3yPvPQtvJK"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e0a\u0e31\u0e01\u0e01\u0e23\u0e30\u0e15\u0e38\u0e01",
+        "url": "https://open.spotify.com/album/3UHnJeGRgVCKSiQlPZiEKF"
+      },
+      "artists": [
+        {
+          "name": "PEE CLOCK",
+          "url": "https://open.spotify.com/artist/6cSZFqw3uA0BoCchNwEXZd"
+        },
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "\u0e23\u0e31\u0e01\u0e0a\u0e31\u0e01\u0e01\u0e23\u0e30\u0e15\u0e38\u0e01",
+      "url": "https://open.spotify.com/track/4ZioDDU5VqlzlMEKXEHFVZ"
     },
     {
       "album": {
@@ -22944,6 +23024,50 @@
       "duration_ms": 246796,
       "name": "\u0e25\u0e2d\u0e07\u0e01\u0e2d\u0e14 (smoke)",
       "url": "https://open.spotify.com/track/3IRuTNP7lA7H9yad6ArQ8h"
+    },
+    {
+      "album": {
+        "name": "\u0e25\u0e47\u0e2d\u0e01\u0e40\u0e1b\u0e49\u0e32 (LOCK PAO)",
+        "url": "https://open.spotify.com/album/3F4UHU0p4px4Ibm0jegCHn"
+      },
+      "artists": [
+        {
+          "name": "DICERED",
+          "url": "https://open.spotify.com/artist/1UgsiornRZh1v7TRs7DNH5"
+        },
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "\u0e25\u0e47\u0e2d\u0e01\u0e40\u0e1b\u0e49\u0e32 (LOCK PAO)",
+      "url": "https://open.spotify.com/track/2Cdz4c8sEn6IEmtyBjGlZA"
+    },
+    {
+      "album": {
+        "name": "\u0e27\u0e31\u0e0f\u0e2a\u0e07\u0e2a\u0e32\u0e23",
+        "url": "https://open.spotify.com/album/7Hmfpn754LHOcdFg22Bsek"
+      },
+      "artists": [
+        {
+          "name": "TaitosmitH",
+          "url": "https://open.spotify.com/artist/0CR1aLS3JQTlekHgHTga60"
+        },
+        {
+          "name": "PINKIE",
+          "url": "https://open.spotify.com/artist/7c6jLWUrGVl6JwaCmepfzv"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295476,
+      "name": "\u0e27\u0e31\u0e0f\u0e2a\u0e07\u0e2a\u0e32\u0e23",
+      "url": "https://open.spotify.com/track/1A70GCKNmhJnWRXMwGS7As"
     },
     {
       "album": {
@@ -23212,7 +23336,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 211475,
       "name": "\u0e2b\u0e31\u0e19\u0e21\u0e32\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e44\u0e2b\u0e23\u0e48\u0e01\u0e47\u0e40\u0e08\u0e2d (one more time)",
       "url": "https://open.spotify.com/track/6Vn0fT4Z7Pm9rU3n3QMuoP"
@@ -23230,7 +23354,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 230000,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e48\u0e32\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08",
       "url": "https://open.spotify.com/track/33xutbbGww8qhZ0lVau77k"
@@ -23418,7 +23542,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 218000,
       "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2a\u0e21\u0e2d\u0e21\u0e32 (precious)",
       "url": "https://open.spotify.com/track/4rRTlMSNXJ7pElCbgeE1kL"
@@ -23436,7 +23560,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 242000,
       "name": "\u0e40\u0e1e\u0e25\u0e34\u0e14\u0e40\u0e1e\u0e25\u0e34\u0e19 (Loop)",
       "url": "https://open.spotify.com/track/6B7ggklMW5LcAuly1jIAXF"
@@ -23538,6 +23662,24 @@
       "duration_ms": 224095,
       "name": "\u0e40\u0e2b\u0e47\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e15\u0e48\u0e07\u0e07\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0Tjiv7NXXaSZsLoGetuuYm"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e04\u0e19\u0e04\u0e38\u0e22 (Just Friends)",
+        "url": "https://open.spotify.com/album/13YZD2lSOQDtPvonMaeB4E"
+      },
+      "artists": [
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184166,
+      "name": "\u0e41\u0e04\u0e48\u0e04\u0e19\u0e04\u0e38\u0e22 (Just Friends)",
+      "url": "https://open.spotify.com/track/3fBaEUP9EZ4IvIeq4zA313"
     },
     {
       "album": {

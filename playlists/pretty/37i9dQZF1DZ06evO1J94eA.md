@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,223 likes - 50 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,225 likes - 50 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 8 | [Dolphin Dance \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1Ku5vu9Crncz8ixeT4Ijxc) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 9:16 |
 | 9 | [Alone And I \- Remastered 2007](https://open.spotify.com/track/4IXZjNVYILadTUH7AaF32o) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:29 |
 | 10 | [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:30 |
-| 11 | [Safiatou \(feat\. Santana & Angélique Kidjo\)](https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 5:25 |
-| 12 | [Fat Mama](https://open.spotify.com/track/2UiZAyT2L529zh4PuDvH4J) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 3:49 |
+| 11 | [Fat Mama](https://open.spotify.com/track/2UiZAyT2L529zh4PuDvH4J) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 3:49 |
+| 12 | [Safiatou \(feat\. Santana & Angélique Kidjo\)](https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 5:25 |
 | 13 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:03 |
 | 14 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:44 |
 | 15 | [Rockit](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Future Shock](https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY) | 5:28 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 33 | [The Man I Love](https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 5:56 |
 | 34 | [Tempo de Amor](https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 4:43 |
 | 35 | [Sister Moon \(feat\. Sting\)](https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 6:54 |
-| 36 | [Sun Touch](https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Man\-Child](https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj) | 5:12 |
-| 37 | [Spider](https://open.spotify.com/track/1pY0F9OQikG0LVlU3eTSj2) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 7:20 |
-| 38 | [Textures](https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mr\. Hands](https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5) | 6:37 |
-| 39 | [Oliloqui Valley \- Remastered](https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 8:30 |
+| 36 | [Spider](https://open.spotify.com/track/1pY0F9OQikG0LVlU3eTSj2) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 7:20 |
+| 37 | [Sun Touch](https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Man\-Child](https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj) | 5:12 |
+| 38 | [Oliloqui Valley \- Remastered](https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 8:30 |
+| 39 | [Textures](https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mr\. Hands](https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5) | 6:37 |
 | 40 | [I Thought It Was You](https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Sunlight](https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC) | 8:58 |
 | 41 | [Stars in Your Eyes](https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Monster](https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e) | 7:04 |
 | 42 | [And What If I Don't \- Remastered](https://open.spotify.com/track/3rQWPfEMS81vNrCIOd2lS2) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Cantaloupe Island](https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ) | 6:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 49 | [Spiraling Prism](https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mr\. Hands](https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5) | 6:25 |
 | 50 | [One Finger Snap \- Remastered](https://open.spotify.com/track/20jyBVnGtIVFXvnwASe6LT) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 7:21 |
 
-Snapshot ID: `ao4sgAAAAAC40CWlJ0ykOhhe3uoBQXfC`
+Snapshot ID: `ao9+AAAAAADUBLQIE5DEzJiJpCnzIW4s`

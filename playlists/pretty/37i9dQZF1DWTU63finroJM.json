@@ -1,12 +1,12 @@
 {
   "description": "Meet the future of music around the world. Cover: Magi Merlin",
-  "num_followers": 87777,
+  "num_followers": 87776,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQAzl3skIikKGR0DIc0XSznOzZL",
+  "snapshot_id": "AAAAAEEvvXPvV1a7BoyCV0X6OWNn0Tli",
   "tracks": [
     {
       "added_at": "2026-08-21 13:00:17",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-08-21 13:00:17",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
-        "url": "https://open.spotify.com/album/2BMwfH1ir5dF3qLYHDny7x"
-      },
-      "artists": [
-        {
-          "name": "JustmineNika",
-          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
-        }
-      ],
-      "duration_ms": 206341,
-      "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
-      "url": "https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY"
-    },
-    {
-      "added_at": "2026-08-21 13:00:17",
-      "album": {
         "name": "amapola",
         "url": "https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 180696,
       "name": "amapola",
       "url": "https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m"
+    },
+    {
+      "added_at": "2026-08-21 13:00:17",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
+        "url": "https://open.spotify.com/album/2BMwfH1ir5dF3qLYHDny7x"
+      },
+      "artists": [
+        {
+          "name": "JustmineNika",
+          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
+        }
+      ],
+      "duration_ms": 206341,
+      "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
+      "url": "https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY"
     },
     {
       "added_at": "2026-08-21 13:00:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,851 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,850 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 13 | [Blue Burns Orange](https://open.spotify.com/track/5w2Y1wj3QU8jHNj3WLei02) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 3:19 |
 | 14 | [We Are So Last Year](https://open.spotify.com/track/6g8VLFKHQCbKi6l0XpLKdT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 2:57 |
 | 15 | [Common Crook](https://open.spotify.com/track/3nHEKxGnv30F4uZkcUf97m) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:13 |
-| 16 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
+| 16 | [Bring You Back](https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:22 |
 | 17 | [Silver Bullet](https://open.spotify.com/track/6VYRTVEG4y845mb4Bpatae) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:03 |
 | 18 | [Dead In The Water](https://open.spotify.com/track/1vvzn2ZqR7p31b5ohClWhO) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:51 |
-| 19 | [Bring You Back](https://open.spotify.com/track/4sKW67AcIqF83EXXNhkjyy) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:22 |
+| 19 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
 | 20 | [The Darkest Times](https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:40 |
 | 21 | [Wake Up Call](https://open.spotify.com/track/5wgomnotcyDrah2xWs5PYG) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:02 |
 | 22 | [Where Can I Stab Myself In The Ears](https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [If Only You Were Lonely](https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq) | 3:42 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 35 | [Broken Man](https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:51 |
 | 36 | [Seafoam](https://open.spotify.com/track/6MAmisuvXgFBqKcienTZxO) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [William Ryan Key](https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE) | [The Rain Just Follows Me](https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG) | 2:36 |
 | 37 | [Hate](https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:43 |
-| 38 | [The Girl That Destroyed Me](https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 2:32 |
-| 39 | [So Hopelessly](https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta) | 3:00 |
+| 38 | [So Hopelessly](https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta) | 3:00 |
+| 39 | [The Girl That Destroyed Me](https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 2:32 |
 | 40 | [Tired and Alone](https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Rain Just Follows Me](https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG) | 4:05 |
 | 41 | [The Business Of Paper Stars](https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:46 |
 | 42 | [We Were Never Lost](https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Lights](https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [The Death Of A Dream](https://open.spotify.com/track/18kZbAPeeqHowdnC8wF9tq) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 0:46 |
 | 50 | [Corps Of Corpses](https://open.spotify.com/track/5JteFKFxIHvcEEQhx2bkTT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 3:12 |
 
-Snapshot ID: `ao4sgAAAAAD6d7sGWxk7YnPna6TQyb8b`
+Snapshot ID: `ao9+AAAAAADft9ApsuVOeBkk5smm/WLh`

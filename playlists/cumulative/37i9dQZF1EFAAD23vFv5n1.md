@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-218 songs - 10 hr 39 min
+229 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,19 +146,30 @@
 | [Non Sono Cool](https://open.spotify.com/track/4UDHBaPYDu6zI0sva3Yn26) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 2:41 | 2024-04-29 |  |
 | [Nose bleeds](https://open.spotify.com/track/2gLdvRMqFk9xtqdCdu8Rud) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 2:50 | 2024-04-29 |  |
 | [Nulla di stupefacente](https://open.spotify.com/track/6StTn7TmydEEw4co0QFei5) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 3:40 | 2026-03-14 |  |
-| [ok](https://open.spotify.com/track/5D9OWjK5p7eQyWPrr4jHlM) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 1:19 | 2024-04-29 |  |
-| [ok \*\_\*](https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 2:42 | 2025-08-22 |  |
-| [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-07-23 |  |
-| [ok :/](https://open.spotify.com/track/04ui4a5OFflkrFJ5qXExdY) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt) | 2:52 | 2024-06-10 |  |
-| [ok :0](https://open.spotify.com/track/2geeYyWexPGJQaClRbQqwl) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 3:10 | 2024-10-22 |  |
-| [ok </3](https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz) | 3:24 | 2025-08-22 |  |
-| [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 | 2025-11-20 |  |
-| [okok](https://open.spotify.com/track/1bcDVX5XacuPzujRos1C3T) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 3:30 | 2025-05-24 |  |
+| [ok](https://open.spotify.com/track/5D9OWjK5p7eQyWPrr4jHlM) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 1:19 | 2024-04-29 | 2026-08-29 |
+| [ok](https://open.spotify.com/track/7k2VljIcyL3V0BsEvhDmtz) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/2Aoaa2DRSBnFaACdmualPn) | 1:19 | 2026-08-28 |  |
+| [ok \*\_\*](https://open.spotify.com/track/1rzc3WkmCWkcUTLxC9Q1KW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/6ez42IrMS6Y1TBbdLt3wBz) | 2:42 | 2026-08-28 |  |
+| [ok \*\_\*](https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 2:42 | 2025-08-22 | 2026-08-29 |
+| [ok :\)](https://open.spotify.com/track/4UvZ660V6OsasKnkzcVFbi) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4VniVfKuUFclbqUhjcBZmg) | 3:29 | 2026-08-28 |  |
+| [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-07-23 | 2026-08-29 |
+| [ok :/](https://open.spotify.com/track/04ui4a5OFflkrFJ5qXExdY) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt) | 2:52 | 2024-06-10 | 2026-08-29 |
+| [ok :/](https://open.spotify.com/track/6GGHi4QowIR06QB9SHpPrO) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/2ky10sJO69l13mgOMxXH9T) | 2:52 | 2026-08-28 |  |
+| [ok :0](https://open.spotify.com/track/03sT1BVGtSRMk96kVtFTHy) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/6ez42IrMS6Y1TBbdLt3wBz) | 3:10 | 2026-08-28 |  |
+| [ok :0](https://open.spotify.com/track/2geeYyWexPGJQaClRbQqwl) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU) | 3:10 | 2024-10-22 | 2026-08-29 |
+| [ok </3](https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz) | 3:24 | 2025-08-22 | 2026-08-29 |
+| [ok </3](https://open.spotify.com/track/4QVg13i3IxcOUPWhHqJjQs) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/6XT6OHNAoDq1ECjYtIVeQK) | 3:24 | 2026-08-28 |  |
+| [oknottobeok](https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh) | 3:24 | 2026-08-28 |  |
+| [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 | 2025-11-20 | 2026-08-29 |
+| [okok](https://open.spotify.com/track/02T5x11qrnXWnBNbjnQXn4) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/2Aoaa2DRSBnFaACdmualPn) | 3:30 | 2026-08-28 |  |
+| [okok](https://open.spotify.com/track/1bcDVX5XacuPzujRos1C3T) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 3:30 | 2025-05-24 | 2026-08-29 |
 | [okok](https://open.spotify.com/track/5cnzY2pz4gUFNGyhLJRvxh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/23YHyxWe8nTsFFHvV2WFLZ) | 3:30 | 2024-04-29 | 2025-05-25 |
-| [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 | 2024-04-29 |  |
-| [okokokok](https://open.spotify.com/track/5sEgA18Ex9pmqLPyf3ooTz) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 2:04 | 2024-06-10 |  |
+| [okokok](https://open.spotify.com/track/4qxoOkUtMcTzY3S0eHUziY) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/4zP1fNxeLTQrG5usaotiPg) | 2:38 | 2026-08-28 |  |
+| [okokok](https://open.spotify.com/track/5VML2SOtSpYIKxtAQ3oAzq) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokok](https://open.spotify.com/album/0a6WPtwGDH6doaQoBiIp2C) | 2:38 | 2024-04-29 | 2026-08-29 |
+| [okokokok](https://open.spotify.com/track/1bq3O8plsxH7V1gKkavpYI) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/2Aoaa2DRSBnFaACdmualPn) | 2:04 | 2026-08-28 |  |
+| [okokokok](https://open.spotify.com/track/5sEgA18Ex9pmqLPyf3ooTz) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 2:04 | 2024-06-10 | 2026-08-29 |
 | [okokokokok](https://open.spotify.com/track/37YI4M2Js09a5XwI2KsMh9) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokokokok](https://open.spotify.com/album/225bRLDL6ZSHL8O5x2wp3k) | 2:53 | 2024-04-29 | 2024-06-29 |
-| [okokokokok](https://open.spotify.com/track/3pE51Dp9SN04xQCHMj6DME) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokokokok](https://open.spotify.com/album/1ftQuuwGlJDTg2BbCWvxwo) | 2:53 | 2024-06-28 |  |
+| [okokokokok](https://open.spotify.com/track/3pE51Dp9SN04xQCHMj6DME) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokokokok](https://open.spotify.com/album/1ftQuuwGlJDTg2BbCWvxwo) | 2:53 | 2024-06-28 | 2026-08-29 |
+| [okokokokok](https://open.spotify.com/track/412emqIxbdsuhhCfWLUa5z) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [okokokokok](https://open.spotify.com/album/6uZMQ2kXK7vAu6znAMybMb) | 2:53 | 2026-08-28 |  |
 | [ONLINE](https://open.spotify.com/track/0C6Vljd26BeeLlQWQylLz5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:13 | 2024-04-29 |  |
 | [Paradiso](https://open.spotify.com/track/3xoTmAPceMAHGRFe9HKV4m) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Paradiso](https://open.spotify.com/album/7E4Wy23cEvWIrJZOjjX5h0) | 3:35 | 2024-04-29 |  |
 | [Paranoie](https://open.spotify.com/track/6pRSnQ7NxpB9eCIa3N0Gqg) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Paranoie](https://open.spotify.com/album/0Xmz1F6dcfJ8mRpZyJhPZT) | 2:30 | 2024-04-29 |  |

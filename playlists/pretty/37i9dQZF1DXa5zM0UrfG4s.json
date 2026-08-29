@@ -1,12 +1,12 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118199,
+  "num_followers": 118202,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFKyJbM8KEIQ6A/otnVD0DD3JFt2",
+  "snapshot_id": "AAAAAPMgxWUJHwbNbDc9wiFLT5Q3Dx+W",
   "tracks": [
     {
       "added_at": "2026-08-27 22:00:56",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-08-27 22:00:56",
       "album": {
-        "name": "Hjem med dej",
-        "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
-      },
-      "artists": [
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
-        },
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        }
-      ],
-      "duration_ms": 187832,
-      "name": "Hjem med dej",
-      "url": "https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp"
-    },
-    {
-      "added_at": "2026-08-27 22:00:56",
-      "album": {
         "name": "Bygdegut (her er eg)",
         "url": "https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 227045,
       "name": "Bygdegut (her er eg)",
       "url": "https://open.spotify.com/track/5t4O0SahpSw7pavJBwGEC5"
+    },
+    {
+      "added_at": "2026-08-27 22:00:56",
+      "album": {
+        "name": "Hjem med dej",
+        "url": "https://open.spotify.com/album/7m4knSX565G8mI0WzeJGfN"
+      },
+      "artists": [
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        },
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        }
+      ],
+      "duration_ms": 187832,
+      "name": "Hjem med dej",
+      "url": "https://open.spotify.com/track/2QBwdcaP4e7kx2HKlVqlNp"
     },
     {
       "added_at": "2026-08-27 22:00:56",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-08-27 22:00:56",
       "album": {
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
+      },
+      "artists": [
+        {
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2026-08-27 22:00:56",
+      "album": {
         "name": "Drekke d\u00e6 fin",
         "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 119183,
       "name": "Drekke d\u00e6 fin",
       "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
-    },
-    {
-      "added_at": "2026-08-27 22:00:56",
-      "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2026-08-27 22:00:56",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-08-27 22:00:56",
       "album": {
+        "name": "G\u00e5r det bra?",
+        "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 143314,
+      "name": "G\u00e5r det bra?",
+      "url": "https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP"
+    },
+    {
+      "added_at": "2026-08-27 22:00:56",
+      "album": {
         "name": "Flesk og Duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 206974,
       "name": "Flesk og Duppe",
       "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
-    },
-    {
-      "added_at": "2026-08-27 22:00:56",
-      "album": {
-        "name": "G\u00e5r det bra?",
-        "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 143314,
-      "name": "G\u00e5r det bra?",
-      "url": "https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP"
     },
     {
       "added_at": "2026-08-27 22:00:56",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2026-08-27 22:00:56",
       "album": {
-        "name": "Sunshine (Cigarettes & Cheap Wine)",
-        "url": "https://open.spotify.com/album/5uzLQ8Y4tqCPyIpGA0LYOU"
+        "name": "Rypejakt",
+        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
       },
       "artists": [
         {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        },
+        {
+          "name": "Tomgang",
+          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
         }
       ],
-      "duration_ms": 169827,
-      "name": "Sunshine - Cigarettes & Cheap Wine",
-      "url": "https://open.spotify.com/track/18fWHsxgZICAlCq99pTCNf"
+      "duration_ms": 149651,
+      "name": "Rypejakt",
+      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
     },
     {
       "added_at": "2026-08-27 22:00:56",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2026-08-27 22:00:56",
       "album": {
-        "name": "Rypejakt",
-        "url": "https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm"
+        "name": "Sunshine (Cigarettes & Cheap Wine)",
+        "url": "https://open.spotify.com/album/5uzLQ8Y4tqCPyIpGA0LYOU"
       },
       "artists": [
         {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        },
-        {
-          "name": "Tomgang",
-          "url": "https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe"
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
         }
       ],
-      "duration_ms": 149651,
-      "name": "Rypejakt",
-      "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
+      "duration_ms": 169827,
+      "name": "Sunshine - Cigarettes & Cheap Wine",
+      "url": "https://open.spotify.com/track/18fWHsxgZICAlCq99pTCNf"
     },
     {
       "added_at": "2026-08-27 22:00:56",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2026-08-27 22:00:56",
       "album": {
-        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
-    },
-    {
-      "added_at": "2026-08-27 22:00:56",
-      "album": {
-        "name": "Eviva Espana (Charterfeber 2026)",
-        "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Eviva Espana - Charterfeber 2026",
-      "url": "https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k"
-    },
-    {
-      "added_at": "2026-08-27 22:00:56",
-      "album": {
         "name": "CAT 374",
         "url": "https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs"
       },
@@ -1151,6 +1119,22 @@
     {
       "added_at": "2026-08-27 22:00:56",
       "album": {
+        "name": "Eviva Espana (Charterfeber 2026)",
+        "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Eviva Espana - Charterfeber 2026",
+      "url": "https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k"
+    },
+    {
+      "added_at": "2026-08-27 22:00:56",
+      "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 170526,
       "name": "N\u00e5 er det freda'n igjen",
       "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+    },
+    {
+      "added_at": "2026-08-27 22:00:56",
+      "album": {
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2026-08-27 22:00:56",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-08-27 22:00:56",
       "album": {
-        "name": "Kveldssang til bonden",
-        "url": "https://open.spotify.com/album/4uufMBFyhdWMv8EMNtTzUH"
-      },
-      "artists": [
-        {
-          "name": "Randi Oline",
-          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
-        }
-      ],
-      "duration_ms": 173163,
-      "name": "Kveldssang til bonden",
-      "url": "https://open.spotify.com/track/2qK9qwG8vrRcVCaqz5K4JK"
-    },
-    {
-      "added_at": "2026-08-27 22:00:56",
-      "album": {
         "name": "Falla",
         "url": "https://open.spotify.com/album/17uI2EwTaK9s29cyoJoFOX"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 164647,
       "name": "Falla",
       "url": "https://open.spotify.com/track/43YgCJIcbcSOYSqh7G9dx6"
+    },
+    {
+      "added_at": "2026-08-27 22:00:56",
+      "album": {
+        "name": "Kveldssang til bonden",
+        "url": "https://open.spotify.com/album/4uufMBFyhdWMv8EMNtTzUH"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "duration_ms": 173163,
+      "name": "Kveldssang til bonden",
+      "url": "https://open.spotify.com/track/2qK9qwG8vrRcVCaqz5K4JK"
     },
     {
       "added_at": "2026-08-27 22:00:56",

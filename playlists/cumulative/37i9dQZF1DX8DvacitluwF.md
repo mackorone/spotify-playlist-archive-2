@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Njerae
+> The best in South African and international R&B\. Cover: Tanerélle
 
-689 songs - 1 day 13 hr 9 min
+691 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [CHOMI](https://open.spotify.com/track/5sgAXpkIVv7coia8OJwAjH) | [LIKKYLIKS](https://open.spotify.com/artist/1egZp9V6tEVf1jf5mFurK1), [Zango Kubheka](https://open.spotify.com/artist/1VMANc0TJb3ZL6mOxHkhig) | [CHOMI](https://open.spotify.com/album/2RdMq3GCY9SmIjM4qYRCAH) | 3:36 | 2025-06-13 | 2025-06-20 |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-09-26 | 2025-04-25 |
 | [Circles](https://open.spotify.com/track/1YZC8SZJin71ZfItySfe5I) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Full Circle](https://open.spotify.com/album/3mV8iTF8vMvT0WLvjDKze6) | 3:01 | 2023-10-12 | 2023-10-27 |
-| [Circles](https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [Circles](https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg) | 3:40 | 2026-08-20 |  |
+| [Circles](https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [Circles](https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg) | 3:40 | 2026-08-20 | 2026-08-29 |
 | [CITY GYAL](https://open.spotify.com/track/45c6ENP4z68YD6bPkUPTKk) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [CITY GYAL](https://open.spotify.com/album/7zwiPHmpaTlrEhH7RsbEoD) | 2:30 | 2025-06-20 | 2025-06-28 |
 | [Clarity](https://open.spotify.com/track/1llE1R8w9ikAbGEr32u5CX) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Clarity](https://open.spotify.com/album/5nfnp4M0TXAdqN4cFL8R7r) | 4:14 | 2024-05-16 | 2024-06-14 |
 | [Clarity](https://open.spotify.com/track/6Or8tC2UWavckRdkMUUYfw) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Transparent](https://open.spotify.com/album/1UkM7U0GAqjJs3oO4M1dLR) | 4:14 | 2024-09-02 | 2024-09-12 |
@@ -122,7 +122,7 @@
 | [Closure](https://open.spotify.com/track/3jXEQ0Q1KUp8qDNpqxEixT) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eric Bellinger](https://open.spotify.com/album/3uzbUHpvDp6O2bfpOLE1Yf) | 3:03 | 2026-08-20 |  |
 | [CLOWN](https://open.spotify.com/track/4FqZJdnOhx9s2I6o8hmMsd) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [CLOWN](https://open.spotify.com/album/328alaY3n5WRAWkBzkBl7G) | 3:47 | 2023-10-12 | 2023-10-27 |
 | [Coffee In The Morning](https://open.spotify.com/track/3kNJP86qR3rdhLaCP9Z4bR) | [Zimkitha](https://open.spotify.com/artist/6A7lXry2Pg5fOttzmjqpDy) | [Coffee In The Morning](https://open.spotify.com/album/7309E3YupTU0JV7Tr3PJuH) | 3:58 | 2024-08-30 | 2024-09-03 |
-| [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 | 2026-08-20 |  |
+| [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 | 2026-08-20 | 2026-08-29 |
 | [Come Over](https://open.spotify.com/track/4IG4PZqVEbllfl3h0Qoypw) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [T's & C's Apply](https://open.spotify.com/album/1BGoSXH26t5oeXmzB1gdDz) | 3:42 | 2026-07-09 | 2026-08-23 |
 | [Come To Me](https://open.spotify.com/track/5e1GlV6qlEKrlnif3SMBa1) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Come To Me](https://open.spotify.com/album/5pi9jAX9QRAgXPt8S3xypZ) | 3:33 | 2026-07-09 | 2026-07-17 |
 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 | 2026-07-31 |  |
@@ -263,6 +263,7 @@
 | [Heat](https://open.spotify.com/track/3KfgASoej5tTxnaB6yVkig) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Noir](https://open.spotify.com/artist/5JKzl6YHvZb50bePL9OcAb) | [Heat](https://open.spotify.com/album/2MVu8eiO2NRdIv54kXHuXl) | 2:18 | 2024-07-11 | 2024-09-03 |
 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 | 2026-07-16 |  |
 | [Here I Stand](https://open.spotify.com/track/1oFEgr3Ujpwuiu4bn53B25) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Here I Stand](https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW) | 4:10 | 2025-02-13 | 2025-03-01 |
+| [Here They Come II](https://open.spotify.com/track/6UKlx3FPcxDujf4r3MI4hT) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Here They Come II](https://open.spotify.com/album/49MuMZHqKMfILrUtUOfuFs) | 3:07 | 2026-08-28 |  |
 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 | 2024-04-18 | 2024-09-03 |
 | [Hey Pastor \(feat\. Kota the Friend\)](https://open.spotify.com/track/2tG9LQuOBhnwamt06G2JeJ) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Hey Pastor \(feat\. Kota the Friend\)](https://open.spotify.com/album/7pWyaxaKbiwijkRV3QBPEu) | 2:43 | 2025-04-24 | 2025-07-01 |
 | [Hold Me Tight](https://open.spotify.com/track/3nledyW6TPc8hfXeDi8LNK) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Hold Me Tight](https://open.spotify.com/album/0B3sKMBkPgz7g8yXZZxMDz) | 3:19 | 2024-04-25 | 2024-09-03 |
@@ -622,6 +623,7 @@
 | [Time](https://open.spotify.com/track/1EwFCXUDJVpQEnXJOfhuZg) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Time](https://open.spotify.com/album/4qLhQVT4loCtRyqhk4UB29) | 3:38 | 2024-04-25 | 2024-07-12 |
 | [Tlc](https://open.spotify.com/track/1nqhDalFQgJ5AFwarNG1ph) | [Toya K](https://open.spotify.com/artist/2jj5U4DWQa9NJCTbKkLArz) | [Princess Treatment Only](https://open.spotify.com/album/0yrBSZ5cMJFjxvBvYDEze3) | 2:49 | 2025-03-14 | 2025-04-25 |
 | [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 | 2026-02-13 | 2026-02-20 |
+| [To The Moon \(Plan C\) \- feat\. Steve Lacy](https://open.spotify.com/track/19u9Ms6Z8Ilo0JOITN2mFV) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 4:16 | 2026-08-28 |  |
 | [Today is a good day](https://open.spotify.com/track/2IOiEhA8VTT4gwel9HgJuu) | [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [BEFORE THE WORST](https://open.spotify.com/album/5ZZSx6ZZkhqHGLM1U87ize) | 2:30 | 2025-06-13 | 2025-06-20 |
 | [TOMORROW \(feat\. Nanette\)](https://open.spotify.com/track/3cAUjiYuuSDZeVB9Q2TUVT) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [HEARTBREAK HOTEL: DELUXE EDITION](https://open.spotify.com/album/4hqpfto8yts8goB7NL2Nkd) | 6:39 | 2024-10-31 | 2025-04-25 |
 | [Tonight](https://open.spotify.com/track/2GBfPNvZqNmIG8lgF8p9tU) | [Mary Jane](https://open.spotify.com/artist/6N2ZOBipWXmuFn5uzXoVpr) | [Tonight](https://open.spotify.com/album/1xTXtXOgV8leQWJkWjjjNA) | 3:21 | 2024-04-04 | 2024-06-14 |

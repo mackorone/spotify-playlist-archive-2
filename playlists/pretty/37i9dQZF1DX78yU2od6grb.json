@@ -1,12 +1,12 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 527609,
+  "num_followers": 527537,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABzALcBepWYiPxkiwJLn1mA5/1TW",
+  "snapshot_id": "AAAAAIBUEEDJpJTDayh7uWXibpqv3UDN",
   "tracks": [
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1507,26 +1507,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Forget About Me",
-        "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
       },
       "artists": [
         {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 177637,
-      "name": "Forget About Me",
-      "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
     },
     {
       "added_at": "2025-02-07 03:01:15",
@@ -1555,22 +1551,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
+        "name": "Forget About Me",
+        "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
         }
       ],
-      "duration_ms": 232120,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
+      "duration_ms": 177637,
+      "name": "Forget About Me",
+      "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
     },
     {
       "added_at": "2025-02-07 03:01:15",

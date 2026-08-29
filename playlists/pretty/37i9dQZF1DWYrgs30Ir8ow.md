@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: LA$$A, Cristian D & Frsh
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,708 likes - 46 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,769 likes - 46 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 45 | [MONA LISA](https://open.spotify.com/track/4ZrITEhPtOTsIsDQRkBwv5) | [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ), [Dessa](https://open.spotify.com/artist/071eYqdF7w29jwzwFx9YvA), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [Ky Janea](https://open.spotify.com/artist/5jaQoL0k6l3BHdF24j42im), [Bobby Taylor](https://open.spotify.com/artist/6zMLleTVyslDg6NTVicqer), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [MONA LISA](https://open.spotify.com/album/4p1uYpjOfPuPJz8RJewZqn) | 2:38 |
 | 46 | [DANCE...](https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [DANCE...](https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v) | 4:47 |
 
-Snapshot ID: `AAAAAGm4op27slwsblG76OLO21+RJmAA`
+Snapshot ID: `AAAAAAj9xMJEnxezMTF7pBXNMreRtPxC`

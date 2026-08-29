@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 238427,
+  "num_followers": 238507,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL7TvOJWnsRdcRNN4z6jvROhGlqD",
+  "snapshot_id": "AAAAAKmDkgqNf7o8GTLOElelL/h8cSTT",
   "tracks": [
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3im4azOVIjhYWRD3a8u8Ic"
+      },
+      "artists": [
+        {
+          "name": "KA2SH",
+          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
+        },
+        {
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
+        }
+      ],
+      "duration_ms": 188793,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/02cqJ7yEmzwJoEzlWwdEn4"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Back to the Street (L-Side Remix)",
         "url": "https://open.spotify.com/album/3a9iYbjoFnIphHFNXkEP73"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 227789,
       "name": "Back to the Street - L-Side Remix",
       "url": "https://open.spotify.com/track/2L4qwSWLUjkBiCsoWUYuU1"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3im4azOVIjhYWRD3a8u8Ic"
-      },
-      "artists": [
-        {
-          "name": "KA2SH",
-          "url": "https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT"
-        },
-        {
-          "name": "Coron3l",
-          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
-        }
-      ],
-      "duration_ms": 188793,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/02cqJ7yEmzwJoEzlWwdEn4"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
-      },
-      "artists": [
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        }
-      ],
-      "duration_ms": 456000,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Tell The World",
         "url": "https://open.spotify.com/album/2JnYrqR2pB3DyPIzPfE6vs"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 193000,
       "name": "Tell The World",
       "url": "https://open.spotify.com/track/5WDIeNqJWRNyzUCnLCsJ57"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/6eiLKOfPL640tYrsRhoMrA"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "duration_ms": 456000,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/1RRLKwpm6pLnKrZMRL2mMU"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "My Prayer (Micky More & Andy Tee Mixes)",
         "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 228694,
       "name": "My Prayer - Micky More & Andy Tee Classic Edit",
       "url": "https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 255848,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 293916,
+      "name": "Love Is All I Know",
+      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3nfgwuqMeqK2YYODunDVeW"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 232802,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3zoxiRY5rNsjG1J1pneeEd"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 293916,
-      "name": "Love Is All I Know",
-      "url": "https://open.spotify.com/track/4d5gbYm8K71x49mNZ9AotT"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Praise Him",
-        "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
-      },
-      "artists": [
-        {
-          "name": "Megamind Nova",
-          "url": "https://open.spotify.com/artist/1zVnf3ZQeEYaicFVZfNTzC"
-        },
-        {
-          "name": "MacD",
-          "url": "https://open.spotify.com/artist/4Ssv2d04jzGpEhOoqE1prh"
-        }
-      ],
-      "duration_ms": 434086,
-      "name": "Praise Him",
-      "url": "https://open.spotify.com/track/3WA5oS4gru99UDZbYcMJI4"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Looking For Happiness",
         "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 143997,
       "name": "Looking For Happiness",
       "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Who I was",
+        "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
+      },
+      "artists": [
+        {
+          "name": "Sintapia",
+          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
+        },
+        {
+          "name": "ZooFunktion",
+          "url": "https://open.spotify.com/artist/0VthkLm2bGcqRnd0SrKxd6"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Who I Was",
+      "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1567,94 +1567,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Beacon of Hope",
-        "url": "https://open.spotify.com/album/4vkjpKb2VJsAmHwboaCP6K"
-      },
-      "artists": [
-        {
-          "name": "Summer Martin",
-          "url": "https://open.spotify.com/artist/3ofHJOpy368pHMZB5QeCS9"
-        },
-        {
-          "name": "Bassanova",
-          "url": "https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh"
-        },
-        {
-          "name": "Andr\u00e9 SaxMan Brown",
-          "url": "https://open.spotify.com/artist/24YOcUTGZOeMoBLcYrtBMA"
-        },
-        {
-          "name": "Aisling Fuller",
-          "url": "https://open.spotify.com/artist/0aYbG5hGPjYrwSpOHe7zgO"
-        }
-      ],
-      "duration_ms": 194227,
-      "name": "Beacon of Hope",
-      "url": "https://open.spotify.com/track/2LXcDsWalfGUoAkcKSbmxA"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Who I was",
-        "url": "https://open.spotify.com/album/39X8Ifsedd7xzP8UMXDkWt"
-      },
-      "artists": [
-        {
-          "name": "Sintapia",
-          "url": "https://open.spotify.com/artist/5SWXhtigdFs6Q9Wqri5ROo"
-        },
-        {
-          "name": "ZooFunktion",
-          "url": "https://open.spotify.com/artist/0VthkLm2bGcqRnd0SrKxd6"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Who I Was",
-      "url": "https://open.spotify.com/track/6u2GoNrEXLbirPpbAf9pJ2"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "My Sweet Heaven (feat. Stealth)",
-        "url": "https://open.spotify.com/album/70iRS7awE2Q5iQgY8wDzcB"
-      },
-      "artists": [
-        {
-          "name": "Jay Hardway",
-          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
-        },
-        {
-          "name": "Stealth",
-          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
-        }
-      ],
-      "duration_ms": 177028,
-      "name": "My Sweet Heaven (feat. Stealth)",
-      "url": "https://open.spotify.com/track/0i3v7Y3WyIe4v4kRVJ8BGj"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
-      },
-      "artists": [
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        },
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Save Me (Illingworth Remix)",
         "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
       },
@@ -1671,22 +1583,6 @@
       "duration_ms": 220952,
       "name": "Save Me (Illingworth Remix)",
       "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/7oPpTdBDuRZl3zgJsCFRDj"
-      },
-      "artists": [
-        {
-          "name": "Holmes John",
-          "url": "https://open.spotify.com/artist/5MZLjAnTyZogqTlt3gNIxL"
-        }
-      ],
-      "duration_ms": 224646,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2OC92OqMTZY9jQvX9ihFTK"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1719,38 +1615,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Fall on Me (House Remix)",
-        "url": "https://open.spotify.com/album/2HQQLzKrlKy0T6Z9VGciS7"
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/5AttTOJ5D1b5BvqOYwoL4R"
       },
       "artists": [
         {
-          "name": "Terry Hunter",
-          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+          "name": "Megamind Nova",
+          "url": "https://open.spotify.com/artist/1zVnf3ZQeEYaicFVZfNTzC"
         },
         {
-          "name": "Shekinah Glory Ministry",
-          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+          "name": "MacD",
+          "url": "https://open.spotify.com/artist/4Ssv2d04jzGpEhOoqE1prh"
         }
       ],
-      "duration_ms": 394371,
-      "name": "Fall on Me - House Remix",
-      "url": "https://open.spotify.com/track/1YIqGBIku5uVh8SsnpuaAW"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Lie To You",
-        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
-      },
-      "artists": [
-        {
-          "name": "Alphein",
-          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Lie To You",
-      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
+      "duration_ms": 434086,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/3WA5oS4gru99UDZbYcMJI4"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1771,22 +1651,122 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Reign Jesus (House Remix)",
-        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
+        "name": "My Sweet Heaven (feat. Stealth)",
+        "url": "https://open.spotify.com/album/70iRS7awE2Q5iQgY8wDzcB"
       },
       "artists": [
         {
-          "name": "Shekinah Glory Ministry",
-          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+          "name": "Jay Hardway",
+          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
         },
         {
-          "name": "Maurice Joshua",
-          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+          "name": "Stealth",
+          "url": "https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80"
         }
       ],
-      "duration_ms": 405691,
-      "name": "Reign Jesus - House Remix",
-      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
+      "duration_ms": 177028,
+      "name": "My Sweet Heaven (feat. Stealth)",
+      "url": "https://open.spotify.com/track/0i3v7Y3WyIe4v4kRVJ8BGj"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Lie To You",
+        "url": "https://open.spotify.com/album/3D7u8J5f08c83xp5c0x4ST"
+      },
+      "artists": [
+        {
+          "name": "Alphein",
+          "url": "https://open.spotify.com/artist/75P85rryVJ2yn4pGCUH6XL"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Lie To You",
+      "url": "https://open.spotify.com/track/68Lsmc0bIN6d5a845hmUD9"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
+      },
+      "artists": [
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        },
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Beacon of Hope",
+        "url": "https://open.spotify.com/album/4vkjpKb2VJsAmHwboaCP6K"
+      },
+      "artists": [
+        {
+          "name": "Summer Martin",
+          "url": "https://open.spotify.com/artist/3ofHJOpy368pHMZB5QeCS9"
+        },
+        {
+          "name": "Bassanova",
+          "url": "https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh"
+        },
+        {
+          "name": "Andr\u00e9 SaxMan Brown",
+          "url": "https://open.spotify.com/artist/24YOcUTGZOeMoBLcYrtBMA"
+        },
+        {
+          "name": "Aisling Fuller",
+          "url": "https://open.spotify.com/artist/0aYbG5hGPjYrwSpOHe7zgO"
+        }
+      ],
+      "duration_ms": 194227,
+      "name": "Beacon of Hope",
+      "url": "https://open.spotify.com/track/2LXcDsWalfGUoAkcKSbmxA"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Fall on Me (House Remix)",
+        "url": "https://open.spotify.com/album/2HQQLzKrlKy0T6Z9VGciS7"
+      },
+      "artists": [
+        {
+          "name": "Terry Hunter",
+          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+        },
+        {
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        }
+      ],
+      "duration_ms": 394371,
+      "name": "Fall on Me - House Remix",
+      "url": "https://open.spotify.com/track/1YIqGBIku5uVh8SsnpuaAW"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/7oPpTdBDuRZl3zgJsCFRDj"
+      },
+      "artists": [
+        {
+          "name": "Holmes John",
+          "url": "https://open.spotify.com/artist/5MZLjAnTyZogqTlt3gNIxL"
+        }
+      ],
+      "duration_ms": 224646,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2OC92OqMTZY9jQvX9ihFTK"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1815,6 +1795,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Reign Jesus (House Remix)",
+        "url": "https://open.spotify.com/album/1xQmnnZQkAzGyA5raWp1nG"
+      },
+      "artists": [
+        {
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        },
+        {
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+        }
+      ],
+      "duration_ms": 405691,
+      "name": "Reign Jesus - House Remix",
+      "url": "https://open.spotify.com/track/07abs0pHSV6oAx6Bzow4vG"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "HOLY",
         "url": "https://open.spotify.com/album/4f4tqDPM23OYNrYO0sUBuR"
       },
@@ -1831,54 +1831,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Worship You",
-        "url": "https://open.spotify.com/album/1KIa8LWo1nxxx8MO21tzQi"
-      },
-      "artists": [
-        {
-          "name": "Grace George",
-          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Worship You",
-      "url": "https://open.spotify.com/track/5ycozZUhfqJ7hAkPTg8LKC"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "He's Alright (David Penn Edit)",
-        "url": "https://open.spotify.com/album/3XChj0aXEjhj2ZFmZ3eBmq"
-      },
-      "artists": [
-        {
-          "name": "Jame Starck",
-          "url": "https://open.spotify.com/artist/7vlDs9hVx8VrrFFn60SX8Y"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        },
-        {
-          "name": "Zetaphunk",
-          "url": "https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        },
-        {
-          "name": "Alfreda Gerald",
-          "url": "https://open.spotify.com/artist/5eyXnF9kHVXWX8wsheHHz7"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "He's Alright - David Penn Edit",
-      "url": "https://open.spotify.com/track/4kzM5M3jsMCKBZ6IqYsEMM"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Deliver (Higher)",
         "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
       },
@@ -1891,6 +1843,22 @@
       "duration_ms": 200433,
       "name": "Deliver (Higher)",
       "url": "https://open.spotify.com/track/7rVqrRK4YqbDiiTFDexabq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/1KIa8LWo1nxxx8MO21tzQi"
+      },
+      "artists": [
+        {
+          "name": "Grace George",
+          "url": "https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/5ycozZUhfqJ7hAkPTg8LKC"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1939,22 +1907,34 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Fire Fall (Paris Jones Remix)",
-        "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
+        "name": "He's Alright (David Penn Edit)",
+        "url": "https://open.spotify.com/album/3XChj0aXEjhj2ZFmZ3eBmq"
       },
       "artists": [
         {
-          "name": "Seth & Nirva",
-          "url": "https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL"
+          "name": "Jame Starck",
+          "url": "https://open.spotify.com/artist/7vlDs9hVx8VrrFFn60SX8Y"
         },
         {
-          "name": "Paris Jones",
-          "url": "https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp"
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        },
+        {
+          "name": "Zetaphunk",
+          "url": "https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "Alfreda Gerald",
+          "url": "https://open.spotify.com/artist/5eyXnF9kHVXWX8wsheHHz7"
         }
       ],
-      "duration_ms": 250378,
-      "name": "Fire Fall - Paris Jones Remix",
-      "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
+      "duration_ms": 187750,
+      "name": "He's Alright - David Penn Edit",
+      "url": "https://open.spotify.com/track/4kzM5M3jsMCKBZ6IqYsEMM"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1975,6 +1955,26 @@
       "duration_ms": 155520,
       "name": "Floating - okay.benny Remix",
       "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Fire Fall (Paris Jones Remix)",
+        "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
+      },
+      "artists": [
+        {
+          "name": "Seth & Nirva",
+          "url": "https://open.spotify.com/artist/4Om5bNcFn2zgwJPWXbTDJL"
+        },
+        {
+          "name": "Paris Jones",
+          "url": "https://open.spotify.com/artist/1buXx0RSkvGYCCiAl03JIp"
+        }
+      ],
+      "duration_ms": 250378,
+      "name": "Fire Fall - Paris Jones Remix",
+      "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
     },
     {
       "added_at": "2026-08-18 23:12:48",

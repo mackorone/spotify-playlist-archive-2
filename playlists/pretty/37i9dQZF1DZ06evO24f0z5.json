@@ -1,12 +1,12 @@
 {
   "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
-  "num_followers": 92522,
+  "num_followers": 92532,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAArhaDZLLT8IyjRsB5M/r+2",
+  "snapshot_id": "ao9+AAAAAAAIoZOgWZ3SKTDdoK9Sbzvp",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Rastafari todo concuerda",
-        "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 226416,
-      "name": "Con el diablo al lado",
-      "url": "https://open.spotify.com/track/1x4q70rqejsIHgLifQ75r3"
+      "duration_ms": 266006,
+      "name": "Indescriptible sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/5xy52OLb6E4La3aVrtfItN"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer"
+        "name": "Con Rastafari todo concuerda",
+        "url": "https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 266006,
-      "name": "Indescriptible sensaci\u00f3n",
-      "url": "https://open.spotify.com/track/5xy52OLb6E4La3aVrtfItN"
+      "duration_ms": 226416,
+      "name": "Con el diablo al lado",
+      "url": "https://open.spotify.com/track/1x4q70rqejsIHgLifQ75r3"
     },
     {
       "added_at": null,

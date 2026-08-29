@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > drinks em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,643 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,648 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 57 | [Hurry Hurry](https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offering](https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj) | 3:06 |
 | 58 | [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 |
 | 59 | [Sur Une Chanson En Français](https://open.spotify.com/track/5RLdGGBsuxErhPXwxckA3G) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Couleurs Primaires](https://open.spotify.com/album/0wIR0bnXAUSSFI2kwdhJp9) | 5:14 |
-| 60 | [BITCH](https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/6QIxClpRlI72nsM3TwfGUR) | 2:42 |
+| 60 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |
 
-Snapshot ID: `AAAAAPe0iwoMUVUtTH3CxvcMtrBUbFZL`
+Snapshot ID: `AAAAADDsU/rYrkMMe2hLUFHHX5SBNfgz`

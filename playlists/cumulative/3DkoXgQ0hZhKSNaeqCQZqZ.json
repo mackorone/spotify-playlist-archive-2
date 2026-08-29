@@ -6189,6 +6189,28 @@
     },
     {
       "album": {
+        "name": "maybe in august",
+        "url": "https://open.spotify.com/album/0nUUhSQKKIadzZp3Tvn1wP"
+      },
+      "artists": [
+        {
+          "name": "bit depth",
+          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+        },
+        {
+          "name": "Pulaski Day",
+          "url": "https://open.spotify.com/artist/0cjH3tvSwHec51yifCYT7n"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332504,
+      "name": "maybe in august",
+      "url": "https://open.spotify.com/track/5jrnIUsdFRVmSSx037aUFW"
+    },
+    {
+      "album": {
         "name": "me when im with u",
         "url": "https://open.spotify.com/album/1M2TrWPuXV7LlRSZlhBTg3"
       },
@@ -10716,6 +10738,24 @@
       "duration_ms": 138017,
       "name": "TUMMY",
       "url": "https://open.spotify.com/track/5knoabT77wyCXAq1dYGQco"
+    },
+    {
+      "album": {
+        "name": "(AGAIN)",
+        "url": "https://open.spotify.com/album/5mlD5eRizyOvq4TGOT2w2a"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Case",
+          "url": "https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462312,
+      "name": "Turn Back",
+      "url": "https://open.spotify.com/track/0sFk61kDNLWaEuGloyrOih"
     },
     {
       "album": {

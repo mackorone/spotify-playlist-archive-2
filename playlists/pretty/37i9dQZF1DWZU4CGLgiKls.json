@@ -1,12 +1,12 @@
 {
   "description": "Se viene el partido, la previa es con m\u00fasica!",
-  "num_followers": 535161,
+  "num_followers": 535125,
   "original_name": "Previa Futbolera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEeL/YTPwqSE4q7aHPTCa5K2LORj",
+  "snapshot_id": "AAAAAGoT/7UTUe4duVY0PaDcW+R/Dg8S",
   "tracks": [
     {
       "added_at": "2026-07-19 14:57:45",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "9 de Julio",
+      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
+    },
+    {
+      "added_at": "2026-07-19 14:57:45",
+      "album": {
         "name": "Tu Vecino Nos Conoce",
         "url": "https://open.spotify.com/album/6yRF4SxmoJJnRc3mJW8iXr"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 175059,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/4FIDq6NTwNBOTx9L8lRYkY"
-    },
-    {
-      "added_at": "2026-07-19 14:57:45",
-      "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "9 de Julio",
-      "url": "https://open.spotify.com/track/04bg4edMdpKhsgkSzYqj55"
     },
     {
       "added_at": "2026-07-19 14:57:45",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "La Cuarta Estrella (Versi\u00f3n Hinchada)",
-        "url": "https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi"
+        "name": "Viaje",
+        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
       },
       "artists": [
         {
-          "name": "PALMITO",
-          "url": "https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v"
+          "name": "Mancha De Rolando",
+          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         }
       ],
-      "duration_ms": 135270,
-      "name": "La Cuarta Estrella (Versi\u00f3n Hinchada)",
-      "url": "https://open.spotify.com/track/1QPjHLJWBXvE5Ymck4wtfW"
+      "duration_ms": 252760,
+      "name": "Arde la Ciudad",
+      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
     },
     {
       "added_at": "2026-07-19 14:57:45",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-07-19 14:57:45",
       "album": {
-        "name": "Viaje",
-        "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
       "artists": [
         {
-          "name": "Mancha De Rolando",
-          "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         }
       ],
-      "duration_ms": 252760,
-      "name": "Arde la Ciudad",
-      "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     }
   ],
   "unique_name": "Previa Futbolera",

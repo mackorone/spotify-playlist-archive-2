@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,568 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,580 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 59 | [THE BLOB](https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [THE BLOB](https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ) | 2:22 |
 | 60 | [Lose You](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 |
 | 61 | [Real Power](https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Real Power](https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE) | 4:15 |
-| 62 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
-| 63 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
+| 62 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
+| 63 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
 | 64 | [American Spirit](https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 5: the beginning](https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn) | 2:58 |
 | 65 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
 | 66 | [Honeycrash](https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Honeycrash](https://open.spotify.com/album/65c74y1vN6hMca1Zs4hkVo) | 3:08 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 84 | [WHAT A MAN](https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [GOOD LUCK](https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM) | 3:22 |
 | 85 | [headspace](https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y) | [SIIICKBRAIN](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [dizzy spells](https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV) | 3:08 |
 | 86 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 |
-| 87 | [MONEY BAG](https://open.spotify.com/track/0Dr2hbRcXtxqx5PyvKAorh) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [MONEY BAG](https://open.spotify.com/album/53qwUwrCnGzpQ67RLPwvNT) | 2:14 |
-| 88 | [One Of The Pack](https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 3:17 |
-| 89 | [I Died](https://open.spotify.com/track/6MYLG88balCnmy0a3cId3N) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG), [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [I Died](https://open.spotify.com/album/3POKR602QYwFIrOFMqQhSx) | 2:30 |
-| 90 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
+| 87 | [One Of The Pack](https://open.spotify.com/track/79QWntL6utGA8UWExmcmCn) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/1N1hcETSwMi13yU30szzpD) | 3:17 |
+| 88 | [MONEY BAG](https://open.spotify.com/track/0Dr2hbRcXtxqx5PyvKAorh) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [MONEY BAG](https://open.spotify.com/album/53qwUwrCnGzpQ67RLPwvNT) | 2:14 |
+| 89 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 |
+| 90 | [I Died](https://open.spotify.com/track/6MYLG88balCnmy0a3cId3N) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG), [Daisha McBride](https://open.spotify.com/artist/3gTb0Vm6wFbRFVTAhDTgId) | [I Died](https://open.spotify.com/album/3POKR602QYwFIrOFMqQhSx) | 2:30 |
 | 91 | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/track/6PgWRZ1k4DiCnkUK6FvCfV) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [WHO DIED AND MADE YOU KING?](https://open.spotify.com/album/43VcEun0Hr5gKPp0YPRbJ8) | 2:23 |
 | 92 | [Sick](https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:07 |
 | 93 | [FCKN IN LOVE \(Mute Choir Remix\)](https://open.spotify.com/track/7LzZoRUTE997XJlJakYyBF) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ), [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [FCKN IN LOVE \(Mute Choir Remix\)](https://open.spotify.com/album/4rGngww6I50IfgUAZAnDxs) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 99 | [Heavy Pour](https://open.spotify.com/track/0QAc3lLqDEseK9I3G18fiF) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Heavy Pour](https://open.spotify.com/album/3Wts0iKSOrE244mqwSS0kN) | 3:50 |
 | 100 | [BACKSTABBER](https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA) | [BACKSTABBER](https://open.spotify.com/album/1RFijpHOUqGPZ3hdvcm8IM) | 3:08 |
 
-Snapshot ID: `AAAAAEdBv/IprzthK7ILJ7ruj3W/nQvK`
+Snapshot ID: `AAAAAPHwEia+dJg2gXpLfb++h0Sj7Kh+`

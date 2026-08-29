@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. \(Cover: Stray Kids\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,351 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,583 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 36 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 37 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
 | 38 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
-| 39 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 |
-| 40 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
+| 39 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
+| 40 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 |
 | 41 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 42 | [SUGAR HONEY ICE TEA](https://open.spotify.com/track/16ck09A3j0tqvV6t3fW1DD) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [SUGAR HONEY ICE TEA](https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC) | 2:58 |
 | 43 | [Stick With You](https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [7TH YEAR: A Moment of Stillness in the Thorns](https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk) | 2:33 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 47 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 |
 | 48 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 49 | [Body to Body](https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 |
-| 50 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 |
+| 50 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
 | 51 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
 | 52 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 |
-| 53 | [Miniskirt](https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [MINISKIRT](https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D) | 2:59 |
+| 53 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 |
 | 54 | [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 |
 | 55 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 56 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\)](https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:01 |
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 65 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 |
 | 66 | [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 |
 | 67 | [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 |
-| 68 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 |
-| 69 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 |
+| 68 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 |
+| 69 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 |
 | 70 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 |
 | 71 | [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 |
 | 72 | [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me \(From The Movie "GOAT"\)](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
 | 73 | [GO](https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:15 |
-| 74 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 |
-| 75 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
+| 74 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
+| 75 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 |
 | 76 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 |
 | 77 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 |
 | 78 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 89 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 |
 | 90 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
 | 91 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 |
-| 92 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [play hard](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
-| 93 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
+| 92 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
+| 93 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 |
 | 94 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 |
-| 95 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 |
+| 95 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [play hard](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
 | 96 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 |
 | 97 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 |
 | 98 | [Pretty Savage](https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:21 |
 | 99 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
 | 100 | [BURNING UP](https://open.spotify.com/track/3uqgFeHo4Jr1D3gVIHQlD7) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/5zwhhh45Fd78xSX7JWjmF5) | 2:49 |
 
-Snapshot ID: `AAAAABHQzbW7wULb1hbuQsRWY6qhB+zC`
+Snapshot ID: `AAAAAPm9KG2UKdvciQbiNIk//q/lVymb`

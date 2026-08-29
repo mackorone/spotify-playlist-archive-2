@@ -1,12 +1,12 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 135743,
+  "num_followers": 135739,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEgIMwZNcz+0Yb3oMdntq3lbWXq/",
+  "snapshot_id": "AAAAAKD60PXpvNKKW4XQdUOGkwalF18P",
   "tracks": [
     {
       "added_at": "2025-07-17 22:42:38",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Mi Coraz\u00f3n y Yo",
+        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 178665,
+      "name": "Mi Coraz\u00f3n y Yo",
+      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 184256,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Mi Coraz\u00f3n y Yo",
-        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 178665,
-      "name": "Mi Coraz\u00f3n y Yo",
-      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Muy tarde",
-        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Muy tarde",
-      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 181274,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Muy tarde",
+        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Muy tarde",
+      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "\u00faltimo y primero",
-        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 179377,
-      "name": "\u00faltimo y primero",
-      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 182903,
       "name": "Male",
       "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "\u00faltimo y primero",
+        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 179377,
+      "name": "\u00faltimo y primero",
+      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -915,18 +915,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Lo Que Queda",
-        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
+        "name": "El Gobierno de China",
+        "url": "https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Pantocrator",
+          "url": "https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3"
         }
       ],
-      "duration_ms": 224737,
-      "name": "Lo Que Queda",
-      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
+      "duration_ms": 142871,
+      "name": "El Gobierno de China",
+      "url": "https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -943,6 +943,38 @@
       "duration_ms": 215013,
       "name": "Musa introvertida",
       "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "duration_ms": 224737,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -967,22 +999,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "El Gobierno de China",
-        "url": "https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b"
-      },
-      "artists": [
-        {
-          "name": "Pantocrator",
-          "url": "https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3"
-        }
-      ],
-      "duration_ms": 142871,
-      "name": "El Gobierno de China",
-      "url": "https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Todo Va A Cambiar",
         "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Un Amoroso Asunto",
         "url": "https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY"
       },
@@ -1031,38 +1031,6 @@
       "duration_ms": 159168,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
-      },
-      "artists": [
-        {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1083,18 +1051,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Al calor de un sol que acaba de morir",
-        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
       },
       "artists": [
         {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
         }
       ],
-      "duration_ms": 187105,
-      "name": "Salvaje y tierno",
-      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1111,6 +1079,22 @@
       "duration_ms": 217706,
       "name": "Sue\u00f1o Raro",
       "url": "https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Salvaje y tierno",
+      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Volver a Llorar",
+        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Volver a Llorar",
+      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Tu Vereda",
         "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
       },
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Volver a Llorar",
-        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
       "artists": [
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
         }
       ],
-      "duration_ms": 160533,
-      "name": "Volver a Llorar",
-      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Cronos",
         "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 229750,
       "name": "Cronos",
       "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "El Gris Tambi\u00e9n Es un Color (En Vivo)",
-        "url": "https://open.spotify.com/album/5SOjXHY4Rxuv0xG9zknnUR"
-      },
-      "artists": [
-        {
-          "name": "Linda Habitante",
-          "url": "https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE"
-        }
-      ],
-      "duration_ms": 185123,
-      "name": "Gris - En Vivo",
-      "url": "https://open.spotify.com/track/1DW06C5KlWPeQTrwDOdmfk"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1251,34 +1251,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+        "name": "El Gris Tambi\u00e9n Es un Color (En Vivo)",
+        "url": "https://open.spotify.com/album/5SOjXHY4Rxuv0xG9zknnUR"
       },
       "artists": [
         {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+          "name": "Linda Habitante",
+          "url": "https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE"
         }
       ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "No hay m\u00e1s tiempo",
-        "url": "https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "No hay m\u00e1s tiempo",
-      "url": "https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf"
+      "duration_ms": 185123,
+      "name": "Gris - En Vivo",
+      "url": "https://open.spotify.com/track/1DW06C5KlWPeQTrwDOdmfk"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1303,22 +1287,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Mis Demonios",
-        "url": "https://open.spotify.com/album/631gWDOw3iyvZFmQNhTlJF"
-      },
-      "artists": [
-        {
-          "name": "Ankli",
-          "url": "https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI"
-        }
-      ],
-      "duration_ms": 229649,
-      "name": "Mis Demonios",
-      "url": "https://open.spotify.com/track/0DZqLd2nINJDHa9ITZBP4H"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Novio Intelectual",
         "url": "https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg"
       },
@@ -1335,18 +1303,50 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Error 404",
-        "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
+        "name": "No hay m\u00e1s tiempo",
+        "url": "https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC"
       },
       "artists": [
         {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 114706,
-      "name": "Deriva",
-      "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
+      "duration_ms": 187786,
+      "name": "No hay m\u00e1s tiempo",
+      "url": "https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Mis Demonios",
+        "url": "https://open.spotify.com/album/631gWDOw3iyvZFmQNhTlJF"
+      },
+      "artists": [
+        {
+          "name": "Ankli",
+          "url": "https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI"
+        }
+      ],
+      "duration_ms": 229649,
+      "name": "Mis Demonios",
+      "url": "https://open.spotify.com/track/0DZqLd2nINJDHa9ITZBP4H"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Me da igual",
+        "url": "https://open.spotify.com/album/3LGQ7fg8WVtykIfFpD3RiA"
+      },
+      "artists": [
+        {
+          "name": "dani dicostas",
+          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
+        }
+      ],
+      "duration_ms": 201891,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/49C9I2GoMwUrHtHDJQJdKr"
     }
   ],
   "unique_name": "Mujeres del Indie",

@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1651,
+  "num_followers": 1652,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADkffIrGOjGjO7mWEFTUHFS",
+  "snapshot_id": "ao9+AAAAAADuo0oJnl7PH2bCJQ7KA9wT",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 142066,
+      "name": "It Is Really Super Easy to Lose",
+      "url": "https://open.spotify.com/track/6kyVqqkiGzNjYJ07YZu1uO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
-        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 55920,
-      "name": "The Seasonal Seas",
-      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 142066,
-      "name": "It Is Really Super Easy to Lose",
-      "url": "https://open.spotify.com/track/6kyVqqkiGzNjYJ07YZu1uO"
+      "duration_ms": 55920,
+      "name": "The Seasonal Seas",
+      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
+        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 289320,
-      "name": "We Took To The Skies",
-      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
+      "duration_ms": 57640,
+      "name": "1812 Overture",
+      "url": "https://open.spotify.com/track/5sIKllNm51dkJf2Grl17D1"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolphin Reef (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 141400,
-      "name": "A Different Set of Rules",
-      "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
+      "duration_ms": 289320,
+      "name": "We Took To The Skies",
+      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 141400,
+      "name": "A Different Set of Rules",
+      "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gravity (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
@@ -623,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coyote vs. Acme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1ODrkAE2RXDtAAfvOqkXz7"
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
       },
       "artists": [
         {
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 57640,
-      "name": "1812 Overture",
-      "url": "https://open.spotify.com/track/5sIKllNm51dkJf2Grl17D1"
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
       "duration_ms": 139120,
       "name": "All Life Began in the Deep Blue Sea",
       "url": "https://open.spotify.com/track/7ufghGshBe2Tvk1ku68Msw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Assassin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 273720,
-      "name": "Katrina",
-      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "Beneath the Waves",
-      "url": "https://open.spotify.com/track/23O15V55JN6XeEwXFAA30v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 164053,
       "name": "I Should Tell You My Story Myself",
       "url": "https://open.spotify.com/track/5ei9JGRHRb4Yu9WNUnWslc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "Beneath the Waves",
+      "url": "https://open.spotify.com/track/23O15V55JN6XeEwXFAA30v"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Just Part of Their Story",
-      "url": "https://open.spotify.com/track/1FXs7ZUpTVrHR48UfSdDTp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 102080,
       "name": "Who Are You Greeting My Love?",
       "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Just Part of Their Story",
+      "url": "https://open.spotify.com/track/1FXs7ZUpTVrHR48UfSdDTp"
     },
     {
       "added_at": null,

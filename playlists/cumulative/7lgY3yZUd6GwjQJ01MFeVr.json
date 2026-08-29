@@ -5747,6 +5747,24 @@
     },
     {
       "album": {
+        "name": "Why Does the Moon",
+        "url": "https://open.spotify.com/album/1GHWkKhoL4E3zmm626abzC"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192566,
+      "name": "Why Does the Moon",
+      "url": "https://open.spotify.com/track/1XKHTxAHMDmJBpDWgRSk2c"
+    },
+    {
+      "album": {
         "name": "Wildflowers and Wild Horses",
         "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
       },

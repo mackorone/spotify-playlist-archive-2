@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 484876,
+  "num_followers": 484877,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGBDLcjJ1bFi/L3phhpIGPdgHr0V",
+  "snapshot_id": "AAAAANqnqrhoOqe0BA431S2UiJDYxrAG",
   "tracks": [
     {
       "added_at": "2026-06-17 20:08:40",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Mirror Master",
-        "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 230959,
-      "name": "Superposition",
-      "url": "https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Ego Death At A Bachelorette Party",
         "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 220101,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/5iALdwbhnUHa8zGStA3h1J"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Mirror Master",
+        "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 230959,
+      "name": "Superposition",
+      "url": "https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 196170,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 196170,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Drop Stop Roll",
-        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 170788,
-      "name": "Drop Stop Roll",
-      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Creatures In Heaven",
         "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 221670,
       "name": "Creatures in Heaven",
       "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Drop Stop Roll",
+        "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 170788,
+      "name": "Drop Stop Roll",
+      "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Can We Please Have Fun",
         "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 220584,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Heartbeat Highway",
-        "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Heartbeat Highway",
-      "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "just friends",
         "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 208363,
       "name": "just friends",
       "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Heartbeat Highway",
+        "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Heartbeat Highway",
+      "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Stars Are on Your Side",
-        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
-      },
-      "artists": [
-        {
-          "name": "Ross Copperman",
-          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
-        }
-      ],
-      "duration_ms": 218004,
-      "name": "Stars Are on Your Side",
-      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Asphalt Meadows",
         "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+        "name": "Stars Are on Your Side",
+        "url": "https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar"
       },
       "artists": [
         {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+          "name": "Ross Copperman",
+          "url": "https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C"
         }
       ],
-      "duration_ms": 158946,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
+      "duration_ms": 218004,
+      "name": "Stars Are on Your Side",
+      "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1307,6 +1291,22 @@
       "duration_ms": 179255,
       "name": "Sick of Being Young",
       "url": "https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Holy Grail",
-        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Holy Grail",
-      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 189440,
       "name": "PIRATE RADIO*",
       "url": "https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Holy Grail",
+        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Hardy (feat. Clairo)",
-        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
-      },
-      "artists": [
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Hardy (feat. Clairo)",
-      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
-    },
-    {
-      "added_at": "2026-06-17 20:08:40",
-      "album": {
         "name": "Death of Me",
         "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 189080,
       "name": "Taking You There",
       "url": "https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS"
+    },
+    {
+      "added_at": "2026-06-17 20:08:40",
+      "album": {
+        "name": "Hardy (feat. Clairo)",
+        "url": "https://open.spotify.com/album/0IDSYykjW6dOkY2SziKUFE"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Hardy (feat. Clairo)",
+      "url": "https://open.spotify.com/track/3XvjG8c27vgui1KDzeMejy"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Sunburned in London",
-        "url": "https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
       },
       "artists": [
         {
-          "name": "Rolling Blackouts Coastal Fever",
-          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+          "name": "chokecherry",
+          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
         }
       ],
-      "duration_ms": 397448,
-      "name": "Sunburned in London",
-      "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
+      "duration_ms": 262000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
     },
     {
       "added_at": "2026-06-17 20:08:40",
@@ -2047,18 +2047,18 @@
     {
       "added_at": "2026-06-17 20:08:40",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
+        "name": "Sunburned in London",
+        "url": "https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv"
       },
       "artists": [
         {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs"
+      "duration_ms": 397448,
+      "name": "Sunburned in London",
+      "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
     },
     {
       "added_at": "2026-06-17 20:08:40",

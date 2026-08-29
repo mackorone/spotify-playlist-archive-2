@@ -4492,10 +4492,28 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 211794,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/4z0qFC4CvomKKleyZ5tq4f"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/3bLzoXBp4F6RZ0IFWaJeqt"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211794,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/53ME7mRitjblNcZsvMGKH5"
     },
     {
       "album": {

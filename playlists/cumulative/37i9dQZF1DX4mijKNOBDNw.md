@@ -4,7 +4,7 @@
 
 > Si tocan a una respondemos todas.
 
-88 songs - 5 hr 14 min
+89 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Piba Cumbia](https://open.spotify.com/track/34LVUwRGzvYLqsNnD5nhFx) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Piba Cumbia](https://open.spotify.com/album/28sPoHadwfwkZF7ZTBBAVp) | 3:34 | 2023-03-10 |  |
 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 | 2023-03-10 |  |
 | [Por Cada Unx](https://open.spotify.com/track/56we8zTvtmSuoqd8ktNzlh) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Mala Reputación: Latfem Presenta una Memoria Feminista en Canción](https://open.spotify.com/album/5JZhhS3MgW4b4XY0aLvH6L) | 4:49 | 2024-03-07 |  |
-| [Quememos el Reino](https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Quememos el Reino](https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR) | 4:27 | 2023-03-10 |  |
+| [Quememos el Reino](https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Quememos el Reino](https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR) | 4:27 | 2023-03-10 | 2026-08-29 |
+| [Rompe \(Vencer el Miedo\)](https://open.spotify.com/track/0OK0WD7JbWAZevwdWPbhwh) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Rompe \(Vencer el Miedo\)](https://open.spotify.com/album/1Rnw82swzhmJXXmuCwI3rI) | 2:56 | 2024-07-23 |  |
 | [Rompe \(Vencer el Miedo\)](https://open.spotify.com/track/6mQGZKKZR8EdUvfxqs4fko) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Rompe \(Vencer el Miedo\)](https://open.spotify.com/album/7z2IbqRX10fz29da0hN2bm) | 2:56 | 2023-03-10 | 2024-04-19 |
 | [Sacar los Tambores](https://open.spotify.com/track/07T5hgGjxLeEDzrWp31jt3) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Cecilia](https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 4:11 | 2023-03-10 | 2024-04-19 |
 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 | 2023-03-10 | 2025-08-27 |

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: PZ, Os Azeitonas",
-  "num_followers": 40335,
+  "num_followers": 40355,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPihrOzjnS9ikVzKMEPbwhzgbhie",
+  "snapshot_id": "AAAAAOI6+TDQT0Sk1ezBjADIKEFfbYyJ",
   "tracks": [
     {
       "added_at": "2026-08-27 23:00:53",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-08-27 23:00:53",
       "album": {
-        "name": "BESITO",
-        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
+        "name": "Romance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 179720,
-      "name": "BESITO",
-      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
+      "duration_ms": 236245,
+      "name": "Before You I Just Forget",
+      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
     },
     {
       "added_at": "2026-08-27 23:00:53",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-08-27 23:00:53",
       "album": {
-        "name": "Romance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy"
+        "name": "BESITO",
+        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 236245,
-      "name": "Before You I Just Forget",
-      "url": "https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE"
+      "duration_ms": 179720,
+      "name": "BESITO",
+      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
     },
     {
       "added_at": "2026-08-27 23:00:53",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-08-27 23:00:53",
       "album": {
-        "name": "SAVE MY SOUL",
-        "url": "https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 237370,
-      "name": "SAVE MY SOUL",
-      "url": "https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv"
-    },
-    {
-      "added_at": "2026-08-27 23:00:53",
-      "album": {
         "name": "2SIDED",
         "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "added_at": "2026-08-27 23:00:53",
+      "album": {
+        "name": "SAVE MY SOUL",
+        "url": "https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 237370,
+      "name": "SAVE MY SOUL",
+      "url": "https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv"
     },
     {
       "added_at": "2026-08-27 23:00:53",

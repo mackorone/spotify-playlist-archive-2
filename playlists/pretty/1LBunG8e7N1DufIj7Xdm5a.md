@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 283 likes - 4,764 songs - 10 day 16 hr 38 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 283 likes - 4,768 songs - 10 day 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4772,5 +4772,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4762 | [BOUDICCA'S THEME](https://open.spotify.com/track/0BmDv4ru9o2f8EdEmpXtLV) | [Omega Horizon](https://open.spotify.com/artist/1bqspJKjaQkVdVG5LD04QA) | [BOUDICCA'S THEME](https://open.spotify.com/album/0UlXd4zHKvweA828vg6f8c) | 3:09 |
 | 4763 | [Bajo Llave](https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8) | [Danel](https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo) | [Ante Todo](https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC) | 3:45 |
 | 4764 | [Vuelo \(Non\-Stop\) \- 2026](https://open.spotify.com/track/4toCDhhPMeBICgnJkaUdDM) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Vuelo \(Non\-Stop\) \[2026\]](https://open.spotify.com/album/6AOyfBLxs4i2oxoIP2Juv2) | 3:01 |
+| 4765 | [Always The Best](https://open.spotify.com/track/0OXj73SVPdLAllhoPa0tVw) | [Gr!t](https://open.spotify.com/artist/3Wm8pFKXhnyxtVlW4npip2) | [House Star](https://open.spotify.com/album/67cjkHorallGw6UJ9tVGwl) | 6:48 |
+| 4766 | [They Suffocate](https://open.spotify.com/track/4jDKE3FnB2QyZAtw9Sl3oB) | [Barbarism.](https://open.spotify.com/artist/0YAuUyYQorYBXjGmU3iwte) | [They Suffocate](https://open.spotify.com/album/6NlINobYsDf7OnBvFEaYMu) | 3:25 |
+| 4767 | [Therapy Is in Session](https://open.spotify.com/track/0tjGsj3kj6kAxcn3t3fYVa) | [Daysick](https://open.spotify.com/artist/1mnmYPlWBNM4hgWRsgaelX) | [Therapy Is in Session](https://open.spotify.com/album/2oppb5R3dGMpZnG0ouCB4c) | 4:14 |
+| 4768 | [In ogni cosa di buono](https://open.spotify.com/track/54QzBeGwcSPQOJLS7gBlq9) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [In ogni cosa di buono](https://open.spotify.com/album/1lxihRPr7maVHUy9XlRR44) | 4:44 |
 
-Snapshot ID: `AAAJ1/yNXguATjThz65+MLyYuP+sb7TS`
+Snapshot ID: `AAAJ25/G/vt3JpkWpg1ZwpAd9jU1Bb/I`

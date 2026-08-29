@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Creyente.7, Apache y Damper Vergara en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,811 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,803 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 49 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 |
 | 50 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 |
 
-Snapshot ID: `AAAAAMHi34nTVLDhyLlk5EoTNDeULt3X`
+Snapshot ID: `AAAAAIsXCc0ILMmhnAMs8TRVSyXVuG2x`

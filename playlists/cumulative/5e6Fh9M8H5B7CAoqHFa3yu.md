@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,502 songs - 6 day 3 hr 6 min
+2,506 songs - 6 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Baila Mi Navidad](https://open.spotify.com/track/7l1df2zvqlSU4SWa4SgspS) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:30 | 2025-12-19 |  |
 | [Baila Sin Final](https://open.spotify.com/track/0KFLZJzXhlWkSANqamX4MU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 3:08 | 2026-05-20 |  |
 | [Baila Sin Final](https://open.spotify.com/track/2Iqu1rqtEvm7q7N6sFXRUl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Baila Sin Final](https://open.spotify.com/album/5vwVcXxmIBVLtxnB1IENtm) | 3:08 | 2026-04-09 |  |
+| [Bajo Llave](https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8) | [Danel](https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo) | [Ante Todo](https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC) | 3:45 | 2026-08-28 |  |
 | [Bal Ed Dred](https://open.spotify.com/track/7oIiJu1Y6Jmnq3qbRaUKZI) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:59 | 2024-03-23 |  |
 | [Balance](https://open.spotify.com/track/4i61t5rdgzsaPTVPOFKewP) | [BxRI SzN](https://open.spotify.com/artist/1PUQFMKFlyhCunWecgoeSW), [D\-Raww](https://open.spotify.com/artist/1CUr1a68mFrVuSY5is9tBR) | [Balance](https://open.spotify.com/album/2W6Z6od5vV1eRr8BMFe5MQ) | 2:28 | 2025-11-28 |  |
 | [Balance](https://open.spotify.com/track/7eUNIfxTlIQyZVRzLHxx0N) | [Luna Dharma](https://open.spotify.com/artist/1RXLMXtNtNKXx5drIuuwjm) | [Balance](https://open.spotify.com/album/6LhEyeEepdi5yxhxpSlnO6) | 2:41 | 2024-04-20 |  |
@@ -1030,6 +1031,7 @@
 | [In Meinem Kopf](https://open.spotify.com/track/7vWpn4gVEGFl3MwOUEVWoB) | [N2E](https://open.spotify.com/artist/03zPTdtQkZYMZ4YKhaaEX2) | [In Meinem Kopf](https://open.spotify.com/album/1aExyxKkDRNaTeP3k0c6m0) | 4:50 | 2026-07-28 |  |
 | [In Memoriam \(Live\)](https://open.spotify.com/track/1Dj1Bsy2O5Ea07MdyAOxUY) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF) | [The Struggle](https://open.spotify.com/album/12yCKhNpF3JAGb9N72tuGK) | 4:42 | 2024-04-29 |  |
 | [In My Dreams](https://open.spotify.com/track/3bJmToSAKBi018GPh5dZk5) | [Emma Galanaki](https://open.spotify.com/artist/3uLWfPiygNLK6JFhj2gCG7) | [In My Dreams](https://open.spotify.com/album/0FFKptQv4URWBWRSJj8Vcx) | 3:45 | 2025-11-15 |  |
+| [In ogni cosa di buono](https://open.spotify.com/track/54QzBeGwcSPQOJLS7gBlq9) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [In ogni cosa di buono](https://open.spotify.com/album/1lxihRPr7maVHUy9XlRR44) | 4:44 | 2026-08-28 |  |
 | [In the Night](https://open.spotify.com/track/6cnsNfZr2MAEztGiOSPMwJ) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 4:44 | 2024-09-25 |  |
 | [In The Night](https://open.spotify.com/track/2D1ApfVhLwpnrKCQuwkhKg) | [Ruthless Vision](https://open.spotify.com/artist/6lzWhXhEjGm4IdfghiQg9O) | [In The Night](https://open.spotify.com/album/2LJ1HkiNgKsTUBVpln6bmb) | 3:27 | 2025-08-14 |  |
 | [Incomparable \(Bluesman\)](https://open.spotify.com/track/27yHVzY4ZoiVIYvpjcvhFq) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Bluesman](https://open.spotify.com/album/4pvGxzTyfc9TQpoE8BBrar) | 3:28 | 2026-04-30 |  |
@@ -1335,6 +1337,7 @@
 | [Maybe I](https://open.spotify.com/track/05aSqaoNdnrRSqU0ld1VcX) | [UNICK STAR](https://open.spotify.com/artist/2TfAtK1FEbbyKIx1jwJrKL) | [Maybe I](https://open.spotify.com/album/6XQci72te4yZnxA4GK7XpP) | 2:33 | 2025-06-24 |  |
 | [Me Partes el Alma](https://open.spotify.com/track/4hiEnddFwCsFT2ZMmHd4Vw) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/36A4gGmNg8qcTEbeb78iJ5) | 3:02 | 2026-08-21 |  |
 | [Me Quedo Contigo](https://open.spotify.com/track/1mgysJeEOX2MYA68RXE1Ar) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Partes el Alma](https://open.spotify.com/album/3qBfpsff5R19hJJ0G7jNBR) | 3:28 | 2026-08-22 |  |
+| [Me Quedo Contigo](https://open.spotify.com/track/6PKrkzDTrzaQBuFatwEgj5) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Quedo Contigo](https://open.spotify.com/album/0WLhPYXuf9cxGxxSEzgggi) | 3:28 | 2026-08-28 |  |
 | [Me Rindo](https://open.spotify.com/track/4T4Rx7ApdVoMyeteFglpJ1) | [Michael Todd Brown](https://open.spotify.com/artist/1UVbWulqbJhDEpYxvOmHJa), [Tuva Paloma](https://open.spotify.com/artist/6uYz66bkpyYpokipvgIRrT) | [Me Rindo](https://open.spotify.com/album/0saQU98ixtjrMD3M6EXQ73) | 5:46 | 2026-04-30 |  |
 | [Me so' scocciata](https://open.spotify.com/track/6FV5RW9ofs1OOmQHLKqprF) | [Vala](https://open.spotify.com/artist/6timg8G6gpXauaqPKGzfIt) | [Me so' scocciata](https://open.spotify.com/album/3WTJvCmOnLBI5vHgCzrmTC) | 3:31 | 2025-05-29 |  |
 | [Meat Beat Manifestation \#2](https://open.spotify.com/track/0E1p2v24IJn99OeQq2JFNQ) | [MC 900 Ft\. Jesus](https://open.spotify.com/artist/2S8nYaxyItH72O4dhRWTPq) | [Welcome To My Dream](https://open.spotify.com/album/4InNADufitzJWnZQ1b6h08) | 4:04 | 2026-02-07 |  |
@@ -1641,6 +1644,7 @@
 | [Pikachu's Goodbye](https://open.spotify.com/track/1vXOrsDaOpLcaj2XpqQTwa) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Pikachu's Goodbye](https://open.spotify.com/album/5SwKUBQ2XELNFvKKVVoasY) | 2:13 | 2025-08-01 |  |
 | [Pilihan Kedua](https://open.spotify.com/track/2gNEUJgGgHWGdjYTjyOc90) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Pilihan Kedua](https://open.spotify.com/album/6mhC1s2gW2NwCn3qBfNojM) | 5:12 | 2026-07-09 |  |
 | [Pineapple Head](https://open.spotify.com/track/4Mnvy3IIhtdtLCInj1know) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Together Alone](https://open.spotify.com/album/7bzJtH0rm6rcgmWiKyIVxK) | 3:27 | 2026-04-12 |  |
+| [Pink Harmonie](https://open.spotify.com/track/6ORBa7ahuoNpXF9RCDELtM) | [Dominique Swerts](https://open.spotify.com/artist/38JCflyUOnNkNJKJU7D9CE) | [No Rush](https://open.spotify.com/album/0aDtHXEXNUtCjpHBbS8BR5) | 4:10 | 2026-08-28 |  |
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2025-05-28 |  |
 | [Pink Rain \(Re:make\)](https://open.spotify.com/track/7ruc9npO8S8bsl1VJA3Gjj) | [Turbo.Shihtzu](https://open.spotify.com/artist/64FbqwHzilmYc7JTt1MauK) | [Pink Rain \(Re:make\)](https://open.spotify.com/album/7vn0X5D6BCutk8KC4CSoLK) | 2:26 | 2025-11-17 |  |
 | [Pizza Chilli](https://open.spotify.com/track/5ApKuzKc6hoEYL3hBL4rkj) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Chilli](https://open.spotify.com/album/5K9urh9zUIBi3Uc8XCVdgt) | 2:29 | 2026-05-19 |  |

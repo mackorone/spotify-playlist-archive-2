@@ -4,7 +4,7 @@
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 15 min
+75 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Mississippi Or Me](https://open.spotify.com/track/3FqMZ5dQ4fOCfNhYJQ62oR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 | 2024-12-21 |  |
 | [My Way](https://open.spotify.com/track/0e5adFzW2uzQQ8M0cjiQqX) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [My Way](https://open.spotify.com/album/1wPZ5lvt250QMwi6d0lqDA) | 4:02 | 2026-04-19 |  |
 | [North On 21](https://open.spotify.com/track/0wQCiHAgUJdlBdRtdrnLFK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Riley Green EP](https://open.spotify.com/album/1m6Vdvu3ttbD1rq0P6Ylvn) | 3:27 | 2024-12-21 | 2025-09-02 |
-| [Outlaws Like Us](https://open.spotify.com/track/6vdkRkomwx3z7BR1W0AcO7) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Outlaws Like Us](https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS) | 3:15 | 2024-12-21 |  |
+| [Outlaws Like Us](https://open.spotify.com/track/6vdkRkomwx3z7BR1W0AcO7) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Outlaws Like Us](https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS) | 3:15 | 2024-12-21 | 2026-08-29 |
 | [Pick A Place](https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:59 | 2024-12-21 |  |
 | [Put ‘Em On Mine](https://open.spotify.com/track/3IW7ksRFfK7zohn9INq6qU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:00 | 2024-12-21 | 2026-05-27 |
 | [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 | 2024-12-21 | 2026-05-31 |
@@ -67,6 +67,7 @@
 | [Stick to My Guns \(feat\. Riley Green\)](https://open.spotify.com/track/4yk8IhXPDwUqGdQQ7s30sW) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Mid\-Twenties Crisis](https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8) | 3:05 | 2024-12-21 | 2026-04-19 |
 | [That Was Us](https://open.spotify.com/track/10Aj75ID8Rkuq62hUmEsZy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:28 | 2024-12-21 | 2024-12-22 |
 | [That's A Mistake](https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 4:17 | 2024-12-21 |  |
+| [That's Just Me](https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc) | 3:50 | 2026-08-29 |  |
 | [That’s What I’ve Been Told](https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:50 | 2024-12-21 |  |
 | [There Was This Girl](https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:14 | 2024-12-21 |  |
 | [They Don’t Make 'Em Like That No More](https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:15 | 2024-12-21 |  |

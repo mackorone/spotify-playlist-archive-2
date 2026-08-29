@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 987086,
+  "num_followers": 987217,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABL9ZQSIF0W5pPPlJSaSckP",
+  "snapshot_id": "ao9+AAAAAAAsm2m/bzfoiFBmeUyBJYGw",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 52600,
-      "name": "Interlude: I'm Not Angry Anymore",
-      "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 188946,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 52600,
+      "name": "Interlude: I'm Not Angry Anymore",
+      "url": "https://open.spotify.com/track/2GBjsCkCpR5w8Zri9aE49H"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 90. ",
-  "num_followers": 355928,
+  "num_followers": 355985,
   "original_name": "Pop Latino: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANk8AKVe18c14tQkPQlYPLS2raf9",
+  "snapshot_id": "AAAAABoFkkoNIzfg6vQgbzEWkVGiwxS7",
   "tracks": [
     {
       "added_at": "2024-06-12 14:57:48",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-06-12 14:57:48",
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
+    },
+    {
+      "added_at": "2024-06-12 14:57:48",
+      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2024-06-12 14:57:48",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
+      "duration_ms": 283133,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
     },
     {
       "added_at": "2024-06-12 14:57:48",
@@ -507,18 +523,18 @@
     {
       "added_at": "2024-06-12 14:57:48",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 283133,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+      "duration_ms": 308389,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2024-06-12 14:57:48",
@@ -535,22 +551,6 @@
       "duration_ms": 235733,
       "name": "Ojos As\u00ed",
       "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
-    },
-    {
-      "added_at": "2024-06-12 14:57:48",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 308389,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2024-06-12 14:57:48",

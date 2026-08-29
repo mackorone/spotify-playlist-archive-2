@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:45TgXXqMDdF8BkjA83OM7z">Rod Wave</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147,575 likes - 155 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,392 likes - 155 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 21 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 22 | [BACK 2 U](https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [BACK 2 U](https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C) | 2:42 |
 | 23 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
-| 24 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 |
+| 24 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 25 | [Slow](https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Business](https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI) | 3:13 |
 | 26 | [YoYo](https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [YoYo](https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys) | 3:20 |
 | 27 | [22](https://open.spotify.com/track/2Fg70yKdr8dfFTxxV5E3vU) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [22](https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb) | 3:04 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 154 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
 | 155 | [the one](https://open.spotify.com/track/6Xz56CFYQ1tE3YadauIIiG) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [gutta child](https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c) | 2:23 |
 
-Snapshot ID: `AAAAABzao0Cn+/G1dXedhgDbBZXrIkuz`
+Snapshot ID: `AAAAAM5WQ+3TVmqweHmCyYp5vQbUUtrk`

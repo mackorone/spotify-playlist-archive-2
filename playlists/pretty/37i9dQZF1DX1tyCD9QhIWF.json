@@ -1,12 +1,12 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2281859,
+  "num_followers": 2281809,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPL8Q79pPVFPGqrf431SPuTUul8s",
+  "snapshot_id": "AAAAAHZgekrb/dVo6Fidas9sLAqXZB6n",
   "tracks": [
     {
       "added_at": "2024-04-18 19:20:27",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 280130,
       "name": "King",
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1"
     },
     {
-      "added_at": "2024-05-30 23:43:17",
-      "album": {
-        "name": "POSTINDUSTRIAL HOMETOWN BLUES",
-        "url": "https://open.spotify.com/album/02q0ISnitj4Q7flAbRppvo"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 177597,
-      "name": "BLACK COUNTRY GOTHIC",
-      "url": "https://open.spotify.com/track/4XtIwasPM2qnU8FMg4E9Ak"
-    },
-    {
       "added_at": "2024-04-18 19:20:27",
       "album": {
         "name": "Slow",
@@ -951,6 +935,22 @@
       "duration_ms": 187826,
       "name": "Slow",
       "url": "https://open.spotify.com/track/7llRb02z7gNG2cWKmtuKaq"
+    },
+    {
+      "added_at": "2024-05-30 23:43:17",
+      "album": {
+        "name": "POSTINDUSTRIAL HOMETOWN BLUES",
+        "url": "https://open.spotify.com/album/02q0ISnitj4Q7flAbRppvo"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 177597,
+      "name": "BLACK COUNTRY GOTHIC",
+      "url": "https://open.spotify.com/track/4XtIwasPM2qnU8FMg4E9Ak"
     },
     {
       "added_at": "2024-04-18 19:20:27",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-04-18 19:20:27",
       "album": {
-        "name": "Country Life",
-        "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "Country Life",
-      "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
-    },
-    {
-      "added_at": "2024-04-18 19:20:27",
-      "album": {
         "name": "New York Transit Queen",
         "url": "https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 109387,
       "name": "New York Transit Queen",
       "url": "https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN"
+    },
+    {
+      "added_at": "2024-04-18 19:20:27",
+      "album": {
+        "name": "Country Life",
+        "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "Country Life",
+      "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
     },
     {
       "added_at": "2024-04-18 19:20:27",

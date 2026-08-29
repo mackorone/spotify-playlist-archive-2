@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,522 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,444 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 7 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 |
 | 8 | [Redemption](https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Redemption \(From the Apple Original Film “Palmer”\)](https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB) | 4:58 |
 | 9 | [Where The River Goes](https://open.spotify.com/track/34ZuYTjotU24xALX5Hi23C) | [House Phone](https://open.spotify.com/artist/4BHMLvxLKkWPL7iuTnUdZC) | [Sunrise / Where The River Goes](https://open.spotify.com/album/2iF7lvvF2n8rX17ItmBeXZ) | 5:31 |
-| 10 | [Cinnamon Bread](https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:08 |
-| 11 | [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 |
+| 10 | [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 |
+| 11 | [Cinnamon Bread](https://open.spotify.com/track/5mo3EVm7FmmqRnLg2ipBGN) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:08 |
 | 12 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 |
 | 13 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 |
 | 14 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 46 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 47 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 |
 | 48 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 |
-| 49 | [Lonelier Together](https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Lonelier Together](https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW) | 1:45 |
-| 50 | [Precious Days](https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Precious Days](https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC) | 2:45 |
+| 49 | [Precious Days](https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Precious Days](https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC) | 2:45 |
+| 50 | [Lonelier Together](https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Lonelier Together](https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW) | 1:45 |
 | 51 | [always you](https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [always you](https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI) | 3:08 |
-| 52 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
-| 53 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
+| 52 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
+| 53 | [You & I](https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [You & I](https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR) | 2:34 |
 | 54 | [Pocket Full of Rain](https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 3:50 |
 | 55 | [New Wall](https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs) | [Tori Forsyth](https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w) | [New Wall](https://open.spotify.com/album/43BULtlzGsqok8PoRPypm2) | 2:38 |
 | 56 | [Mourning in America](https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 74 | [Fictional](https://open.spotify.com/track/1p3EADNrUrhtMn5fHqEoIC) | [Jeremy Ferrara](https://open.spotify.com/artist/6oZXBEJb5RLmNeDRhFwW5e) | [Fictional](https://open.spotify.com/album/7rok3MsQRMRzlgNOdTu8Ng) | 3:58 |
 | 75 | [Highway Miles](https://open.spotify.com/track/5G4E6DAJDH7NkA7cyxiODa) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:39 |
 
-Snapshot ID: `AAAAALxhNFr7q0l/JGZY/yD9+qWJZYIy`
+Snapshot ID: `AAAAAKu6sQdfhobpL2HZNI4HjHg/GvTM`

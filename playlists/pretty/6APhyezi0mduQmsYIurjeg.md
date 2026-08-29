@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 587 songs - 1 day 11 hr 36 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 595 songs - 1 day 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -595,5 +595,13 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 585 | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO) | [The Elysian Lovers](https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu) | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k) | 3:22 |
 | 586 | [Hey Woman \- Live](https://open.spotify.com/track/6752pDfyK4wjdx461bV7CD) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Live](https://open.spotify.com/album/7oQFiHr8GQNjH2g2ZBofAK) | 3:04 |
 | 587 | [Summer's Coming](https://open.spotify.com/track/3pZ0udMevYZ2hMfMi36fd4) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | [Summer's Coming](https://open.spotify.com/album/659iFoyJLdw2GxfdGcWFmd) | 3:08 |
+| 588 | [WILLST MICH](https://open.spotify.com/track/4HOJH8YnxAwkQcDHD2070f) | [THOMMY LEE MILLER](https://open.spotify.com/artist/7yvwkFdCJCbrlxDNr86xjw) | [WILLST MICH](https://open.spotify.com/album/23AqlVYmfKLhLhseIRBawZ) | 3:55 |
+| 589 | [WINTERTIME PUZZLES](https://open.spotify.com/track/1pJzbVbxMnBHLbvNfdEXNh) | [Jesse Cleaves](https://open.spotify.com/artist/15kRGaQ94f0HTKJx6iZDds) | [WINTERTIME PUZZLES](https://open.spotify.com/album/1fmxs8CH1ZBvbXDyxqUTtA) | 3:00 |
+| 590 | [Thursday In Baghdad](https://open.spotify.com/track/245enEC0eUbr5yy3eBcXxz) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 5:07 |
+| 591 | [The Good Guys](https://open.spotify.com/track/7fATvSUaucEdnF8ErhIaH8) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 3:56 |
+| 592 | [It´S a Fine Day](https://open.spotify.com/track/4sVcHOUQKNB2ZkiXi1wsou) | [Flooyd Potter](https://open.spotify.com/artist/2BxlD5qDvOgJlW6lZyWD8v) | [It´S a Fine Day](https://open.spotify.com/album/37f36M2PphvHxKy7Ji8Bb9) | 3:06 |
+| 593 | [Candle](https://open.spotify.com/track/3s6xsXQSOsc6rldSxLMynj) | [KLIMFA](https://open.spotify.com/artist/6kB0ONCi2Cq063ZZcjX0vT) | [Candle](https://open.spotify.com/album/4og4yaZ9B3VR1HYjDLYRUH) | 3:27 |
+| 594 | [Stunned & Confused](https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:17 |
+| 595 | [Easy](https://open.spotify.com/track/78SHmCtjptUkJsFWMYf7lu) | [Tropic Ridge](https://open.spotify.com/artist/0Gtl4424WuhBRzoj7WD3H6), [Clint Warren](https://open.spotify.com/artist/7if9OA2tCbweeqTBwiDJVv) | [Easy](https://open.spotify.com/album/78OJwyES9jCEE3DiF90SQl) | 3:27 |
 
-Snapshot ID: `AAAC4OP5JvYSOXhoZ8Eq8k22Ax39roZ0`
+Snapshot ID: `AAAC6JjcWsGbJ/w4JW9k93SHdvutJg3d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: NCT 127
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,208 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,305 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [Beat It Up](https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp) | 3:20 |
 | 80 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 |
 
-Snapshot ID: `AAAAAIhYZRTwvcqdC4QE7RGsQn6n5gOt`
+Snapshot ID: `AAAAAGe+d1XwlC0ODS8v7JtAmR3IFvBp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. COSME TADEO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,739 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,842 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 40 | [Como Este Loco](https://open.spotify.com/track/5tf3V8LihD79bK9Tg8d841) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Como Este Loco](https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f) | 3:41 |
 | 41 | [Mil Cartas](https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:21 |
 | 42 | [Busca Otro Amor](https://open.spotify.com/track/0d70DBNHHVgJC0GQ90BIrY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:15 |
-| 43 | [Vamonos de Fiesta](https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:08 |
-| 44 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
-| 45 | [Música Romántica](https://open.spotify.com/track/6ikzzpUSP2DAb10ThgzRIa) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 3:52 |
-| 46 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
-| 47 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
+| 43 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
+| 44 | [Música Romántica](https://open.spotify.com/track/6ikzzpUSP2DAb10ThgzRIa) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 3:52 |
+| 45 | [Vamonos de Fiesta](https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:08 |
+| 46 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
+| 47 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
 | 48 | [Cuatro Milpas](https://open.spotify.com/track/0vl7HCsQ8gDOKwgcBYEKYx) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:35 |
 | 49 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
 | 50 | [A Gozar](https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Nos Pertenecemos](https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4) | 4:36 |
@@ -79,15 +79,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 69 | [El Ranchero Chido](https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Super Exitos](https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0) | 2:43 |
 | 70 | [Chiquilla Cariñosa](https://open.spotify.com/track/2iYIFcJsRJqve6j2YKJ91e) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Ahy Te Va Kora](https://open.spotify.com/album/6uv5LHEjoT0mvY3AFJG52h) | 2:34 |
 | 71 | [Tri Triki Tri Traka](https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [A Bailar Quebradita Y De Caballito](https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie) | 2:38 |
-| 72 | [Chiquitita](https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 3:47 |
-| 73 | [Llévame Rosas Y Olvida](https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Africanos Al Ataque](https://open.spotify.com/album/05W649wdes7jKusqma34Gn) | 3:25 |
+| 72 | [Llévame Rosas Y Olvida](https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Africanos Al Ataque](https://open.spotify.com/album/05W649wdes7jKusqma34Gn) | 3:25 |
+| 73 | [Chiquitita](https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 3:47 |
 | 74 | [Una Noche Cualquiera](https://open.spotify.com/track/5xL1mt0tsjHRJtO3lszm4v) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 3:21 |
 | 75 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
 | 76 | [Estrellita Marinera](https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 2:14 |
 | 77 | [Prenda Del Alma](https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:16 |
 | 78 | [El Penal De La Loma](https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:51 |
-| 79 | [Esta Tristeza Mía](https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM) | 3:29 |
-| 80 | [Que Bonito](https://open.spotify.com/track/35Z9JAZSJ4RfeoqZ17nC9F) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Junto Al Mar](https://open.spotify.com/album/63t6D4VvWmKjesaa9rfywF) | 2:57 |
+| 79 | [Que Bonito](https://open.spotify.com/track/35Z9JAZSJ4RfeoqZ17nC9F) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Junto Al Mar](https://open.spotify.com/album/63t6D4VvWmKjesaa9rfywF) | 2:57 |
+| 80 | [Esta Tristeza Mía](https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM) | 3:29 |
 | 81 | [El Baile de la Cachucha](https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Baile de la Cachucha](https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl) | 2:55 |
 | 82 | [Nieves De Enero](https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:32 |
 | 83 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 149 | [Tu Castigo](https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 2:52 |
 | 150 | [Soy Como Quiero Ser](https://open.spotify.com/track/42mJA9XTxNC1uVkt04IiNs) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3aKOLaYOnr8JpjuF73WDAu) | 2:32 |
 
-Snapshot ID: `AAAAAOVydFt81dJ+LOQXY9bVpyEuZAQ7`
+Snapshot ID: `AAAAAJKcqR0RQUSZHFWhWx4jvJJ9ek9w`

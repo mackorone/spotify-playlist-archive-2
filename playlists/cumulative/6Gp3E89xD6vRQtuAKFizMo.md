@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-577 songs - 1 day 3 hr 34 min
+579 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Bury Me Alive](https://open.spotify.com/track/1BzKaH0CLmGYmML7OkSari) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Bury Me Alive](https://open.spotify.com/album/4zIOaE92119xnp2uWxHWT9) | 4:50 | 2022-05-06 | 2022-06-25 |
 | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [JV Rhymes](https://open.spotify.com/artist/3ZaDHRjorwqXosRgVoCYUG) | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX) | 3:33 | 2022-05-06 | 2022-09-10 |
 | [By Myself](https://open.spotify.com/track/4aN8bSBmzrsiKJYkEOU07w) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Future Unfold](https://open.spotify.com/album/52WRIedOWI8utWphQXhrRa) | 3:03 | 2024-04-19 | 2025-04-27 |
+| [CALL ME](https://open.spotify.com/track/7sG81qzdP3H3EdBVve8A3r) | [LUMBERJVCK](https://open.spotify.com/artist/4KGyomagqa7oWswreOlh3T) | [CALL ME](https://open.spotify.com/album/0kuEYc7r5HsWu9v9avK9Wz) | 2:45 | 2026-08-28 |  |
 | [Call Me On Your Way Home \(feat\. Alisa\)](https://open.spotify.com/track/1qaajTYMmyFJWeP6Ze535N) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Alisa](https://open.spotify.com/artist/3V64tT9rVD9R0DaA4XKt3K) | [Call Me On Your Way Home \(feat\. Alisa\)](https://open.spotify.com/album/2GdaVuxuvnbvB1FxZtToO7) | 2:55 | 2025-02-04 |  |
 | [Call Me Up \(feat\. Namelle\)](https://open.spotify.com/track/6HrgbjynD4n5qPwUFkyGMR) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Call Me Up \(feat\. Namelle\)](https://open.spotify.com/album/3QMSVLN7YlUUGeEzr9lObT) | 2:46 | 2023-03-02 | 2023-05-27 |
 | [Can't Stop Me](https://open.spotify.com/track/0Of9Hs4sqM83EuNpYxB1Lw) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Can't Stop Me](https://open.spotify.com/album/2pxDxyYUtfpmwBaZ6A4rzE) | 2:35 | 2024-02-16 | 2025-04-27 |
@@ -451,6 +452,7 @@
 | [Running](https://open.spotify.com/track/6g6IcboviCOipWH0RM5tE7) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Currently On Earth](https://open.spotify.com/album/7fxZTHkdRmh3axTjquZTiT) | 3:13 | 2025-12-12 |  |
 | [Running \- KARTY Remix](https://open.spotify.com/track/3epakg3oUvNuBFYWq2Sql8) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [KARTY](https://open.spotify.com/artist/1d4NBnW4o8yblqpLJ0EEci) | [Currently On Earth Remixes](https://open.spotify.com/album/7JUYT95dnaemQAfStopYkO) | 3:30 | 2026-03-06 |  |
 | [Running \- Ookay Remix](https://open.spotify.com/track/0tNVqP7h2s2aUV9CfVfvim) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Currently On Earth Remixes](https://open.spotify.com/album/7JUYT95dnaemQAfStopYkO) | 2:51 | 2026-03-06 |  |
+| [Rush](https://open.spotify.com/track/6vaAax6EztTdWznk7AP7gG) | [Castor & Pollux](https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG), [Alan Krevo](https://open.spotify.com/artist/2OCSKB9Ayw2jwxxZhVnw4z) | [Rush](https://open.spotify.com/album/1VcU4Cgu8fekQcySsD4o2w) | 2:48 | 2026-08-28 |  |
 | [RXDIO ACTXVE](https://open.spotify.com/track/6K0VFqzZ53URyjfAjLDsqK) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXDIO ACTXVE](https://open.spotify.com/album/44AORFKg2rxNyDfppWfFwt) | 2:34 | 2023-11-22 | 2025-04-27 |
 | [SABOTAGE](https://open.spotify.com/track/45ozl7DjaeJDWt6cd9rTL5) | [Killin' Void](https://open.spotify.com/artist/6qi5arAoexSVz1HfaDlGrR), [sanna frankie](https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94) | [SABOTAGE](https://open.spotify.com/album/04vWP9MFvqscwy1R0B1t6M) | 2:59 | 2026-04-17 |  |
 | [SAFE](https://open.spotify.com/track/1An0fvGIjjMDFGoebz2GI9) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [God Bless The Trap House](https://open.spotify.com/album/3gGdE5OzZ8qUPGSXf0OzZ7) | 2:11 | 2023-08-09 | 2023-12-14 |

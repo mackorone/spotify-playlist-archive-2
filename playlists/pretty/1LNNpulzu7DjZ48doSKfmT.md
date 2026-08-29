@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 407 songs - 21 hr 15 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 476 likes - 411 songs - 21 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -415,5 +415,9 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 405 | [My Drug](https://open.spotify.com/track/3FRKKaL6lUVLkg6eZ9LQ64) | [Sid Severino](https://open.spotify.com/artist/6coP1aOT3tEsfwbIjGRRB7) | [My Drug](https://open.spotify.com/album/6ks8iwtkdHOZWlplOnhoGZ) | 3:44 |
 | 406 | [Musically](https://open.spotify.com/track/0yljrOHpjKPu7pS1VoX3JS) | [Sid Severino](https://open.spotify.com/artist/6coP1aOT3tEsfwbIjGRRB7) | [Musically](https://open.spotify.com/album/3QyIwzh5hHEyooneN2AzCp) | 4:52 |
 | 407 | [Mummy and Daddy](https://open.spotify.com/track/6a5TttPEQHBg8SsKZtJZ0B) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Mummy and Daddy](https://open.spotify.com/album/7efdLmy1h9HfswFMpTH77r) | 2:27 |
+| 408 | [Yours Truly](https://open.spotify.com/track/0YKr5EU0ak0Dq3oWfYeMdN) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Yours Truly](https://open.spotify.com/album/5si7G1jQNCh3EILhLrjCxa) | 3:21 |
+| 409 | [BLEED FOR YOU](https://open.spotify.com/track/0EG9iOzgbqHWoQBRZNcN0x) | [HUSAM4SUDAN](https://open.spotify.com/artist/2NGWHehBrZ0HMQ9DNwcNIZ) | [BLEED FOR YOU](https://open.spotify.com/album/3iiXnHbeC0NOGq6CXHvKp9) | 3:17 |
+| 410 | [Alta Rotação](https://open.spotify.com/track/1lG27Q90rY4LdimFOoNKhz) | [wiLL Rock](https://open.spotify.com/artist/2S5CjbZ9rnWw4qqj8CDA9b) | [Pindorama](https://open.spotify.com/album/6vsv76JvrLRiRPed7Cq400) | 1:42 |
+| 411 | [Work It](https://open.spotify.com/track/4BzouO8SJUHpMiE5mvM2cv) | [Tony Blame](https://open.spotify.com/artist/0bDNPyUJPuO1AXKNTDU2Xc), [Cbass](https://open.spotify.com/artist/2i3goSd4yk5j3dfc17rjlC) | [Work It](https://open.spotify.com/album/7Il9crNJ3w0KRBao1o0KlV) | 3:04 |
 
-Snapshot ID: `AAAesErGVDqhPpx2YKq1YhdeLvhGG7cf`
+Snapshot ID: `AAAetH82ZQhZJ3K2FjotSOZyGMlam07r`

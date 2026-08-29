@@ -1405,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Casting Me Away From You",
+        "url": "https://open.spotify.com/album/7cfSjkoBfNoWohu0nJVrss"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "neil young and the chrome hearts",
+          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157277,
+      "name": "Casting Me Away From You",
+      "url": "https://open.spotify.com/track/5rSKigOAKclUR3JzQgEb98"
+    },
+    {
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },

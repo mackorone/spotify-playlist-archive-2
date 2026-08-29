@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 379161,
+  "num_followers": 379240,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABfdBZMJTv4quKla8ULIuqv",
+  "snapshot_id": "ao9+AAAAAABXCJcRfQFSn+yI2Q22brDa",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "On fire",
+        "url": "https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "A ti",
+      "url": "https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
       },
@@ -315,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On fire",
-        "url": "https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8"
+        "name": "Adicto A Ti",
+        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
       },
       "artists": [
         {
@@ -324,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 167692,
-      "name": "A ti",
-      "url": "https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP"
+      "duration_ms": 138352,
+      "name": "Adicto A Ti",
+      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
       "duration_ms": 180756,
       "name": "Todo a Su Tiempo",
       "url": "https://open.spotify.com/track/6sBjyBwRAQEONPaJunUZVm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adicto A Ti",
-        "url": "https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Adicto A Ti",
-      "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "El Ni\u00f1o",
-      "url": "https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empat\u00eda",
         "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 244219,
       "name": "Empat\u00eda",
       "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "El Ni\u00f1o",
+      "url": "https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/2RnhBBUbdWbm5aGweKRzfv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 172250,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/37Ph4FT2ioHk2Ok5Qwckxn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 226345,
       "name": "Duele Tu Abandono - En Vivo",
       "url": "https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/2RnhBBUbdWbm5aGweKRzfv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 172250,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/37Ph4FT2ioHk2Ok5Qwckxn"
     },
     {
       "added_at": null,

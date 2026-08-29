@@ -1,12 +1,12 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 92194,
+  "num_followers": 92198,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHntBx8D6w25jQN0YKbhcTUJ+QX0",
+  "snapshot_id": "AAAAANRaDXEwhSgMB3Nx8M0QD1XP3CUy",
   "tracks": [
     {
       "added_at": "2026-07-29 09:24:36",
@@ -103,8 +103,8 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Celebrating the Legend - Pt. Hari Prasad Chaurasia",
-        "url": "https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt"
+        "name": "Hari Dhwani - Raga Lalit",
+        "url": "https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S"
       },
       "artists": [
         {
@@ -112,17 +112,17 @@
           "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
         },
         {
-          "name": "Pandit Anindo Chatterjee",
-          "url": "https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL"
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
         },
         {
-          "name": "Roopak Kulkarni",
-          "url": "https://open.spotify.com/artist/3SfF1bsY2KPVpfnYisOzo0"
+          "name": "Rupak Kulkarni",
+          "url": "https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff"
         }
       ],
-      "duration_ms": 885826,
-      "name": "Raga Jhinjhoti - Raga Jhinjhoti - Matta Taal",
-      "url": "https://open.spotify.com/track/14qWVbLrLQFXML0qwc2tMY"
+      "duration_ms": 595500,
+      "name": "Hari Dhwani - Raga Lalit - Alap (Sthai)",
+      "url": "https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -195,8 +195,8 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Hari Dhwani - Raga Lalit",
-        "url": "https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S"
+        "name": "Celebrating the Legend - Pt. Hari Prasad Chaurasia",
+        "url": "https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt"
       },
       "artists": [
         {
@@ -204,17 +204,17 @@
           "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
         },
         {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+          "name": "Pandit Anindo Chatterjee",
+          "url": "https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL"
         },
         {
-          "name": "Rupak Kulkarni",
-          "url": "https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff"
+          "name": "Roopak Kulkarni",
+          "url": "https://open.spotify.com/artist/3SfF1bsY2KPVpfnYisOzo0"
         }
       ],
-      "duration_ms": 595500,
-      "name": "Hari Dhwani - Raga Lalit - Alap (Sthai)",
-      "url": "https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp"
+      "duration_ms": 885826,
+      "name": "Raga Jhinjhoti - Raga Jhinjhoti - Matta Taal",
+      "url": "https://open.spotify.com/track/14qWVbLrLQFXML0qwc2tMY"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Shringar: The Many Moods of Love - Volume 3",
-        "url": "https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr"
-      },
-      "artists": [
-        {
-          "name": "Lakshmi Shankar, Aneesh Pradhan",
-          "url": "https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I"
-        }
-      ],
-      "duration_ms": 764526,
-      "name": "Jadoo Bharey Torey Nain",
-      "url": "https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Brij Narayan",
         "url": "https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 613933,
       "name": "Raga Kirwani - Alap Gat - Teental",
       "url": "https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Shringar: The Many Moods of Love - Volume 3",
+        "url": "https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr"
+      },
+      "artists": [
+        {
+          "name": "Lakshmi Shankar, Aneesh Pradhan",
+          "url": "https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I"
+        }
+      ],
+      "duration_ms": 764526,
+      "name": "Jadoo Bharey Torey Nain",
+      "url": "https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -467,26 +467,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
-      },
-      "artists": [
-        {
-          "name": "Nayan Ghosh",
-          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
-        },
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 835312,
-      "name": "Komal Rishabh Asavari - Jhaptaal",
-      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Navyaa",
         "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 580000,
       "name": "Romantic Maru Bihag - Jaagu Main Sari Raina",
       "url": "https://open.spotify.com/track/1Kq8fBd6WKbr7BEDCLweND"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "duration_ms": 835312,
+      "name": "Komal Rishabh Asavari - Jhaptaal",
+      "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Signature Series, Vol. 3",
-        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
-      },
-      "artists": [
-        {
-          "name": "Ali Akbar Khan",
-          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
-        }
-      ],
-      "duration_ms": 1273906,
-      "name": "Rag Marwa, Part 2",
-      "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Sangeet Sartaj Vol. 1 & 2",
         "url": "https://open.spotify.com/album/2HSvyuPBF5HSdz4zxS5SGO"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 1947364,
       "name": "Raga Asavari Todi",
       "url": "https://open.spotify.com/track/6L8tXG8hFllYNNjnyrbuOF"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Signature Series, Vol. 3",
+        "url": "https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH"
+      },
+      "artists": [
+        {
+          "name": "Ali Akbar Khan",
+          "url": "https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u"
+        }
+      ],
+      "duration_ms": 1273906,
+      "name": "Rag Marwa, Part 2",
+      "url": "https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Le Chant - Khayal",
-        "url": "https://open.spotify.com/album/4u4qaZ6CcnBKfpsmEdfugX"
-      },
-      "artists": [
-        {
-          "name": "Parveen Sultana",
-          "url": "https://open.spotify.com/artist/6icHDJ25LIt9b8hyW6Zm6e"
-        }
-      ],
-      "duration_ms": 896666,
-      "name": "Raga Kalavati - Khayal",
-      "url": "https://open.spotify.com/track/5jc5Dn3oIigJIOHKFGBRde"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Raga Miyan-Ki-Todi, Raga Bibhas & Raga Bhairavi",
         "url": "https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 823506,
       "name": "Raga Bhairavii: Baju Band Khul Khul Jani",
       "url": "https://open.spotify.com/track/6JyggcRCT6CEw7JVDJfODF"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Le Chant - Khayal",
+        "url": "https://open.spotify.com/album/4u4qaZ6CcnBKfpsmEdfugX"
+      },
+      "artists": [
+        {
+          "name": "Parveen Sultana",
+          "url": "https://open.spotify.com/artist/6icHDJ25LIt9b8hyW6Zm6e"
+        }
+      ],
+      "duration_ms": 896666,
+      "name": "Raga Kalavati - Khayal",
+      "url": "https://open.spotify.com/track/5jc5Dn3oIigJIOHKFGBRde"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        }
-      ],
-      "duration_ms": 1045427,
-      "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
-      "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Sangeet Sataj Vol. 1 & 2",
         "url": "https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 1908355,
       "name": "Raga Shree",
       "url": "https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        }
+      ],
+      "duration_ms": 1045427,
+      "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
+      "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
     },
     {
       "added_at": "2026-07-29 09:24:36",

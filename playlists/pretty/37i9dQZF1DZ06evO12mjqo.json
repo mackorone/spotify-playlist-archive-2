@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 480607,
+  "num_followers": 480684,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAy4Kt3qbBq+P6ostotkUci",
+  "snapshot_id": "ao9+AAAAAACc6Vl6PHqvyIeuEqL6FDvf",
   "tracks": [
     {
       "added_at": null,
@@ -204,7 +204,7 @@
       "added_at": null,
       "album": {
         "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 207120,
-      "name": "Life Eternal",
-      "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
     },
     {
       "added_at": null,
@@ -268,7 +268,7 @@
       "added_at": null,
       "album": {
         "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
+      "duration_ms": 207120,
+      "name": "Life Eternal",
+      "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Have Ghost",
-        "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 337720,
-      "name": "Waiting For The Night",
-      "url": "https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1"
+      "duration_ms": 324373,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+        "name": "If You Have Ghost",
+        "url": "https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 324373,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen"
+      "duration_ms": 337720,
+      "name": "Waiting For The Night",
+      "url": "https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1"
     },
     {
       "added_at": null,

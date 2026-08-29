@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 12671,
+  "num_followers": 12679,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD2igyVz+QLNX0LDluOt428+pNAI",
+  "snapshot_id": "AAAAAEw8sjcLqwtyvAcwlhpjLsgTPfHY",
   "tracks": [
     {
       "added_at": "2025-01-09 09:53:00",
@@ -507,38 +507,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 204795,
-      "name": "Akokyem Nyame",
-      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
-      },
-      "artists": [
-        {
-          "name": "Philipa Baafi",
-          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
-        }
-      ],
-      "duration_ms": 355840,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Wobeye Kese",
         "url": "https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT"
       },
@@ -560,6 +528,38 @@
       },
       "artists": [
         {
+          "name": "Philipa Baafi",
+          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
+        }
+      ],
+      "duration_ms": 355840,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Osoro Ne Yefie",
+        "url": "https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx"
+      },
+      "artists": [
+        {
+          "name": "Florence Obinim",
+          "url": "https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO"
+        }
+      ],
+      "duration_ms": 434259,
+      "name": "Osoro Ne Yefie",
+      "url": "https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
           "name": "Ama Boahemaa",
           "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
         }
@@ -567,6 +567,22 @@
       "duration_ms": 331389,
       "name": "Enyi Me Mma",
       "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 204795,
+      "name": "Akokyem Nyame",
+      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -583,22 +599,6 @@
       "duration_ms": 331990,
       "name": "Metease yi",
       "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 369037,
-      "name": "Ogya",
-      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 369037,
+      "name": "Ogya",
+      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Yesu Do",
         "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
       },
@@ -663,26 +679,6 @@
       "duration_ms": 350328,
       "name": "Yesu Do",
       "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "God of Miracles",
-        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "LUIGI MACLEAN",
-          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
-        }
-      ],
-      "duration_ms": 408584,
-      "name": "Bo Noo Ni (feat. Luigi Maclean)",
-      "url": "https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -735,6 +731,26 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "LUIGI MACLEAN",
+          "url": "https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6"
+        }
+      ],
+      "duration_ms": 408584,
+      "name": "Bo Noo Ni (feat. Luigi Maclean)",
+      "url": "https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "I Am Noble",
         "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "The Counselor I",
-        "url": "https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry"
-      },
-      "artists": [
-        {
-          "name": "Nacee",
-          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
-        }
-      ],
-      "duration_ms": 306741,
-      "name": "E Be God",
-      "url": "https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Cindy's Messiah",
         "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Wahwe Meso",
-        "url": "https://open.spotify.com/album/3sk306dDSoE4dA4KcVPxvl"
+        "name": "The Counselor I",
+        "url": "https://open.spotify.com/album/6SguQdeD3ejoocVxix2Lry"
       },
       "artists": [
         {
-          "name": "Prof. Kofi Abraham",
-          "url": "https://open.spotify.com/artist/1Do8CxsUCJy7Clp0AM3rCI"
+          "name": "Nacee",
+          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
         }
       ],
-      "duration_ms": 298866,
-      "name": "Adam Nana",
-      "url": "https://open.spotify.com/track/5Gxp5gkwk5EOMKQSkqMlJE"
+      "duration_ms": 306741,
+      "name": "E Be God",
+      "url": "https://open.spotify.com/track/6RP4VR5DiCWPKkyQF4vxJD"
     }
   ],
   "unique_name": "Ghana Gospel Classics",

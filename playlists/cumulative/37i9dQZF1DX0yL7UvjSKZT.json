@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh takes on that high lonesome sound. Cover: Clayton Nile Young",
+  "description": "Fresh takes on that high lonesome sound. Cover: Mountain Grass Unit",
   "name": "Indie Bluegrass",
   "tracks": [
     {
@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Burled Woods",
+        "url": "https://open.spotify.com/album/1kUOlNxd4x7zaay7LBNpGJ"
+      },
+      "artists": [
+        {
+          "name": "The Riverside",
+          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Burled Woods",
+      "url": "https://open.spotify.com/track/7m6xKcmsf3hb5aCs6sUsBH"
+    },
+    {
+      "album": {
         "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
         "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },
@@ -1944,7 +1962,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 218120,
       "name": "Crossing the Junction / Deer River",
       "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
@@ -2515,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Appalachian Smoke",
+        "url": "https://open.spotify.com/album/5ZBrC2ZIpEsqtiPMApTWuR"
+      },
+      "artists": [
+        {
+          "name": "Mountain Grass Unit",
+          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199428,
+      "name": "Eagle\u2019s Nest",
+      "url": "https://open.spotify.com/track/4uvDDcY10LXEdC7dlXsjkN"
+    },
+    {
+      "album": {
         "name": "Rachel Sumner & Traveling Light",
         "url": "https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb"
       },
@@ -2794,6 +2830,24 @@
       "duration_ms": 205384,
       "name": "Faeries",
       "url": "https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8"
+    },
+    {
+      "album": {
+        "name": "Reunion",
+        "url": "https://open.spotify.com/album/2KyMG09etsajx1TN01qVnF"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Failing",
+      "url": "https://open.spotify.com/track/0PKHYet02oTemQgvuOJIbM"
     },
     {
       "album": {
@@ -3696,7 +3750,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 238890,
       "name": "Holes",
       "url": "https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn"
@@ -5878,7 +5932,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 195776,
       "name": "Odds of Getting Even",
       "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"

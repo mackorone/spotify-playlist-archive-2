@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1126362,
+  "num_followers": 1126404,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABAPvFDfdW+usambE2gEnUg",
+  "snapshot_id": "ao9+AAAAAAAulrqu3W7wJeIYOJb+kcTX",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estatua De Marfil",
-        "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
+        "name": "Mi Amigo El Tordillo",
+        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 184426,
-      "name": "Nos Estorbo la Ropa",
-      "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
+      "duration_ms": 167026,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Amigo El Tordillo",
-        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
+        "name": "Estatua De Marfil",
+        "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 167026,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
+      "duration_ms": 184426,
+      "name": "Nos Estorbo la Ropa",
+      "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
     },
     {
       "added_at": null,

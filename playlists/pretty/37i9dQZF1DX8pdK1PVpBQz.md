@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: LILY B
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,207 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,209 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [I'm Sorry](https://open.spotify.com/track/3w4t7Cku7fTLvQFOOwUThg) | [Wishlist](https://open.spotify.com/artist/7KRfNZGIzB5L1QxHuknjSB) | [I'm Sorry](https://open.spotify.com/album/6g4OXwWI8gY4IjaATs5Kvi) | 3:48 |
 | 100 | [Doomed](https://open.spotify.com/track/3BVFTEyQ3YKmrZGOYRXCD0) | [Angela Rose](https://open.spotify.com/artist/6BlgAXtCandje5taAzGd8D), [Chelsea Reed](https://open.spotify.com/artist/7LJoJTbxnq9haulMaykSPN) | [Doomed](https://open.spotify.com/album/2mwUStn5T7nt8IoG21YA3D) | 3:34 |
 
-Snapshot ID: `AAAAAHLJAxfAsT7X0Y8DXQknoG0Z+tJD`
+Snapshot ID: `AAAAABoGFIH9sPmX+2RCtQBkR3npOqV8`

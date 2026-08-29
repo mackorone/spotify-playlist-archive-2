@@ -78,7 +78,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 210319,
       "name": "Careful (For Dee)",
       "url": "https://open.spotify.com/track/3hx3nzg1HqlfiiSyCCeCJW"
@@ -1945,7 +1945,7 @@
     },
     {
       "album": {
-        "name": "Dracula (Remix)",
+        "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
       },
       "artists": [
@@ -1960,9 +1960,9 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
+      "name": "Dracula (with JENNIE)",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
@@ -2124,6 +2124,24 @@
       "duration_ms": 176663,
       "name": "Easy Does It",
       "url": "https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg"
+    },
+    {
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
     },
     {
       "album": {
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 180431,
       "name": "Home To Me",
       "url": "https://open.spotify.com/track/1mPyG0CnY5CyTwIl75xpc9"
@@ -3542,7 +3560,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 169598,
       "name": "I Want You To Dance",
       "url": "https://open.spotify.com/track/0xIhdaxHn6bq6WDKMEnjzQ"
@@ -4905,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "New Money",
+        "url": "https://open.spotify.com/album/2opAnEA4otCSk9jq98JxTM"
+      },
+      "artists": [
+        {
+          "name": "Penelope Road",
+          "url": "https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168491,
+      "name": "New Money",
+      "url": "https://open.spotify.com/track/7xRu2TjEvemjtocQAJ3q84"
+    },
+    {
+      "album": {
         "name": "Dua Lipa (Complete Edition)",
         "url": "https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp"
       },
@@ -5430,7 +5466,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 159771,
       "name": "PASSENGER",
       "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
@@ -8026,6 +8062,24 @@
       "duration_ms": 274693,
       "name": "You Say",
       "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    },
+    {
+      "album": {
+        "name": "You're So Vain - Spotify Singles",
+        "url": "https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288707,
+      "name": "You're So Vain - Spotify Singles",
+      "url": "https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ"
     },
     {
       "album": {

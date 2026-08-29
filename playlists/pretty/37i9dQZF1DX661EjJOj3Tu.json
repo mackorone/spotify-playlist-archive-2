@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 513195,
+  "num_followers": 513178,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANzTZvcZkZmgVVoKdVfRq+9YvmkP",
+  "snapshot_id": "AAAAAM8eQWjoShCdfCcX0xY6Zl+xzSPB",
   "tracks": [
     {
       "added_at": "2025-08-07 16:57:48",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "duration_ms": 454291,
+      "name": "Cuchifrito",
+      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Tradiciones",
         "url": "https://open.spotify.com/album/2iLgvf9Z92h7zQXTnjucmm"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 291636,
       "name": "Cuadra 11",
       "url": "https://open.spotify.com/track/0LFUNTV7xNFurTxhF9IrWU"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 454291,
-      "name": "Cuchifrito",
-      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Palabras",
-        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Palabras",
-      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Listen Here",
         "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 341560,
       "name": "In Flight",
       "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Palabras",
+        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "El Cervatillo",
+        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 307519,
+      "name": "El Cervatillo",
+      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 299160,
       "name": "After All",
       "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "El Cervatillo",
-        "url": "https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG"
-      },
-      "artists": [
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 307519,
-      "name": "El Cervatillo",
-      "url": "https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1015,38 +1015,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        }
-      ],
-      "duration_ms": 364237,
-      "name": "Yo S\u00ed Quiero",
-      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Tr\u00edo Oriental",
         "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
       },
@@ -1067,6 +1035,38 @@
       "duration_ms": 130346,
       "name": "La Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        }
+      ],
+      "duration_ms": 364237,
+      "name": "Yo S\u00ed Quiero",
+      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 435226,
       "name": "La Gitana",
       "url": "https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1219,38 +1219,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        }
-      ],
-      "duration_ms": 267245,
-      "name": "Brazilian Love Affair",
-      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Todas Las Voces",
-        "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
-      },
-      "artists": [
-        {
-          "name": "Eva Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "S\u00f3lo Le Pido a Dios",
-      "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Stringwise",
         "url": "https://open.spotify.com/album/2MG0iMoEPcF2qqgjqOndzA"
       },
@@ -1271,18 +1239,34 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+        "name": "Todas Las Voces",
+        "url": "https://open.spotify.com/album/7IMCnusXQEtCVuELxrg36l"
       },
       "artists": [
         {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+          "name": "Eva Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3bhEsDpEObrkM1IM4PRmvw"
         }
       ],
-      "duration_ms": 432026,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
+      "duration_ms": 220800,
+      "name": "S\u00f3lo Le Pido a Dios",
+      "url": "https://open.spotify.com/track/3BLiALx9MnXON8NAmLKJzr"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        }
+      ],
+      "duration_ms": 267245,
+      "name": "Brazilian Love Affair",
+      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1307,6 +1291,22 @@
       "duration_ms": 407832,
       "name": "Don't Like Goodbyes - Bonus Track",
       "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 432026,
+      "name": "Enchantment",
+      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "The Standards",
+        "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 243381,
+      "name": "They Can't Take That Away from Me",
+      "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Enchantment",
         "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 243944,
       "name": "Sombras Del Pasado",
       "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "The Standards",
-        "url": "https://open.spotify.com/album/5Xmy6H88sP0z6XdsMTLHYr"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 243381,
-      "name": "They Can't Take That Away from Me",
-      "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1439,6 +1439,22 @@
       "duration_ms": 245866,
       "name": "Martinez",
       "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "City of Dreams",
+        "url": "https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG"
+      },
+      "artists": [
+        {
+          "name": "Chico Pinheiro",
+          "url": "https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Estrada Real",
+      "url": "https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "City of Dreams",
-        "url": "https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG"
-      },
-      "artists": [
-        {
-          "name": "Chico Pinheiro",
-          "url": "https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Estrada Real",
-      "url": "https://open.spotify.com/track/4biVllhsCT8OGoRB42BlWx"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/5OQeChqQg9hIfp2Q1jxbOl"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "I'll Call You Later",
-      "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Dear Diz (Every Day I Think Of You)",
         "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 408920,
       "name": "Salt Peanuts! (Mani Salado)",
       "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
+      },
+      "artists": [
+        {
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
+        }
+      ],
+      "duration_ms": 269480,
+      "name": "I'll Call You Later",
+      "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Raise up off Me",
-        "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
-      },
-      "artists": [
-        {
-          "name": "Ralph Peterson",
-          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
-        },
-        {
-          "name": "Eguie Castrillo",
-          "url": "https://open.spotify.com/artist/2o8Ic3nnJg47sAw7xcxEW4"
-        }
-      ],
-      "duration_ms": 354049,
-      "name": "Blue Hughes",
-      "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "The Dreamer Is The Dream",
         "url": "https://open.spotify.com/album/6Nyc37jV5GlyqeGJ9EN75j"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 334746,
       "name": "Sonic Anomaly",
       "url": "https://open.spotify.com/track/4oW5TZR1ommlrPipe5R7g2"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Raise up off Me",
+        "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
+      },
+      "artists": [
+        {
+          "name": "Ralph Peterson",
+          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
+        },
+        {
+          "name": "Eguie Castrillo",
+          "url": "https://open.spotify.com/artist/2o8Ic3nnJg47sAw7xcxEW4"
+        }
+      ],
+      "duration_ms": 354049,
+      "name": "Blue Hughes",
+      "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
-      },
-      "artists": [
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        }
-      ],
-      "duration_ms": 307817,
-      "name": "Canci\u00f3n Con Todos",
-      "url": "https://open.spotify.com/track/2gIVZ8hTq4ZxvMnIj28k1r"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Border-Free",
         "url": "https://open.spotify.com/album/0Xgi6Q0v2Xc4Do7vn98OWM"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 549366,
       "name": "Congadanza",
       "url": "https://open.spotify.com/track/2WAc2I5nwTKkBL5QB1fAdB"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
+      },
+      "artists": [
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        }
+      ],
+      "duration_ms": 307817,
+      "name": "Canci\u00f3n Con Todos",
+      "url": "https://open.spotify.com/track/2gIVZ8hTq4ZxvMnIj28k1r"
     },
     {
       "added_at": "2025-08-07 16:57:48",

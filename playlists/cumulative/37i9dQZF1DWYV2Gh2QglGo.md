@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Jess Moskaluke
 
-809 songs - 1 day 19 hr 17 min
+810 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [Take The Money \(Take Back My Last Name\)](https://open.spotify.com/track/43du1hSri3Sm9AIfloTGfz) | [Nicole Sumerlyn](https://open.spotify.com/artist/0LNuRsYq6ZR4MoxEA4gm5t) | [Take The Money \(Take Back My Last Name\)](https://open.spotify.com/album/2Smh3G8hjfnyBzsvZPVEZ1) | 3:08 | 2025-07-11 | 2025-08-16 |
 | [Takes Me Back](https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Takes Me Back](https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd) | 3:15 | 2024-10-04 | 2024-10-26 |
 | [Taking a Look In](https://open.spotify.com/track/3emUP6eGVNw0m8wuu7j12v) | [Rebekah Hawker](https://open.spotify.com/artist/4KySQuGdYzSrOHNCOnb80S) | [Taking a Look In](https://open.spotify.com/album/1tdGiFkEYPRwk6B3nG6CJL) | 2:45 | 2026-06-12 |  |
+| [Tanqueray or Iced Cold Beer?](https://open.spotify.com/track/3HcZXpYaJwObceTFGwUZJs) | [Jay Kutcher](https://open.spotify.com/artist/2XpYj9WxwqofycQ8j80siz) | [Tanqueray or Iced Cold Beer?](https://open.spotify.com/album/4n2LjYH2fmvIOxOcWNBiLx) | 4:15 | 2026-08-28 |  |
 | [TEAR IN THE RAIN](https://open.spotify.com/track/1wXChPdwhAjZG5sq4posVi) | [Sean Michael Ryan](https://open.spotify.com/artist/6HRmf5pui2Mcqi3URD8Uvk) | [TEAR IN THE RAIN](https://open.spotify.com/album/2UYPAbyFiJ5Dwk8kXwakyM) | 2:45 | 2026-07-31 |  |
 | [Tears That You'll Never Find](https://open.spotify.com/track/4yWUtE6IG23QQozUMqkUa2) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Tears That You'll Never Find](https://open.spotify.com/album/207ZWbh7bQe4q7nr9RzYXI) | 2:46 | 2025-05-16 | 2025-07-12 |
 | [Tell Me To](https://open.spotify.com/track/78EeE8TcOs3tDM3rhjFeIv) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [Tell Me To](https://open.spotify.com/album/6OJ98R36YCE8T2V2sWheKt) | 2:48 | 2026-06-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo & Marama",
-  "num_followers": 1092786,
+  "num_followers": 1092594,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADbw1i93VV/kisHTdHG+IOIDZgR2",
+  "snapshot_id": "AAAAAEVagM5xm5ECVZs/T7u2yLPMqxQX",
   "tracks": [
     {
       "added_at": "2026-06-19 03:00:25",
@@ -339,26 +339,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #1 | Quien Te Quiere Como Yo",
-        "url": "https://open.spotify.com/album/71UB9ZahcDvZeDijkCKUuI"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 173647,
-      "name": "VIAJEMOS EN EL TIEMPO #1 | Quien Te Quiere Como Yo",
-      "url": "https://open.spotify.com/track/6il9B9hrZPNpXei57XM1Sv"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #1 | Quien Te Quiere Como Yo",
+        "url": "https://open.spotify.com/album/71UB9ZahcDvZeDijkCKUuI"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 173647,
+      "name": "VIAJEMOS EN EL TIEMPO #1 | Quien Te Quiere Como Yo",
+      "url": "https://open.spotify.com/track/6il9B9hrZPNpXei57XM1Sv"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "BORRACHO",
-        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "BORRACHO",
-      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Vos y Yo",
         "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 139058,
       "name": "Vos y Yo",
       "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "BORRACHO",
+        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "BORRACHO",
+      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -887,30 +887,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
-        "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
-      },
-      "artists": [
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        },
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        }
-      ],
-      "duration_ms": 165161,
-      "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
-      "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Soltero Hasta la Tumba (Remix)",
         "url": "https://open.spotify.com/album/02jgpEF6No10jypd9B6dsk"
       },
@@ -939,6 +915,30 @@
       "duration_ms": 195502,
       "name": "Soltero Hasta la Tumba - Remix",
       "url": "https://open.spotify.com/track/2Ue6HKn8jqcOaOT467gQHw"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
+        "url": "https://open.spotify.com/album/7nV6VI5RCXSQz81x02HyOx"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        }
+      ],
+      "duration_ms": 165161,
+      "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
+      "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1159,38 +1159,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1223,6 +1191,38 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1311,30 +1311,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Tu Sacaganas (Remix)",
-        "url": "https://open.spotify.com/album/7ItleKxpsGa8sNKfYtGFcD"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 201483,
-      "name": "Tu Sacaganas (Remix)",
-      "url": "https://open.spotify.com/track/6D0GnVYWhjJXBeVYsRqANW"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Pu\u00f1o De Diamantes",
         "url": "https://open.spotify.com/album/03YTHkGhIR301Op2wJiJMa"
       },
@@ -1355,6 +1331,30 @@
       "duration_ms": 206471,
       "name": "Pu\u00f1o De Diamantes",
       "url": "https://open.spotify.com/track/3eumA02V1WiYGE7cGlnJRT"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Tu Sacaganas (Remix)",
+        "url": "https://open.spotify.com/album/7ItleKxpsGa8sNKfYtGFcD"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 201483,
+      "name": "Tu Sacaganas (Remix)",
+      "url": "https://open.spotify.com/track/6D0GnVYWhjJXBeVYsRqANW"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "Notitas Tristes",
+        "url": "https://open.spotify.com/album/4imWv9LdyTelgqxKyfliMC"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 136555,
+      "name": "Notitas Tristes",
+      "url": "https://open.spotify.com/track/3Fl5HPEn0HKbwC4h19Nya7"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "Sin Cadenas",
         "url": "https://open.spotify.com/album/1q8MbrlzmYGA5FzlnxiuqU"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Notitas Tristes",
-        "url": "https://open.spotify.com/album/4imWv9LdyTelgqxKyfliMC"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 136555,
-      "name": "Notitas Tristes",
-      "url": "https://open.spotify.com/track/3Fl5HPEn0HKbwC4h19Nya7"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Tranquila",
-        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 183431,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "No Fue Culpa Tuya",
         "url": "https://open.spotify.com/album/6V2h9j8lyA1DxaKALu0ue6"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 148283,
       "name": "No Fue Culpa Tuya",
       "url": "https://open.spotify.com/track/3S0pR6KMZdaBL0QC9SI2vY"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Tranquila",
+        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1687,6 +1687,30 @@
       "duration_ms": 175909,
       "name": "Cachorro",
       "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "\u00daltima Noche",
+        "url": "https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK"
+      },
+      "artists": [
+        {
+          "name": "Treekoo",
+          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "\u00daltima Noche",
+      "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1735,30 +1759,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "\u00daltima Noche",
-        "url": "https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK"
-      },
-      "artists": [
-        {
-          "name": "Treekoo",
-          "url": "https://open.spotify.com/artist/75O2xPyiaDJoip6xe2wOaB"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "\u00daltima Noche",
-      "url": "https://open.spotify.com/track/20GboINqv3c8q3h8ppVANK"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Aunque Te Enamores",
         "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
@@ -1775,22 +1775,6 @@
       "duration_ms": 130212,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 475951,
-      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
-      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 475951,
+      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
+      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
         "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
       },
@@ -1831,6 +1831,26 @@
       "duration_ms": 326437,
       "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
       "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "NO FUIMOS",
+        "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 136853,
+      "name": "NO FUIMOS",
+      "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1867,22 +1887,22 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "NO FUIMOS",
-        "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
+        "name": "Mi Ex",
+        "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
       },
       "artists": [
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
         },
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
         }
       ],
-      "duration_ms": 136853,
-      "name": "NO FUIMOS",
-      "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
+      "duration_ms": 141978,
+      "name": "Mi Ex",
+      "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1899,6 +1919,22 @@
       "duration_ms": 147109,
       "name": "Pechito Partido",
       "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1927,42 +1963,6 @@
       "duration_ms": 156325,
       "name": "Promet\u00ed",
       "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Mi Ex",
-        "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        }
-      ],
-      "duration_ms": 141978,
-      "name": "Mi Ex",
-      "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -2023,26 +2023,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Copacabana (Remix)",
-        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Copacabana - Remix",
-      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "VAS A VOLVER",
         "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
       },
@@ -2063,6 +2043,26 @@
       "duration_ms": 144666,
       "name": "VAS A VOLVER",
       "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Copacabana (Remix)",
+        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Copacabana - Remix",
+      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
     },
     {
       "added_at": "2026-06-19 03:00:25",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-194 songs - 17 hr 17 min
+195 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Dusk](https://open.spotify.com/track/6RAH1GzmFzMgEsNYxHwSyr) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [Dusk](https://open.spotify.com/album/4AlP7d5GNEl7h00l6XvkAo) | 3:54 | 2023-09-06 | 2026-05-05 |
 | [Echoes In Motion](https://open.spotify.com/track/2pX0UpPjo79AV70um6xDa4) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Echoes In Motion](https://open.spotify.com/album/0GTBnstBM7nLoTbHDNQgiV) | 2:24 | 2026-05-04 | 2026-05-09 |
 | [Ego Is The Enemy](https://open.spotify.com/track/2omtwYPfscqQc2XjOSmJOy) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Ego Is The Enemy](https://open.spotify.com/album/7FrQOPp4y98Cvf6NXQfggr) | 3:05 | 2024-03-22 | 2024-09-17 |
-| [ELECTION](https://open.spotify.com/track/0zSuqJFQTJLE14UY70hfHS) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [ELECTION](https://open.spotify.com/album/25LzpKHyoDjREsRlvj1Tyg) | 5:31 | 2026-03-20 |  |
+| [ELECTION](https://open.spotify.com/track/0zSuqJFQTJLE14UY70hfHS) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [ELECTION](https://open.spotify.com/album/25LzpKHyoDjREsRlvj1Tyg) | 5:31 | 2026-03-20 | 2026-08-29 |
 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-08-10 | 2023-10-14 |
 | [Eternity](https://open.spotify.com/track/2npYtnKiCHNIj1PVsAxtPq) | [Zaa](https://open.spotify.com/artist/3MJkjA2JwoLaRsEqooYtPu) | [Eternity](https://open.spotify.com/album/50kesCiqKZFQepNHGr5BR5) | 2:56 | 2026-05-08 |  |
 | [Everything Done](https://open.spotify.com/track/66nRIVQe3VCVha8TpWb7DU) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS), [JOR](https://open.spotify.com/artist/7AlKNy0s1YjaiQ7GN20pVG) | [Various Artist, Vol\. 6 \- 4 Years](https://open.spotify.com/album/6zKrUCc1yKmlLtEiexsq2A) | 6:18 | 2025-06-20 |  |
@@ -173,6 +173,7 @@
 | [Thank You So Much](https://open.spotify.com/track/4GQmmt4MNqJJJvQeLUNqCN) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Thank You So Much](https://open.spotify.com/album/52nZh4I7scACkidYNOrLhD) | 6:08 | 2023-11-24 | 2024-07-30 |
 | [The Feeling](https://open.spotify.com/track/2ex7NzlDpZ7uIqVd6sQIX4) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [The Feeling](https://open.spotify.com/album/6pEhtURKta65mrPTSKBn7e) | 8:32 | 2023-08-10 | 2023-11-07 |
 | [The Moment](https://open.spotify.com/track/4s5Exhx0XrDLLvpgNuXaCI) | [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [Coexist](https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf) | [The Moment](https://open.spotify.com/album/3vX5mMRLcvvpFXh0g0iTqA) | 2:48 | 2024-11-15 |  |
+| [The Portal Is You](https://open.spotify.com/track/38TWnfdzg0XwJxcrER9SbN) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1), [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [The Portal Is You](https://open.spotify.com/album/5Jr4WzHqfP08SZvlEMBYZy) | 2:59 | 2026-08-28 |  |
 | [The Power of Now \- Dekel Remix](https://open.spotify.com/track/2xcrSYZvKbRnPKQmEdUIR5) | [Captain Hook](https://open.spotify.com/artist/5xnZNDl118VvPTvthujxpx), [Dekel](https://open.spotify.com/artist/5QjwI21mbWUU3uiWtjM6Lc) | [The Power of Now Remixes 2018](https://open.spotify.com/album/4VRLxuESoTEmERzZ1Gms3l) | 8:49 | 2024-11-29 | 2025-04-25 |
 | [The Power Plant \- Bardeeya Remix](https://open.spotify.com/track/5KKSzFYseqKgygFpMcVrGD) | [High On Mars](https://open.spotify.com/artist/2l18FuG93ODbT7h1njr1dp), [Bardeeya](https://open.spotify.com/artist/2NzfOTW0EbtlSuGyqwKrGL) | [The Power Plant](https://open.spotify.com/album/40YknsGoimQsFLB74TyAC9) | 6:44 | 2023-08-10 | 2023-11-07 |
 | [The Rave \- Sped Up](https://open.spotify.com/track/1sa7MXOGOoRHVQ9xKJEecV) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 3:37 | 2025-02-25 | 2025-04-25 |

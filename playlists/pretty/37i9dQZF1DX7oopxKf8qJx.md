@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,571 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,597 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 46 | [Ebb Tide](https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL) | [Robert Maxwell](https://open.spotify.com/artist/61nzGtKcJqf1IpkvIOjAyB), [Carl Sigman](https://open.spotify.com/artist/5ZbBu38Ltmu0G9xsRUKmZ2), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:37 |
 | 47 | [I Wish You Love](https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [I Wish You Love](https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE) | 2:48 |
 | 48 | [Moon over Miami](https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 4:04 |
-| 49 | [Gone With The Wind](https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:17 |
+| 49 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
 | 50 | [Melancholy Serenade](https://open.spotify.com/track/7c60uLULZWjeju80wHtxGw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [And Awaaay We Go! \(Expanded Edition\)](https://open.spotify.com/album/3K0zalfzD0tX4s2t4fT6EP) | 3:16 |
-| 51 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
+| 51 | [Gone With The Wind](https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:17 |
 | 52 | [If I Had You](https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [A Band Is Born](https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU) | 3:25 |
 | 53 | [Stranger On The Shore](https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:11 |
 | 54 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 79 | [Moonlight Serenade \- Digitally Remastered](https://open.spotify.com/track/5GLP9ZqgQOHBLNuLSWA5rV) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Touch of Henry Mancini, Vol\. 3](https://open.spotify.com/album/64psneLvhQVZvrPL7zEpiU) | 3:41 |
 | 80 | [The Days Of Wine And Roses](https://open.spotify.com/track/40WZ6K3o6X3wsAbh3b41wG) | [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/75C2nKf5frcYnRI8tSqXOM) | 2:36 |
 
-Snapshot ID: `AAAAAHAwLJeKCL6ZdRAYFOd1gWxSIKTe`
+Snapshot ID: `AAAAALFEYx/x/1k81wlrIEb8ynSEmUAZ`

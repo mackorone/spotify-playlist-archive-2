@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 90s",
-  "num_followers": 198078,
+  "num_followers": 198095,
   "original_name": "Good Feeling 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALh0ojag8EDd/ScqEvuGXj4KAeXq",
+  "snapshot_id": "AAAAAHmIVhfj5Z1Fnopoa7eY5C0f8T4b",
   "tracks": [
     {
       "added_at": "2020-11-24 03:55:51",
@@ -223,22 +223,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Return of the Mack",
-        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
       "artists": [
         {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Return of the Mack",
-      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -283,6 +267,22 @@
       "duration_ms": 225360,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
+        "name": "Return of the Mack",
+        "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
+      },
+      "artists": [
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        }
+      ],
+      "duration_ms": 213093,
+      "name": "Return of the Mack",
+      "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -359,6 +359,22 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
+        "name": "Human Clay",
+        "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "duration_ms": 316733,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Human Clay",
-        "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
       "artists": [
         {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 316733,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -419,22 +435,6 @@
       "duration_ms": 215160,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -671,22 +671,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
-      },
-      "artists": [
-        {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "Blurring The Edges",
         "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 252760,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Shiny Happy People",
-      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "Tubthumper",
         "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 278778,
       "name": "Tubthumping",
       "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 225786,
+      "name": "Shiny Happy People",
+      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
     },
     {
       "added_at": "2020-11-24 03:55:51",
@@ -979,22 +979,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "Larger Than Life",
-      "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "Here Comes The Hotstepper",
         "url": "https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "Larger Than Life",
+      "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
         "name": "Fush Yu Mang (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-11-24 03:55:51",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2020-11-24 03:55:51",
-      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 272106,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
+    },
+    {
+      "added_at": "2020-11-24 03:55:51",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2020-11-24 03:55:51",

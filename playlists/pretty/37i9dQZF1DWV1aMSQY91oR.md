@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Night Lovell
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,754 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,820 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 31 | [One Nation](https://open.spotify.com/track/5y984qhy30u6Yap2gHPKSH) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [LNDN DRGS](https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Generation P](https://open.spotify.com/album/2lZcYTtPI8XME6Tgbz9Feu) | 2:47 |
 | 32 | [Quicksand](https://open.spotify.com/track/3ExrU7mnYsPvOoZOn0JTwp) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Quicksand](https://open.spotify.com/album/6Ht76qnYSCZJW9FdTy2gBj) | 2:02 |
 | 33 | [Mad Technology](https://open.spotify.com/track/6yDQOCVxV6Z0XGZgbeCvMi) | [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr), [Frankie Pulitzer](https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Czarface Meets Frankie Pulitzer](https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6) | 3:43 |
-| 34 | [Name Ranging](https://open.spotify.com/track/6JSvlciyiTVukx8EZ9ORLw) | [Boosie Badazz](https://open.spotify.com/artist/48HVkCWtMzaVL2nbWUAtjB), [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x) | [Hood Stories](https://open.spotify.com/album/0DhsIuxanYdUSLoyMemgAz) | 3:43 |
+| 34 | [Name Ranging](https://open.spotify.com/track/6JSvlciyiTVukx8EZ9ORLw) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x) | [Hood Stories](https://open.spotify.com/album/0DhsIuxanYdUSLoyMemgAz) | 3:43 |
 | 35 | [11:59 in Chicago](https://open.spotify.com/track/6gos0Qv0ICZDIR5qkoqZef) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [He is Me](https://open.spotify.com/album/05VVsVaTV5NJYGviN8QQYD) | 1:57 |
 | 36 | [My Type](https://open.spotify.com/track/1MyZwesJCesKM60sjkzGhi) | [Big Lean](https://open.spotify.com/artist/3DF2S0BJ06q1FwvruHqF06), [Sick Ppl](https://open.spotify.com/artist/1SCwj7fCt2DeYIYNQoGxp0) | [My Type](https://open.spotify.com/album/6cCAoDiXsMfwmQgCdP0rNG) | 2:35 |
 | 37 | [I Don't Wanna](https://open.spotify.com/track/6pkGSWjbgcf5xFn0CnlLdx) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [I Don't Wanna](https://open.spotify.com/album/2cOF6zlkbvynOTiELSP7gu) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Outside Again](https://open.spotify.com/track/3ZHFgo75lYXv1erSB9r2Af) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Outside Again](https://open.spotify.com/album/78Tcl6PDCqGV0GsfAQJ61J) | 2:40 |
 | 50 | [It Depends](https://open.spotify.com/track/1a83npO0n63NDRIIguMeAM) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [It Depends](https://open.spotify.com/album/7xtXqAAhKOBPZUYXu6wnz5) | 2:10 |
 
-Snapshot ID: `AAAAANoFxyMvojMguD91qRlBuQouJpZj`
+Snapshot ID: `AAAAALGmhzcdwvjpRr2I8JB3GPZPfUIG`

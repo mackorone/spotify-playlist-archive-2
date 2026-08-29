@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,803,174 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,803,104 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 21 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
 | 22 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 |
 | 23 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
-| 24 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
-| 25 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
+| 24 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
+| 25 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 26 | [PERFuMITO NUEVO](https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:20 |
 | 27 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 28 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 34 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
 | 35 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 |
 | 36 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 |
-| 37 | [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 |
-| 38 | [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
+| 37 | [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
+| 38 | [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 |
 | 39 | [Me Mareo](https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [SATIROLOGÍA \(DELUXE EDITION\)](https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE) | 2:48 |
 | 40 | [X TI](https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:35 |
 | 41 | [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 99 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 |
 | 100 | [Cora Roto](https://open.spotify.com/track/7ftYb4y7GwiSmpbZizpZgZ) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Cora Roto](https://open.spotify.com/album/6UWjSwQgQyAhaWcHF6K1oj) | 3:17 |
 
-Snapshot ID: `AAAAAMAoZPpuJVQ58U5wPmtnaAObIxJi`
+Snapshot ID: `AAAAAOwuVjNbdr5W09SH79i18tgIRjO1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,768 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,842 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 21 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
 | 22 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
 | 23 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
-| 24 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
-| 25 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
+| 24 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
+| 25 | [Jeremy](https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:18 |
 | 26 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 27 | [Lucky Man](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 4:53 |
 | 28 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 75 | [Piano Fire](https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:43 |
 | 76 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 |
 | 77 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
-| 78 | [Cornflake Girl \- 2015 Remaster](https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink \(Deluxe Edition\)](https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U) | 5:05 |
-| 79 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
-| 80 | [I Don't Know \- Remastered 2009](https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:00 |
+| 78 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
+| 79 | [I Don't Know \- Remastered 2009](https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:00 |
+| 80 | [Cornflake Girl \- 2015 Remaster](https://open.spotify.com/track/7bdsNVQUGs9O0Qc8FtTKPn) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink \(Deluxe Edition\)](https://open.spotify.com/album/7LtHJM8ORJlGoZvcPU9X4U) | 5:05 |
 | 81 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
 | 82 | [Shady Lane](https://open.spotify.com/track/0JZAGUbzkwWSnoInuWoBgd) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners](https://open.spotify.com/album/1Q6ikDUK4RFtLI3N9Lll9h) | 3:50 |
-| 83 | [Crush With Eyeliner \- Remastered](https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(25th Anniversary Edition\)](https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK) | 4:38 |
-| 84 | [Plainclothes Man](https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo) | [Mic City Sons](https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL) | 3:28 |
+| 83 | [Plainclothes Man](https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo) | [Mic City Sons](https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL) | 3:28 |
+| 84 | [Crush With Eyeliner \- Remastered](https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(25th Anniversary Edition\)](https://open.spotify.com/album/2Q6XCez8NWMKNKYMsm54DK) | 4:38 |
 | 85 | [Feed the Tree](https://open.spotify.com/track/3L19vBWH4jTHNXbuBaHbUN) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Star](https://open.spotify.com/album/2b5r3YRZYwSAeXd7aWZjWp) | 3:29 |
 | 86 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 |
 | 87 | [Movin' on Up](https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL) | 3:50 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 91 | [What’s The Frequency, Kenneth? \- Remastered 2013](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 |
 | 92 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
 | 93 | [Boys On The Radio](https://open.spotify.com/track/34MbRO8ywxzIgM7h3e9Cug) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 5:09 |
-| 94 | [Enter Laughing](https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:42 |
-| 95 | [I'm Shakin'](https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Rooney](https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50) | 3:34 |
+| 94 | [I'm Shakin'](https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Rooney](https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50) | 3:34 |
+| 95 | [Enter Laughing](https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:42 |
 | 96 | [Iron Man](https://open.spotify.com/track/2cpJAVteVpeXFCiOgjcx7m) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 4:19 |
 | 97 | [That's When I Reach for My Revolver](https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI) | [Mission Of Burma](https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6) | [Signals, Calls and Marches](https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo) | 3:53 |
 | 98 | [Cold Blooded Old Times](https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 4:14 |
-| 99 | [Blue Light](https://open.spotify.com/track/4nC7ADktP434rqxHtFbkba) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 2:46 |
-| 100 | [Galaxie / Hello, Goodbye](https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:31 |
+| 99 | [Galaxie / Hello, Goodbye](https://open.spotify.com/track/7iggXRD8XULv2nw4NjkIjZ) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:31 |
+| 100 | [Sucked Out](https://open.spotify.com/track/4YN94yxYWFfhk9YbmOIqR4) | [Superdrag](https://open.spotify.com/artist/1UGwqiX4QA7R9hNBwzjavF) | [Regretfully Yours](https://open.spotify.com/album/6b2RjEtZ2jIYVlCkgCIW9C) | 2:46 |
 
-Snapshot ID: `AAAAADsk5PIK8ScXskoCBOHMmY2a7SBg`
+Snapshot ID: `AAAAAOve/ZVA/DZvclT75yKQeWSj1Fc/`

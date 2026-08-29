@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-251 songs - 13 hr 22 min
+253 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Não Pares Não](https://open.spotify.com/track/01Sh7eF5AvaQ7upTpKV2IT) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 3:11 | 2023-12-06 |  |
 | [O Problema Sou Eu?](https://open.spotify.com/track/43dNtMuZQ0btqI1q9gOLHO) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 2:44 | 2023-12-06 |  |
 | [Obsolescence](https://open.spotify.com/track/586v1C1UWzhu7auYAdpnyU) | [Miami73](https://open.spotify.com/artist/27heQvGNFd4quO5zDWnAoY), [HEREM MUSIC](https://open.spotify.com/artist/2zS06yixDRiyduZYWVL9Hs) | [Obsolescence](https://open.spotify.com/album/17iAykKoDYzHoo8mYtYXCE) | 3:07 | 2023-11-22 |  |
+| [Oeil d'aigle](https://open.spotify.com/track/4qG1ZV9HMsRKsDJKTpMpcS) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Oeil d'aigle](https://open.spotify.com/album/6wcNk4t3RPH1aVoRWJZYsO) | 3:18 | 2026-08-28 |  |
 | [Oh Damn](https://open.spotify.com/track/44goyZ5QSmQIyYEp7PsHT3) | [Mosheh Koke](https://open.spotify.com/artist/67YKVYgaX3io0Csvbi46po) | [Koka](https://open.spotify.com/album/6yELoICaxXCZmG3IokahuO) | 3:36 | 2023-03-14 |  |
 | [Oh lord](https://open.spotify.com/track/081QaV183OFh111VLyGCcN) | [Keywone Music](https://open.spotify.com/artist/75uHj2nwoAZYWfzFbhnoMH) | [Oh lord](https://open.spotify.com/album/4urqEh10bWIaWpNZS2WjIn) | 2:40 | 2024-05-28 |  |
 | [Olala](https://open.spotify.com/track/4ot3ZBPSL7eQbwGzG3HKt0) | [JJ LOVA](https://open.spotify.com/artist/5BbrIedDkLsoaCW2zsLwW3) | [Amour Ensoleillé](https://open.spotify.com/album/6zuVkXUgjvJqeHUtVhxkDh) | 2:53 | 2024-05-28 |  |
@@ -259,5 +260,6 @@
 | [À jamais](https://open.spotify.com/track/2b05L0s3R02DhzejOqrIcb) | [TheRealPerrez](https://open.spotify.com/artist/3xoh6XMCDp5IXfffa98xOh) | [BAT](https://open.spotify.com/album/1gyUHIwGiSud2Z1DL7yrzc) | 3:26 | 2023-03-14 |  |
 | [À Strasbourg](https://open.spotify.com/track/0TKoTFDu0ZI7UzwesMNhGG) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [À Strasbourg](https://open.spotify.com/album/2YEwaDLh3wJbTTVfni8HJg) | 3:35 | 2025-02-19 |  |
 | [Étincelle](https://open.spotify.com/track/49rK6K2PGbBivrLneSAQAO) | [Gate La Luz](https://open.spotify.com/artist/36utiFoTW7sek2MXjzpFkF) | [Étincelle](https://open.spotify.com/album/6AmYN7UW63VMXWLoWgSdfK) | 2:57 | 2024-11-25 |  |
+| [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 | 2026-08-28 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

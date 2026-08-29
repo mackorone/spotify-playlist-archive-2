@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7252,
+  "num_followers": 7253,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADd/rgJO30JrPzYb+ZnGfEi",
+  "snapshot_id": "ao9+AAAAAAAsPSOG0z+gflHkXUOJqgr1",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
+        "name": "Entre Cuatro Paredes",
+        "url": "https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 221425,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
+      "duration_ms": 266020,
+      "name": "Entre Cuatro Paredes",
+      "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Cuatro Paredes",
-        "url": "https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx"
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
       },
       "artists": [
         {
@@ -596,9 +596,25 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Entre Cuatro Paredes",
-      "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
+      "duration_ms": 221425,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "No Me Estoy Quemando",
+      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "No Me Estoy Quemando",
-      "url": "https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/2kjfs84og5dMwgOgHm7XSr"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 244869,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/2ZBPfToX2dyMxDxGE529IW"
+      "duration_ms": 195758,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 195758,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/0eic3m5rwIaOMAUSSryRqu"
+      "duration_ms": 244869,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/2ZBPfToX2dyMxDxGE529IW"
     },
     {
       "added_at": null,

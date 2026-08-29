@@ -4,7 +4,7 @@
 
 > Ny fredag og ny musik bl.a\. fra Minds of 99, HUGORM, Dahlin og mange flere ✨
 
-11,870 songs - 25 day 17 hr 6 min
+11,871 songs - 25 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6896,6 +6896,7 @@
 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-15 | 2025-05-23 |
 | [Million To One](https://open.spotify.com/track/6o4ZKhZgT5yUzLsYSQksOm) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Million To One](https://open.spotify.com/album/3PAx5BFmViU4y1izpSXrL1) | 3:36 | 2024-11-14 | 2024-11-22 |
 | [Millionær](https://open.spotify.com/track/432MNTBeLA8HCRhVeomEyd) | [USO](https://open.spotify.com/artist/3GGuPP6lGhVCYBFsqQfIom) | [El Clásico](https://open.spotify.com/album/5O1PnI52k51LLUuRY1uq4W) | 2:49 | 2024-11-21 | 2024-11-29 |
+| [mimosa](https://open.spotify.com/track/0fmreURNhbPSNCaFuSrtxO) | [lila sky](https://open.spotify.com/artist/3LsIR9rVSsNmyRYcJOsdyH), [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL) | [mimosa](https://open.spotify.com/album/5X1hoVn2c5yyf3CJBLTMX8) | 2:22 | 2026-08-28 |  |
 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 | 2025-10-30 | 2025-11-07 |
 | [Min Baby](https://open.spotify.com/track/14EP2Gr6LOiKbMUCvy8rG6) | [ASGER](https://open.spotify.com/artist/2ibWg5HaZLS4EwoWWGDQau) | [Min Baby](https://open.spotify.com/album/2HD5zqrWFxwoItWLpfHWJq) | 2:23 | 2024-05-16 | 2024-05-24 |
 | [Min Bold](https://open.spotify.com/track/5EU3Re6L3HuOhjgV1iy6Mi) | [Lidt til Lægterne](https://open.spotify.com/artist/5hfCoNOhGpQ7uDsn6jfxpg), [P3](https://open.spotify.com/artist/4kElB0k7B3OtVDYkCys2z7) | [Min Bold](https://open.spotify.com/album/7vuRhbsGFXgEggxjG29TrO) | 3:26 | 2024-05-30 | 2024-06-07 |

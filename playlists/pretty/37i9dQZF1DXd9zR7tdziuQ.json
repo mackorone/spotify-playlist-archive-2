@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 966206,
+  "num_followers": 966216,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKSI0b3aWqkUnxoSMXCKzEp2DY9w",
+  "snapshot_id": "AAAAAMgPEl0jTL1ZWFCWdDlylByPdtsv",
   "tracks": [
     {
       "added_at": "2026-03-17 11:56:41",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Unchained Melody",
-        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Rhythm Inside (Acoustic)",
         "url": "https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 212171,
       "name": "Rhythm Inside - Acoustic",
       "url": "https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Unchained Melody",
+        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "AOL Sessions",
-        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Kiss Me (Acoustic)",
-      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Send My Love (To Your New Lover) [Live]",
         "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 225033,
       "name": "Send My Love (To Your New Lover) - Live",
       "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "AOL Sessions",
+        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Kiss Me (Acoustic)",
+      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "City of Stars",
-        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City of Stars",
-      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "2U (Acoustic Version)",
         "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Youtube Sessions",
-        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
+        "name": "City of Stars",
+        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
       },
       "artists": [
         {
-          "name": "Alex Cornell",
-          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 185500,
-      "name": "Sex On Fire",
-      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
+      "duration_ms": 154858,
+      "name": "City of Stars",
+      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1235,6 +1219,22 @@
       "duration_ms": 277894,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Youtube Sessions",
+        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Cornell",
+          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Sex On Fire",
+      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "False Alarm (Acoustic Version)",
         "url": "https://open.spotify.com/album/7tbTB7SaPrwgPi7dZhbw4V"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Please Keep Loving Me (Acoustic)",
         "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 197626,
       "name": "Please Keep Loving Me - Acoustic",
       "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "She's On My Mind (Acoustics)",
-        "url": "https://open.spotify.com/album/11iEgJHgXJOEnrqLkAg1pz"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 166701,
-      "name": "She's On My Mind - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/6O2cwVw0mjWxq98rI4YfVz"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1375,6 +1359,22 @@
       "duration_ms": 178202,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3SHg4VamqiJkGSU5o4zEaD"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "She's On My Mind (Acoustics)",
+        "url": "https://open.spotify.com/album/11iEgJHgXJOEnrqLkAg1pz"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 166701,
+      "name": "She's On My Mind - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/6O2cwVw0mjWxq98rI4YfVz"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "High and Dry",
-        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 249752,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Hello (Adele Cover)",
         "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 230225,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "High and Dry",
+        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 249752,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "Architect (Deluxe)",
+        "url": "https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv"
+      },
+      "artists": [
+        {
+          "name": "Wallis Bird",
+          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 201282,
       "name": "Weak - Acoustic",
       "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "Architect (Deluxe)",
-        "url": "https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv"
-      },
-      "artists": [
-        {
-          "name": "Wallis Bird",
-          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj"
+      },
+      "artists": [
+        {
+          "name": "LAUV",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 202684,
+      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Lift Your Spirit",
         "url": "https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 225333,
       "name": "Wake Me Up - Acoustic",
       "url": "https://open.spotify.com/track/3Jc0ABqhf9yMLn8bbAdmKX"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "Without Fear (The Complete Edition)",
-        "url": "https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 149803,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj"
+        "name": "Without Fear (The Complete Edition)",
+        "url": "https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq"
       },
       "artists": [
         {
-          "name": "LAUV",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 202684,
-      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
+      "duration_ms": 149803,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "Big Jet Plane",
         "url": "https://open.spotify.com/album/6nhLs4qiFClX5ef3YaCfFm"
       },
@@ -2159,6 +2175,22 @@
       "duration_ms": 194960,
       "name": "You're the One That I Want",
       "url": "https://open.spotify.com/track/2lMT78bIa5p661B5ajMIbr"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
+        "name": "Home / Dirty Paws",
+        "url": "https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "duration_ms": 173508,
+      "name": "Home / Dirty Paws",
+      "url": "https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH"
     },
     {
       "added_at": "2026-03-17 11:56:41",
@@ -2275,38 +2307,6 @@
       "duration_ms": 154290,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
-        "name": "Home / Dirty Paws",
-        "url": "https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn"
-      },
-      "artists": [
-        {
-          "name": "Gardiner Sisters",
-          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
-        }
-      ],
-      "duration_ms": 173508,
-      "name": "Home / Dirty Paws",
-      "url": "https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH"
     },
     {
       "added_at": "2026-03-17 11:56:41",

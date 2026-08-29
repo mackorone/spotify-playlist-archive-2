@@ -4,7 +4,7 @@
 
 > New music from JENNIE, The Weeknd, Tomoko Aran, Alex Warren, Aisha Retno, Marsha Milan, Adira Suhaimi, Nadeera, Dominic Fike, CORTIS, NCT 127, and many more!
 
-22,872 songs - 52 day 16 hr 24 min
+22,875 songs - 52 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/track/2Jis7HJrGnlRdW1whjEZwv) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/album/7DitYwaNCH5O4BeaqdtVvK) | 4:18 | 2025-05-15 | 2025-05-23 |
 | [Aku Berdiri](https://open.spotify.com/track/2KUYI63quKX1rj33FkogWJ) | [Shatirah Amanda](https://open.spotify.com/artist/69ARIasVk4Kn7xFx6Sxjlm) | [Aku Berdiri](https://open.spotify.com/album/7Jb1FVfpoQRV12zW0sSiiK) | 3:42 | 2026-08-13 | 2026-08-21 |
 | [Aku Berjanji](https://open.spotify.com/track/5fEStjhTNiswuAm07GI8gP) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Berjanji](https://open.spotify.com/album/6qpazB579YlGDPHY9l0FKl) | 3:59 | 2025-09-11 | 2025-09-19 |
+| [Aku Berjanji](https://open.spotify.com/track/0v2DdUmdjv6Qi8yiRzYq2Q) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Aku Berjanji](https://open.spotify.com/album/4zBMIllu4btWzGF9g9nUEC) | 2:29 | 2026-08-28 |  |
 | [Aku Bilang Jangan](https://open.spotify.com/track/5GpKDnegcoD6KVQYeCZLMg) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3), [F4dli](https://open.spotify.com/artist/7rgcGnkoprdUMxbl7LSHfX) | [Aku Bilang Jangan](https://open.spotify.com/album/5Zj3FztbHWYo5FbhrKCcct) | 3:54 | 2025-03-27 | 2025-04-04 |
 | [Aku Bodoh](https://open.spotify.com/track/1qYaW3kfOO7LLmXYF3soBc) | [Gretchene Quirina](https://open.spotify.com/artist/3VnYhB6dvJbz0VhKRP6cUd) | [Aku Bodoh](https://open.spotify.com/album/0Mg3sPaEMPCvfZe6QLe4qS) | 4:07 | 2025-06-12 | 2025-06-20 |
 | [Aku Bukan Cinta](https://open.spotify.com/track/0f6tw17D4vdE3OOTx9ljMP) | [Pasya](https://open.spotify.com/artist/0xHF8ccnkV2nG9knKoeBCw) | [Aku Bukan Cinta](https://open.spotify.com/album/5BIBJkXCnNMPfJIKlja9mE) | 4:12 | 2025-10-09 | 2025-10-17 |
@@ -3944,6 +3945,7 @@
 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 | 2023-02-09 | 2023-02-17 |
 | [Curious Subject](https://open.spotify.com/track/7iXdPnb4EnRwaJiABTQXV4) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Curious Subject](https://open.spotify.com/album/5tBsx7LYJk6sj86XS2qAlV) | 3:53 | 2026-08-20 | 2026-08-28 |
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-04 | 2023-05-12 |
+| [cuss me out \(feat\. MILLI\)](https://open.spotify.com/track/22hMdsDruS3DpVT5e0B6xT) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [cuss me out \(feat\. MILLI\)](https://open.spotify.com/album/0X8EMEamt0ZqF3J5YYHPF7) | 2:00 | 2026-08-28 |  |
 | [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 | 2023-07-27 | 2023-08-04 |
 | [Cut It Close](https://open.spotify.com/track/4zEneJPCbdxJpGXCxMSSTY) | [dolltr!ck](https://open.spotify.com/artist/1aqhiunipMdTly6kvb6w8p) | [Cut It Close](https://open.spotify.com/album/7C23c3CmSn81KfyNxjjCGH) | 3:12 | 2025-08-28 | 2025-09-05 |
 | [cut my hair](https://open.spotify.com/track/1LvKb6g1uI6X6GFbrw1JOz) | [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF), [Mellow Blush](https://open.spotify.com/artist/41kB8xHvAQWKVmmP201cU7) | [cut my hair](https://open.spotify.com/album/27i2QbuvK54N2IhY9VhmoT) | 2:53 | 2022-12-29 | 2023-01-06 |
@@ -11837,6 +11839,7 @@
 | [Meteor \(ft\. XTIE\)](https://open.spotify.com/track/6gVWfhKoyqo6og7at367jo) | [Kepatime](https://open.spotify.com/artist/3iy22x5OmyJo3fR8C830u4), [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Meteor \(ft\. XTIE\)](https://open.spotify.com/album/0mJh1ggPbCmtI7FdiH3RXT) | 3:44 | 2022-08-11 | 2022-08-19 |
 | [Meteor Shower](https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [I Dig You](https://open.spotify.com/album/118ouAtcHqDD7t7YV2hD1O) | 3:03 | 2024-10-24 | 2024-11-01 |
 | [Meteorite](https://open.spotify.com/track/3kmOZJmFIvCybmVxtSwYvc) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/3w7gYk3QckX0kMWMdydcs8) | 3:14 | 2022-05-12 | 2022-05-20 |
+| [MethKiller](https://open.spotify.com/track/0X1AyW8NyYr8NPHeKJMABm) | [2LANG](https://open.spotify.com/artist/6N6H3kcejY3jsECUgkxAvr) | [MethKiller](https://open.spotify.com/album/1bgy2cnnAHVmtkCwSHCk4p) | 3:18 | 2026-08-27 |  |
 | [Method](https://open.spotify.com/track/7c3GBmtajxIslZjQHX0KX7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Method](https://open.spotify.com/album/4aUsq3mLnh2IBx9lfkmtW2) | 3:09 | 2025-07-17 | 2025-07-25 |
 | [Metronome](https://open.spotify.com/track/507cUSXS7nznC8SUeXLhGo) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [ACT I: Moth](https://open.spotify.com/album/3lRsl8uycOZduaI6TOSmr9) | 3:17 | 2026-05-28 | 2026-06-05 |
 | [METRONOME](https://open.spotify.com/track/0lcaaS20sIJaLeVsAyAiKf) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SET THE TEMPO](https://open.spotify.com/album/4s5mNvXC1yAcVUibN83EnB) | 2:59 | 2026-06-11 | 2026-06-19 |

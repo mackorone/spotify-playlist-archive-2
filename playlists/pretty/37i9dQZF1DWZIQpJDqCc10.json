@@ -1,12 +1,12 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 777215,
+  "num_followers": 777300,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH4zxtkP1ivvbsXEMytE3aREKvD1",
+  "snapshot_id": "AAAAABSx7eGaAmZVkUSPmiDkmloXO7G0",
   "tracks": [
     {
       "added_at": "2026-02-19 14:58:26",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 239295,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 220812,
       "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/057cY2PiXWen7J3Msiv7YE"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 239295,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Colour It In",
-        "url": "https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s"
-      },
-      "artists": [
-        {
-          "name": "The Maccabees",
-          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
-        }
-      ],
-      "duration_ms": 159320,
-      "name": "Toothpaste Kisses",
-      "url": "https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Colour It In",
+        "url": "https://open.spotify.com/album/2DOUNqHqIBKPmDIioJx53s"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "duration_ms": 159320,
+      "name": "Toothpaste Kisses",
+      "url": "https://open.spotify.com/track/4BAWCedKFfdwxPFmFv4DMG"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "God Bless Sweden",
-        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 247773,
-      "name": "Yup",
-      "url": "https://open.spotify.com/track/5IK86W7G71t6VMuY65smBG"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Every Shade of Blue",
         "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 132631,
       "name": "Everybody Wants to Love You",
       "url": "https://open.spotify.com/track/21iSFtrC2VHP3PfImVTglV"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "God Bless Sweden",
+        "url": "https://open.spotify.com/album/58fHScs4YWTociyx6ekWff"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "Yup",
+      "url": "https://open.spotify.com/track/5IK86W7G71t6VMuY65smBG"
     },
     {
       "added_at": "2026-02-19 14:58:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:1uxnTi8P8PZFq0gmDGdjUa">Notalka xP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,699 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,720 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [Ранок](https://open.spotify.com/track/0iPbnBBXnXbcqw542maTUn) | [Max Paragraph](https://open.spotify.com/artist/4C9jXTOhCkwYVDqiBChvSA) | [Ранок](https://open.spotify.com/album/0Sl5JvrgqTqzyQbzbWaqui) | 3:02 |
 | 50 | [Час](https://open.spotify.com/track/2OK9NOsBb4G83uIxgz8pAa) | [U2U](https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2) | [Час](https://open.spotify.com/album/4lh8Avzn4gljoAHcxiSSLM) | 3:35 |
 
-Snapshot ID: `AAAAAG6HhZJUkmKCedHb4+b03Xvui9ro`
+Snapshot ID: `AAAAANW6NTxJmNeZlRr7p/O43H8V/1UX`

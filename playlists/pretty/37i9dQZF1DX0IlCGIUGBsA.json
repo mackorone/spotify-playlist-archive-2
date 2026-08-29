@@ -1,12 +1,12 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 917974,
+  "num_followers": 917991,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB3yyW6pz2/tI3gGhgX8aoj+bxC3",
+  "snapshot_id": "AAAAAKq/v8xjPWjnjpw7fS9V83e6GfoJ",
   "tracks": [
     {
       "added_at": "2024-07-12 09:33:21",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
+        "name": "Hot Chocolate",
+        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "You Sexy Thing",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 234653,
       "name": "California Gurls",
       "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
-        "name": "Hot Chocolate",
-        "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "You Sexy Thing",
-      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Love. Angel. Music. Baby.",
         "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 199853,
       "name": "Hollaback Girl",
       "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -757,7 +757,7 @@
         }
       ],
       "duration_ms": 216453,
-      "name": "I Believe in a Thing Called Love",
+      "name": "I Believe In A Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
         "name": "The Essential Daryl Hall & John Oates",
         "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1195,22 +1211,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2024-07-12 09:33:21",

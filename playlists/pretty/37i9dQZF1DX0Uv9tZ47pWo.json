@@ -1,12 +1,12 @@
 {
   "description": "It's all about the girls tonight.",
-  "num_followers": 2644260,
+  "num_followers": 2644186,
   "original_name": "Girls' Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIE2KmYUU45XOCC1X1xA8uXBwUoU",
+  "snapshot_id": "AAAAAAtAp8tJAfIkWyU2mdKLi2mLX6+2",
   "tracks": [
     {
       "added_at": "2024-05-02 22:00:00",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 166749,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1199,6 +1199,42 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
+        "name": "Dancing With A Stranger (with Normani)",
+        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 171029,
+      "name": "Dancing With A Stranger (with Normani)",
+      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -1231,38 +1267,22 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
       "artists": [
         {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "Dancing With A Stranger (with Normani)",
-        "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 171029,
-      "name": "Dancing With A Stranger (with Normani)",
-      "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1287,26 +1307,6 @@
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "I Don't Care (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran & Justin Bieber",
-          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2024-05-02 22:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-05-02 22:00:00",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/3DxR2xJJfAGJlbArx7wAgm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/5A1FmxbYVRZKy4nc16MAue"
-    },
-    {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 198946,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0YammaEkYSeo9vQYZ1OwS6"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/3DxR2xJJfAGJlbArx7wAgm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/5A1FmxbYVRZKy4nc16MAue"
     },
     {
       "added_at": "2024-05-02 22:00:00",

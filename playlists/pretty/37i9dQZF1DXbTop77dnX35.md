@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Seyi Vibez, Zinoleesky, Blaqbonez, Olivia Rodrigo, Phyno, Kashcoming, Ice Spice, Ciara and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,822 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,510 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BACK 2 U](https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [BACK 2 U](https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C) | 2:42 |
-| 2 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 |
+| 2 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 3 | [Dantata](https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Dantata](https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn) | 2:51 |
 | 4 | [Water](https://open.spotify.com/track/6F1GI9y8H0TBmdDFH458wp) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [All Hail Muyeez](https://open.spotify.com/album/050lle0DRA4195Robnvk2l) | 2:33 |
 | 5 | [Chaser](https://open.spotify.com/track/47OEfIUDijuWI5mnV4U20H) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Chaser](https://open.spotify.com/album/39nOK6AHQW2nv0WE76xUWx) | 2:28 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 54 | [SLEEP](https://open.spotify.com/track/0eXJqGwphplL1PYYVMIMGj) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SLEEP](https://open.spotify.com/album/62VWUx1DkN9FBe4WGKBiOG) | 2:31 |
 | 55 | [TAKE A TRIP \(With Bricknasty & Khakikid\)](https://open.spotify.com/track/4TvXF0n2kmBDA4rFACcxFq) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [TAKE A TRIP \(With Bricknasty & Khakikid\)](https://open.spotify.com/album/5Zwiw4sOub6RrXfAoxPz0p) | 4:00 |
 
-Snapshot ID: `AAAAAOcbQHDU6+cfZp8Eg7UW06rLFA/3`
+Snapshot ID: `AAAAANiJaRlRfManF+LQwWqZqhT7pNKf`

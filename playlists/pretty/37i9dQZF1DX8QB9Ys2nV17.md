@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,517 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,540 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 2 | [Train](https://open.spotify.com/track/2OSgMSxdu1OgPWZmjSICtt) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Train](https://open.spotify.com/album/30441czI78xULystFpO9p5) | 3:52 |
 | 3 | [Good Love Had To Die](https://open.spotify.com/track/3waUNDqqEcv8GFLr6w3YNz) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Out Of The Dark](https://open.spotify.com/album/00EueLV9XQ46OWV5EnOPlt) | 3:35 |
 | 4 | [Blues Is My Best Friend](https://open.spotify.com/track/7mojGTeQExwHDVLPAecQVJ) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM) | [Real Gone](https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6) | 3:39 |
-| 5 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
-| 6 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
+| 5 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 |
+| 6 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 |
 | 7 | [Fire](https://open.spotify.com/track/70VSFe3tTnCLpue9StG69U) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fire](https://open.spotify.com/album/2RisnGnqdl2KmkWlskYfdt) | 3:48 |
 | 8 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
 | 9 | [Faster](https://open.spotify.com/track/2s3x313mhoMD0Twgg9unRx) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Faster](https://open.spotify.com/album/5UPzWIvVARqfzRn964aiah) | 2:55 |
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 11 | [I'm A Woman](https://open.spotify.com/track/0HPazJXESVCimRyMggplg5) | [Deborah Coleman](https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny) | [Soft Place To Fall](https://open.spotify.com/album/7MDS3NXJ5thAHZkUcALtDN) | 4:51 |
 | 12 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
 | 13 | [Drag Me Back In](https://open.spotify.com/track/1NBT9s0MCm99zja0rfoUpd) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [State of Mind](https://open.spotify.com/album/5VbKTiwTdqTSRsHGlY8lyO) | 2:44 |
-| 14 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 |
+| 14 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 |
 | 15 | [Fish Outta Water](https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y) | [Karen Lovely](https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5) | [Fish Outta Water](https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg) | 3:50 |
-| 16 | [It Ain't Easy](https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp) | [Muddy Magnolias](https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X) | [Broken People](https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr) | 4:11 |
-| 17 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
+| 16 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 |
+| 17 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 |
 | 18 | [Sweet 'Lil Lies](https://open.spotify.com/track/4nhOHTX4tKPt0qLAjwPkz8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Heavy Soul](https://open.spotify.com/album/5aB8PFHLBHOLWfrSGGGIjF) | 5:17 |
 | 19 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
 | 20 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 69 | [Life Of The Party](https://open.spotify.com/track/6wILqRslB1r6SWtEj4senP) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/5wSnSMk4dLaP00nRpIZrfp) | 3:51 |
 | 70 | [They Never Pay Me](https://open.spotify.com/track/4I7exgZnKPQeLgzRAsx77r) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/2rc0kuRCruGFP5osvkZp2S) | 3:33 |
 
-Snapshot ID: `AAAAAOrSjFufgFsySBI/5mOC016uMp0u`
+Snapshot ID: `AAAAADl3qYcgxLAMPdTcOM3L/pEoONJu`

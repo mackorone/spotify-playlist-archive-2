@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. La Tremenda Korte en portada.",
-  "num_followers": 491047,
+  "num_followers": 491103,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMWBCOJqpPC0JG/uoDuHSy0r+cO6",
+  "snapshot_id": "AAAAAL7xEhm4Wd1blYgmfchIm1lrtGpj",
   "tracks": [
     {
       "added_at": "2026-08-21 04:39:10",
@@ -499,26 +499,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "L\u00e1grimas y Risas",
-        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
-        {
-          "name": "Madame R\u00e9camier",
-          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Ciegos de Amor",
-      "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "No Me Sueltes (Es Posible) [Vivo en Obras]",
         "url": "https://open.spotify.com/album/6Sp7E0J8ZZLj3YIGx87RGj"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 234210,
       "name": "No Me Sueltes (Es Posible) - Vivo en Obras",
       "url": "https://open.spotify.com/track/7sfTqUdh0uhBHpvZYF4QcD"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "L\u00e1grimas y Risas",
+        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "Madame R\u00e9camier",
+          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "Ciegos de Amor",
+      "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Fuegos del barrio",
-        "url": "https://open.spotify.com/album/4Xq4HVyPAewLj2LnKAY0WB"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        },
-        {
-          "name": "Eskorzo",
-          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
-        }
-      ],
-      "duration_ms": 218623,
-      "name": "Impura",
-      "url": "https://open.spotify.com/track/6nzYm2iQKGrui6A1k5GVok"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Fuegos del barrio",
+        "url": "https://open.spotify.com/album/4Xq4HVyPAewLj2LnKAY0WB"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        },
+        {
+          "name": "Eskorzo",
+          "url": "https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8"
+        }
+      ],
+      "duration_ms": 218623,
+      "name": "Impura",
+      "url": "https://open.spotify.com/track/6nzYm2iQKGrui6A1k5GVok"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Combativo",
-        "url": "https://open.spotify.com/album/5AoXmqZUAQM1ahgEmSlt3b"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 194315,
-      "name": "Combativo",
-      "url": "https://open.spotify.com/track/4M35ty1GY7heFrHhgMqXzP"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Combativo",
+        "url": "https://open.spotify.com/album/5AoXmqZUAQM1ahgEmSlt3b"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 194315,
+      "name": "Combativo",
+      "url": "https://open.spotify.com/track/4M35ty1GY7heFrHhgMqXzP"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "Nunca Nos Compusimos",
         "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 230573,
       "name": "Envenenen a Mis Labios",
       "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
+        "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "duration_ms": 214081,
+      "name": "La Ultima Carta - The Romaphonic Session",
+      "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1155,22 +1171,6 @@
       "duration_ms": 158000,
       "name": "Sentimental",
       "url": "https://open.spotify.com/track/6UGW4PkoGy1nW4rzrzlwbp"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
-        "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 214081,
-      "name": "La Ultima Carta - The Romaphonic Session",
-      "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Supersonico",
+        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Qu\u00e9 Vas a Hacer Conmigo",
+      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "No Te Apartes de M\u00ed",
         "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 197659,
       "name": "No Te Apartes de M\u00ed",
       "url": "https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Supersonico",
-        "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Qu\u00e9 Vas a Hacer Conmigo",
-      "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "VOY DE NUEVO",
-        "url": "https://open.spotify.com/album/5PZ6IrrJSrF1u1DtjX49O8"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 158122,
-      "name": "VOY DE NUEVO",
-      "url": "https://open.spotify.com/track/3cfXsdfx4P5qDZMUn5euy0"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Aqu\u00ed Estamos",
         "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 183771,
       "name": "Aqu\u00ed Estamos",
       "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "VOY DE NUEVO",
+        "url": "https://open.spotify.com/album/5PZ6IrrJSrF1u1DtjX49O8"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 158122,
+      "name": "VOY DE NUEVO",
+      "url": "https://open.spotify.com/track/3cfXsdfx4P5qDZMUn5euy0"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/0n7xEqwDiExRMpa0fcDNZY"
-      },
-      "artists": [
-        {
-          "name": "Gallo Rojo",
-          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
-        }
-      ],
-      "duration_ms": 182685,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/59WXiEW01y6F99VhmLfodS"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "El Mosquito",
         "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
       },
@@ -1459,34 +1443,18 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Todo Lo Que Sube",
-        "url": "https://open.spotify.com/album/6IbyN4aEkhnapmICyDajvl"
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0n7xEqwDiExRMpa0fcDNZY"
       },
       "artists": [
         {
-          "name": "LaNuestra",
-          "url": "https://open.spotify.com/artist/5BwGhYFDQSAfXkSSFGAPkC"
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Todo Lo Que Sube",
-      "url": "https://open.spotify.com/track/26hHZPHrNp12BTrq430u78"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Voy a curarme de ti",
-        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 253285,
-      "name": "Voy a curarme de ti",
-      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
+      "duration_ms": 182685,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/59WXiEW01y6F99VhmLfodS"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1507,6 +1475,22 @@
       "duration_ms": 213602,
       "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
       "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Todo Lo Que Sube",
+        "url": "https://open.spotify.com/album/6IbyN4aEkhnapmICyDajvl"
+      },
+      "artists": [
+        {
+          "name": "LaNuestra",
+          "url": "https://open.spotify.com/artist/5BwGhYFDQSAfXkSSFGAPkC"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Todo Lo Que Sube",
+      "url": "https://open.spotify.com/track/26hHZPHrNp12BTrq430u78"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1543,6 +1527,22 @@
       "duration_ms": 192949,
       "name": "No Eres Para Mi",
       "url": "https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Voy a curarme de ti",
+        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 253285,
+      "name": "Voy a curarme de ti",
+      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Inflammable",
         "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2026-08-21 04:39:10",

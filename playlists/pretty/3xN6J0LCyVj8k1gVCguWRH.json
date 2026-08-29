@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 143249,
+  "num_followers": 143275,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA+TlVpbOJHxfZFldDkLexGHLXc//cp",
+  "snapshot_id": "AAA+XcuXextOAPTEJIc/S5bNlwoI3mvE",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -93,6 +93,22 @@
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
     },
     {
+      "added_at": "2026-08-29 00:01:34",
+      "album": {
+        "name": "Crash The Ferrari",
+        "url": "https://open.spotify.com/album/5iFbueGj8soSoz5MvLxqyZ"
+      },
+      "artists": [
+        {
+          "name": "Griffin McIntyre",
+          "url": "https://open.spotify.com/artist/20nbUk6jHIphOYf6Qoj7fK"
+        }
+      ],
+      "duration_ms": 145411,
+      "name": "Crash The Ferrari",
+      "url": "https://open.spotify.com/track/6Y0TQxVIspKXRe1zqHJ5ts"
+    },
+    {
       "added_at": "2026-07-30 16:32:39",
       "album": {
         "name": "Gratitude",
@@ -107,6 +123,42 @@
       "duration_ms": 249983,
       "name": "Can't Hide Love",
       "url": "https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz"
+    },
+    {
+      "added_at": "2026-08-29 06:01:41",
+      "album": {
+        "name": "Dating App Introvert",
+        "url": "https://open.spotify.com/album/25SzlpKcEovWhujv0btOR4"
+      },
+      "artists": [
+        {
+          "name": "IntraVknows",
+          "url": "https://open.spotify.com/artist/0CUm8oyD2dE0kjhJUD2dGE"
+        },
+        {
+          "name": "Xtina Louise",
+          "url": "https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN"
+        }
+      ],
+      "duration_ms": 222208,
+      "name": "Dating App Introvert",
+      "url": "https://open.spotify.com/track/5LHk2K0u7BFMGlGjFRNVPI"
+    },
+    {
+      "added_at": "2026-08-29 00:01:39",
+      "album": {
+        "name": "VEGAS (What Goes On)",
+        "url": "https://open.spotify.com/album/45ERTytupjwF0kt8T2peIA"
+      },
+      "artists": [
+        {
+          "name": "Chantae Vetrice",
+          "url": "https://open.spotify.com/artist/0oLhUZmnf5X9ZFeVvkiuTg"
+        }
+      ],
+      "duration_ms": 141346,
+      "name": "VEGAS (What Goes On)",
+      "url": "https://open.spotify.com/track/0YAGosEIjMO1bg4AUbkY19"
     },
     {
       "added_at": "2026-07-30 16:33:03",
@@ -1089,6 +1141,70 @@
       "url": "https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF"
     },
     {
+      "added_at": "2026-08-28 23:25:41",
+      "album": {
+        "name": "Dificil (vamohaceloREAL)",
+        "url": "https://open.spotify.com/album/7qbnb28tThFadwHmwibMeP"
+      },
+      "artists": [
+        {
+          "name": "Vittoria",
+          "url": "https://open.spotify.com/artist/1zWiFiamSjsHKtjPirWHIw"
+        }
+      ],
+      "duration_ms": 175955,
+      "name": "Dificil (vamohaceloREAL)",
+      "url": "https://open.spotify.com/track/1LLBH7Qulq0KTendwZVQKP"
+    },
+    {
+      "added_at": "2026-08-28 12:57:40",
+      "album": {
+        "name": "Bug Bites",
+        "url": "https://open.spotify.com/album/2RaWNqLryzFbiEuxlNtATg"
+      },
+      "artists": [
+        {
+          "name": "Molly Bogin",
+          "url": "https://open.spotify.com/artist/2rncvbp37DOzoTdYQc2Qrq"
+        }
+      ],
+      "duration_ms": 202654,
+      "name": "Bug Bites",
+      "url": "https://open.spotify.com/track/1FWByo6TcEPkagOXatACZx"
+    },
+    {
+      "added_at": "2026-08-28 12:52:27",
+      "album": {
+        "name": "\"Tell Me of Love!\"",
+        "url": "https://open.spotify.com/album/0IwaPeZeRMSlBVzb4vdEaR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 235249,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/6QRy4zkZvESMSegT9Ju8LK"
+    },
+    {
+      "added_at": "2026-08-28 13:03:20",
+      "album": {
+        "name": "ACROPHOBIA",
+        "url": "https://open.spotify.com/album/3gfCj7OO3uBegFQWp9zyN7"
+      },
+      "artists": [
+        {
+          "name": "Apollo Jones",
+          "url": "https://open.spotify.com/artist/13nrnIrN6BflZhjdtoeA1c"
+        }
+      ],
+      "duration_ms": 190963,
+      "name": "ACROPHOBIA",
+      "url": "https://open.spotify.com/track/2mC8CEHamA8RCSQVHDbdTf"
+    },
+    {
       "added_at": "2026-08-24 15:19:33",
       "album": {
         "name": "gabby",
@@ -1243,6 +1359,38 @@
       "duration_ms": 204625,
       "name": "Another Taste",
       "url": "https://open.spotify.com/track/36C1CQ5EY0Eyo9A9houJtw"
+    },
+    {
+      "added_at": "2026-08-28 19:13:33",
+      "album": {
+        "name": "Abrazarte de nuevo",
+        "url": "https://open.spotify.com/album/2gYcwOCzzKLcJ9pGbVwwJ0"
+      },
+      "artists": [
+        {
+          "name": "Fer Cortez",
+          "url": "https://open.spotify.com/artist/4HDEsdczncsxewxZtIFLCp"
+        }
+      ],
+      "duration_ms": 171949,
+      "name": "Abrazarte de nuevo",
+      "url": "https://open.spotify.com/track/7bqPqPlkGC4k2h6S0ZSFle"
+    },
+    {
+      "added_at": "2026-08-28 15:42:24",
+      "album": {
+        "name": "High Class",
+        "url": "https://open.spotify.com/album/2VHqMjadJtEg5AtoaO7Ce9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "duration_ms": 178406,
+      "name": "High Class",
+      "url": "https://open.spotify.com/track/7jtbY0qAVZKzeOvTUKxFHs"
     },
     {
       "added_at": "2026-08-13 13:15:12",
@@ -3367,38 +3515,6 @@
       "duration_ms": 204643,
       "name": "Needed U - Radio Edit",
       "url": "https://open.spotify.com/track/2LeRyUtliUB6myxbG8EOYJ"
-    },
-    {
-      "added_at": "2026-08-17 12:02:16",
-      "album": {
-        "name": "BBB",
-        "url": "https://open.spotify.com/album/797Eser7orhivYjvA676HM"
-      },
-      "artists": [
-        {
-          "name": "Kin$uyi",
-          "url": "https://open.spotify.com/artist/150TIAI0Wnu0LGaN3ECtqk"
-        }
-      ],
-      "duration_ms": 144571,
-      "name": "BBB",
-      "url": "https://open.spotify.com/track/6DvrxUekTfPtZDRBWkerNI"
-    },
-    {
-      "added_at": "2026-08-17 12:02:22",
-      "album": {
-        "name": "No Era El Plan",
-        "url": "https://open.spotify.com/album/577TEkqeYU0F3iqerqpq45"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Pagan",
-          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
-        }
-      ],
-      "duration_ms": 229755,
-      "name": "No Era El Plan",
-      "url": "https://open.spotify.com/track/5LDqBgLOxIslR3T1LcDuE3"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

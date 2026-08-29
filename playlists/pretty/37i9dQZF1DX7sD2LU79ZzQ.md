@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Lafa Pratomo, Nadhif Basalamah, Hursa
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,460 likes - 111 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,502 likes - 111 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 110 | [bentar lagi sayang](https://open.spotify.com/track/1013IA4NqScgO66QFJEYBO) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [bentar lagi sayang](https://open.spotify.com/album/1SPHzIB37eDCSpgOYozOwQ) | 3:17 |
 | 111 | [Yang Kutuju](https://open.spotify.com/track/2s2VOfkiAKqVdMIJJIGhFS) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sementara, Selamanya](https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD) | 3:34 |
 
-Snapshot ID: `AAAAAMvA6FgPxQryrt7Hrf4b+/y4GbeK`
+Snapshot ID: `AAAAAKEKac/Tiw0bjM8yfnRhz/qSpD9d`

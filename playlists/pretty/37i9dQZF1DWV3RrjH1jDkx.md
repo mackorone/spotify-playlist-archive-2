@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Alex Warren, ULD & No\. 4, Kacper og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,955 likes - 103 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,019 likes - 103 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 102 | [Ain't Nobody Like Me](https://open.spotify.com/track/78z0t0jcbGB246iwVyttCs) | [Seibold](https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR), [Anna Graceman](https://open.spotify.com/artist/2B69uGl0nh5LMFUAZxVw5y) | [Ain't Nobody Like Me](https://open.spotify.com/album/5UcwMkKmZ9SoDHX6TB5p40) | 2:34 |
 | 103 | [United](https://open.spotify.com/track/2ho1ht3z13zIMIkjkd3t9D) | [Sonny](https://open.spotify.com/artist/1VjCBOU41mHsqh6cH3VeIJ), [Aleksander Walmann](https://open.spotify.com/artist/13eBZgrtCxy13v68lYjcMm) | [United](https://open.spotify.com/album/3WxIYJ2KOPzdXCThTUq67T) | 2:45 |
 
-Snapshot ID: `AAAAAMkmj17uhzFzEOkgM1PC4SYctpT8`
+Snapshot ID: `AAAAALEfGtX4WOoE7dZdq6ZUhmWbbMEF`

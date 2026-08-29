@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat del funk de Brasil para el mundo\. Cover: Zé Pequeña & 143Leti
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,026 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,029 likes - 75 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 11 | [CÓMO CHILLA ELLA](https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:14 |
 | 12 | [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 |
 | 13 | [3some](https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [3some](https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K) | 2:42 |
-| 14 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
+| 14 | [Tacata \- Remix](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 15 | [Modo de Ataque](https://open.spotify.com/track/0XZ5pDF0GTBiW3S7awE7xQ) | [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [Reggaeton Sessions](https://open.spotify.com/album/2ifAfB4fMgnOrwf1gKbdfg) | 2:00 |
 | 16 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |
 | 17 | [Cerca](https://open.spotify.com/track/54n24ZOfCpsN4gm9WUHIVa) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Tiano](https://open.spotify.com/artist/1rAJwyGY6mSbV4U83L590D) | [Cerca](https://open.spotify.com/album/2oypeO6ZLvcVfypW3PYQLv) | 2:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 74 | [fubu](https://open.spotify.com/track/3LpyDAykemTWbEsMjAmUiP) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [soñao](https://open.spotify.com/album/7nkINR7SWqxSculURy8KNX) | 2:33 |
 | 75 | [DESCENDO E REBOLANDO](https://open.spotify.com/track/3pAITIfLPZ2QJJJhlzH3jO) | [mmedina](https://open.spotify.com/artist/4J5axD0Q4m933iNQbSrEQL), [17Beats](https://open.spotify.com/artist/3KVLe0uzCtCqJktfpCvLNZ) | [DESCENDO E REBOLANDO](https://open.spotify.com/album/7vFhdfy1URRddUhKHrW02G) | 2:36 |
 
-Snapshot ID: `AAAAAGMqU4CeFlRMsbFSjEuKjRLU6THc`
+Snapshot ID: `AAAAACt4rYZ/MkTh60N0RIuv2uq7t/PO`

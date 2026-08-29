@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: Blaqbonez
 
-451 songs - 23 hr 8 min
+451 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Best I Ever Had](https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Best I Ever Had](https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs) | 2:38 | 2021-10-14 | 2023-07-28 |
 | [Big Bricks II](https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu) | [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Big Bricks II](https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz) | 3:27 | 2026-04-20 |  |
 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 | 2022-06-09 | 2024-07-27 |
-| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 | 2026-08-28 |  |
+| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 | 2026-08-28 |  |
 | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 | 2024-11-15 | 2026-05-26 |
 | [Bigger \(feat\. Olamide & Nas\)](https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The Guy](https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u) | 3:22 | 2022-08-18 | 2024-07-27 |
 | [BITCH & MONEY](https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 3:15 | 2026-05-29 |  |

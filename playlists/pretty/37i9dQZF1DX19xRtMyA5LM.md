@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Jack, Mula en Bokoesam\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier de beste zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,918 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,902 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Regragui](https://open.spotify.com/track/5xN3cFZCNvhMpaS3iqraQX) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Rode Kaart](https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54) | 2:36 |
 | 60 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 
-Snapshot ID: `AAAAAMz8Gjqbu0aj387rRvj6PrfwoVnH`
+Snapshot ID: `AAAAAPVl3sPV0ugmNbPVEwYzI8As+L7t`

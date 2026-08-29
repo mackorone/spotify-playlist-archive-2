@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-823 songs - 1 day 15 hr 42 min
+824 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,7 @@
 | [Pressure](https://open.spotify.com/track/6sXhKl8JUaO9g8Q2O1kQtg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Pressure](https://open.spotify.com/album/4kPmfne7JilXehb88OknDC) | 2:16 | 2025-02-28 | 2025-04-05 |
 | [PRESSURE](https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [PRESSURE](https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4) | 2:16 | 2026-08-07 |  |
 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-05-23 |  |
-| [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 | 2025-11-07 |  |
+| [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 | 2025-11-07 | 2026-08-29 |
 | [Pretty Girl \(with Rema\)](https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Pretty Girl \(with Rema\)](https://open.spotify.com/album/4IjqbyZZsfaNHnxV92CFuH) | 2:17 | 2023-10-13 | 2023-10-18 |
 | [Pretty Girls](https://open.spotify.com/track/4skvJoTBLEYUfS3Z1xvGjs) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Pretty Girls](https://open.spotify.com/album/2hab7riz6xmtgfvqxfnNLk) | 2:25 | 2024-03-22 | 2024-06-01 |
 | [Princess](https://open.spotify.com/track/5mxzoHipkwp4QJaKUA128x) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Princess](https://open.spotify.com/album/64zKcYay51UzGFLBgy92Xl) | 1:37 | 2025-01-14 | 2025-03-13 |
@@ -827,6 +827,7 @@
 | [Your Mind \(feat\. Dxtiny\)](https://open.spotify.com/track/6i4cjmyedezc4kgoaC3Y3S) | [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [Your Mind \(feat\. Dxtiny\)](https://open.spotify.com/album/1mnQuHYBzW9G9pKyevuFun) | 2:36 | 2025-07-25 | 2025-08-30 |
 | [Your Mind, You're Mine](https://open.spotify.com/track/7kLXpVUA53AiHFKhGqUjrx) | [Kami Leonne](https://open.spotify.com/artist/4a07x5R0svDGlzecliVGTW) | [Your Mind, You're Mine](https://open.spotify.com/album/69IJUiVKXN7Rq4ktnJQO4t) | 2:46 | 2023-09-09 | 2023-09-29 |
 | [Your Way](https://open.spotify.com/track/5WLQv9nYwTjnSOsSLCLp4p) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Your Way](https://open.spotify.com/album/3UvySzeiIjLKzXgBemMVt1) | 2:55 | 2026-03-13 | 2026-03-20 |
+| [YoYo](https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [YoYo](https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys) | 3:20 | 2026-08-28 |  |
 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 | 2024-02-09 | 2024-08-26 |
 | [ZERO](https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:45 | 2026-08-14 |  |
 | [Zion](https://open.spotify.com/track/00NCm17kFsopwWhGgr78Rn) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Zion](https://open.spotify.com/album/4FROhFm0W81XPKioDYDoFg) | 3:58 | 2026-05-19 | 2026-05-22 |

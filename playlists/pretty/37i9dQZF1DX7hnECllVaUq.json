@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Wade Forster",
-  "num_followers": 339926,
+  "num_followers": 340007,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMGEWshYz508BlSZjLPEK3GaVdXH",
+  "snapshot_id": "AAAAACb/PsTPdW8LOfPpmPT7MvcR/+uN",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:24",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-08-28 04:02:24",
       "album": {
-        "name": "Country Squire",
-        "url": "https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb"
+        "name": "Heading South",
+        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 218290,
-      "name": "All Your'n",
-      "url": "https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K"
+      "duration_ms": 171692,
+      "name": "Heading South",
+      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
     },
     {
       "added_at": "2026-08-28 04:02:24",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-08-28 04:02:24",
       "album": {
-        "name": "Heading South",
-        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
+        "name": "Country Squire",
+        "url": "https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 171692,
-      "name": "Heading South",
-      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
+      "duration_ms": 218290,
+      "name": "All Your'n",
+      "url": "https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K"
     },
     {
       "added_at": "2026-08-28 04:02:24",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-08-28 04:02:24",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+        "name": "Some Hearts",
+        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+      "duration_ms": 199939,
+      "name": "Before He Cheats",
+      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
       "added_at": "2026-08-28 04:02:24",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-08-28 04:02:24",
       "album": {
-        "name": "Some Hearts",
-        "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 199939,
-      "name": "Before He Cheats",
-      "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2026-08-28 04:02:24",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-08-28 04:02:24",
       "album": {
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 224853,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+    },
+    {
+      "added_at": "2026-08-28 04:02:24",
+      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6StwwqB84sJeLr7tZDTxEX"
-    },
-    {
-      "added_at": "2026-08-28 04:02:24",
-      "album": {
-        "name": "Brett Young",
-        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 224853,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
     },
     {
       "added_at": "2026-08-28 04:02:24",

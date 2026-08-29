@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Clave de Oro de Christian Rojas  \ud83d\udcf8",
-  "num_followers": 1296639,
+  "num_followers": 1296624,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6bV4xyylFBMyrxAsmA1I32fROf",
+  "snapshot_id": "AAAAAGfKreCQgoCBBkCze2f3sDxZ1drf",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:22",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Mayo 2026 (En Vivo)",
-        "url": "https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona del Rey",
-          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
-        }
-      ],
-      "duration_ms": 136086,
-      "name": "La Mas Bonita De Todas - En Vivo",
-      "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Del Cielo Nada Cae",
         "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 114181,
       "name": "Del Cielo Nada Cae",
       "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Mayo 2026 (En Vivo)",
+        "url": "https://open.spotify.com/album/6jsKO7bJmjTcChdM8S8bwt"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "duration_ms": 136086,
+      "name": "La Mas Bonita De Todas - En Vivo",
+      "url": "https://open.spotify.com/track/6IGSZKQpHRkpXsIHsvhY6Z"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
+        "name": "Solo Yo y Mi Almohada",
+        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "duration_ms": 215609,
+      "name": "Solo Yo y Mi Almohada",
+      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
         "name": "Me Las Dijo El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
       },
@@ -747,26 +763,6 @@
       "duration_ms": 175872,
       "name": "Se Cancela",
       "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "Si Por Casualidad",
-        "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
-      },
-      "artists": [
-        {
-          "name": "Banda Tradicion Sinaloense",
-          "url": "https://open.spotify.com/artist/54FjAqCo2f6s9k9oUvtAC8"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 156990,
-      "name": "Si Por Casualidad",
-      "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -807,18 +803,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Solo Yo y Mi Almohada",
-        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
+        "name": "Si Por Casualidad",
+        "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
       },
       "artists": [
         {
-          "name": "Banda Todo Terreno",
-          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+          "name": "Banda Tradicion Sinaloense",
+          "url": "https://open.spotify.com/artist/54FjAqCo2f6s9k9oUvtAC8"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
         }
       ],
-      "duration_ms": 215609,
-      "name": "Solo Yo y Mi Almohada",
-      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
+      "duration_ms": 156990,
+      "name": "Si Por Casualidad",
+      "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Mujeres Livianas",
-        "url": "https://open.spotify.com/album/4RCDJkYqQZqpth1PQh0iBd"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "A La Luz Del Dia",
-      "url": "https://open.spotify.com/track/0GCbv2fYRTV4eCtNswjD8f"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0FcQ8qNCjTOba9EVl2mANA"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 213250,
       "name": "Vete",
       "url": "https://open.spotify.com/track/7mt1OIVVExwWPg3SBBmef4"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Mujeres Livianas",
+        "url": "https://open.spotify.com/album/4RCDJkYqQZqpth1PQh0iBd"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "A La Luz Del Dia",
+      "url": "https://open.spotify.com/track/0GCbv2fYRTV4eCtNswjD8f"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Lo Pasado Pisado",
-        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Lo Pasado Pisado",
-      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Tu Ex Amigo",
         "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 162911,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Lo Pasado Pisado",
+        "url": "https://open.spotify.com/album/2bWKVxM0V9o4XvTKCfK9ei"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Lo Pasado Pisado",
+      "url": "https://open.spotify.com/track/1AAVFhZxgvJBZVLCMntz77"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Vale M\u00e1s Que Reces",
-        "url": "https://open.spotify.com/album/4jqFvYmcnZ3uhmDsd9HxXb"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        }
-      ],
-      "duration_ms": 187434,
-      "name": "Vale M\u00e1s Que Reces",
-      "url": "https://open.spotify.com/track/03Svr4GkEGdHeB8wTRg8w8"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 182376,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/2T1p0jWBnn7BL3jPqykxNB"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Vale M\u00e1s Que Reces",
+        "url": "https://open.spotify.com/album/4jqFvYmcnZ3uhmDsd9HxXb"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        }
+      ],
+      "duration_ms": 187434,
+      "name": "Vale M\u00e1s Que Reces",
+      "url": "https://open.spotify.com/track/03Svr4GkEGdHeB8wTRg8w8"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
+        "name": "Finales Tristes",
+        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 188971,
+      "name": "Finales Tristes",
+      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 141688,
       "name": "Nunca Voy A Olvidarte",
       "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "Finales Tristes",
-        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 188971,
-      "name": "Finales Tristes",
-      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
-        "name": "Contigo Aprend\u00ed a Amar",
-        "url": "https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX"
-      },
-      "artists": [
-        {
-          "name": "Banda El Terre De Jerez",
-          "url": "https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1"
-        }
-      ],
-      "duration_ms": 267401,
-      "name": "Contigo Aprend\u00ed a Amar",
-      "url": "https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
         "name": "Se Me Sali\u00f3 Una Lagrimita",
         "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 165329,
       "name": "Se Me Sali\u00f3 Una Lagrimita",
       "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
+        "name": "Contigo Aprend\u00ed a Amar",
+        "url": "https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX"
+      },
+      "artists": [
+        {
+          "name": "Banda El Terre De Jerez",
+          "url": "https://open.spotify.com/artist/2zop35FJ6EO4BO4fUzaBx1"
+        }
+      ],
+      "duration_ms": 267401,
+      "name": "Contigo Aprend\u00ed a Amar",
+      "url": "https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB"
     },
     {
       "added_at": "2026-08-28 04:02:22",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-08-28 04:02:22",
       "album": {
+        "name": "Alergico Al Amor",
+        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 190767,
+      "name": "Alergico Al Amor",
+      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
+    },
+    {
+      "added_at": "2026-08-28 04:02:22",
+      "album": {
         "name": "Si No Me Querias",
         "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 340016,
       "name": "Medley \u201cEl Buki\u201d en Vivo -Mi Eterno Amor Secreto -Si No Te Hubieras Ido -Tu Carcel",
       "url": "https://open.spotify.com/track/627sSkkT9txWL0SB6CNdOr"
-    },
-    {
-      "added_at": "2026-08-28 04:02:22",
-      "album": {
-        "name": "Alergico Al Amor",
-        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
-        }
-      ],
-      "duration_ms": 190767,
-      "name": "Alergico Al Amor",
-      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
     },
     {
       "added_at": "2026-08-28 04:02:22",

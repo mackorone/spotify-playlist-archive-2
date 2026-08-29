@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 > zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,772 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,714 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 7 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 |
 | 8 | [TIK TAK](https://open.spotify.com/track/7bZ2QUWiP3upNEnIQc7AmZ) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [SARRA](https://open.spotify.com/artist/6rxAZckuZM4y6aKz9ZtaUv) | [TIK TAK](https://open.spotify.com/album/411hbuzY43HR3rIHE9EDYy) | 2:25 |
 | 9 | [Copines](https://open.spotify.com/track/65PsPkMG2QiFM8N5qnuv4B) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [NAKAMURA](https://open.spotify.com/album/1co4qjh6yQGXUnVM52yEYb) | 2:51 |
-| 10 | [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/770KUfsvpJLcWqFv96JgM6), [Anderson](https://open.spotify.com/artist/1WrqscQTSOcBLyjIv5Qz6H) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 |
+| 10 | [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP), [Anderson](https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 |
 | 11 | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs) | 2:14 |
 | 12 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
 | 13 | [Bailar \(feat\. Elvis Crespo\) \- Radio Edit](https://open.spotify.com/track/45sGyAtAxD6efaN0bJAFgh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Bailar \(feat\. Elvis Crespo\) \[Radio Edit\]](https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 74 | [Energy](https://open.spotify.com/track/5HEnfAa0K1ajHfz5zHw87u) | [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Energy](https://open.spotify.com/album/5ASW061ofFSrpEFrW0XhRJ) | 3:03 |
 | 75 | [ONE TRACK MIND \- PART II](https://open.spotify.com/track/6yMMKhmZVhko8t1Qb0aLp5) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [ONE TRACK MIND \(PART II\)](https://open.spotify.com/album/2hIZLwbRnxflIxCTEPzBUh) | 2:40 |
 
-Snapshot ID: `AAAAABCAakKM5RoZjmmPZs6uNYcc7xUK`
+Snapshot ID: `AAAAAAELlH/pI3czuk022D4qrgYxNcTG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,228 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,255 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 14 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 15 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 16 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
-| 17 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:05 |
-| 18 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 |
+| 17 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 |
+| 18 | [Time After Time](https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 4:05 |
 | 19 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 20 | [Tether](https://open.spotify.com/track/2JkuHrbhwPgUEgemB14StX) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Tether](https://open.spotify.com/album/5iRCN2qjX37tvNdGlBJ3Dk) | 4:11 |
 | 21 | [Marinade](https://open.spotify.com/track/2OFUamird9l49tMtwf8w3l) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6Eskc9vh8wniq95JXGFZ1V) | 3:57 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 59 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 |
 | 60 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
 | 61 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |
-| 62 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
-| 63 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
+| 62 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
+| 63 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 64 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 65 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 66 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 76 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 |
 | 77 | [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 |
 | 78 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 |
-| 79 | [Killing Time](https://open.spotify.com/track/4Vey6RaBSbEYvBJi5mpwEE) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Killing Time](https://open.spotify.com/album/1tupvkLDJoeUuiBf0VJsy7) | 3:32 |
-| 80 | [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 |
+| 79 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
+| 80 | [Killing Time](https://open.spotify.com/track/4Vey6RaBSbEYvBJi5mpwEE) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Killing Time](https://open.spotify.com/album/1tupvkLDJoeUuiBf0VJsy7) | 3:32 |
 
-Snapshot ID: `AAAAANVyqxDQmvgKO10olqjhCR3hzsBd`
+Snapshot ID: `AAAAAIdihM+PbLnWjVsq39FQROnXCj9u`

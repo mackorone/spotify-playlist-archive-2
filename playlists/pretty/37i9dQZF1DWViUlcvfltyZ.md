@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 irossa sui vostri schermi
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,299 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,302 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [Nerorgasmo](https://open.spotify.com/track/6BmajVWQNfk7ZB0cGJncpT) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Nerorgasmo](https://open.spotify.com/album/7w5fmnH00zbvBmbu1UZ6RB) | 2:56 |
 | 100 | [Gestire La Rabbia](https://open.spotify.com/track/6YD1QI9vBV6eWrX9lsEa4D) | [Grandi Raga](https://open.spotify.com/artist/5loTEXentPIJLRmZ06bzQr) | [Gestire La Rabbia](https://open.spotify.com/album/0fyey4mEyy7PgYntWdLhUT) | 3:45 |
 
-Snapshot ID: `AAAAALiiHbiyaolnG3Iu5v/0DBGaUzpU`
+Snapshot ID: `AAAAALI7/jDeGaBWr/jUYJLdiVBk2Ugd`

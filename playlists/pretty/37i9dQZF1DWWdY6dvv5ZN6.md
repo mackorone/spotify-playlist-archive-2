@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,592 likes - 160 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,597 likes - 160 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 159 | [Le Vent](https://open.spotify.com/track/0Bui6zdU4oRMI88Q68qMMc) | [Philippe Massé](https://open.spotify.com/artist/4R1Wzme5jrKjgdXHoOXWgx) | [Le Vent](https://open.spotify.com/album/6WinEkzTeZUahjfqdf8pUB) | 5:33 |
 | 160 | [Stood Too Fast](https://open.spotify.com/track/5s1s3Dd1mpDs2uxUIIkBZ2) | [Zohar & Adam](https://open.spotify.com/artist/3jrqdkncH6CuK39BaLJ9mj), [Ben Sherman](https://open.spotify.com/artist/067bwTtRRgyFJ9CnUu1FDW) | [Stood Too Fast](https://open.spotify.com/album/7ixdrnjfvorw9Om34bUslH) | 1:37 |
 
-Snapshot ID: `AAAAAOpWhtC0QHnxbau11lHw7eyPLZtb`
+Snapshot ID: `AAAAAOnKSVnd/Oi05S1llGrQTj9KRB8/`

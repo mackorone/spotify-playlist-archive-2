@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 10th anniversary of  Maren Morris' album \"HERO\" on 2010s Country!",
-  "num_followers": 670452,
+  "num_followers": 670473,
   "original_name": "2010s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPJ0FeDOlMtaV/pFaceCE+QIek8v",
+  "snapshot_id": "AAAAAHvhAZFaNk7CZmCZ+ALWyvzR/uCe",
   "tracks": [
     {
       "added_at": "2026-06-25 21:28:39",
@@ -659,18 +659,18 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+      "duration_ms": 254466,
+      "name": "Drunk On A Plane",
+      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "RISER",
-        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Drunk On A Plane",
-      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Hard 2 Love",
-        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Hard To Love",
-      "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
         "name": "Seasons Change",
         "url": "https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 241146,
       "name": "Five More Minutes",
       "url": "https://open.spotify.com/track/3qTmB5HxP9ilJaiM6B1yuk"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
+        "name": "Hard 2 Love",
+        "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Take A Back Road",
-        "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Take A Back Road",
-      "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 196746,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
+        "name": "Take A Back Road",
+        "url": "https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Take A Back Road",
+      "url": "https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "Red Solo Cup",
-      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
         "name": "The Band Perry",
         "url": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 222773,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "Red Solo Cup",
+      "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "I'm Comin' Over",
-        "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "I'm Comin' Over",
-      "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
         "name": "Cole Swindell",
         "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 196746,
       "name": "Chillin' It",
       "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
+        "name": "I'm Comin' Over",
+        "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "I'm Comin' Over",
+      "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Charleston, SC 1966",
-        "url": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "Come Back Song",
-      "url": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 335480,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
+        "name": "Charleston, SC 1966",
+        "url": "https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Come Back Song",
+      "url": "https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Summer Forever",
-        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
+        "name": "Same Trailer Different Park",
+        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
       "artists": [
         {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 184506,
-      "name": "It Don't Hurt Like It Used To",
-      "url": "https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS"
+      "duration_ms": 199640,
+      "name": "Follow Your Arrow",
+      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -1475,50 +1475,18 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Same Trailer Different Park",
-        "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
+        "name": "Summer Forever",
+        "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 199640,
-      "name": "Follow Your Arrow",
-      "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 253933,
-      "name": "From the Ground Up",
-      "url": "https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
+      "duration_ms": 184506,
+      "name": "It Don't Hurt Like It Used To",
+      "url": "https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -1539,6 +1507,38 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/4rQa0t2qWm1MNPy7DNEUHB"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 253933,
+      "name": "From the Ground Up",
+      "url": "https://open.spotify.com/track/0lQJBl9YEsoMtE8D4yTE9g"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Bring You Back",
-        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Beat of the Music",
-      "url": "https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
         "name": "I'm A Fire",
         "url": "https://open.spotify.com/album/53ljIT3F5IV2YP0fVdlSGo"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 236800,
       "name": "Whatever She's Got",
       "url": "https://open.spotify.com/track/4PJXT82AZtlDW4Q71b43oz"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
+        "name": "Bring You Back",
+        "url": "https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Beat of the Music",
+      "url": "https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -1819,8 +1819,8 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Lady Antebellum",
-        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/254bcFt3AV1O2B121GFD9S"
       },
       "artists": [
         {
@@ -1828,9 +1828,9 @@
           "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 256013,
-      "name": "I Run To You",
-      "url": "https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8"
+      "duration_ms": 195866,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/4kY7rYtE4OQkJNq22OIYRI"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -1899,8 +1899,8 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/254bcFt3AV1O2B121GFD9S"
+        "name": "Lady Antebellum",
+        "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
       },
       "artists": [
         {
@@ -1908,9 +1908,9 @@
           "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/4kY7rYtE4OQkJNq22OIYRI"
+      "duration_ms": 256013,
+      "name": "I Run To You",
+      "url": "https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -2131,8 +2131,8 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
       },
       "artists": [
         {
@@ -2140,9 +2140,9 @@
           "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 211160,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/2lFtnEmkIPm2ClN55e2chV"
+      "duration_ms": 222146,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/54K7AZoGpQklpygKrxZlKN"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -2187,18 +2187,18 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Judge Jerrod & The Hung Jury",
-        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
       "artists": [
         {
-          "name": "Jerrod Niemann",
-          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Lover, Lover",
-      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
+      "duration_ms": 205233,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -2219,8 +2219,8 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "The Mountain",
-        "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
       },
       "artists": [
         {
@@ -2228,25 +2228,25 @@
           "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
         }
       ],
-      "duration_ms": 222146,
-      "name": "Living",
-      "url": "https://open.spotify.com/track/54K7AZoGpQklpygKrxZlKN"
+      "duration_ms": 211160,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/2lFtnEmkIPm2ClN55e2chV"
     },
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+        "name": "Judge Jerrod & The Hung Jury",
+        "url": "https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9"
       },
       "artists": [
         {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Jerrod Niemann",
+          "url": "https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7"
         }
       ],
-      "duration_ms": 205233,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
+      "duration_ms": 193733,
+      "name": "Lover, Lover",
+      "url": "https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Drunk on Your Love",
-      "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
         "name": "Die From A Broken Heart",
         "url": "https://open.spotify.com/album/4DPIFHZfh65TPPGem973zy"
       },
@@ -2315,6 +2299,22 @@
     {
       "added_at": "2026-06-25 21:28:39",
       "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Drunk on Your Love",
+      "url": "https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
         "name": "American Saturday Night",
         "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
       },
@@ -2327,22 +2327,6 @@
       "duration_ms": 321616,
       "name": "Then",
       "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
-    },
-    {
-      "added_at": "2026-06-25 21:28:39",
-      "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Day Drinking",
-      "url": "https://open.spotify.com/track/1pxXqJZBrCREdC0s4Xs6Xz"
     },
     {
       "added_at": "2026-06-25 21:28:39",
@@ -2375,6 +2359,22 @@
       "duration_ms": 196440,
       "name": "Catch",
       "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
+    },
+    {
+      "added_at": "2026-06-25 21:28:39",
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Day Drinking",
+      "url": "https://open.spotify.com/track/1pxXqJZBrCREdC0s4Xs6Xz"
     },
     {
       "added_at": "2026-06-25 21:28:39",

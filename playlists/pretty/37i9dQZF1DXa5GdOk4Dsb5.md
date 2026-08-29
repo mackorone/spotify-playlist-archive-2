@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Reforzando la alianza Colombia\-México\. Con Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,110 likes - 81 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,129 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 49 | [Por Qué la Envidia](https://open.spotify.com/track/3qwd72sbcZQRexI2VWZTnJ) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/5LL3FGqTRVFXgOdiX4mE27) | 2:57 |
 | 50 | [Destino Final](https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Destino Final](https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ) | 2:53 |
 | 51 | [QUE ONDA](https://open.spotify.com/track/61vlMpyFxXmxvahvA7Bi3z) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 3:11 |
-| 52 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
+| 52 | [Tus Mentiras \- En Vivo](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 53 | [EXCESOS](https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:07 |
 | 54 | [PUES QUE LE HAGO ?](https://open.spotify.com/track/1qiWVzOApnT0lLLQofPr1S) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Los Locos Nunca Mueren](https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp) | 2:21 |
 | 55 | [Voy Llegando a tu Ciudad](https://open.spotify.com/track/25Um6XtI3adYkxZpl1qtQE) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Experto](https://open.spotify.com/album/1jbw7dNHbODAxiWgugRRdF) | 2:51 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 80 | [daño](https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:17 |
 | 81 | [Pienso En Ti](https://open.spotify.com/track/6ZA4xgOuvzkWc8ow843Q3t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Es de Madera](https://open.spotify.com/album/5hf6WT0Zv9JyQCiZNo6hGv) | 2:37 |
 
-Snapshot ID: `AAAAADbCl3szpvhmMr0v8ksNpYJbPTDw`
+Snapshot ID: `AAAAAC3wjjd1sHEIy3Xy4OlXyv6w1I1R`

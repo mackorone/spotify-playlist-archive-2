@@ -4424,7 +4424,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 129836,
       "name": "Can't Go Back",
       "url": "https://open.spotify.com/track/2efK9oBgLgRN4cAU2EIBJA"
@@ -5172,7 +5172,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 183820,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/5FOwJI324l26vADidD3j3q"
@@ -8630,7 +8630,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 149291,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/7KOISZJjFNOWHCSnxgKPJQ"
@@ -10313,6 +10313,32 @@
     },
     {
       "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/726SkVxbzU7OeTB0LPVqHw"
+      },
+      "artists": [
+        {
+          "name": "Alosa",
+          "url": "https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC"
+        },
+        {
+          "name": "Elle Blue",
+          "url": "https://open.spotify.com/artist/0oYf66lhuY6lT7xB5xSXuO"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138018,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/6OBzxm3PkPnR7I5U8byQlk"
+    },
+    {
+      "album": {
         "name": "Fields of Gold",
         "url": "https://open.spotify.com/album/5wzARAZgk62t9lHeR8ivqH"
       },
@@ -11162,6 +11188,24 @@
       "duration_ms": 125593,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0NMNolynpRYeJoyqxqh7jr"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0RR2at9TMafMOgDBfUIjH8"
+      },
+      "artists": [
+        {
+          "name": "S\u00f6nnefelt",
+          "url": "https://open.spotify.com/artist/38FDUny44xLWCsKHGWI9bo"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1wjlK6XQV0ne8ZEE2aFJ7C"
     },
     {
       "album": {
@@ -12210,7 +12254,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 126557,
       "name": "Gradient",
       "url": "https://open.spotify.com/track/1RGoTNTnnNr0pVqy4WPH51"
@@ -14204,6 +14248,32 @@
       "duration_ms": 198000,
       "name": "How Hard I Try",
       "url": "https://open.spotify.com/track/0OfZ9imMwFU03zc2wl8pBt"
+    },
+    {
+      "album": {
+        "name": "How She Move\u00b4s (feat. Michael Jo)",
+        "url": "https://open.spotify.com/album/4SkvmNjBjdUFX19YpxgPYY"
+      },
+      "artists": [
+        {
+          "name": "SECMOS",
+          "url": "https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk"
+        },
+        {
+          "name": "MusicByDavid",
+          "url": "https://open.spotify.com/artist/53shc8lcXDfzwN5MWKqOFU"
+        },
+        {
+          "name": "Michael Jo",
+          "url": "https://open.spotify.com/artist/0jqSpIpPWIxPpAyvfExLQC"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146915,
+      "name": "How She Move\u00b4s (feat. Michael Jo)",
+      "url": "https://open.spotify.com/track/3RyB31HOq7Z0vgkCCXC0ek"
     },
     {
       "album": {
@@ -18283,6 +18353,32 @@
     },
     {
       "album": {
+        "name": "Lola Ya",
+        "url": "https://open.spotify.com/album/1Q13XjcU5KSWZnvvEkTOvh"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        },
+        {
+          "name": "idyllic",
+          "url": "https://open.spotify.com/artist/2GIbW7hY6JPKZAO2INUYIL"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Lola Ya",
+      "url": "https://open.spotify.com/track/1pLaKXDFHlaWnUkpSFNGx7"
+    },
+    {
+      "album": {
         "name": "Lomalina",
         "url": "https://open.spotify.com/album/4x9rXwXa8SMFDNr9HuptwT"
       },
@@ -19102,6 +19198,24 @@
       "duration_ms": 196620,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/3Iohuo2AJetV1Mcs3vtDrP"
+    },
+    {
+      "album": {
+        "name": "Love Me Now",
+        "url": "https://open.spotify.com/album/1AudJyTZzvo0xwcvls4OrU"
+      },
+      "artists": [
+        {
+          "name": "lone tide",
+          "url": "https://open.spotify.com/artist/5pGUPcY0TlZkIySLIbsgWQ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133250,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/6auR3gwmnboCN1xnln9hUG"
     },
     {
       "album": {
@@ -28026,7 +28140,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 140125,
       "name": "Spanish (Mi Amor)",
       "url": "https://open.spotify.com/track/65XUv6OMHOzTCVst3mPebm"
@@ -29024,6 +29138,24 @@
       "duration_ms": 154000,
       "name": "Summer Sound",
       "url": "https://open.spotify.com/track/5sGPTcO0y7VGT5mvqLANS5"
+    },
+    {
+      "album": {
+        "name": "Summer's End",
+        "url": "https://open.spotify.com/album/1GqTEgltFvt4nqm6oaVSmw"
+      },
+      "artists": [
+        {
+          "name": "Miravo",
+          "url": "https://open.spotify.com/artist/6fQv6TtFek01MKvkXUa4m9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186168,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/5yYe6cDidwsT4lTIdTaXQ8"
     },
     {
       "album": {
@@ -30040,6 +30172,24 @@
       "duration_ms": 116005,
       "name": "Taste of Me",
       "url": "https://open.spotify.com/track/05FArefcY2XsxRnawb5v1N"
+    },
+    {
+      "album": {
+        "name": "Taste Of Your Love",
+        "url": "https://open.spotify.com/album/3umn9bt3lUqfXaOJFefANn"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124266,
+      "name": "Taste Of Your Love",
+      "url": "https://open.spotify.com/track/3ddu8au2g7Rj0u32xv65Ks"
     },
     {
       "album": {
@@ -32006,6 +32156,28 @@
       "duration_ms": 141000,
       "name": "Underneath",
       "url": "https://open.spotify.com/track/18CQjRZ0lJuIgC3BHaAbDT"
+    },
+    {
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/7AfOXfQ78uumr5J200LqWU"
+      },
+      "artists": [
+        {
+          "name": "ENVOL",
+          "url": "https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4"
+        },
+        {
+          "name": "firstcoast.",
+          "url": "https://open.spotify.com/artist/4bCEgfAIF3dQPrwCkAP0v7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169811,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/1XUUcQn4Z2R80t4gbGSrvn"
     },
     {
       "album": {
@@ -34185,6 +34357,28 @@
     },
     {
       "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/2YNcJvP9HYGGHEzTRAYd2M"
+      },
+      "artists": [
+        {
+          "name": "ANELOS",
+          "url": "https://open.spotify.com/artist/6Ew2LW3MJsLj2HtxGTO6Ll"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128821,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3e2LNDvZWnpuc1uNgo9N89"
+    },
+    {
+      "album": {
         "name": "Wish You Would",
         "url": "https://open.spotify.com/album/3ofXMswKeWAWPfSDT4EvMx"
       },
@@ -34306,6 +34500,28 @@
       "duration_ms": 174146,
       "name": "Won't You Say",
       "url": "https://open.spotify.com/track/32HPlVqnkMOkdKC2rD2UxZ"
+    },
+    {
+      "album": {
+        "name": "Wherever I Roam",
+        "url": "https://open.spotify.com/album/38DIyr3PYlMEHoqMdOtavi"
+      },
+      "artists": [
+        {
+          "name": "Sainte Barbe",
+          "url": "https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ"
+        },
+        {
+          "name": "Jan Ayg\u00fcn",
+          "url": "https://open.spotify.com/artist/2wM1D4UgaScEg2LkYHm1Oe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/6JSxNbRH2MMumrJqZSyWdB"
     },
     {
       "album": {

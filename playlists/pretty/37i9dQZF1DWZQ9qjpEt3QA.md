@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,473 likes - 101 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,470 likes - 101 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 100 | [Papansin](https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ) | [Minaw](https://open.spotify.com/artist/3WDWdGrDmyczFUkPPkd8aK) | [Papansin](https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf) | 4:17 |
 | 101 | [LAVLA](https://open.spotify.com/track/0Gt5raD0hne7nc3OhRla5M) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1RWrXLMPZgZrPOjspFejZk) | 3:58 |
 
-Snapshot ID: `AAAAADv17bB0kiKjjUup2lnknLUcCuew`
+Snapshot ID: `AAAAAFtzjVgUZAgSM/Lzn5nCIRvpiWW+`

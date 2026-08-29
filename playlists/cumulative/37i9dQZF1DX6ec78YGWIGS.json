@@ -6435,6 +6435,24 @@
     },
     {
       "album": {
+        "name": "money in my bag",
+        "url": "https://open.spotify.com/album/4DmQA5s0Xb8bKX1bQHoGvY"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1n",
+          "url": "https://open.spotify.com/artist/0E9SrOvn3lOYk15neJW2Lb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124615,
+      "name": "money in my bag",
+      "url": "https://open.spotify.com/track/1lnn3kYK8NdLupdavcQLmQ"
+    },
+    {
+      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },

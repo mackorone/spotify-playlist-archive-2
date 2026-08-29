@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Namasenda is having a main pop girl emergency✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,643 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,707 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 29 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
 | 30 | [F★CK F★REVER](https://open.spotify.com/track/3p0bCnkB373MOnqgMQhHf5) | [Michael Medrano](https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD) | [F★CK F★REVER](https://open.spotify.com/album/3av99K9RHnzLAWtZ3OG47D) | 3:13 |
 | 31 | [Pop Sound](https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Pop Sound](https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql) | 2:51 |
-| 32 | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
+| 32 | [Lucky Again \- The Magician Remix](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
 | 33 | [HOW TO BE A LOVER](https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [HOW TO BE A LOVER](https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62) | 4:26 |
 | 34 | [Malibu \(Falling Over The Edge\) \- St\. Lucia Remix](https://open.spotify.com/track/2669cpeFFL2ui6iDHcs6dd) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Malibu \(Falling Over The Edge\) \[St\. Lucia Remix\]](https://open.spotify.com/album/38G8SmbNhqJVttXGs5ITzc) | 4:24 |
 | 35 | [After All](https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [After All](https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [Sex, Etc.](https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 3:40 |
 | 100 | [Dracula \(with JENNIE\)](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(with JENNIE\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 
-Snapshot ID: `AAAAAJu8puQGz1SMbTpMln9GFbLnb46J`
+Snapshot ID: `AAAAABcoxHylGz0qw3Bb683K26B0m1dp`

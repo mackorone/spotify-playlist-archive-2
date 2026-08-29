@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 166899,
+  "num_followers": 166911,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADZ9cCvGtmfMCRcRMaj1zlv",
+  "snapshot_id": "ao9+AAAAAADEHh3WItkhi5LQ5cSIDwCV",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 195125,
+      "name": "Seg\u00fan Tus Labios",
+      "url": "https://open.spotify.com/track/0l7okR2i9ylxm1GbauQHzE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haciendo Memoria",
         "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 187034,
       "name": "Haciendo Memoria",
       "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Naci\u00f3 Pa' Leyenda",
-        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 195125,
-      "name": "Seg\u00fan Tus Labios",
-      "url": "https://open.spotify.com/track/0l7okR2i9ylxm1GbauQHzE"
     },
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 161054,
+      "name": "Mi Soledad",
+      "url": "https://open.spotify.com/track/3Bqrzz0mct6zzIyYeXjSK2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Me Pidas Un Tiempo",
         "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 194782,
       "name": "No Me Pidas Un Tiempo",
       "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Naci\u00f3 Pa' Leyenda",
-        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 161054,
-      "name": "Mi Soledad",
-      "url": "https://open.spotify.com/track/3Bqrzz0mct6zzIyYeXjSK2"
     },
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A Una Leyenda",
-        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Hablemos",
-      "url": "https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hay Niveles",
         "url": "https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 252285,
       "name": "Hay Niveles",
       "url": "https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Si Capeas",
-        "url": "https://open.spotify.com/album/3NdwMk3O7Tg3C716PqSSR6"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 173622,
-      "name": "Y Si Capeas",
-      "url": "https://open.spotify.com/track/0E6g2ECvCoHIGtQTErHLkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Suerte",
         "url": "https://open.spotify.com/album/0rLXapbkgFxBsutqWfvijP"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 196253,
       "name": "Un Mentado Ariel",
       "url": "https://open.spotify.com/track/671qqRA6q9ClGWXAnDe8aE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Si Capeas",
+        "url": "https://open.spotify.com/album/3NdwMk3O7Tg3C716PqSSR6"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 173622,
+      "name": "Y Si Capeas",
+      "url": "https://open.spotify.com/track/0E6g2ECvCoHIGtQTErHLkN"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 146790,
+      "name": "Con Palabras Sencillas",
+      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 200826,
       "name": "Por No Perderte Te Perd\u00ed",
       "url": "https://open.spotify.com/track/0kOhwMN7TRxbxIgS0SBCaI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 146790,
-      "name": "Con Palabras Sencillas",
-      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
     },
     {
       "added_at": null,
@@ -531,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Cuerdas y Recuerdos (En Vivo)",
-        "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
+        "name": "Dado A La Vida",
+        "url": "https://open.spotify.com/album/6tUh9wo5wFmFn1XHL3q2DC"
       },
       "artists": [
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
         }
       ],
-      "duration_ms": 226991,
-      "name": "No Puedo Olvidarla - En Vivo",
-      "url": "https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi"
+      "duration_ms": 167153,
+      "name": "Dado A La Vida",
+      "url": "https://open.spotify.com/track/6aY11ZLwdFwkCHX0gaoYYr"
     },
     {
       "added_at": null,
@@ -563,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dado A La Vida",
-        "url": "https://open.spotify.com/album/6tUh9wo5wFmFn1XHL3q2DC"
+        "name": "Entre Cuerdas y Recuerdos (En Vivo)",
+        "url": "https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV"
       },
       "artists": [
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
         }
       ],
-      "duration_ms": 167153,
-      "name": "Dado A La Vida",
-      "url": "https://open.spotify.com/track/6aY11ZLwdFwkCHX0gaoYYr"
+      "duration_ms": 226991,
+      "name": "No Puedo Olvidarla - En Vivo",
+      "url": "https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqu\u00ed Sigues T\u00fa",
-        "url": "https://open.spotify.com/album/1NO5Jfuoe0b34Tszpk41wj"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 262337,
-      "name": "Aqu\u00ed Sigues T\u00fa",
-      "url": "https://open.spotify.com/track/4JBVBolRrTPpRYjBGBaQot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
         "url": "https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 201978,
       "name": "Alguien Como T\u00fa",
       "url": "https://open.spotify.com/track/3j6kzaCBhFDkRkh8z5091f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqu\u00ed Sigues T\u00fa",
+        "url": "https://open.spotify.com/album/1NO5Jfuoe0b34Tszpk41wj"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 262337,
+      "name": "Aqu\u00ed Sigues T\u00fa",
+      "url": "https://open.spotify.com/track/4JBVBolRrTPpRYjBGBaQot"
     },
     {
       "added_at": null,

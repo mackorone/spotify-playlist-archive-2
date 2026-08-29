@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Kenji, vvallace
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,574 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,569 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 9 | [PAPARAZZIS](https://open.spotify.com/track/1FnTcke5xRdMI4KfA4YB2x) | [Bhelt](https://open.spotify.com/artist/3YCvyU6SyOyALcK05c9cNn), [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY) | [PAPARAZZIS](https://open.spotify.com/album/12nFh87eamYCvO9cvxVSvn) | 3:11 |
 | 10 | [Final](https://open.spotify.com/track/7ETpwPdYJ9tVkHPJwexzBg) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [Um Novo Dya](https://open.spotify.com/album/0leNfO1lfD9XFIsKEZAKS2) | 3:03 |
 | 11 | [Respire](https://open.spotify.com/track/7t5Hs59TO36wls9JGwdei7) | [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [Um Novo Dya](https://open.spotify.com/album/0leNfO1lfD9XFIsKEZAKS2) | 2:08 |
-| 12 | [PREDESTINADA \(feat\. Nagalli\)](https://open.spotify.com/track/6I2Rp5BPCCEBoknjR2Cbx5) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 1:46 |
+| 12 | [PREDESTINADA](https://open.spotify.com/track/6I2Rp5BPCCEBoknjR2Cbx5) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 1:46 |
 | 13 | [Matéria](https://open.spotify.com/track/0cSqcPMCDsmGEpaA2Ba5JC) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Matéria](https://open.spotify.com/album/5q5UG2e2XnTiVyuJZ3tx0a) | 2:53 |
 | 14 | [Original Gangsta](https://open.spotify.com/track/2F5tSXD99lfWNANU5ignbu) | [Matoco](https://open.spotify.com/artist/0P24tsiuTUInzOwbEM6LXG), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Gordao O Don](https://open.spotify.com/artist/4ieJCeK04X2h09LAiC3ONt), [Filbeats](https://open.spotify.com/artist/0C1TQdWE8gSdIdZkyQhcdP) | [Original Gangsta](https://open.spotify.com/album/02wvQdjSpTed9N8mVqguEm) | 2:46 |
 | 15 | [Carbura](https://open.spotify.com/track/5Uh6YKOcSv1qY8h4O7Pb72) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [CN](https://open.spotify.com/artist/0F75R1a1XBvkXvJIUlu6C4) | [Carbura](https://open.spotify.com/album/6RtZp8OkGoNU5nfHaKGspz) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [pintura \(bonus track\)](https://open.spotify.com/track/1QvbOIlIMvtZe3VycP1wUV) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7), [Matteo](https://open.spotify.com/artist/7kciSzJDv01OwFxtxCp4Ru), [prodyans](https://open.spotify.com/artist/2CkSJsVNYUgTsSfHt5LImW), [Bymd.wav](https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy) | [F.A.Q\. LUV](https://open.spotify.com/album/3uPRLUodZXaqFgDpOZO3rY) | 3:32 |
 | 75 | [Piloto II](https://open.spotify.com/track/4fhks3pfqdJZa9VCLDZgXE) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp) | [Ambition Cross](https://open.spotify.com/album/3RdWUjvf6b6HuES4oaNddh) | 4:15 |
 
-Snapshot ID: `AAAAALdOSaG65by5pxZCmPlU8LUHRIpM`
+Snapshot ID: `AAAAABhxzxsPmZxRGxpGkkyGCRh99f6u`

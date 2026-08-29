@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 106218,
+  "num_followers": 106244,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACru/2Mt3gWHocW53gSRIRk",
+  "snapshot_id": "ao9+AAAAAACcrjFLVMe51VvbYI/9yZM8",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 331440,
-      "name": "Mar\u00eda Lionza",
-      "url": "https://open.spotify.com/track/5MyPzq1IsxS1x7FkhdpJUF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 277186,
       "name": "Qu\u00e9 L\u00edo",
       "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 331440,
+      "name": "Mar\u00eda Lionza",
+      "url": "https://open.spotify.com/track/5MyPzq1IsxS1x7FkhdpJUF"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 422640,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/43Ste93jKi3inP498OAXP8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 317813,
       "name": "Eso Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 422640,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/43Ste93jKi3inP498OAXP8"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Gran Fuga (Remastered 2024)",
+        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 354829,
+      "name": "Paname\u00f1a - Remastered 2024",
+      "url": "https://open.spotify.com/track/3nKFRo3pxh2KMITB9zKt0c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Good, The Bad, And The Ugly",
         "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 308520,
       "name": "G\u00fcaracha",
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Gran Fuga (Remastered 2024)",
-        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 354829,
-      "name": "Paname\u00f1a - Remastered 2024",
-      "url": "https://open.spotify.com/track/3nKFRo3pxh2KMITB9zKt0c"
     },
     {
       "added_at": null,

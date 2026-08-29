@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 131907,
+  "num_followers": 131940,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMvfKd443cX0xMkWmg9TVKAbCxI0",
+  "snapshot_id": "AAAAAArhSBwQCOhfuY683A6J+MtLlpsR",
   "tracks": [
     {
       "added_at": "2025-09-10 12:20:14",
@@ -427,26 +427,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "The Sound Of Johnny Smith",
-        "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        },
-        {
-          "name": "Malcolm Addey",
-          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
-        }
-      ],
-      "duration_ms": 328800,
-      "name": "Misty - 2001 Remaster",
-      "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "For Django",
         "url": "https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 188333,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "The Sound Of Johnny Smith",
+        "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        },
+        {
+          "name": "Malcolm Addey",
+          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
+        }
+      ],
+      "duration_ms": 328800,
+      "name": "Misty - 2001 Remaster",
+      "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "I Can See Your House From Here",
         "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 259360,
       "name": "The Red One",
       "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Intercontinental",
-        "url": "https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 224962,
-      "name": "Lil' Darlin'",
-      "url": "https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Intercontinental",
+        "url": "https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 224962,
+      "name": "Lil' Darlin'",
+      "url": "https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Standards Trio: Reflections",
         "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 217400,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1664,9 +1664,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 320906,
-      "name": "D-Natural Blues",
-      "url": "https://open.spotify.com/track/5fxPh44pYzAR5M5KW5SdMk"
+      "duration_ms": 264893,
+      "name": "Airegin",
+      "url": "https://open.spotify.com/track/2UCUSLYC6EX0AGnI7DAC35"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1760,9 +1760,9 @@
           "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
         }
       ],
-      "duration_ms": 264893,
-      "name": "Airegin",
-      "url": "https://open.spotify.com/track/2UCUSLYC6EX0AGnI7DAC35"
+      "duration_ms": 320906,
+      "name": "D-Natural Blues",
+      "url": "https://open.spotify.com/track/5fxPh44pYzAR5M5KW5SdMk"
     },
     {
       "added_at": "2025-09-10 12:20:14",

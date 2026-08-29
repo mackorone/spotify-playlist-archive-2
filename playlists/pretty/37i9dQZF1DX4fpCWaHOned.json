@@ -1,12 +1,12 @@
 {
   "description": "Sabrina Carpenter. Period.",
-  "num_followers": 4245572,
+  "num_followers": 4245540,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPo4OccKr6YWhG7UQOfbtCVJ35CB",
+  "snapshot_id": "AAAAAA4Qu7hIYwqGi6PWxkn0CUpP85jW",
   "tracks": [
     {
       "added_at": "2026-05-01 04:17:17",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-05-01 04:17:17",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez & The Scene",
-          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
-        }
-      ],
-      "duration_ms": 195613,
-      "name": "Who Says",
-      "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
-    },
-    {
-      "added_at": "2026-05-01 04:17:17",
-      "album": {
         "name": "KGB",
         "url": "https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 157316,
       "name": "KGB",
       "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
+    },
+    {
+      "added_at": "2026-05-01 04:17:17",
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez & The Scene",
+          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+        }
+      ],
+      "duration_ms": 195613,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
     },
     {
       "added_at": "2026-05-01 04:17:17",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-05-01 04:17:17",
       "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2026-05-01 04:17:17",
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "added_at": "2026-05-01 04:17:17",
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2026-05-01 04:17:17",

@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 71 | [Afar](https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 2:34 |
 | 72 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `AAAAANS1tVDETeeSrByqCBitcpJLyIVi`
+Snapshot ID: `AAAAAH9PBavW31IR5RgwbYBjGePc9vun`

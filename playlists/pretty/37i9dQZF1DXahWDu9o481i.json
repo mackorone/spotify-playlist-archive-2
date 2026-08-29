@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: MILLENNIUM PARADE",
-  "num_followers": 112550,
+  "num_followers": 113389,
   "original_name": "Editors' Picks: Best Songs of July",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPQqiyo8ZW6XVbu1vjyHqd4KikRg",
+  "snapshot_id": "AAAAAHeXftrhEayrEnNWr3SkFU4fTNvu",
   "tracks": [
     {
       "added_at": "2026-08-03 13:46:27",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
+        "name": "S.K.A.T.E.",
+        "url": "https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 227347,
+      "name": "Low Top Vanz",
+      "url": "https://open.spotify.com/track/384mFYERldsNdnpf4ehd7m"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
         "name": "Bajo Cero",
         "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 214000,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
-        "name": "S.K.A.T.E.",
-        "url": "https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl"
-      },
-      "artists": [
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 227347,
-      "name": "Low Top Vanz",
-      "url": "https://open.spotify.com/track/384mFYERldsNdnpf4ehd7m"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Moonlight / Clean Run",
-        "url": "https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 200477,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "Role Model Hermit",
         "url": "https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 236807,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Moonlight / Clean Run",
+        "url": "https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 200477,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Cancel Me (I'm Tired)",
-        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 222596,
-      "name": "Cancel Me (I\u2019m Tired)",
-      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 180281,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Cancel Me (I'm Tired)",
+        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 222596,
+      "name": "Cancel Me (I\u2019m Tired)",
+      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
     },
     {
       "added_at": "2026-08-03 13:46:27",

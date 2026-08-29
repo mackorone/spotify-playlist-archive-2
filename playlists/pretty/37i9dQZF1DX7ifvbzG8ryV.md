@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: Louis du Sauzay
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,959 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,962 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [Let's Have A Kiki](https://open.spotify.com/track/4Q6K6M0HSiRboY3C97AxD4) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour](https://open.spotify.com/album/2Uv5xoWfFbl2o7KdcCglOD) | 3:49 |
 | 50 | [Filthy / Gorgeous](https://open.spotify.com/track/2NNiCmCyITuhyYblpmhRWA) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 3:47 |
 
-Snapshot ID: `AAAAAHWrdjfQU2AZ0TLWc+VT9nieEUNl`
+Snapshot ID: `AAAAAGxXcP9gBFjnlN7lJphJJr51Wf0N`

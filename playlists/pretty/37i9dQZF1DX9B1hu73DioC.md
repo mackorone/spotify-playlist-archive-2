@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > put it on and let it play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,562 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250,517 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 55 | [It’s All In Your Mind](https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 4:38 |
 | 56 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 |
 | 57 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
-| 58 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
-| 59 | [Summer Sweat](https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:06 |
+| 58 | [Summer Sweat](https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:06 |
+| 59 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
 | 60 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
 | 61 | [Police Scanner](https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 2:22 |
 | 62 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 66 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
 | 67 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 68 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 |
-| 69 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
-| 70 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
+| 69 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
+| 70 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
 | 71 | [Phantom](https://open.spotify.com/track/5A6xiYvuRA76qdjr5fjjGw) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 1:50 |
-| 72 | [think twice](https://open.spotify.com/track/3K8Dlk2IdXvb3kPDpf8zbU) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [think twice](https://open.spotify.com/album/5ZCaadoasMxcPFsMWeHlye) | 5:27 |
-| 73 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
+| 72 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
+| 73 | [think twice](https://open.spotify.com/track/3K8Dlk2IdXvb3kPDpf8zbU) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [think twice](https://open.spotify.com/album/5ZCaadoasMxcPFsMWeHlye) | 5:27 |
 | 74 | [Baby!](https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:40 |
 | 75 | [You Don't Know The Shape I'm In](https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:36 |
 | 76 | [Cracking](https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 1:51 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 84 | [Separator](https://open.spotify.com/track/2fV57qob1dYMJKEfTwHOt1) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 5:19 |
 | 85 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
 | 86 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
-| 87 | [wasted time](https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [wasted time](https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ) | 2:13 |
-| 88 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 |
-| 89 | [Yellow Eyes](https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 2:42 |
+| 87 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 |
+| 88 | [Yellow Eyes](https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 2:42 |
+| 89 | [wasted time](https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [wasted time](https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ) | 2:13 |
 | 90 | [Just A Western \- Boy Harsher Remix](https://open.spotify.com/track/27824hvVGxllQecjb1dqDg) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Just A Western \(Boy Harsher Remix\)](https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e) | 4:01 |
 | 91 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 92 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 96 | [Losing Focus](https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [In Russia\. A is a 9](https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU) | 3:29 |
 | 97 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 | 98 | [Besties](https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 3:36 |
-| 99 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
+| 99 | [be mine](https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [be mine](https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL) | 4:41 |
 | 100 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
 
-Snapshot ID: `AAAAAJC1nJ/gWsOm0p3IsmiXZyFXCM1R`
+Snapshot ID: `AAAAAHI3BOdUsAmoBj+aW1EXuqcj95jb`

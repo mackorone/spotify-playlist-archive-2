@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,073 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,095 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 16 | [オールドファッション](https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:14 |
 | 17 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 |
 | 18 | [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 |
-| 19 | [花火](https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:38 |
+| 19 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
 | 20 | [恋だろ](https://open.spotify.com/track/0ir7DGXo3hxaPa82h1vrOj) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [恋だろ](https://open.spotify.com/album/0WkjisVaB4pwRf521uF6Qa) | 4:42 |
-| 21 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
+| 21 | [花火](https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:38 |
 | 22 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 23 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 |
 | 24 | [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 40 | [花束のかわりにメロディーを](https://open.spotify.com/track/2028QNsVTmp5IF7UK4ZnaE) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [PROUD](https://open.spotify.com/album/4SjdEVbkMDRQgY8qcWYLHd) | 5:09 |
 | 41 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 |
 | 42 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
-| 43 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
-| 44 | [プロローグ](https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プロローグ](https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA) | 5:02 |
+| 43 | [プロローグ](https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プロローグ](https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA) | 5:02 |
+| 44 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
 | 45 | [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:11 |
 | 46 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 |
-| 47 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 |
-| 48 | [恋](https://open.spotify.com/track/5Hu29JT4xtbRUBTZeOAjxW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [恋](https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27) | 4:13 |
+| 47 | [恋](https://open.spotify.com/track/5Hu29JT4xtbRUBTZeOAjxW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [恋](https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27) | 4:13 |
+| 48 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 |
 | 49 | [LA･LA･LA LOVE SONG](https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [LA･LA･LA LOVE THANG](https://open.spotify.com/album/3sqTfrcrrVXqmquAQ5LqGc) | 4:46 |
 | 50 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 |
 | 51 | [今宵の月のように](https://open.spotify.com/track/0wMfMGp7nz7JMNw7tei9f5) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [明日に向かって走れ\-月夜の歌\-](https://open.spotify.com/album/515BiJpfiA4Cf6OD8iyom0) | 4:12 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 57 | [怪盗](https://open.spotify.com/track/10Eyo4juZQFthKqlJgGMdp) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪盗](https://open.spotify.com/album/4WQ8gG1ItkCzFBnG7P20YR) | 3:16 |
 | 58 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 |
 | 59 | [恋唄](https://open.spotify.com/track/3nmMpo6n2NcX6rU0TiQRXf) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [HOPE](https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR) | 5:00 |
-| 60 | [100万回の「I love you」](https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF) | [Rake](https://open.spotify.com/artist/3vQ2DVwzWWorNTS3kObltH) | [First Sight](https://open.spotify.com/album/3GA7KRuU7d9COOXaJZyFeR) | 3:58 |
-| 61 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
+| 60 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
+| 61 | [100万回の「I love you」](https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF) | [Rake](https://open.spotify.com/artist/3vQ2DVwzWWorNTS3kObltH) | [First Sight](https://open.spotify.com/album/3GA7KRuU7d9COOXaJZyFeR) | 3:58 |
 | 62 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 63 | [ヒカリヘ](https://open.spotify.com/track/6Ko5MADnkgh7GZJfieBnln) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Delight](https://open.spotify.com/album/0avJe7D8ASPbuBk2uyPQPL) | 4:52 |
 | 64 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 66 | [Waltz for Lily](https://open.spotify.com/track/2s32faGqPq6hRh002FGQhf) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Waltz for Lily](https://open.spotify.com/album/7Ki3941etyXLcskScwiXBV) | 4:04 |
 | 67 | [世界が終わりました](https://open.spotify.com/track/5XyD56RYaj2XGxfyc34jQD) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [世界が終わりました](https://open.spotify.com/album/1Ztds5OynOrMcfkPLi47Ps) | 4:14 |
 | 68 | [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 |
-| 69 | [僕のかわい子ちゃん](https://open.spotify.com/track/5Q6tUDmj1vipuU2geX6no7) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [僕のかわい子ちゃん](https://open.spotify.com/album/23mtg8QL60f69786FLmFMp) | 4:09 |
-| 70 | [ラブソング](https://open.spotify.com/track/2aC8t7OpwfBLTE4KWrJhN6) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/2QKtmakVNgVWejUQRjZm1S) | 4:18 |
+| 69 | [ラブソング](https://open.spotify.com/track/2aC8t7OpwfBLTE4KWrJhN6) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/2QKtmakVNgVWejUQRjZm1S) | 4:18 |
+| 70 | [僕のかわい子ちゃん](https://open.spotify.com/track/5Q6tUDmj1vipuU2geX6no7) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [僕のかわい子ちゃん](https://open.spotify.com/album/23mtg8QL60f69786FLmFMp) | 4:09 |
 
-Snapshot ID: `AAAAAAqrMRnzR206L9pR1irgWfI0RsC0`
+Snapshot ID: `AAAAACN4cMDhPGXPjwqyVYLG8e9IaPYR`

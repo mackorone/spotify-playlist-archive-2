@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Drake",
-  "num_followers": 512049,
+  "num_followers": 512056,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4tkC7UGAsQ0k0ZCVV6Kt6k2cGj",
+  "snapshot_id": "AAAAAIZp1T3gCdwe5v05ehnIUDqvs5l3",
   "tracks": [
     {
       "added_at": "2026-08-26 17:31:12",
@@ -759,26 +759,22 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/3YNKd21Z57lbdZimG7DP2Q"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Molly Santana",
-          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 247183,
-      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
+      "duration_ms": 234333,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/42F7AY5a40owYmUeq0QQTl"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -819,26 +815,6 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "The Thrill",
-        "url": "https://open.spotify.com/album/3YNKd21Z57lbdZimG7DP2Q"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/42F7AY5a40owYmUeq0QQTl"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 155753,
       "name": "Body",
       "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 218146,
       "name": "rockstar (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
+        "name": "DANGEROUS SUMMER",
+        "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "COM\u00cb N GO",
+      "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 291781,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
-        "name": "DANGEROUS SUMMER",
-        "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "COM\u00cb N GO",
-      "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
+        "name": "THE BIGGEST",
+        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 119015,
+      "name": "Mmhmm",
+      "url": "https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU"
+    },
+    {
+      "added_at": "2026-08-26 17:31:12",
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2026-08-26 17:31:12",
       "album": {
-        "name": "THE BIGGEST",
-        "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
       },
       "artists": [
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 119015,
-      "name": "Mmhmm",
-      "url": "https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU"
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "added_at": "2026-08-26 17:31:12",
@@ -1599,22 +1615,6 @@
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2026-08-26 17:31:12",
-      "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "added_at": "2026-08-26 17:31:12",

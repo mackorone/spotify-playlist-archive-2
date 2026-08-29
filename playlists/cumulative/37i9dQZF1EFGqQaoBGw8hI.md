@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-746 songs - 2 day 3 hr 37 min
+749 songs - 2 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Black Icy Stare](https://open.spotify.com/track/0f7MOangrvhpeIHoOJVSJL) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night \(Deluxe Version\)](https://open.spotify.com/album/76FICX0aWAIMjWJEdtf3J3) | 3:11 | 2022-09-08 |  |
 | [Blessed](https://open.spotify.com/track/4rKsQBxDysJWqXpY5TAekd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 5:02 | 2022-09-08 |  |
 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 | 2022-09-08 |  |
-| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 |  |
+| [Blue Eyes \- Remastered 2003](https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:26 | 2022-09-08 | 2026-08-29 |
 | [Blue Wonderful](https://open.spotify.com/track/5goFdE9LTs1r0JgVvOdMZ8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 3:37 | 2022-09-08 |  |
 | [Blues](https://open.spotify.com/track/6SIkDFZKXzXBddYshDrgvl) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Back Country Suite](https://open.spotify.com/album/6Fe7ELZVZw5Qn3vdVtOvvF) | 1:24 | 2026-02-12 | 2026-08-07 |
 | [Blues For Baby And Me](https://open.spotify.com/track/2MaW82qnGVIVTDi4KeA4Y8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 5:38 | 2022-09-08 |  |
@@ -420,6 +420,7 @@
 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:00 | 2022-09-08 |  |
 | [Mona Lisas And Mad Hatters \- Remastered 2017](https://open.spotify.com/track/3AJVI8kKij8zD5YOR6HM9v) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Château \(50th Anniversary Edition\)](https://open.spotify.com/album/30ey65p5ZWsi82MsferipB) | 5:00 | 2026-02-12 | 2026-03-16 |
 | [Monkey Suit](https://open.spotify.com/track/61yqjD6DUuFNyylhDuhswl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [The Union](https://open.spotify.com/album/5O3tJmTjdvIWSRyut7mTbZ) | 4:46 | 2022-09-08 |  |
+| [Monster Mash](https://open.spotify.com/track/4uUVNaxpS4zYcXkTrrRp6R) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX) | [Sinister Stomp](https://open.spotify.com/album/5oBxNVnIhfXuOlYLqtQLhO) | 3:14 | 2026-08-28 |  |
 | [Mr\. Lightning Strikerman \- Piano Demo](https://open.spotify.com/track/6PUZChImBdmSFeyZLc8A8f) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 3:06 | 2023-05-26 |  |
 | [Multiple Personality](https://open.spotify.com/track/22T5cU9o04iPYXpo3IlDkX) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 2:22 | 2023-05-26 |  |
 | [My Elusive Drug](https://open.spotify.com/track/4quVhM2f0bt6DpIYUJRbhY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:12 | 2022-09-08 |  |
@@ -583,6 +584,7 @@
 | [Stronger Than I Ever Was](https://open.spotify.com/track/2yqifXIF2bc7pIrbB7AfY5) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Sherlock Gnomes \(Music From The Motion Picture\)](https://open.spotify.com/album/5E2AhhoDudFdOBsOv6Dzu3) | 3:39 | 2022-09-08 |  |
 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 | 2023-05-26 |  |
 | [Suit Of Wolves](https://open.spotify.com/track/7mvK7JHc1fOVs7HLVP3fwV) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:48 | 2022-09-08 |  |
+| [Supercool](https://open.spotify.com/track/30huW9uvs7KmPo0IcdDrOv) | [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Loving & Free \(Bonus Track Version\)](https://open.spotify.com/album/7kWJfVeAKDdMwCShTAoNcB) | 3:25 | 2026-08-28 |  |
 | [Susie \(Dramas\)](https://open.spotify.com/track/5iFujkF6DJlRhOyxYl4zjE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 3:24 | 2022-09-08 |  |
 | [Sweat It Out](https://open.spotify.com/track/7tuP0f0jiZT7fHg3VyDDrJ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 6:38 | 2022-09-08 |  |
 | [Sweet Painted Lady \- Remastered 2014](https://open.spotify.com/track/7sGL3k2M6FiWFP9x83wiLA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:54 | 2022-09-08 |  |
@@ -637,6 +639,7 @@
 | [The Heart Of Every Girl](https://open.spotify.com/track/3GGiAnxb53Z4LF90CaUOiS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Mona Lisa Smile \(Music from the Motion Picture\)](https://open.spotify.com/album/77suLYEns1w0HliIh0z5r9) | 3:38 | 2022-09-08 |  |
 | [The King Must Die](https://open.spotify.com/track/5aZWzadLEprtlv0ylYyruD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 5:07 | 2022-10-29 |  |
 | [The King Must Die](https://open.spotify.com/track/3pzp6ZstveJtYEwHhcZHjt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 5:21 | 2022-09-08 | 2022-10-30 |
+| [The Last Good Man in My Life](https://open.spotify.com/track/4r6x7GBduysyf6j2ijlYZK) | [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Loving & Free \(Bonus Track Version\)](https://open.spotify.com/album/7kWJfVeAKDdMwCShTAoNcB) | 4:28 | 2026-08-28 |  |
 | [The Last Song](https://open.spotify.com/track/0pNXDQo75eOukoK8PejiRE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 3:33 | 2022-09-08 |  |
 | [The Letter](https://open.spotify.com/track/35Hw3YY1l6NuAPwbN998P5) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:47 | 2022-09-08 |  |
 | [The Man](https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 4:15 | 2022-09-08 |  |

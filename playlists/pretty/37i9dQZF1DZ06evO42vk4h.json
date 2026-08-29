@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4236,
+  "num_followers": 4237,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAC6dSOBX3NDwR16+wi1VWdq",
+  "snapshot_id": "ao9+AAAAAAAzz8WFEMA5NCAppQ3ja1kK",
   "tracks": [
     {
       "added_at": null,
@@ -359,34 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend Live",
-        "url": "https://open.spotify.com/album/1LRXEDXI9ZsN1baHblE8ja"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Yallunder",
-          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
-        },
-        {
-          "name": "CwengaBass",
-          "url": "https://open.spotify.com/artist/34sT0yhKEAOOeW8dYHKECM"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 493006,
-      "name": "Ntwana Yam - Club Mix",
-      "url": "https://open.spotify.com/track/4bhbuPmtszmRzj2E0nxma2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iphinde",
         "url": "https://open.spotify.com/album/5mPwWVcf8eTxFUZP9SHNtq"
       },
@@ -415,6 +387,34 @@
       "duration_ms": 188571,
       "name": "Iphinde - Radio Edit",
       "url": "https://open.spotify.com/track/4tZR4IRE45Ma5xgY5cVAL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legend Live",
+        "url": "https://open.spotify.com/album/1LRXEDXI9ZsN1baHblE8ja"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        },
+        {
+          "name": "CwengaBass",
+          "url": "https://open.spotify.com/artist/34sT0yhKEAOOeW8dYHKECM"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        }
+      ],
+      "duration_ms": 493006,
+      "name": "Ntwana Yam - Club Mix",
+      "url": "https://open.spotify.com/track/4bhbuPmtszmRzj2E0nxma2"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinumb Heart Beating",
-        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Delakufa",
-      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sabela",
         "url": "https://open.spotify.com/album/5ssdselA40ebuIQ5Xrkj1u"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 214285,
       "name": "Sabela - Radio Edit",
       "url": "https://open.spotify.com/track/4vo1w5vq45B7b0klANJZHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Delakufa",
+      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mari Ye Phepha",
-        "url": "https://open.spotify.com/album/1KE7ljtam071uCZqROcQA7"
-      },
-      "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "FKA MASH",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        }
-      ],
-      "duration_ms": 215053,
-      "name": "Mari Ye Phepha (FKA MASH Afro-Glitch) - Remix",
-      "url": "https://open.spotify.com/track/3PHYk7iPU2IX14M36CzI7s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagos to Jozi",
         "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 226000,
       "name": "Bayathetha",
       "url": "https://open.spotify.com/track/10VZjDN4MNLGcSGVZKmLov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mari Ye Phepha",
+        "url": "https://open.spotify.com/album/1KE7ljtam071uCZqROcQA7"
+      },
+      "artists": [
+        {
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "FKA MASH",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "duration_ms": 215053,
+      "name": "Mari Ye Phepha (FKA MASH Afro-Glitch) - Remix",
+      "url": "https://open.spotify.com/track/3PHYk7iPU2IX14M36CzI7s"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church Grooves (10th Commandment)",
-        "url": "https://open.spotify.com/album/2XGCgguJ1nQn9DH8LJzwCw"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 274840,
-      "name": "Synth Song",
-      "url": "https://open.spotify.com/track/6qYYbimYXbz2VvIeMFsEui"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Church Grooves (10th Commandment)",
+        "url": "https://open.spotify.com/album/2XGCgguJ1nQn9DH8LJzwCw"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 274840,
+      "name": "Synth Song",
+      "url": "https://open.spotify.com/track/6qYYbimYXbz2VvIeMFsEui"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "May D",
         "url": "https://open.spotify.com/album/6Qprj2KyjYOgNIcO993pA5"
       },
@@ -1015,34 +1015,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amandla",
-        "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
+        "name": "Dlala Ngami (feat. Oskido)",
+        "url": "https://open.spotify.com/album/5yW3iyEcoInZDyttr2nJHP"
       },
       "artists": [
         {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
+          "name": "PRVIS3",
+          "url": "https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz"
         },
         {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
+          "name": "Ntwana_R",
+          "url": "https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 484285,
+      "name": "Dlala Ngami (feat. Oskido)",
+      "url": "https://open.spotify.com/track/42Our4jALLfBWKDazfFEVX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reunited",
+        "url": "https://open.spotify.com/album/1pc9scQ5qX4lg0Opl83RB4"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
         },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+          "name": "DJ Micks",
+          "url": "https://open.spotify.com/artist/4j9zc19lwaM4NY6PDHn81B"
         },
         {
-          "name": "Simmy",
-          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
         }
       ],
-      "duration_ms": 446908,
-      "name": "Uxolo - Club Mix",
-      "url": "https://open.spotify.com/track/0XwtsstpXSL5K5jcNBjQCc"
+      "duration_ms": 474180,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4tv8HUHpZRio3ydnv7ecqh"
     },
     {
       "added_at": null,
@@ -1111,54 +1131,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dlala Ngami (feat. Oskido)",
-        "url": "https://open.spotify.com/album/5yW3iyEcoInZDyttr2nJHP"
+        "name": "Amandla",
+        "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
       },
       "artists": [
         {
-          "name": "PRVIS3",
-          "url": "https://open.spotify.com/artist/2TzKdlrOilU7Mxp8HY6FTz"
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
         },
         {
-          "name": "Ntwana_R",
-          "url": "https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 484285,
-      "name": "Dlala Ngami (feat. Oskido)",
-      "url": "https://open.spotify.com/track/42Our4jALLfBWKDazfFEVX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reunited",
-        "url": "https://open.spotify.com/album/1pc9scQ5qX4lg0Opl83RB4"
-      },
-      "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
         },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "DJ Micks",
-          "url": "https://open.spotify.com/artist/4j9zc19lwaM4NY6PDHn81B"
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
         },
         {
-          "name": "May D",
-          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
         }
       ],
-      "duration_ms": 474180,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/4tv8HUHpZRio3ydnv7ecqh"
+      "duration_ms": 446908,
+      "name": "Uxolo - Club Mix",
+      "url": "https://open.spotify.com/track/0XwtsstpXSL5K5jcNBjQCc"
     },
     {
       "added_at": null,
@@ -1239,6 +1239,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "iThuba",
+        "url": "https://open.spotify.com/album/3A58oIuIwH9osLRMmV7kQD"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Nhlonipho",
+          "url": "https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW"
+        },
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        },
+        {
+          "name": "x Wise",
+          "url": "https://open.spotify.com/artist/54Ezt67ziGxr1pnen8NrKG"
+        }
+      ],
+      "duration_ms": 432144,
+      "name": "iThuba - Deep House Mix",
+      "url": "https://open.spotify.com/track/5swyymcx1oXoHa8R5Tueth"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legend Live",
         "url": "https://open.spotify.com/album/1LRXEDXI9ZsN1baHblE8ja"
       },
@@ -1267,30 +1295,6 @@
       "duration_ms": 484297,
       "name": "Amalunde - Club Mix",
       "url": "https://open.spotify.com/track/32lCjQc0DH3jnYSYnvTquV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canex Music Factory (Abidjan)",
-        "url": "https://open.spotify.com/album/7c1CjhhJHH4pHwIcqPiM9p"
-      },
-      "artists": [
-        {
-          "name": "REINE ABLAA",
-          "url": "https://open.spotify.com/artist/5zI8u3o0qt5REsgbywThko"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 249927,
-      "name": "I'm on my way",
-      "url": "https://open.spotify.com/track/26UzaTXlONYVj375gM4eBF"
     }
   ],
   "unique_name": "This Is OSKIDO",

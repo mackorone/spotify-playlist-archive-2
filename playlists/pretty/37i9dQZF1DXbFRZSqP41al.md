@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,791 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,944 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 36 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
 | 37 | [Into The Dark](https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:18 |
 | 38 | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [ALWAYS LET YOU DOWN \(feat\. A Day To Remember\)](https://open.spotify.com/album/11qgjRUBFe0yAR47559uaU) | 3:04 |
-| 39 | [Crying Fire](https://open.spotify.com/track/2u6rLo8cuQ91qse20KNPT8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Crying Fire](https://open.spotify.com/album/4U6mCQ4jD6gdJaUCllxwg0) | 4:08 |
-| 40 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
+| 39 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
+| 40 | [Crying Fire](https://open.spotify.com/track/2u6rLo8cuQ91qse20KNPT8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Crying Fire](https://open.spotify.com/album/4U6mCQ4jD6gdJaUCllxwg0) | 4:08 |
 | 41 | [An Ending In Itself](https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr) | 3:36 |
 | 42 | [Love To Be Loved](https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Love To Be Loved](https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN) | 2:50 |
-| 43 | [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/track/58Wc8a3rwHfJNEh6zlUvG9) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/album/5Z1VRg54WscbvqqXLfT0KX) | 4:23 |
-| 44 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
+| 43 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
+| 44 | [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/track/58Wc8a3rwHfJNEh6zlUvG9) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/album/5Z1VRg54WscbvqqXLfT0KX) | 4:23 |
 | 45 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 |
 | 46 | [I Will Not Break](https://open.spotify.com/track/6EdnztPkhHINbu8Y9NgIIR) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/52fk7ioJgZLmeKCbwjbfyG) | 4:52 |
 | 47 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 59 | [TWICE](https://open.spotify.com/track/3c7E75a0REL2z6jt8yfrjV) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [TWICE](https://open.spotify.com/album/29cUGht8DCeDQ9DDTVHlZG) | 3:44 |
 | 60 | [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 |
 
-Snapshot ID: `AAAAAKoa9DGmW2SD2+6wp4wu4lUs7Vxl`
+Snapshot ID: `AAAAALVLPPhk0OJjEgYCbwp3jBkFNH3B`

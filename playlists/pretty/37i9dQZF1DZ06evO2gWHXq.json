@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 227516,
+  "num_followers": 227520,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADc//zCWgriEI8f6ZgSIlxi",
+  "snapshot_id": "ao9+AAAAAACneJb0jLy6OB/pGqESHTEG",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Plaza en Plaza",
+        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -387,30 +411,6 @@
       "duration_ms": 268125,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Plaza en Plaza",
-        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ana Torroja",
-          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LULULEMON",
-        "url": "https://open.spotify.com/album/5UYYe9GIpJPCOwlkLMrjd5"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Miranda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "LULULEMON",
-      "url": "https://open.spotify.com/track/1WnG8q6f09ebulThpq3E5V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las 2 Caras",
         "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 205568,
       "name": "Round 3 (feat. C-Kan)",
       "url": "https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LULULEMON",
+        "url": "https://open.spotify.com/album/5UYYe9GIpJPCOwlkLMrjd5"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "LULULEMON",
+      "url": "https://open.spotify.com/track/1WnG8q6f09ebulThpq3E5V"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/2dbH2TKWAKoJxG1W0SZxmM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Acostumbraste",
-        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Te Acostumbraste",
-      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
     },
     {
       "added_at": null,

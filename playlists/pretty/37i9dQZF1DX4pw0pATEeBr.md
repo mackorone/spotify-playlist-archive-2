@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,977 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,057 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 13 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
 | 14 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 |
 | 15 | [In Da Club](https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 3:13 |
-| 16 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
-| 17 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 |
+| 16 | [Black and Yellow](https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Rolling Papers](https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD) | 3:37 |
+| 17 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
 | 18 | [All Eyez On Me \(ft\. Big Syke\)](https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Big Syke](https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 5:07 |
 | 19 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 |
 | 20 | [P.I.M.P.](https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 4:09 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 26 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 |
 | 27 | [Can't Be Touched](https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K) | [Body Head Bangerz](https://open.spotify.com/artist/219BoX4ga1r09kvBxWylN9), [Roy Jones Jr.](https://open.spotify.com/artist/5K6YsAKuRtcczPgxAdzc3B), [Mr Magic](https://open.spotify.com/artist/4e0Z9S1BolFuwPDnA8wOjF), [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC) | [Body Head Bangerz, Vol\. 1](https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe) | 3:34 |
 | 28 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 |
-| 29 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition Of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 |
-| 30 | [Leve](https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Viejo Marihuano](https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O) | 3:45 |
+| 29 | [Leve](https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Viejo Marihuano](https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O) | 3:45 |
+| 30 | [X Gon' Give It To Ya](https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [The Definition Of X: Pick Of The Litter](https://open.spotify.com/album/2ge7Lk4Sl7hHs4AYxqDbf1) | 3:37 |
 | 31 | [Poppin' Them Thangs](https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 4:00 |
 | 32 | [Me Ha Costado](https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:36 |
 | 33 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 59 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 |
 | 60 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 |
 
-Snapshot ID: `AAAAAMI9g263zDAFGAMpz/XB9KI3dCfj`
+Snapshot ID: `AAAAAGLK11iyI5nHGTW3eeHqP3MhWb5I`

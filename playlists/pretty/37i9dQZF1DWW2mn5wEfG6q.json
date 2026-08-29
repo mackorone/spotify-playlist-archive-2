@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 97493,
+  "num_followers": 97501,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOAk1bRthuLU54WFECODReb4m/Jh",
+  "snapshot_id": "AAAAAPrJwuZOeK53s8K9iqUJ/yRj3u1H",
   "tracks": [
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "MoM & DaD",
-        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 291773,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/45Q2zfxADpUcev6U5MS8KA"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 182518,
       "name": "Cardiac Arrest",
       "url": "https://open.spotify.com/track/0VUKyt3fMjws3me8rZJDua"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "MoM & DaD",
+        "url": "https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 291773,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Kangaroo Court",
+      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Lockjaw",
         "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Kangaroo Court",
-      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8"
       },
@@ -1419,38 +1419,6 @@
       "duration_ms": 242773,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 532306,
-      "name": "Under The Pressure",
-      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "The Bones Of What You Believe",
-        "url": "https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "Gun",
-      "url": "https://open.spotify.com/track/2jc0zOHNHAlechpt2H6unt"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1475,34 +1443,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z"
+        "name": "The Bones Of What You Believe",
+        "url": "https://open.spotify.com/album/03U41p2XNP3oP3REeEDMrQ"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
         }
       ],
-      "duration_ms": 188280,
-      "name": "Devil Like Me",
-      "url": "https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
+      "duration_ms": 233986,
+      "name": "Gun",
+      "url": "https://open.spotify.com/track/2jc0zOHNHAlechpt2H6unt"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1516,9 +1468,25 @@
           "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 431746,
-      "name": "An Ocean In Between The Waves",
-      "url": "https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM"
+      "duration_ms": 532306,
+      "name": "Under The Pressure",
+      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Devil Like Me",
+      "url": "https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1539,34 +1507,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Thr!!!er",
-        "url": "https://open.spotify.com/album/3ywERU9rVKEpCQE50fQOgM"
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL"
       },
       "artists": [
         {
-          "name": "!!!",
-          "url": "https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg"
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 243626,
-      "name": "One Girl / One Boy",
-      "url": "https://open.spotify.com/track/7y8aVfDkqt6qirGNivvs0M"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1591,18 +1543,34 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "The Double EP: A Sea of Split Peas",
-        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
       },
       "artists": [
         {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 312226,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
+      "duration_ms": 431746,
+      "name": "An Ocean In Between The Waves",
+      "url": "https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Thr!!!er",
+        "url": "https://open.spotify.com/album/3ywERU9rVKEpCQE50fQOgM"
+      },
+      "artists": [
+        {
+          "name": "!!!",
+          "url": "https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "One Girl / One Boy",
+      "url": "https://open.spotify.com/track/7y8aVfDkqt6qirGNivvs0M"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1635,6 +1603,38 @@
       "duration_ms": 194733,
       "name": "Blondie",
       "url": "https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "The Double EP: A Sea of Split Peas",
+        "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 312226,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
     }
   ],
   "unique_name": "Best of Indie 2013",

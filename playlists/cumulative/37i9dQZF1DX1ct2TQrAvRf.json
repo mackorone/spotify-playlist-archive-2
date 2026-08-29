@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover - Jordan Sandhu",
+  "description": "India's Rap Scene. Cover - Badshah",
   "name": "RAP 91",
   "tracks": [
     {
@@ -468,7 +468,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 165000,
       "name": "Ace",
       "url": "https://open.spotify.com/track/33H3JkG5kAlqwgtI5rYbpP"
@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Hustle 5 - Episode 3",
+        "url": "https://open.spotify.com/album/2noBwTxLXKo9OJdSxJb8PT"
+      },
+      "artists": [
+        {
+          "name": "Raaj Babu",
+          "url": "https://open.spotify.com/artist/0upP3hJOHMqdxmK74O225f"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Baba Bam Bam",
+      "url": "https://open.spotify.com/track/2k83FqnPfkc0GcLzuD3Cyn"
+    },
+    {
+      "album": {
         "name": "Systumm",
         "url": "https://open.spotify.com/album/3X6OFKhCfx2cG3rzLHDkAK"
       },
@@ -1070,6 +1092,32 @@
       "duration_ms": 133333,
       "name": "BANDANA",
       "url": "https://open.spotify.com/track/4yi6OcrsOfCKju2Yf8uRdb"
+    },
+    {
+      "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck"
     },
     {
       "album": {
@@ -1708,7 +1756,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 139248,
       "name": "Cash Cash",
       "url": "https://open.spotify.com/track/4M60JVJPqNzIkJy4V6Jfi1"
@@ -2018,7 +2066,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 136250,
       "name": "Convo",
       "url": "https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm"
@@ -2436,7 +2484,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 163695,
       "name": "Do Numbari - From \u201cMirzapur The Movie\u201d",
       "url": "https://open.spotify.com/track/7BFjTmlBWID1KyN3XagG9w"
@@ -3749,6 +3797,32 @@
     },
     {
       "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/4ZbDtK4rvjgDiyofGLQzot"
+      },
+      "artists": [
+        {
+          "name": "Jxggi",
+          "url": "https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG"
+        },
+        {
+          "name": "Dishant",
+          "url": "https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ"
+        },
+        {
+          "name": "Sickboi",
+          "url": "https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155820,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/3Hp5UfErvtHw0SlkRPHkf9"
+    },
+    {
+      "album": {
         "name": "Hustle 2.0",
         "url": "https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS"
       },
@@ -4354,7 +4428,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 171089,
       "name": "Khamma Ghani",
       "url": "https://open.spotify.com/track/459tc67J7MQlP0r0JWlu5g"
@@ -5864,7 +5938,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 191808,
       "name": "Neon Ride (From \"Officer On Duty\")",
       "url": "https://open.spotify.com/track/62jJIT02EzElM7u2Xeh4FQ"
@@ -8320,6 +8394,28 @@
       "duration_ms": 191901,
       "name": "TRAP PRAA",
       "url": "https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd"
+    },
+    {
+      "album": {
+        "name": "Treat Me Special",
+        "url": "https://open.spotify.com/album/5MwIGh9ZahfCn8MNMa5Rh2"
+      },
+      "artists": [
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236117,
+      "name": "Treat Me Special",
+      "url": "https://open.spotify.com/track/2AsfOLF45LkYqUjpmOlKhP"
     },
     {
       "album": {

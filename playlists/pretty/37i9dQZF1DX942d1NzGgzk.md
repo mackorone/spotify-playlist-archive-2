@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: JEDSOUL
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,483 likes - 69 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,507 likes - 69 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 68 | [Distance](https://open.spotify.com/track/41gGYveHrgZoUIHmxRcif8) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Distance](https://open.spotify.com/album/0Vo4QBLiC7wdCuG58pgRwa) | 3:14 |
 | 69 | [Fucking City](https://open.spotify.com/track/0QHZKuclgLPqxLaubCQFGU) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Fucking City](https://open.spotify.com/album/1XxMzVdnpaFG8juiO28E97) | 3:18 |
 
-Snapshot ID: `AAAAAABOi1fQjmSeuANFSOFHLS+F8qPP`
+Snapshot ID: `AAAAACRbHCFMY6joCWt1TbJAj1JubzDj`

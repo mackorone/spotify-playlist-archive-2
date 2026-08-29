@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Cam'ron",
-  "num_followers": 448065,
+  "num_followers": 448159,
   "original_name": "2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJM6t6/CrJNuWx6RUHzf/BWWTnE7",
+  "snapshot_id": "AAAAAHPgbAaJGiJFqyfBtMPQQCia4KGb",
   "tracks": [
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Westside Story",
+      "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Detroit Deli (A Taste Of Detroit)",
         "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
       },
@@ -1623,26 +1643,6 @@
       "duration_ms": 254706,
       "name": "Like A Pimp",
       "url": "https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Westside Story",
-      "url": "https://open.spotify.com/track/0lOe1dR2TNkJMCjIcRuw6T"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "The People's Champ",
-        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Big Pokey",
-          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sittin' Sidewayz (feat. Big Pokey)",
-      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "On Top Of Our Game",
         "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 229813,
       "name": "Lean Wit It, Rock Wit It",
       "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "The People's Champ",
+        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Sittin' Sidewayz (feat. Big Pokey)",
+      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Light Poles And Pine Trees",
-        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
-      },
-      "artists": [
-        {
-          "name": "Field Mob",
-          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Rich Boy",
         "url": "https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 263920,
       "name": "Throw Some D's",
       "url": "https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Light Poles And Pine Trees",
+        "url": "https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR"
+      },
+      "artists": [
+        {
+          "name": "Field Mob",
+          "url": "https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
     }
   ],
   "unique_name": "2000s Hip-Hop",

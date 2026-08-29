@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,330 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,246 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 33 | [Todas las Hojas Son del Viento](https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 2:10 |
 | 34 | [Barro Tal Vez](https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Kamikaze](https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt) | 3:17 |
 | 35 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
-| 36 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
-| 37 | [Nos Veremos Otra Vez](https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:58 |
+| 36 | [Nos Veremos Otra Vez](https://open.spotify.com/track/1FBdUVBQsG8suMoKaF3GOi) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:58 |
+| 37 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
 | 38 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 |
 | 39 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
 | 40 | [Y Lo Que Quiero Es Que Pises Sin El Suelo](https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:12 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 46 | [Viento, Dile a la Lluvia](https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Viento Dile a la Lluvia](https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h) | 2:49 |
 | 47 | [Jugo de Tomate](https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 2:46 |
 | 48 | [Solo Se Trata de Vivir](https://open.spotify.com/track/4vKvCed2EoxBl4DFSqSUH8) | [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Solo Se Trata de Vivir / Solopiano Vol\. 1](https://open.spotify.com/album/1qGJPF96mr8TReD46byqez) | 4:18 |
-| 49 | [Irresponsables](https://open.spotify.com/track/6d4d6cwiAf59mKxoRmXQoK) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/5chAuifdjaRoIqlnG4Lbun) | 2:40 |
-| 50 | [Mañana Campestre](https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM) | 2:49 |
+| 49 | [Mañana Campestre](https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM) | 2:49 |
+| 50 | [Irresponsables](https://open.spotify.com/track/6d4d6cwiAf59mKxoRmXQoK) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/5chAuifdjaRoIqlnG4Lbun) | 2:40 |
 | 51 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
 | 52 | [No Pibe](https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 3:50 |
 | 53 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 69 | [Salgan al Sol](https://open.spotify.com/track/6p8mHQFj6xcNyizDj6ly0s) | [Billy Bond y La Pesada](https://open.spotify.com/artist/4Se6WxeebNL0yEAs7NvCMY) | [Billy Bond y la Pesada del Rock And Roll](https://open.spotify.com/album/7aUqnB7wm0Ak4Hh7magbIG) | 3:19 |
 | 70 | [Yo Caníbal](https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Cordero Atado](https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk) | 2:56 |
 
-Snapshot ID: `AAAAAIY7hg9JXFuTGd5/+e7rNvPykrpS`
+Snapshot ID: `AAAAAFB9z8ub9W4ExIVu9qNIgd1eTn1t`

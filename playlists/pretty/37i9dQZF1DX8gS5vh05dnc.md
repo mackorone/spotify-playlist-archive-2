@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,057 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,058 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 47 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 |
 | 48 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 |
 | 49 | [New Man](https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:09 |
-| 50 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 51 | [Never Gunna Give You Up](https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Never Gunna Give You Up](https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno) | 2:45 |
+| 50 | [Never Gunna Give You Up](https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Never Gunna Give You Up](https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno) | 2:45 |
+| 51 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 52 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
 | 53 | [2002](https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU) | 3:06 |
 | 54 | [I Choose You](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:38 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 66 | [Boys](https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Boys](https://open.spotify.com/album/4cdqRn65PB3wyN2Yog1nc8) | 2:42 |
 | 67 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
 | 68 | [When I Get Old](https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [When I Get Old](https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14) | 3:04 |
-| 69 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
-| 70 | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ) | 3:29 |
-| 71 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
-| 72 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 |
-| 73 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
-| 74 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
+| 69 | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ) | 3:29 |
+| 70 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
+| 71 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 |
+| 72 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
+| 73 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
+| 74 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
 | 75 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
 
-Snapshot ID: `AAAAAD2r/QeWYlxuo+UrSpAE9rTS6oQ6`
+Snapshot ID: `AAAAAGQ33ckjS6xoZQDXVgvrkQzszggq`

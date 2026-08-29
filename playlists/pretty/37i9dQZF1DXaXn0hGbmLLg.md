@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! August ambassador: <a href="spotify:artist:2sGGaKKex7GgNlH1DRXZSa">Inez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,400 likes - 65 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,398 likes - 65 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,18 +60,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 50 | [Stargazing](https://open.spotify.com/track/7nUrhcVX8F1KUrkd07cSRY) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Stargazing](https://open.spotify.com/album/6l5AHOZgUmR4LXN2vsuiD2) | 2:58 |
 | 51 | [Perception](https://open.spotify.com/track/5s6SQ85tdstlHhQKY2pVIJ) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Perception](https://open.spotify.com/album/2lDANQGfYfXQoY44oeLOSC) | 3:16 |
 | 52 | [July](https://open.spotify.com/track/4lKk4P7C9aZlgpPE6LNS4J) | [Iris Noëlle](https://open.spotify.com/artist/5j64iek3q0Ma2O9HSIdkoi) | [July](https://open.spotify.com/album/3R9zDIiHPez2zbX0AR8yP1) | 2:27 |
-| 53 | [stupid](https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [AURORA](https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5) | 2:19 |
-| 54 | [Diablo](https://open.spotify.com/track/1lFPFd6M6X7IWpeNH1AYrf) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Diablo](https://open.spotify.com/album/7fO6USOF62EnuRGS0X4VxL) | 2:27 |
+| 53 | [Diablo](https://open.spotify.com/track/1lFPFd6M6X7IWpeNH1AYrf) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Diablo](https://open.spotify.com/album/7fO6USOF62EnuRGS0X4VxL) | 2:27 |
+| 54 | [stupid](https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [AURORA](https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5) | 2:19 |
 | 55 | [Love Me \(Soul Card Never Declines\)](https://open.spotify.com/track/6d4JIch090xEhhxPfk1Slt) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Love Me \(Soul Card Never Declines\)](https://open.spotify.com/album/4zNLKcm2F1Wwazx7QKj2nR) | 2:49 |
 | 56 | [Make It Real Fierce](https://open.spotify.com/track/0c5OZc96uyhE2gGZsBY6aL) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA), [TEKNA](https://open.spotify.com/artist/5LW8LrgVritmSBpg92B24n) | [Make It Real Fierce](https://open.spotify.com/album/6rLWkeuygRzHjGQXUYQWWn) | 3:27 |
-| 57 | [Metamorfose](https://open.spotify.com/track/3OdKVzO9nvHTDG5U1pL0T5) | [Teddy Fee](https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc) | [Metamorfose](https://open.spotify.com/album/4G8iMtkUqayoKTSecl9GJL) | 2:48 |
-| 58 | [Sad & Horny](https://open.spotify.com/track/0qvxyEcaB9LFWpHDt0sLZe) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Sad & Horny](https://open.spotify.com/album/7bb2fOmEUOosOAhinucFd0) | 3:01 |
-| 59 | [Toi jtm trop](https://open.spotify.com/track/0RUkBzISb00tMKqVUK6yay) | [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [Toi jtm trop](https://open.spotify.com/album/25WaAVvuxxzFYknqP0w0h0) | 2:38 |
-| 60 | [Ride it](https://open.spotify.com/track/7DXF7TggrJ7dkKqizP9jIs) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh), [PD.](https://open.spotify.com/artist/7rz9p10il5iQGYxeYHLNns) | [Ride it](https://open.spotify.com/album/1Uo2mVqKqn69SOvXteGkjZ) | 3:14 |
+| 57 | [Ride it](https://open.spotify.com/track/7DXF7TggrJ7dkKqizP9jIs) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh), [PD.](https://open.spotify.com/artist/7rz9p10il5iQGYxeYHLNns) | [Ride it](https://open.spotify.com/album/1Uo2mVqKqn69SOvXteGkjZ) | 3:14 |
+| 58 | [Toi jtm trop](https://open.spotify.com/track/0RUkBzISb00tMKqVUK6yay) | [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [Toi jtm trop](https://open.spotify.com/album/25WaAVvuxxzFYknqP0w0h0) | 2:38 |
+| 59 | [Sad & Horny](https://open.spotify.com/track/0qvxyEcaB9LFWpHDt0sLZe) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Sad & Horny](https://open.spotify.com/album/7bb2fOmEUOosOAhinucFd0) | 3:01 |
+| 60 | [Metamorfose](https://open.spotify.com/track/3OdKVzO9nvHTDG5U1pL0T5) | [Teddy Fee](https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc) | [Metamorfose](https://open.spotify.com/album/4G8iMtkUqayoKTSecl9GJL) | 2:48 |
 | 61 | [it wasn't a crime](https://open.spotify.com/track/2vwEP2ROidDiKdyDz6FuJ4) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [it wasn't a crime](https://open.spotify.com/album/7sHpR8fo2bBa4bPfcAmtR2) | 3:45 |
 | 62 | [Paper Bits](https://open.spotify.com/track/2IR4GcoHBGH6ayfy3GalCl) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Paper Bits](https://open.spotify.com/album/6yy4JrscKlQdL6kDFeeNYc) | 2:59 |
 | 63 | [Thirty\-five](https://open.spotify.com/track/5fVeuj6BeEfQ8i30qOwFlu) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Thirty\-five](https://open.spotify.com/album/3yXOtSKXgxGKU1Sd36XMVl) | 3:04 |
 | 64 | [De Zon](https://open.spotify.com/track/4vnPFSnJa5GdHUg7Xd02O4) | [Amélie Esmée](https://open.spotify.com/artist/4F6j4Zt7hozI7BtYPCUMgI) | [De Zon](https://open.spotify.com/album/7lTszhv7bJviybhIV48Cax) | 2:28 |
 | 65 | [Heimwee \- Remix](https://open.spotify.com/track/0A1NMwgibqs2klSlgPUcFM) | [Jasha Eliane](https://open.spotify.com/artist/6aY6UyadP2c9dOcc8kIkRU) | [Heimwee \(Remix\)](https://open.spotify.com/album/0GUXlrV5QrgRqPvdgOfOaP) | 2:41 |
 
-Snapshot ID: `AAAAAEcaZ15eh0luISyd1Uxb7qQmnAnH`
+Snapshot ID: `AAAAAMGh1Zw1CrGzHtvQKGNPAR5RS/UK`

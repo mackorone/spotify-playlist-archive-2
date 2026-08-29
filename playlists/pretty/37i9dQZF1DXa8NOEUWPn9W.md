@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring Chris Lake, Chris Lorenzo and Kenny Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997,128 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,997,640 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 99 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 |
 | 100 | [Shinjuku](https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Shinjuku](https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz) | 2:47 |
 
-Snapshot ID: `AAAAAJzoHoc1I1Q69dF9qmnTu9xol0Cu`
+Snapshot ID: `AAAAAILcW+p+RoFq9o9R6SwZAw8UAOKo`

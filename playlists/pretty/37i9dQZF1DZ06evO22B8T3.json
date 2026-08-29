@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308874,
+  "num_followers": 1308884,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABG5PkSRAbW94kh8DeQXD8g",
+  "snapshot_id": "ao9+AAAAAACg0trZ70YDV1RPmtOAe7U+",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Tiene Mal",
+        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 250697,
+      "name": "Me Tiene Mal",
+      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
       },
@@ -63,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Tiene Mal",
-        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
       },
       "artists": [
         {
@@ -72,29 +88,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 250697,
-      "name": "Me Tiene Mal",
-      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 256522,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
+      "duration_ms": 180000,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
     },
     {
       "added_at": null,
@@ -115,18 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL"
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
       },
       "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
+      "duration_ms": 256522,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reci\u00e9n Soltera",
+        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 183856,
+      "name": "Reci\u00e9n Soltera",
+      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
         "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 258541,
       "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23/66",
       "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reci\u00e9n Soltera",
-        "url": "https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 183856,
-      "name": "Reci\u00e9n Soltera",
-      "url": "https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV"
     },
     {
       "added_at": null,
@@ -555,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noche Complicada",
-        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
+        "name": "Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
       },
       "artists": [
-        {
-          "name": "Frijo",
-          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
-        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 211208,
-      "name": "Noche Complicada",
-      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
+      "duration_ms": 165517,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+        "name": "Noche Complicada",
+        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
       },
       "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+      "duration_ms": 211208,
+      "name": "Noche Complicada",
+      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
     },
     {
       "added_at": null,

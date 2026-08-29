@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1112648,
+  "num_followers": 1112519,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEpomYtOALZr7uCb8ytDBI27A/3c",
+  "snapshot_id": "AAAAAFPRulZJ13tIjzjuTYFvT+d89VzB",
   "tracks": [
     {
       "added_at": "2024-08-23 15:12:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Sub Rosa",
         "url": "https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 244570,
       "name": "Should I",
       "url": "https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Granny Music",
-        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "I Wish I Knew",
         "url": "https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 229626,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Granny Music",
+        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Aldous Harding",
-        "url": "https://open.spotify.com/album/2Kecdv9NPLSHoIjZvARyWz"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 338639,
-      "name": "Stop Your Tears",
-      "url": "https://open.spotify.com/track/1ipOWUZFRUbHF0IVb00QAh"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Cherry In Tacoma",
         "url": "https://open.spotify.com/album/32peyMgk2J7Ro7X6rLjxZR"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 222866,
       "name": "Cherry In Tacoma",
       "url": "https://open.spotify.com/track/09oUu07p0Hp845lehhYsYG"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Aldous Harding",
+        "url": "https://open.spotify.com/album/2Kecdv9NPLSHoIjZvARyWz"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 338639,
+      "name": "Stop Your Tears",
+      "url": "https://open.spotify.com/track/1ipOWUZFRUbHF0IVb00QAh"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "Little Giant",
+        "url": "https://open.spotify.com/album/3FCtsJuZCiozE6mV2Bgjfc"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Tiger Striped Sky",
+      "url": "https://open.spotify.com/track/7GaolPg6f0qNwZPDXSriR0"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "Folding Leaves",
         "url": "https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 268626,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/1rAoMvrhI0Ozalbow7Lu6F"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Poison & Wine",
-      "url": "https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye"
     }
   ],
   "unique_name": "Evening Acoustic",

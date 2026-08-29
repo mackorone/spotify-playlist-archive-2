@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov:  \~Seoul\~ searching with your besties, curated by Anna Cathcart \. Cover: XO, Kitty cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,846 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,851 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 | 26 | [Deeply Still In Love](https://open.spotify.com/track/2jAQzmhwPPcc6jBx4w664w) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 4:02 |
 | 27 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/07hbdNti9gk29sidptgZou) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 2:13 |
 | 28 | [girl i’ve always been](https://open.spotify.com/track/0bJAmhSAeMSfsyazOEUVFf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:01 |
-| 29 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 |
+| 29 | [Good To Be \- Acoustic](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 |
 | 30 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 |
 
-Snapshot ID: `AAAAAMdJSiMrqwSGe+Ob0jPFcbC1LV39`
+Snapshot ID: `AAAAAC0zGPQY3gmbyDc48/KVW/kGEWKV`

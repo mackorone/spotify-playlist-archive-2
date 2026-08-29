@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110,230 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110,335 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 37 | [Pretty Vacant](https://open.spotify.com/track/21rz5LMBiIpQWRGQcb0xIg) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:17 |
 | 38 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
 | 39 | [Machine Gun Blues](https://open.spotify.com/track/3d5Cnswx1dxmjUbn1Dp3JQ) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Hard Times And Nursery Rhymes \(Deluxe Edition\)](https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK) | 3:33 |
-| 40 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 |
-| 41 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
+| 40 | [Sonic Reducer](https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G) | [Dead Boys](https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc) | [Young, Loud And Snotty](https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ) | 3:09 |
+| 41 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 |
 | 42 | [The Hell Song](https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG) | 3:19 |
 | 43 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
 | 44 | [History Of A Boring Town](https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:22 |
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 71 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
 | 72 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
 | 73 | [Gangsters and Thugs](https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Haunted Cities](https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8) | 3:54 |
-| 74 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
-| 75 | [Shoot the Moon](https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:13 |
-| 76 | [Sugar Youth](https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 1:54 |
+| 74 | [Shoot the Moon](https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:13 |
+| 75 | [Sugar Youth](https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 1:54 |
+| 76 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
 | 77 | [Punk Rock And Roll](https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm) | [Street Dogs](https://open.spotify.com/artist/0spqoVkfVzRyAPmA6ZY5F9) | [Street Dogs \(Deluxe Edition\)](https://open.spotify.com/album/5MTaJz4tetHALsZ86ghDbC) | 2:34 |
 | 78 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
-| 79 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 |
-| 80 | [hollywood sucks//](https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [hollywood sucks//](https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1) | 2:33 |
-| 81 | [Black Hole In My Mind](https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4) | [The Lillingtons](https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX) | [Death By Television](https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r) | 3:16 |
+| 79 | [hollywood sucks//](https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [hollywood sucks//](https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1) | 2:33 |
+| 80 | [Black Hole In My Mind](https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4) | [The Lillingtons](https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX) | [Death By Television](https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r) | 3:16 |
+| 81 | [Knifeman](https://open.spotify.com/track/3jGUd86f3hLJixceqMxHWi) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(III\)](https://open.spotify.com/album/1wV7SCqsLLBObCcrPpc6sZ) | 3:55 |
 | 82 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 |
 | 83 | [Failed Imagineer](https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:11 |
 | 84 | [Fuck The World](https://open.spotify.com/track/1VyXtvIHF8eytwxxDLsE3Z) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Scandinavian Leather](https://open.spotify.com/album/1qK9Xlui8xqhWkMiVPIQbP) | 4:14 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 90 | [Devil's Kind](https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS) | [The Longshot](https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O) | [Devil's Kind](https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps) | 3:01 |
 | 91 | [Ac/Dc CD](https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [AC/DC CD](https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL) | 1:43 |
 | 92 | [Generational Divide](https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 0:49 |
-| 93 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 |
-| 94 | [Nothing Can Stop Me](https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A War Against You](https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao) | 3:18 |
+| 93 | [Nothing Can Stop Me](https://open.spotify.com/track/0ziRMfe23VgL3Gp619AXU4) | [Ignite](https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr) | [A War Against You](https://open.spotify.com/album/1YucLjJNiClZ4C0J3Zi8ao) | 3:18 |
+| 94 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 |
 | 95 | [Strain Your Memory](https://open.spotify.com/track/1d1az3MIWrJvcNrgNMJTYA) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Hello Exile](https://open.spotify.com/album/5baJxk2fGaLorySaf6173S) | 4:04 |
 | 96 | [Painful Reminder](https://open.spotify.com/track/2OEtxMnhS1quoMaZQUfruh) | [SNFU](https://open.spotify.com/artist/47gDsI3zhRtZPGK7Hv3uxm) | [Something Green And Leafy This Way Comes](https://open.spotify.com/album/6C2Wf1yvr3GinoYZhuPow4) | 4:07 |
 | 97 | [DTDFL4EVA](https://open.spotify.com/track/1oVUL5VqHYlYfTj3MmjXIo) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav) | [You Got Me Fucked Up](https://open.spotify.com/album/44fuTbcbSvQZ4XFNqUvVUY) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Never Gonna Die](https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:40 |
 | 100 | [Thrash Metal Cassette](https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Thrash Metal Cassette](https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY) | 3:39 |
 
-Snapshot ID: `AAAAAJwLBhTygVamlXyQiFFyPmPvuNJx`
+Snapshot ID: `AAAAAI+HJFTEaYXxLWj0N8uX39cF4I14`

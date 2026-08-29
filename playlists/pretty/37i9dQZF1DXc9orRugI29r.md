@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > LAS CANCIONES MÁS 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,895 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,340 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DOLCE VITA](https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [WET DREAMS](https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr) | 3:10 |
-| 2 | [PARAMICORAZON:](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON:](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
+| 2 | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
 | 3 | [Mar Azul](https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mar Azul](https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH) | 3:41 |
 | 4 | [2K16](https://open.spotify.com/track/7ltPg1coX21JZpLGgxy6yL) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Jose Dolche](https://open.spotify.com/artist/52wmMMnrrpKH0caPjpTiUy) | [2K16](https://open.spotify.com/album/15rFrJKP6Siy00f1Od1tKM) | 3:38 |
 | 5 | [CARITA FELIZ](https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [CARITA FELIZ](https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 | 49 | [PASE Y PASE](https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [PASE Y PASE](https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm) | 3:01 |
 | 50 | [Gané](https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Gané](https://open.spotify.com/album/2XnvAhJy0R6qJT6GVYhKuZ) | 4:20 |
 
-Snapshot ID: `AAAAAKnx92TDBVS6HkvzmS1Qh15ZNIBB`
+Snapshot ID: `AAAAAK88fouBUcTvF4QNkzZezmmT/mD7`

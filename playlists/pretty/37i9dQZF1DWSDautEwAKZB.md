@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 
 > Latin songs you love like you've never heard before\. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,357 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,356 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDautEwAKZB.md) - [plain]
 | 61 | [La HP \- Spotify Singles](https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La HP \- Spotify Singles](https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB) | 3:06 |
 | 62 | [Bestia Pequeña \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PLVHnNpWuBDAEgQYibr45) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 3:01 |
 | 63 | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n) | 2:50 |
-| 64 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
-| 65 | [i don't think i love you anymore \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 4:12 |
+| 64 | [i don't think i love you anymore \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5ktZjdvIKoO18PPtPRTAuD) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 4:12 |
+| 65 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 |
 | 66 | [Lizard \(Alternate Universe\) \- Spotify Singles](https://open.spotify.com/track/1CGKhnXxoyXZa2PLQdYW1X) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 2:51 |
-| 67 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 |
-| 68 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 |
-| 69 | [Alemania \- Spotify Singles \(Blackpaw Remix\)](https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [BLACKPAW](https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 4:10 |
+| 67 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 |
+| 68 | [Alemania \- Spotify Singles \(Blackpaw Remix\)](https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [BLACKPAW](https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 4:10 |
+| 69 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 |
 | 70 | [Oops \(Oh My\) \- Spotify Singles](https://open.spotify.com/track/5qYEH8inKVQiNdkZWG9YZv) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Spotify Singles](https://open.spotify.com/album/1JYgWwo96pzXFLymyz6RX3) | 3:04 |
 
-Snapshot ID: `AAAAAFkiiZRRThppGrEUd46wFDFP8KKU`
+Snapshot ID: `AAAAAGPeq4DYPWJ6Ur3OaTknwQwehblR`

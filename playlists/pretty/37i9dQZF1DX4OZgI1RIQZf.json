@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140657,
+  "num_followers": 140651,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIx+EToPnrmA8fuJg97vH60XSW2c",
+  "snapshot_id": "AAAAAEqGhHO0uJVqXXaTsSrdVNLTJVQP",
   "tracks": [
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Vampyr",
-        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 246292,
-      "name": "Vampyr",
-      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Knock Knock! (It's Halloween)",
         "url": "https://open.spotify.com/album/7oQmFXScEzUQ2buEYoZRyM"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 152000,
       "name": "Knock Knock! (It's Halloween)",
       "url": "https://open.spotify.com/track/37K6U3mGV0JsJFcaIRGYpp"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Vampyr",
+        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 246292,
+      "name": "Vampyr",
+      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1255,6 +1255,22 @@
       "duration_ms": 211626,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/7lsXE4f6JvbQC2bVUsEQHI"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Holiday in Lily Dale",
+        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
+      },
+      "artists": [
+        {
+          "name": "Get Well Soon",
+          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+        }
+      ],
+      "duration_ms": 293901,
+      "name": "Holiday in Lily Dale",
+      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1323,6 +1339,22 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
+        "name": "Carry On The Grudge",
+        "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 246186,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
       },
@@ -1351,6 +1383,22 @@
       "duration_ms": 271546,
       "name": "Blood Red Moon",
       "url": "https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "The Physical World",
+        "url": "https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Right On, Frankenstein!",
+      "url": "https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1403,22 +1451,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Carry On The Grudge",
-        "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 246186,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Never Truly Happy",
         "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
       },
@@ -1431,38 +1463,6 @@
       "duration_ms": 136459,
       "name": "delulu",
       "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
-        "name": "Drowaton",
-        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
-      },
-      "artists": [
-        {
-          "name": "Starlight Mints",
-          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
-        }
-      ],
-      "duration_ms": 162320,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/0OaVZJwUqAyLlniMCB5O6K"
-      },
-      "artists": [
-        {
-          "name": "Teleman",
-          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Skeleton Dance",
-      "url": "https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn"
     }
   ],
   "unique_name": "Indie Halloween",

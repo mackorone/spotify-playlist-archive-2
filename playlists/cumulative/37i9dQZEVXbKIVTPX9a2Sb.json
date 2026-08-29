@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -12320,7 +12320,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -15650,6 +15650,28 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "album": {
+        "name": "MHD FLASHBACK",
+        "url": "https://open.spotify.com/album/5x9HxD0DKKhjOa5QaPTk5Z"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        },
+        {
+          "name": "Smack One",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180223,
+      "name": "FOTOALBUM",
+      "url": "https://open.spotify.com/track/3nT2vmKcx4PZamEMAU7onq"
     },
     {
       "album": {
@@ -22337,6 +22359,28 @@
     },
     {
       "album": {
+        "name": "Ivan Bogdanov",
+        "url": "https://open.spotify.com/album/47VQfJ3mpfbmYYLrDahkQV"
+      },
+      "artists": [
+        {
+          "name": "Smolki13K",
+          "url": "https://open.spotify.com/artist/1HvbncRao6Ct5pgnT5FyFa"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196687,
+      "name": "Ivan Bogdanov",
+      "url": "https://open.spotify.com/track/5VgEzKDS7RYKp1q1vUTbPT"
+    },
+    {
+      "album": {
         "name": "Bird's Eye View",
         "url": "https://open.spotify.com/album/3MbQcpRFZB8zWXVoeIiZL2"
       },
@@ -23208,7 +23252,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
@@ -26740,7 +26784,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 198418,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/4CHL6WxMFkQ8gPHx7a0Bsm"
@@ -34006,7 +34050,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "nikto ako my",
       "url": "https://open.spotify.com/track/2M9vtafpahKq5FxGAFwAzy"
@@ -35686,7 +35730,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -52020,7 +52064,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 135283,
       "name": "Ups and downs",
       "url": "https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat"

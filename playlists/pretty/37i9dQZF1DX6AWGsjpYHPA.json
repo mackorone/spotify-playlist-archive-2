@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 193674,
+  "num_followers": 193700,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOT4gnKlsw73W9bos3j2sppPNa7a",
+  "snapshot_id": "AAAAAM8QY2L4F1LLqiiimhuUXzZdICaW",
   "tracks": [
     {
       "added_at": "2026-04-03 04:00:50",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Doin It!!!!",
-        "url": "https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW"
-      },
-      "artists": [
-        {
-          "name": "The Equatics",
-          "url": "https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Doin It!!!!",
+        "url": "https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW"
+      },
+      "artists": [
+        {
+          "name": "The Equatics",
+          "url": "https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n"
+      },
+      "artists": [
+        {
+          "name": "Hugo Massien",
+          "url": "https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu"
+        }
+      ],
+      "duration_ms": 373666,
+      "name": "God Knows We Tried",
+      "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "Wind Parade",
         "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n"
-      },
-      "artists": [
-        {
-          "name": "Hugo Massien",
-          "url": "https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu"
-        }
-      ],
-      "duration_ms": 373666,
-      "name": "God Knows We Tried",
-      "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Dr. Buzzard's Original Savannah Band",
-        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
-      },
-      "artists": [
-        {
-          "name": "Dr. Buzzard's Original Savannah Band",
-          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Sunshower",
-      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 276008,
       "name": "Desmond's Empire",
       "url": "https://open.spotify.com/track/57vEXvnoTpXlLi3wYES4uQ"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Dr. Buzzard's Original Savannah Band",
+        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
+      },
+      "artists": [
+        {
+          "name": "Dr. Buzzard's Original Savannah Band",
+          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Sunshower",
+      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "We Need Each Other",
-        "url": "https://open.spotify.com/album/2gwtUQfKm4CBPWbdTx5kWD"
-      },
-      "artists": [
-        {
-          "name": "Leo's Sunshipp",
-          "url": "https://open.spotify.com/artist/4EekqrO6EowqVZsapOHOPF"
-        }
-      ],
-      "duration_ms": 305293,
-      "name": "I'm Back For More",
-      "url": "https://open.spotify.com/track/1Fg71dcYDegFwGLfjy00ks"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Diego",
         "url": "https://open.spotify.com/album/7KQ8oLOuSsHnpSq2yAdlQq"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 168346,
       "name": "Diego",
       "url": "https://open.spotify.com/track/4rLKdsZ9RMZePn8mJ5fphn"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "We Need Each Other",
+        "url": "https://open.spotify.com/album/2gwtUQfKm4CBPWbdTx5kWD"
+      },
+      "artists": [
+        {
+          "name": "Leo's Sunshipp",
+          "url": "https://open.spotify.com/artist/4EekqrO6EowqVZsapOHOPF"
+        }
+      ],
+      "duration_ms": 305293,
+      "name": "I'm Back For More",
+      "url": "https://open.spotify.com/track/1Fg71dcYDegFwGLfjy00ks"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "E.VAX",
-        "url": "https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF"
-      },
-      "artists": [
-        {
-          "name": "E.VAX",
-          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
-        }
-      ],
-      "duration_ms": 155653,
-      "name": "Koko",
-      "url": "https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Yesterday Is Heavy",
         "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "E.VAX",
+        "url": "https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF"
+      },
+      "artists": [
+        {
+          "name": "E.VAX",
+          "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
+        }
+      ],
+      "duration_ms": 155653,
+      "name": "Koko",
+      "url": "https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI"
     },
     {
       "added_at": "2026-04-03 04:00:50",

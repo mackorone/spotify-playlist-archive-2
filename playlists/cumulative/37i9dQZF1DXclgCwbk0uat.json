@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 115744,
       "name": "222",
       "url": "https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 176568,
       "name": "Ah\u00ed",
       "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
@@ -3399,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "Diablote",
+        "url": "https://open.spotify.com/album/1zkxKspNkU4qK9gsXCH0e6"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150006,
+      "name": "Diablote",
+      "url": "https://open.spotify.com/track/09m5wlL1QNpTBSPxHBSEFr"
+    },
+    {
+      "album": {
         "name": "Partyson",
         "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
       },
@@ -3580,7 +3598,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 188612,
       "name": "Doma",
       "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
@@ -4574,6 +4592,24 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
+        "name": "Estoy Pa' Ti",
+        "url": "https://open.spotify.com/album/4zC8NSzZJ6VTMj74A5WLuu"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190702,
+      "name": "Estoy Pa' Ti",
+      "url": "https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn"
     },
     {
       "album": {
@@ -8802,7 +8838,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -12752,7 +12788,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-14",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
@@ -13050,6 +13086,28 @@
       "duration_ms": 335104,
       "name": "Te Entiendo - Remix",
       "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
+    },
+    {
+      "album": {
+        "name": "9 months & 50 hours",
+        "url": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193637,
+      "name": "Te Estoy Correteando",
+      "url": "https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs"
     },
     {
       "album": {

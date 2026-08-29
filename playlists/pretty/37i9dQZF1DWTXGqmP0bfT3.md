@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,165 likes - 150 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,317 likes - 150 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 34 | [Stormtroopers](https://open.spotify.com/track/7cUHFTxJhxtZ5tpY34SMRw) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The War to End All Wars](https://open.spotify.com/album/3kB4VjXKKCY7l5xeH113Da) | 3:56 |
 | 35 | [Vore](https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:39 |
 | 36 | [Blind And Frozen](https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Berserker](https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx) | 5:04 |
-| 37 | [Army of the Night](https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:21 |
-| 38 | [Casualty](https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:20 |
+| 37 | [Casualty](https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:20 |
+| 38 | [Army of the Night](https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:21 |
 | 39 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 |
 | 40 | [Repentless](https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:19 |
 | 41 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 149 | [WORLD OF MALICE](https://open.spotify.com/track/3jIngIouCnZgQo3VjDRXAx) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:24 |
 | 150 | [Drowning](https://open.spotify.com/track/1knxUcq12YCES1O1Q6ImCY) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 2:45 |
 
-Snapshot ID: `AAAAANkoBcwShQkZZnvNdl+ajoYos1SZ`
+Snapshot ID: `AAAAALJ3lMHVo2tmcjl62+80Ubv6qfiX`

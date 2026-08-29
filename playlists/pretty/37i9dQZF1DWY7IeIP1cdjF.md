@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Wisin & Ivy Queen, Anuel AA, Omar Courtz & Ozuna, KAROL G, Bad Bunny and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,117,122 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,116,138 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 23 | [Pal Agua](https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pal Agua](https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt) | 3:26 |
 | 24 | [SINALOKA](https://open.spotify.com/track/23meQ8JXeFHiInKkO1jyV2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [SINALOKA](https://open.spotify.com/album/0HrSq9bMMXc79CizTD1k6A) | 2:36 |
 | 25 | [Sornero](https://open.spotify.com/track/3oNfwopqvtOSQjg8Fhrt5W) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 3:22 |
-| 26 | [Honguito \(Remix\)](https://open.spotify.com/track/7A8zFqJKiZh9qbwduW7Ylj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Honguito \(Remix\)](https://open.spotify.com/album/4KipFJH8j4pvOfURrKJvEE) | 4:13 |
+| 26 | [Honguito \- Remix](https://open.spotify.com/track/7A8zFqJKiZh9qbwduW7Ylj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Honguito \(Remix\)](https://open.spotify.com/album/4KipFJH8j4pvOfURrKJvEE) | 4:13 |
 | 27 | [Pensando En Ti](https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Pensando En Ti](https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt) | 2:52 |
 | 28 | [Balenciaga](https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Balenciaga](https://open.spotify.com/album/3pJMrZyVDFg8HTNjsDrTq3) | 2:33 |
 | 29 | [Quiero Verte](https://open.spotify.com/track/58BUlorkbBEPLOmTZkXKr7) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Quiero Verte](https://open.spotify.com/album/5LisdCHCabIfd7kzP6MXne) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 49 | [Chaparrita \(Remix\)](https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Chaparrita \(Remix\)](https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV) | 4:26 |
 | 50 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 
-Snapshot ID: `AAAAAFFi4a3D2rPjmJET4K/QwaGWE9We`
+Snapshot ID: `AAAAABFrPBB7xnSvwxHM0sMOeA0Oku6S`

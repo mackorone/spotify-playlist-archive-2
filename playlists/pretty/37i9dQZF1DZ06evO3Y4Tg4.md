@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,807 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,843 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 2 | [Sprinter](https://open.spotify.com/track/6NYbDTmstd7JSUWl2hVBqR) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/7sGpm3nDvQXOflht2c6wlK) | 3:49 |
 | 3 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/6KFWubocLBhrLs31RpEdR9) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:01 |
-| 4 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
-| 5 | [Trojan Horse](https://open.spotify.com/track/16D8OTSQ2qq9SEMzijwZiH) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH) | 4:08 |
+| 4 | [Trojan Horse](https://open.spotify.com/track/16D8OTSQ2qq9SEMzijwZiH) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH) | 4:08 |
+| 5 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
 | 6 | [Law Of Attraction \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/6Rz9To4o1UlycFUIhj3WwK) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 |
 | 7 | [Starlight](https://open.spotify.com/track/3ixYkZI6rGk3ktisaIQrh0) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/6ckPKdfC3EWCy9XRHUWLAT) | 3:31 |
 | 8 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [My 19th Birthday](https://open.spotify.com/track/4KCfCctnZQd5mem6S3HhKi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 8:58 |
 | 50 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
 
-Snapshot ID: `ao4sgAAAAAAqyJCS9QhG0N9XeQTNmnpf`
+Snapshot ID: `ao9+AAAAAABWx9tafXqYb7iwyeX3R7Le`

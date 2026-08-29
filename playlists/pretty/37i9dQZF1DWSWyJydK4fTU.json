@@ -1,29 +1,13 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 619951,
+  "num_followers": 619904,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADWQ6Lvl34HOas7zZyXMHhrWaTlz",
+  "snapshot_id": "AAAAABkuhK5oTaZ0mc5rnFpemNGeG37R",
   "tracks": [
-    {
-      "added_at": "2026-08-27 22:00:40",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
     {
       "added_at": "2026-08-27 22:00:40",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-08-27 22:00:40",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "added_at": "2026-08-27 22:00:40",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-08-27 22:00:40",
       "album": {
-        "name": "If You Wanna Be Adored",
-        "url": "https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz"
+        "name": "Adore Ya",
+        "url": "https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX"
       },
       "artists": [
         {
-          "name": "Eva Rose",
-          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+          "name": "ClockClock",
+          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
         }
       ],
-      "duration_ms": 145573,
-      "name": "If You Wanna Be Adored",
-      "url": "https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV"
+      "duration_ms": 212288,
+      "name": "Adore Ya",
+      "url": "https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP"
     },
     {
       "added_at": "2026-08-27 22:00:40",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-08-27 22:00:40",
       "album": {
-        "name": "Adore Ya",
-        "url": "https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX"
-      },
-      "artists": [
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
-        }
-      ],
-      "duration_ms": 212288,
-      "name": "Adore Ya",
-      "url": "https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP"
-    },
-    {
-      "added_at": "2026-08-27 22:00:40",
-      "album": {
         "name": "Want It Back",
         "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 207509,
       "name": "Want It Back",
       "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
+    },
+    {
+      "added_at": "2026-08-27 22:00:40",
+      "album": {
+        "name": "If You Wanna Be Adored",
+        "url": "https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz"
+      },
+      "artists": [
+        {
+          "name": "Eva Rose",
+          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "If You Wanna Be Adored",
+      "url": "https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV"
     },
     {
       "added_at": "2026-08-27 22:00:40",
@@ -979,18 +979,22 @@
     {
       "added_at": "2026-08-27 22:00:40",
       "album": {
-        "name": "Alles nur f\u00fcr mich",
-        "url": "https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP"
+        "name": "I Like You Best (Cloud 9 Version)",
+        "url": "https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b"
       },
       "artists": [
         {
-          "name": "NESS",
-          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        },
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
         }
       ],
-      "duration_ms": 141188,
-      "name": "Alles nur f\u00fcr mich",
-      "url": "https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ"
+      "duration_ms": 168061,
+      "name": "I Like You Best - Cloud 9 Version",
+      "url": "https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F"
     }
   ],
   "unique_name": "morning glow",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Clayton Mullen
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,208 likes - 175 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,261 likes - 175 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 174 | [Beach Fire Embers](https://open.spotify.com/track/599TFLHeKErarQkqOIvlSF) | [Colin Lynch](https://open.spotify.com/artist/05SVbHynbrctQGdx22K45Z) | [Beach Fire Embers](https://open.spotify.com/album/0FZkzLqlDvDjkUPL3Zc4xH) | 3:05 |
 | 175 | [High Water](https://open.spotify.com/track/5ltXSLSagc9mlHsVNV6TEp) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Suede](https://open.spotify.com/album/1G4oYWXbw8Yji0qNRcXnWO) | 3:31 |
 
-Snapshot ID: `AAAAAGKO2gYf3/8xZltFr47tdpGvVSn2`
+Snapshot ID: `AAAAAIrEt8ZIihp3nqFMX12zgyzmgLMu`

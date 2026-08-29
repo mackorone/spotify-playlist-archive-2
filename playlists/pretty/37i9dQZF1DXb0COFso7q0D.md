@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > Natanael Cano poniendo la Música Mexicana en alto en la playlist sin fronteras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,155,335 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,154,877 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 56 | [Todo El Año](https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo El Año](https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e) | 2:52 |
 | 57 | [Ya No Me Duele Tanto](https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Ya No Me Duele Tanto](https://open.spotify.com/album/0gWb3xqFfk27f5emLC111j) | 2:49 |
 | 58 | [Mi Entorno](https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mi Entorno](https://open.spotify.com/album/0xfgb2CMlCqKN5KuGqqMMj) | 2:52 |
-| 59 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
+| 59 | [Tus Mentiras \- En Vivo](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 60 | [daño](https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:17 |
 
-Snapshot ID: `AAAAAG0sbxQo6fI2t2KBFGyrbOpRn8LX`
+Snapshot ID: `AAAAAGxI8fkYXV5zmGJuvRv0vf+x9adz`

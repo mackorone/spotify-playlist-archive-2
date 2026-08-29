@@ -1,12 +1,12 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339954,
+  "num_followers": 339944,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANGU/J39g86um54wd2Zho+SUghBM",
+  "snapshot_id": "AAAAAPSKjvDAoOihSJnxmlxitkOqVmW1",
   "tracks": [
     {
       "added_at": "2025-02-14 16:04:15",
@@ -507,26 +507,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        }
-      ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Sweet Dreams (feat. Imanbek) [Remixes]",
         "url": "https://open.spotify.com/album/5LKrGd8oU56PLe793imghr"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek)",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -611,6 +611,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Speed of Light",
+        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
+      },
+      "artists": [
+        {
+          "name": "Drive With Beats",
+          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
+        },
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 202333,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Speed of Light",
-        "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
-      },
-      "artists": [
-        {
-          "name": "Drive With Beats",
-          "url": "https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa"
-        },
-        {
-          "name": "Beachbag",
-          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "Speed of Light",
-      "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Ride Ride Ride",
-        "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
-      },
-      "artists": [
-        {
-          "name": "Victoria Kern",
-          "url": "https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv"
-        },
-        {
-          "name": "Anna Grey",
-          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Ride Ride Ride",
-      "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Another Level (ft. Lovespeake)",
         "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Ride Ride Ride",
+        "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kern",
+          "url": "https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv"
+        },
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Ride Ride Ride",
+      "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
     },
     {
       "added_at": "2025-02-14 16:04:15",

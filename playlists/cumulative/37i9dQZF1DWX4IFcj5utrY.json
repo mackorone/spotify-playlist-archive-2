@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: !Sooks",
+  "description": "The best dance hits in Africa. Cover: Mpho.Wav",
   "name": "mint Africa",
   "tracks": [
     {
@@ -12563,6 +12563,24 @@
     },
     {
       "album": {
+        "name": "SZEID",
+        "url": "https://open.spotify.com/album/56XKbiXriGXIin6Uq5S5tq"
+      },
+      "artists": [
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276139,
+      "name": "H\u2019s On The Table",
+      "url": "https://open.spotify.com/track/5oAunHKYK1vPSAjpQDlyNC"
+    },
+    {
+      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -15192,6 +15210,28 @@
       "duration_ms": 440330,
       "name": "Jewels",
       "url": "https://open.spotify.com/track/2u36IdOtMZsEY1yCjKvz0B"
+    },
+    {
+      "album": {
+        "name": "jozi to paris",
+        "url": "https://open.spotify.com/album/7gROzhixSvNP6YUihNiLgk"
+      },
+      "artists": [
+        {
+          "name": "Mpho.Wav",
+          "url": "https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB"
+        },
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212584,
+      "name": "jozi to paris - Radio Edit",
+      "url": "https://open.spotify.com/track/7BWJYw0FwLzXM0zO51Mikx"
     },
     {
       "album": {
@@ -18245,6 +18285,32 @@
     },
     {
       "album": {
+        "name": "Makuhia",
+        "url": "https://open.spotify.com/album/2sr4rRlKlSxFTHGF44gKRB"
+      },
+      "artists": [
+        {
+          "name": "Skyla Tylaa",
+          "url": "https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Makuhia",
+      "url": "https://open.spotify.com/track/2Wk9nzP4CIZI8Z0OdHRoGw"
+    },
+    {
+      "album": {
         "name": "AEDM: Interstellar",
         "url": "https://open.spotify.com/album/7bNztZqGIRCaALpnDsDB4W"
       },
@@ -18328,7 +18394,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 408813,
       "name": "Mali",
       "url": "https://open.spotify.com/track/4nP3JxLWurlrvollaDlxsJ"
@@ -30104,7 +30170,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 383827,
       "name": "Tobetsa 3.0 (feat. Shaunmusiq & Ftears)",
       "url": "https://open.spotify.com/track/7ohMSMZrovYscFvEMkrtzP"
@@ -32348,7 +32414,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 374237,
       "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"

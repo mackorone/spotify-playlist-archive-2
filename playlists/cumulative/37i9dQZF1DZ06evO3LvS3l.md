@@ -4,7 +4,7 @@
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 6 min
+60 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Satisfied Mind](https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Texas Moon \(Deluxe Edition\)](https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj) | 4:26 | 2026-08-26 |  |
 | [She Used to Love Me a Lot](https://open.spotify.com/track/5JELJ6SX5zeGRQWrFp2m3z) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:03 | 2026-05-02 |  |
 | [Son of the South](https://open.spotify.com/track/3T1wesBkJDrO3atfJJg0gk) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Son of the South](https://open.spotify.com/album/3PcXCSl8cdoDLspkdG0oKm) | 3:52 | 2026-05-02 |  |
-| [Southern Star](https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Crazy Daddy](https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8) | 2:40 | 2026-05-02 |  |
+| [Southern Star](https://open.spotify.com/track/6X8awE7FqsGMyZCkH1psD7) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [A Matter of Life and Death](https://open.spotify.com/album/5iAcxskUK5WGatU8Yzkp2e) | 2:39 | 2026-08-29 |  |
+| [Southern Star](https://open.spotify.com/track/6aQX7GfnfNJ7P2QEYcXZag) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Crazy Daddy](https://open.spotify.com/album/57VX1pfpCpbrLrpKZ4h4w8) | 2:40 | 2026-05-02 | 2026-08-29 |
 | [Spotlight](https://open.spotify.com/track/5D9GKjpvU4xbw4Y2sreLXB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 3:06 | 2026-05-02 |  |
 | [Sweet Vibrations \(Some Folks Call It Love\)](https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:02 | 2026-05-02 |  |
 | [Take This Job and Shove It Too](https://open.spotify.com/track/08iMxhW6hClhGiSo5QHIhc) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Family Album](https://open.spotify.com/album/7E52wkFEuclohpXk3MKgt2) | 2:57 | 2026-05-02 |  |

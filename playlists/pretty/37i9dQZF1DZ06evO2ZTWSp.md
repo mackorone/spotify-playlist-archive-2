@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,249 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,221 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 23 | [Don’t Make Me Love U](https://open.spotify.com/track/7ISr8TkvybzZcEE5vYIORI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:28 |
 | 24 | [Water Me](https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:05 |
 | 25 | [Like a Girl](https://open.spotify.com/track/5I7sGubUsKo4mVJpBoSVUr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:04 |
-| 26 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
+| 26 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
 | 27 | [Goodmorning!](https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 3:18 |
-| 28 | [The Sign](https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:45 |
+| 28 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
 | 29 | [Soulmate](https://open.spotify.com/track/6h2wpo2pshM8QnAvRySEO0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 |
-| 30 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 |
+| 30 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
 | 31 | [BITCH](https://open.spotify.com/track/5Ob6j3t91qixhs7Fhzs0to) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:43 |
-| 32 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
+| 32 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 |
 | 33 | [Exactly How I Feel \(feat\. Gucci Mane\)](https://open.spotify.com/track/7BZtzkbV48eu0sGKhHP7R9) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:23 |
-| 34 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
+| 34 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 |
 | 35 | [Happy 2 Be](https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:54 |
-| 36 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 |
+| 36 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
 | 37 | [CRASHOUT](https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:55 |
 | 38 | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Stayin' Alive \(from Happy Death Day 2U\)](https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL) | 3:17 |
 | 39 | [She Stole My Man](https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [Let 'em Say](https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Caroline Smith](https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE) | [Let 'em Say](https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp) | 3:20 |
 | 50 | [Iko](https://open.spotify.com/track/4OEXz8a1uvD1oDH7E3TQo7) | [N.A.S.A.](https://open.spotify.com/artist/07WjVPM79OGQLOZ1jfUVk9), [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Iko](https://open.spotify.com/album/6AsMEkH3Q2mZnh5KYguzDC) | 3:31 |
 
-Snapshot ID: `ao4sgAAAAABV/TQMiyih0IRStFrpD7Iw`
+Snapshot ID: `ao9+AAAAAABZER6lijVnJLS36pvZV9JC`

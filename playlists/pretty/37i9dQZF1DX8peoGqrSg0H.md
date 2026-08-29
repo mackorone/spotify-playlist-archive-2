@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: NEW CHAYAPAK
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,774 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,784 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 32 | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/track/1kkzlkNUGPenTmzb5ikApc) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ) | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/album/5i4PoVoJFhLY6lcNxc9gDV) | 4:23 |
 | 33 | [If You Don’t Mean It \(ถ้าไม่คิด อย่าทำให้คิด\)](https://open.spotify.com/track/2d3fZAlYyt6xqPkL9U9h1f) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [If You Don’t Mean It \(ถ้าไม่คิด อย่าทำให้คิด\)](https://open.spotify.com/album/2UQiY52UWsfyJ7eVORSryP) | 3:52 |
 | 34 | [Time Flies](https://open.spotify.com/track/11HnMOQnOVC0jIiFTY8fKX) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Time Flies](https://open.spotify.com/album/4HWxA9IkxlZHJzv3SNbXdX) | 4:01 |
-| 35 | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ) | [JINWOOK OF BUS](https://open.spotify.com/artist/5fN4TLKABIQWkolg9NnUrk), [PHUTATCHAI OF BUS](https://open.spotify.com/artist/0tzKmSvAijkqjpOefCl5QQ) | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F) | 3:10 |
+| 35 | [Take Our Time \- From "ด้วงกับเธอ"](https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ) | [JINWOOK OF BUS](https://open.spotify.com/artist/5fN4TLKABIQWkolg9NnUrk), [PHUTATCHAI OF BUS](https://open.spotify.com/artist/0tzKmSvAijkqjpOefCl5QQ) | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F) | 3:10 |
 | 36 | [นอนนี่ \(Zzz.\) \- Bonus Track](https://open.spotify.com/track/1gyGLofOECzdg9t8X3s78C) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [MUON](https://open.spotify.com/artist/0d1vrnqp46IM9Tz6E88PtU) | [นอนนี่ \(Zzz.\) \[Bonus Track\]](https://open.spotify.com/album/1x1qL65pIRqDQ5k8Et6aT9) | 3:08 |
 | 37 | [เทสดี \(Tasty\)](https://open.spotify.com/track/28bep4KdCxRS3Qv5QZaImr) | [NUTDAN](https://open.spotify.com/artist/5I2NGkEmjjEJHvyiNHu5da) | [เทสดี \(Tasty\)](https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8) | 2:59 |
 | 38 | [คุณจะชอบผมไหม \(Your Type?\)](https://open.spotify.com/track/7ApNdlOBsjvmG4IiRZEpuP) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [คุณจะชอบผมไหม \(Your Type?\)](https://open.spotify.com/album/4QfuaNmBAE4PTmzBZWQmfB) | 3:08 |
 | 39 | [เจ้าชายของแก \(My Queen\)](https://open.spotify.com/track/6lh3qnI8SMWjMa8sJy41CD) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [เจ้าชายของแก \(My Queen\)](https://open.spotify.com/album/1gjydKMsfFAFyCTzqevCX9) | 2:58 |
-| 40 | [Not The Best But Still Good \(From "ด้วงกับเธอ Duang With You"\)](https://open.spotify.com/track/3Gc9V37FTaHx9bFtX4hfmn) | [TEETEE](https://open.spotify.com/artist/2dsc5BVS6AVRv99iXNBMTO), [Por Suppakarn](https://open.spotify.com/artist/0MDoSGuZKbwMhpA5MZv703) | [Not The Best But Still Good \(From "ด้วงกับเธอ Duang With You"\)](https://open.spotify.com/album/63OpYylyNXwzwo5hse1AxZ) | 3:37 |
+| 40 | [Not The Best But Still Good \- From "ด้วงกับเธอ Duang With You"](https://open.spotify.com/track/3Gc9V37FTaHx9bFtX4hfmn) | [TEETEE](https://open.spotify.com/artist/2dsc5BVS6AVRv99iXNBMTO), [Por Suppakarn](https://open.spotify.com/artist/0MDoSGuZKbwMhpA5MZv703) | [Not The Best But Still Good \(From "ด้วงกับเธอ Duang With You"\)](https://open.spotify.com/album/63OpYylyNXwzwo5hse1AxZ) | 3:37 |
 | 41 | [TURN ME ON \(feat\. Tobii\)](https://open.spotify.com/track/71Rfu3RiFdbEPcU2PpslhQ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY), [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [TURN ME ON \(feat\. Tobii\)](https://open.spotify.com/album/2sVAmfSBfpzVqAXq2CHm6V) | 3:49 |
 | 42 | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p) | 3:27 |
 | 43 | [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 |
 | 50 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 
-Snapshot ID: `AAAAALoY3WeIQcpqJRhg5LCMxXDoPC21`
+Snapshot ID: `AAAAAFbl2A6B9vyBaV0i99UQIgyUy9Cx`

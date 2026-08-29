@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,987 likes - 46 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,003 likes - 46 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 | 45 | [運命に賭けたい論理](https://open.spotify.com/track/5HXSZoSZuivD65nPk7POH0) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命に賭けたい論理](https://open.spotify.com/album/2O18JMMWL9S389Sw5tXiyn) | 3:15 |
 | 46 | [サヨナラサヨナラサヨナラ](https://open.spotify.com/track/3OCcXnMn1lOwJtsOwbzEsN) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [サヨナラサヨナラサヨナラ](https://open.spotify.com/album/4L4vKyM8psqZ1Us7aEmeS0) | 2:35 |
 
-Snapshot ID: `AAAAAKKWR4Aoh/qH7edTTI3fF+r9CGOV`
+Snapshot ID: `AAAAAJJnIwLEuOXBa7Y1KVH4/7u4S/s2`

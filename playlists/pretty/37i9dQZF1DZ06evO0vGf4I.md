@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,633,399 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,633,396 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 10 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/6koKhrBBcExADvWuOgceNZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 3:59 |
 | 11 | [Take What You Want \(feat\. Ozzy Osbourne & Travis Scott\)](https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:49 |
 | 12 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 |
-| 13 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 |
+| 13 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 |
 | 14 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 |
 | 15 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 |
 | 16 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 |
-| 17 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 |
+| 17 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 |
 | 18 | [Sky Walker \(feat\. Travis Scott\)](https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [War & Leisure](https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI) | 4:19 |
 | 19 | [CAN'T SAY](https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:18 |
 | 20 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 49 | [KICK OUT](https://open.spotify.com/track/2LgrNOU8GQYASgz7lIDVt3) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/5GBAHu7EH8HWX5tBCjL0SA) | 2:50 |
 | 50 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 |
 
-Snapshot ID: `ao4sgAAAAADU8qEz7tSppeQwpn4bLDGw`
+Snapshot ID: `ao9+AAAAAAChgKAfAzFlCabRe+Hb3bDc`

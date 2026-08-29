@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Joss Favela en portada \ud83d\udcf8",
-  "num_followers": 1073275,
+  "num_followers": 1073218,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPnxDH9/QQmWH18sreSv12qym5es",
+  "snapshot_id": "AAAAAOppsjoavtcnqiGKCeoXXvJT3gBn",
   "tracks": [
     {
       "added_at": "2026-08-21 16:15:23",
@@ -69,7 +69,7 @@
         }
       ],
       "duration_ms": 280250,
-      "name": "Tus Mentiras (En Vivo)",
+      "name": "Tus Mentiras - En Vivo",
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
@@ -205,7 +205,7 @@
         }
       ],
       "duration_ms": 194750,
-      "name": "Mi Talisman (En Vivo)",
+      "name": "Mi Talisman - En Vivo",
       "url": "https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL"
     },
     {
@@ -533,7 +533,7 @@
         }
       ],
       "duration_ms": 175250,
-      "name": "Ebrio De Amor (En Vivo)",
+      "name": "Ebrio De Amor - En Vivo",
       "url": "https://open.spotify.com/track/2SkeBrSWvvTsFtORCiud4k"
     },
     {
@@ -1265,8 +1265,24 @@
         }
       ],
       "duration_ms": 215000,
-      "name": "El Que Sigue De Mi (En Vivo)",
+      "name": "El Que Sigue De Mi - En Vivo",
       "url": "https://open.spotify.com/track/37jsgAXVIxD48j8c0UqZKC"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
+        "name": "M\u00edranos Ahora",
+        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "M\u00edranos Ahora",
+      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -1287,22 +1303,6 @@
       "duration_ms": 221905,
       "name": "Vali\u00f3 La Pena Equivocarme",
       "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
-        "name": "M\u00edranos Ahora",
-        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "M\u00edranos Ahora",
-      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Ese Loco Soy Yo",
-        "url": "https://open.spotify.com/album/0lheE2ouOlNeOOLhfdRPJI"
-      },
-      "artists": [
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        }
-      ],
-      "duration_ms": 168147,
-      "name": "Ese Loco Soy Yo",
-      "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
         "name": "Te Volver\u00eda A Elegir",
         "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 180400,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
+        "name": "Ese Loco Soy Yo",
+        "url": "https://open.spotify.com/album/0lheE2ouOlNeOOLhfdRPJI"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        }
+      ],
+      "duration_ms": 168147,
+      "name": "Ese Loco Soy Yo",
+      "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/3RGJOJiJk4hoKPIvtN2gzT"
+      },
+      "artists": [
+        {
+          "name": "El Chalinillo",
+          "url": "https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/5osv7hD0OevtSiZBJroQCY"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
         "name": "Se Va A Querer Morir",
         "url": "https://open.spotify.com/album/5OPgEqmLQ9LYbPpGDoaOdT"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 206521,
       "name": "Se Va A Querer Morir",
       "url": "https://open.spotify.com/track/7r3pnWG7rIYnr9ipn7viBa"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/3RGJOJiJk4hoKPIvtN2gzT"
-      },
-      "artists": [
-        {
-          "name": "El Chalinillo",
-          "url": "https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL"
-        }
-      ],
-      "duration_ms": 167786,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/5osv7hD0OevtSiZBJroQCY"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Que Fueras Tu",
-        "url": "https://open.spotify.com/album/3qym38qDwhuV9FtEfVdDYC"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Reales",
-          "url": "https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Que Fueras Tu",
-      "url": "https://open.spotify.com/track/4vSR9P8dxAneEKmYMebuSC"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
         "name": "Te He Prometido",
         "url": "https://open.spotify.com/album/22pQFjhrfjfky4uoetcaLu"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 192360,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/05hpTrbQIXJ2DiXrozJtyF"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
+        "name": "Que Fueras Tu",
+        "url": "https://open.spotify.com/album/3qym38qDwhuV9FtEfVdDYC"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Reales",
+          "url": "https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Que Fueras Tu",
+      "url": "https://open.spotify.com/track/4vSR9P8dxAneEKmYMebuSC"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Me Canse De Morir Por Tu Amor",
-      "url": "https://open.spotify.com/track/7GV9iziCj6kx0noYOtrI6O"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/3GVsiC0rnhSEFID1RUBzPw"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 201926,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/3EMEDF8iBEGeiR4ZEPRrFs"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Me Canse De Morir Por Tu Amor",
+      "url": "https://open.spotify.com/track/7GV9iziCj6kx0noYOtrI6O"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "#TB...Hits, Vol. 2",
-        "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 187578,
-      "name": "Estoy Enamorado De Ti",
-      "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
         "name": "Muero Sin Ti",
         "url": "https://open.spotify.com/album/1cMVq3vzO29T5pgdBm9LAk"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 164917,
       "name": "Muero Sin Ti",
       "url": "https://open.spotify.com/track/7xoJTQoNra0grcha2DwiMi"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
+        "name": "#TB...Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/1YUSyCbT1KgYbc3RCXnZvf"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 187578,
+      "name": "Estoy Enamorado De Ti",
+      "url": "https://open.spotify.com/track/0iWeoEW9hPrYEAoTwyNaKG"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/2RzFPA5sJyIiG602E6TGQY"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 180708,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/035sZJHSCISbr1PeYq7aYV"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
     },
     {
       "added_at": "2026-07-03 06:00:29",

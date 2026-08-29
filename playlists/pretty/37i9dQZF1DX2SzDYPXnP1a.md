@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,610 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,641 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 30 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
 | 31 | [Rocky Mountain Low \- feat\. Koe Wetzel](https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Rocky Mountain Low \(feat\. Koe Wetzel\)](https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN) | 2:48 |
 | 32 | [WHISKEY WHISKEY](https://open.spotify.com/track/0PY70NiuO5yDhn9FjdtPvr) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [WHISKEY WHISKEY](https://open.spotify.com/album/05hS7HUrkdEIoJxdRXNrj1) | 2:19 |
-| 33 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
+| 33 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
 | 34 | [Tulsa](https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Tulsa](https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN) | 2:42 |
-| 35 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
+| 35 | [Whiskey On You](https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You](https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm) | 3:03 |
 | 36 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 |
 | 37 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 |
 | 38 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
-| 39 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
-| 40 | [The Weekend](https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [The Devil Don't Sleep](https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb) | 3:07 |
+| 39 | [The Weekend](https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [The Devil Don't Sleep](https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb) | 3:07 |
+| 40 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
 | 41 | [Creeps](https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:44 |
 | 42 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
 | 43 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 49 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 |
 | 50 | [All Night](https://open.spotify.com/track/0gv4JVcgmb8HihoucEXVxh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:48 |
 
-Snapshot ID: `AAAAAO5hSqYHgoYVJ/JhHFIQinu7a9QS`
+Snapshot ID: `AAAAALoTaqLNCUMhQIBSfY7bxoYgqLwj`

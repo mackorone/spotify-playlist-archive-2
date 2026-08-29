@@ -1,12 +1,12 @@
 {
   "description": "\u27a1\ufe0f \u27a1\ufe0f \u27a1\ufe0f gute Laune.",
-  "num_followers": 1884691,
+  "num_followers": 1884580,
   "original_name": "Good Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF6/BAgmL9Jmrh+ytWVDe6nQ+e9b",
+  "snapshot_id": "AAAAAILalFk8o1pCPlAHVyGf8y1suaQm",
   "tracks": [
     {
       "added_at": "2026-08-07 09:08:05",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "Leak It",
-        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 183406,
-      "name": "Leak It",
-      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 205000,
       "name": "Following the Sun",
       "url": "https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
+        "name": "Leak It",
+        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 183406,
+      "name": "Leak It",
+      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
+        "name": "Zoo (From \"Zootopia 2\")",
+        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo - From \"Zootopia 2\"",
+      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
         "name": "KITSCHKRIEG ZWEI",
         "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
-        "name": "Zoo (From \"Zootopia 2\")",
-        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo - From \"Zootopia 2\"",
-      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
         "name": "Born In The Echoes",
         "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
+        "name": "Carry You Home",
+        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Carry You Home",
+      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
+      "added_at": "2026-08-07 09:08:05",
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
-    },
-    {
-      "added_at": "2026-08-07 09:08:05",
-      "album": {
-        "name": "Carry You Home",
-        "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Carry You Home",
-      "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
     },
     {
       "added_at": "2026-08-07 09:08:05",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2026-08-07 09:08:05",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/2XU7TKFSPdMo3dyNWLdvjO"
       },
       "artists": [
         {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+      "duration_ms": 184788,
+      "name": "Night at the Opera",
+      "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
     }
   ],
   "unique_name": "Good Mood",

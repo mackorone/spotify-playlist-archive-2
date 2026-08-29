@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,196 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,203 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 45 | [Go Back](https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e) | [Patrícia Ahmaral](https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Go Back](https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y) | 3:10 |
 | 46 | [Paradisíaca](https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tropical](https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf) | 3:50 |
 | 47 | [Só Pra Brilhar](https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/1zgxOuUo8iCbBmKCRCvlfR) | 3:18 |
-| 48 | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO) | [Maipê](https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Pedro Schin](https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P), [Dias Bruno](https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk) | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u) | 2:38 |
-| 49 | [Místico](https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Místico](https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX) | 3:07 |
+| 48 | [Místico](https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Místico](https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX) | 3:07 |
+| 49 | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO) | [Maipê](https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Pedro Schin](https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P), [Dias Bruno](https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk) | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u) | 2:38 |
 | 50 | [Deusa Do Amor \- Reggae Version](https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [tranqüilo inc](https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp) | [Deusa Do Amor \(Reggae Version\)](https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY) | 5:12 |
 | 51 | [Pele Morena](https://open.spotify.com/track/6KsZ1YezmFIAQPJwHQbaAw) | [DEKO](https://open.spotify.com/artist/4qVJiCr34ib52fsZdL4hoh), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pele Morena](https://open.spotify.com/album/6h10H3pTdbaH911fWczCsK) | 2:51 |
 | 52 | [O Amor Não Sabe Esperar](https://open.spotify.com/track/1RTmOom8bXMPkb9Q1OZiI8) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [CASITA](https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv) | [O Amor Não Sabe Esperar](https://open.spotify.com/album/2Ua5qCOC8yTBRIPmqBZmnH) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 74 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/5B4daMtt3TIB14vjYNHsjl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:28 |
 | 75 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
 
-Snapshot ID: `AAAAAEt5/z6XiiXIx6O7RBWGako2weXM`
+Snapshot ID: `AAAAAG8zvZERELv0LZx+8XB/NrPlKIR3`

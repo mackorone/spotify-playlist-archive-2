@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: RAMMA & Cindy Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,032 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,046 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 74 | [El Gato Que Está Triste y Azul](https://open.spotify.com/track/3wi0uaIPOFZgYskdO6VFmb) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Gato Que Está Triste y Azul](https://open.spotify.com/album/4efMmSBpewnXg03cxTYelk) | 3:41 |
 | 75 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
 | 76 | [Nena, dime algo.](https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 2:36 |
-| 77 | [Estocolmo](https://open.spotify.com/track/5Td1HTNA1KWwYJurEgh0Wx) | [Ale Kurz](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Estocolmo](https://open.spotify.com/album/6yy9GaqwkCnybxNNnmaOvI) | 3:40 |
-| 78 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
+| 77 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
+| 78 | [Estocolmo](https://open.spotify.com/track/5Td1HTNA1KWwYJurEgh0Wx) | [Ale Kurz](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Estocolmo](https://open.spotify.com/album/6yy9GaqwkCnybxNNnmaOvI) | 3:40 |
 | 79 | [Loco](https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Loco](https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ) | 3:35 |
 | 80 | [La Primera Vez](https://open.spotify.com/track/7pqLOROlyd3YW4Gvl09HPX) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Mecánica Popular](https://open.spotify.com/album/4Z1Q71sHLNHcnT5OpSZjtS) | 4:44 |
 | 81 | [X siempre](https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xtrapolar](https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 99 | [El Beso Más Famoso del Mundo](https://open.spotify.com/track/0cVf3lOwE13SQdF0AK7Gkt) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Vaqueros](https://open.spotify.com/album/3TdceuWSFHJExeVZmKPFbW) | 4:03 |
 | 100 | [Se Quiere Matar](https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:47 |
 
-Snapshot ID: `AAAAAMFCHeSkp2iuB9j4l2PxjFezJOs1`
+Snapshot ID: `AAAAAHdRb+OFTGgzBoRi4XP4hDIJBlJp`

@@ -2,9 +2,9 @@
 
 ### [hits de l'été 2026](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> La BO officielle de l'été 2026 🌞 Photo : GIMS
+> La BO officielle de l'été 2026 🌞 Photo : Bebe Rexha
 
-465 songs - 23 hr 21 min
+468 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2024-03-29 | 2024-07-20 |
 | [Magic In The Air](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Magic In The Air](https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu) | 2:47 | 2025-07-10 | 2026-04-04 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-29 | 2024-03-30 |
-| [Maladie](https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI) | 3:12 | 2026-06-18 |  |
+| [Maladie](https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3) | 3:12 | 2026-08-28 |  |
+| [Maladie](https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI) | 3:12 | 2026-06-18 | 2026-08-29 |
 | [Mambella](https://open.spotify.com/track/48xHszgl5GSK5nefCOiFov) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Olupellar](https://open.spotify.com/artist/09wnzgFWuf8oZHJ4BDoeMS) | [Mambella](https://open.spotify.com/album/0qZsbYAhTYHpu5y5sjF46B) | 2:51 | 2023-02-10 | 2023-05-20 |
 | [Man In Finance \(with David Guetta\)](https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(with David Guetta\)](https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS) | 1:53 | 2024-06-27 | 2025-03-22 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-08-14 | 2025-09-12 |
@@ -320,7 +321,8 @@
 | [Phénoménal](https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Phénoménal](https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT) | 3:24 | 2025-05-08 | 2026-04-04 |
 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-05-22 | 2026-04-04 |
 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 | 2025-04-24 | 2025-06-20 |
-| [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-06-04 |  |
+| [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-06-04 | 2026-08-29 |
+| [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 | 2026-08-28 |  |
 | [Pineapple](https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Pineapple](https://open.spotify.com/album/7f3hFVJ3QKtimUriucF5Sx) | 2:40 | 2026-05-07 |  |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-05-16 | 2025-06-06 |
 | [Players \- Tokischa Remix](https://open.spotify.com/track/3CiqiUV5zVJ2f80qHMyAKZ) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Players \(Tokischa Remix\)](https://open.spotify.com/album/0ifEUZF2u0CAeQOtpQIBVx) | 2:24 | 2023-04-02 | 2023-04-07 |
@@ -441,7 +443,8 @@
 | [VETRI NERI](https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [VETRI NERI](https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn) | 2:44 | 2023-06-06 | 2023-07-14 |
 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 | 2025-08-14 | 2026-04-24 |
 | [VIVE LA MONNAIE](https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [VIVE LA MONNAIE](https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An) | 3:04 | 2026-07-30 |  |
-| [Wagyu](https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Wagyu](https://open.spotify.com/album/6xi9IqY00Ip9MXX8IJO616) | 1:57 | 2026-08-20 |  |
+| [Wagyu](https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Wagyu](https://open.spotify.com/album/6xi9IqY00Ip9MXX8IJO616) | 1:57 | 2026-08-20 | 2026-08-29 |
+| [Wagyu](https://open.spotify.com/track/7DVtpzEq51TFOYufMlMcD8) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Wagyu](https://open.spotify.com/album/4Fo2W6EjxT9OzSRyLftqNV) | 1:57 | 2026-08-28 |  |
 | [Walking Away \(Infinity\)](https://open.spotify.com/track/74U0wa3qRWRmEtxlpIL17I) | [Matway](https://open.spotify.com/artist/5okL9oHMW5wof7D0x2hQLQ), [June](https://open.spotify.com/artist/0j4sh69ln8Ga7IrQxIoxP5) | [Walking Away \(Infinity\)](https://open.spotify.com/album/2NQXrwAkAvrjoPT537SfI2) | 2:23 | 2025-03-21 | 2025-06-20 |
 | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/track/4JQQF7uU5LEc5aubbkvA2K) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/album/1yzDhFOZhvCL0Bah2G2Ge9) | 2:30 | 2024-03-29 | 2024-06-07 |
 | [Waves](https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:45 | 2023-09-05 | 2024-04-12 |

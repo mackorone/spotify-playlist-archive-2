@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 51538,
+  "num_followers": 51552,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAApmUAcZQftU8RzkjRVfYPT",
+  "snapshot_id": "ao9+AAAAAAA1nZKtmU6CYsbEKlhPeYl0",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rapture (Remastered / Expanded)",
-        "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
+        "name": "Superstition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 199813,
-      "name": "O Baby",
-      "url": "https://open.spotify.com/track/73NcxfLTBnkOAvncwtQRxU"
+      "duration_ms": 265560,
+      "name": "Face To Face",
+      "url": "https://open.spotify.com/track/0wovyVOcYuRoCl0kMmIlXF"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superstition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "Face To Face",
-      "url": "https://open.spotify.com/track/0wovyVOcYuRoCl0kMmIlXF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rapture (Remastered / Expanded)",
         "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
       },
@@ -372,9 +356,25 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 288280,
-      "name": "Sick Child",
-      "url": "https://open.spotify.com/track/3IwJmL7ztDQr2p46dH48lr"
+      "duration_ms": 199813,
+      "name": "O Baby",
+      "url": "https://open.spotify.com/track/73NcxfLTBnkOAvncwtQRxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peepshow (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 305973,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/65re6qznNOVAK65YZWayAQ"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peepshow (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+        "name": "The Rapture (Remastered / Expanded)",
+        "url": "https://open.spotify.com/album/0w03cDwFhaT9BKE12PSvMJ"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 305973,
-      "name": "Scarecrow",
-      "url": "https://open.spotify.com/track/65re6qznNOVAK65YZWayAQ"
+      "duration_ms": 288280,
+      "name": "Sick Child",
+      "url": "https://open.spotify.com/track/3IwJmL7ztDQr2p46dH48lr"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 246093,
-      "name": "Trust In Me",
-      "url": "https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq"
+      "duration_ms": 188866,
+      "name": "This Town Ain't Big Enough For Both Of Us",
+      "url": "https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 188866,
-      "name": "This Town Ain't Big Enough For Both Of Us",
-      "url": "https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ"
+      "duration_ms": 246093,
+      "name": "Trust In Me",
+      "url": "https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,624 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,650 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 23 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
 | 24 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Ele Vem \(Ao Vivo\)](https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r) | 5:51 |
 | 25 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |
-| 26 | [Atenção \- Ao Vivo](https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [Atenção \(Ao Vivo\)](https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87) | 3:18 |
-| 27 | [Alegria](https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Alegria](https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho) | 4:13 |
+| 26 | [Alegria](https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Alegria](https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho) | 4:13 |
+| 27 | [Atenção \- Ao Vivo](https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [Atenção \(Ao Vivo\)](https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87) | 3:18 |
 | 28 | [Comprou](https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Comprou](https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7) | 4:42 |
 | 29 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
 | 30 | [Celebre a Vida](https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr) | [Bira Santos](https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM) | [Celebre a Vida](https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf) | 4:04 |
 | 31 | [Ele vem \(feat\. Coral Black To Black\)](https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Luz \- Parte 2](https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa) | 4:58 |
 | 32 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 33 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 |
-| 34 | [Mulher de Ló \(AO VIVO\)](https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 3:57 |
+| 34 | [Mulher de Ló \- AO VIVO](https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Kleber Lucas ao vivo no Teatro Rival \(AO VIVO\)](https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf) | 3:57 |
 | 35 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 |
 | 36 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 |
 | 37 | [Seu Nome É](https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc) | [Coral Enok](https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA) | [Seu Nome É](https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt) | 5:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
 | 80 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 |
 
-Snapshot ID: `AAAAANO+6CewkklUwKn3oe4NZaZg3tve`
+Snapshot ID: `AAAAABnJjb7aSFK1WOwP2hIYN2/pkAth`

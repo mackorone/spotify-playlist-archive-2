@@ -1,12 +1,12 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 158915,
+  "num_followers": 158936,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqu2ODcUfYt06vRyKx9ZFvnWOxZ",
+  "snapshot_id": "AAAAAHFpP5rA1hJsg+yJIApnPLlrBWB9",
   "tracks": [
     {
       "added_at": "2024-06-14 18:07:20",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 242678,
-      "name": "Nothing's Gonna Change My Love for You",
-      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 273666,
       "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
       "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 242678,
+      "name": "Nothing's Gonna Change My Love for You",
+      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Soul Provider",
-        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "How Am I Supposed to Live Without You",
-      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "The Colour Of My Love",
         "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Soul Provider",
+        "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "How Am I Supposed to Live Without You",
+      "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "I've Been Expecting You",
-        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "She's The One",
-      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 312306,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "I've Been Expecting You",
+        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "She's The One",
+      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Clapton Chronicles: The Best of Eric Clapton",
-        "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 271760,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX"
+      "duration_ms": 271533,
+      "name": "Ode To My Family",
+      "url": "https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 271533,
-      "name": "Ode To My Family",
-      "url": "https://open.spotify.com/track/1eQuRtkMEPhf2DGzpBVTE6"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Joyride (2009 Version)",
         "url": "https://open.spotify.com/album/5Q4kTNheoI86WVk1YQKt4x"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 275666,
       "name": "Spending My Time",
       "url": "https://open.spotify.com/track/18eqtLHIuDSnx54o0IRUy0"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX"
     },
     {
       "added_at": "2024-06-14 18:07:20",

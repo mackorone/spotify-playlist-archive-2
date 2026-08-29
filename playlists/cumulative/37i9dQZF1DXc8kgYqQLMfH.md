@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,337 songs - 2 day 3 hr 9 min
+1,338 songs - 2 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Childhood](https://open.spotify.com/track/6ql31Q67B5qkeWFxsk1S7C) | [Tomh.](https://open.spotify.com/artist/0Jav1F9KkDu2SgE5Sc5MPU), [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Childhood](https://open.spotify.com/album/5BRN5DlOyQd8pveYqcgqdW) | 2:31 | 2022-06-17 | 2022-07-29 |
 | [chill](https://open.spotify.com/track/7vaNtfvQkaG9NSic2rhrH3) | [Celestial Alignment](https://open.spotify.com/artist/7lGQNJ5Ypof1wZrM0ysNIU) | [lofi mood](https://open.spotify.com/album/1BbpNtfO8SMFhaRoRJHxHX) | 0:58 | 2022-04-22 | 2023-09-16 |
 | [chillax](https://open.spotify.com/track/29FYH3C3AfRSFkUKcljlMF) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [chillax](https://open.spotify.com/album/444GDU8zjwZZ6XaeIRkKAo) | 1:49 | 2024-06-05 | 2024-07-19 |
+| [Chin Up](https://open.spotify.com/track/73OzFFh7XcY1okTKqVopXS) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Chin Up](https://open.spotify.com/album/3MlBKLOvLgdc3cfjAoWlhu) | 2:03 | 2026-08-28 |  |
 | [chromatico](https://open.spotify.com/track/1DIrNCgJci5gRZnltnABJA) | [reviie](https://open.spotify.com/artist/0NhZ9c4X8i2SHZP0sHBo8J) | [chromatico](https://open.spotify.com/album/6S8qHXw7l9QROYNkzUClOb) | 2:04 | 2021-11-10 | 2022-10-01 |
 | [Chuches](https://open.spotify.com/track/0kl29DEUHvkEUgQ2ICZNKg) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Chuches](https://open.spotify.com/album/24lYsA8QnTNiGJe32ROCY1) | 1:48 | 2022-11-11 | 2025-07-16 |
 | [cicada](https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [cicada](https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I) | 2:07 | 2023-11-17 |  |
@@ -767,7 +768,7 @@
 | [Moonlit Moments](https://open.spotify.com/track/4B0wlzgM5OqAZJ2GpQmyF2) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [Moonlit Moments](https://open.spotify.com/album/4xnqvzypvNBDttQa70MqI5) | 3:08 | 2024-01-12 | 2025-07-16 |
 | [MoonRise](https://open.spotify.com/track/3m1XMpzK6J1ZiLYoLJ47zM) | [Lunar Lo\-Fi](https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [MoonRise](https://open.spotify.com/album/4gbEeGRlFLcJ2CRSPlqYHp) | 3:15 | 2024-07-19 | 2024-08-09 |
 | [moonwatch](https://open.spotify.com/track/2CZEvQKqgtNLwWqkdyc2yy) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [moonwatch](https://open.spotify.com/album/3orK6ZBhRQQAxopaMfZivu) | 3:18 | 2023-12-08 | 2025-07-16 |
-| [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 | 2022-01-27 |  |
+| [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 | 2022-01-27 | 2026-08-29 |
 | [morning coffe](https://open.spotify.com/track/6Ui1WWGXX4GUQksFKa1Uoo) | [inbetweenjobs](https://open.spotify.com/artist/0T05MHbAGVD9ZwWfVztzBk) | [morning coffe](https://open.spotify.com/album/6xhWgSZJ06ndOEfezRyMQP) | 2:40 | 2021-11-10 | 2022-06-10 |
 | [Morning Crows](https://open.spotify.com/track/3QQ2zGJQfvfIsenqbMwOgl) | [Bag'o Chips](https://open.spotify.com/artist/636ev3bJk1dl7fPvqSlRwg) | [Morning Crows](https://open.spotify.com/album/26XR781Q3YUSPyz9nYo3DG) | 3:02 | 2021-11-10 | 2022-11-12 |
 | [Morning Mist](https://open.spotify.com/track/0ROMwF8gNj8dCog0D8zStX) | [Jelika](https://open.spotify.com/artist/3eJdbQVaYyybG0aBrDdI5u) | [Morning Mist](https://open.spotify.com/album/7czewPa3OyAV9f4kBbUqFR) | 1:40 | 2021-11-10 | 2022-09-03 |

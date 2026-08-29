@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Cano & Kidd Voodoo, Clarent & Omar Courtz, Olivia Rodrigo, Arde Bogotá y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,145 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,501 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 24 | [comare](https://open.spotify.com/track/2FkFuNdbiTYqIH756g0gm0) | [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [comare](https://open.spotify.com/album/4WBjOmxvFH3siJvirdiEUJ) | 2:28 |
 | 25 | [Plain Jane](https://open.spotify.com/track/6qHO2D1ZEvpSiHNnfclRAa) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Plain Jane](https://open.spotify.com/album/6PJTGldVmFPq7B9GVU5ROV) | 2:59 |
 | 26 | [CRACK](https://open.spotify.com/track/4N9GQEezDsNG5tYJfNqyCK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ante el Umbral del Peligro No Siento Temor](https://open.spotify.com/album/73s0yQJIP64mS3dnvPBxU8) | 3:13 |
-| 27 | [Nerviosa](https://open.spotify.com/track/2IVPFsuHhHcCD2IFs8LuW4) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7) | [Nerviosa](https://open.spotify.com/album/26LaSUR7x0FzabHQ4M3Lh3) | 3:08 |
+| 27 | [NERVIOSA](https://open.spotify.com/track/2IVPFsuHhHcCD2IFs8LuW4) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7) | [NERVIOSA](https://open.spotify.com/album/26LaSUR7x0FzabHQ4M3Lh3) | 3:08 |
 | 28 | [DISPARO](https://open.spotify.com/track/4oXoYi6WRfnF7Gyn8VdfwT) | [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15) | [DISPARO](https://open.spotify.com/album/44zIMublmWU6xZ8sWaj836) | 2:05 |
 | 29 | [VIAJE DE IDA](https://open.spotify.com/track/4oohl0TadKcQKm2J0zBmip) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [VIAJE DE IDA](https://open.spotify.com/album/6kf6WGzdT5ce45lsImaCLh) | 1:50 |
 | 30 | [SEEIN’ STARS: ELTON JOHN VERSION](https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [NEVER ENOUGH: VERSIONS](https://open.spotify.com/album/1KR1VedU3v1ZeVz0S1HPDL) | 4:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 59 | [Me Enamoró](https://open.spotify.com/track/3eQBHY5d4ZmKgyPhPWSWn8) | [Osman Música](https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC) | [Me Enamoró](https://open.spotify.com/album/4ZZcvqDxBYczui7RbD9Vaf) | 2:34 |
 | 60 | [Days of Heaven](https://open.spotify.com/track/55yZU5phJ00OycDoKgVRZB) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Days of Heaven](https://open.spotify.com/album/3kgoPlwQzDHFljdZbdWmLN) | 2:14 |
 
-Snapshot ID: `AAAAAIPlCf50t4sj58bylFIttMf6f/PX`
+Snapshot ID: `AAAAAKgvOlDrZUfX9fMpqTB+zMHT0hfT`

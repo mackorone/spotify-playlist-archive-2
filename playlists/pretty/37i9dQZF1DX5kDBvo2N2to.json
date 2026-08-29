@@ -1,12 +1,12 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61350,
+  "num_followers": 61368,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPbaZv5chwTzp23Sov7tLPcDyXrJ",
+  "snapshot_id": "AAAAAAHWMMU2G8zTVj6J1b4TslA0ys/9",
   "tracks": [
     {
       "added_at": "2026-08-27 22:00:32",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -95,18 +95,18 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
         "name": "Tusen sp\u00e4nn",
         "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 190344,
       "name": "Tusen sp\u00e4nn",
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
-        "name": "Who's That Calling?",
-        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Who's That Calling?",
-      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "Viva L\u2019Amor",
-        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Viva L\u2019Amor",
-      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
         "name": "WHEN A GIRL CRIES",
         "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 124590,
       "name": "use me!!!!!!!",
       "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
+        "name": "Viva L\u2019Amor",
+        "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Viva L\u2019Amor",
+      "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "Halvfullt sprucket glas",
-        "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Halvfullt sprucket glas",
-      "url": "https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 205980,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
+        "name": "Halvfullt sprucket glas",
+        "url": "https://open.spotify.com/album/3I6yk3lLrD8TyqKI1L7wfX"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Halvfullt sprucket glas",
+      "url": "https://open.spotify.com/track/67kdOBbNGrgqVo8yk1Ue6h"
     },
     {
       "added_at": "2026-08-27 22:00:32",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-27 22:00:32",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 160326,
-      "name": "Black Widow",
-      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
-    },
-    {
-      "added_at": "2026-08-27 22:00:32",
-      "album": {
         "name": "St\u00f6rd",
         "url": "https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 173173,
       "name": "St\u00f6rd",
       "url": "https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB"
+    },
+    {
+      "added_at": "2026-08-27 22:00:32",
+      "album": {
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 160326,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
     },
     {
       "added_at": "2026-08-27 22:00:32",

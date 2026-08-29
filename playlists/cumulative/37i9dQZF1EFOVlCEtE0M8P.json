@@ -2853,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "House of Glass",
+        "url": "https://open.spotify.com/album/50g0QYvToKMPfAJQC5Il2w"
+      },
+      "artists": [
+        {
+          "name": "AK Patterson",
+          "url": "https://open.spotify.com/artist/6wfHKZpiShb3hhOCNrrFSt"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269515,
+      "name": "House of Glass",
+      "url": "https://open.spotify.com/track/4Bc4lG5WDXIDtKbuQxyXl7"
+    },
+    {
+      "album": {
         "name": "Blood, Sweat & 3 Years",
         "url": "https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X"
       },

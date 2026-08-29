@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,333 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,337 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 41 | [Wifey](https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Wifey](https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0) | 2:04 |
 | 42 | [CREDIT \(Feat\. YUMDDA, GIRIBOY, Zion.T\)](https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:07 |
 | 43 | [Shut Up & Groove](https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:19 |
-| 44 | [Transcend \(Feat\. C JAMM\)](https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [The Movie Star](https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi) | 3:40 |
-| 45 | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/track/2883Ewc2bLnXl77u6sANcP) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA) | 2:57 |
+| 44 | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/track/2883Ewc2bLnXl77u6sANcP) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [After a few summers \(My love X TOIL, Gist\)](https://open.spotify.com/album/19acTbCpIgNX3KtBSzyQJA) | 2:57 |
+| 45 | [Transcend \(Feat\. C JAMM\)](https://open.spotify.com/track/7tG3irYkVZ1nkSCFXA6vQN) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [The Movie Star](https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi) | 3:40 |
 | 46 | [just talking to myself](https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.1\] just talking to myself](https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim) | 2:49 |
 | 47 | [Eul \(Feat\. BIG Naughty\)](https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [2 Little Bites From \[Fatal Album Ⅲ\]](https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S) | 2:58 |
 | 48 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 |
 | 49 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 |
 | 50 | [It's Gone](https://open.spotify.com/track/5XDzUSWmrlz4MfogZ0salh) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House](https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy) | 4:29 |
 
-Snapshot ID: `AAAAAHY3hllM5TnZnnbxqygLEtk9AwtS`
+Snapshot ID: `AAAAAOhUEqvLQ3wYdifaATujrNwRnZwP`

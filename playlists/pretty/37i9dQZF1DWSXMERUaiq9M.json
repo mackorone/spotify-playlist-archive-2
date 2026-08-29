@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 430602,
+  "num_followers": 431182,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxwhWKBvzd3XfOquMaU0CfwaL4H",
+  "snapshot_id": "AAAAAE0tmgnvn/IDKGdbVCt8OyOQrCJB",
   "tracks": [
     {
       "added_at": "2026-08-27 22:00:24",
@@ -507,22 +507,26 @@
     {
       "added_at": "2026-08-27 22:00:24",
       "album": {
-        "name": "Stay (Ely Oaks Version)",
-        "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
+        "name": "2003",
+        "url": "https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
         },
         {
-          "name": "Misdemeanor",
-          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
         }
       ],
-      "duration_ms": 159246,
-      "name": "Stay - Ely Oaks Version",
-      "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
+      "duration_ms": 193855,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln"
     },
     {
       "added_at": "2026-08-27 22:00:24",
@@ -547,26 +551,22 @@
     {
       "added_at": "2026-08-27 22:00:24",
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF"
+        "name": "Stay (Ely Oaks Version)",
+        "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
       },
       "artists": [
         {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         },
         {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+          "name": "Misdemeanor",
+          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
         }
       ],
-      "duration_ms": 193855,
-      "name": "2003",
-      "url": "https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln"
+      "duration_ms": 159246,
+      "name": "Stay - Ely Oaks Version",
+      "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
     },
     {
       "added_at": "2026-08-27 22:00:24",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-08-27 22:00:24",
       "album": {
+        "name": "227kg",
+        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "227kg",
+      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
+    },
+    {
+      "added_at": "2026-08-27 22:00:24",
+      "album": {
         "name": "DNA (Loving You) [feat. Hannah Boleyn]",
         "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
-    },
-    {
-      "added_at": "2026-08-27 22:00:24",
-      "album": {
-        "name": "227kg",
-        "url": "https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l"
-      },
-      "artists": [
-        {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "227kg",
-      "url": "https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx"
     },
     {
       "added_at": "2026-08-27 22:00:24",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-08-27 22:00:24",
       "album": {
-        "name": "Stolen Dance (Hypertechno)",
-        "url": "https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        }
-      ],
-      "duration_ms": 188259,
-      "name": "Stolen Dance - Hypertechno",
-      "url": "https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs"
-    },
-    {
-      "added_at": "2026-08-27 22:00:24",
-      "album": {
         "name": "Hooked on the Bassline",
         "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 372293,
       "name": "Amor (feat. CERES)",
       "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
+    },
+    {
+      "added_at": "2026-08-27 22:00:24",
+      "album": {
+        "name": "Stolen Dance (Hypertechno)",
+        "url": "https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "duration_ms": 188259,
+      "name": "Stolen Dance - Hypertechno",
+      "url": "https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs"
     },
     {
       "added_at": "2026-08-27 22:00:24",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-08-27 22:00:24",
       "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa"
-    },
-    {
-      "added_at": "2026-08-27 22:00:24",
-      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "added_at": "2026-08-27 22:00:24",
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa"
     },
     {
       "added_at": "2026-08-27 22:00:24",
@@ -1735,6 +1735,30 @@
     {
       "added_at": "2026-08-27 22:00:24",
       "album": {
+        "name": "Work Edit",
+        "url": "https://open.spotify.com/album/2VvId2M7JVgC6NBdJCOmx9"
+      },
+      "artists": [
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        },
+        {
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
+        },
+        {
+          "name": "Denise Belfon",
+          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
+        }
+      ],
+      "duration_ms": 178441,
+      "name": "Work Edit",
+      "url": "https://open.spotify.com/track/19Q8IagLnLOptfzZY6es9s"
+    },
+    {
+      "added_at": "2026-08-27 22:00:24",
+      "album": {
         "name": "Dance In The Light",
         "url": "https://open.spotify.com/album/0QVgj3nXq5v9kDhx8Ox3cF"
       },
@@ -1767,30 +1791,6 @@
       "duration_ms": 120033,
       "name": "Uh Na Na",
       "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
-    },
-    {
-      "added_at": "2026-08-27 22:00:24",
-      "album": {
-        "name": "Work Edit",
-        "url": "https://open.spotify.com/album/2VvId2M7JVgC6NBdJCOmx9"
-      },
-      "artists": [
-        {
-          "name": "Pupa Nas T",
-          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
-        },
-        {
-          "name": "FOVOS",
-          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
-        },
-        {
-          "name": "Denise Belfon",
-          "url": "https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf"
-        }
-      ],
-      "duration_ms": 178441,
-      "name": "Work Edit",
-      "url": "https://open.spotify.com/track/19Q8IagLnLOptfzZY6es9s"
     },
     {
       "added_at": "2026-08-27 22:00:24",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-08-27 22:00:24",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
-      },
-      "artists": [
-        {
-          "name": "Blair Muir",
-          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
-        }
-      ],
-      "duration_ms": 163641,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
-    },
-    {
-      "added_at": "2026-08-27 22:00:24",
-      "album": {
         "name": "You Need The Drugs (Kobosil Kartell Mix)",
         "url": "https://open.spotify.com/album/6mDOkJVFL4OXkuAtZv6SO4"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 217750,
       "name": "You Need The Drugs - Kobosil Kartell Mix",
       "url": "https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE"
+    },
+    {
+      "added_at": "2026-08-27 22:00:24",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
+      },
+      "artists": [
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+        }
+      ],
+      "duration_ms": 163641,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
     }
   ],
   "unique_name": "rave",

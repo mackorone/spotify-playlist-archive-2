@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 95464,
+  "num_followers": 95473,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAB3H19Dj2D7rGpEyE5dFpcZ",
+  "snapshot_id": "ao9+AAAAAAC5aryuYqkPPz4UyMVk8M7u",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levenslang",
-        "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 224844,
-      "name": "Levenslang",
-      "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
+      "duration_ms": 225266,
+      "name": "Ze Is Er Niet",
+      "url": "https://open.spotify.com/track/6V6Q7mwxQ5j1MryBuoJ8FJ"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+        "name": "Levenslang",
+        "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 225266,
-      "name": "Ze Is Er Niet",
-      "url": "https://open.spotify.com/track/6V6Q7mwxQ5j1MryBuoJ8FJ"
+      "duration_ms": 224844,
+      "name": "Levenslang",
+      "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
     },
     {
       "added_at": null,

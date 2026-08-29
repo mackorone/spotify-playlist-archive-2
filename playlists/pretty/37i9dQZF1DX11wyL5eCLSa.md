@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. The Warning en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,938 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,949 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bite My Tongue](https://open.spotify.com/track/414NTfPwNeMYTPLIICa2CH) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Everything’s Falling](https://open.spotify.com/album/0YJACBRXuL7jthY9RBtlS5) | 3:19 |
 | 2 | [La gente me detesta](https://open.spotify.com/track/6J1LDZdBHem2VrfERFvsRu) | [Q69k](https://open.spotify.com/artist/1Mg8WSoSk3WhU7ohjk6uEO), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [La gente me detesta](https://open.spotify.com/album/36W1clp0b2imUXjcLWiYNv) | 3:02 |
-| 3 | [PARAMICORAZON:](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON:](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
+| 3 | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
 | 4 | [Pa Mis Carnales](https://open.spotify.com/track/2k5OUMIny0ZW6ls1y4ssGf) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Arriba La L](https://open.spotify.com/album/1XKtSl05ezH6lWTmVgTLUL) | 3:58 |
 | 5 | [Brillo](https://open.spotify.com/track/4m5waMEB1vT7WYjEAZRXgF) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Brillo](https://open.spotify.com/album/6h7t8wiDlspxKimFFN5oZc) | 4:10 |
 | 6 | [Vértigo](https://open.spotify.com/track/1xVwKICsEZVdLGMISrPMv7) | [Zyanya](https://open.spotify.com/artist/10Q8hJxeiEUVGm5MoFTqeB) | [Vértigo](https://open.spotify.com/album/0dRY53OsauSXu0ISxXXzlS) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [Laberinto](https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Laberinto](https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo) | 4:31 |
 | 100 | [Quiero Dormir Cansado \- MTV Unplugged](https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Quiero Dormir Cansado \(MTV Unplugged\)](https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr) | 4:50 |
 
-Snapshot ID: `AAAAAI/o8Uti1N1WNDYm75ewvEYI5GLU`
+Snapshot ID: `AAAAABWqlx/lVr9q5lOScTeASaWz6Osr`

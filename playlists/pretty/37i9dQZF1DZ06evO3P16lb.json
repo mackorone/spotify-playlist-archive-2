@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 2831,
+  "num_followers": 2836,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAByic+xdTrr+b/FN7VHE0nC",
+  "snapshot_id": "ao9+AAAAAAB3t320xULhgtltrQlU63Rj",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Por Tu Amor",
+      "url": "https://open.spotify.com/track/5EUSHPZCMD9Cvr56cUGepa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mundo (En Vivo)",
         "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
       },
@@ -499,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+        "name": "Amor Como en las Pel\u00edculas de Antes",
+        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
       },
       "artists": [
         {
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 207625,
-      "name": "Por Tu Amor",
-      "url": "https://open.spotify.com/track/5EUSHPZCMD9Cvr56cUGepa"
+      "duration_ms": 188104,
+      "name": "C\u00f3mo Olvidarte",
+      "url": "https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw"
     },
     {
       "added_at": null,
@@ -535,42 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Como en las Pel\u00edculas de Antes",
-        "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 188104,
-      "name": "C\u00f3mo Olvidarte",
-      "url": "https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 212803,
-      "name": "Al\u00e9rgica",
-      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
       },
@@ -583,22 +563,6 @@
       "duration_ms": 160589,
       "name": "Yo He Nacido Mexicana",
       "url": "https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Facilito",
-        "url": "https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 156329,
-      "name": "Que Facilito",
-      "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
     },
     {
       "added_at": null,
@@ -619,6 +583,42 @@
       "duration_ms": 196939,
       "name": "Flor Sin Reto\u00f1o",
       "url": "https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Facilito",
+        "url": "https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 156329,
+      "name": "Que Facilito",
+      "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 212803,
+      "name": "Al\u00e9rgica",
+      "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        },
-        {
-          "name": "Alejandro Ascencio",
-          "url": "https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf"
-        }
-      ],
-      "duration_ms": 213448,
-      "name": "Cuando Me Quieras",
-      "url": "https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Me Ha Pasado",
         "url": "https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 191770,
       "name": "A Mi Me Ha Pasado",
       "url": "https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Alejandro Ascencio",
+          "url": "https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf"
+        }
+      ],
+      "duration_ms": 213448,
+      "name": "Cuando Me Quieras",
+      "url": "https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz"
     },
     {
       "added_at": null,

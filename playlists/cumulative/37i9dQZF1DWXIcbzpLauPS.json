@@ -2457,7 +2457,7 @@
     },
     {
       "album": {
-        "name": "bad luck",
+        "name": "bad luck \u25cb",
         "url": "https://open.spotify.com/album/78DHgUcHMwtvfQuXBolNWt"
       },
       "artists": [
@@ -2478,7 +2478,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 252173,
-      "name": "bad luck",
+      "name": "bad luck \u25cb",
       "url": "https://open.spotify.com/track/4l6m1x05ChXrZA7GEoQtO6"
     },
     {
@@ -7628,7 +7628,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 192200,
       "name": "devil's/speak",
       "url": "https://open.spotify.com/track/2Z2LaPdOVMFUvqfY7FP2oz"
@@ -17530,7 +17530,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Nails",
       "url": "https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT"

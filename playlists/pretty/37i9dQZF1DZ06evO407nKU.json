@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 57970,
+  "num_followers": 57977,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACvIY4mnVSbjO4uQ833LcOs",
+  "snapshot_id": "ao9+AAAAAAABjRHmrNGU1Qu9zIROdJvR",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Luchon",
-        "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 182363,
-      "name": "La Maestra",
-      "url": "https://open.spotify.com/track/2znHnpzU72W58x2CoPD7MZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Naturaleza",
         "url": "https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 184523,
       "name": "Tu Naturaleza",
       "url": "https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Luchon",
+        "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 182363,
+      "name": "La Maestra",
+      "url": "https://open.spotify.com/track/2znHnpzU72W58x2CoPD7MZ"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Muero",
-        "url": "https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Me Muero",
-      "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Bruta (En Vivo)",
         "url": "https://open.spotify.com/album/1NQCMMZnRZkqTMX0QpLTvn"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 256105,
       "name": "La Bruta (En Vivo)",
       "url": "https://open.spotify.com/track/72sUhaR3zbNJI1He6EW9TC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Muero",
+        "url": "https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Me Muero",
+      "url": "https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM"
     },
     {
       "added_at": null,
@@ -551,54 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estas Perdida",
-        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 217531,
-      "name": "No Vuelvo A Extranarte",
-      "url": "https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 148302,
-      "name": "Carta Abierta - En Vivo",
-      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde Los Mochis",
-        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Popurri Cumbias - En Vivo",
-      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parrandero (feat. Grupo Recluta, Perdidos De Sinaloa, Banda Cuisillos, Los Nuevos Ilegales, La Decima Banda & Banda Los Coyulitos) [Remix]",
         "url": "https://open.spotify.com/album/36sAc70PK5dD50d1tgtFko"
       },
@@ -643,6 +595,54 @@
       "duration_ms": 167299,
       "name": "Parrandero (feat. Grupo Recluta, Perdidos De Sinaloa, Banda Cuisillos, Los Nuevos Ilegales, La Decima Banda & Banda Los Coyulitos) - Remix",
       "url": "https://open.spotify.com/track/56uGm0jqTWGwHnoNRUWKs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Los Mochis",
+        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Popurri Cumbias - En Vivo",
+      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estas Perdida",
+        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 217531,
+      "name": "No Vuelvo A Extranarte",
+      "url": "https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
+        "name": "Ya Duele Menos",
+        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
       },
       "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
+      "duration_ms": 184348,
+      "name": "Ya Duele Menos",
+      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
     },
     {
       "added_at": null,
@@ -831,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Duele Menos",
-        "url": "https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW"
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
       },
       "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
         {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 184348,
-      "name": "Ya Duele Menos",
-      "url": "https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ"
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
     },
     {
       "added_at": null,

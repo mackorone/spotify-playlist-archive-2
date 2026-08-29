@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "For the new generation of trendsetters coming through, we move. Cover: N4T, Ace",
+  "description": "For the new generation of trendsetters coming through, we move. Cover: TR Gobrazy",
   "name": "We Move",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 144428,
       "name": "Angelic (Won't Do)",
       "url": "https://open.spotify.com/track/6DU10dMOs4Eai9PeXEW8ns"
@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Creepy",
+        "url": "https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn"
+      },
+      "artists": [
+        {
+          "name": "Soraya Cinema",
+          "url": "https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140211,
+      "name": "Creepy",
+      "url": "https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW"
+    },
+    {
+      "album": {
         "name": "Crocodile Woman",
         "url": "https://open.spotify.com/album/26r8iB0XKZCFtRPW4w20uh"
       },
@@ -1055,6 +1073,24 @@
     },
     {
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/1bTFMfZVqeVOw7fJyoD4JM"
+      },
+      "artists": [
+        {
+          "name": "Bemz",
+          "url": "https://open.spotify.com/artist/2mDgS5iDj9A8snbNmtt9Ei"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155094,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0pETRZNX3YCizw4egCAY4M"
+    },
+    {
+      "album": {
         "name": "Do Too Much",
         "url": "https://open.spotify.com/album/56eEJD1fje5QRQGAeRyjMw"
       },
@@ -1102,7 +1138,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 214000,
       "name": "does it still rain?",
       "url": "https://open.spotify.com/track/2QrFAGaJXM1gnJsbfE0zrO"
@@ -1332,7 +1368,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 120000,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/15PJRwSIxYCtG72eS0lP0i"
@@ -1827,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Hot Stunna",
+        "url": "https://open.spotify.com/album/7DyV42H8KMaBlNHJlsdcCC"
+      },
+      "artists": [
+        {
+          "name": "Che Mario",
+          "url": "https://open.spotify.com/artist/1ivNd0gXUD4YnY1HLm6akh"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176259,
+      "name": "Hot Stunna",
+      "url": "https://open.spotify.com/track/2w5bjA39r61Zytbm2DNM6X"
+    },
+    {
+      "album": {
         "name": "How Greedy",
         "url": "https://open.spotify.com/album/5fIJpPE2LbGMXN0WVjZKdF"
       },
@@ -2205,6 +2259,28 @@
     },
     {
       "album": {
+        "name": "Kacey (feat. Jordan Ward)",
+        "url": "https://open.spotify.com/album/3AYglF9ygBXs6BVVlTUdYU"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154711,
+      "name": "Kacey (feat. Jordan Ward)",
+      "url": "https://open.spotify.com/track/2x98vnp1K0wgGgMmoBqYbG"
+    },
+    {
+      "album": {
         "name": "stone radio",
         "url": "https://open.spotify.com/album/3NI1FaapWxo9bLT20nsJOT"
       },
@@ -2326,7 +2402,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 125142,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5YGduouoFxWARvrXbaU5JT"
@@ -2443,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "mitcham mint",
+        "url": "https://open.spotify.com/album/3LE08B4y2oliaeEaXVKEih"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "mitcham mint",
+      "url": "https://open.spotify.com/track/2CaXYXIyrhAVT0LFoQfftL"
+    },
+    {
+      "album": {
         "name": "Money (On My Mind)",
         "url": "https://open.spotify.com/album/4UJsedYoV9kX50aevnAjxa"
       },
@@ -2490,7 +2584,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 158770,
       "name": "More Than U Know",
       "url": "https://open.spotify.com/track/2ALJOResYdGVnp7LvYmE21"
@@ -2530,6 +2624,42 @@
       "duration_ms": 111352,
       "name": "Moved On",
       "url": "https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc"
+    },
+    {
+      "album": {
+        "name": "MUM SAID",
+        "url": "https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8"
+      },
+      "artists": [
+        {
+          "name": "TR Gobrazy",
+          "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113337,
+      "name": "MUM SAID",
+      "url": "https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z"
+    },
+    {
+      "album": {
+        "name": "Seaside Rap 2",
+        "url": "https://open.spotify.com/album/3UiewkDhJofBgmC2GlFG6C"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Dreads",
+          "url": "https://open.spotify.com/artist/3UZMgpkKd6JUdvxQa0M0PK"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "National Trust",
+      "url": "https://open.spotify.com/track/7ugZGH8Sbcq5oDDu8SkQG0"
     },
     {
       "album": {
@@ -3004,10 +3134,28 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 109714,
       "name": "Risk",
       "url": "https://open.spotify.com/track/5isXNs4Awya0ljdBIA6De7"
+    },
+    {
+      "album": {
+        "name": "Rust Bucket",
+        "url": "https://open.spotify.com/album/3t36VFJZEVIaViy3c5i53x"
+      },
+      "artists": [
+        {
+          "name": "KinKai",
+          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Rust Bucket",
+      "url": "https://open.spotify.com/track/2y9kyRabTtxKaovNP7vz7g"
     },
     {
       "album": {
@@ -3280,7 +3428,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 116352,
       "name": "SIPPIN",
       "url": "https://open.spotify.com/track/3wh4nXBBLKyLbbjrfp0vR6"
@@ -4290,7 +4438,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 185684,
       "name": "Valley",
       "url": "https://open.spotify.com/track/0HH3uVsAUpi8gwh64LY9i5"

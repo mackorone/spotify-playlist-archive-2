@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540,911 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540,872 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [アイコトバ](https://open.spotify.com/track/0nwoWtibzKDCyfvQODlpHk) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [アイコトバ](https://open.spotify.com/album/0MC4ASdQePlwlAJHP9Bcq2) | 3:13 |
 | 100 | [消えない花火](https://open.spotify.com/track/5z5igGbFD4MOgAWwvcIhJ5) | [timelesz](https://open.spotify.com/artist/1ZFfhzyXjPvbzSYPlCIwo3) | [消えない花火](https://open.spotify.com/album/0WaEQ93ujik1fE7wV9AQEU) | 3:50 |
 
-Snapshot ID: `AAAAAIqGBnsUzE7+uEAS+v59I6g33h/6`
+Snapshot ID: `AAAAAMp8C1FO3kzi6RiA03Vjcjzh3PCn`

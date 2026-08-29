@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,708,529 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,708,458 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 59 | [FERXXO 30](https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:53 |
 | 60 | [Una Noche Más](https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Una Noche Más](https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE) | 2:39 |
 | 61 | [Travesuras \- Remix](https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Travesuras \(Remix\)](https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa) | 5:24 |
-| 62 | [MAL DE AMORES](https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [MAL DE AMORES](https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO) | 3:30 |
-| 63 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
-| 64 | [Maradona \(Tatara\)](https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Maradona \(Tatara\)](https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW) | 2:30 |
-| 65 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 |
+| 62 | [Sal y Perrea](https://open.spotify.com/track/5u7twkeask1VIyDeNTElSU) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:36 |
+| 63 | [MAL DE AMORES](https://open.spotify.com/track/1usKzwMu9aXkOopVWWpIf9) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [MAL DE AMORES](https://open.spotify.com/album/2A8C1hue8degWpk0T4M5oO) | 3:30 |
+| 64 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 |
+| 65 | [Maradona \(Tatara\)](https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Maradona \(Tatara\)](https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW) | 2:30 |
 
-Snapshot ID: `AAAAAIWktri1H3BFMpmohGd5irYHZmqp`
+Snapshot ID: `AAAAAIAGwpYxScn5lQlAqxUgpnM+HodV`

@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3698,
+  "num_followers": 3699,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAB/rcBgHl+5t9K01qCkLNQC",
+  "snapshot_id": "ao9+AAAAAADTTD+5Vthf1yuqWaXzXD4B",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Respeito \u00c9 Pra Quem Tem",
+        "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 234090,
+      "name": "Respeito \u00c9 Pra Quem Tem",
+      "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00fasicas Para Marolar",
         "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
       },
@@ -799,30 +823,6 @@
       "duration_ms": 171008,
       "name": "Gostoso esse Pretinho",
       "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Respeito \u00c9 Pra Quem Tem",
-        "url": "https://open.spotify.com/album/67HLqaZEz4uQoOb4Pf9uoE"
-      },
-      "artists": [
-        {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 234090,
-      "name": "Respeito \u00c9 Pra Quem Tem",
-      "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
     },
     {
       "added_at": null,
@@ -1031,30 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem que t\u00e1 vindo no porte?",
-        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "D38",
-          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 150711,
-      "name": "Quem que t\u00e1 vindo no porte?",
-      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fed Tracks #14: Recado",
         "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 161095,
       "name": "Fed Tracks #14: Recado",
       "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem que t\u00e1 vindo no porte?",
+        "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 150711,
+      "name": "Quem que t\u00e1 vindo no porte?",
+      "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
     },
     {
       "added_at": null,

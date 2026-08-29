@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 
 > ¡A calentar garganta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,420,056 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,420,185 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 83 | [El Rey De Mil Coronas](https://open.spotify.com/track/0O98RZVXFehnS7bwICxk18) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Desvelada Con Banda Y Mariachi "En Vivo"](https://open.spotify.com/album/5ONCHLXRv0vNIWHlv7T8NW) | 2:27 |
 | 84 | [Juro Por Dios](https://open.spotify.com/track/6osud8uV5xJV9eODR6del5) | [Banda Tierra Blanca](https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB) | [Cosas De La Vida](https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri) | 3:20 |
 | 85 | [Por Que Te Vas De Mi](https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:04 |
-| 86 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
+| 86 | [Tus Mentiras \- En Vivo](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 87 | [Si Tu Amor No Vuelve \- En Vivo](https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1) | 3:20 |
 | 88 | [El Desquite](https://open.spotify.com/track/6mcEvIq8SP4gSIKLfjWzZq) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 2:51 |
 | 89 | [En Realidad \- En Vivo](https://open.spotify.com/track/5qMcCmuqBDvE6iVxeuqunC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [En Realidad \(En Vivo\)](https://open.spotify.com/album/4FEP3Mcoimrhbv0o7Oe34u) | 3:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLL3REk8t1E.md) - [plain]
 | 124 | [Tus Verdades](https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:35 |
 | 125 | [Juanita\-flor De Walamo\-](https://open.spotify.com/track/1kQkOkoyoZXVYmKun8zwky) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian](https://open.spotify.com/album/0DU0130isqF7wOR0LbDtCA) | 3:22 |
 
-Snapshot ID: `AAAAAEjfwSIxT3mAPf+wvpqKDfzt8MQe`
+Snapshot ID: `AAAAAEmFneOEyR2J8mtCt+36aV++C2kl`

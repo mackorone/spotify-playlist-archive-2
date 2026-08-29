@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-209 songs - 12 hr 9 min
+210 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1by1 \(feat\. RAYE & Maleek Berry\)](https://open.spotify.com/track/0MMYHVhb9kyxW1JpK9IBoK) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 4:08 | 2024-04-04 |  |
+| [2\-2](https://open.spotify.com/track/7bwBoVmrfB0xMbUose7HYb) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie \(Fan Edition\)](https://open.spotify.com/album/3VYER2TreguhiDUlXnTkli) | 3:01 | 2026-08-28 |  |
 | [A Good Night](https://open.spotify.com/track/7gevvAspxft2qQmcvJjNBH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [A Good Night](https://open.spotify.com/album/2hHh6SaRQhRbeXdQkk4cV9) | 3:23 | 2023-12-30 |  |
 | [About Last Night..\. \(Intro\)](https://open.spotify.com/track/4h7pGYo2Ciay17qYsPXwfL) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 0:34 | 2024-03-26 |  |
 | [After the Afterparty \(feat\. Lil Yachty\)](https://open.spotify.com/track/0y8Wf6ltWpGCpgqVa21QNX) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [After the Afterparty \(feat\. Lil Yachty\)](https://open.spotify.com/album/4Txd0wc4WAgnoxXx0SLAlw) | 3:39 | 2023-12-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,537 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,597 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 27 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
 | 28 | [Amoudou](https://open.spotify.com/track/1QnWVnnt2AOT7psq22mO5I) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt) | [Amoudou](https://open.spotify.com/album/12OPu793Jldrmt0fMkXpby) | 4:47 |
 | 29 | [Sekou Oumarou](https://open.spotify.com/track/0ww5hcdJB78pFq3sH2Fucn) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/0DVAsW7CZkaUg8zv0FinJI) | 3:33 |
-| 30 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
-| 31 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 |
+| 30 | [Duna ma yelema](https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Maciré \(Kar Kar\)](https://open.spotify.com/album/3On4vsdEZhu65FuG6xXiQr) | 3:53 |
+| 31 | [Imuhar](https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 3:48 |
 | 32 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
 | 33 | [Derhan N'Oulhine](https://open.spotify.com/track/0EY3h4xFDtRkHA8dGED9qR) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Derhan N'Oulhine](https://open.spotify.com/album/35IE4uxHlCa73J9DBZdbzS) | 3:33 |
 | 34 | [Hizab](https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Motherland \- The Score](https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Manden Mandinkadenou \(Chant de griot\)](https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY) | [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Kassé\-Mady Diabaté](https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC), [Mamani Keïta](https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6), [Nana Kouyate](https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0), [Tanti Kouyaté](https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB) | [The Routes of Slavery](https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp) | 4:41 |
 | 50 | [Imidiwan Takyadam \- feat\. José González](https://open.spotify.com/track/2b4fBioLLqcnL4reo9XtRu) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imidiwan Takyadam](https://open.spotify.com/album/1GRebforJ6lYt2aST9WKle) | 4:16 |
 
-Snapshot ID: `AAAAAOb2k7VEmmY629ac3dpaGORz0Bwi`
+Snapshot ID: `AAAAANyloJTxvBCyad6NbdKSSuiTOPm7`

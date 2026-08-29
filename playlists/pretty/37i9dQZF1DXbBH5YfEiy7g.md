@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,688 likes - 110 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,752 likes - 110 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 109 | [Ebukhoneni](https://open.spotify.com/track/5l0Vfkkk9TC375DG7WCSjR) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Thami Mthabela](https://open.spotify.com/artist/3vykH9neFCy7n3NpfgzWbi) | [Ivangeli](https://open.spotify.com/album/5I1BCKaeMEcnZ284Gcpo9Z) | 5:24 |
 | 110 | [Wafika](https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Wafika](https://open.spotify.com/album/0rPX5bZ9moPrhGT9Rwuomo) | 8:33 |
 
-Snapshot ID: `AAAAABucPyYLxc3zNESMlUSnBaD0c5gD`
+Snapshot ID: `AAAAAJm5t7uOaGEWJMCgBvrxVhT4/J/s`

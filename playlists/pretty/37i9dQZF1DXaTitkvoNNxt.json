@@ -1,12 +1,12 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1416829,
+  "num_followers": 1416840,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAItlWrfT42dySsbwEqaIqylAswbt",
+  "snapshot_id": "AAAAAPLvNcmQG0f3dCqwUjVDLCyvymTL",
   "tracks": [
     {
       "added_at": "2024-05-26 16:29:14",
@@ -479,26 +479,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Global Warming: Meltdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 204134,
-      "name": "Timber",
-      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Raymond v Raymond (Expanded Edition)",
         "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 220800,
       "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
       "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Global Warming: Meltdown (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 204134,
+      "name": "Timber",
+      "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 258266,
       "name": "Hymn for the Weekend",
       "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "Shower",
         "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
       },
@@ -851,58 +851,6 @@
       "duration_ms": 206166,
       "name": "Shower",
       "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Symphony (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 189109,
-      "name": "The Lazy Song",
-      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -927,6 +875,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -939,6 +903,42 @@
       "duration_ms": 231233,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Symphony (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 192190,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 214477,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 192190,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Blurred Lines (Deluxe)",
         "url": "https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 263826,
       "name": "Blurred Lines",
       "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Queen Of The Clouds",
         "url": "https://open.spotify.com/album/1teQxZPWNILIowWpQA6qfm"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
     }
   ],
   "unique_name": "Summer Hits of the 10s",

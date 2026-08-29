@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 188879,
+  "num_followers": 188890,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOyzCsBailmSkszNaiH223I329C1",
+  "snapshot_id": "AAAAAAyOK7U3ZxJDwPOidMSKRbNrIjvB",
   "tracks": [
     {
       "added_at": "2026-04-21 16:02:40",
@@ -67,6 +67,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "Amarsi \u00e8 la rivoluzione",
+        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
+      },
+      "artists": [
+        {
+          "name": "Eddie Brock",
+          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
+        }
+      ],
+      "duration_ms": 187698,
+      "name": "Non \u00e8 mica te",
+      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Completamente Sold Out",
         "url": "https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 216386,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Amarsi \u00e8 la rivoluzione",
-        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
-      },
-      "artists": [
-        {
-          "name": "Eddie Brock",
-          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
-        }
-      ],
-      "duration_ms": 187698,
-      "name": "Non \u00e8 mica te",
-      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -135,22 +135,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
-      },
-      "artists": [
-        {
-          "name": "Benji & Fede",
-          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
-        }
-      ],
-      "duration_ms": 190409,
-      "name": "Dove e quando",
-      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Possibili Scenari",
         "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 293960,
       "name": "Poetica",
       "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/77QYi88mcI4qXClwTAwxjg"
+      },
+      "artists": [
+        {
+          "name": "Benji & Fede",
+          "url": "https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm"
+        }
+      ],
+      "duration_ms": 190409,
+      "name": "Dove e quando",
+      "url": "https://open.spotify.com/track/5XM7tx8ovQ9UrYqUowW1AK"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Oltre",
-        "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
-      },
-      "artists": [
-        {
-          "name": "Claudio Baglioni",
-          "url": "https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj"
-        }
-      ],
-      "duration_ms": 336960,
-      "name": "Mille giorni di te e di me",
-      "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Odissea",
         "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 270003,
       "name": "Oro",
       "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Oltre",
+        "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
+      },
+      "artists": [
+        {
+          "name": "Claudio Baglioni",
+          "url": "https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj"
+        }
+      ],
+      "duration_ms": 336960,
+      "name": "Mille giorni di te e di me",
+      "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Lucio Dalla",
-        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
-      },
-      "artists": [
-        {
-          "name": "Lucio Dalla",
-          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Anna E Marco",
-      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Splende",
         "url": "https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 211093,
       "name": "Una finestra tra le stelle",
       "url": "https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Lucio Dalla",
+        "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
+      },
+      "artists": [
+        {
+          "name": "Lucio Dalla",
+          "url": "https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Anna E Marco",
+      "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Bagus",
         "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 253626,
       "name": "Vieni A Vedere Perch\u00e8",
       "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
+        "name": "La Vasca",
+        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
+      },
+      "artists": [
+        {
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "Una Su 1.000.000",
+      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
         "name": "Tu No",
         "url": "https://open.spotify.com/album/73tk3YTX5XnmuZtUwcIPED"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 221413,
       "name": "Fotografia (feat. Francesca Michielin & Fabri Fibra)",
       "url": "https://open.spotify.com/track/3fw3W15QK6a9UxJGgndtYu"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "La Vasca",
-        "url": "https://open.spotify.com/album/2iZYerMKDMcaJiosOSEu3f"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Una Su 1.000.000",
-      "url": "https://open.spotify.com/track/3O96lY6J3wxMEc8yoB844j"
     },
     {
       "added_at": "2026-04-21 16:02:40",

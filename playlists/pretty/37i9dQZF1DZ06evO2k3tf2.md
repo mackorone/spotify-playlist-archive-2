@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,281 likes - 45 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,449,358 likes - 45 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 44 | [Fake You Out](https://open.spotify.com/track/3MLtopC0uho28PxZN7Zecy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 3:51 |
 | 45 | [Car Radio \- Live in Mexico City](https://open.spotify.com/track/6yvZLQqaM09tZddJ4jL6EC) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 5:05 |
 
-Snapshot ID: `ao4sgAAAAACIZbDRShLIdN1aNT7cQ+YD`
+Snapshot ID: `ao9+AAAAAAAybAbj9Wy1T+94Q6Awy3Pi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,477 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,466 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 20 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 |
 | 21 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 22 | [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 |
-| 23 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
-| 24 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
+| 23 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
+| 24 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
 | 25 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 |
 | 26 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
 | 27 | [Most Good Things Do \- Acoustic](https://open.spotify.com/track/4S44OIOTYXBssJibn6iMQI) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 74 | [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 |
 | 75 | [Brighter Shade of Blue](https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh) | [Jordan DePaul](https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h) | [Forces \- EP](https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I) | 3:48 |
 
-Snapshot ID: `AAAAAH0eEsMpZjnd3VLSwwIHmTzAE0YN`
+Snapshot ID: `AAAAAI/wL2i78eRtfh4FsW+EtoO9hfzB`

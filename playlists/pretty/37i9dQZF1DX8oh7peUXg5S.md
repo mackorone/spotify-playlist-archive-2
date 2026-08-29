@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,461 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,488 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 12 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
 | 13 | [¿Cómo se ama?](https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Taracá](https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H) | 3:38 |
 | 14 | [Por el Bulevar de los Sueños Rotos](https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esta Boca Es Mia](https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk) | 3:59 |
-| 15 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
+| 15 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
 | 16 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
 | 17 | [Helicrisum](https://open.spotify.com/track/2u7ZGeYkCjZDQ5wNR3ivKM) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Helicrisum](https://open.spotify.com/album/4jrnCscEUsX2iDWEoBhTDw) | 3:54 |
-| 18 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
+| 18 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
 | 19 | [TODO O NADA \(feat\. Bunbury\)](https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [TODO O NADA \(feat\. Bunbury\)](https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC) | 3:28 |
 | 20 | [La Flor de la Canela \(with Joaquín Sabina\)](https://open.spotify.com/track/7uWPGOYJ5VD9ygh33Eemex) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
 | 21 | [Mujer verano](https://open.spotify.com/track/03rIkwO4y1bYM9uRjcRxZR) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Mujer verano](https://open.spotify.com/album/2mmPxDQaKXi1soZMQNip9Z) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [25 años](https://open.spotify.com/track/1Aeo7d2xk4BoL7gZT6F7ew) | [Carmen Paris](https://open.spotify.com/artist/5yp8l1WcFIYNiJlHMScIrO) | [inCubando](https://open.spotify.com/album/0hvlE8yHGjFGYwaajznxV9) | 3:48 |
 | 100 | [Risk](https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg) | [Tontxu](https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO) | [Se Vende](https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6) | 3:57 |
 
-Snapshot ID: `AAAAAJwxZIn3AxkzOAE3ngtBAsXFWvNi`
+Snapshot ID: `AAAAAJX/yWctOcIMI/MNGgZrOTdSxqot`

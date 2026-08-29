@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Mosaic MSC
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,299 likes - 75 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,342 likes - 75 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 74 | [King of Kings \(Spontaneous\) \- Live](https://open.spotify.com/track/16olaIjmJHTlXBbihdtXl5) | [Dwell Church Worship](https://open.spotify.com/artist/3LXVX1w2XzpruSHLM6vuDJ), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Live from Dwell Church](https://open.spotify.com/album/6mnaBXBAdgAcmivnP3jwOO) | 7:55 |
 | 75 | [Consider Him \- Live](https://open.spotify.com/track/0yqqeDcVDTvVHi1Vp0pz2G) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [1350 \(Live\)](https://open.spotify.com/album/1GTvVA3HOCDDEnW27RV52Z) | 5:32 |
 
-Snapshot ID: `AAAAAOpHQp3fnyuwuDpl6LZecq0kb0p/`
+Snapshot ID: `AAAAAJlig5Z88Cj2hGmbVk1YOg624wVG`

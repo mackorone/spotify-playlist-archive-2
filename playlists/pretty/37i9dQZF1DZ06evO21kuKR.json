@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 99049,
+  "num_followers": 99058,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABjvo03kihLS7+15dUrqxvQ",
+  "snapshot_id": "ao9+AAAAAAAqyfe4RFjfoYuZMlORXQZ3",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Served",
-        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 119939,
-      "name": "Pistol By Da Bed",
-      "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Federal 3X",
         "url": "https://open.spotify.com/album/7GKeanSbogoSG3tOXNEPZi"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 204073,
       "name": "Side B!+$#es",
       "url": "https://open.spotify.com/track/5G89UsCT1l9xxV4bnBCowX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 119939,
+      "name": "Pistol By Da Bed",
+      "url": "https://open.spotify.com/track/5QOQTuR9vSDQdhz3Bo2FTs"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+        "name": "VERA VOLPE",
+        "url": "https://open.spotify.com/album/7q6SBGDAuu85s0Uy2YYd5w"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
         },
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 133136,
-      "name": "OUTTA TOWN (feat. BossMan Dlow)",
-      "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
+      "duration_ms": 162312,
+      "name": "SERIOUS \u2014 THE COMMISSION",
+      "url": "https://open.spotify.com/track/7D3rQrVTUX9d941osePHDA"
     },
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Served",
-        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
       "artists": [
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
         }
       ],
-      "duration_ms": 142049,
-      "name": "Speak 4 Em",
-      "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"
+      "duration_ms": 133136,
+      "name": "OUTTA TOWN (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
     },
     {
       "added_at": null,
@@ -851,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "VERA VOLPE",
-        "url": "https://open.spotify.com/album/7q6SBGDAuu85s0Uy2YYd5w"
+        "name": "Time Served",
+        "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
       "artists": [
-        {
-          "name": "YTB Fatt",
-          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
-        },
         {
           "name": "Moneybagg Yo",
           "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 162312,
-      "name": "SERIOUS \u2014 THE COMMISSION",
-      "url": "https://open.spotify.com/track/7D3rQrVTUX9d941osePHDA"
+      "duration_ms": 142049,
+      "name": "Speak 4 Em",
+      "url": "https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19"
     },
     {
       "added_at": null,

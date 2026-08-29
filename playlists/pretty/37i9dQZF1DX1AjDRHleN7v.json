@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420196,
+  "num_followers": 420203,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEt5/z6XiiXIx6O7RBWGako2weXM",
+  "snapshot_id": "AAAAAG8zvZERELv0LZx+8XB/NrPlKIR3",
   "tracks": [
     {
       "added_at": "2026-08-21 17:06:32",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-08-21 17:06:32",
       "album": {
+        "name": "M\u00edstico",
+        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 187459,
+      "name": "M\u00edstico",
+      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
+    },
+    {
+      "added_at": "2026-08-21 17:06:32",
+      "album": {
         "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
         "url": "https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 158293,
       "name": "O C\u00c9U T\u00c1 ROSA (Mr. Pampers)",
       "url": "https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO"
-    },
-    {
-      "added_at": "2026-08-21 17:06:32",
-      "album": {
-        "name": "M\u00edstico",
-        "url": "https://open.spotify.com/album/7DhXujQxCEiiTMpfkrnUzX"
-      },
-      "artists": [
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 187459,
-      "name": "M\u00edstico",
-      "url": "https://open.spotify.com/track/0AZJ2bWZwvgLH59jaxJScv"
     },
     {
       "added_at": "2026-08-21 17:06:32",

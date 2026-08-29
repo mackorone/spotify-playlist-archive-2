@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Baakio, Eco$ystem, Utility
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,585 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,569 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 79 | [HANDOUT](https://open.spotify.com/track/3v4GDXibV0EcyViPek8I1d) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz), [Jamahl Yami](https://open.spotify.com/artist/3Itv2bIVJFOjkW4UtMfclN) | [HANDOUT](https://open.spotify.com/album/2TBTrjzQYJGtFCH12Gc6Pe) | 4:16 |
 | 80 | [Playlist .](https://open.spotify.com/track/2cPU1MnlgHgeUKjaX7ZBKb) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Terrified .](https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ) | 2:38 |
 
-Snapshot ID: `AAAAAKp3SuNHVfUjebfSZiT0YiNnnbRy`
+Snapshot ID: `AAAAAEVGKSEQrPq1Z9DMsNDlFWbzFtyA`

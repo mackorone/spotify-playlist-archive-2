@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,956 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,981 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 42 | [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:49 |
 | 43 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 4:09 |
 | 44 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:32 |
-| 45 | [Sara](https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:31 |
+| 45 | [Isis](https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 6:59 |
 | 46 | [Love Minus Zero](https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:50 |
 | 47 | [I Threw It All Away](https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 2:26 |
 | 48 | [One Too Many Mornings](https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 2:42 |
-| 49 | [Isis](https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 6:59 |
+| 49 | [Sara](https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:31 |
 | 50 | [Stuck Inside of Mobile with the Memphis Blues Again](https://open.spotify.com/track/1NYTj6JEw3IOh4ggiBh82h) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 7:06 |
 
-Snapshot ID: `ao4sgAAAAADMcQdBy0s6T6eFXYwcKrsm`
+Snapshot ID: `ao9+AAAAAAA7tX8eREYYc2I3g1x6ZwIa`

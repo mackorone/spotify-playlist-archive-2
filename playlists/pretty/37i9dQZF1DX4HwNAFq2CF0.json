@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Angine de Poitrine",
-  "num_followers": 77652,
+  "num_followers": 77655,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFP81bsPIO/9ZHzawWk70UTboM1q",
+  "snapshot_id": "AAAAABAJPQ+IRKGXDXBBXH1MEWGMiNba",
   "tracks": [
     {
       "added_at": "2026-07-10 01:13:08",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Up To Here",
-        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "New Orleans Is Sinking",
-      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -871,18 +855,34 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Where the Shadow Ends",
-        "url": "https://open.spotify.com/album/5JV9WVTMzKobLw2rbs2FDY"
+        "name": "Up To Here",
+        "url": "https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv"
       },
       "artists": [
         {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Someone to You",
-      "url": "https://open.spotify.com/track/2amiYVWBp4ixa2Ja7ix5cx"
+      "duration_ms": 257440,
+      "name": "New Orleans Is Sinking",
+      "url": "https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Wonderful Wonderful",
+        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "Run For Cover",
+      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -903,18 +903,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Wonderful Wonderful",
-        "url": "https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi"
+        "name": "Where the Shadow Ends",
+        "url": "https://open.spotify.com/album/5JV9WVTMzKobLw2rbs2FDY"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
         }
       ],
-      "duration_ms": 222146,
-      "name": "Run For Cover",
-      "url": "https://open.spotify.com/track/5NAiPIEzxAexFE3ucV18Q8"
+      "duration_ms": 219813,
+      "name": "Someone to You",
+      "url": "https://open.spotify.com/track/2amiYVWBp4ixa2Ja7ix5cx"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Digital Silence",
-        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Digital Silence",
-      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Crisis of Faith",
         "url": "https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
+        "name": "Digital Silence",
+        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Digital Silence",
+      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -1011,26 +1011,6 @@
       "duration_ms": 176235,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e"
-    },
-    {
-      "added_at": "2026-07-10 01:13:08",
-      "album": {
-        "name": "We Might as Well Be Strangers (ft. Wednesday)",
-        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "We Might as Well Be Strangers (ft. Wednesday)",
-      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1081,6 +1061,26 @@
       "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
     },
     {
+      "added_at": "2026-07-10 01:13:08",
+      "album": {
+        "name": "We Might as Well Be Strangers (ft. Wednesday)",
+        "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "We Might as Well Be Strangers (ft. Wednesday)",
+      "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
+    },
+    {
       "added_at": "2026-05-06 20:31:40",
       "album": {
         "name": "Getting Killed",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "As You Were (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Wall of Glass",
-      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "Starburster",
         "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "As You Were (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Wall of Glass",
+      "url": "https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
     },
     {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
+    },
+    {
       "added_at": "2026-05-29 16:00:59",
       "album": {
         "name": "Can We Hang Out Sometime?",
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/16ks7N4Ur7Zz3wycIUfIMw"
+        "name": "boy",
+        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
       },
       "artists": [
         {
-          "name": "Jutes",
-          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 192340,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
+      "duration_ms": 198480,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1251,22 +1267,6 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/7BPCF0Q5xcZFzIemLlKph5"
     },
     {
-      "added_at": "2026-07-10 01:13:08",
-      "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Violins",
-      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
-    },
-    {
       "added_at": "2026-05-06 20:31:40",
       "album": {
         "name": "Formentera",
@@ -1451,6 +1435,22 @@
       "duration_ms": 263080,
       "name": "All Comes Crashing",
       "url": "https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA"
+    },
+    {
+      "added_at": "2026-07-10 01:13:08",
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Violins",
+      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
     },
     {
       "added_at": "2026-05-06 20:31:40",

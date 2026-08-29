@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,867 likes - 44 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,882 likes - 44 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 17 | [Easy Runaway](https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:45 |
 | 18 | [Fire on the Horizon](https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:27 |
 | 19 | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Got Me On The Run \(with Stick Figure and Pepper\)](https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF) | 4:34 |
-| 20 | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro), [Bradley Nowell](https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG) | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY) | 3:47 |
+| 20 | [Visions \(with Stick Figure\)](https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Visions](https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB) | 3:47 |
 | 21 | [Angels Above Me](https://open.spotify.com/track/6hBHSglQeZDkfkDYPBxG4i) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:20 |
 | 22 | [Choice Is Yours \(with Slightly Stoopid\)](https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:05 |
-| 23 | [Visions \(with Stick Figure\)](https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Visions](https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB) | 3:47 |
+| 23 | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Jakobs Castle](https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro), [Bradley Nowell](https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG) | [Feel Like That \(feat\. Bradley Nowell\)](https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY) | 3:47 |
 | 24 | [Middle of the Ocean](https://open.spotify.com/track/6ol8eSBUh9GEEIzkGIPR2J) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Easy to Love You](https://open.spotify.com/album/6Q7i2NPBvaoe0caVYIrm91) | 4:29 |
 | 25 | [Above the Storm](https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:54 |
 | 26 | [Livin' Easy](https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v) | [KBong](https://open.spotify.com/artist/2dzSec5CF9xQeW53ZJ5RHq), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Hopes and Dreams](https://open.spotify.com/album/3yCsh7NFJKoF9sEo2YLkE5) | 3:53 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 43 | [Golden Hour](https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:26 |
 | 44 | [Restless Soul](https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Restless Soul](https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ) | 4:16 |
 
-Snapshot ID: `ao4sgAAAAADvYJCuCJEB/1JUaEHsMSuX`
+Snapshot ID: `ao9+AAAAAAChUxTy9LcuB49vFa7gmdI5`

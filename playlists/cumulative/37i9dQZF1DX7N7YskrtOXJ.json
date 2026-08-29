@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 319787,
       "name": "As\u00ed Fue / Tu C\u00e1rcel / Estos Celos",
       "url": "https://open.spotify.com/track/1XB6uprTK9QOmgkUtmiDYX"
@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/3H6I1Ah9vdktBjeFiq0fka"
+      },
+      "artists": [
+        {
+          "name": "La Gran Magia Tropical",
+          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "Dame Tu Calor",
+      "url": "https://open.spotify.com/track/1Rp4eZYHe8VsN3kIyhekNS"
+    },
+    {
+      "album": {
         "name": "Carnaval Callejero",
         "url": "https://open.spotify.com/album/2xu2q19usb0mZrqCHKH9s8"
       },
@@ -1583,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/3H6I1Ah9vdktBjeFiq0fka"
+      },
+      "artists": [
+        {
+          "name": "La Gran Magia Tropical",
+          "url": "https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "Furia Loca",
+      "url": "https://open.spotify.com/track/4qQ5S7epEa2ExyE0nSmXWt"
+    },
+    {
+      "album": {
         "name": "Furia Loca",
         "url": "https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S"
       },
@@ -1652,7 +1688,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 224960,
       "name": "Haciendo el Amor",
       "url": "https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY"
@@ -2010,7 +2046,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 356938,
       "name": "La Santa Diabla",
       "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
@@ -2136,7 +2172,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 188053,
       "name": "Loca",
       "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"

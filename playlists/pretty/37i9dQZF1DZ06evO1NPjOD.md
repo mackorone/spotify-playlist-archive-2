@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,075 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,078 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 11 | [What We Doin'](https://open.spotify.com/track/11TOnapSFVWBUSByMzf1u1) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:23 |
 | 12 | [How To Pimp A N\*\*ga](https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:50 |
 | 13 | [Jobs](https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:01 |
-| 14 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
-| 15 | [Fuck The D To The A](https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:38 |
+| 14 | [Fuck The D To The A](https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:38 |
+| 15 | [Female Goat](https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:53 |
 | 16 | [Take Yo Man](https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:56 |
 | 17 | [Fu\*k Dat Ni\*\*a](https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:14 |
 | 18 | [Do It On The Tip \(feat\. City Girls & Hot Girl Meg\)](https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Hot Girl Meg](https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
 | 50 | [Sweet Tooth](https://open.spotify.com/track/5z3gOVUk7km3eNJM8M57tv) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:23 |
 
-Snapshot ID: `ao4sgAAAAADXERcf/p0AuX4Z59X7DJgk`
+Snapshot ID: `ao9+AAAAAADcGoFqFIlRzH0nIE2LcQO/`

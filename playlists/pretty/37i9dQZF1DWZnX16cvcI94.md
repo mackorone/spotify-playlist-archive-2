@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,177 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,253 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 |
-| 2 | [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 |
+| 1 | [Encantadora](https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Dangerous](https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY) | 4:00 |
+| 2 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 |
 | 3 | [Salió El Sol](https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [King Of Kings](https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5) | 5:15 |
 | 4 | [Pa' Que La Pases Bien](https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [El Fenomeno](https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s) | 3:34 |
 | 5 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 |
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 7 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 |
 | 8 | [Guaya Guaya](https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:13 |
 | 9 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
-| 10 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 |
-| 11 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
+| 10 | [Ay Vamos](https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia B Sides](https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp) | 3:46 |
+| 11 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 |
 | 12 | [Por Que Te Demoras?](https://open.spotify.com/track/6URNgz911jj10KXTFtevcS) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:11 |
 | 13 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 |
 | 14 | [Me Estas Tentando](https://open.spotify.com/track/7JVIiaJPFiZypYSOMREhhA) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [La Revolucion \(Deluxe\)](https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF) | 3:49 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 28 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 |
 | 29 | [Noche De Sexo](https://open.spotify.com/track/4kAtRwNRLMKuoCbxMSxUGI) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 3:25 |
 | 30 | [Junto Al Amanecer](https://open.spotify.com/track/1HPzBInBPVJfSUDNLsTGGn) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 4:10 |
-| 31 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 |
-| 32 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |
+| 31 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |
+| 32 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 |
 | 33 | [Bandoleros](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 5:05 |
 | 34 | [Porque Me Tratas Así?](https://open.spotify.com/track/6NoFVCCFpjWsHVYvinUeZG) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Wisin Vs Yandel "Los Extraterrestres"](https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh) | 4:03 |
 | 35 | [Shorty](https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia) | [Casa De Leones](https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 49 | [Un Poco Loca \(feat\. De La Ghetto\)](https://open.spotify.com/track/5A2fkyeIbRqwXGkIdadL5q) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Los Mas Sueltos Del Reggaeton](https://open.spotify.com/album/1tYGsYdYq3svOlTzAlojm1) | 4:33 |
 | 50 | [Gata Oficial](https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [El Bokisucio](https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd) | 3:54 |
 
-Snapshot ID: `AAAAADKZQzB8Gp0OU2SHT6g7U6yCNrnJ`
+Snapshot ID: `AAAAAKtePgj0fljmICrXo5W7EzTV4qJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,958,936 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,958,297 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 | 11 | [Recuerdos en Común](https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Recuerdos en Común](https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT) | 3:34 |
 | 12 | [DOLCE VITA](https://open.spotify.com/track/3PDMeYtw16N5rW5aIuZXw7) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [WET DREAMS](https://open.spotify.com/album/0LChGT5a0cKlkVJhRAE2vr) | 3:10 |
 | 13 | [TÓXICOS](https://open.spotify.com/track/6wHkuPGYXCiURrF56PUuJi) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ETERNO](https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7) | 3:03 |
-| 14 | [PARAMICORAZON:](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON:](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
+| 14 | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
 | 15 | [Pa la Maña](https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Pa la Maña](https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC) | 2:39 |
 | 16 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
 | 17 | [Se Marchitan Las Flores \- RADAR México](https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Se Marchitan Las Flores \- RADAR México](https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK) | 2:21 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 | 44 | [El Fin del Mundo](https://open.spotify.com/track/2cQpVtk5MOSLsGQrgMqT9g) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [El Fin del Mundo](https://open.spotify.com/album/5DwOfDm777Abiy2JonGKX8) | 3:08 |
 | 45 | [Gané](https://open.spotify.com/track/7ARRCcCMXLzdda2w5jxSY4) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Gané](https://open.spotify.com/album/2XnvAhJy0R6qJT6GVYhKuZ) | 4:20 |
 | 46 | [LA FAMA](https://open.spotify.com/track/2NAM4cGSNerduR7uPfZknS) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ACOMODO](https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv) | 2:47 |
-| 47 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
+| 47 | [Tus Mentiras \- En Vivo](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 48 | [Aprevenido](https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Aprevenido](https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK) | 2:49 |
 | 49 | [YA ESTUVO BUENO](https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [YA ESTUVO BUENO](https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg) | 2:53 |
 | 50 | [King of Watches](https://open.spotify.com/track/47ovAtI7DPTKTPbyRsqHmc) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 2:27 |
 
-Snapshot ID: `AAAAAFu0oYF6HXr7B54c1DukO25egOoh`
+Snapshot ID: `AAAAALYpbVga+xrtiYDlQ6lYO+PLANpC`

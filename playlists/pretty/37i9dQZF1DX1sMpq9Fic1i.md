@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sMpq9Fic1i.md) - [plain]
 
 > Music from "BLUELOCK" ©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,153 likes - 43 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,181 likes - 43 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sMpq9Fic1i.md) - [plain]
 | 42 | [Awakening of BAROU](https://open.spotify.com/track/0tIhFwq1gSJdjPH0mo19HW) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:51 |
 | 43 | [RIN](https://open.spotify.com/track/1ab3xr1b3TMpAOZwhM0qwN) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック』オリジナルサウンドトラック](https://open.spotify.com/album/7gxn7F2LPUHnhVwzfrJLIB) | 2:33 |
 
-Snapshot ID: `AAAAANYO4TH81ktBbr7gspapkDEPa3ac`
+Snapshot ID: `AAAAAIdjYjKPw99xA5g1WO+vdNVKUd8A`

@@ -1,12 +1,12 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 368326,
+  "num_followers": 368455,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPRbgoUMMZXhrO+MZ7UQHqKXLEAq",
+  "snapshot_id": "AAAAABa+f7bMhb69za5jv2RCA0Q09i+h",
   "tracks": [
     {
       "added_at": "2026-02-03 18:58:40",
@@ -155,6 +155,22 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 163275,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
         "name": "A Lot About Livin' (And A Little 'Bout Love)",
         "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 148160,
       "name": "Chattahoochee",
       "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
-        "name": "Cars (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "Life is a Highway",
-      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -203,18 +203,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+        "name": "Cars (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 163275,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+      "duration_ms": 275640,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Strait From The Heart",
-        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+        "name": "Coat Of Many Colors",
+        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Amarillo By Morning",
-      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
+      "duration_ms": 186453,
+      "name": "Coat of Many Colors",
+      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -347,18 +347,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
       },
       "artists": [
         {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Coat Of Many Colors",
-        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
         }
       ],
-      "duration_ms": 186453,
-      "name": "Coat of Many Colors",
-      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 194306,
       "name": "This Kiss",
       "url": "https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Ultimate Alabama 20 # 1 Hits",
-        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
+        "name": "White Limozeen",
+        "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 218613,
-      "name": "Mountain Music",
-      "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
+      "duration_ms": 152506,
+      "name": "Why'd You Come in Here Lookin' Like That",
+      "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+        "name": "Ultimate Alabama 20 # 1 Hits",
+        "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+      "duration_ms": 218613,
+      "name": "Mountain Music",
+      "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
         "name": "Damn Country Music",
         "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
       },
@@ -795,6 +811,22 @@
       "duration_ms": 259266,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 177404,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -815,22 +847,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 291073,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
       },
@@ -847,18 +863,18 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 214866,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
+      "duration_ms": 291073,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -875,6 +891,22 @@
       "duration_ms": 178973,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -907,22 +939,6 @@
       "duration_ms": 194453,
       "name": "Rhinestone Cowboy",
       "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 177404,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "White Limozeen",
-        "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Why'd You Come in Here Lookin' Like That",
-      "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Not A Moment Too Soon",
         "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 193093,
       "name": "Thank God I'm a Country Boy",
       "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
-        "name": "Living Hard",
-        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Watching Airplanes",
-      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
         "name": "I'm From The Country",
         "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 213973,
       "name": "I'm From The Country - Single Version",
       "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
+        "name": "Living Hard",
+        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Watching Airplanes",
+      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
     },
     {
       "added_at": "2026-02-03 18:58:40",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-02-03 18:58:40",
       "album": {
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+    },
+    {
+      "added_at": "2026-02-03 18:58:40",
+      "album": {
         "name": "Major Moves",
         "url": "https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 188173,
       "name": "How Forever Feels",
       "url": "https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG"
-    },
-    {
-      "added_at": "2026-02-03 18:58:40",
-      "album": {
-        "name": "I Believe In You",
-        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
     }
   ],
   "unique_name": "Raised on Country",

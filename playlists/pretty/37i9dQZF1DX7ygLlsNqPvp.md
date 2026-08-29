@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,041 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,065 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [POWER](https://open.spotify.com/track/1pVinZbONbJJUoNs9I0zF1) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [TPS](https://open.spotify.com/album/7lF6SMbtfihgllL2byoKjn) | 2:10 |
 | 50 | [DND \(feat\. Sarkodie\)](https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 2:43 |
 
-Snapshot ID: `AAAAAFynkQMR2bcIMMCRAUhCR47+RFWS`
+Snapshot ID: `AAAAAM2DsKEABUn5f4s3030NS+sXJtYw`

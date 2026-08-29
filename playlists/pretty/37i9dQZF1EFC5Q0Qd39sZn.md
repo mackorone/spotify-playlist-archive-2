@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,753 likes - 588 songs - 1 day 16 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,759 likes - 588 songs - 1 day 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 150 | [Let's Make It Last All Night](https://open.spotify.com/track/6uZfdeaNSXh42d16eSj49M) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [Two Fires](https://open.spotify.com/album/2F9ywIws07eHYcIvg8KFTn) | 4:06 |
 | 151 | [Note to God](https://open.spotify.com/track/7MlEmf2a7vrvXJ1v0AHFoe) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/2GhwG1q1nyMEc3GAfnQysg) | 3:58 |
 | 152 | [It Isn't, It Wasn't, It Ain't Never Gonna Be \(with Whitney Houston\) \- Album Edit](https://open.spotify.com/track/4dnZWUuBgcvy2WsAO6SPTq) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Through the Storm \(Expanded Edition\)](https://open.spotify.com/album/0EX7mlERvnmWSWMUBukVim) | 4:49 |
-| 153 | [I Belong to Me](https://open.spotify.com/track/7bIld1aH9R3zgGgzMWLxcU) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:40 |
-| 154 | [I'm Still Breathing](https://open.spotify.com/track/7r3ZDv5CoIvWH0fDWMizJQ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:15 |
+| 153 | [I'm Still Breathing](https://open.spotify.com/track/7r3ZDv5CoIvWH0fDWMizJQ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:15 |
+| 154 | [I Belong to Me](https://open.spotify.com/track/7bIld1aH9R3zgGgzMWLxcU) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:40 |
 | 155 | [Not Prepared For You](https://open.spotify.com/track/2cY9Hz1bihEOxPkUx3oFCA) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:52 |
 | 156 | [I'm Standing With You \- From "Breakthrough" Soundtrack](https://open.spotify.com/track/7AlVjh1sSW5PLtqhoNgHPP) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [I'm Standing With You \(From "Breakthrough" Soundtrack\)](https://open.spotify.com/album/5DRGqj2uMeWo3QWdn9wbMx) | 4:05 |
 | 157 | [The Same Love](https://open.spotify.com/track/07YAP0FPP2cXx30NM2hBwk) | [The Jets](https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2) | [Believe](https://open.spotify.com/album/15buuJJtVXJ0ccRjqv5P0r) | 3:58 |
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 207 | [I'll Say Good\-Bye For The Two Of Us](https://open.spotify.com/track/41UPzh1tCy4YPexDGov4Gq) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Greatest Hits](https://open.spotify.com/album/7AP7VvN3oX4fEEvW2bdbo9) | 4:37 |
 | 208 | [Don't Lose Any Sleep](https://open.spotify.com/track/3LBp8KAovHdlBbseS5bvIF) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Greatest Hits \(Ten Years And Change 1979\-1991\)](https://open.spotify.com/album/0qRvb8w1YuZhBrhELRFPBK) | 4:20 |
 | 209 | [Superhuman](https://open.spotify.com/track/4eMiknze54I87MoQ9yemCq) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/1DVit0dyCMSGJ4urswE5Sf) | 4:10 |
-| 210 | [Nothing Can Keep Me From You](https://open.spotify.com/track/2NiSYwryWPbvpzP23GlVtV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:04 |
-| 211 | [My First Night With You](https://open.spotify.com/track/0VXzpNAbCLTkNngCzHaYIx) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Mya](https://open.spotify.com/album/4O1WKiIEXNy7iycHEI681e) | 5:38 |
+| 210 | [My First Night With You](https://open.spotify.com/track/0VXzpNAbCLTkNngCzHaYIx) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Mya](https://open.spotify.com/album/4O1WKiIEXNy7iycHEI681e) | 5:38 |
+| 211 | [Nothing Can Keep Me From You](https://open.spotify.com/track/2NiSYwryWPbvpzP23GlVtV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:04 |
 | 212 | [It's Only My Heart \- Alternate Version](https://open.spotify.com/track/65VlkQugl1EffW1DvaBkTE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:31 |
 | 213 | [Too Gone, Too Long](https://open.spotify.com/track/2IOjsucrORGHHlqIlF3OAF) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:42 |
 | 214 | [World Without You](https://open.spotify.com/track/7CjkKfZv5ks3SLajSj1m7S) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 4:42 |
@@ -398,8 +398,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 388 | [Rain Song](https://open.spotify.com/track/3vvANCgxwW8W4AcBltmIWL) | [Air Traffic Controller](https://open.spotify.com/artist/2Oboq4Pq88TcC9eUn2HSW9) | [The One](https://open.spotify.com/album/6otLnUU2t5iyRLD08kbpCJ) | 5:41 |
 | 389 | [¿Quien Eres Tu?](https://open.spotify.com/track/4J7w6Bb668rRhok7ibv9Y1) | [Fabiola Rodas](https://open.spotify.com/artist/4IB1Wnh0oN0YpQ66lD2Ji5) | [Mi Gran Desafío](https://open.spotify.com/album/4Fnw5DMfyNj2ySU1UujnHb) | 4:41 |
 | 390 | [Dime Como Vuelvo A Tener Tu Corazon](https://open.spotify.com/track/3Rg0FWbKLNjWiIEcJJZchU) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Eterno](https://open.spotify.com/album/6x2BA9N3GLT21K7q3DWi5c) | 3:50 |
-| 391 | [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 |
-| 392 | [No Quiero Vivir Sin Tu Amor](https://open.spotify.com/track/2ISatZqzqX4VzDvTtwzT3O) | [Chebere](https://open.spotify.com/artist/53PMMY1sInP2hfK6TzIijL) | [25 Rosas \- Versiones Originales](https://open.spotify.com/album/0AD2gqC2HMW3KVb63Huony) | 3:58 |
+| 391 | [No Quiero Vivir Sin Tu Amor](https://open.spotify.com/track/2ISatZqzqX4VzDvTtwzT3O) | [Chebere](https://open.spotify.com/artist/53PMMY1sInP2hfK6TzIijL) | [25 Rosas \- Versiones Originales](https://open.spotify.com/album/0AD2gqC2HMW3KVb63Huony) | 3:58 |
+| 392 | [I Tried](https://open.spotify.com/track/4ik9oDeRdXGKheZ6LXLFWX) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Legacy \(Volume One\)](https://open.spotify.com/album/4Cpi2rXw1GfsC8L4je7lO6) | 4:04 |
 | 393 | [The Door to Your Heart \(feat\. Keith Washington\)](https://open.spotify.com/track/1OGSsXXBllCCApaVAuLKDG) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68), [Keith Washington](https://open.spotify.com/artist/5l0XyfQLHoWFvINcSaSrSx) | [Soul Dancing \(Expanded Edition\)](https://open.spotify.com/album/2Z1SUk5Jo7clpF4ZWqlGmc) | 4:10 |
 | 394 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 |
 | 395 | [Say What's In My Heart](https://open.spotify.com/track/3h54CP9giBXujwP7QH44dW) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [...To Make Me Who I Am](https://open.spotify.com/album/52TjEeeF9VQMBBtWcePxKy) | 4:20 |
@@ -597,4 +597,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 587 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 588 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcawWgAAAACRm+N98RlXzSO7vbcl8aVN`
+Snapshot ID: `Aca1HgAAAAAC83OlSPhqmCPTieuVO0uP`

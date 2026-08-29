@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > pov: minhas favs / Foto: Pabllo Vitar, Urias
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,385 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,323 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 29 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 |
 | 30 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 31 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 32 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 |
-| 33 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
+| 32 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
+| 33 | [Heaven Baby \(feat\. ZAYN\)](https://open.spotify.com/track/4iJJOsuXC9Y3Xp3wrmfl24) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:38 |
 | 34 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
 | 35 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 |
 | 36 | [Save Me Tonight](https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Save Me Tonight](https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z) | 3:16 |
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 46 | [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 |
 | 47 | [Eurosummer \- Girls Trip](https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:50 |
 | 48 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
-| 49 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
-| 50 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
+| 49 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
+| 50 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
 | 51 | [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 |
 | 52 | [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 |
 | 53 | [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 |
-| 54 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |
-| 55 | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 |
+| 54 | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 |
+| 55 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |
 | 56 | [Constant Companion](https://open.spotify.com/track/0ggQNb6DOsWhG89CWkjYHd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hazel Eyes](https://open.spotify.com/album/2XTj67uPs9qtSwn9vl33rh) | 4:51 |
 | 57 | [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 |
 | 58 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 74 | [Up Out & Gone](https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Up Out & Gone](https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV) | 2:56 |
 | 75 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
 
-Snapshot ID: `AAAAAFYBdfNd5jSusg1nxv8xHd51i9Wx`
+Snapshot ID: `AAAAABACweofo7qfbsHobNIGdzJu2NEq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,190 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,219 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 6 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 |
 | 7 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
 | 8 | [Time](https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:30 |
-| 9 | [Lose My Cool \- Franc Moody Remix](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Lose My Cool \(Remixes\)](https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA) | 4:17 |
-| 10 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
+| 9 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
+| 10 | [Lose My Cool \- Franc Moody Remix](https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Lose My Cool \(Remixes\)](https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA) | 4:17 |
 | 11 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
 | 12 | [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 |
-| 13 | [Running](https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Running](https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf) | 4:12 |
-| 14 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
+| 13 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
+| 14 | [Running](https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Running](https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf) | 4:12 |
 | 15 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 |
 | 16 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 17 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 31 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 |
 | 32 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
 | 33 | [THEMSELVES](https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:46 |
-| 34 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
-| 35 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
+| 34 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
+| 35 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
 | 36 | [FourSixty \- Feat\. Aaron Taylor](https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 3:12 |
 | 37 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
 | 38 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Ain't I Good For You](https://open.spotify.com/track/77WEFz4sR98WRO01patyZm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Ain't I Good For You](https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb) | 2:41 |
 | 60 | [Wake Up, Get Down](https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Wake Up, Get Down](https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6) | 4:19 |
 
-Snapshot ID: `AAAAAO6KIN8cZMOOKBRMndnJQKojRdsc`
+Snapshot ID: `AAAAADjj/c2QVh1JdSDTi+DcvGWMCFG6`

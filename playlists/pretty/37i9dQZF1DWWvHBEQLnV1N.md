@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Festive season staples and new holiday favourites 🎁
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,131 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,079 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 10 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 |
 | 11 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
 | 12 | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 |
-| 13 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
+| 13 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 | 14 | [Not Tonight Santa](https://open.spotify.com/track/55fhKXmY0UzzGT4AUwNvRe) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry](https://open.spotify.com/album/2ysysUy9AzjKZ1IKWX680w) | 2:41 |
-| 15 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
+| 15 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 | 16 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 |
 | 17 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 |
 | 18 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:32 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 27 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
 | 28 | [Somewhere Only We Know](https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47) | 3:28 |
 | 29 | [Driving Home for Christmas](https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 4:00 |
-| 30 | [Invisible \- from the Netflix Film Klaus](https://open.spotify.com/track/62z2Su8BBGvR50aOvdjPzW) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Invisible \(from the Netflix Film Klaus\)](https://open.spotify.com/album/2zPVfckf1i4YAN3qiHtYqW) | 2:53 |
-| 31 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 2:46 |
+| 30 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 2:46 |
+| 31 | [Invisible \- from the Netflix Film Klaus](https://open.spotify.com/track/62z2Su8BBGvR50aOvdjPzW) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Invisible \(from the Netflix Film Klaus\)](https://open.spotify.com/album/2zPVfckf1i4YAN3qiHtYqW) | 2:53 |
 | 32 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 |
 | 33 | [Main Title "Somewhere in My Memory" \(From "Home Alone" Soundtrack\)](https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:53 |
 | 34 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 59 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
 | 60 | [The Lighthouse Keeper](https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Lighthouse Keeper](https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB) | 4:07 |
 
-Snapshot ID: `AAAAAM5fTDHJ+ZXMY8smwKtQaAiTtthy`
+Snapshot ID: `AAAAAMaX48Lksuj9P2RBtjasecinrjn9`

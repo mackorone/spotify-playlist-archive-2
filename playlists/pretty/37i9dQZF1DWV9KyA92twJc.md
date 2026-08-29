@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלך\. שירים יפים מישראל והעולם\. קאבר: פול טראנק
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,743 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,744 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 67 | [איפה שתגידי](https://open.spotify.com/track/2PZ8BlakFfw8T8InWlkVLg) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:55 |
 | 68 | [אחת ממיליון](https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF) | [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון](https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo) | 3:21 |
 | 69 | [פלסטרים](https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [פלסטרים](https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV) | 2:58 |
-| 70 | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD) | 3:11 |
+| 70 | [New Day Will Rise](https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8) | [יובל רפאל](https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [New Day Will Rise](https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ) | 2:59 |
 | 71 | [נשמות צמאות](https://open.spotify.com/track/3KFaiPnUVpvwrcIjbMFKBW) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [נשמות צמאות](https://open.spotify.com/album/0qYLzHNcwvcvvdGlEDrtmx) | 2:59 |
 | 72 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 |
-| 73 | [New Day Will Rise](https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8) | [יובל רפאל](https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [New Day Will Rise](https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ) | 2:59 |
-| 74 | [אצלנו זה ככה](https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אצלנו זה ככה](https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew) | 3:33 |
+| 73 | [אצלנו זה ככה](https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אצלנו זה ככה](https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew) | 3:33 |
+| 74 | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/track/5mDm5j6WG9bkl5AR19vJzh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [I LOVE YOU \(feat\. Armani White\)](https://open.spotify.com/album/7zd33p1hPWK24q3v3LhKeD) | 3:11 |
 | 75 | [רוז](https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:44 |
 | 76 | [אמא שלך](https://open.spotify.com/track/3TQtybs90OnjGO8uaYSZi6) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [איש הפלא](https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A) | 3:20 |
 | 77 | [מנגן ושר](https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 99 | [למי את מתקשרת](https://open.spotify.com/track/7owAy4b9jUAiNDNi0bJ9rW) | [ליאם גולן](https://open.spotify.com/artist/5Rp2o61i7NiMPtSuDj5IRX) | [למי את מתקשרת](https://open.spotify.com/album/0b1XLphWfOAzSaWA36Khrt) | 3:05 |
 | 100 | [זזה עם הגוף](https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6) | [LifeSwisa](https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu), [RONNY](https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4) | [זזה עם הגוף](https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM) | 3:15 |
 
-Snapshot ID: `AAAAAKoFSi5PO+V2+D4fn6gZEXmgN6Ls`
+Snapshot ID: `AAAAAOTEaLEKQigfkVo/dND8bPGqHxI0`

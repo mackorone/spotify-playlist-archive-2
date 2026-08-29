@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,988 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,990 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 7 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |
 | 8 | [Grinding All My Life](https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 2:55 |
 | 9 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
-| 10 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
-| 11 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
+| 10 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
+| 11 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
 | 12 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 |
 | 13 | [Foca em mim \- Spotify Singles](https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Foca em mim \- Spotify Singles](https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN) | 2:11 |
 | 14 | [In My Lifetime](https://open.spotify.com/track/4BgGvnwGSkFVLO2od8FNUX) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [In My Lifetime](https://open.spotify.com/album/7Am0PvxtFWNhK3s1L2iz6C) | 4:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 99 | [AMERICAN HORROR STORY](https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [AMERICAN HORROR STORY](https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR) | 5:09 |
 | 100 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
 
-Snapshot ID: `AAAAAGKWw2kMsSmXulx7fBh8Z9SLNJ5J`
+Snapshot ID: `AAAAAMjARd36cMfoLTDVTEpEUY2cAi+s`

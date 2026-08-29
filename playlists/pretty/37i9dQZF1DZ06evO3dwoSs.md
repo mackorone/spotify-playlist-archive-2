@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,125 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,148 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 24 | [Joke’s On Me](https://open.spotify.com/track/6hKGuIGm2XX9VtrMHKg4aI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 3:32 |
 | 25 | [Sham Pain](https://open.spotify.com/track/03hjAxvnwSf5iZsu6SOZA6) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None](https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr) | 3:29 |
 | 26 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 |
-| 27 | [Brighter Side of Grey](https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:29 |
+| 27 | [Living The Dream](https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:34 |
 | 28 | [Coming Down](https://open.spotify.com/track/6AEnqV1hHhG5ckUMysMftn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV) | 4:01 |
 | 29 | [I Apologize](https://open.spotify.com/track/1FZzaCV2hGxEmvOK7xp77h) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six \(Deluxe\)](https://open.spotify.com/album/2rxvWo1v0fJVD3PGAYgycP) | 4:02 |
 | 30 | [Thanks For Asking](https://open.spotify.com/track/1pZwsIB2ogBnbjydoIHQnL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:18 |
-| 31 | [Living The Dream](https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:34 |
+| 31 | [Brighter Side of Grey](https://open.spotify.com/track/4tW57waWtNZF2CnhQEjPBq) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:29 |
 | 32 | [The Bleeding](https://open.spotify.com/track/6Q1VTJwPerMgRAD0ojg8Ax) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/6IYm3QNNraRFIJdMBPh1wN) | 4:31 |
 | 33 | [The End \(feat\. BABYMETAL\) \- 2025 VERSION](https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 3:42 |
 | 34 | [AfterLife](https://open.spotify.com/track/40gGeC397vLmz4eETZDSrG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 49 | [Mama Said Knock You Out](https://open.spotify.com/track/2TdpWCDMpjeNqrrLeZY4V5) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy) | 2:47 |
 | 50 | [My Nemesis](https://open.spotify.com/track/3BiVm4R19pMCkRslcmHE9U) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/0naP00nq9MrCSrLDdhqmI0) | 3:35 |
 
-Snapshot ID: `ao4sgAAAAAArscS6N/kOiggYeMMaQyTk`
+Snapshot ID: `ao9+AAAAAABRDM1gY7zLQuqoTrtVOYcQ`

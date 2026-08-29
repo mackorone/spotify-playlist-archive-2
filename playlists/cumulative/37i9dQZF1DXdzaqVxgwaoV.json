@@ -4257,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "La Bohemia Popular",
+        "url": "https://open.spotify.com/album/63q9tqt6o9nMgBqyRNOOp9"
+      },
+      "artists": [
+        {
+          "name": "Dueto Revelaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5zlNQCp9rroUbjPEWRznFW"
+        }
+      ],
+      "date_added": "2026-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223712,
+      "name": "La Vida Es un Rato",
+      "url": "https://open.spotify.com/track/5ii5hAjFTdDBIm9TPL9UiU"
+    },
+    {
+      "album": {
         "name": "2 Estilos Colombianos",
         "url": "https://open.spotify.com/album/1itueHqAKtSBJAcGbvV0sO"
       },
@@ -7442,7 +7460,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"

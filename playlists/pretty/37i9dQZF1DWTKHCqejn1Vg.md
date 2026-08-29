@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,681 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,680 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 32 | [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 |
 | 33 | [Step?](https://open.spotify.com/track/3fU8FWNIgHEOepLTidZWyq) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Step?](https://open.spotify.com/album/0BZbR4rNEd6R5t73qhF90D) | 3:11 |
 | 34 | [Come In](https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:02 |
-| 35 | [Leave](https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:11 |
-| 36 | [Black Rose](https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:39 |
+| 35 | [Black Rose](https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:39 |
+| 36 | [Leave](https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:11 |
 | 37 | [Keep It Sexy \(MOMMAE 2\) \(Feat\. JEON SOMI\)](https://open.spotify.com/track/349vRUzitG48j0mYch7Ega) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Keep It Sexy \(MOMMAE 2\)](https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs) | 2:32 |
 | 38 | [Woo](https://open.spotify.com/track/3OGSCPdVyj6FWJSm8bx70q) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:12 |
 | 39 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 42 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
 | 43 | [Lost \(Feat\. Chan\)](https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [Chan \(찬\)](https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u) | [Lost \(Feat\. Chan\)](https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR) | 2:24 |
 | 44 | [Meat](https://open.spotify.com/track/0Kl6xCOt69FaQfhVYJ9f7A) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:03 |
-| 45 | [DRIVE ME](https://open.spotify.com/track/1oTO8USKys3ODc1sCyn0xA) | [Da Yeon Baek](https://open.spotify.com/artist/7f6sYlRGB312kc3MLCXm5l) | [DRIVE ME](https://open.spotify.com/album/4k2mX9YvrPdMy8Cgur16Cl) | 3:58 |
-| 46 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 |
+| 45 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 |
+| 46 | [DRIVE ME](https://open.spotify.com/track/1oTO8USKys3ODc1sCyn0xA) | [Da Yeon Baek](https://open.spotify.com/artist/7f6sYlRGB312kc3MLCXm5l) | [DRIVE ME](https://open.spotify.com/album/4k2mX9YvrPdMy8Cgur16Cl) | 3:58 |
 | 47 | [I Don’t Disappoint](https://open.spotify.com/track/5ZB78ePnCLHREvjQMuVtzY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:30 |
 | 48 | [i said it](https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [i said it](https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN) | 2:27 |
 | 49 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 56 | [At Night \(feat\. Kuzi\)](https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 2:23 |
 | 57 | [Wildfire](https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 3:16 |
 | 58 | [Hug Me](https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:42 |
-| 59 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 |
-| 60 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
+| 59 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
+| 60 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 |
 
-Snapshot ID: `AAAAAMDWPAah4I5yhEFe01kXyBpCFAmk`
+Snapshot ID: `AAAAAPEN9ztgivAcnF3qt3vMusKJQNqa`

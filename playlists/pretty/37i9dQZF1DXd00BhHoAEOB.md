@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,372 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,347 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,23 +84,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 74 | [Quisiera](https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Silvana Estrada](https://open.spotify.com/artist/2iPaUU7QA953Vup7SWKMrL) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 4:53 |
 | 75 | [Eres Tú](https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 3:48 |
 | 76 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
-| 77 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
-| 78 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
+| 77 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
+| 78 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
 | 79 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 |
 | 80 | [Hasta La Piel](https://open.spotify.com/track/6WiuIpuufnd80FpjA0ZCby) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/4Rc3wOCoh4jpWkNzum6dDA) | 4:01 |
 | 81 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/6O7IhKaYZSYAUv0u6xVJkl) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/14IVwO0ZopBuaLEupTFx4O) | 3:47 |
-| 82 | [Brindo](https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY) | 3:18 |
-| 83 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
-| 84 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 |
-| 85 | [Algo contigo](https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo) | 4:57 |
+| 82 | [Algo contigo](https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo) | 4:57 |
+| 83 | [Brindo](https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY) | 3:18 |
+| 84 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
+| 85 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 |
 | 86 | [Calathea](https://open.spotify.com/track/7hZmmVkXoq61EWO6hvmPvW) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Calathea](https://open.spotify.com/album/5I87EVfB9yfl0EWRIjBtX6) | 2:33 |
-| 87 | [La Corriente](https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:31 |
-| 88 | [Colmena](https://open.spotify.com/track/3qE7rUCJAOIpPfIoxb9Iaz) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Hombre Invisible](https://open.spotify.com/album/7tIMzYdVO2381QcZMethuL) | 4:54 |
+| 87 | [Colmena](https://open.spotify.com/track/3qE7rUCJAOIpPfIoxb9Iaz) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Hombre Invisible](https://open.spotify.com/album/7tIMzYdVO2381QcZMethuL) | 4:54 |
+| 88 | [Carta](https://open.spotify.com/track/36xQ9CL4lcoZ6pK4mA89pJ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:24 |
 | 89 | [Polvo](https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [Polvo](https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy) | 3:42 |
 | 90 | [Alfonsina Y El Mar](https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 Años](https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE) | 4:40 |
 | 91 | [Rubidio 37](https://open.spotify.com/track/0VgyUfMMqq3aqFmPuKHVyM) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx) | [CANTAMENCANTO](https://open.spotify.com/album/1LzEi4XDLbf5UINJEvA9ac) | 4:38 |
-| 92 | [Carta](https://open.spotify.com/track/36xQ9CL4lcoZ6pK4mA89pJ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:24 |
-| 93 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 |
+| 92 | [Bolero Triste](https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Triste](https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0) | 4:00 |
+| 93 | [La Corriente](https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:31 |
 | 94 | [Helecho](https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Helecho](https://open.spotify.com/album/46g3w3mPi117Oho4GUL4eC) | 2:17 |
 | 95 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 |
 | 96 | [Marchita](https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 99 | [Sauce](https://open.spotify.com/track/6GiRftZTCnVyud4cn07ZHM) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Sauce](https://open.spotify.com/album/2RzIYqmu81Xyjj3bc6v5wY) | 2:48 |
 | 100 | [Sabré Olvidar](https://open.spotify.com/track/2cstyWKLChOLpbND4lzazW) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT) | 4:07 |
 
-Snapshot ID: `AAAAAI8u/ngLW6GCPqKB7OR35wujdgOY`
+Snapshot ID: `AAAAAGswBH79OPAWc6FEWFVKR3SO7S2j`

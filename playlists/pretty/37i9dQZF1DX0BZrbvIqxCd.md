@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,904 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,894 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 44 | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:26 |
 | 45 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 46 | [Chaos From Within](https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:50 |
-| 47 | [Everything You Want Me to Be](https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn) | [Coldfront](https://open.spotify.com/artist/4aP6zYaS4ms7xcghP2L32y) | [Float Around](https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z) | 3:24 |
-| 48 | [Playing Dead](https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 |
+| 47 | [Playing Dead](https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 |
+| 48 | [Everything You Want Me to Be](https://open.spotify.com/track/44DORmYYzUfVP1YKFgkLZn) | [Coldfront](https://open.spotify.com/artist/4aP6zYaS4ms7xcghP2L32y) | [Float Around](https://open.spotify.com/album/6xi0HS84N10LbQRyOXtO3z) | 3:24 |
 | 49 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
 | 50 | [Like That](https://open.spotify.com/track/6FxIFdX1jeJYwPozaeqaZj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:57 |
 | 51 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 62 | [All My Friends are Nobodies](https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 3:03 |
 | 63 | [i luv that u hate me](https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [i luv that u hate me](https://open.spotify.com/album/0ry0pZr2APTC3hwSZuOk65) | 3:41 |
 | 64 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
-| 65 | [Motorcycle, No Motor?](https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Swig](https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9) | 2:30 |
-| 66 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
+| 65 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
+| 66 | [Motorcycle, No Motor?](https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Swig](https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9) | 2:30 |
 | 67 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
 | 68 | [HOLIDAY](https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:52 |
 | 69 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
@@ -84,11 +84,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 74 | [survivors guilt//](https://open.spotify.com/track/7cOY6vXmsZS85mSCAaa5rF) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 2:17 |
 | 75 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
 | 76 | [Bad Habits](https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 2:53 |
-| 77 | [Waiting Room](https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Waiting Room](https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS) | 3:14 |
-| 78 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
+| 77 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
+| 78 | [Waiting Room](https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Waiting Room](https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS) | 3:14 |
 | 79 | [What Are We Standing For](https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [What Are We Standing For](https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK) | 2:53 |
-| 80 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
-| 81 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
+| 80 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
+| 81 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
 | 82 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Paradise Lost, a poem by John Milton](https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn) | 2:47 |
 | 83 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
 | 84 | [Fools Gold](https://open.spotify.com/track/2dOPwODAXiOrkuFXLMTGd5) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Nothing Grows Here](https://open.spotify.com/album/3KtiLWd9uMx5dVe3n2nW2p) | 4:16 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 95 | [Better Off](https://open.spotify.com/track/0iYL1bvagzsI2Wfxp3Io7U) | [7 Minutes In Heaven](https://open.spotify.com/artist/64wpPiaEfYzgOVjm6vd5XH) | [Symmetry](https://open.spotify.com/album/3FUKruL6t3Ie0DIhzD1AbF) | 3:15 |
 | 96 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 |
 | 97 | [Strangers](https://open.spotify.com/track/1IUx55PX840eqZBNRNRXCp) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Unfamiliar \(Deluxe Edition\)](https://open.spotify.com/album/1TvmCroupKSBjSkaHbLDeo) | 3:44 |
-| 98 | [In Dreams](https://open.spotify.com/track/5Sp9hBvN38UIMxyfSdiajR) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [Sailor Honeymoon](https://open.spotify.com/album/7CtXNAGCnIfmO5cbVQR9dg) | 2:37 |
-| 99 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 |
+| 98 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 |
+| 99 | [In Dreams](https://open.spotify.com/track/5Sp9hBvN38UIMxyfSdiajR) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [Sailor Honeymoon](https://open.spotify.com/album/7CtXNAGCnIfmO5cbVQR9dg) | 2:37 |
 | 100 | [Bland Is The New Black](https://open.spotify.com/track/2L74jTvqQv8vJJesWuwft3) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [Nature/Nurture](https://open.spotify.com/album/0fRg4WnrY1zcqCPrglnSzO) | 1:47 |
 
-Snapshot ID: `AAAAAOFyGlMlqYk2twmHFSHfTOxIVG3W`
+Snapshot ID: `AAAAAORI2+68hNUaoCzo25IIkjXS8aPP`

@@ -2265,6 +2265,28 @@
     },
     {
       "album": {
+        "name": "Su\u00e9ltalo! (Brava Remix)",
+        "url": "https://open.spotify.com/album/5lYK89z2mXkgdJ6vqGYdMA"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        },
+        {
+          "name": "Brava",
+          "url": "https://open.spotify.com/artist/22zotHh1lYempYbZUkXFdr"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260057,
+      "name": "Su\u00e9ltalo! - Brava Remix",
+      "url": "https://open.spotify.com/track/5vGb04USQDuN106aQmJd10"
+    },
+    {
+      "album": {
         "name": "Espuma de Mar ~ remixes",
         "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
       },
@@ -2582,7 +2604,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 258643,
       "name": "Yemanja - Chancha Via Circuito Remix",
       "url": "https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1"

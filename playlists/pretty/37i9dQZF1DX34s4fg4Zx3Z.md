@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶  mới mẻ từ các nghệ sĩ có thể bạn chưa biết, được các biên tập Spotify chọn lựa bằng cả trái tim\. Ảnh bìa: LEXXY\. Thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,294 likes - 33 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,295 likes - 33 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 32 | [Phím Đàn Đơn](https://open.spotify.com/track/2S6CRNB9RzOYApkzHAliS1) | [Tường Duy](https://open.spotify.com/artist/1j6QCJXxviV8ZDhOncFdUo) | [Ra Khỏi Phòng](https://open.spotify.com/album/5YidUAaAZBPimdulIP4kCG) | 2:46 |
 | 33 | [anhuoctachuatunggap](https://open.spotify.com/track/66RwTYgK9ZaUv43ZbBMxdE) | [Hayho](https://open.spotify.com/artist/3fLHhjutcrdkn7R3hS1oxz) | [KHONGGIAU](https://open.spotify.com/album/2ITWDLT1yQsaoadD3d4JyR) | 4:26 |
 
-Snapshot ID: `AAAAANhtOvWhqfyNQ7j7EF4gzcNcsMIk`
+Snapshot ID: `AAAAAEkWddwou5JgGjqDPt89YBEa3shB`

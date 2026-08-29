@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 51352,
+  "num_followers": 51374,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMFhTfOJK7snTXg4JI9RDH/iMtt6",
+  "snapshot_id": "AAAAAD8KzqVEcILjrEw8aZx+BIIERViJ",
   "tracks": [
     {
       "added_at": "2025-05-02 09:12:30",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Catherine Spaak",
-        "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
-      },
-      "artists": [
-        {
-          "name": "Catherine Spaak",
-          "url": "https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "L'esercito del surf",
-      "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "Jolly LPJ 5018",
         "url": "https://open.spotify.com/album/1RR8kDBBb6wwYoOzTqv9VI"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 135527,
       "name": "Pezzetini di bikini",
       "url": "https://open.spotify.com/track/7qNvDdwy8MhpdxIhfEY3Il"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "Catherine Spaak",
+        "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
+      },
+      "artists": [
+        {
+          "name": "Catherine Spaak",
+          "url": "https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "L'esercito del surf",
+      "url": "https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W"
     },
     {
       "added_at": "2025-05-02 09:12:30",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-02 09:12:30",
       "album": {
-        "name": "Milva: i pi\u00f9 grandi successi",
-        "url": "https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY"
-      },
-      "artists": [
-        {
-          "name": "Milva",
-          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Il mare nel cassetto",
-      "url": "https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs"
-    },
-    {
-      "added_at": "2025-05-02 09:12:30",
-      "album": {
         "name": "Peppino Di Capri",
         "url": "https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 137346,
       "name": "Saint-Tropez Twist",
       "url": "https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006"
+    },
+    {
+      "added_at": "2025-05-02 09:12:30",
+      "album": {
+        "name": "Milva: i pi\u00f9 grandi successi",
+        "url": "https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY"
+      },
+      "artists": [
+        {
+          "name": "Milva",
+          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Il mare nel cassetto",
+      "url": "https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs"
     },
     {
       "added_at": "2025-05-02 09:12:30",

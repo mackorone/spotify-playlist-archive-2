@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2026 yazının şarkıları\. Kapak: Asil Gök
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,106 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,161 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 17 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
 | 18 | [Başa Bela](https://open.spotify.com/track/0onzYPfM09MY31tUkb0xgj) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Başa Bela](https://open.spotify.com/album/2c8n5PoruLqgaGQYmACWe8) | 2:34 |
 | 19 | [GEL GEL GEL](https://open.spotify.com/track/2tni0FShSW5lPlCGyhy6xR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [GEL GEL GEL](https://open.spotify.com/album/6POXXtou8ETiuvDKpCc5HK) | 2:40 |
-| 20 | [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 |
-| 21 | [Gidişat](https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Gidişat](https://open.spotify.com/album/67EvM60fproAJUULEJFEbR) | 3:45 |
+| 20 | [Gidişat](https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Gidişat](https://open.spotify.com/album/67EvM60fproAJUULEJFEbR) | 3:45 |
+| 21 | [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 |
 | 22 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 23 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 |
 | 24 | [YIN YANG](https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [YIN YANG](https://open.spotify.com/album/5zTpynQLSJo8yiG5U8rJXn) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 49 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 |
 | 50 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 |
 
-Snapshot ID: `AAAAAAKa/slHQKa/vvY14+Sv1mMmdd5H`
+Snapshot ID: `AAAAANBr5sY1qgeZyJ8LqnHViV6IrA9i`

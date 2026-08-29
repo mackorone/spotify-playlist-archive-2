@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 728 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 52 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 40 | [song without a title](https://open.spotify.com/track/5zjVEx4eLpdV78hrWp0pv1) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:38 |
 | 41 | [Now That We're Done](https://open.spotify.com/track/7lMiwAH0WuFDoqPtved0P4) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 1:56 |
 | 42 | [When The Curtain Falls](https://open.spotify.com/track/5edAkYJBftjmXgRrrlt3n7) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 2:26 |
-| 43 | [I Don't Know Who I Am Without You](https://open.spotify.com/track/5XJeDFUpl3q8Tz5o3E7vyn) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 4:35 |
-| 44 | [Just Right \- Sunshine Geometry Dash \(Jakki Remix\)](https://open.spotify.com/track/5ASZJOSI35MKa9XZw8Xmj0) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Jakki](https://open.spotify.com/artist/2llvExQgjFVtvFbiaGcfUh) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:36 |
+| 43 | [Just Right \- Sunshine Geometry Dash \(Jakki Remix\)](https://open.spotify.com/track/5ASZJOSI35MKa9XZw8Xmj0) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Jakki](https://open.spotify.com/artist/2llvExQgjFVtvFbiaGcfUh) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 3:36 |
+| 44 | [I Don't Know Who I Am Without You](https://open.spotify.com/track/5XJeDFUpl3q8Tz5o3E7vyn) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 4:35 |
 | 45 | [This I Pray For You](https://open.spotify.com/track/4hxvSOSi7kAgVf3wPmhKWT) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Maybe Trapped Mostly Troubled \(Deluxe\)](https://open.spotify.com/album/0xkFrvLpgFXodg2fam7loE) | 2:36 |
 | 46 | [Good Things Go Bad](https://open.spotify.com/track/3TjjPc5qSavGTFqR6f3zHe) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [MY GOD!](https://open.spotify.com/album/5B5hOcX9wfcm4qwqs9OjJZ) | 3:44 |
 | 47 | [I Love Being Wrong](https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [I Love Being Wrong](https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn) | 4:48 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 51 | [Grow](https://open.spotify.com/track/1rUVGch03Niwmkp9Lmblh5) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [Grow](https://open.spotify.com/album/4xCmgPunJsy7CdwXNk5e7U) | 3:11 |
 | 52 | [My Body's My Buddy \- Instrumental](https://open.spotify.com/track/73VlYqBADyfgjTe5FLcKcL) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy \(gender neutral version\)](https://open.spotify.com/album/6OwLW6P6lv129aXbvRmCZr) | 3:28 |
 
-Snapshot ID: `AcawKAAAAAC0zYI40p4iW5rLvpoH+QSI`
+Snapshot ID: `Aca1FAAAAABl+NG7aqj7IHw7x5uWmDmt`

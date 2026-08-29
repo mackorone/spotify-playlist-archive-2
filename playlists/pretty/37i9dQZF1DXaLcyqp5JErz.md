@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,696 likes - 70 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,775 likes - 70 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 46 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 |
 | 47 | [Faz Um Milagre em Mim](https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8) | 5:19 |
 | 48 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx) | 5:07 |
-| 49 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
-| 50 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |
-| 51 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
+| 49 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
+| 50 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
+| 51 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |
 | 52 | [Ouço Deus Me Chamar](https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 7:19 |
 | 53 | [Quando o Céu Invade a Terra / Fogo Que Consome \- Ao Vivo](https://open.spotify.com/track/33WRUMm8kEIeP3OWuJEjiD) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH), [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC), [Jeser Pires](https://open.spotify.com/artist/01PC7nidJabM3Z9igap9GD) | [Quando o Céu Invade a Terra / Fogo Que Consome \(Ao Vivo\)](https://open.spotify.com/album/63YHw72apN2b7cQ67H520u) | 6:22 |
 | 54 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Pai](https://open.spotify.com/track/5sUvzMn02TghrI6ntFV24w) | [Marcos Antônio](https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4) | [Diamante Vol\. 1](https://open.spotify.com/album/69sjIPFx42Mxq5kZyutgSn) | 5:28 |
 | 70 | [Tempo de Vencer \(All The Man That I Need \)](https://open.spotify.com/track/0aNQmlnj981Lwkj7Htvgic) | [Robinson Monteiro](https://open.spotify.com/artist/0k5FjshuSNVy3bSyPiEKex), [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Tempo de Vencer](https://open.spotify.com/album/20E5gzYNHIzwwFIMZAHSxR) | 3:57 |
 
-Snapshot ID: `AAAAABWxQz9jHBZbjtfQCMzLSPsg4r8J`
+Snapshot ID: `AAAAACmP1JcBw/orFF0JiZhMJux0KZY5`

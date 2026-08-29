@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 451270,
+  "num_followers": 451294,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAngUb/MTBdFo6lSS5NNOys8pj7u",
+  "snapshot_id": "AAAAAG/TVklAfvzf7ndEazdv5wJfM0oF",
   "tracks": [
     {
       "added_at": "2026-01-30 13:05:09",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Mais um Dia",
-        "url": "https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 227996,
-      "name": "Quando o Mundo Cai Ao Meu Redor",
-      "url": "https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
         "name": "Meu Mestre (Ao Vivo)",
         "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 286680,
       "name": "Meu Mestre - Ao Vivo",
       "url": "https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Mais um Dia",
+        "url": "https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 227996,
+      "name": "Quando o Mundo Cai Ao Meu Redor",
+      "url": "https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Sou Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H"
-      },
-      "artists": [
-        {
-          "name": "Elizeu Alves",
-          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
-        },
-        {
-          "name": "Andr\u00e9 Aquino",
-          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
-        }
-      ],
-      "duration_ms": 275110,
-      "name": "Sou Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
         "name": "O Nome (Ao Vivo)",
         "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
+        "name": "Sou Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Elizeu Alves",
+          "url": "https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt"
+        },
+        {
+          "name": "Andr\u00e9 Aquino",
+          "url": "https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq"
         }
       ],
-      "duration_ms": 295360,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
+      "duration_ms": 275110,
+      "name": "Sou Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -851,6 +835,22 @@
       "duration_ms": 382014,
       "name": "Com Muito Louvor",
       "url": "https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -903,6 +903,26 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "A Promessa",
+      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Rendido Estou (Arms Open Wide)",
         "url": "https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 462355,
       "name": "Rendido Estou (Arms Open Wide)",
       "url": "https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "A Promessa",
-      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
     },
     {
       "added_at": "2026-01-30 13:05:09",

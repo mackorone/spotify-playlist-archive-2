@@ -4,7 +4,7 @@
 
 > Best of 80s pop, rock, and new wave top hits from iconic bands and artists like Madonna, Phil Collins, and Tina Turner\. All the biggest throwback songs for your 80s dance party!
 
-193 songs - 13 hr 38 min
+195 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Harden My Heart](https://open.spotify.com/track/0qa47H0UtlOFq9TLSVrv9R) | [Quarterflash](https://open.spotify.com/artist/3VJakY5Yw5phAOF4Bada5v) | [MacGruber](https://open.spotify.com/album/0ZacOBwzregRuuOf6Bn7Zp) | 3:52 | 2021-05-01 | 2023-09-13 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Greatest Vol.1 \- Belinda Carlisle](https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG) | 4:06 | 2023-09-12 |  |
 | [Here Comes Your Man](https://open.spotify.com/track/0cs671lxX2eoDzr2KMuo3N) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 3:21 | 2021-05-01 | 2023-09-13 |
+| [How Come U Don't Call Me Anymore \- Live](https://open.spotify.com/track/4P1Aru6gjyRZ1IAFPsu7Wg) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Timeless](https://open.spotify.com/album/1N2jcY6I02jznFXjk3HT4y) | 5:53 | 2026-08-28 |  |
 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 | 2025-05-14 |  |
 | [Hungry Like the Wolf](https://open.spotify.com/track/5pIaAkHJ928V2LGCz79FgQ) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:29 | 2021-05-01 | 2023-09-13 |
 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 | 2023-09-12 |  |
@@ -172,6 +173,7 @@
 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 | 2021-05-01 | 2023-09-13 |
 | [Things Can Only Get Better \- 2018 Remaster](https://open.spotify.com/track/1RbOObDFn7GOseR1w529Zj) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Dream Into Action](https://open.spotify.com/album/1V8qUSg1WAHf3dCrVYdJ5Z) | 3:55 | 2021-05-01 | 2023-09-13 |
 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 | 2023-09-12 |  |
+| [Tick Tick Bang](https://open.spotify.com/track/0DmhLY7WxoeAcrWKN3HhH1) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Timeless](https://open.spotify.com/album/1N2jcY6I02jznFXjk3HT4y) | 3:12 | 2026-08-28 |  |
 | [Too Shy](https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ) | [Kajagoogoo](https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl) | [White Feathers](https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z) | 3:41 | 2023-09-12 | 2025-05-15 |
 | [Too Shy \- 2004 Remaster](https://open.spotify.com/track/3OQtbwQ9U4A0VDH1rjamZJ) | [Kajagoogoo](https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl) | [Too Shy: The Best Of Kajagoogoo & Limahl](https://open.spotify.com/album/70vxCH1d5eEpZMeb77Wl6M) | 3:45 | 2021-05-01 | 2023-09-13 |
 | [Touch of Grey \- 2015 Remaster](https://open.spotify.com/track/6qWOXsnLnhqeRywIfMPQUz) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [The Best of the Grateful Dead](https://open.spotify.com/album/36LTDN6qTCgfo6ap6Bfqou) | 5:50 | 2021-05-01 | 2023-09-13 |

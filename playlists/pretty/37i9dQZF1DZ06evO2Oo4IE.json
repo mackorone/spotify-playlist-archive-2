@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 190448,
+  "num_followers": 190454,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAArvSNcwFARjt44fVVPNLCo",
+  "snapshot_id": "ao9+AAAAAACBbn2DomsUKSqS85rfhFvR",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis Joplin's Greatest Hits",
-        "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 479600,
-      "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
-      "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+        "name": "Janis Joplin's Greatest Hits",
+        "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 77618,
-      "name": "Tuning & Talk, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
+      "duration_ms": 479600,
+      "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
     },
     {
       "added_at": null,
@@ -719,22 +703,6 @@
       "duration_ms": 192466,
       "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
       "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 83461,
-      "name": "Talk, Pt.1 - Live",
-      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
     },
     {
       "added_at": null,

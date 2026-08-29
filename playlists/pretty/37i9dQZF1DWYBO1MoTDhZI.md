@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 
 > Olivia Dean keeps the good vibes going all day long
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,621,194 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,621,064 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 | 27 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 |
 | 28 | [Alexandria](https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY) | [TOAST CLUB](https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG) | [Lift](https://open.spotify.com/album/2Xl617uwCUcTDU7lEsloqK) | 4:37 |
 | 29 | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk) | 2:02 |
-| 30 | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
+| 30 | [Lucky Again \- The Magician Remix](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
 | 31 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 32 | [I Know Who I Be \(with JAZZWRLD & GL\_Ceejay\)](https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [I Know Who I Be \(with JAZZWRLD & GL\_Ceejay\)](https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g) | 3:53 |
 | 33 | [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBO1MoTDhZI.md) - [plain]
 | 98 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 |
 | 99 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 
-Snapshot ID: `AAAAAKBsn/JFiAzkkG7/5pgS1lKBOeE7`
+Snapshot ID: `AAAAAESBilNKlM0JJK7PSr/yVMc7o3AH`

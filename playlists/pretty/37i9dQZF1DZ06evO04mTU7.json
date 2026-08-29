@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 17067,
+  "num_followers": 17091,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAdwep0tQhjZTJo26Y5gSX8",
+  "snapshot_id": "ao9+AAAAAAAdcuTR4Otm4Vv172Re+wBd",
   "tracks": [
     {
       "added_at": null,
@@ -703,34 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eh Noiz Ki T\u00e1",
-        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 186273,
-      "name": "Cifr\u00e3o",
-      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Corre",
         "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
       },
@@ -755,6 +727,34 @@
       "duration_ms": 195692,
       "name": "Do Corre",
       "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eh Noiz Ki T\u00e1",
+        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 186273,
+      "name": "Cifr\u00e3o",
+      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
     },
     {
       "added_at": null,
@@ -891,46 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tente Outra Vez",
-        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Sebrae Nosso Canto",
-          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
-        }
-      ],
-      "duration_ms": 114196,
-      "name": "Tente Outra Vez",
-      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "Pq a Policia Smp Acaba Com a Festa?",
-      "url": "https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
         "url": "https://open.spotify.com/album/2Q8yyzij3ZwnhnBgKq9hO8"
       },
@@ -963,6 +923,46 @@
       "duration_ms": 343373,
       "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
       "url": "https://open.spotify.com/track/6alaU0cNbfd67sjJqjAXG2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Pq a Policia Smp Acaba Com a Festa?",
+      "url": "https://open.spotify.com/track/77rtEhucHdylGhhxAEgAay"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tente Outra Vez",
+        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Sebrae Nosso Canto",
+          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
+        }
+      ],
+      "duration_ms": 114196,
+      "name": "Tente Outra Vez",
+      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
     },
     {
       "added_at": null,

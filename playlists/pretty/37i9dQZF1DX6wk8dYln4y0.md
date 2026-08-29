@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 
 > pop that \*hits different\* featuring vita
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,854 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,801 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,21 +33,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 23 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
 | 24 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
 | 25 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
-| 26 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
-| 27 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
+| 26 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
+| 27 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
 | 28 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
 | 29 | [Good Reason](https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:08 |
 | 30 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 | 31 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
 | 32 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
 | 33 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 |
-| 34 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 |
-| 35 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
+| 34 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
+| 35 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 |
 | 36 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 |
 | 37 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 38 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 |
-| 39 | [What if I miss you for the rest of my life?](https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 3:06 |
-| 40 | [Right Back!](https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n) | [KARLEE GIRL](https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX) | [Right Back!](https://open.spotify.com/album/4Dr66VzqLpQ1l6eg8ZyJgW) | 3:18 |
+| 39 | [Right Back!](https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n) | [KARLEE GIRL](https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX) | [Right Back!](https://open.spotify.com/album/4Dr66VzqLpQ1l6eg8ZyJgW) | 3:18 |
+| 40 | [What if I miss you for the rest of my life?](https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 3:06 |
 | 41 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 42 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
 | 43 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 54 | [Couldn’t Make It Any Harder](https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 2:59 |
 | 55 | [Too Fast To Live, Too Young To Die](https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Too Fast To Live, Too Young To Die](https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP) | 3:21 |
 | 56 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
-| 57 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 |
-| 58 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
+| 57 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
+| 58 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 |
 | 59 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
 | 60 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 |
 | 61 | [If I Ever Talk To God](https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [If I Ever Talk To God](https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy) | 2:40 |
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 63 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
 | 64 | [CHOOM](https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 2:58 |
 | 65 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
-| 66 | [When Did You Stop Loving Me?](https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft 2](https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte) | 3:50 |
-| 67 | [EVERYTHING I'VE EVER WANTED](https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 2:15 |
+| 66 | [EVERYTHING I'VE EVER WANTED](https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 2:15 |
+| 67 | [When Did You Stop Loving Me?](https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft 2](https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte) | 3:50 |
 | 68 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 69 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
 | 70 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
-| 71 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
-| 72 | [SAME LA](https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 3:44 |
+| 71 | [SAME LA](https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 3:44 |
+| 72 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 73 | [Caramel](https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:54 |
 | 74 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |
 | 75 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 79 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
 | 80 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
 
-Snapshot ID: `AAAAAJWNNT88DJkURr3Izh+xFPoFIEoI`
+Snapshot ID: `AAAAAF4ArdRHLuNLmW8GO+QGMxQxwW6B`

@@ -4,7 +4,7 @@
 
 > New music from Alex Warren, Olivia Rodrigo, Dominic Fike, JENNIE and more.
 
-35,570 songs - 78 day 11 hr 7 min
+35,570 songs - 78 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3487,7 +3487,7 @@
 | [Big Ole Fancy House](https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Big Ole Fancy House](https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG) | 4:03 | 2026-01-23 | 2026-01-31 |
 | [Big One](https://open.spotify.com/track/6PfFBEztSncke8MSCohK26) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Big One](https://open.spotify.com/album/1ztl6Ly7lUmGWX2wJrpu9h) | 1:51 | 2023-09-29 | 2023-10-07 |
 | [Big One \(feat\. Monaleo\)](https://open.spotify.com/track/7vWU5bYJk7uHulIfbQrGZK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Big One \(feat\. Monaleo\)](https://open.spotify.com/album/1DNP6WXtCNKaF6OFfHotiX) | 2:36 | 2024-08-02 | 2024-08-10 |
-| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 | 2026-08-28 |  |
+| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 | 2026-08-28 |  |
 | [BIG PERSONA \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/4uKjkPDGkkpOHxw152rM1g) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BIG PERSONA \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/0vTDlHYc2iOl6Vwyi0Ld9p) | 2:25 | 2021-09-11 | 2021-09-18 |
 | [Big Pimpin' \(feat\. Luh Tyler\)](https://open.spotify.com/track/2Wu8DmMeHBpsPPom0fEKpS) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Big Pimpin' \(feat\. Luh Tyler\)](https://open.spotify.com/album/2IHCrJJ9tsoPZrmgh9Bbcb) | 2:03 | 2023-08-18 | 2023-08-26 |
 | [Big Plans](https://open.spotify.com/track/2JBiR5DVvF05VWERn4NeRl) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Big Plans](https://open.spotify.com/album/3u3dIsBYRvqoHwBAbp1Ba1) | 3:40 | 2023-04-07 | 2023-04-15 |

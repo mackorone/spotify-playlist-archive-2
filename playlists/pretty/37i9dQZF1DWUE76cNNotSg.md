@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,060 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,067 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 99 | [Pacific Ave](https://open.spotify.com/track/0b08c1WpRJotjRI9mLLH1I) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Coast 2 Coast](https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9) | 3:22 |
 | 100 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 |
 
-Snapshot ID: `AAAAACqVxDy8FqM4jP3oZnZmYIN85e33`
+Snapshot ID: `AAAAAEVX/bVDmB/8uKdU2lB9Grjedfms`

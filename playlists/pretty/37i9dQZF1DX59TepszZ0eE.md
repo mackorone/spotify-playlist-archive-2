@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,421 likes - 102 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,441 likes - 102 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 35 | [Jesu Ufik'ekuseni \- Live](https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l) | [Sipho Ngwenya](https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Intimate Worship Season, Vol\. 2 \(Live\)](https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E) | 6:59 |
 | 36 | [Lomhlengi / Uvukile \- Live](https://open.spotify.com/track/1Sh5lTwJdEkcZEVGGYTi8O) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Lomhlengi / Uvukile \(Live\)](https://open.spotify.com/album/2hqvjazkKC4aQLYDkhZFv5) | 11:43 |
 | 37 | [Sibabaza Wena \- Live](https://open.spotify.com/track/3bkA62gLfrNauwMFMhaoGx) | [Ndlunkulu Nosange](https://open.spotify.com/artist/2kvJWE7kiQfNXt4RgNuNmN) | [Sibabaza Wena \(Live\)](https://open.spotify.com/album/7BRlHjC2LtftVfcHzKoQ7u) | 9:30 |
-| 38 | [Never Fail \- \(Live\)](https://open.spotify.com/track/0oKBjN1FWo93QfGSlMRYWr) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail \(Live\)](https://open.spotify.com/album/655ThQBweRKmUiNAvTAOoi) | 5:36 |
+| 38 | [Never Fail \- Live](https://open.spotify.com/track/0oKBjN1FWo93QfGSlMRYWr) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail \(Live\)](https://open.spotify.com/album/655ThQBweRKmUiNAvTAOoi) | 5:36 |
 | 39 | [Messiah \- Live](https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn \(Live\)](https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge) | 4:06 |
 | 40 | [Izindlela Zakhe \- Live at The Playhouse](https://open.spotify.com/track/3rOm6rtALrqKEoBjwhY9Rr) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindlela Zakhe \(Live at The Playhouse\)](https://open.spotify.com/album/44qTX6pyLy6y5TNrhy3SzW) | 6:28 |
 | 41 | [Ewe Jesu \- Medley 1](https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ewe Jesu \(Medley 1\)](https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN) | 5:46 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 101 | [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/track/4o96oxKtDcOfUYY8nrGPun) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/album/5lzkLpPjHD7a8hFZdogPDr) | 15:55 |
 | 102 | [Aneliswe Osweleyo](https://open.spotify.com/track/6ZgClg41sq8pnx8d0oIR4W) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Aneliswe Osweleyo](https://open.spotify.com/album/4QAnQG6yJgyqxIni00sRGK) | 4:14 |
 
-Snapshot ID: `AAAAABX2aHO+0a3sXMEw6xAAjacjXD3P`
+Snapshot ID: `AAAAAAvfAuGxrzOZ8wJgsTBe9/cZbc48`

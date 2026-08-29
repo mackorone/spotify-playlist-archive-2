@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,293 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,312 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 76 | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 |
 | 77 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 |
 | 78 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 |
-| 79 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 |
-| 80 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
+| 79 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
+| 80 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 |
 | 81 | [rusty](https://open.spotify.com/track/3ntxIRgurUskKaJ8F7jnXr) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [rusty](https://open.spotify.com/album/12sM1DPfzb1nmSAWVrUxsG) | 2:15 |
 | 82 | [i’ve left my body](https://open.spotify.com/track/7f7GRJ5KnqQyjlI9SxLCnm) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS), [Nextime](https://open.spotify.com/artist/6Kwqn9ZUZvG9lz4InvATNj) | [The Indomitable Human Spirit](https://open.spotify.com/album/0b2X0hMvpZJRKItQIqdDcd) | 2:12 |
 | 83 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 99 | [Pool Scene](https://open.spotify.com/track/7mgfQPMLFRC5grfunmZY9r) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Conditions III](https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR) | 4:58 |
 | 100 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 
-Snapshot ID: `AAAAAAMPhjNz20YeaVDylxRIsrlQGkZT`
+Snapshot ID: `AAAAADJ7HEbAGv12VbEM24Tz3ymUItWH`

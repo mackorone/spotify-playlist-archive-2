@@ -1,12 +1,12 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo",
-  "num_followers": 762071,
+  "num_followers": 762159,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADn/RUHPuqY+SRU7P8Iu8dLXlyul",
+  "snapshot_id": "AAAAAEnZKWSLb6p3FlM5zm6YpLwTR7pA",
   "tracks": [
     {
       "added_at": "2026-08-14 13:34:48",
@@ -83,6 +83,26 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Um Pe\u00e3o Desse",
+        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 127161,
+      "name": "Um Pe\u00e3o Desse",
+      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "MTG Pra Ficar Legal",
         "url": "https://open.spotify.com/album/6TGcOYytHAJd64f06lxFP3"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 141692,
       "name": "MTG Pra Ficar Legal",
       "url": "https://open.spotify.com/track/3crEG7LMmze2X3JVAuVRE9"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Um Pe\u00e3o Desse",
-        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
-      },
-      "artists": [
-        {
-          "name": "CountryBeat",
-          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 127161,
-      "name": "Um Pe\u00e3o Desse",
-      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
+        "name": "Deixa Alagar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/250tsNZsWLB0G8tEoid4UD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Deixa Alagar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5pjMyFs9BW8jbrss4fbnU9"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
         "name": "Sertanejo S\u00e9rie A (Ao Vivo Em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/2QMsZZVq3ucWt4mnkPQYdX"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 341722,
       "name": "Pra N\u00e3o Pensar em Voc\u00ea / Algu\u00e9m / S\u00f3 Pro Meu Prazer",
       "url": "https://open.spotify.com/track/6vf8QLIPZMULA3SZvDlw1l"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
-        "name": "Deixa Alagar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/250tsNZsWLB0G8tEoid4UD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Deixa Alagar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5pjMyFs9BW8jbrss4fbnU9"
     },
     {
       "added_at": "2026-08-14 13:34:48",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-08-14 13:34:48",
       "album": {
-        "name": "Esse \u00e9 o Meu Forr\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3crirzaSmwNGPurObvejJM"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        }
-      ],
-      "duration_ms": 169891,
-      "name": "Se N\u00e3o Valorizar (Umbrella) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Xe8atEzhJ9xOMCGq5CV5c"
-    },
-    {
-      "added_at": "2026-08-14 13:34:48",
-      "album": {
         "name": "Eu Me Apaixonei (Bregadeira)",
         "url": "https://open.spotify.com/album/2P0lK4oH2O55OGahlJnvek"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 171428,
       "name": "Eu Me Apaixonei (Bregadeira)",
       "url": "https://open.spotify.com/track/1lynMVa4JcCtCQVC9bi8ib"
+    },
+    {
+      "added_at": "2026-08-14 13:34:48",
+      "album": {
+        "name": "Esse \u00e9 o Meu Forr\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3crirzaSmwNGPurObvejJM"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        }
+      ],
+      "duration_ms": 169891,
+      "name": "Se N\u00e3o Valorizar (Umbrella) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Xe8atEzhJ9xOMCGq5CV5c"
     },
     {
       "added_at": "2026-08-14 13:34:48",

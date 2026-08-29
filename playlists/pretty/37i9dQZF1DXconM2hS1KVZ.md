@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 
 > Sommer für immer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,917 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,921 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 38 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 |
 | 39 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
 | 40 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 |
-| 41 | [Sarà perché ti amo](https://open.spotify.com/track/7037bX3jdaUWUAXL12CHGy) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [The Collection](https://open.spotify.com/album/0WdZQGmbPI3U7eDF5jACGi) | 3:10 |
-| 42 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
+| 41 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
+| 42 | [Sarà perché ti amo](https://open.spotify.com/track/7037bX3jdaUWUAXL12CHGy) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [The Collection](https://open.spotify.com/album/0WdZQGmbPI3U7eDF5jACGi) | 3:10 |
 | 43 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 | 44 | [Want to Want Me](https://open.spotify.com/track/7oGZAicScQt96OAW4AruYy) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:27 |
 | 45 | [Sofia](https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Eterno Agosto](https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX) | 3:30 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 54 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 3:09 |
 | 55 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 |
 | 56 | [La Cintura](https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 3:24 |
-| 57 | [Danza Kuduro](https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO) | 3:18 |
-| 58 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/album/30gRxZHDWRrAMdnF0TcMSX) | 3:55 |
+| 57 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/album/30gRxZHDWRrAMdnF0TcMSX) | 3:55 |
+| 58 | [Danza Kuduro](https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO) | 3:18 |
 | 59 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
 | 60 | [One Day / Reckoning Song \(Wankelmut Remix\) \[Radio Edit\]](https://open.spotify.com/track/5bGG1abhVIUm6EAa36ipRX) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME), [The Mojos](https://open.spotify.com/artist/5abaNg0SJPEF7EST0RjY9F), [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH) | [One Day / Reckoning Song \(Wankelmut Remix\)](https://open.spotify.com/album/5pGeylsvJXaKNInhxxdZAC) | 3:35 |
 
-Snapshot ID: `AAAAACzp0ibb1hg1A75qvOmIElswxRdA`
+Snapshot ID: `AAAAADHO+89VSwcqKfuFvmJWV5IxZMc1`

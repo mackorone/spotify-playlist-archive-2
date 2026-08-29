@@ -1,12 +1,12 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 236249,
+  "num_followers": 236279,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALenrXPV7daPZeeuqD3YLwUh2q0c",
+  "snapshot_id": "AAAAALneCO1DjL3WEeKtd/xyiiJeGCng",
   "tracks": [
     {
       "added_at": "2026-06-12 05:30:19",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Sardaarji 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Mitran da Junction",
-      "url": "https://open.spotify.com/track/45ZvGm4spSjkkCuuIIDWmx"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Best of Punjabi Superstar Diljit Dosanjh",
         "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
       },
@@ -367,22 +351,18 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Laembadgini",
-        "url": "https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1"
+        "name": "Sardaarji 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz"
       },
       "artists": [
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Jatinder Shah",
-          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
         }
       ],
-      "duration_ms": 186312,
-      "name": "Laembadgini",
-      "url": "https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6"
+      "duration_ms": 183026,
+      "name": "Mitran da Junction",
+      "url": "https://open.spotify.com/track/45ZvGm4spSjkkCuuIIDWmx"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -403,6 +383,26 @@
       "duration_ms": 198783,
       "name": "Raat Di Gedi",
       "url": "https://open.spotify.com/track/1v7nvuF8Or7nTX0hqNg2FA"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Laembadgini",
+        "url": "https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        }
+      ],
+      "duration_ms": 186312,
+      "name": "Laembadgini",
+      "url": "https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -456,13 +456,13 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Tee L",
-          "url": "https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv"
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
         }
       ],
-      "duration_ms": 224733,
-      "name": "Poh Di Raat",
-      "url": "https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe"
+      "duration_ms": 244960,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -476,13 +476,13 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+          "name": "Tee L",
+          "url": "https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0"
+      "duration_ms": 224733,
+      "name": "Poh Di Raat",
+      "url": "https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
-      "duration_ms": 184434,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Saanvle (feat. Raj Ranjodh)",
         "url": "https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 208333,
       "name": "Saanvle (feat. Raj Ranjodh)",
       "url": "https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 184434,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
     },
     {
       "added_at": "2026-06-12 05:30:19",

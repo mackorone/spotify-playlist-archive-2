@@ -907,6 +907,28 @@
     },
     {
       "album": {
+        "name": "EVITA: The Full Album",
+        "url": "https://open.spotify.com/album/4yp4ryiYyXn4UuRE60TBns"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345448,
+      "name": "Don't Cry For Me Argentina",
+      "url": "https://open.spotify.com/track/6WF1NPxCJm9UfEfPVtXXaB"
+    },
+    {
+      "album": {
         "name": "EVITA",
         "url": "https://open.spotify.com/album/6V0YxZgJfbiJJhAfyvuOWN"
       },
@@ -922,7 +944,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 346569,
       "name": "Don't Cry For Me Argentina",
       "url": "https://open.spotify.com/track/2HzZBet4n0TF0ytHtxUjOG"
@@ -3495,6 +3517,28 @@
     },
     {
       "album": {
+        "name": "EVITA: The Full Album",
+        "url": "https://open.spotify.com/album/4yp4ryiYyXn4UuRE60TBns"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160112,
+      "name": "Rainbow High",
+      "url": "https://open.spotify.com/track/7GfhQexemqLIvCkIEQw6ID"
+    },
+    {
+      "album": {
         "name": "EVITA",
         "url": "https://open.spotify.com/album/6V0YxZgJfbiJJhAfyvuOWN"
       },
@@ -3510,7 +3554,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 162891,
       "name": "Rainbow High",
       "url": "https://open.spotify.com/track/4WMr1P0xlQW0wKaHvm0d9P"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,808 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,824 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 21 | [Milan \(CC2\)](https://open.spotify.com/track/52ADv6b6hr9YIO0JenUCz3) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Lost Tapes](https://open.spotify.com/album/1SRzm4ROUSaOaPIRzHg4EC) | 3:00 |
 | 22 | [ONOME](https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [ONOME](https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy) | 3:18 |
 | 23 | [Love n Hate](https://open.spotify.com/track/4JWsx1jeYFRBdcWj76VyRG) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 2:35 |
-| 24 | [Molotov](https://open.spotify.com/track/0e5wFBctpNlmDoZzLfgdwy) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:15 |
-| 25 | [City On Fire](https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:33 |
+| 24 | [City On Fire](https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:33 |
+| 25 | [Molotov](https://open.spotify.com/track/0e5wFBctpNlmDoZzLfgdwy) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:15 |
 | 26 | [Fine By Myself](https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:43 |
 | 27 | [SHOWBIZ](https://open.spotify.com/track/0udu5vXi5t7T8696NPpBgp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:48 |
-| 28 | [Blur](https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:01 |
-| 29 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
+| 28 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
+| 29 | [Blur](https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:01 |
 | 30 | [You, The World Vs Me](https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 2:03 |
 | 31 | [Fall In Love \(feat\. Odeal\)](https://open.spotify.com/track/5JV1b92v3C6Css76envcRx) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WHOSDAT](https://open.spotify.com/album/7rDcX06ibFQn0KFkID4cLv) | 3:01 |
 | 32 | [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 39 | [Wicked](https://open.spotify.com/track/617frgZYXehBNs3Sz6zwS8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:21 |
 | 40 | [Free Me](https://open.spotify.com/track/1dlX4os7LgUCPE6LLZ8DMt) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 3:20 |
 | 41 | [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 |
-| 42 | [Obi's Interlude](https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:56 |
+| 42 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 | 43 | [Reason \(feat\. Elijah Fox\)](https://open.spotify.com/track/1r8ojhEE2Kyo4vHCumpcwl) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 3:07 |
-| 44 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
+| 44 | [Obi's Interlude](https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 2:56 |
 | 45 | [Holier \(SHOWBIZ\)](https://open.spotify.com/track/5kMGUDbBjN6uNHEmIrnYXH) | [Olli P](https://open.spotify.com/artist/1sVeCzkWGI0b1Y8NyyAJCx), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Holier \(SHOWBIZ\)](https://open.spotify.com/album/3bj5fZFxgQrTOzc2deaNhG) | 2:26 |
 | 46 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
 | 47 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 49 | [Hold You Down](https://open.spotify.com/track/58rGKqZE9EiSAmPIeMLaKu) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 2:38 |
 | 50 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 |
 
-Snapshot ID: `ao4sgAAAAAAGkYe/IxrwYt+x4AKQeBlW`
+Snapshot ID: `ao9+AAAAAADHpQXIUCVkL2dOyF9KaHD1`

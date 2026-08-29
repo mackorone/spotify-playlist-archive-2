@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Zach John King
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,640,538 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,640,442 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Here \(with Chris Stapleton\)](https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Prizefighter](https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0) | 3:11 |
 | 50 | [Hits Me](https://open.spotify.com/track/7hbsfi6jiydEHGmXSQWA2m) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Hits Me](https://open.spotify.com/album/53KBpFueG6qOFrR9RqEemi) | 3:10 |
 
-Snapshot ID: `AAAAANuqgP9ofOFwHOpjWunWsNsqRBAE`
+Snapshot ID: `AAAAAIW9FHF8rTdVFxEQdToxL4Km3uHg`

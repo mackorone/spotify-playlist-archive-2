@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Music for enjoying your space
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,429 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,431 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 31 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
 | 32 | [Send Me on My Way](https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 4:23 |
 | 33 | [Time](https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Time](https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF) | 3:44 |
-| 34 | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Simone Ashley](https://open.spotify.com/artist/4pPJVe0DnEat9EC8L0mzZ0) | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/album/3k5pLFKcTX8VbxuC4YTNB6) | 2:16 |
-| 35 | [Catching Bodies](https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Catching Bodies](https://open.spotify.com/album/5xktIJwrny2WstcXimkvTN) | 3:06 |
+| 34 | [Catching Bodies](https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Catching Bodies](https://open.spotify.com/album/5xktIJwrny2WstcXimkvTN) | 3:06 |
+| 35 | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Simone Ashley](https://open.spotify.com/artist/4pPJVe0DnEat9EC8L0mzZ0) | [SO GOOD \(ft\. Simone Ashley\)](https://open.spotify.com/album/3k5pLFKcTX8VbxuC4YTNB6) | 2:16 |
 | 36 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
 | 37 | [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 |
 | 38 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 78 | [Betting on Us](https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Betting on Us](https://open.spotify.com/album/6zcbHGjmhj9djpGpkn47bs) | 2:35 |
 | 79 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
 | 80 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
-| 81 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
-| 82 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
+| 81 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 |
+| 82 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
 | 83 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
 | 84 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 85 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 96 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
 | 97 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 |
 | 98 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
-| 99 | [Don't Cry \(feat\. Maverick Sabre\)](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
-| 100 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 |
+| 99 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 |
+| 100 | [Don't Cry \(feat\. Maverick Sabre\)](https://open.spotify.com/track/626Qnan90KdrGqYTIDc8d0) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Lady Luck](https://open.spotify.com/album/5B0m3PiMxCq1TjF7wxLM6I) | 3:15 |
 
-Snapshot ID: `AAAAAICO/FDubPbr1pjdEi4uH784LuMl`
+Snapshot ID: `AAAAALleM4N83XR4M9UkkNmWHHE84OLM`

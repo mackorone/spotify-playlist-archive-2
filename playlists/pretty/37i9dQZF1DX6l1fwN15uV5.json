@@ -1,12 +1,12 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1511641,
+  "num_followers": 1511643,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKb5JYyV1pKPeG/Ik4VPcCIO6TRg",
+  "snapshot_id": "AAAAAJtozS4nm/um8MJDmo/ndFjYn9Cp",
   "tracks": [
     {
       "added_at": "2024-06-03 14:38:56",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
-      },
-      "artists": [
-        {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
-        }
-      ],
-      "duration_ms": 280400,
-      "name": "(I Just) Died In Your Arms",
-      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 322133,
       "name": "Another Day in Paradise - 2016 Remaster",
       "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "(I Just) Died In Your Arms",
+      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "Bad Animals",
         "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 272133,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -667,18 +667,22 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+        "name": "Chinese Wall",
+        "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
       },
       "artists": [
         {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
+        },
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+      "duration_ms": 304506,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -699,22 +703,18 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "Chinese Wall",
-        "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
       },
       "artists": [
         {
-          "name": "Philip Bailey",
-          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
-        },
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
         }
       ],
-      "duration_ms": 304506,
-      "name": "Easy Lover",
-      "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
       "added_at": "2024-06-03 14:38:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "What's Love Got to Do with It?",
-        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 226880,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "The Essential Bangles",
         "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 238026,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "What's Love Got to Do with It?",
+        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 226880,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
     },
     {
       "added_at": "2024-06-03 14:38:56",

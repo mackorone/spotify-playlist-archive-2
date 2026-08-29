@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,897 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,893 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 36 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
 | 37 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 |
 | 38 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
-| 39 | [ラストダンスあなたと](https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [ラストダンスあなたと](https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb) | 3:33 |
-| 40 | [キュートなキューたい](https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キュートなキューたい / ナイスだね](https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or) | 3:56 |
+| 39 | [キュートなキューたい](https://open.spotify.com/track/73rdU71fLEd0nW7HENRhKF) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キュートなキューたい / ナイスだね](https://open.spotify.com/album/5QyLCkfnwgEYLaf2ji21or) | 3:56 |
+| 40 | [ラストダンスあなたと](https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [ラストダンスあなたと](https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb) | 3:33 |
 | 41 | [逆様](https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆様](https://open.spotify.com/album/1qq7jAulzATlVCltzautOz) | 2:51 |
 | 42 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
 | 43 | [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
 | 50 | [ray \- 超かぐや姫！ Version](https://open.spotify.com/track/3V5bJpqNCHHi56pGZHNy1f) | [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres), [月見ヤチヨ\(cv.早見沙織\)](https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD), [超かぐや姫！](https://open.spotify.com/artist/4Lk0yqhpmphymMVtbdT0z6), [TAKU INOUE](https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 5:01 |
 
-Snapshot ID: `AAAAAIAPTN013ckhiqie8jGI6WeB+BWy`
+Snapshot ID: `AAAAALHBfoNT1R6mKfCtsBou/QCpLhAF`

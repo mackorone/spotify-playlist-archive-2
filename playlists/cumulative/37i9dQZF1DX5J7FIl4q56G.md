@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Mastodon
 
-12,338 songs - 34 day 0 hr 39 min
+12,339 songs - 34 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7769,6 +7769,7 @@
 | [O･TA･KUラブリー伝説](https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [O･TA･KUラブリー伝説](https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb) | 3:12 | 2024-01-19 | 2024-01-27 |
 | [p a r a d 0 x 1 c](https://open.spotify.com/track/2U7yZeqVPkPxEc354Tfg3G) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [p a r a d 0 x 1 c](https://open.spotify.com/album/0EzE4JLC743EsO8BMHbect) | 5:10 | 2026-08-21 |  |
 | [P.A.R.T.Y.](https://open.spotify.com/track/4u8kaEpeqCNakSjKvHJmgv) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [P.A.R.T.Y.](https://open.spotify.com/album/0GThAZZXkQ8PVzqkT5XfBx) | 3:23 | 2022-05-06 | 2022-05-13 |
+| [Pa Mis Carnales](https://open.spotify.com/track/2k5OUMIny0ZW6ls1y4ssGf) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Arriba La L](https://open.spotify.com/album/1XKtSl05ezH6lWTmVgTLUL) | 3:58 | 2026-08-28 |  |
 | [Pacifier](https://open.spotify.com/track/2m9efb0hDEc4xGdhxpwVK0) | [Neaera](https://open.spotify.com/artist/66Xc7Y6aW9W5RS2r8HY6P2) | [Pacifier](https://open.spotify.com/album/4CB1eX6pXlARsTclGRY90u) | 5:38 | 2024-05-03 | 2024-05-11 |
 | [Pack your drugs](https://open.spotify.com/track/56qRl4Bc91SiPfaGA0oCZ1) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Pack your drugs](https://open.spotify.com/album/5BMM7R6BWtuDEsdnRvTLKX) | 3:43 | 2022-06-10 | 2022-06-17 |
 | [Pacto Pesado](https://open.spotify.com/track/63MHBrGBDADyDEDHv5uWej) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Oscuro Plan del Poder](https://open.spotify.com/album/0Ja02wnS135j7p3CJTfjbJ) | 3:38 | 2023-04-28 | 2023-05-06 |

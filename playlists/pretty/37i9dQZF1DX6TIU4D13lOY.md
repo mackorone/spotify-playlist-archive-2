@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,412 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,457 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 46 | [Kiss You All Over](https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Greatest Hits](https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo) | 3:34 |
 | 47 | [Smoke from a Distant Fire](https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T) | [Sanford Townsend Band](https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0) | [Smoke From A Distant Fire](https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX) | 3:33 |
 | 48 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
-| 49 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 |
-| 50 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
-| 51 | [Make Believe](https://open.spotify.com/track/15taea6JZLAfG5OX0pzfG6) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 3:43 |
+| 49 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
+| 50 | [Make Believe](https://open.spotify.com/track/15taea6JZLAfG5OX0pzfG6) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 3:43 |
+| 51 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 |
 | 52 | [I Was Only Joking](https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Foot Loose & Fancy Free](https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg) | 6:07 |
 | 53 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
 | 54 | [We Just Disagree](https://open.spotify.com/track/7qpuECko60EoztznowMWj1) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775) | [Super Hits](https://open.spotify.com/album/5sO231e431rq8r9mV1uFJH) | 3:00 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 68 | [Sentimental Lady \- 2018 Remaster](https://open.spotify.com/track/58gin7AIJheIrPffOdiE1z) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [50 Years \- Don't Stop](https://open.spotify.com/album/06JqOkwwy91OxrApXclzYf) | 3:02 |
 | 69 | [Ace of Hearts](https://open.spotify.com/track/72wERbZ4yx2cNaoEj5jYnl) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 4:30 |
 | 70 | [Feel You Now](https://open.spotify.com/track/4DvepM4TNDah4107ZPVHP6) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [The Autumn Defense](https://open.spotify.com/album/3FFHH9ui7Hoit4dBEFdMyc) | 4:33 |
-| 71 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 |
-| 72 | [Key Largo](https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [The Essential Playlist](https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq) | 3:18 |
+| 71 | [Key Largo](https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [The Essential Playlist](https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq) | 3:18 |
+| 72 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 |
 | 73 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 |
 | 74 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 |
 | 75 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
-| 76 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
-| 77 | [Sometimes When We Touch](https://open.spotify.com/track/2hw2fDtNPkIowTNuQRmlnN) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/68kM51V7P3ys10rx3RDFnH) | 4:12 |
+| 76 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
+| 77 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
 | 78 | [What Can I Say](https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 3:00 |
-| 79 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 |
-| 80 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
+| 79 | [Sometimes When We Touch](https://open.spotify.com/track/2hw2fDtNPkIowTNuQRmlnN) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/68kM51V7P3ys10rx3RDFnH) | 4:12 |
+| 80 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 |
 
-Snapshot ID: `AAAAAJGQfQGOHNunwYierBrjAKqgGJ62`
+Snapshot ID: `AAAAAFS7xzRZGs9I4T8W2m1keeYDQwgN`

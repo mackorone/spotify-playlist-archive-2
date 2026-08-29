@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,966 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,973 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 35 | [Te Amo](https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:52 |
 | 36 | [En La Misma Cama \- Dueto Con El Chapo](https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5), [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [30 Aniversario Duetos](https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm) | 2:54 |
 | 37 | [Contigo Me Gusta](https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:06 |
-| 38 | [Los Dos Amigos De La Sierra](https://open.spotify.com/track/5qnO67atfIUFMeGUZZs1j9) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Concierto En Vivo Desde Guadalajara, Vol\. 1](https://open.spotify.com/album/5qDSxRNIV1hnTzbSJCHM0k) | 2:54 |
-| 39 | [Andamos Borrachos](https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Cristaleros Michoacanos](https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB) | 2:19 |
-| 40 | [Eran De Azucar Sus Labios \(Version Banda\)](https://open.spotify.com/track/7jsGsunLEK73UPhdaMssYV) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios \(Version Banda\)](https://open.spotify.com/album/5QRqe9qEXaIW5gBHz9HlEC) | 3:02 |
+| 38 | [Andamos Borrachos](https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Cristaleros Michoacanos](https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB) | 2:19 |
+| 39 | [Eran De Azucar Sus Labios \(Version Banda\)](https://open.spotify.com/track/7jsGsunLEK73UPhdaMssYV) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Eran De Azucar Sus Labios \(Version Banda\)](https://open.spotify.com/album/5QRqe9qEXaIW5gBHz9HlEC) | 3:02 |
+| 40 | [Los Dos Amigos De La Sierra](https://open.spotify.com/track/5qnO67atfIUFMeGUZZs1j9) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Concierto En Vivo Desde Guadalajara, Vol\. 1](https://open.spotify.com/album/5qDSxRNIV1hnTzbSJCHM0k) | 2:54 |
 | 41 | [Te Extraño](https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:18 |
 | 42 | [Para Siempre](https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:20 |
 | 43 | [Esa Fue Mi Novia](https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Grandes Éxitos](https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 49 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8) | 2:42 |
 | 50 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
 
-Snapshot ID: `ao4sgAAAAAAd2zfAGHV7/HE4KxI2+Hn+`
+Snapshot ID: `ao9+AAAAAAC/5lnPfTOtaNCpSJwJpUVK`

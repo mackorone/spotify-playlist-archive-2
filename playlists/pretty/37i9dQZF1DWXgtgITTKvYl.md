@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,906 likes - 75 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,969 likes - 75 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 72 | [Frozen Rivers](https://open.spotify.com/track/4wqUDHZwER3IZkskH5cffd) | [Karfagen](https://open.spotify.com/artist/1Bwy7oV8LElFsgBr2QmI34) | [Omni II Act I: The Glass of Time](https://open.spotify.com/album/6Xl84JdGrk6uExGQ0yLa0j) | 7:23 |
 | 73 | [Fourth of July \- Fireworks Version](https://open.spotify.com/track/0XzWMOnzOdXJZ5Ph1Vh0GY) | [Happy the Man](https://open.spotify.com/artist/6aJOdlEvn7AFJTHCLZTwJH) | [Fourth of July \- An American Suite](https://open.spotify.com/album/184qIRMa9fmQjiW117NiVF) | 4:03 |
 | 74 | [La Llorona](https://open.spotify.com/track/0EBneZc1Vjw2I7obObTsu6) | [Felix Martin](https://open.spotify.com/artist/3uDBxcooIKOzH5ltdpGb4h), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Parazit](https://open.spotify.com/artist/5LaWGNlE5SvG9EX1UO7Qtn) | [La Llorona](https://open.spotify.com/album/24irwj2XqOLIB79xoSEHEr) | 3:49 |
-| 75 | [Cue the Sun / Alba Del Orate](https://open.spotify.com/track/3nuJtnriaOSBVAPCjFxvhf) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Cue the Sun / Alba Del Orate](https://open.spotify.com/album/3TUz7us7VV1rrtHlwcWHsL) | 5:52 |
+| 75 | [Cue the Sun / Alba Del Orate](https://open.spotify.com/track/3nuJtnriaOSBVAPCjFxvhf) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Cue the Sun / Alba Del Orate](https://open.spotify.com/album/3TUz7us7VV1rrtHlwcWHsL) | 5:34 |
 
-Snapshot ID: `AAAAAP/PkU7eM+Bjf5f6o925G/w4EYfx`
+Snapshot ID: `AAAAAFYPFNXCfq/Tzym2JGpD07tbnT3I`

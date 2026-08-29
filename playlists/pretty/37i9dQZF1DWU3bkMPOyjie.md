@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 
 > Get yourself in that summer mood with these great rocking summer songs from the last 25 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,570 likes - 78 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,585 likes - 78 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 20 | [Times Like These](https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:25 |
 | 21 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
 | 22 | [Body Talks \(feat\. Kesha\)](https://open.spotify.com/track/71hhuJLNpxBQLSbbQ6ZWr4) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:57 |
-| 23 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 23 | [I Believe In A Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 24 | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR) | 2:43 |
 | 25 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 |
 | 26 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3bkMPOyjie.md) - [plain]
 | 77 | [Sex](https://open.spotify.com/track/0wIFAHbaUucA8mog7Y2IDD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:26 |
 | 78 | [hot girls in good moods](https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt) | [Butch Walker](https://open.spotify.com/artist/7qKoy46vPnmIxKCN6ewBG4) | [The Rise and Fall of..\. Butch Walker and The Let's\-Go\-Out\-Tonites](https://open.spotify.com/album/3RmqVZPcYT5LUFQ6Kl5N4B) | 3:45 |
 
-Snapshot ID: `AAAAAAgq1vMRcDqlpDIpfu4UAM6jLVrM`
+Snapshot ID: `AAAAAMtS+4wq61wMt7HHKYg4gZGHEf7C`

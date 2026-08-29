@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 656228,
+  "num_followers": 656283,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALv3D/EFcjewlgy4yS74pD5ZriDN",
+  "snapshot_id": "AAAAAI9UdXErRxKK8u2THKXcj2emSeg+",
   "tracks": [
     {
       "added_at": "2026-08-07 13:45:51",
@@ -75,6 +75,26 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 160517,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
         "name": "Un Finde | CROSSOVER #2",
         "url": "https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 160517,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Tiempo De Bailar",
-        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 169250,
-      "name": "La Cola",
-      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Sue\u00f1o Cumplido",
         "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 200893,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Tiempo De Bailar",
+        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 169250,
+      "name": "La Cola",
+      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "La 2da del Boxeador",
         "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 248440,
       "name": "Un Beso y una Flor",
       "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 200071,
-      "name": "Te Voy a Amar",
-      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Cuando Sea Conmigo",
         "url": "https://open.spotify.com/album/7dZ5MenVbYqobkijuz0uFf"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 200180,
       "name": "Cuando Sea Conmigo",
       "url": "https://open.spotify.com/track/4FeIKd4S3ihhzlYorunZfs"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
+      },
+      "artists": [
+        {
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
+        }
+      ],
+      "duration_ms": 200071,
+      "name": "Te Voy a Amar",
+      "url": "https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1199,46 +1199,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Lo Mismo Que A M\u00ed",
-        "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Lo Mismo Que A M\u00ed",
-      "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
-        "name": "Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Amor De Chat (Remix)",
         "url": "https://open.spotify.com/album/5c9pBkdi15fKAfcw7D0cTe"
       },
@@ -1259,6 +1219,46 @@
       "duration_ms": 185142,
       "name": "Amor De Chat - Remix",
       "url": "https://open.spotify.com/track/3XfKWVuM7egYc2cMdCOyNX"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Lo Mismo Que A M\u00ed",
+        "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Lo Mismo Que A M\u00ed",
+      "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Si Esta Casa Hablara",
-        "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Pablito HC",
-          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 200575,
-      "name": "Si Esta Casa Hablara",
-      "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 229093,
       "name": "Pega la Vuelta",
       "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Si Esta Casa Hablara",
+        "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Pablito HC",
+          "url": "https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 200575,
+      "name": "Si Esta Casa Hablara",
+      "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 160262,
-      "name": "Que Nadie Se Entere",
-      "url": "https://open.spotify.com/track/7wMAt7H3Q1BhRxvqDNw0N7"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "El Mismo Aire",
         "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 160262,
+      "name": "Que Nadie Se Entere",
+      "url": "https://open.spotify.com/track/7wMAt7H3Q1BhRxvqDNw0N7"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Te Mentir\u00eda",
         "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 218431,
       "name": "Te Mentir\u00eda",
       "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
+        "name": "Close de Ort!",
+        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
         "name": "Sue\u00f1o Cumplido",
         "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
@@ -1651,26 +1667,6 @@
       "duration_ms": 240080,
       "name": "Trampas",
       "url": "https://open.spotify.com/track/3OBXS3Tgtj7OQVzLA0BFKY"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
-        "name": "Close de Ort!",
-        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        },
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1691,6 +1687,22 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
+        "name": "Amarte",
+        "url": "https://open.spotify.com/album/03ZNVDpcTSI1uq3KZOug0k"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 293413,
+      "name": "Como Hacer",
+      "url": "https://open.spotify.com/track/3VQ8Cz51UVBAsRuQvicTm0"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1707,22 +1719,6 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
-        "name": "Amarte",
-        "url": "https://open.spotify.com/album/03ZNVDpcTSI1uq3KZOug0k"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 293413,
-      "name": "Como Hacer",
-      "url": "https://open.spotify.com/track/3VQ8Cz51UVBAsRuQvicTm0"
     },
     {
       "added_at": "2026-08-07 13:45:51",

@@ -1,12 +1,12 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 107082,
+  "num_followers": 107087,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMa6yBW6Z7YeNbreB7Lkg65GCxAv",
+  "snapshot_id": "AAAAALREkqXvTaew6bzGeSz6I+rpoufU",
   "tracks": [
     {
       "added_at": "2026-08-28 01:24:57",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Someday, Somewhere",
-        "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 151609,
-      "name": "Someday, Somewhere",
-      "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "Bowery (feat. Kings of Leon)",
         "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 215720,
       "name": "Bowery (feat. Kings of Leon)",
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "Someday, Somewhere",
+        "url": "https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 151609,
+      "name": "Someday, Somewhere",
+      "url": "https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 298920,
-      "name": "Red Eyes",
-      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Going Shopping",
-        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 261747,
-      "name": "Going Shopping",
-      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
+      "duration_ms": 298920,
+      "name": "Red Eyes",
+      "url": "https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -599,6 +583,38 @@
       "duration_ms": 303213,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/7sCHy8QQUz3CRvUMp53Cbm"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 178702,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -651,22 +667,6 @@
       "duration_ms": 187306,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
-        "name": "Happiness Anytime: Part 2",
-        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 178702,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/1qkkE488CPJ0MIEkwOWLD3"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/6HmTemMMhm4C8tiM39Dz28"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 159906,
+      "name": "Hit The Sky",
+      "url": "https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
         "name": "Ride Lonesome (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "The Clearing (B Sides)",
-        "url": "https://open.spotify.com/album/6HmTemMMhm4C8tiM39Dz28"
+        "name": "Hollywood Dream (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Thunderclap Newman",
+          "url": "https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF"
         }
       ],
-      "duration_ms": 159906,
-      "name": "Hit The Sky",
-      "url": "https://open.spotify.com/track/2Ei6xk9HEEAv16zFA60iht"
+      "duration_ms": 234360,
+      "name": "Something In The Air",
+      "url": "https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -983,34 +999,18 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Hollywood Dream (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0McWkQTsU9eYngOswvNs87"
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
       },
       "artists": [
         {
-          "name": "Thunderclap Newman",
-          "url": "https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF"
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         }
       ],
-      "duration_ms": 234360,
-      "name": "Something In The Air",
-      "url": "https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
-        "name": "Song While You're Away (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 300800,
-      "name": "Song While You're Away (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
+        "name": "Song While You're Away (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 300800,
+      "name": "Song While You're Away (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
         "name": "Vending Machine",
         "url": "https://open.spotify.com/album/3JH7oecZaWwIlg4XbvW2IX"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 211204,
       "name": "Vending Machine",
       "url": "https://open.spotify.com/track/3FampdJjnIzpdxLyTtTCyb"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
     },
     {
       "added_at": "2026-08-28 01:24:57",

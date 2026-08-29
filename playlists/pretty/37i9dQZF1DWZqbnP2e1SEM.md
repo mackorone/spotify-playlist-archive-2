@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,129 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,120 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 92 | [Good Life](https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml) | 3:01 |
 | 93 | [Whisper](https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Whisper](https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu) | 2:34 |
 | 94 | [Losing It](https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl) | 4:08 |
-| 95 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/2mRNUz2RbAFf0AkPeQWelt) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Satisfaction \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/4fQC9i9e9rDI7MwoY0M0HX) | 2:23 |
-| 96 | [On A Wave](https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [On A Wave](https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK) | 3:19 |
+| 95 | [On A Wave](https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6) | [East End Dubs](https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [On A Wave](https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK) | 3:19 |
+| 96 | [Satisfaction \- Uk Radio Edit](https://open.spotify.com/track/2mRNUz2RbAFf0AkPeQWelt) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Satisfaction \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/4fQC9i9e9rDI7MwoY0M0HX) | 2:23 |
 | 97 | [Million Things](https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm) | [Tommy Phillips](https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW) | [Million Things](https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi) | 2:40 |
-| 98 | [Baianá \(Boa Noite\)](https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baianá \(Boa Noite\)](https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7) | 3:17 |
-| 99 | [Nobody To Love \- Radio Edit](https://open.spotify.com/track/6PTwoCCzthLLmeRvNqEa5Q) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Clubland 26](https://open.spotify.com/album/6yamu4APmhOijtj3jEsRLs) | 3:09 |
+| 98 | [Nobody To Love \- Radio Edit](https://open.spotify.com/track/6PTwoCCzthLLmeRvNqEa5Q) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Clubland 26](https://open.spotify.com/album/6yamu4APmhOijtj3jEsRLs) | 3:09 |
+| 99 | [Baianá \(Boa Noite\)](https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baianá \(Boa Noite\)](https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7) | 3:17 |
 | 100 | [Boujee](https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Boujee](https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ) | 2:32 |
 
-Snapshot ID: `AAAAAIevOz4oBAjRasF78VGCQtZCKnQ1`
+Snapshot ID: `AAAAAHkjRebQ76twr1HA7v1zGXQ+CjIw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,408 likes - 102 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,415 likes - 102 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 11 | [PLEASER](https://open.spotify.com/track/6DXup87vjnmJNDXqeLwPtD) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [PLEASER](https://open.spotify.com/album/1rVBvR9itKUSdWQ9iCkXLy) | 2:52 |
 | 12 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
 | 13 | [Babyline](https://open.spotify.com/track/4Y6qlDD9AQ6BfDHqloSeP4) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Babyline](https://open.spotify.com/album/47AXiuVNP3ShLjhVjep2TW) | 4:02 |
-| 14 | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
+| 14 | [Lucky Again \- The Magician Remix](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
 | 15 | [easier said than done](https://open.spotify.com/track/02SCt5Kbhrhz0ow6brrxMA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [easier said than done](https://open.spotify.com/album/1QX7GT1FwzqpmJQXNGaOMp) | 2:52 |
 | 16 | [Maze](https://open.spotify.com/track/26RvvjRGW1XHfGfrAgHKdw) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Maze](https://open.spotify.com/album/0SKsEbiIcf5p48T9q5drmw) | 3:37 |
 | 17 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 101 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 |
 | 102 | [Fade Away](https://open.spotify.com/track/0IWBaEf7GOwKPKHyC32E1z) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Ten Love Songs](https://open.spotify.com/album/3jviKiBoZrkHLQZYIReWCh) | 3:18 |
 
-Snapshot ID: `AAAAADN4MSn9O+qTCxwWguTDgp1o35bJ`
+Snapshot ID: `AAAAABauiylnEQZWyb6UuZcpMyTWqZt5`

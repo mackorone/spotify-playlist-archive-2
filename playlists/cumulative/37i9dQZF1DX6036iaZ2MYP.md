@@ -2,9 +2,9 @@
 
 ### [Afro Station](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover:   Mauvais Djo
+> Tracks popping off in the Afro scene\. Cover:   Mauvais djo
 
-1,357 songs - 2 day 15 hr 7 min
+1,357 songs - 2 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Ballon d'or](https://open.spotify.com/track/7hVTHdRfY2A5jGedvkqpu0) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Ballon d'or](https://open.spotify.com/album/1NGSSzBs0lR4RAN9WW4RVa) | 2:15 | 2026-03-26 | 2026-04-24 |
 | [Bambelela](https://open.spotify.com/track/0NfP1YJUifJKXMSx0AyIup) | [TuksinSA](https://open.spotify.com/artist/3F8IEuHCZhhYDmTU9VSGka), [Vyn](https://open.spotify.com/artist/4Ffs8qFMeghZQXDs5x2RvX), [Tonic Jazz](https://open.spotify.com/artist/7DYAFo4uF3zsAIm0ii03zQ) | [Bambelela](https://open.spotify.com/album/1fvHP8sh8dW9eUnt7YxRYi) | 3:49 | 2022-12-01 | 2023-05-12 |
 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 | 2022-08-25 | 2023-04-06 |
-| [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/770KUfsvpJLcWqFv96JgM6), [Anderson](https://open.spotify.com/artist/1WrqscQTSOcBLyjIv5Qz6H) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 | 2026-08-27 |  |
+| [Bandela](https://open.spotify.com/track/1G8CAiMVLP7wenG4sF084G) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Armageddon](https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP), [Anderson](https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6) | [Bandela](https://open.spotify.com/album/7uNr2HQBIkX1WTVvWAN6K1) | 3:45 | 2026-08-27 |  |
 | [Bandit chef](https://open.spotify.com/track/44A6TlpNKN3uuXfi2tdjnd) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Bandit chef](https://open.spotify.com/album/42L6uuqhDyV6LVNsm42rWi) | 2:40 | 2026-04-02 | 2026-04-24 |
 | [Bara](https://open.spotify.com/track/5MP8EHj9F0kXOToFnrZNqu) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Obligée](https://open.spotify.com/album/760U6s9PCeFAa4YYPcoze9) | 2:30 | 2025-05-08 | 2025-06-06 |
 | [Bara](https://open.spotify.com/track/5rJ0db9ehcLPtn3ZklDBIL) | [Sonik](https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR) | [Bara](https://open.spotify.com/album/38cQt1gamlqUPYgbS7gVtg) | 1:59 | 2025-01-23 | 2025-02-14 |
@@ -181,7 +181,7 @@
 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 | 2024-02-29 | 2024-06-07 |
 | [Big Engine](https://open.spotify.com/track/1D1SCQIQUtYoISZxynsrbh) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [WA JO PA](https://open.spotify.com/album/6myhUb2Ibr51EGNsOFnQ58) | 2:29 | 2025-05-08 | 2025-06-06 |
 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 | 2025-09-25 | 2025-12-05 |
-| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 | 2026-08-27 |  |
+| [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 | 2026-08-27 |  |
 | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 | 2024-11-14 | 2025-03-14 |
 | [BIG TIME \(feat\. Wizkid\)](https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 3:26 | 2025-10-09 | 2025-12-05 |
 | [Binôme](https://open.spotify.com/track/3TJ032zQjkCcUBEsYknfCo) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Binôme](https://open.spotify.com/album/5KqEPDseEJZ1eZ5EqiunL0) | 2:32 | 2025-04-17 | 2025-05-16 |

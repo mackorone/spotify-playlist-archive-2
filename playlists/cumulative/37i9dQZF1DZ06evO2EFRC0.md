@@ -4,7 +4,7 @@
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-117 songs - 9 hr 28 min
+118 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Maravilloso Dios](https://open.spotify.com/track/0U5SaWJBbeqqQOT1tQmYMF) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Proyecto AA](https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU) | 2:21 | 2024-05-11 |  |
 | [Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos](https://open.spotify.com/track/33JhVpJsifXLo4f5iE0L4I) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos](https://open.spotify.com/album/7DwEO3HOKXP0ilMqOnh1H6) | 6:05 | 2025-04-13 | 2025-06-26 |
 | [Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos](https://open.spotify.com/track/77xMmii3Dsmx3PLjFIImC1) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Legado](https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId) | 6:05 | 2025-05-24 |  |
-| [Mi Primer Amor](https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra \(En Vivo\)](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 5:58 | 2025-01-27 |  |
+| [Medley \(Tu Amor Por Mí / Hermoso Eres / Tu Mirada / Mi Socorro / Exáltate / Tu Fidelidad\)](https://open.spotify.com/track/2zaPPT0WRBl0J9r4EOH9Rq) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Nadie Como Él](https://open.spotify.com/album/5EEQ79w67vuuhSSu2EVKVz) | 11:36 | 2026-08-29 |  |
+| [Mi Primer Amor](https://open.spotify.com/track/6Ba2sP6ehhMlwNKHcverwl) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Sana Nuestra Tierra \(En Vivo\)](https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh) | 5:58 | 2025-01-27 | 2026-08-29 |
 | [Más Que Palabras](https://open.spotify.com/track/3AjorlLgzd2a2FOTUuoGLZ) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 5:45 | 2023-04-02 | 2023-04-07 |
 | [Nació la Luz](https://open.spotify.com/track/3ZUwuLNBR0817Otp5jtqPM) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Nació la Luz](https://open.spotify.com/album/5y3FKMo36HJQuijHvKDgId) | 3:17 | 2024-11-03 | 2024-12-01 |
 | [No Hay Pero Va a Sobrar](https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 4:30 | 2023-04-02 | 2025-07-28 |

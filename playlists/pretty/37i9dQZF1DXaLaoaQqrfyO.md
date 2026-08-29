@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,722 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,743 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 8 | [Someone That Loves You](https://open.spotify.com/track/2a5Ml671R56tzRB0WMaCfC) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:04 |
 | 9 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 10 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 |
-| 11 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
-| 12 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 |
-| 13 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
+| 11 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 |
+| 12 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
+| 13 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 |
 | 14 | [Line Without a Hook](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 4:09 |
 | 15 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
 | 16 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 59 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 60 | [Cecilia And The Satellite](https://open.spotify.com/track/1MSM3Fo2fvnwVqMcz8Jhjq) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Andrew McMahon In The Wilderness](https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG) | 3:43 |
 | 61 | [Reflections](https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Our Own House](https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz) | 3:06 |
-| 62 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
-| 63 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
+| 62 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
+| 63 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
 | 64 | [Shuffle](https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:55 |
 | 65 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 |
 | 66 | [Sleeping With A Friend](https://open.spotify.com/track/0K1KOCeJBj3lpDYxEX9qP2) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Pop Psychology](https://open.spotify.com/album/6Xi4dJ9SudvC0ZoE5Krh3G) | 3:48 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 87 | [Strong](https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 4:35 |
 | 88 | [Kingdom Leader](https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Kingdom Leader – Single](https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX) | 3:34 |
 | 89 | [Somebody Else \- Alt Edit](https://open.spotify.com/track/4fnctse2eIRf7dvOhIGO4P) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Somebody Else \(Alt Edit\)](https://open.spotify.com/album/3gInuvCjtLEy3LCWxZ4ZYF) | 4:01 |
-| 90 | [Giving Up the Gun](https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 4:46 |
-| 91 | [Zebra](https://open.spotify.com/track/6asU049doNupkVllo61luh) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 4:48 |
+| 90 | [Zebra](https://open.spotify.com/track/6asU049doNupkVllo61luh) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 4:48 |
+| 91 | [Giving Up the Gun](https://open.spotify.com/track/40cAeDaZAnPY9bUHf4jYXW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 4:46 |
 | 92 | [Painting \(Masterpiece\)](https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Lewis Del Mar](https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ) | 4:03 |
 | 93 | [Mine](https://open.spotify.com/track/1RMJfOjuWNkfdjDo038CgU) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Mine EP](https://open.spotify.com/album/4cBD8BcJFl1UKSkmfrJgzo) | 3:47 |
 | 94 | [Tired of Talking](https://open.spotify.com/track/63MRutmAXJwkxhMhPHoioS) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Treasure \- EP](https://open.spotify.com/album/0pMPk0E9YCgU1PzxDViKf5) | 3:17 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 97 | [Till Sunrise \(feat\. Mammals\)](https://open.spotify.com/track/1pnwoWbZcS77Dx0jQVYK8X) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Till Sunrise \(feat\. Mammals\)](https://open.spotify.com/album/0EDKcvwuKdPn4M2ICXG90w) | 4:06 |
 | 98 | [OctaHate](https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:24 |
 | 99 | [Little of Your Love](https://open.spotify.com/track/1XCpzvtHjANEBhS9a4xqQ2) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:33 |
-| 100 | [Always](https://open.spotify.com/track/4jozjPDv6YVVDmDqDQqyTf) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Always EP \(Deluxe Edition\)](https://open.spotify.com/album/6ABkacBzpf0AQ7z7xfUtt2) | 3:39 |
+| 100 | [I Wanna Get Better](https://open.spotify.com/track/1RwwmiVtLAtPmxAqKVfwgG) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [I Wanna Get Better](https://open.spotify.com/album/4JaTMQFdRy5TfEKs8M9Doq) | 3:24 |
 
-Snapshot ID: `AAAAADHZJvNff4Hek16O+NkRQx6m7+oy`
+Snapshot ID: `AAAAAAwMMucpOleUd5Oe9KT4yVB/j3qa`

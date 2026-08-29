@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 829669,
+  "num_followers": 829728,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxKx83C+9BF9Gs1rEVWrPg/j45k",
+  "snapshot_id": "AAAAAGqdKvmAXn/QUKczcvn1gK8ULJUz",
   "tracks": [
     {
       "added_at": "2024-07-02 22:47:47",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "The Very Best Of William Bell",
-        "url": "https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D"
-      },
-      "artists": [
-        {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
       },
@@ -651,22 +635,6 @@
       "duration_ms": 174360,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Beautiful Brother - The Essential",
-        "url": "https://open.spotify.com/album/0oY0JQR52E8uSBBBUr8x8b"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 324398,
-      "name": "Freddie's Dead",
-      "url": "https://open.spotify.com/track/7jmqTPoxOQsC2w9Cb6z78q"
     },
     {
       "added_at": "2024-07-02 22:47:47",
@@ -687,18 +655,18 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/43Axle5un9qnVUp113oHzB"
+        "name": "The Very Best Of William Bell",
+        "url": "https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO"
         }
       ],
-      "duration_ms": 233293,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj"
+      "duration_ms": 140733,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6"
     },
     {
       "added_at": "2024-07-02 22:47:47",
@@ -735,6 +703,38 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Beautiful Brother - The Essential",
+        "url": "https://open.spotify.com/album/0oY0JQR52E8uSBBBUr8x8b"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 324398,
+      "name": "Freddie's Dead",
+      "url": "https://open.spotify.com/track/7jmqTPoxOQsC2w9Cb6z78q"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/43Axle5un9qnVUp113oHzB"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Jackie Brown - Music From The Mirmax Motion Picture",
         "url": "https://open.spotify.com/album/2RH9TP3pHVoQ9Lih5Dt0tf"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 200933,
       "name": "Didn't I Blow Your Mind This Time",
       "url": "https://open.spotify.com/track/77rb1lTjC0lpUA6ylghYL6"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
+        "name": "Barry White - Universal Masters Collection",
+        "url": "https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 428240,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
     },
     {
       "added_at": "2024-07-02 22:47:47",
@@ -827,22 +843,6 @@
       "duration_ms": 233026,
       "name": "Hang On In There Baby",
       "url": "https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Barry White - Universal Masters Collection",
-        "url": "https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 428240,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
     },
     {
       "added_at": "2024-07-02 22:47:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 
 > A softer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,820 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,784 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 4 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
 | 5 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 6 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
-| 7 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
+| 7 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 |
 | 8 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
 | 9 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 |
-| 10 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 |
+| 10 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 | 11 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 |
 | 12 | [Don't Touch](https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:25 |
 | 13 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 45 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
 | 46 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
 | 47 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 |
-| 48 | [Gospel Oak](https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib) | 2:35 |
-| 49 | [The Car](https://open.spotify.com/track/0C6dSPCqwKqwos6s1CrDrh) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:18 |
+| 48 | [The Car](https://open.spotify.com/track/0C6dSPCqwKqwos6s1CrDrh) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:18 |
+| 49 | [Gospel Oak](https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib) | 2:35 |
 | 50 | [locket](https://open.spotify.com/track/3DXAC5bKciAE2hhGXX4GMc) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [swallowtail](https://open.spotify.com/album/2WAneOUp6cuyzxoQemgq7C) | 2:46 |
 | 51 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 52 | [Shiver](https://open.spotify.com/track/0Wv9Ckm088qsVkMKPH170C) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To](https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h) | 3:53 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 83 | [Confirmation \(SSBD\)](https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk) | 4:18 |
 | 84 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 |
 | 85 | [If Only](https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Four° In Winter \(Deluxe\)](https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq) | 3:22 |
-| 86 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
-| 87 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
+| 86 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
+| 87 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 88 | [Oblivion](https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Oblivion](https://open.spotify.com/album/0vKrFtIDgzdeDIc6rRlcSn) | 3:04 |
 | 89 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
 | 90 | [homesickness](https://open.spotify.com/track/1Mq6UisCNxfqN9wxiV8NCj) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 99 | [Mechanical Bull](https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Mechanical Bull](https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn) | 3:56 |
 | 100 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 
-Snapshot ID: `AAAAAKceoXpIdH0MWbWAv7wU7WXPPoUq`
+Snapshot ID: `AAAAANOVUArE/tJzZsjm9+TB3W36y4ym`

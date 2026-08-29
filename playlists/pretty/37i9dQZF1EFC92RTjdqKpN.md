@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196 likes - 201 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197 likes - 201 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 200 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 201 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcawKAAAAAAGVUFMvPuMC9p50HuQqQbp`
+Snapshot ID: `Aca1FAAAAAByjK84EVQm5pc69lSL/OMt`

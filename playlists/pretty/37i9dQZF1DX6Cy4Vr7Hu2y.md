@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Hearts2Hearts\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,077 likes - 64 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,161 likes - 64 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 39 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 |
 | 40 | [LOVE ATTACK](https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [SCENEDROME](https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH) | 3:01 |
 | 41 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/7KNmIjcmGJIBrhP2s5Vioe) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:51 |
-| 42 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 |
-| 43 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 |
+| 42 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 |
+| 43 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 |
 | 44 | [Serenade \(KARINA & WINTER\)](https://open.spotify.com/track/2h81piRbzIJmjpxR4qnM2o) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2026 Special Digital Single](https://open.spotify.com/album/0yGIibObNeYQ37RunoFjtG) | 3:05 |
 | 45 | [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 |
 | 46 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [UNCHILD](https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb) | [UNCHILD](https://open.spotify.com/artist/6TKweJiG4KC62YFs5KKUqu) | [We Are UNCHILD](https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP) | 2:28 |
 | 64 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 
-Snapshot ID: `AAAAAJ1tAl4l51pSPyXePqu3pbPfDd1P`
+Snapshot ID: `AAAAACaB2WzuOMkF4JMocHjVmBtNNwdo`

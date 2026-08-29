@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 > This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,446 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,458 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 49 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
 | 50 | [Viviré para Ti \(feat\. Natalia Lafourcade\) \- Versión Acústica](https://open.spotify.com/track/7mPgkn14P7Ts2hB62XmgtT) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Amigos Invisibles, Acústico](https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG) | 3:56 |
 
-Snapshot ID: `ao4sgAAAAADBPj+qfpwOijc9X1EnUPt8`
+Snapshot ID: `ao9+AAAAAAAA0pITziLW7jsPdkJooT7K`

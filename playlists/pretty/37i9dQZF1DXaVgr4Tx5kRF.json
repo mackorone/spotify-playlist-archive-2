@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 666309,
+  "num_followers": 666328,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+NhLrnznkXS/0ZEMXB3CZb6PWr",
+  "snapshot_id": "AAAAAN23WuG6vPK0lm6HKvJZj3B31KGF",
   "tracks": [
     {
       "added_at": "2024-09-01 15:34:53",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Gorgeous George",
-        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
-      },
-      "artists": [
-        {
-          "name": "Edwyn Collins",
-          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Brimful of Asha",
         "url": "https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 243666,
       "name": "Brimful of Asha (Norman Cook Remix) (Single Version)",
       "url": "https://open.spotify.com/track/29capylmokCeuNAWqGitij"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Gorgeous George",
+        "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Kollected - The Best Of Kula Shaker",
-        "url": "https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q"
+        "name": "Life Of Riley - The Lightning Seeds Collection",
+        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
       },
       "artists": [
         {
-          "name": "Kula Shaker",
-          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Tattva",
-      "url": "https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe"
+      "duration_ms": 244693,
+      "name": "The Life Of Riley",
+      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Life Of Riley - The Lightning Seeds Collection",
-        "url": "https://open.spotify.com/album/0akFniXaXu6PZb8o7VUGZd"
+        "name": "Kollected - The Best Of Kula Shaker",
+        "url": "https://open.spotify.com/album/6TTUtIFLwkgKJGrjoAbq8q"
       },
       "artists": [
         {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
         }
       ],
-      "duration_ms": 244693,
-      "name": "The Life Of Riley",
-      "url": "https://open.spotify.com/track/6uAoFqSLH9UjCPn4yo4HMh"
+      "duration_ms": 224626,
+      "name": "Tattva",
+      "url": "https://open.spotify.com/track/4i29BhzyX52me3XNatwkWe"
     },
     {
       "added_at": "2024-03-18 22:10:08",

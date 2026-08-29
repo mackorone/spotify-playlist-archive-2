@@ -1,12 +1,12 @@
 {
   "description": "Every Lollapalooza a new main pop girl rises ",
-  "num_followers": 867542,
+  "num_followers": 867667,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAeP24bXG/TgwlkxwngaqEfTGbWg",
+  "snapshot_id": "AAAAAP5WjEDMKpTKOFGzeF3Qd8smO6jd",
   "tracks": [
     {
       "added_at": "2026-08-05 14:19:57",
@@ -1221,6 +1221,22 @@
       "url": "https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF"
     },
     {
+      "added_at": "2026-04-29 16:00:13",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "DOIT4ME",
+      "url": "https://open.spotify.com/track/0FyhBw60Tk0UyVqJEJqn9N"
+    },
+    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "Chromatica",
@@ -1239,22 +1255,6 @@
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
-    },
-    {
-      "added_at": "2026-04-29 16:00:13",
-      "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "DOIT4ME",
-      "url": "https://open.spotify.com/track/0FyhBw60Tk0UyVqJEJqn9N"
     },
     {
       "added_at": "2025-07-18 04:00:19",

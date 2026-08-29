@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJAz1dGXZKF.md) - [plain]
 | 19 | [Stay Gold](https://open.spotify.com/track/3Ys2PYl1wyPKQIwyqhP9cQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7 \~ THE JOURNEY \~](https://open.spotify.com/album/1nScVw87kRJiT2bg2Kswhp) | 4:03 |
 | 20 | [NORMAL](https://open.spotify.com/track/4pcMA8zSATPOZzZd6fWI5N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:04 |
 
-Snapshot ID: `AAAAAFOlQr1LizCK+Yl/iDXpywXXsIrk`
+Snapshot ID: `AAAAALWvkNp1WSVaLmVBdKQ97QTh/N3r`

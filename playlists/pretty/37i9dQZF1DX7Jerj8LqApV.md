@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,039,102 likes - 40 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,038,961 likes - 40 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 17 | [Di Nakakasawa](https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:17 |
 | 18 | [Nang Iwan](https://open.spotify.com/track/5CgwESmg9qgxDSa7RBQxFb) | [This Band](https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08) | [Nang Iwan](https://open.spotify.com/album/0u1j9uKeBMlS9mbSPDEN5H) | 6:07 |
 | 19 | [Nandito Ako](https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RD Covers \(Live\)](https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT) | 6:01 |
-| 20 | [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 |
-| 21 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 |
+| 20 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 |
+| 21 | [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 |
 | 22 | [Sulitin](https://open.spotify.com/track/6P6kqSItGVs18oP1OXxGJP) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL) | [Sulitin](https://open.spotify.com/album/2Zlem592VqEoaaRqvFs2M3) | 4:15 |
 | 23 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
 | 24 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 |
-| 25 | [Patlang](https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Patlang](https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn) | 3:50 |
-| 26 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 |
+| 25 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 |
+| 26 | [Patlang](https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Patlang](https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn) | 3:50 |
 | 27 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 |
 | 28 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 |
 | 29 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 39 | [Pwede Ka Ba?](https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy) | [Frank Ely](https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0) | [Pwede Ka Ba?](https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf) | 4:58 |
 | 40 | [teka lang](https://open.spotify.com/track/5zkqGMHs0EGafwqutNd7Gu) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [teka lang](https://open.spotify.com/album/2CTm35u9x6Tk5mXZHhwmvs) | 3:06 |
 
-Snapshot ID: `AAAAAAumb6xPTRXtS5a3KqLZb75aE9pq`
+Snapshot ID: `AAAAAJgIadi7hLp7ypoFip5wi4TIqE/T`

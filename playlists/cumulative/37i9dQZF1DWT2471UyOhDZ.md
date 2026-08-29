@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Westside Cowboy
 
-508 songs - 1 day 8 hr 42 min
+509 songs - 1 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [I Wanna Live With You](https://open.spotify.com/track/3myyZdktVep8TRBRbJvKLW) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3) | [I Wanna Live With You](https://open.spotify.com/album/7qAkVUXr3P9Cb1i9D6lR7L) | 2:54 | 2024-06-14 | 2025-05-09 |
 | [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-20 | 2026-06-28 |
 | [I'm In Love \(Subaru\)](https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [I'm In Love \(Subaru\)](https://open.spotify.com/album/4eVKWZZ9UHmsDSkEGFIMtp) | 4:01 | 2024-07-18 | 2025-02-09 |
-| [i'm not joking](https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [i'm not joking](https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP) | 3:54 | 2026-04-30 |  |
+| [i'm not joking](https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [i'm not joking](https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP) | 3:54 | 2026-04-30 | 2026-08-29 |
 | [I'm So Down](https://open.spotify.com/track/0XYPxuShTBTHa6w4AfZ0Hw) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [I'm So Down](https://open.spotify.com/album/4ScsV2sFlzbfwU3j2uKiRu) | 3:25 | 2025-05-30 | 2025-09-11 |
 | [I.L.T.S.](https://open.spotify.com/track/12TB5WLNviUpqLglb8yTXX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:29 | 2025-05-08 | 2026-06-19 |
 | [Ice Cold](https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:30 | 2024-07-18 | 2025-02-16 |
@@ -249,6 +249,7 @@
 | [Is This Love](https://open.spotify.com/track/7bxjmDPRthE1WDyNlU6WH1) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Yummy](https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY) | 3:39 | 2024-06-14 | 2025-01-17 |
 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 | 2025-01-17 | 2025-07-21 |
 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-12 | 2026-04-28 |
+| [Jubilee Feeling](https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Jubilee Feeling](https://open.spotify.com/album/1w0VJUqClIKvyXDdIqbWxx) | 4:15 | 2026-08-28 |  |
 | [July](https://open.spotify.com/track/4UE79bkqivVpD66r4ocJjN) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [July](https://open.spotify.com/album/2UnzvLOwGcjqbIv5hajlvC) | 4:08 | 2024-06-14 | 2025-01-31 |
 | [Just Be Friends](https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Just Be Friends](https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG) | 3:37 | 2024-11-15 | 2025-02-04 |
 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-20 |  |

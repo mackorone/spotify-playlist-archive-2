@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de Keke Minowa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,470 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,476 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 29 | [El Yoyo](https://open.spotify.com/track/7p51BI8ChuVxc06BqSxjyL) | [Adry La Fantastica](https://open.spotify.com/artist/6FujZ2C1jUht8oTc4FiFZo), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [El Yoyo](https://open.spotify.com/album/22qgxOwJJBqPCuixvuRXiL) | 3:16 |
 | 30 | [La Ventana \- Spotify Sessions](https://open.spotify.com/track/6VE5mKczPtG4QWerZ2Jk6u) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 3:10 |
 
-Snapshot ID: `AAAAAFcergNdScK4T9YCpxo/fsOZYA2H`
+Snapshot ID: `AAAAAK7/AcfB2QYmg7OqNkpQH2JqK4Gw`

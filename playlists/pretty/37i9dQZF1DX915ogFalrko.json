@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188220,
+  "num_followers": 188223,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG1AaxMcGW7doSKP3CBOH7/1bbtJ",
+  "snapshot_id": "AAAAAFFiF41Js5xIXYLXv+wUBCXYGDpM",
   "tracks": [
     {
       "added_at": "2026-08-21 08:52:55",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -183,18 +183,18 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 283360,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Bottle",
         "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 258353,
       "name": "Bottle",
       "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Isteri",
-        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
-      },
-      "artists": [
-        {
-          "name": "Ours Samplus",
-          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Spell on You",
-      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 235600,
       "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
       "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Isteri",
+        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
+      },
+      "artists": [
+        {
+          "name": "Ours Samplus",
+          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Spell on You",
+      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -911,26 +911,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "When the Magic Comes",
-        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 210168,
-      "name": "When the Magic Comes",
-      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 138181,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "When the Magic Comes",
+        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 210168,
+      "name": "When the Magic Comes",
+      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 279183,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Angus & Julia Stone",
-        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 201600,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Angus & Julia Stone",
+        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "LE GROOVE D'UNE CHANSON TRISTE",
         "url": "https://open.spotify.com/album/2zlXNZdEbQesMpP0PV483s"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 220000,
       "name": "LE GROOVE D'UNE CHANSON TRISTE",
       "url": "https://open.spotify.com/track/26TR6ha1XZ2lPA30AU8iMV"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "END OF THE SKY",
-        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
-      },
-      "artists": [
-        {
-          "name": "JVLY",
-          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
-        }
-      ],
-      "duration_ms": 159807,
-      "name": "END OF THE SKY",
-      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Beast of the Night",
         "url": "https://open.spotify.com/album/3n80cCmDjVkd9EX81YV4VU"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 220906,
       "name": "Beast of the Night",
       "url": "https://open.spotify.com/track/6udRUpHQlWCbwbDN6J1Y43"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "END OF THE SKY",
+        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "duration_ms": 159807,
+      "name": "END OF THE SKY",
+      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
     },
     {
       "added_at": "2026-08-21 08:52:55",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-08-21 08:52:55",
       "album": {
-        "name": "Fou de toi",
-        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "duration_ms": 140248,
-      "name": "Fou de toi",
-      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
-    },
-    {
-      "added_at": "2026-08-21 08:52:55",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-08-21 08:52:55",
+      "album": {
+        "name": "Fou de toi",
+        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "duration_ms": 140248,
+      "name": "Fou de toi",
+      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
     },
     {
       "added_at": "2026-08-21 08:52:55",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Double MZK",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: RUBACK, Roddy Lima, Sarah de Warren",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 158413,
       "name": "Alienation",
       "url": "https://open.spotify.com/track/12p2uuwxJ2Hlwt9YkZ3Ixe"
@@ -4234,7 +4234,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 190384,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/5Tq2WD8fDVe35rzzDqkE6t"
@@ -5924,7 +5924,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 187814,
       "name": "El Ni\u00f1o",
       "url": "https://open.spotify.com/track/7Mg58xNYB3yOpyouHvlllW"
@@ -6016,6 +6016,32 @@
       "duration_ms": 170390,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
+    },
+    {
+      "album": {
+        "name": "ELEVATION",
+        "url": "https://open.spotify.com/album/56ztjSXwZrYHq9kesPRMSz"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "ELEVATION",
+      "url": "https://open.spotify.com/track/3HM90izXHg17bfvlfj5aZi"
     },
     {
       "album": {
@@ -9703,6 +9729,32 @@
     },
     {
       "album": {
+        "name": "I Just Wantchu",
+        "url": "https://open.spotify.com/album/5d44BLU4BUm75ygmz7edkq"
+      },
+      "artists": [
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        },
+        {
+          "name": "Lancen Gm",
+          "url": "https://open.spotify.com/artist/4lI0mQ3iPbELFUGYCxwwFB"
+        },
+        {
+          "name": "Lucas Medeiros",
+          "url": "https://open.spotify.com/artist/1cf9Cylw3nxYePLjhZ0lQx"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195711,
+      "name": "I Just Wantchu",
+      "url": "https://open.spotify.com/track/0pupslE2ej4W2GWZFYhZ3i"
+    },
+    {
+      "album": {
         "name": "I Love a Robot",
         "url": "https://open.spotify.com/album/4LyXPrLbtyfBYKK35DMlV7"
       },
@@ -12212,7 +12264,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 199687,
       "name": "LIKE THIS LIKE THAT",
       "url": "https://open.spotify.com/track/55lkHzjFX0dymgA1wY1m0y"
@@ -13190,7 +13242,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 144500,
       "name": "Messi",
       "url": "https://open.spotify.com/track/5C9uCCZzmsTZHuakgYPS6G"
@@ -14180,7 +14232,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 188139,
       "name": "My House",
       "url": "https://open.spotify.com/track/3x485UchDgT9jdncu4TMFw"
@@ -15240,6 +15292,24 @@
       "duration_ms": 277896,
       "name": "On My Skin - Original Mix - Edit",
       "url": "https://open.spotify.com/track/7G4GWwMoTBTauoc5uwXXkt"
+    },
+    {
+      "album": {
+        "name": "On Off",
+        "url": "https://open.spotify.com/album/4X8zMYiV9RjX5V9UvvNrUm"
+      },
+      "artists": [
+        {
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236785,
+      "name": "On Off",
+      "url": "https://open.spotify.com/track/4S2bVESgIXjW23OIC5OQPY"
     },
     {
       "album": {
@@ -16957,6 +17027,24 @@
     },
     {
       "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/364mqG0xbfPUO8EqwQRa4e"
+      },
+      "artists": [
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/1ohssfxlMrf20TTrYMf53I"
+    },
+    {
+      "album": {
         "name": "RIOT",
         "url": "https://open.spotify.com/album/4v3soxxbbiKWfdIrSExxNH"
       },
@@ -17738,6 +17826,32 @@
       "duration_ms": 205984,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/53OLMfDeaFJgosZsxNSLT9"
+    },
+    {
+      "album": {
+        "name": "Selekta EP",
+        "url": "https://open.spotify.com/album/63NpJixtRsgdH0mawV4WXC"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Kevin Brauer",
+          "url": "https://open.spotify.com/artist/5K7tqzzCjUDd3RE4RYJh9L"
+        },
+        {
+          "name": "Tuggawar",
+          "url": "https://open.spotify.com/artist/1Nhg7gO8g4WQum0phRkU3C"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196846,
+      "name": "Selekta",
+      "url": "https://open.spotify.com/track/5XZRBmDhBsJcIVZgoYtAmt"
     },
     {
       "album": {
@@ -20333,6 +20447,24 @@
     },
     {
       "album": {
+        "name": "Tinder",
+        "url": "https://open.spotify.com/album/3GBGbYbim3Ry4wd0Q4d5Ru"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Tinder",
+      "url": "https://open.spotify.com/track/2aboHAiMyMJmzQqDa3f7bS"
+    },
+    {
+      "album": {
         "name": "Tira a Roupa",
         "url": "https://open.spotify.com/album/6ItvqzeikfkddhiKOKHfGf"
       },
@@ -21560,7 +21692,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 161993,
       "name": "Vida Passageira",
       "url": "https://open.spotify.com/track/2r8EseX5JeIxVAGvLyRD3d"
@@ -21692,6 +21824,28 @@
       "duration_ms": 148427,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/2JY0sUBOvoD2Fc4xNfXh3T"
+    },
+    {
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4d9sG01UpXomhq2HsDf6aX"
+      },
+      "artists": [
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/1BBJd8Q3MFNCsExmWAcB71"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Suor, ritmo e m\u00fasica com energia",
-  "num_followers": 170882,
+  "num_followers": 170890,
   "original_name": "Treino em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2jlwk3h3vdnvVrWrZ6kXWGIPQ9",
+  "snapshot_id": "AAAAADR21K27XkNEeAfJFFBmGinMbi8K",
   "tracks": [
     {
       "added_at": "2025-04-04 03:00:21",
@@ -1019,26 +1019,18 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
       "artists": [
         {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        },
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 203000,
-      "name": "More Than You Know",
-      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
     },
     {
       "added_at": "2025-04-04 03:00:21",
@@ -1067,18 +1059,26 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+      "duration_ms": 203000,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
     },
     {
       "added_at": "2025-04-04 03:00:21",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "Hands All Over",
-        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
-    },
-    {
-      "added_at": "2025-04-04 03:00:21",
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2025-04-04 03:00:21",
+      "album": {
+        "name": "Hands All Over",
+        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
     },
     {
       "added_at": "2025-04-04 03:00:21",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 219159,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
-    },
-    {
-      "added_at": "2025-04-04 03:00:21",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2025-04-04 03:00:21",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 219159,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
     },
     {
       "added_at": "2025-04-04 03:00:21",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2025-04-04 03:00:21",
-      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2025-04-04 03:00:21",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2025-04-04 03:00:21",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "Goosebumps (Remix)",
-        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 162802,
-      "name": "Goosebumps - Remix",
-      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
-    },
-    {
-      "added_at": "2025-04-04 03:00:21",
-      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -1535,18 +1515,22 @@
     {
       "added_at": "2025-04-04 03:00:21",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+        "name": "Goosebumps (Remix)",
+        "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
         }
       ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+      "duration_ms": 162802,
+      "name": "Goosebumps - Remix",
+      "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
       "added_at": "2025-04-04 03:00:21",
@@ -1571,6 +1555,22 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2025-04-04 03:00:21",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2025-04-04 03:00:21",

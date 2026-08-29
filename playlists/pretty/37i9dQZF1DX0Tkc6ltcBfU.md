@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,270,041 likes - 105 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,270,028 likes - 105 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 104 | [Crack \(Remix\)](https://open.spotify.com/track/2G4cGw6VQMeOxhAthZBxaj) | [3Dcam](https://open.spotify.com/artist/0Ug8XunJs2uhubTHdELnG4), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Crack \(Remix\)](https://open.spotify.com/album/5Ux5OC07KszrhZs0DQlH4l) | 2:39 |
 | 105 | [Overly Sure](https://open.spotify.com/track/4cYPJYqTrNHrzzQXoCRtJa) | [51 June](https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ) | [The Gainer Way](https://open.spotify.com/album/7aif6ofzWS1FkhABjsuF1J) | 2:40 |
 
-Snapshot ID: `AAAAAGGOrxUBZutyWXZOCLOB2DD72E1a`
+Snapshot ID: `AAAAAIYOIEQjA8yvL77sCA4MxPEdr5fL`

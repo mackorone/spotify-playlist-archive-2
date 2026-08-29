@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPYzOAWX8Wm.md) - [plain]
 
 > Celebrating the graduating class with the classics and anthems that got us here 🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,605 likes - 132 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,593 likes - 132 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPYzOAWX8Wm.md) - [plain]
 | 131 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 |
 | 132 | [Good Old Days](https://open.spotify.com/track/1a9J55u1qxquPUCyT6p6Kw) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [GEMINI](https://open.spotify.com/album/4QjQQRZ5KEcF7qBb87FCaT) | 4:00 |
 
-Snapshot ID: `AAAAAMC8RYCLTIKBHD8hLPZ+scI3ZRNS`
+Snapshot ID: `AAAAAGbX0LqZnwpeyO1rBpd5lFFkVP/s`

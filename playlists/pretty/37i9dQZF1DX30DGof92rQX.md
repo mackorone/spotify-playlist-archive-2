@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Samar Jafri
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,653 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,724 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 89 | [Masroof](https://open.spotify.com/track/1ATbcSuUGJJT4VQxyAfHBT) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [Masroof](https://open.spotify.com/album/7Ez1v31IhI1gTMkESeNIZR) | 3:13 |
 | 90 | [Obsession](https://open.spotify.com/track/1C0mUAZHUlVJRiaxacutsS) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [DeryAala](https://open.spotify.com/artist/2I5pgCixkzLJj8jb2R0hvt), [HASEEB](https://open.spotify.com/artist/6VTBfUo6LQmVKxat82WXNA) | [Obsession](https://open.spotify.com/album/5rDImXmnS3Wb7FETBEEeeJ) | 3:40 |
 
-Snapshot ID: `AAAAAGHLpHX/hDWC7C6SyxPGVtQCnq+E`
+Snapshot ID: `AAAAAMchMpo5hA0et8P1qAajv0FdLPS4`

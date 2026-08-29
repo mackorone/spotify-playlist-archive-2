@@ -840,24 +840,6 @@
     {
       "album": {
         "name": "Stormy Skies (Diamonds)",
-        "url": "https://open.spotify.com/album/54Tp5WzymT6Nwh6Qd7gmZ2"
-      },
-      "artists": [
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
-        }
-      ],
-      "date_added": "2023-12-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213924,
-      "name": "Stormy Skies (Diamonds)",
-      "url": "https://open.spotify.com/track/2PqUSyjbjVugUa9Duifn69"
-    },
-    {
-      "album": {
-        "name": "Stormy Skies (Diamonds)",
         "url": "https://open.spotify.com/album/0bVupaVa9nDw44G0kBCDlv"
       },
       "artists": [
@@ -872,6 +854,24 @@
       "duration_ms": 213924,
       "name": "Stormy Skies (Diamonds)",
       "url": "https://open.spotify.com/track/2bltEK2s3RtxoYMSMiSwX1"
+    },
+    {
+      "album": {
+        "name": "Stormy Skies (Diamonds)",
+        "url": "https://open.spotify.com/album/54Tp5WzymT6Nwh6Qd7gmZ2"
+      },
+      "artists": [
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213924,
+      "name": "Stormy Skies - Diamonds",
+      "url": "https://open.spotify.com/track/2PqUSyjbjVugUa9Duifn69"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 41041,
+  "num_followers": 41048,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAcPgx0CRsxShfOzPdwvpRu",
+  "snapshot_id": "ao9+AAAAAAChewQ07hQ9I0UM054xf9JJ",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 176893,
-      "name": "El Teterete",
-      "url": "https://open.spotify.com/track/6lNUzwn5EjRBdYjjt2KbhK"
+      "duration_ms": 181520,
+      "name": "C\u00f3mo La Luna",
+      "url": "https://open.spotify.com/track/3QaDuk77U04e1EURbWzUFu"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 181520,
-      "name": "C\u00f3mo La Luna",
-      "url": "https://open.spotify.com/track/3QaDuk77U04e1EURbWzUFu"
+      "duration_ms": 176893,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/6lNUzwn5EjRBdYjjt2KbhK"
     },
     {
       "added_at": null,
@@ -308,25 +308,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 149902,
-      "name": "Juan Colorado",
-      "url": "https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ"
+      "duration_ms": 170933,
+      "name": "Te Lavaste la Cara, El Mono No",
+      "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
     },
     {
       "added_at": null,
@@ -343,6 +327,22 @@
       "duration_ms": 150706,
       "name": "Porque Es Amor",
       "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 149902,
+      "name": "Juan Colorado",
+      "url": "https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 170933,
-      "name": "Te Lavaste la Cara, El Mono No",
-      "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Gira",
-        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "Bikini Azul",
-      "url": "https://open.spotify.com/track/3xH8Eco7vqjWYoitjK8cds"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escorpion",
         "url": "https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 158306,
       "name": "Qu\u00e9 Bonito Amor",
       "url": "https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo Gira",
+        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "Bikini Azul",
+      "url": "https://open.spotify.com/track/3xH8Eco7vqjWYoitjK8cds"
     },
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
-        "url": "https://open.spotify.com/album/1QdUVFZtyXjs6M0gDTWNZj"
+        "name": "Lagrimas De Sangre",
+        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
       "artists": [
         {
           "name": "Banda Maguey",
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        },
-        {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
         }
       ],
-      "duration_ms": 207368,
-      "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
-      "url": "https://open.spotify.com/track/0ynPwKFEs5siAwGp28MTf3"
+      "duration_ms": 191466,
+      "name": "Cu\u00e1nto Te Quiero",
+      "url": "https://open.spotify.com/track/0LOqmTGUdzodF0alpMXvGG"
     },
     {
       "added_at": null,
@@ -623,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
+        "url": "https://open.spotify.com/album/1QdUVFZtyXjs6M0gDTWNZj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        },
+        {
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
+        }
+      ],
+      "duration_ms": 207368,
+      "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
+      "url": "https://open.spotify.com/track/0ynPwKFEs5siAwGp28MTf3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lagrimas De Sangre",
         "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 191466,
-      "name": "Cu\u00e1nto Te Quiero",
-      "url": "https://open.spotify.com/track/0LOqmTGUdzodF0alpMXvGG"
+      "duration_ms": 161560,
+      "name": "Lagrimas de Sangre",
+      "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Gira",
-        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "Hambriento Como Lobo",
-      "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tumbando Ca\u00f1a",
         "url": "https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM"
       },
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas De Sangre",
-        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
+        "name": "El Mundo Gira",
+        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 161560,
-      "name": "Lagrimas de Sangre",
-      "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
+      "duration_ms": 182920,
+      "name": "Hambriento Como Lobo",
+      "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
     },
     {
       "added_at": null,

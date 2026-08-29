@@ -12782,7 +12782,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 190702,
       "name": "Estoy Pa' Ti",
       "url": "https://open.spotify.com/track/4KYEVjuYfB2qaA5paEB4kn"
@@ -26808,7 +26808,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 331785,
       "name": "Parchamos",
       "url": "https://open.spotify.com/track/5DIMJPgwqHQGcnnFr61f3M"
@@ -27816,6 +27816,24 @@
       "duration_ms": 183480,
       "name": "PERO T\u00da",
       "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
+    },
+    {
+      "album": {
+        "name": "PERRA",
+        "url": "https://open.spotify.com/album/1iisP5Qkr4PJ1h2bdGCCxr"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "PERRA",
+      "url": "https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ"
     },
     {
       "album": {
@@ -35362,7 +35380,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 172035,
       "name": "Tata",
       "url": "https://open.spotify.com/track/3wycbFMiYqkov2PPU1Eaej"

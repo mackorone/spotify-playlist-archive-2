@@ -1,12 +1,12 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132016,
+  "num_followers": 132003,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZaonSqJ/DRpDqzuX3oU7xwAx/m",
+  "snapshot_id": "AAAAAKvEwuovD1+FMdSnqpVSr6ISeO2V",
   "tracks": [
     {
       "added_at": "2026-08-27 21:00:21",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-08-27 21:00:21",
       "album": {
-        "name": "Nelisilm\u00e4",
-        "url": "https://open.spotify.com/album/7FSBswIQNkULZekmzge9T5"
-      },
-      "artists": [
-        {
-          "name": "DOG HUSTLERS",
-          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
-        },
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 120900,
-      "name": "Nelisilm\u00e4",
-      "url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
         "name": "Poikayst\u00e4v\u00e4",
         "url": "https://open.spotify.com/album/7xGPf3ct9ufbq9Y49yaHnF"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 139868,
       "name": "Poikayst\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/2cqjDWpkxpMQVHVPJENnhi"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
+        "name": "Nelisilm\u00e4",
+        "url": "https://open.spotify.com/album/7FSBswIQNkULZekmzge9T5"
+      },
+      "artists": [
+        {
+          "name": "DOG HUSTLERS",
+          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 120900,
+      "name": "Nelisilm\u00e4",
+      "url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-08-27 21:00:21",
       "album": {
-        "name": "TEENAGE DREAM",
-        "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
-      },
-      "artists": [
-        {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
-        }
-      ],
-      "duration_ms": 147923,
-      "name": "TEENAGE DREAM",
-      "url": "https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
         "name": "Pelkk\u00e4 kirosana",
         "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 192949,
       "name": "Pelkk\u00e4 kirosana",
       "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
+        "name": "TEENAGE DREAM",
+        "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "duration_ms": 147923,
+      "name": "TEENAGE DREAM",
+      "url": "https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -1011,6 +1011,26 @@
       "duration_ms": 178047,
       "name": "Vitun Inee",
       "url": "https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/5oKxqj2sCRBgyKOnkEyVRD"
+      },
+      "artists": [
+        {
+          "name": "Nathanael",
+          "url": "https://open.spotify.com/artist/0ZXI1MlPy3f6Q4SqRL9cl9"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/59GxeaVyjAyCsf5ek4UjYO"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2026-08-27 21:00:21",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/5oKxqj2sCRBgyKOnkEyVRD"
-      },
-      "artists": [
-        {
-          "name": "Nathanael",
-          "url": "https://open.spotify.com/artist/0ZXI1MlPy3f6Q4SqRL9cl9"
-        },
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/59GxeaVyjAyCsf5ek4UjYO"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
         "name": "Badabim (My Kind Of Terapiaa)",
         "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 156000,
       "name": "Badabim (My Kind Of Terapiaa)",
       "url": "https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1"
+    },
+    {
+      "added_at": "2026-08-27 21:00:21",
+      "album": {
+        "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
+        "url": "https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv"
+      },
+      "artists": [
+        {
+          "name": "Olli Halonen",
+          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
+      "url": "https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun"
     },
     {
       "added_at": "2026-08-27 21:00:21",
@@ -1119,22 +1135,6 @@
       "duration_ms": 120833,
       "name": "SWAG",
       "url": "https://open.spotify.com/track/38fVwj5ltp4sfF7Lpby8Ud"
-    },
-    {
-      "added_at": "2026-08-27 21:00:21",
-      "album": {
-        "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
-        "url": "https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv"
-      },
-      "artists": [
-        {
-          "name": "Olli Halonen",
-          "url": "https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "V\u00e4h\u00e4n rahaa, paljon rakkautta",
-      "url": "https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun"
     },
     {
       "added_at": "2026-08-27 21:00:21",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Blaqbonez
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,591 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,837 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 |
-| 2 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:28 |
+| 2 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 |
 | 3 | [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 |
 | 4 | [Chose Me](https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [STREET THERAPIST](https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i) | 2:27 |
 | 5 | [Dantata](https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Dantata](https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn) | 2:51 |
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 13 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
 | 14 | [Suppressed Desires](https://open.spotify.com/track/1xj4D82rjajEPBEaKgbITW) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [BLACK SHEEPIZEN \(THE 13th DISCIPLE\)](https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR) | 4:53 |
 | 15 | [Oku](https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE RETURN \(Eze Onyịkọ\)](https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH) | 3:29 |
-| 16 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
+| 16 | [ISALE EKO](https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ISALE EKO](https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF) | 2:20 |
 | 17 | [SWAGGA](https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [SWAGGA](https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F) | 3:10 |
 | 18 | [Gros Djai](https://open.spotify.com/track/62Fjtr5tv5Pw1GTUZzrNXH) | [TRK.](https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [2026 Golden Run](https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg) | 2:33 |
 | 19 | [Aimoye](https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Aimoye](https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf) | 2:14 |
 | 20 | [E No Easy](https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [E No Easy](https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j) | 3:10 |
-| 21 | [ISALE EKO](https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ISALE EKO](https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF) | 2:20 |
+| 21 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 22 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
-| 23 | [No Level](https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 4:00 |
-| 24 | [BARA BARA](https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [BARA BARA](https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV) | 3:35 |
+| 23 | [BARA BARA](https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [BARA BARA](https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV) | 3:35 |
+| 24 | [No Level](https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 4:00 |
 | 25 | [Major League](https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Major League](https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy) | 2:57 |
 | 26 | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [MINK SB \(feat\. Skepta, Lojay & Skillibeng\)](https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7) | 3:04 |
 | 27 | [INDUSTRY MACHINE](https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [INDUSTRY MACHINE](https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL) | 3:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Reason](https://open.spotify.com/track/7mfzkmVMPfnIz0zeynq7h2) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Tytanium](https://open.spotify.com/artist/2aE4O2If0FyUZwjBjN3hjX) | [Reason](https://open.spotify.com/album/1wrWSz0lA8otyYg85jRmli) | 2:01 |
 | 70 | [Diamonds](https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Contraband / Diamonds](https://open.spotify.com/album/50i6slAqu47pjV99lUJ6Nl) | 2:27 |
 
-Snapshot ID: `AAAAAA179/ambukNMBK1kw6yb4Ucg6tL`
+Snapshot ID: `AAAAAFKo6fwJWiGjEp6zDyUw2nZjVqAc`

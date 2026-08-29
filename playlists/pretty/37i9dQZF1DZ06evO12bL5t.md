@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,118 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,132 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 37 | [Ric Flair](https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:49 |
 | 38 | [Los Ultimos Son Los Primeros \(Remix\)](https://open.spotify.com/track/5vRcByVHzEc0Eejo4WzmLi) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [333](https://open.spotify.com/album/0kMlewzNPhiikgi0eL0ocz) | 3:27 |
 | 39 | [Pérdida De Tiempo](https://open.spotify.com/track/6h3vi3mEGJVoJBjtDY1mcp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [El Mundo Es Tuyo \(Inspired by Clika The Movie\)](https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY) | 3:43 |
-| 40 | [Corazón Cromado](https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:42 |
+| 40 | [Fabi](https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 4:28 |
 | 41 | [HASHERO](https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:58 |
 | 42 | [Seguimos Dando Lata](https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 2:25 |
 | 43 | [Quiero](https://open.spotify.com/track/1mREkl3xPnQESlXgfust3r) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [El Mundo Es Tuyo \(Inspired by Clika The Movie\)](https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY) | 3:52 |
-| 44 | [Fabi](https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 4:28 |
+| 44 | [Corazón Cromado](https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:42 |
 | 45 | [Amor Tirano](https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0) | [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Amor Tirano \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN) | 3:06 |
 | 46 | [Cupcake Factory](https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Va Pa' Largo](https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV) | 2:44 |
 | 47 | [Heisenbern](https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [Yo, Billetes y Damas](https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Yo, Billetes y Damas \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG) | 3:29 |
 | 50 | [Its Over](https://open.spotify.com/track/36H3mjns9xZJAYOwj5qsM9) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:43 |
 
-Snapshot ID: `ao4sgAAAAACmwvE8GxQYJDYX5yS+D0El`
+Snapshot ID: `ao9+AAAAAACtFFHnwRWlytEfIQIaKACx`

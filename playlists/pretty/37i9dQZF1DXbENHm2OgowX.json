@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 359940,
+  "num_followers": 360086,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqnycWYYKVxP9muHH9sjjF7ejq/",
+  "snapshot_id": "AAAAAIdAdqOyJ3fWeTpqaX4zPTlgjzNL",
   "tracks": [
     {
       "added_at": "2026-08-18 13:05:46",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "its never enough",
-        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
-      },
-      "artists": [
-        {
-          "name": "les",
-          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
-        }
-      ],
-      "duration_ms": 98196,
-      "name": "its never enough",
-      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "if i weren't so broken",
         "url": "https://open.spotify.com/album/44XFwJ1M6YFdSrX8JevCcM"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 185711,
       "name": "if i weren't so broken",
       "url": "https://open.spotify.com/track/58C1KFbKcG21zs76iuLzCc"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "its never enough",
+        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
+      },
+      "artists": [
+        {
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+        }
+      ],
+      "duration_ms": 98196,
+      "name": "its never enough",
+      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "The Importance of Birds",
-        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
-      },
-      "artists": [
-        {
-          "name": "Snorri Hallgr\u00edmsson",
-          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "From a Convenient Grass",
-      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Rainy morning",
         "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
@@ -975,6 +959,38 @@
       "duration_ms": 115500,
       "name": "Rainy morning",
       "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "The Importance of Birds",
+        "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "From a Convenient Grass",
+      "url": "https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "A Place To Sleep",
+        "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
+      },
+      "artists": [
+        {
+          "name": "air hunger",
+          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
+        }
+      ],
+      "duration_ms": 398265,
+      "name": "A Place To Sleep",
+      "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "A Place To Sleep",
-        "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
-      },
-      "artists": [
-        {
-          "name": "air hunger",
-          "url": "https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0"
-        }
-      ],
-      "duration_ms": 398265,
-      "name": "A Place To Sleep",
-      "url": "https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 289592,
+      "name": "Still Numbers",
+      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "For One Another",
         "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 230173,
       "name": "For One Another",
       "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        }
-      ],
-      "duration_ms": 289592,
-      "name": "Still Numbers",
-      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
+        "name": "a mother's daughter",
+        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
+      },
+      "artists": [
+        {
+          "name": "mieke?",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "a mother's daughter",
+      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
         "name": "Murken Hollow",
         "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "a mother's daughter",
-        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
+        "name": "Weighing Souls With Sand",
+        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
       },
       "artists": [
         {
-          "name": "mieke?",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+          "name": "The Angelic Process",
+          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
         }
       ],
-      "duration_ms": 168250,
-      "name": "a mother's daughter",
-      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
+      "duration_ms": 572189,
+      "name": "The Promise of Snakes",
+      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Weighing Souls With Sand",
-        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
+        "name": "4AM ambient version",
+        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
       },
       "artists": [
         {
-          "name": "The Angelic Process",
-          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
+          "name": "Late Era",
+          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
         }
       ],
-      "duration_ms": 572189,
-      "name": "The Promise of Snakes",
-      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
+      "duration_ms": 112826,
+      "name": "4AM ambient version",
+      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "4AM ambient version",
-        "url": "https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn"
-      },
-      "artists": [
-        {
-          "name": "Late Era",
-          "url": "https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN"
-        }
-      ],
-      "duration_ms": 112826,
-      "name": "4AM ambient version",
-      "url": "https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Vintage Well",
         "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Too Much Love",
-        "url": "https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 133591,
-      "name": "Too Much Love",
-      "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
         "name": "Take My Hand",
         "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 159972,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Too Much Love",
+        "url": "https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 133591,
+      "name": "Too Much Love",
+      "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1491,18 +1491,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Line Gone Cold (Deconstructed)",
-        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
+        "name": "now i know what i mean",
+        "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
       },
       "artists": [
         {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+          "name": "v\u00e5nda",
+          "url": "https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd"
+        },
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Line Gone Cold - Deconstructed",
-      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
+      "duration_ms": 121550,
+      "name": "now i know what i mean",
+      "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "now i know what i mean",
-        "url": "https://open.spotify.com/album/3UzIefoBUscTnbq6LSF820"
+        "name": "Line Gone Cold (Deconstructed)",
+        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
       },
       "artists": [
         {
-          "name": "v\u00e5nda",
-          "url": "https://open.spotify.com/artist/3w4GZ3FWiPgNCOXi4ZcCtd"
-        },
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
         }
       ],
-      "duration_ms": 121550,
-      "name": "now i know what i mean",
-      "url": "https://open.spotify.com/track/4KBlbJFkTmjIi44CnutnzG"
+      "duration_ms": 156500,
+      "name": "Line Gone Cold - Deconstructed",
+      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1579,18 +1579,22 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Bolted (Deconstructed)",
-        "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
+        "name": "Calm Current",
+        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
       },
       "artists": [
         {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+          "name": "Watasino",
+          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
+        },
+        {
+          "name": "Lonely Girl",
+          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
         }
       ],
-      "duration_ms": 91000,
-      "name": "Night Sculpture - Deconstructed",
-      "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
+      "duration_ms": 177230,
+      "name": "Calm Current",
+      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1623,38 +1627,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Calm Current",
-        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
+        "name": "Bolted (Deconstructed)",
+        "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
       },
       "artists": [
         {
-          "name": "Watasino",
-          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
-        },
-        {
-          "name": "Lonely Girl",
-          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
         }
       ],
-      "duration_ms": 177230,
-      "name": "Calm Current",
-      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
-        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
-      },
-      "artists": [
-        {
-          "name": "Gryphon Rue",
-          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "Squatter's Quarters",
-      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
+      "duration_ms": 91000,
+      "name": "Night Sculpture - Deconstructed",
+      "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1675,6 +1659,38 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
+        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
+      },
+      "artists": [
+        {
+          "name": "Gryphon Rue",
+          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "Squatter's Quarters",
+      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
+    },
+    {
+      "added_at": "2026-08-18 13:05:46",
+      "album": {
+        "name": "Hidden Lights",
+        "url": "https://open.spotify.com/album/6HvvoVTeDgAiKHAMjOPNVi"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rlund",
+          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Hidden Lights",
+      "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1703,18 +1719,18 @@
     {
       "added_at": "2026-08-18 13:05:46",
       "album": {
-        "name": "Hidden Lights",
-        "url": "https://open.spotify.com/album/6HvvoVTeDgAiKHAMjOPNVi"
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
       "artists": [
         {
-          "name": "\u00d8rlund",
-          "url": "https://open.spotify.com/artist/04GfF0rgqx1W3w7yaKsE6y"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Hidden Lights",
-      "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
+      "duration_ms": 489320,
+      "name": "Spectral",
+      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
       "added_at": "2026-08-18 13:05:46",
@@ -1731,22 +1747,6 @@
       "duration_ms": 176000,
       "name": "iel te guide (lumineuse arp v)",
       "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
-    },
-    {
-      "added_at": "2026-08-18 13:05:46",
-      "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "Spectral",
-      "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
     },
     {
       "added_at": "2026-08-18 13:05:46",

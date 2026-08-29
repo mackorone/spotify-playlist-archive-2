@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Hugo Tarres
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,022 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,041 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 98 | [SEDNO](https://open.spotify.com/track/6z3gs6fyDH5q6L2DIhs8Ep) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [SEDNO](https://open.spotify.com/album/2fosOQBymP2MYv9DntvI5x) | 4:35 |
 | 99 | [Przez dwa \- projekt Ogrody Śródmieście](https://open.spotify.com/track/59Ze7kSji4dWHFcvg5Lc5I) | [Jagoda Kret](https://open.spotify.com/artist/1crECa5RK4wfYX9QtHJtv3), [Robert Cichy](https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0) | [Przez dwa \- projekt Ogrody Śródmieście](https://open.spotify.com/album/2vdbQVXdRnjRohHGEBpdlW) | 3:28 |
 
-Snapshot ID: `AAAAAIat/x3LmrfZQXQEjXtwKHsjEW/q`
+Snapshot ID: `AAAAAIz+lVxu13g9JGS1X+VCpmrouMVi`

@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 387721,
+  "num_followers": 387798,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAD3uSfovPrqSzyFIdz3csVd",
+  "snapshot_id": "ao9+AAAAAADTBcsa7wqLUMWkpsi0tQmw",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Too Little, Too Late",
-      "url": "https://open.spotify.com/track/6zEg4KEgz6RGhCPmDKplYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/6zEg4KEgz6RGhCPmDKplYf"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Typical of Me EP",
-        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 155138,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/5zHLswJplBXyPstFSSMIOH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -195,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Typical of Me EP",
+        "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 155138,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5zHLswJplBXyPstFSSMIOH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Matter of Time: The Final Hour",
         "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
       },
@@ -207,6 +207,22 @@
       "duration_ms": 239333,
       "name": "Madwoman",
       "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "Second Best",
+      "url": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
     },
     {
       "added_at": null,
@@ -243,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "Second Best",
-      "url": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/2SEeyc2KS9DIjiJPCYtfgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "Letter To My 13 Year Old Self",
+      "url": "https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC"
     },
     {
       "added_at": null,
@@ -307,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "Letter To My 13 Year Old Self",
-      "url": "https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
     },
     {
       "added_at": null,
@@ -371,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How I Get",
         "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 219866,
       "name": "How I Get",
       "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
       "duration_ms": 145093,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/4KLZOU5V5XuEkvytSgyW6u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
     },
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Flew Away",
-        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
       },
       "artists": [
         {
           "name": "Laufey",
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 147346,
-      "name": "Love Flew Away",
-      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
+      "duration_ms": 198000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
     },
     {
       "added_at": null,
@@ -535,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Flew Away",
+        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 147346,
+      "name": "Love Flew Away",
+      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 171253,
       "name": "What Love Will Do to You",
       "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
     },
     {
       "added_at": null,

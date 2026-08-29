@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Bhai 4",
+        "url": "https://open.spotify.com/album/7wEfIiSD9AzkZStCTyNDpG"
+      },
+      "artists": [
+        {
+          "name": "Sawan Jhinjhania",
+          "url": "https://open.spotify.com/artist/4wdJaGrLfbWXtRVGxzDecF"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Bhai 4",
+      "url": "https://open.spotify.com/track/6rGgaRS0jslie0KkC24wJZ"
+    },
+    {
+      "album": {
         "name": "Bhaichara",
         "url": "https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb"
       },
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 146428,
       "name": "Big Plans",
       "url": "https://open.spotify.com/track/6oiR3TNT3vNRa9KbP7tTAe"
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 139248,
       "name": "Cash Cash",
       "url": "https://open.spotify.com/track/4M60JVJPqNzIkJy4V6Jfi1"
@@ -5261,6 +5279,28 @@
     },
     {
       "album": {
+        "name": "Big Plans",
+        "url": "https://open.spotify.com/album/54fEGQyEy3HEM2mimhBgjZ"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        },
+        {
+          "name": "Shevv",
+          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Gaddafi",
+      "url": "https://open.spotify.com/track/3dIHyzvaVuIDcHJ2W0WNy6"
+    },
+    {
+      "album": {
         "name": "Gadi 100 Pe",
         "url": "https://open.spotify.com/album/3qCAkZI6R7guUB8ts7pF1J"
       },
@@ -6366,6 +6406,24 @@
       "duration_ms": 272245,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1mGTLPsrLmDqElnb7urLNK"
+    },
+    {
+      "album": {
+        "name": "Hood Boss",
+        "url": "https://open.spotify.com/album/0WtwtkmCSqH7pgdU84hfpk"
+      },
+      "artists": [
+        {
+          "name": "Preet Sirohi",
+          "url": "https://open.spotify.com/artist/6tP3YhgR5qSDE6wsJH0SAV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168531,
+      "name": "Hood Boss",
+      "url": "https://open.spotify.com/track/1gaQ1ECyyDKNZtVE15SLNo"
     },
     {
       "album": {
@@ -7635,6 +7693,28 @@
     },
     {
       "album": {
+        "name": "Legacy Chapter 3, Vol. 1",
+        "url": "https://open.spotify.com/album/43ANTWe6V2gFsjGq7FwNv2"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/2n7bKYugtvomFwNTBBsyiv"
+        },
+        {
+          "name": "Kod.E",
+          "url": "https://open.spotify.com/artist/10vsL1yYQ2pq0Yi6D3PpwT"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178858,
+      "name": "Kaarnaame",
+      "url": "https://open.spotify.com/track/1gHnnYgbK1ZOjF3m5LcQ3J"
+    },
+    {
+      "album": {
         "name": "Kaash",
         "url": "https://open.spotify.com/album/2G3oGThvZUarvBY8ispxE9"
       },
@@ -8708,7 +8788,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 228658,
       "name": "Lobby",
       "url": "https://open.spotify.com/track/3iyEd62r4866VNGy6q0R6x"
@@ -10896,7 +10976,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 149387,
       "name": "Panamera",
       "url": "https://open.spotify.com/track/4dKbDy862O0C2ItBaJZovL"

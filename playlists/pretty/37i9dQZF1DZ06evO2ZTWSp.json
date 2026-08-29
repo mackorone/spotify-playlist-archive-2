@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 475249,
+  "num_followers": 475221,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABV/TQMiyih0IRStFrpD7Iw",
+  "snapshot_id": "ao9+AAAAAABZER6lijVnJLS36pvZV9JC",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fitness",
-        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 156284,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
+      "duration_ms": 165689,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+        "name": "Fitness",
+        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 165689,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
+      "duration_ms": 156284,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love in Real Life",
-        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 154297,
-      "name": "Love in Real Life",
-      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
+      "duration_ms": 121112,
+      "name": "Grrrls",
+      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+        "name": "Love in Real Life",
+        "url": "https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 121112,
-      "name": "Grrrls",
-      "url": "https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI"
+      "duration_ms": 154297,
+      "name": "Love in Real Life",
+      "url": "https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f"
     },
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 129170,
-      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
+      "duration_ms": 148490,
+      "name": "I Love You Bitch",
+      "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
     },
     {
       "added_at": null,
@@ -615,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 148490,
-      "name": "I Love You Bitch",
-      "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
+      "duration_ms": 129170,
+      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
     },
     {
       "added_at": null,

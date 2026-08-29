@@ -4,12 +4,12 @@
 
 > From India to MENA, these hits will make you dance.
 
-64 songs - 4 hr 0 min
+65 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3ZVKI8jix6PjEFx2xFBFhz) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7IfUPFe5MSwcAp2Vw8ohF5) | 0:00 | 2023-01-24 | 2023-11-28 |
-| [](https://open.spotify.com/track/5QyOjKJhR1iyF0DHQM2IvW) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/76g096RoXj4F5keLju1CHH) | 0:00 | 2024-03-13 |  |
+| [](https://open.spotify.com/track/5QyOjKJhR1iyF0DHQM2IvW) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/76g096RoXj4F5keLju1CHH) | 0:00 | 2024-03-13 | 2026-08-29 |
 | [3 Sneen](https://open.spotify.com/track/6ZddaoTZy0vqf4vTmqUbJs) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [3 Sneen](https://open.spotify.com/album/6IOqUxSF8Il0r0aXFTt4rt) | 3:01 | 2023-01-24 | 2024-05-03 |
 | [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 | 2023-01-24 | 2026-07-18 |
 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 | 2023-01-24 |  |
@@ -29,6 +29,7 @@
 | [Duniyaa \(From "Luka Chuppi"\)](https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Duniyaa \(From "Luka Chuppi"\)](https://open.spotify.com/album/5hzAIEMlQpsEGIQFvnFOQx) | 3:42 | 2023-01-24 |  |
 | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/track/5q6eZbatNFuToQdA7FGhj5) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Ek Chumma \(From "Housefull 4"\)](https://open.spotify.com/album/4J0PU4ST1vM11tK5bPuJOb) | 4:04 | 2023-01-24 |  |
 | [Enta Habibi](https://open.spotify.com/track/2EDlJWafWH5q8EKrlzfkrF) | [Rahim Pardesi](https://open.spotify.com/artist/1KapWiZY2dgci5Ual0ELOr) | [Enta Habibi](https://open.spotify.com/album/5ALjw6UamqxHFKCnhhVab6) | 3:01 | 2023-01-24 | 2025-05-17 |
+| [First Class](https://open.spotify.com/track/7bFx4We3iNjxmIxXBxou1G) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [First Class \(Kalank\)](https://open.spotify.com/album/6Guyv11bGAdIuHJ7Gkwt6p) | 4:36 | 2024-03-13 |  |
 | [First Class \(Kalank\)](https://open.spotify.com/track/2EvGNKagKtvFeZMLjOfgDP) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Kalank \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oGrVe1XTTji8TBQh5eJit) | 4:36 | 2023-11-27 | 2024-04-19 |
 | [Habibi](https://open.spotify.com/track/1oqb2byqglKfTr4TEvLtGZ) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 4:51 | 2023-01-24 |  |
 | [Hermosa](https://open.spotify.com/track/1zgld0Oet9q8u2mjrGCBNr) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [D Soldierz](https://open.spotify.com/artist/2iMLFmSsfgkQjyIg8Y6QVj) | [Hermosa](https://open.spotify.com/album/60V8eeJcMracw5CfeQtuge) | 3:23 | 2023-01-24 |  |

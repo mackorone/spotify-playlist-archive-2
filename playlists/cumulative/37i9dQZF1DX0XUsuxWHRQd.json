@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Rod Wave, Yung Miami and Dahi with Kendrick Lamar. ",
+  "description": "New music from Rod Wave,  Young Thug's YSL and Yung Miami.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -14400,6 +14400,40 @@
       "duration_ms": 169420,
       "name": "Eat It",
       "url": "https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW"
+    },
+    {
+      "album": {
+        "name": "Slime Language 3",
+        "url": "https://open.spotify.com/album/1WtVKnWze7lleZLJdkmlbB"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261280,
+      "name": "Eaters",
+      "url": "https://open.spotify.com/track/1aQZOezVcyTJ0niV0l3hTU"
     },
     {
       "album": {
@@ -35728,7 +35762,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 156000,
       "name": "Not Yours",
       "url": "https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt"
@@ -44508,6 +44542,36 @@
       "duration_ms": 224466,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt"
+    },
+    {
+      "album": {
+        "name": "Slime Language 3",
+        "url": "https://open.spotify.com/album/1WtVKnWze7lleZLJdkmlbB"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "1300SAINT",
+          "url": "https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv"
+        },
+        {
+          "name": "iyrus",
+          "url": "https://open.spotify.com/artist/0N8nXapCBAIztfpKiKwrCj"
+        }
+      ],
+      "date_added": "2026-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196333,
+      "name": "Say Dat",
+      "url": "https://open.spotify.com/track/4CDeoyvqhzDYcpzED8vnz3"
     },
     {
       "album": {
@@ -59586,7 +59650,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 173733,
       "name": "Ya Dig",
       "url": "https://open.spotify.com/track/2A94GZ5pVHLPcZuhx8cMbm"

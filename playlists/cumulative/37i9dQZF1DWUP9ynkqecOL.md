@@ -4,7 +4,7 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-128 songs - 9 hr 28 min
+129 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Sueño en Paraguay](https://open.spotify.com/track/4ftvb265vdOHzBQyyM0BrY) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/2X5Nk2XusVqGqtaYAU5QnO) | 3:53 | 2025-04-25 |  |
 | [Susurro \- Matanza Remix](https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Susurro \(Matanza Remix\)](https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD) | 5:02 | 2023-08-11 |  |
 | [Suéltalo](https://open.spotify.com/track/2GduMjneBXAVXwnwkgrxCh) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [AMA](https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI) | 4:11 | 2023-08-11 |  |
+| [Suéltalo! \- Brava Remix](https://open.spotify.com/track/5vGb04USQDuN106aQmJd10) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Brava](https://open.spotify.com/artist/22zotHh1lYempYbZUkXFdr) | [Suéltalo! \(Brava Remix\)](https://open.spotify.com/album/5lYK89z2mXkgdJ6vqGYdMA) | 4:20 | 2026-02-13 |  |
 | [Tac Tac Tac \- Joaquín Cornejo Remix](https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx) | [Espuma de Mar \~ remixes](https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0) | 3:44 | 2024-03-08 |  |
 | [Te digo Wayno](https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A) | [King Coya](https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy) | [Tierra de King Coya](https://open.spotify.com/album/6tfZSVov7Zl4Ky3PXZcT2j) | 4:36 | 2023-08-11 | 2024-04-19 |
 | [Te Quería \- Chancha Vía Circuito Remix](https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Te Quería \(Chancha Vía Circuito Remix\)](https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML) | 4:05 | 2023-08-11 |  |
@@ -131,7 +132,7 @@
 | [Uno Resuena](https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Orcas](https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3) | 5:35 | 2023-08-11 |  |
 | [Viajante](https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 3:52 | 2023-08-11 | 2024-04-19 |
 | [Viaje Astral](https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Viaje Astral](https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt) | 4:04 | 2024-07-19 | 2026-07-27 |
-| [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 | 2023-08-11 |  |
+| [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 | 2023-08-11 | 2026-08-29 |
 | [Zamba para Olvidar](https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Los Pasos Labrados](https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS) | 5:05 | 2023-08-11 |  |
 | [Zorzal](https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l) | 3:09 | 2024-03-29 |  |
 | [Zorzal](https://open.spotify.com/track/2V0t69gkStN7xlQYasKBWs) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/7q9qy6hx44b9sTXNygcEA6) | 3:09 | 2023-08-11 | 2023-11-06 |

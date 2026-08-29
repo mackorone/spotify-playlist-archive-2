@@ -1,12 +1,12 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 89174,
+  "num_followers": 89190,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABbAbnbWm3o6TeDGgMK5i+N5u3LH",
+  "snapshot_id": "AAAAAOcbHo33syRwrn9LkCuVy43vG3IO",
   "tracks": [
     {
       "added_at": "2026-06-25 22:00:27",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Vette Boeren (Radio Edit - Daani Remix)",
-        "url": "https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p"
-      },
-      "artists": [
-        {
-          "name": "Jorieke Sterken",
-          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
-        },
-        {
-          "name": "Daani",
-          "url": "https://open.spotify.com/artist/1oKitXDww7YYe1D78bGnzT"
-        }
-      ],
-      "duration_ms": 148235,
-      "name": "Vette Boeren - Radio Edit - Daani Remix",
-      "url": "https://open.spotify.com/track/3Nq60zJAV8QM3sJXa2pP4c"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
         "name": "In Mijn Bloed (feat. Eelco)",
         "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 210105,
       "name": "Adio Amore - Hardstyle Remix",
       "url": "https://open.spotify.com/track/4fe1Rx9n6MwzeSPCgcn5mK"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
+        "name": "Vette Boeren (Radio Edit - Daani Remix)",
+        "url": "https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p"
+      },
+      "artists": [
+        {
+          "name": "Jorieke Sterken",
+          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
+        },
+        {
+          "name": "Daani",
+          "url": "https://open.spotify.com/artist/1oKitXDww7YYe1D78bGnzT"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "Vette Boeren - Radio Edit - Daani Remix",
+      "url": "https://open.spotify.com/track/3Nq60zJAV8QM3sJXa2pP4c"
     },
     {
       "added_at": "2026-06-25 22:00:27",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Jij Bent De Zon",
-        "url": "https://open.spotify.com/album/7h5oFUXV8lWDQrc6rskoN2"
-      },
-      "artists": [
-        {
-          "name": "LARSTIG & GASDROP",
-          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
-        },
-        {
-          "name": "Sam in de Polder",
-          "url": "https://open.spotify.com/artist/164EdlAiWLc5Cen1TFqtG8"
-        }
-      ],
-      "duration_ms": 161600,
-      "name": "Jij Bent De Zon",
-      "url": "https://open.spotify.com/track/1LTofnrZSLviw5mK7lJLRI"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
         "name": "Ik Kom Eraan",
         "url": "https://open.spotify.com/album/0z6kz1hB1jRnz925cvMnJi"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 184453,
       "name": "Ik Kom Eraan",
       "url": "https://open.spotify.com/track/4GbPNU45NmY6jzkR2Hq6dU"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
+        "name": "Jij Bent De Zon",
+        "url": "https://open.spotify.com/album/7h5oFUXV8lWDQrc6rskoN2"
+      },
+      "artists": [
+        {
+          "name": "LARSTIG & GASDROP",
+          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
+        },
+        {
+          "name": "Sam in de Polder",
+          "url": "https://open.spotify.com/artist/164EdlAiWLc5Cen1TFqtG8"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Jij Bent De Zon",
+      "url": "https://open.spotify.com/track/1LTofnrZSLviw5mK7lJLRI"
     },
     {
       "added_at": "2026-06-25 22:00:27",

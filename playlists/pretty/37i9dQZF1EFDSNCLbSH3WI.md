@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260 likes - 156 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 272 likes - 156 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 56 | [Sheezus](https://open.spotify.com/track/7ExcclQypkEukgHqC40JNp) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/4NX5W3fZmCOzXoLTKO1tIb) | 3:54 |
 | 57 | [BULLIES](https://open.spotify.com/track/5Ow3QqHeeA78Q3nSnbUbkL) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 3:14 |
 | 58 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
-| 59 | [Lucky Me](https://open.spotify.com/track/6wVnQMRXd1z2iPEo24f9db) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 4:08 |
-| 60 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
+| 59 | [All the Way Down](https://open.spotify.com/track/3GZpSLgW7eaPzbJUFD7jfL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy) | 4:28 |
+| 60 | [Lucky Me](https://open.spotify.com/track/6wVnQMRXd1z2iPEo24f9db) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 4:08 |
 | 61 | [MISS ME?](https://open.spotify.com/track/2eRMWLSNBS6yvxNcEbstRJ) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:06 |
 | 62 | [Cruisin' \(feat\. Yeat\)](https://open.spotify.com/track/1CJO1NdPdtnkJBrEx6As65) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:58 |
 | 63 | [Me Now](https://open.spotify.com/track/5viCJ7GSQxVWUAPBVoV7IL) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Imperial](https://open.spotify.com/album/42fyKPanos0Q3woi848ktg) | 4:39 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 155 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 156 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AcawKAAAAABIoLGq5+N83zaRgE0rIs9i`
+Snapshot ID: `Aca1FAAAAABxKZG7H2vUgYESY7FF2OzL`

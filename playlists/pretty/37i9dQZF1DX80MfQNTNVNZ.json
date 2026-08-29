@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 219190,
+  "num_followers": 219219,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO6KIN8cZMOOKBRMndnJQKojRdsc",
+  "snapshot_id": "AAAAADjj/c2QVh1JdSDTi+DcvGWMCFG6",
   "tracks": [
     {
       "added_at": "2026-08-07 11:30:18",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-08-07 11:30:18",
       "album": {
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
+    },
+    {
+      "added_at": "2026-08-07 11:30:18",
+      "album": {
         "name": "Lose My Cool (Remixes)",
         "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 257301,
       "name": "Lose My Cool - Franc Moody Remix",
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
-    },
-    {
-      "added_at": "2026-08-07 11:30:18",
-      "album": {
-        "name": "We Go Again",
-        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 185715,
-      "name": "Charge It",
-      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
     },
     {
       "added_at": "2026-08-07 11:30:18",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-08-07 11:30:18",
       "album": {
+        "name": "There is no Neil Frances",
+        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
+    },
+    {
+      "added_at": "2026-08-07 11:30:18",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 252680,
       "name": "Running",
       "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu"
-    },
-    {
-      "added_at": "2026-08-07 11:30:18",
-      "album": {
-        "name": "There is no Neil Frances",
-        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "dancing",
-      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
       "added_at": "2026-08-07 11:30:18",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-08-07 11:30:18",
       "album": {
-        "name": "LOVE, LOVE, LOVE",
-        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 242287,
-      "name": "LOVE, LOVE, LOVE",
-      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
-    },
-    {
-      "added_at": "2026-08-07 11:30:18",
-      "album": {
         "name": "Red Moon",
         "url": "https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 212483,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/44tb4TdFVliafU17EQg28J"
+    },
+    {
+      "added_at": "2026-08-07 11:30:18",
+      "album": {
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 242287,
+      "name": "LOVE, LOVE, LOVE",
+      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
     },
     {
       "added_at": "2026-08-07 11:30:18",

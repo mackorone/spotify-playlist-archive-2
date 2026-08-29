@@ -4,7 +4,7 @@
 
 > Samurai Jay in cover della playlist con tutte le hit 🔥
 
-361 songs - 18 hr 48 min
+362 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [BOOSTER](https://open.spotify.com/track/62UEDjQEgBx7GDKDiSoz3i) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv) | 3:15 | 2025-01-30 | 2025-05-23 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-12-09 | 2025-06-13 |
 | [Bottiglie Vuote \(feat\. Max Pezzali\)](https://open.spotify.com/track/6nQFX6iV1hy2gZDroZbFTF) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS), [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [Bottiglie Vuote \(feat\. Max Pezzali\)](https://open.spotify.com/album/2xS7zxsklN6TULjQWfnDUc) | 3:14 | 2025-04-10 | 2026-04-10 |
+| [Bugie](https://open.spotify.com/track/25IdZoXhYBwcKtqh31F8cu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Bugie](https://open.spotify.com/album/6QAsv9txdt2gdOKQ7OmkEG) | 3:13 | 2026-08-28 |  |
 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 | 2024-10-17 | 2026-02-13 |
 | [Buon Vento](https://open.spotify.com/track/5vdmfjy5CVrV0xYEcO2f4Q) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Buon Vento](https://open.spotify.com/album/06ge45XUS63W0ENu9QjjQN) | 2:55 | 2026-05-28 |  |
 | [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 | 2025-01-09 | 2025-01-25 |
@@ -245,7 +246,7 @@
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-12 | 2025-02-28 |
 | [Nottetempo \(feat\. Giorgio Poi\)](https://open.spotify.com/track/2ALrq527Q49iISVve4PEkn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 | 2025-04-03 | 2025-06-20 |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-16 |  |
-| [Obsessed](https://open.spotify.com/track/3CaLAEZ5u8PEiylYQVIv10) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:00 | 2026-04-23 |  |
+| [Obsessed](https://open.spotify.com/track/3CaLAEZ5u8PEiylYQVIv10) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:00 | 2026-04-23 | 2026-08-29 |
 | [Ogni Male](https://open.spotify.com/track/28v57vssZ488EEIBivY3NF) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape Vol\. 2](https://open.spotify.com/album/4BmvCSV4ZqsnyAcQQQnv0S) | 3:27 | 2026-08-27 |  |
 | [Oh Mamma Mia \(feat\. Rose Villain\)](https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:48 | 2025-01-10 | 2025-12-12 |
 | [ON FIRE](https://open.spotify.com/track/3fMv8yD3CR4KuOEddovifJ) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 3:21 | 2025-05-09 | 2025-05-30 |

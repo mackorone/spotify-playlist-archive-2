@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,388 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,386 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 26 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
 | 27 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 |
 | 28 | [KARPE4LIFE](https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 7](https://open.spotify.com/album/2fzl4ljcjIfXZHXfiz3BlL) | 2:46 |
-| 29 | [Fri](https://open.spotify.com/track/5yuzzYiP9DZru2es7nTolF) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [FRI](https://open.spotify.com/album/2BKqivqcfDmcWWQGSxI9LA) | 3:05 |
+| 29 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
 | 30 | [Close My Eyes](https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Fading Forward](https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7) | 3:06 |
-| 31 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 |
+| 31 | [Fri](https://open.spotify.com/track/5yuzzYiP9DZru2es7nTolF) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [FRI](https://open.spotify.com/album/2BKqivqcfDmcWWQGSxI9LA) | 3:05 |
 | 32 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
 | 33 | [Paw Patrol](https://open.spotify.com/track/2XnbiDy4iVlRaoEw0Swnnk) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 1](https://open.spotify.com/album/1D0KuQFJ34HPuWC0ndW4Pn) | 3:31 |
 | 34 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 56 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 |
 | 57 | [Love Freely](https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs) | 3:52 |
 | 58 | [Tilgi meg](https://open.spotify.com/track/63vUyufO95aS79JbSStPQ3) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tilgi meg](https://open.spotify.com/album/0PeseGCutFbpKCQdW6Gbo0) | 4:24 |
-| 59 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 |
-| 60 | [American Wedding](https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [American Wedding](https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G) | 3:11 |
+| 59 | [American Wedding](https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [American Wedding](https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G) | 3:11 |
+| 60 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 |
 | 61 | [Hjemme](https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Hjemme](https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr) | 3:56 |
 | 62 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 |
 | 63 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 68 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
 | 69 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 |
 | 70 | [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 |
-| 71 | [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 |
-| 72 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
+| 71 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
+| 72 | [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 |
 | 73 | [Skyfri himmel](https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Skyfri himmel](https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN) | 3:45 |
-| 74 | [MS\. SEROTONIN](https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [MS\. SEROTONIN](https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP) | 2:32 |
-| 75 | [Oppe på månen](https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oppe på månen](https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl) | 3:35 |
-| 76 | [Alt man tenker på](https://open.spotify.com/track/1DPL5Rw5K7D4VyLFMqfVp7) | [Paul Fjell](https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7) | [Alt man tenker på](https://open.spotify.com/album/35y5zwVgFUL32EnG2J4xA5) | 3:46 |
+| 74 | [Alt man tenker på](https://open.spotify.com/track/1DPL5Rw5K7D4VyLFMqfVp7) | [Paul Fjell](https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7) | [Alt man tenker på](https://open.spotify.com/album/35y5zwVgFUL32EnG2J4xA5) | 3:46 |
+| 75 | [MS\. SEROTONIN](https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [MS\. SEROTONIN](https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP) | 2:32 |
+| 76 | [Oppe på månen](https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oppe på månen](https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl) | 3:35 |
 | 77 | [Gro Harlem Brundtland](https://open.spotify.com/track/4I1wa2UEneXOOwS25Sy5p7) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Gro Harlem Brundtland](https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN) | 2:48 |
-| 78 | [Oslo / Karachi / Paris](https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 2](https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7) | 4:09 |
-| 79 | [Finaste så finns](https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Finaste så finns](https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1) | 3:10 |
+| 78 | [Finaste så finns](https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Finaste så finns](https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1) | 3:10 |
+| 79 | [Oslo / Karachi / Paris](https://open.spotify.com/track/29Fy7Rgy9ccRSpxBd1mdtD) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 2](https://open.spotify.com/album/1afayzglEQIQdZxnR6Hcp7) | 4:09 |
 | 80 | [Fargepalett](https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Fargepalett](https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6) | 2:21 |
 | 81 | [THEO](https://open.spotify.com/track/6eD4ndwM2co4RBDFjWhkye) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [THEO](https://open.spotify.com/album/3rrqMxbSQS4H2wWY9uDHzu) | 2:27 |
 | 82 | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8) | 2:15 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 84 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
 | 85 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
 
-Snapshot ID: `AAAAAJ7MUjWXeHuJtEsyaXj+f3SkI28O`
+Snapshot ID: `AAAAAJZdbL8CzN4pJyc4mnZMZyL9FuUw`

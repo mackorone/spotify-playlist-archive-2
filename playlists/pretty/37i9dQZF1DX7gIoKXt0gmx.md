@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,716,657 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,716,540 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 33 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
 | 34 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
 | 35 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 |
-| 36 | [Poison](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Poison](https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD) | 3:32 |
-| 37 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
+| 36 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 |
+| 37 | [Poison](https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Poison](https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD) | 3:32 |
 | 38 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
 | 39 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
 | 40 | [Burn](https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:51 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 95 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
 | 96 | [Stuck On You](https://open.spotify.com/track/53Nwlr3hxsGsu9eWU5EYjq) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 3:25 |
 | 97 | [BOTHER ME \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WORLDS APART\*](https://open.spotify.com/album/37kTdbXevOm7O3D5MOBofw) | 2:26 |
-| 98 | [Don't Want A Love Song](https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don't Want A Love Song](https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe) | 3:03 |
-| 99 | [Don't Leave Me](https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Cool \- R&B](https://open.spotify.com/album/421reEXYaXldvMHmkWzrvH) | 5:10 |
+| 98 | [Don't Leave Me](https://open.spotify.com/track/6CtTSC4APeyjYayZBZxAQj) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Cool \- R&B](https://open.spotify.com/album/421reEXYaXldvMHmkWzrvH) | 5:10 |
+| 99 | [Don't Want A Love Song](https://open.spotify.com/track/7LTovppsXm7ncfRF0lA6q8) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Don't Want A Love Song](https://open.spotify.com/album/3s5TTh0Xv3hEthrOKpRZTe) | 3:03 |
 | 100 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 
-Snapshot ID: `AAAAABc6QpwFU2N2xRNtZXYLh5Ie5o3B`
+Snapshot ID: `AAAAAFrJnTNTfpo473H3Kg+5yydu+aNh`

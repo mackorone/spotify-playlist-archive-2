@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 
 > This is Lola Young\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,424 likes - 46 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,449 likes - 46 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 45 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/7d25e7sGPoQ0orHhKroTu3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/5P4MdgUXgsy3NWb3oi6XJT) | 4:51 |
 | 46 | [THE MAN](https://open.spotify.com/track/02xb460RUQTPNJsV726RZS) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:19 |
 
-Snapshot ID: `ao4sgAAAAAAfGx9ZAs/qdq23nAzJa/8Q`
+Snapshot ID: `ao9+AAAAAADvNzFB1ITY7Y7hP7nRDAOT`

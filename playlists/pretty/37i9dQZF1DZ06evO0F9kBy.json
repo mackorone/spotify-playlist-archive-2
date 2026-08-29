@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27807,
+  "num_followers": 27808,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAC5IlUIEV+oNOCsZ7KG/Zxd",
+  "snapshot_id": "ao9+AAAAAAACTrLBKbjV2lBuAreZ/NJt",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taste And See (The Love Of Christ)",
-        "url": "https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH"
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
       },
       "artists": [
-        {
-          "name": "Bryan Fowler",
-          "url": "https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc"
-        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 272149,
-      "name": "Taste And See (The Love Of Christ)",
-      "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
+      "duration_ms": 180320,
+      "name": "All the People Said Amen",
+      "url": "https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct"
     },
     {
       "added_at": null,
@@ -311,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+        "name": "Taste And See (The Love Of Christ)",
+        "url": "https://open.spotify.com/album/51eWUtm4FF7SWkIoHq45nH"
       },
       "artists": [
+        {
+          "name": "Bryan Fowler",
+          "url": "https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc"
+        },
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 180320,
-      "name": "All the People Said Amen",
-      "url": "https://open.spotify.com/track/31HveB33DoO9x7P3UvkRct"
+      "duration_ms": 272149,
+      "name": "Taste And See (The Love Of Christ)",
+      "url": "https://open.spotify.com/track/7MjQIKDBaG5BJc9EeIhAbD"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 246627,
-      "name": "No Body (feat. Matt Maher)",
-      "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God, Turn It Around",
         "url": "https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 280086,
       "name": "God, Turn It Around (feat. Matt Maher) - Live Version",
       "url": "https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Out of the Way of Your Own Heart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 246627,
+      "name": "No Body (feat. Matt Maher)",
+      "url": "https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus, Firm Foundation: Hymns of Worship",
+        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Holy, Holy, Holy (God With Us)",
+      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive & Breathing",
         "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
@@ -891,38 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus, Firm Foundation: Hymns of Worship",
-        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Holy, Holy, Holy (God With Us)",
-      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Empty And Beautiful",
-        "url": "https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "As It Is In Heaven",
-      "url": "https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
         "url": "https://open.spotify.com/album/2LeVGsWiMyhdTpiNctU5LZ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 157615,
       "name": "The Joy of Jesus (feat. Matt Maher, Mac Powell & Ellie Holcomb) (feat. Matt Maher, Mac Powell & Ellie Holcomb)",
       "url": "https://open.spotify.com/track/39fnCT2BL54nizLunoGOzQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empty And Beautiful",
+        "url": "https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "As It Is In Heaven",
+      "url": "https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf"
     },
     {
       "added_at": null,

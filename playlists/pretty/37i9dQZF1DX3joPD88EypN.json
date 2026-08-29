@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 100505,
+  "num_followers": 100530,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLzyfVfihFAkOeRh7VtfLfZhdTD",
+  "snapshot_id": "AAAAAGU7nplHqgKTgn3aP1FQagKSnSsB",
   "tracks": [
     {
       "added_at": "2026-01-30 09:24:24",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "Eclipse Cycles",
+        "url": "https://open.spotify.com/album/5vNfaZuBWbxsEOcX07Ugsf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 302133,
+      "name": "Eclipse Cycles",
+      "url": "https://open.spotify.com/track/190Twu1cnxdSZfn4xtvDYY"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
         "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 514933,
       "name": "Red Hook - Live",
       "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Eclipse Cycles",
-        "url": "https://open.spotify.com/album/5vNfaZuBWbxsEOcX07Ugsf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 302133,
-      "name": "Eclipse Cycles",
-      "url": "https://open.spotify.com/track/190Twu1cnxdSZfn4xtvDYY"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Adam",
-        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 498112,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 281855,
       "name": "Silence",
       "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        }
+      ],
+      "duration_ms": 498112,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "How Could It Be?",
-        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
       },
       "artists": [
         {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Albatrosh",
+          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
         }
       ],
-      "duration_ms": 285773,
-      "name": "How Could It Be?",
-      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+      "duration_ms": 449893,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1395,26 +1399,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
-      },
-      "artists": [
-        {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
-        },
-        {
-          "name": "Albatrosh",
-          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
-        }
-      ],
-      "duration_ms": 449893,
-      "name": "Seaweed",
-      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 269258,
       "name": "I Kirken",
       "url": "https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "How Could It Be?",
+        "url": "https://open.spotify.com/album/1qNMQ0qMTQACz9LLmT6rOk"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 285773,
+      "name": "How Could It Be?",
+      "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Sanctus",
         "url": "https://open.spotify.com/album/4bnFbID19CQHZDXyr61Qr9"
       },
@@ -1499,22 +1483,6 @@
       "duration_ms": 308173,
       "name": "Sanctus",
       "url": "https://open.spotify.com/track/3spHdmdcQ1Qs3XnyGNZEYA"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "1905",
-        "url": "https://open.spotify.com/album/4TDH0V9wovLfjn88nNW7En"
-      },
-      "artists": [
-        {
-          "name": "Aki Rissanen",
-          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "1905",
-      "url": "https://open.spotify.com/track/1iFEtO5D8YHIEJj8xkWiX2"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1543,18 +1511,34 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Komposition VII",
-        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
+        "name": "1905",
+        "url": "https://open.spotify.com/album/4TDH0V9wovLfjn88nNW7En"
       },
       "artists": [
         {
-          "name": "Max Agnas",
-          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
+          "name": "Aki Rissanen",
+          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
         }
       ],
-      "duration_ms": 473721,
-      "name": "L\u00e5ngsamt",
-      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
+      "duration_ms": 167000,
+      "name": "1905",
+      "url": "https://open.spotify.com/track/1iFEtO5D8YHIEJj8xkWiX2"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1575,6 +1559,22 @@
       "duration_ms": 212600,
       "name": "P\u00e5 havets bunn",
       "url": "https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Komposition VII",
+        "url": "https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM"
+      },
+      "artists": [
+        {
+          "name": "Max Agnas",
+          "url": "https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA"
+        }
+      ],
+      "duration_ms": 473721,
+      "name": "L\u00e5ngsamt",
+      "url": "https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1607,22 +1607,6 @@
       "duration_ms": 196868,
       "name": "Asthma Breath",
       "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "Imaginary Mountains",
-        "url": "https://open.spotify.com/album/7ake1pGrIMuvCr3kLpaqa7"
-      },
-      "artists": [
-        {
-          "name": "Aki Rissanen",
-          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Iki Keklik",
-      "url": "https://open.spotify.com/track/3CzVMvOgYokrIjPBGlbhDU"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
+        "name": "Imaginary Mountains",
+        "url": "https://open.spotify.com/album/7ake1pGrIMuvCr3kLpaqa7"
+      },
+      "artists": [
+        {
+          "name": "Aki Rissanen",
+          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Iki Keklik",
+      "url": "https://open.spotify.com/track/3CzVMvOgYokrIjPBGlbhDU"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
         "name": "One Kiss Too Many",
         "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
       },
@@ -1683,6 +1683,46 @@
       "duration_ms": 200344,
       "name": "Slaraffenland",
       "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
+      },
+      "artists": [
+        {
+          "name": "Alexi Tuomarila",
+          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
+        }
+      ],
+      "duration_ms": 380789,
+      "name": "August",
+      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "When shadows dance",
+        "url": "https://open.spotify.com/album/4SLMUd9aFAzqP4jCSL6XNy"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "When shadows dance",
+      "url": "https://open.spotify.com/track/6XZ5SLSJ5G9ZgDYZnFIULd"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1719,46 +1759,6 @@
       "duration_ms": 299333,
       "name": "Svevende",
       "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "When shadows dance",
-        "url": "https://open.spotify.com/album/4SLMUd9aFAzqP4jCSL6XNy"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "When shadows dance",
-      "url": "https://open.spotify.com/track/6XZ5SLSJ5G9ZgDYZnFIULd"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1"
-      },
-      "artists": [
-        {
-          "name": "Alexi Tuomarila",
-          "url": "https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5"
-        }
-      ],
-      "duration_ms": 380789,
-      "name": "August",
-      "url": "https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Wood Circles",
-        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
-      },
-      "artists": [
-        {
-          "name": "Thommy Andersson",
-          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
-        }
-      ],
-      "duration_ms": 323176,
-      "name": "Fanfar",
-      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Rainbow Session",
         "url": "https://open.spotify.com/album/5MHtrcpYvw5zqwOGBvYe9p"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 294760,
       "name": "Slow Fox",
       "url": "https://open.spotify.com/track/3SfRQdSlVB3hIppPaALL1I"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Wood Circles",
+        "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
+      },
+      "artists": [
+        {
+          "name": "Thommy Andersson",
+          "url": "https://open.spotify.com/artist/6nEynqiaDe09T3BFfnxVf6"
+        }
+      ],
+      "duration_ms": 323176,
+      "name": "Fanfar",
+      "url": "https://open.spotify.com/track/5XolAVRmGT9ixbJwtqdePB"
     },
     {
       "added_at": "2026-01-30 09:24:24",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2026-01-30 09:24:24",
       "album": {
-        "name": "Magnetic Works 1993-2001",
-        "url": "https://open.spotify.com/album/192zBMK5LcmfClcUSaL23L"
-      },
-      "artists": [
-        {
-          "name": "Jon Balke",
-          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
-        },
-        {
-          "name": "Magnetic North Orchestra",
-          "url": "https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "Flying Thing - Remastered",
-      "url": "https://open.spotify.com/track/5at19MkpceLzENXMFXX0tO"
-    },
-    {
-      "added_at": "2026-01-30 09:24:24",
-      "album": {
         "name": "Painting Music",
         "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2026-01-30 09:24:24",
+      "album": {
+        "name": "Magnetic Works 1993-2001",
+        "url": "https://open.spotify.com/album/192zBMK5LcmfClcUSaL23L"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Magnetic North Orchestra",
+          "url": "https://open.spotify.com/artist/0Rw2W55x8mWQ7o3I1yAXZh"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "Flying Thing - Remastered",
+      "url": "https://open.spotify.com/track/5at19MkpceLzENXMFXX0tO"
     },
     {
       "added_at": "2026-01-30 09:24:24",

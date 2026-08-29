@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,350 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,357 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 13 | [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 |
 | 14 | [풀어](https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:31 |
 | 15 | [NO ONE](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:14 |
-| 16 | [Sometimes](https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 4:23 |
+| 16 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 |
 | 17 | [Only Look At Me \(나만 바라봐\)](https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar International](https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de) | 4:00 |
-| 18 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 |
+| 18 | [Sometimes](https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 4:23 |
 | 19 | [I'm Not Sorry](https://open.spotify.com/track/7AoK7YuZ5sQYtPofTFElIE) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [I'm Not Sorry](https://open.spotify.com/album/59CGYWCNXuLHADvHwBHMhv) | 3:29 |
 | 20 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 |
 | 21 | [Shut Up & Groove](https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:19 |
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 28 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
 | 29 | [1, 2, 3, 4](https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [1,2,3,4](https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz) | 3:34 |
 | 30 | [IF I WERE YOU](https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:30 |
-| 31 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
-| 32 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
+| 31 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
+| 32 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
 | 33 | [Good Bye Sadness, Hello Happiness](https://open.spotify.com/track/5SZAcEsbb9HrVTsu5kwWMT) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:38 |
 | 34 | [언젠가는](https://open.spotify.com/track/3EpqTpSWhkQDv5gTZddp1W) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 3:59 |
 | 35 | [Like Yesterday](https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp) | [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [2nd](https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW) | 4:09 |
-| 36 | [My Story](https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:38 |
-| 37 | [안되나요](https://open.spotify.com/track/5njOfvhH1y5CxvdXgUXgTC) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:30 |
+| 36 | [안되나요](https://open.spotify.com/track/5njOfvhH1y5CxvdXgUXgTC) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:30 |
+| 37 | [My Story](https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:38 |
 | 38 | [It's Over](https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:54 |
 | 39 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
 | 40 | [Bye Bye Bye](https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Hwayobi](https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS) | 3:04 |
-| 41 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
-| 42 | [If You Comeback](https://open.spotify.com/track/3XO4hgrYpLYA5z8n9UCuiH) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:48 |
+| 41 | [If You Comeback](https://open.spotify.com/track/3XO4hgrYpLYA5z8n9UCuiH) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:48 |
+| 42 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
 | 43 | [I hope It would be that way now](https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Gift](https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB) | 4:57 |
 | 44 | [With Me](https://open.spotify.com/track/0Ss0kgHzdnZvLRaJD3UPJM) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:31 |
 | 45 | [Break Away](https://open.spotify.com/track/4qzqqJaELifylL0VJU55mb) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 49 | [불치병](https://open.spotify.com/track/6h13tMy23cM8rzmsaNgTI4) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:42 |
 | 50 | [여자](https://open.spotify.com/track/3KhndYAkaaMKRXjM0h0h6y) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:38 |
 
-Snapshot ID: `AAAAABIqb+uBfU81HxKBy+kCtLMJpZ2t`
+Snapshot ID: `AAAAAJMCmQ1om2B6lYVMzu3RoCvg+To7`

@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 602467,
+  "num_followers": 602604,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ89KRF3VE+x55xZ6i+IIcVoAsHW",
+  "snapshot_id": "AAAAAMs/DpC43mUZ3ynOwibnI3L8G/6T",
   "tracks": [
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Nivel",
-        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Perdoname Si Llego Tarde",
-      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "T\u00f3cate Tu Misma (feat. Bad Bunny)",
         "url": "https://open.spotify.com/album/0k7zDatOV2O7XlQSGeH3s1"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 252373,
       "name": "T\u00f3cate Tu Misma (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/1GpBcCRShuLTp4gz1Udc8n"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Nivel",
+        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Perdoname Si Llego Tarde",
+      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Tres Rosas",
+        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Tres Rosas",
+      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Jimmy Fallon (Remix)",
         "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 242376,
       "name": "Jimmy Fallon - Remix",
       "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Tres Rosas",
-        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Tres Rosas",
-      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
     },
     {
       "added_at": "2026-08-11 14:10:49",

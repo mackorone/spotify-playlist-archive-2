@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,738 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,743 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 24 | [Saudades Do Tempo \- Ao Vivo Em São Paulo](https://open.spotify.com/track/4CROpP2nRsHjCWUxJ7Ewpy) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/5Wrwotv3hfJp1nDAoQgRzZ) | 4:56 |
 | 25 | [Firmamento \(Wrong Girl to Play With\) \[Acústico\]](https://open.spotify.com/track/5ML1D7QsoupxcvUJgf7eD1) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ) | [Acústico Cidade Negra](https://open.spotify.com/album/2p9ayxfFobzpbtnF8mJyUL) | 3:42 |
 | 26 | [Serenou/Nosso Mundo \- Acoustic Sessions](https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn) | [Yeti Reggae Club](https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs) | [Serenou/Nosso Mundo \(Acoustic Sessions\)](https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ) | 3:41 |
-| 27 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
-| 28 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 |
+| 27 | [Roots Dance](https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Só Pra Brilhar](https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY) | 3:33 |
+| 28 | [Roots, Rock, Reggae \- Live](https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Bob Marley 75th Celebration \(Pt.1\) \[Live\]](https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6) | 4:52 |
 | 29 | [De Tanto Sol \(Acústico\)](https://open.spotify.com/track/4zOn4Xw4QIXZkFME9IIr5R) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [De Tanto Sol \(Acústico\)](https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n) | 3:16 |
 | 30 | [Não basta ser rasta \- Ao vivo](https://open.spotify.com/track/15jmXHjWm3K2yvgVqSEcLe) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 5:20 |
 | 31 | [Stepping Out \- Live](https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Rastafari Centennial: Live In Paris \- Elysee Montmartre](https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd) | 5:58 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 50 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |
 | 51 | [Praia do Segredo \- Acústico](https://open.spotify.com/track/6bPoYE4I0M8oODWP4DUIsZ) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Praia do Segredo](https://open.spotify.com/album/5Io826GC8cgB006FtK6X9C) | 2:54 |
 | 52 | [Nesses Olhos \- Ao Vivo](https://open.spotify.com/track/5BeOmmGoxAvDus9Ozpc0MI) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:44 |
-| 53 | [Aurora Boreal \- Ao Vivo](https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ao Vivo em SP](https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA) | 4:03 |
-| 54 | [Morena \(Acoustic Version\)](https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Morena \(Acoustic Version\)](https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h) | 2:46 |
+| 53 | [Medley: Árvore do Reggae / Música de Jah / Ame Sua Missão \- Ao Vivo](https://open.spotify.com/track/4bSV38EAZHHv8KdAwFbYt5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Ao Vivo No República do Reggae](https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ) | 4:47 |
+| 54 | [Aurora Boreal \- Ao Vivo](https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ao Vivo em SP](https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA) | 4:03 |
 | 55 | [Andei Só \- Ao Vivo](https://open.spotify.com/track/754w4HeOR2R6Si4UmQB8tv) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 4:23 |
-| 56 | [Medley: Árvore do Reggae / Música de Jah / Ame Sua Missão \- Ao Vivo](https://open.spotify.com/track/4bSV38EAZHHv8KdAwFbYt5) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Ao Vivo No República do Reggae](https://open.spotify.com/album/2DuoPecCOczeOZQ7EXCdMQ) | 4:47 |
+| 56 | [Morena \(Acoustic Version\)](https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Morena \(Acoustic Version\)](https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h) | 2:46 |
 | 57 | [Onda do Arraial \- Ao Vivo](https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:25 |
 | 58 | [Lunar \(Acústico\)](https://open.spotify.com/track/2lPrHZNBWAWPpoWuakumNP) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(Acústico\)](https://open.spotify.com/album/6JxiS92qZJ409A1qe7O9cW) | 4:00 |
 | 59 | [Rosa Flor \- Acústica](https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Rosa Flor \(Acústica\)](https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |
 | 75 | [Vá Viver \- Acústico / Ao Vivo](https://open.spotify.com/track/6TuiSfDGYyVZ7C5fxKOszw) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:25 |
 
-Snapshot ID: `AAAAAAKxuezte8ilebF0fsxKqmwdrpiI`
+Snapshot ID: `AAAAADd9rdmFIH5SLMv7AP7CxHc2y57V`

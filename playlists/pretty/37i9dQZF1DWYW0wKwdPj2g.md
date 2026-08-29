@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,873 likes - 103 songs - 15 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,925 likes - 103 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 40 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 |
 | 41 | [Messiah \- Live](https://open.spotify.com/track/2BlNluQsQdl0OWmwXNl39u) | [Kgotso](https://open.spotify.com/artist/6OouFsAAeqVai70CLp8v0H) | [New Dawn \(Live\)](https://open.spotify.com/album/6qFzKdY5yFOapqLkrn8Mge) | 4:06 |
 | 42 | [This Kind God Alujo \- Live](https://open.spotify.com/track/02dKUrS82pTtmcPaASGngT) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [David Kida](https://open.spotify.com/artist/50cYD84szsuxLcCjTfTDZ7), [Ola Samuel](https://open.spotify.com/artist/0SrrbuWNAn0xj5SIk8TwTm) | [This Kind God Alujo \(Live\)](https://open.spotify.com/album/5Al2abdve5LM6NGstofKB1) | 4:04 |
-| 43 | [Never Fail \- \(Live\)](https://open.spotify.com/track/0oKBjN1FWo93QfGSlMRYWr) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail \(Live\)](https://open.spotify.com/album/655ThQBweRKmUiNAvTAOoi) | 5:36 |
+| 43 | [Never Fail \- Live](https://open.spotify.com/track/0oKBjN1FWo93QfGSlMRYWr) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Never Fail \(Live\)](https://open.spotify.com/album/655ThQBweRKmUiNAvTAOoi) | 5:36 |
 | 44 | [Volume Of The Book \- Live](https://open.spotify.com/track/7tO8tZMxacrIjrkl7itRjx) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [1Spirit](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Volume Of The Book \(Live\)](https://open.spotify.com/album/3Ka0L9HFEuH85d2X3CBQba) | 15:15 |
 | 45 | [By Your Mercy \- Live](https://open.spotify.com/track/4WzIddM6LC55iSNu2KKNmx) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [By Your Mercy](https://open.spotify.com/album/1CeMJ8F8hcDd2GsDA9inj0) | 7:42 |
 | 46 | [My Hope \- Live](https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [My Hope \(Live\)](https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY) | 4:26 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 102 | [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 |
 | 103 | [Show Up \- Live](https://open.spotify.com/track/4huqKWlhldHQOz66KW60iK) | [Jeremiah Nkwocha](https://open.spotify.com/artist/1kHd1wOgZPzBQsprlGBJ8a), [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [Show Up \(Live\)](https://open.spotify.com/album/1JMkm1qzX54Dm0sqgP6aNr) | 16:53 |
 
-Snapshot ID: `AAAAAC1/5MStdRRBx/Fx21Ikou1Qd4TX`
+Snapshot ID: `AAAAAP0fC4GMq+fzVArVP8U9SSS8cMDZ`

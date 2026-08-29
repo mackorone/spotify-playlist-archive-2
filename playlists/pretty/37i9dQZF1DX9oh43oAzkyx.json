@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2873768,
+  "num_followers": 2873879,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMWZ2CVISgi7ZSnTvlPxjmJiKXWp",
+  "snapshot_id": "AAAAAGsrrtzHLNlCETYxH3Bogzhg056K",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:59",
@@ -343,6 +343,26 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 194732,
       "name": "Never Recover (Lil Baby & Gunna, Drake)",
       "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 239359,
-      "name": "Rich Flex",
-      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
       "added_at": "2026-08-21 04:01:59",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
-        "name": "THY KINGDOM COME",
-        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "Napoleon",
-      "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
         "name": "No Face",
         "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 137142,
       "name": "No Face",
       "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
+        "name": "THY KINGDOM COME",
+        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 156478,
+      "name": "Napoleon",
+      "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
     },
     {
       "added_at": "2026-08-21 04:01:59",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 160966,
-      "name": "HELICOPTER",
-      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
         "name": "Push Ups",
         "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 232774,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
     },
     {
       "added_at": "2026-08-21 04:01:59",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
-        "name": "Trunks (From \"Highest 2 Lowest\")",
-        "url": "https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 223566,
-      "name": "Trunks (From \"Highest 2 Lowest\")",
-      "url": "https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
         "name": "BIANCA",
         "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 195533,
       "name": "WE ON GO II (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/4M0jSlN1MOaVRbA3Shr0FV"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
+        "name": "Trunks (From \"Highest 2 Lowest\")",
+        "url": "https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 223566,
+      "name": "Trunks (From \"Highest 2 Lowest\")",
+      "url": "https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe"
     },
     {
       "added_at": "2026-08-21 04:01:59",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
-        "name": "CALL DA FIREMAN",
-        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 124805,
-      "name": "SHAKE SUMN",
-      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 187843,
       "name": "Shoot It Myself (feat. Future)",
       "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 124805,
+      "name": "SHAKE SUMN",
+      "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
     },
     {
       "added_at": "2026-08-21 04:01:59",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
         "name": "Teflon Don",
         "url": "https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 250306,
       "name": "B.M.F. (Blowin' Money Fast)",
       "url": "https://open.spotify.com/track/35QGdv6aFbIaLM0Ozr3rHt"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
     },
     {
       "added_at": "2026-08-21 04:01:59",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
+        "name": "POP MY SHIT",
+        "url": "https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Frost",
+          "url": "https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "POP MY SHIT",
+      "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
         "name": "Not Now I'm Busy",
         "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
       },
@@ -1275,30 +1295,6 @@
       "duration_ms": 164366,
       "name": "Light Year (Practice)",
       "url": "https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
-        "name": "Never Sleep",
-        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 185785,
-      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
     },
     {
       "added_at": "2026-08-21 04:01:59",
@@ -1339,6 +1335,30 @@
     {
       "added_at": "2026-08-21 04:01:59",
       "album": {
+        "name": "Never Sleep",
+        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 185785,
+      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
+    },
+    {
+      "added_at": "2026-08-21 04:01:59",
+      "album": {
         "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
         "url": "https://open.spotify.com/album/4T64HQK7hobpqtvq8284zI"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 168181,
       "name": "GTA 6",
       "url": "https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo"
-    },
-    {
-      "added_at": "2026-08-21 04:01:59",
-      "album": {
-        "name": "POP MY SHIT",
-        "url": "https://open.spotify.com/album/0NwoimNvEBNqeCaBOlCyGJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Frost",
-          "url": "https://open.spotify.com/artist/7C45GcWNQ1SReRiaiL7hbK"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "POP MY SHIT",
-      "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
     },
     {
       "added_at": "2026-08-21 04:01:59",

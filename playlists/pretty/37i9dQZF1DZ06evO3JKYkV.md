@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,306 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,312 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 8 | [Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
 | 9 | [I](https://open.spotify.com/track/2FQviMkaoixlgWuGL4u1EO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 1:17 |
 | 10 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 |
-| 11 | [180db\_ \[130\]](https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 3:11 |
+| 11 | [Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 3:25 |
 | 12 | [IZ\-US](https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 |
 | 13 | [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:23 |
-| 14 | [Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 3:25 |
+| 14 | [180db\_ \[130\]](https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 3:11 |
 | 15 | [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:48 |
 | 16 | [\#19](https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [\#19](https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss) | 10:14 |
 | 17 | [Heliosphan](https://open.spotify.com/track/09opLVMX7cfKVKlP3iKZR1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 41 | [Yellow Calx](https://open.spotify.com/track/4nouVnQrrO8Q1yje5Gz8Tq) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:04 |
 | 42 | [Acrid Avid Jam Shred](https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 7:39 |
 | 43 | [Blue Calx](https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:20 |
-| 44 | [Spiral Staircase \(AFX Remix\) \[London 14.09.2019\]](https://open.spotify.com/track/26f6imLWpUiaBZa7SWNfI7) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv), [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG), [AFX](https://open.spotify.com/artist/6ULjGlnhcCwHIJigN47K5U) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 5:05 |
+| 44 | [XMAS\_EVET10 \[120\]\[thanaton3 mix\]](https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 10:31 |
 | 45 | [Girl/Boy Song](https://open.spotify.com/track/2w6AYp7c3d4D3hbOISz0i0) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 4:52 |
-| 46 | [XMAS\_EVET10 \[120\]\[thanaton3 mix\]](https://open.spotify.com/track/3QwQ9oyEWD1Ufx7WfiJ4bn) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w) | 10:31 |
+| 46 | [Spiral Staircase \(AFX Remix\) \[London 14.09.2019\]](https://open.spotify.com/track/26f6imLWpUiaBZa7SWNfI7) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv), [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG), [AFX](https://open.spotify.com/artist/6ULjGlnhcCwHIJigN47K5U) | [Music From The Merch Desk \(2016 \- 2023\)](https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03) | 5:05 |
 | 47 | [Rhubarb Orc\. 19.53 Rev](https://open.spotify.com/track/2fRIkIeA6I99RfxmcKAaUG) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 6:41 |
 | 48 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 |
 | 49 | [Cornish Acid](https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 2:14 |
 | 50 | [The Waxen Pith](https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 4:49 |
 
-Snapshot ID: `ao4sgAAAAADAj7pmq2TXoMogDbSq6jBM`
+Snapshot ID: `ao9+AAAAAADFLUWH/c+ie9QN1JnMRGuJ`

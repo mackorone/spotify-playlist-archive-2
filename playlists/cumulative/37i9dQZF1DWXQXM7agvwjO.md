@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Silica Gel \(South Korea\)
 
-2,798 songs - 7 day 2 hr 58 min
+2,799 songs - 7 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Candy](https://open.spotify.com/track/7CyOryKoZDNIcOJ1JVF0G1) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Candy](https://open.spotify.com/album/4lv2eRrKYEdxzKh4XczUuZ) | 3:07 | 2025-03-20 | 2025-03-28 |
 | [Capa City](https://open.spotify.com/track/1m6UACcZCrIDd8LCoRpN8r) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [Capa City](https://open.spotify.com/album/44F56fsc1H14KG1CvRM4N3) | 3:54 | 2023-06-22 | 2023-06-30 |
 | [Car](https://open.spotify.com/track/39GIag3orHUfKAEIcFxcvB) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Car](https://open.spotify.com/album/3xyXLClEJrzpQhLnitBVnb) | 5:21 | 2025-07-24 | 2025-09-05 |
+| [carefree](https://open.spotify.com/track/0bfQGykryWLoSnsNhzm0lu) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [carefree and loose](https://open.spotify.com/album/6j9ayYbsBSZ4IwJucbiob6) | 4:58 | 2026-08-27 |  |
 | [Caroline](https://open.spotify.com/track/2d9x6rkpmHHvij9x3ZwOz5) | [Matahara](https://open.spotify.com/artist/6SX0hms1ZlxJ8nLvKLzqws) | [Caroline](https://open.spotify.com/album/23Nqf1f0vBrhOET902Anet) | 3:15 | 2026-08-14 |  |
 | [Carta de Obon](https://open.spotify.com/track/5p4BNZpmZ8ZLGN64zJgLwA) | [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Contact](https://open.spotify.com/album/3mVkAa9KXbNmpuofycXBBf) | 4:31 | 2024-01-25 | 2024-02-09 |
 | [Casa Mari](https://open.spotify.com/track/7v8XaTIwXHomSmhsmFvRXH) | [Marina Balenciaga](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [Casa Mari](https://open.spotify.com/album/3ozKtlQwjWsPIHhUGbZpzy) | 2:53 | 2025-07-03 | 2025-08-08 |

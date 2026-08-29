@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: kwn",
-  "num_followers": 775377,
+  "num_followers": 775406,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACc1+7Z7BBaIs345xZ6qnhoZpovU",
+  "snapshot_id": "AAAAAEJMrBotL8hwqMPz7DLb+CMWRkLG",
   "tracks": [
     {
       "added_at": "2026-06-26 07:29:39",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-02-05 04:09:08",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "When I See U",
+      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
+    },
+    {
+      "added_at": "2024-02-05 04:09:08",
+      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
-    },
-    {
-      "added_at": "2024-02-05 04:09:08",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "When I See U",
-      "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"
     },
     {
       "added_at": "2024-03-08 16:23:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,716,472 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,716,560 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,18 +42,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 32 | [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 |
 | 33 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
 | 34 | [When a Man Loves a Woman](https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm) | 3:51 |
-| 35 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
-| 36 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
-| 37 | [I Don't Want to Wait](https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 5:20 |
+| 35 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
+| 36 | [I Don't Want to Wait](https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [This Fire](https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs) | 5:20 |
+| 37 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 38 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
 | 39 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 |
-| 40 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 |
-| 41 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
+| 40 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
+| 41 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 |
 | 42 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 |
 | 43 | [Save The Best For Last](https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [The Comfort Zone](https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV) | 3:38 |
 | 44 | [Real Love](https://open.spotify.com/track/3XG801WWhqC753dekEBkMt) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 4:29 |
-| 45 | [I Want It That Way](https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:33 |
-| 46 | [I Need You](https://open.spotify.com/track/046MBhhgQJJghnbgZCkaAR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:49 |
+| 45 | [I Need You](https://open.spotify.com/track/046MBhhgQJJghnbgZCkaAR) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:49 |
+| 46 | [I Want It That Way](https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:33 |
 | 47 | [Run to You](https://open.spotify.com/track/6M1M6cRtVkm5d0qTzkSEuK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:24 |
 | 48 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 |
 | 49 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 74 | [No Ordinary Love](https://open.spotify.com/track/42vYxMAWsFpBOS7hgAdzqW) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX) | 7:20 |
 | 75 | [I Do \(Cherish You\)](https://open.spotify.com/track/6BoueSxgJU2heOvYVDTBuk) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/5QmzvShOSXdLds65q3jbxx) | 3:48 |
 
-Snapshot ID: `AAAAAF3tTXkQP2M5/QVgMXETuEiS9S8I`
+Snapshot ID: `AAAAALNt44D1ibBpNiG/TG8bTmE6HghP`

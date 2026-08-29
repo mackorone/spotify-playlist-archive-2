@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sm\u00f8gm\u00e6nd er unge knive \ud83c\udfad",
+  "description": "to unge knive synger om provinsen @USSEL @MathiasRanch ",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -5715,6 +5715,28 @@
     },
     {
       "album": {
+        "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
+        "url": "https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        },
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221687,
+      "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
+      "url": "https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92"
+    },
+    {
+      "album": {
         "name": "Puff",
         "url": "https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E"
       },
@@ -6128,7 +6150,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 164734,
       "name": "Satellitter",
       "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"

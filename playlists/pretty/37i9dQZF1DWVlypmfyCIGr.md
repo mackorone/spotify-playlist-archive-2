@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: the Po
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,478 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,485 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [happy end](https://open.spotify.com/track/44PXA4PUGebmr0lhiy3VP4) | [うゆさきな](https://open.spotify.com/artist/7K32UdQt8Cv9bA0tZE3Rkf) | [happy end / 角砂糖](https://open.spotify.com/album/7uegXk4QPSgxYyWb93LyCh) | 3:16 |
 | 80 | [404](https://open.spotify.com/track/1mXKK8JOWYOgyGM7oWyQaT) | [Midnight Grand Orchestra](https://open.spotify.com/artist/60lgIOOISxGcxyjX4GJeii) | [Travelogue I](https://open.spotify.com/album/4rHApC99EydLlqldhcauVs) | 2:32 |
 
-Snapshot ID: `AAAAAGP7fo8QMvkm3nUbRfBnXAATtwf9`
+Snapshot ID: `AAAAAJCow01OWwAhbqR02qv2T7pxiAWZ`

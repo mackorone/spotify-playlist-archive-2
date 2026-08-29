@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166749,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -1559,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/2QihEF7BIfPCJjkB0c4Rrv"
+    },
+    {
+      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
       },
@@ -1570,7 +1606,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 170859,
       "name": "Boston",
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
@@ -3464,7 +3500,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
@@ -5232,7 +5268,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 140720,
       "name": "Hootie Frutti",
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
@@ -6123,6 +6159,28 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251960,
+      "name": "Islands In the Stream",
+      "url": "https://open.spotify.com/track/6dnco8haegnJYtylV26cBq"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -6312,7 +6370,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -6388,6 +6446,24 @@
       "duration_ms": 189638,
       "name": "JOLENE",
       "url": "https://open.spotify.com/track/1VxEaXbIq3xAvqh80xP67w"
+    },
+    {
+      "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "album": {
@@ -8494,7 +8570,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
@@ -9232,7 +9308,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 201733,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3R1Xa7LkesYpNI3v6fslKi"
@@ -9250,7 +9326,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -10130,6 +10206,24 @@
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3) [10-YEAR EDITION]",
+        "url": "https://open.spotify.com/album/1qrm5X8AbREwNzI9qMPK26"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159650,
+      "name": "Some of Your Love",
+      "url": "https://open.spotify.com/track/554p4ro2rs7dHqGPwQX67H"
     },
     {
       "album": {

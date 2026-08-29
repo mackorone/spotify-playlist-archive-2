@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> Brytiago is bringing the heat this week\. Tap in every Thursday for a refresh.
+> Brytiago is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,907,932 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,907,812 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 25 | [Dile Que Tu Me Quieres](https://open.spotify.com/track/5u5MvmVtitax9R1Mxh3reC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
 | 26 | [After](https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [After](https://open.spotify.com/album/3mAJ5jUoRMYCEjGBW0AclQ) | 2:47 |
 | 27 | [La Monda](https://open.spotify.com/track/7cIyY45Uw7NIWkVt3QkbsH) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [La Monda](https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV) | 2:56 |
-| 28 | [Honguito \(Remix\)](https://open.spotify.com/track/7A8zFqJKiZh9qbwduW7Ylj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Honguito \(Remix\)](https://open.spotify.com/album/4KipFJH8j4pvOfURrKJvEE) | 4:13 |
+| 28 | [Honguito \- Remix](https://open.spotify.com/track/7A8zFqJKiZh9qbwduW7Ylj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Honguito \(Remix\)](https://open.spotify.com/album/4KipFJH8j4pvOfURrKJvEE) | 4:13 |
 | 29 | [Fantasmita](https://open.spotify.com/track/1my8PFCBBKVKMwKmS6SfgR) | [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Perreando a Escondidas](https://open.spotify.com/album/7uzP3S8A1wIHXT294Ki3v7) | 2:10 |
 | 30 | [beam](https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [beam](https://open.spotify.com/album/3TOKzHuUu9g8hddRZEamQm) | 3:06 |
 | 31 | [MERO TOTE](https://open.spotify.com/track/26wRv00loYD9urTl85LFbI) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [EL PEOR HOMBRE DEL MUNDO](https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 49 | [PIENSO EN TI.](https://open.spotify.com/track/6P5J1CxWKrJLunXdSu5HRd) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [OMAKASE](https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2) | 3:28 |
 | 50 | [Poseída](https://open.spotify.com/track/5sAwSZoR7zlpUsngHu9yKm) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [MIDEVIL TIMES](https://open.spotify.com/album/5njAlj6cTCaQroD6NeBmp3) | 4:20 |
 
-Snapshot ID: `AAAAACGkltBSkcrX4nMbgWP62+Z75/D4`
+Snapshot ID: `AAAAAIfkwk11VTXcGvaEU5Wte8yg1RnH`

@@ -4,7 +4,7 @@
 
 > The new & hottest K\-Pop is here! \(Cover:  JENNIE\)
 
-916 songs - 1 day 23 hr 8 min
+917 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [FaceTime](https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 2:47 | 2026-01-27 | 2026-04-30 |
 | [Fact Check](https://open.spotify.com/track/5EtiQveQFQy0R05hLVDyKv) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:04 | 2023-10-06 | 2024-01-06 |
 | [Fall In Love Again](https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Fall In Love Again](https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj) | 3:28 | 2023-12-08 | 2024-04-02 |
+| [FALLEN ANGEL](https://open.spotify.com/track/1ZyTTzndFMzzZUtOpKaqN7) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel \(Digital EP\)](https://open.spotify.com/album/65w21mMPOHN63hNU5z1FYL) | 3:19 | 2026-08-28 |  |
 | [Falling \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/0UBzmHMIjiPCVpoe6gtvfw) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Falling \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/5acxpHJujhst5CfRUXjQBA) | 3:07 | 2025-11-03 | 2026-01-04 |
 | [FAM \(Korean Ver.\)](https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:33 | 2022-12-21 | 2023-03-03 |
 | [Fame](https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Fame](https://open.spotify.com/album/4xj1odt2gz8GbbuKopagkH) | 2:56 | 2025-11-24 | 2026-02-13 |
@@ -360,7 +361,7 @@
 | [Head Shoulders Knees Toes](https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Head Shoulders Knees Toes](https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN) | 2:58 | 2025-09-22 | 2025-10-15 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-07-01 | 2022-10-13 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-24 | 2022-01-27 |
-| [HEAVEN](https://open.spotify.com/track/7eMboW65OkU9ebcSHV1PZf) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel \(Digital EP\)](https://open.spotify.com/album/65w21mMPOHN63hNU5z1FYL) | 3:06 | 2026-08-28 |  |
+| [HEAVEN](https://open.spotify.com/track/7eMboW65OkU9ebcSHV1PZf) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Fallen Angel \(Digital EP\)](https://open.spotify.com/album/65w21mMPOHN63hNU5z1FYL) | 3:06 | 2026-08-28 | 2026-08-29 |
 | [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 | 2024-07-12 | 2024-08-31 |
 | [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 | 2026-05-11 | 2026-07-25 |
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-12 | 2023-03-25 |

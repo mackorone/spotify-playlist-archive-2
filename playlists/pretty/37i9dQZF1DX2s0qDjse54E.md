@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2s0qDjse54E.md) - [plain]
 
 > 鼠年生的人向來柔和單純、坦誠有趣，而且總是帶來驚喜哦！看看有哪些歌手吧！Cover: 張惠妹 \(aMEI\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 434 likes - 48 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 433 likes - 48 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2s0qDjse54E.md) - [plain]
 | 47 | [Back to Me](https://open.spotify.com/track/1asWHdX4xlMUzZUF4Z7r5z) | [CØZY](https://open.spotify.com/artist/1WrNLZeznXRwf1cOJkN2ma), [香蘭 LAN](https://open.spotify.com/artist/4LTa8nPXk7C8zPSHUhXOCe) | [Back to Me](https://open.spotify.com/album/4DiMMJ1mevviy1HqpdwCow) | 2:46 |
 | 48 | [沙發上的白日夢](https://open.spotify.com/track/1WvgGHQTSuVHAT5xDehofl) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [SoulFa](https://open.spotify.com/album/7ingM7kfWG7btVL74j3jOf) | 4:02 |
 
-Snapshot ID: `AAAAADrSiNjcHVjezhrg6cKUVcRzEdnP`
+Snapshot ID: `AAAAAKrzTf6I6dx5A2ZGGufWPUdNmBvU`

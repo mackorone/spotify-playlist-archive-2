@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 
 > This is Whitney Houston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,570 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,616 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 6 | [Where Do Broken Hearts Go](https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:38 |
 | 7 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 8 | [Greatest Love of All](https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:57 |
-| 9 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 |
-| 10 | [One Moment in Time](https://open.spotify.com/track/6d30d0YLOCD36t9Jrdcy0S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [WH1TNEY \(Expanded Edition\)](https://open.spotify.com/album/5oZSy2zZib2jGqJ8mQuzrv) | 4:45 |
+| 9 | [One Moment in Time](https://open.spotify.com/track/6d30d0YLOCD36t9Jrdcy0S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [WH1TNEY \(Expanded Edition\)](https://open.spotify.com/album/5oZSy2zZib2jGqJ8mQuzrv) | 4:45 |
+| 10 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 |
 | 11 | [Run to You](https://open.spotify.com/track/6M1M6cRtVkm5d0qTzkSEuK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:24 |
 | 12 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 |
 | 13 | [Didn't We Almost Have It All](https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 5:07 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 44 | [Like I Never Left \(feat\. Akon\)](https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:49 |
 | 45 | [I Learned from the Best](https://open.spotify.com/track/3wACjmQo7ZkRNMLfZXndFB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:19 |
 | 46 | [Why Does It Hurt So Bad \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP) | 4:41 |
-| 47 | [I Believe In You And Me](https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Dream Duets](https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ) | 3:54 |
-| 48 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
+| 47 | [One Of Those Days](https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:15 |
+| 48 | [I Believe In You And Me](https://open.spotify.com/track/6WG0YDkzvgJyHDwulZPCTv) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Dream Duets](https://open.spotify.com/album/3Fay2wEWeAFkBIJgDWlUCQ) | 3:54 |
 | 49 | [You'll Never Stand Alone](https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:20 |
 | 50 | [If You Say My Eyes Are Beautiful \(with Jermaine Jackson\)](https://open.spotify.com/track/0xUUGElClB0LXZgdmavavN) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Jermaine Jackson](https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P) | [Whitney The Greatest Hits](https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP) | 4:20 |
 
-Snapshot ID: `ao4sgAAAAAD2Y/WNK09ccqdV5VJHC5ja`
+Snapshot ID: `ao9+AAAAAABiACZ8kK8pk1OStVmFLmHN`

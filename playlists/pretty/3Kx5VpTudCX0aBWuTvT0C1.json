@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd00 Hit shuffle &amp; meet new artists &amp; pop rock song. \u271a Each track also joins tailored playlists.  By @faceless.diversum \ud83d\udcf8 Insta. Follow, save &amp; share ! Submit here : ",
-  "num_followers": 2101,
+  "num_followers": 2100,
   "original_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",
   "owner": {
     "name": "DIVERSUM WORLD",
     "url": "https://open.spotify.com/user/1163990293"
   },
-  "snapshot_id": "AAAC0Z22twvxWtHEVTs88tmCFwUdFgbB",
+  "snapshot_id": "AAAC0965VTof9nBJ82iHM6aetvAlDYrs",
   "tracks": [
     {
       "added_at": "2026-01-04 15:06:22",
@@ -1527,6 +1527,38 @@
       "duration_ms": 239400,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd"
+    },
+    {
+      "added_at": "2026-08-28 09:50:55",
+      "album": {
+        "name": "Will",
+        "url": "https://open.spotify.com/album/2Q6BfCI53rsu63f6TRTHQ9"
+      },
+      "artists": [
+        {
+          "name": "Roi Aknin",
+          "url": "https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Will",
+      "url": "https://open.spotify.com/track/3Y7ek3umLkIb5hGcJLO9N4"
+    },
+    {
+      "added_at": "2026-08-28 09:55:16",
+      "album": {
+        "name": "Hippie Mod Girl",
+        "url": "https://open.spotify.com/album/2M94LQrN0zNTmBSHTP8QpP"
+      },
+      "artists": [
+        {
+          "name": "The Munyks",
+          "url": "https://open.spotify.com/artist/0GyjNZOkGRCm5Ss6SRmPf9"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Hippie Mod Girl",
+      "url": "https://open.spotify.com/track/1qz2eta0XlOZ46pS0rcL5V"
     }
   ],
   "unique_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",

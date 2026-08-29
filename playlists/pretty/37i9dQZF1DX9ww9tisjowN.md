@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: BABYMETAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,584 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,624 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [COLA!](https://open.spotify.com/track/2BT213EvQ1WcsDo7UkfMAc) | [向田民子](https://open.spotify.com/artist/3UcirJpXk6043mUqjDCcIS) | [COLA!](https://open.spotify.com/album/68qwRiRN5kXEVpd0XdqLip) | 2:51 |
 | 75 | [AFTER RAIN](https://open.spotify.com/track/2l58XxJRiMfls9Oh1Zc0qs) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [AFTER RAIN](https://open.spotify.com/album/0g7AjHgTMrjzsmmzB7uAF3) | 2:52 |
 
-Snapshot ID: `AAAAAJjWr7wmVUPe6Y3uBSrx1JUmOqic`
+Snapshot ID: `AAAAAOoWW8u7yC4n6ap/HgFEtCSdb8jW`

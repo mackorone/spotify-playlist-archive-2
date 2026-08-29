@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,433 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,851 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 49 | [The Same Jesus \- Single Version](https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [The Same Jesus](https://open.spotify.com/album/4x2qIxR16bAAQF9S1Z8U3c) | 3:45 |
 | 50 | [A Great Awakening](https://open.spotify.com/track/11CVrv9H4laDRS8aAjT887) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [A Great Awakening](https://open.spotify.com/album/21NrdGWPVjX1SxCpjEGbRG) | 4:01 |
 
-Snapshot ID: `AAAAABpjlly+ds6he1VU3j9ZCoMy5mNe`
+Snapshot ID: `AAAAAO23wWxh0Adt7FEsPRqPIM1mIIho`

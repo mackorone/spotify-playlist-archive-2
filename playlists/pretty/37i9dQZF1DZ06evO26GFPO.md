@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,581 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,578 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 34 | [Moça](https://open.spotify.com/track/3hnFZQNmaYvNgroiiCKRcf) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Moça](https://open.spotify.com/album/5lKJXq6buEHcbd7LGmCs1z) | 2:14 |
 | 35 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 |
 | 36 | [Bom](https://open.spotify.com/track/25SL3ZSbEGtu4oU14xllMQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [A danada sou eu](https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX) | 2:52 |
-| 37 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 |
-| 38 | [Duas doses de saudade / Nunca me verá chorar / Não quero mais \- Ao vivo](https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 6:21 |
+| 37 | [Duas doses de saudade / Nunca me verá chorar / Não quero mais \- Ao vivo](https://open.spotify.com/track/4jQmLCQingMe51sGRrsqRg) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 6:21 |
+| 38 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 |
 | 39 | [Desse Jeito é Ruim Pra Mim / Perfume / Antes de Dizer Adeus \- Ao vivo](https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 6:41 |
 | 40 | [Apê 1001](https://open.spotify.com/track/6oVNrpMWlzS6UkQuuM8zHU) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:51 |
 | 41 | [Ninguém Merece Amar Sozinho](https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Ninguém Merece Amar Sozinho](https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0) | 3:47 |
 | 42 | [Sinais de fogo \- Ao Vivo](https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:21 |
 | 43 | [Sintoma de Amor / Depois do Amor / Agenda \- Ao vivo](https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 5:25 |
-| 44 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 |
-| 45 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
+| 44 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
+| 45 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 |
 | 46 | [Macetando](https://open.spotify.com/track/4uR8CslffeNgPZ3lSuyfAc) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/5hylnoVPMP3cRU2Jwh9z5r) | 2:47 |
 | 47 | [Mande Um Sinal / Sinais \- Ao vivo](https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 4:41 |
 | 48 | [Fora de Si \- Ao Vivo](https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:27 |
 | 49 | [BOTA](https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BOTA](https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ) | 2:58 |
 | 50 | [Dopamina](https://open.spotify.com/track/7jji4uvYD5QCa0qdlg0nUo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:36 |
 
-Snapshot ID: `ao4sgAAAAAA9p6/nKXT9BnGgmuZHs0rn`
+Snapshot ID: `ao9+AAAAAACLCyxzWJ211fQrtjKYBXSX`

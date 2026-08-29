@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,506 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,503 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 74 | [Singing Explorers](https://open.spotify.com/track/75Ir3kKNf3SASig0St0gFW) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8), [彩](https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve), [High×Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:22 |
 | 75 | [カレイド TOURHYTHM](https://open.spotify.com/track/2Zy5r8fEzg5hdJMcxmH0lN) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D), [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 03](https://open.spotify.com/album/0f7ipGixpoqOH09KNBGAUk) | 4:44 |
 
-Snapshot ID: `AAAAAN4b8Vu4HEiyHQJukYqj0LaT23re`
+Snapshot ID: `AAAAADD7pmu51f1v2mIzZLPFSr7L/y57`

@@ -1,12 +1,12 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 439917,
+  "num_followers": 439921,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACzp0ibb1hg1A75qvOmIElswxRdA",
+  "snapshot_id": "AAAAADHO+89VSwcqKfuFvmJWV5IxZMc1",
   "tracks": [
     {
       "added_at": "2025-07-08 16:22:28",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/0WdZQGmbPI3U7eDF5jACGi"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Sar\u00e0 perch\u00e9 ti amo",
-      "url": "https://open.spotify.com/track/7037bX3jdaUWUAXL12CHGy"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/0WdZQGmbPI3U7eDF5jACGi"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Sar\u00e0 perch\u00e9 ti amo",
+      "url": "https://open.spotify.com/track/7037bX3jdaUWUAXL12CHGy"
     },
     {
       "added_at": "2025-07-08 16:22:28",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198786,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
         "name": "Fireball (feat. John Ryan)",
         "url": "https://open.spotify.com/album/30gRxZHDWRrAMdnF0TcMSX"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 235012,
       "name": "Fireball (feat. John Ryan)",
       "url": "https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
     },
     {
       "added_at": "2025-07-08 16:22:28",

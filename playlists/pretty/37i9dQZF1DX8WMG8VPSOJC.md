@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744,531 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,744,469 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 70 | [Born to Love You](https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U) | [LANCO](https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T) | [Hallelujah Nights](https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90) | 3:50 |
 | 71 | [Heartbeat](https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:30 |
 | 72 | [Parallel Line](https://open.spotify.com/track/567gPvGfxxKoZxDKqM9tEl) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:13 |
-| 73 | [Forever To Me](https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Forever To Me](https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK) | 2:59 |
-| 74 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
+| 73 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
+| 74 | [Forever To Me](https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Forever To Me](https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK) | 2:59 |
 | 75 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 |
 | 76 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 |
 | 77 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 99 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 |
 | 100 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/5kp3JbZL1ROMxc32pcpn29) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot](https://open.spotify.com/album/4Yd4bTzy6exvtIcjKviJuj) | 3:13 |
 
-Snapshot ID: `AAAAAPcC/Uw2KuPabvfJrExJct3SVIki`
+Snapshot ID: `AAAAAE6eV2Trij35sJRc5QUMPbF7V46+`

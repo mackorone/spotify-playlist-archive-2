@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Natanael Cano
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,174,842 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,173,125 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [Cuando No Era Cantante \- Remix](https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Cuando No Era Cantante \(Remix\)](https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ) | 5:27 |
 | 50 | [Beretta \(De Los Cerros La Escuela\)](https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j) | [Estilo R'S](https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J) | 2:13 |
 
-Snapshot ID: `AAAAAGYr1NLBIf97nfovvc38Z89J+K2j`
+Snapshot ID: `AAAAAKqXmYBB+PaMnsohpEn3rb1y4xqU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > A dreamy, beautiful musical companion to your time for rest and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,620 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,630 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 40 | [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 |
 | 41 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
 | 42 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
-| 43 | [Skippin' Down the Sidewalk](https://open.spotify.com/track/730VuZCmpQ0TJCDuRHnqmq) | [Amelia Day](https://open.spotify.com/artist/53DjiwdQhw5LbqB0LHDd5y) | [Skippin' Down the Sidewalk](https://open.spotify.com/album/5EJXG3SWsqSvILfDEwuB97) | 3:20 |
-| 44 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 |
+| 43 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 |
+| 44 | [Skippin' Down the Sidewalk](https://open.spotify.com/track/730VuZCmpQ0TJCDuRHnqmq) | [Amelia Day](https://open.spotify.com/artist/53DjiwdQhw5LbqB0LHDd5y) | [Skippin' Down the Sidewalk](https://open.spotify.com/album/5EJXG3SWsqSvILfDEwuB97) | 3:20 |
 | 45 | [Make Up](https://open.spotify.com/track/25fgqMC5JX8A9du5YeqREN) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make Up](https://open.spotify.com/album/7h7oXkx5EOMYh2cfmu3Gq1) | 3:46 |
 | 46 | [picky choosy](https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [picky choosy](https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe) | 2:53 |
 | 47 | [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 49 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 50 | [Anemone \- \(Live\) \| Spotify RADAR](https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Fcukers \- Spotify RADAR](https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR) | 4:55 |
 | 51 | [St\. Helens Alpenglow](https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [St\. Helens Alpenglow](https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik) | 4:06 |
-| 52 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
-| 53 | [Honey Blonde](https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:18 |
+| 52 | [Honey Blonde](https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:18 |
+| 53 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
 | 54 | [Mountain](https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:59 |
 | 55 | [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 |
 | 56 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
-| 57 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 |
-| 58 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
+| 57 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
+| 58 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 |
 | 59 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
 | 60 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
 | 61 | [mean!](https://open.spotify.com/track/3Wbq0xfJFzYE74WBMiqJOH) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [pretty ruthless](https://open.spotify.com/album/6qijNpc6Vt4lxkrRHoPL26) | 3:20 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 70 | [Inside My Love](https://open.spotify.com/track/64qumU8DunSmNXYQKuIVWv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Les Fleurs](https://open.spotify.com/album/4QAzV4Z3hJq5XULwP74Gm7) | 4:41 |
 | 71 | [U\-Turn](https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 3:26 |
 | 72 | [Talk About Love](https://open.spotify.com/track/3HkptDhVM1bpF4lz3haQRk) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Talk About Love](https://open.spotify.com/album/3Ab4I0S7mBYWdrOw6h1ttt) | 5:10 |
-| 73 | [Can We Do This Over](https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Can We Do This Over](https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT) | 3:28 |
-| 74 | [AMERICAN DREAMS](https://open.spotify.com/track/6qZmQu0eIzO7VErrOVUCPc) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Drugstore Cowgirl](https://open.spotify.com/album/2gfUHArIC05tLSlaB0rYj6) | 3:20 |
+| 73 | [AMERICAN DREAMS](https://open.spotify.com/track/6qZmQu0eIzO7VErrOVUCPc) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Drugstore Cowgirl](https://open.spotify.com/album/2gfUHArIC05tLSlaB0rYj6) | 3:20 |
+| 74 | [Can We Do This Over](https://open.spotify.com/track/2xNO9VNXpvI84BzphjkYe4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Can We Do This Over](https://open.spotify.com/album/5b2t3eQ9Tkblewvwv57etT) | 3:28 |
 | 75 | [Just Life](https://open.spotify.com/track/3bpArkvt2TWoTxG2rXxb1H) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Just Life](https://open.spotify.com/album/0BFnVbBBL7xHSYVX880PGr) | 3:18 |
 
-Snapshot ID: `AAAAAGGM8kBV/h2QdGUl7X7esh2AYR/3`
+Snapshot ID: `AAAAAO27IpG6L1bn/emhCB3lGVKy6bnJ`

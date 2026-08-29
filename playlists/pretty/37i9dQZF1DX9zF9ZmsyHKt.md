@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,613 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,637 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 64 | [Não Deixei De Amar](https://open.spotify.com/track/1F7NChVuwGbrPf7DIQQ9eK) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Não Deixei De Amar](https://open.spotify.com/album/5dEzsBRLiiXgDF7bqUyha9) | 2:42 |
 | 65 | [Vem Meu Amor](https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:36 |
 
-Snapshot ID: `AAAAADzUIm0AkQ3K5fr+UCM3bS6xwaJw`
+Snapshot ID: `AAAAAKBntdHE1OM2rM3bEAUAC7FmYjWy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Emily A\. Sprague
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,136 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,329 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [golden hour](https://open.spotify.com/track/4uCj2bvwlLwSpM6n1qZtvw) | [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB), [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [golden hour](https://open.spotify.com/album/5VDyzPyjsUTjUYxu4UlyQ2) | 2:55 |
 | 100 | [Dolce Far Niente](https://open.spotify.com/track/71p4RoTQY7hTjeaI6ML7O2) | [James Bright](https://open.spotify.com/artist/7JcxJ3BRljo49dQVZ5tCFs) | [Dolce Far Niente](https://open.spotify.com/album/35AJEKkNlTW9vpNvCQ77ew) | 5:04 |
 
-Snapshot ID: `AAAAADSCt5z0kTqVpFEKM0LEedGganqX`
+Snapshot ID: `AAAAAKZCB7WFXi8QCrmGjYUQcCC9JDd9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,224 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,233 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 30 | [Cześć, jak się masz?](https://open.spotify.com/track/6sKg6jzvmiNAVsJRl8MaDE) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [PUŁAPKA NA MOTYLE \(DELUXE EDITION\)](https://open.spotify.com/album/6dJDSE3TIoXf8Xwaisq4Nj) | 3:21 |
 | 31 | [Lubię wracać tam gdzie byłem](https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU) | [Zbigniew Wodecki](https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn) | [Zacznij od Bacha \(The Best\)](https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo) | 4:22 |
 | 32 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
-| 33 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 |
-| 34 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 |
+| 33 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 |
+| 34 | [Melodia](https://open.spotify.com/track/3xlk3SVStmEGEWx5FtqpkW) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Królowa dram](https://open.spotify.com/album/57y8HhpAZJ7SkeetSXvTya) | 3:03 |
 | 35 | [Trójkąty i Kwadraty](https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Comfort and Happiness](https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM) | 4:03 |
 | 36 | [Tęskno Mi](https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zakryj \(Deluxe\)](https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T) | 3:35 |
 | 37 | [Księżniczka](https://open.spotify.com/track/7Hd16iz8di8JQkdNkajYJ4) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Komponując siebie](https://open.spotify.com/album/0BUCC6q7Y8lFrX6cBU7Llh) | 3:04 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 67 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |
 | 68 | [Silacz](https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9) | [Marcin Rozynek](https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim) | [Ksiega Urodzaju](https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr) | 3:59 |
 | 69 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
-| 70 | [Świat się pomylił](https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH) | [Patrycja Markowska](https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf) | [Świat się pomylił](https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf) | 3:30 |
-| 71 | [Tylko mnie kochaj](https://open.spotify.com/track/1LrSloV35nuQQ2FoUA1gIk) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Tylko Mnie Kochaj](https://open.spotify.com/album/2oHewePut3hKygGxcCNaLR) | 2:49 |
-| 72 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
-| 73 | [Zamienię cię](https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [NATinterpretacje](https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV) | 3:04 |
+| 70 | [Tylko mnie kochaj](https://open.spotify.com/track/1LrSloV35nuQQ2FoUA1gIk) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Tylko Mnie Kochaj](https://open.spotify.com/album/2oHewePut3hKygGxcCNaLR) | 2:49 |
+| 71 | [Świat się pomylił](https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH) | [Patrycja Markowska](https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf) | [Świat się pomylił](https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf) | 3:30 |
+| 72 | [Zamienię cię](https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [NATinterpretacje](https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV) | 3:04 |
+| 73 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
 | 74 | [Dobry moment](https://open.spotify.com/track/7KXirs6fb0RDI8Q4DK6naY) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 4:11 |
 | 75 | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Zabierz tę miłość \(Storytel "Random"\)](https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw) | 4:09 |
 
-Snapshot ID: `AAAAANyFhfMcrqDs/jH2SROd3pZOMDZZ`
+Snapshot ID: `AAAAAKsOD43Db0CMRG8jiGpRse3ka3mA`

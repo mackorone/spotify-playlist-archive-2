@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,275 likes - 391 songs - 17 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,319 likes - 391 songs - 17 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 390 | [Duskveil](https://open.spotify.com/track/5PHG6zIU3TVPkrhjxfIndk) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [Duskveil](https://open.spotify.com/album/3arZlYaEzG23SpaWDM9kwO) | 3:04 |
 | 391 | [Different Worlds](https://open.spotify.com/track/7csZm64U1maWUQH4qNbayP) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Different Worlds](https://open.spotify.com/album/27xnNVop1EWk8bByr70r4o) | 2:30 |
 
-Snapshot ID: `AAAAAI0hgCuaFQUE1uBfl7mCd2+sOClm`
+Snapshot ID: `AAAAALbDvoNiUxlf4ZFMdSmyBLjzMN5l`

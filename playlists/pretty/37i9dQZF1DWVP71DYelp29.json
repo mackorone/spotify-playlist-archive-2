@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 730901,
+  "num_followers": 730881,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALsvZsTw/AzL+kFyO/ghLttHq33o",
+  "snapshot_id": "AAAAAKHzz/bMy3MNLqKvdgwcQ+GfOwph",
   "tracks": [
     {
       "added_at": "2023-01-11 19:54:48",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Smalltown Boy (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 317729,
+      "name": "Smalltown Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 167907,
       "name": "bad guy - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Smalltown Boy (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 317729,
-      "name": "Smalltown Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1236,6 +1236,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P"
       },
       "artists": [
@@ -1267,22 +1283,6 @@
       "duration_ms": 229040,
       "name": "Young Dumb & Broke - Recorded At The Colosseum, Caesars Palace, Las Vegas",
       "url": "https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
-      },
-      "artists": [
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
     },
     {
       "added_at": "2023-01-11 19:54:48",

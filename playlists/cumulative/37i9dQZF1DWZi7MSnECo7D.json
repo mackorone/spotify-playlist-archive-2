@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Turmallina",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Varanda",
   "name": "alt BR",
   "tracks": [
     {
@@ -568,7 +568,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 219429,
       "name": "acaso",
       "url": "https://open.spotify.com/track/358mmoC0a4iwFKNQ4nBan5"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 252500,
       "name": "Animais",
       "url": "https://open.spotify.com/track/3dSTyRbUYDRxo1dZLGgTd8"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 228945,
       "name": "Assim (Acho Um Pouco Bom)",
       "url": "https://open.spotify.com/track/1qibtJEVQ6iZ3hM23M9KQV"
@@ -4676,7 +4676,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 125306,
       "name": "Denga - Ao Vivo",
       "url": "https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg"
@@ -7594,6 +7594,24 @@
       "duration_ms": 172000,
       "name": "Horror Brega",
       "url": "https://open.spotify.com/track/1seASuT8wnGGTlzholaqfo"
+    },
+    {
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/1gK3ivmAo3kVaXJLFjx2zS"
+      },
+      "artists": [
+        {
+          "name": "Salma J\u00f4",
+          "url": "https://open.spotify.com/artist/2IVJ9tv1vaehNx8jd3Rc7C"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204986,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/78j3VPcWdDZq7SjhDQccTF"
     },
     {
       "album": {
@@ -13999,6 +14017,28 @@
     },
     {
       "album": {
+        "name": "S\u00e3o Crist\u00f3v\u00e3o",
+        "url": "https://open.spotify.com/album/6xZT6qAx7O2AWwcl8U00fb"
+      },
+      "artists": [
+        {
+          "name": "Projeto Hare",
+          "url": "https://open.spotify.com/artist/5hrlixUL2uLOyIKUpJu97u"
+        },
+        {
+          "name": "Bella e o Olmo da Bruxa",
+          "url": "https://open.spotify.com/artist/62Tp9euxMx6wd0uyiZR4YM"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196181,
+      "name": "Rainha M\u00e1",
+      "url": "https://open.spotify.com/track/4wgELCYGyESgEn9vOkD7kr"
+    },
+    {
+      "album": {
         "name": "Instinto",
         "url": "https://open.spotify.com/album/2LbTR9Dz0YpMrrBAoGJEIl"
       },
@@ -14214,6 +14254,24 @@
       "duration_ms": 142036,
       "name": "Risco",
       "url": "https://open.spotify.com/track/4YnFFesMh6JYIGCTtzapv5"
+    },
+    {
+      "album": {
+        "name": "\u00e0s vezes um sonho...",
+        "url": "https://open.spotify.com/album/1HYCyIvuDV1fjOLZnuNKNl"
+      },
+      "artists": [
+        {
+          "name": "Varanda",
+          "url": "https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179291,
+      "name": "Riso Solto",
+      "url": "https://open.spotify.com/track/5LyuWdINlSY1fiXv6GaKsr"
     },
     {
       "album": {
@@ -15426,6 +15484,24 @@
       "duration_ms": 227285,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/3Fej6iqtBfftO49K2EEhJo"
+    },
+    {
+      "album": {
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/2J3fxjRFm72vEqLCUXp0Z1"
+      },
+      "artists": [
+        {
+          "name": "Lupino",
+          "url": "https://open.spotify.com/artist/3tumWnNLrlFb2KOhVgAGk1"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200828,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/0o0Us6CWewUXI5zD2COfyx"
     },
     {
       "album": {

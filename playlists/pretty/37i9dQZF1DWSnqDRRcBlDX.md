@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,354 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,380 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 49 | [Lost In Time](https://open.spotify.com/track/6BD9vaXgxZalnrtt3Z5RJu) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Lost In Time](https://open.spotify.com/album/0Fxn9RGQihpS9mmAThJAYn) | 5:15 |
 | 50 | [Gravity](https://open.spotify.com/track/4USrcpm7ebBeo8DZVH1AnG) | [Flour](https://open.spotify.com/artist/6QamwoCsmA2yAPC0x9w510) | [Gravity](https://open.spotify.com/album/7jROzXwP13is4ynjnbTVUz) | 5:36 |
 
-Snapshot ID: `AAAAAIYjTlZJaPTzFUJF72PJGSrPmv+Q`
+Snapshot ID: `AAAAAFs2o/2geMwfVAEBoJhmflRBj+sg`

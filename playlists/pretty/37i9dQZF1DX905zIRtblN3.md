@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las más placosas y llegadoras de nuestra música! Al millón con Natanael Cano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,859,576 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,859,630 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 31 | [Al Final Del Día](https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Al Final Del Día](https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME) | 3:28 |
 | 32 | [Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo](https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [Rancheras Bonitas](https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy) | 3:32 |
 | 33 | [La Magia de Conectar](https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Magia de Conectar](https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl) | 2:40 |
-| 34 | [Mi Talisman \(En Vivo\)](https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza 2 \(En Vivo\)](https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2) | 3:14 |
+| 34 | [Mi Talisman \- En Vivo](https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza 2 \(En Vivo\)](https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2) | 3:14 |
 | 35 | [Taco El Flaco](https://open.spotify.com/track/1TKtOAr9HUZyF3dCdwwcJE) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ay Weyy](https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY) | 2:38 |
 | 36 | [holanda \- Remix](https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [holanda \(Remix\)](https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ) | 3:07 |
 | 37 | [Tribal Mamón](https://open.spotify.com/track/0mNilRp0Eb6YqYyc5fZlUx) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [TRIBU](https://open.spotify.com/album/0qvgcDHmSHmQTR8w6uCu4u) | 1:52 |
 | 38 | [Tu Forma de Ser](https://open.spotify.com/track/3Ah50AHNSd1azrIbmH6u8w) | [La Bertiniza De Culiacan](https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J) | [Tu Forma de Ser](https://open.spotify.com/album/6zO3qdJkQ9FsdaUsf14TOG) | 3:03 |
-| 39 | [Tus Mentiras \(En Vivo\)](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
+| 39 | [Tus Mentiras \- En Vivo](https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 4:40 |
 | 40 | [Que Gacho](https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Que Gacho](https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i) | 3:13 |
 | 41 | [Medusa](https://open.spotify.com/track/2CDihIzaMKXsFuoypVLAse) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Medusa](https://open.spotify.com/album/2X2jTBYY061b5JajkNPPTk) | 3:09 |
-| 42 | [Fuerte No Soy \(En Vivo\)](https://open.spotify.com/track/0oaZ8iRRefJBWmFcwML7m7) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Fuerte No Soy \(En Vivo\)](https://open.spotify.com/album/2f7Wm1pk93ttXvGrSVtUYP) | 4:07 |
+| 42 | [Fuerte No Soy \- En Vivo](https://open.spotify.com/track/0oaZ8iRRefJBWmFcwML7m7) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Fuerte No Soy \(En Vivo\)](https://open.spotify.com/album/2f7Wm1pk93ttXvGrSVtUYP) | 4:07 |
 | 43 | [Necesito Dueña \- En Vivo](https://open.spotify.com/track/641brRN9SUipE3Ve8tuLPZ) | [Marco Marroquin](https://open.spotify.com/artist/1HvIYWtS5X45onioOfaSCB) | [Live Session, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3Q9TiCMQhHhPShDQ7kvNRm) | 3:11 |
 | 44 | [Tu Falta De Querer](https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Falta De Querer](https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW) | 3:13 |
 | 45 | [MOTA CHERRY](https://open.spotify.com/track/68jkcpiDPPd5zdmE5VLlfq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 | 49 | [La Formula](https://open.spotify.com/track/1eD8kj787e0mwwJ7bukv2g) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Formula](https://open.spotify.com/album/6Tu1tbDt5FXknsuXpAuyFF) | 2:38 |
 | 50 | [VACAS FLACAS](https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [VACAS FLACAS](https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ) | 3:36 |
 
-Snapshot ID: `AAAAADbDiOmKU9FGkt+l+JpXTJywWjbd`
+Snapshot ID: `AAAAABTJAcPPA3Rby3LU+eFjSLM3xJRa`

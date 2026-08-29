@@ -1,12 +1,12 @@
 {
   "description": "Noi e il tuo specchio non ti giudicheremo mai, promesso \ud83e\udd1e\ud83c\udffc",
-  "num_followers": 367318,
+  "num_followers": 367327,
   "original_name": "Hit da cantare (come se nessuno ti stesse guardando)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYMwrE+yL+6/WmVCSALiSBOSTmB",
+  "snapshot_id": "AAAAAAzeLJZpjNZ1Fc8H7O/3rxtyw0VH",
   "tracks": [
     {
       "added_at": "2026-01-15 13:13:46",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
@@ -1543,22 +1527,6 @@
       "duration_ms": 236417,
       "name": "Pastello Bianco",
       "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
-        "name": "Amarsi \u00e8 la rivoluzione",
-        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
-      },
-      "artists": [
-        {
-          "name": "Eddie Brock",
-          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
-        }
-      ],
-      "duration_ms": 187698,
-      "name": "Non \u00e8 mica te",
-      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -1579,6 +1547,38 @@
       "duration_ms": 217500,
       "name": "Anche Stasera",
       "url": "https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Amarsi \u00e8 la rivoluzione",
+        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
+      },
+      "artists": [
+        {
+          "name": "Eddie Brock",
+          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
+        }
+      ],
+      "duration_ms": 187698,
+      "name": "Non \u00e8 mica te",
+      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2026-01-15 13:13:46",

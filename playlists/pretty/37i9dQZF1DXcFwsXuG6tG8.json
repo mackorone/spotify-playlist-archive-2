@@ -1,12 +1,12 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 24299,
+  "num_followers": 24313,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxes6+LUxGM2nQl3T/4oWdEYGX8",
+  "snapshot_id": "AAAAAOlR66PGuOcmEEBkA3YXGI+vJ+EH",
   "tracks": [
     {
       "added_at": "2026-04-10 04:03:03",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "Alta Fidelidad",
         "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 230097,
       "name": "Quisiera Ser Como T\u00fa",
       "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "Nuestro A\u00f1o",
-        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 189821,
-      "name": "Nuestro A\u00f1o",
-      "url": "https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "Por Si las Dudas",
         "url": "https://open.spotify.com/album/2G72gtZRp1TXdIhpgbCJ1u"
       },
@@ -871,6 +851,26 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 189821,
+      "name": "Nuestro A\u00f1o",
+      "url": "https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
         "name": "escrita",
         "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "La M\u00e1quina",
-        "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
+        "name": "Te Lo Voy a Decir",
+        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 154912,
-      "name": "La M\u00e1quina",
-      "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
+      "duration_ms": 246613,
+      "name": "Te Lo Voy a Decir",
+      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "Te Lo Voy a Decir",
-        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
+        "name": "La M\u00e1quina",
+        "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 246613,
-      "name": "Te Lo Voy a Decir",
-      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
+      "duration_ms": 154912,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "GOLPE",
-        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 216875,
-      "name": "GOLPE",
-      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "P\u00c1JARO AZUL",
         "url": "https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+        "name": "GOLPE",
+        "url": "https://open.spotify.com/album/49AuSYwbco5EczMgDz0kip"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
         }
       ],
-      "duration_ms": 191725,
-      "name": "Si En Tu Mente Estuve",
-      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
+      "duration_ms": 216875,
+      "name": "GOLPE",
+      "url": "https://open.spotify.com/track/2WkDS7zFZI6Y1xzYLUltI8"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -1031,6 +1015,22 @@
       "duration_ms": 156794,
       "name": "OK.",
       "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 191725,
+      "name": "Si En Tu Mente Estuve",
+      "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "NI\u00d1O BUENO - Lado A",
-        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "a los 20",
-      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "Caf\u00e9 de Barcelona",
         "url": "https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "quise quererte",
-        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
+        "name": "NI\u00d1O BUENO - Lado A",
+        "url": "https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
         }
       ],
-      "duration_ms": 219786,
-      "name": "quise quererte",
-      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
+      "duration_ms": 192933,
+      "name": "a los 20",
+      "url": "https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -1151,6 +1135,22 @@
       "duration_ms": 162352,
       "name": "Ve y Diles",
       "url": "https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "quise quererte",
+        "url": "https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "quise quererte",
+      "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
     },
     {
       "added_at": "2026-04-10 04:03:03",

@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1481485,
+  "num_followers": 1481461,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIhnN/OO/ugfX3Z6r5K3i9/vvVDv",
+  "snapshot_id": "AAAAAGbteyA+bmxqTNTou4GlWttcOsNd",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:54",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Going Shopping",
-        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 261747,
-      "name": "Going Shopping",
-      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Loveland",
         "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 194346,
       "name": "Back in Love",
       "url": "https://open.spotify.com/track/62S62F7p3A7qOjkbApWe5i"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+        "name": "Going Shopping",
+        "url": "https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+      "duration_ms": 261747,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 220584,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
         "name": "Chris Black Changed My Life",
         "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
-        "name": "Can We Please Have Fun",
-        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 220584,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Grief Chapter",
-        "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
-      },
-      "artists": [
-        {
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Explode!",
-      "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "Grief Chapter",
+        "url": "https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Explode!",
+      "url": "https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "junebug!",
-        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 139204,
-      "name": "junebug!",
-      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 186306,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "junebug!",
+        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 139204,
+      "name": "junebug!",
+      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "No Love Lost to Kindness",
-        "url": "https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 237920,
-      "name": "Cowboy Without a Clue",
-      "url": "https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Everything Glows",
         "url": "https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 201600,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/61TcVocqwcV5P6VAf1dHT4"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "No Love Lost to Kindness",
+        "url": "https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "Cowboy Without a Clue",
+      "url": "https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Boys In Blue",
-        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "Boys In Blue",
-      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
+        "name": "Boys In Blue",
+        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Milk & Honey",
-      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
+      "duration_ms": 153045,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1655,6 +1639,22 @@
       "duration_ms": 208253,
       "name": "Kid",
       "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Milk & Honey",
+      "url": "https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Singin\u2019 to an Empty Chair",
-        "url": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
-      },
-      "artists": [
-        {
-          "name": "Ratboys",
-          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/5Ckcc7WY6Q7QI6RcP9XzVA"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "I'm Not Afraid Of Music Anymore",
         "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 177071,
       "name": "Along For The Ride",
       "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "Singin\u2019 to an Empty Chair",
+        "url": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/5Ckcc7WY6Q7QI6RcP9XzVA"
     },
     {
       "added_at": "2026-08-21 04:02:54",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-08-21 04:02:54",
       "album": {
-        "name": "Flagstaff",
-        "url": "https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM"
-      },
-      "artists": [
-        {
-          "name": "Ax and the Hatchetmen",
-          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Flagstaff",
-      "url": "https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u"
-    },
-    {
-      "added_at": "2026-08-21 04:02:54",
-      "album": {
         "name": "run away girl",
         "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 230552,
       "name": "run away girl",
       "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
+    },
+    {
+      "added_at": "2026-08-21 04:02:54",
+      "album": {
+        "name": "Flagstaff",
+        "url": "https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM"
+      },
+      "artists": [
+        {
+          "name": "Ax and the Hatchetmen",
+          "url": "https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Flagstaff",
+      "url": "https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u"
     },
     {
       "added_at": "2026-08-21 04:02:54",

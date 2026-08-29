@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3893254,
+  "num_followers": 3893096,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMTsK6DY9wNP12rWmrJzYSg1SEwt",
+  "snapshot_id": "AAAAANiMGPlRALhVvDO0rPSV2o5+nyzK",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:13",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "life gets hard",
-        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
-      },
-      "artists": [
-        {
-          "name": "iilliaa",
-          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
-        }
-      ],
-      "duration_ms": 125917,
-      "name": "life gets hard",
-      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3OQZaCnc8B6JxWyuZkCTI9"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 196306,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7Jnhl4HMucYxZIIxhcE5Zb"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "life gets hard",
+        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
+      },
+      "artists": [
+        {
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+        }
+      ],
+      "duration_ms": 125917,
+      "name": "life gets hard",
+      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "I Cared For You",
         "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 270476,
       "name": "I Cared For You",
       "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
-        {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 203572,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
+      },
+      "artists": [
+        {
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 201600,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "Screen",
         "url": "https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 246147,
       "name": "Screen",
       "url": "https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Perseverance",
-        "url": "https://open.spotify.com/album/4g3MstLJUccjMJMxLTRm5Y"
-      },
-      "artists": [
-        {
-          "name": "Joachim Pastor",
-          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
-        },
-        {
-          "name": "PACT",
-          "url": "https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Perseverance",
-      "url": "https://open.spotify.com/track/7DLmnCToTHfr9O0LKvWojH"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe"
       },
@@ -1971,6 +1951,22 @@
       "duration_ms": 232440,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 204419,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
     }
   ],
   "unique_name": "Chill Tracks",

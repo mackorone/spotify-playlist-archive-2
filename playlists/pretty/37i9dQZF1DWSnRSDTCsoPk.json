@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 731459,
+  "num_followers": 731492,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACin+QQ1xRxBY6gtu/vBdzF+Cu/t",
+  "snapshot_id": "AAAAAKU+0DiFuxMJcROOutHrgbXuG4c2",
   "tracks": [
     {
       "added_at": "2026-03-16 09:50:34",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
+        "name": "ODDINARY",
+        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 182757,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
-        "name": "ODDINARY",
-        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "SHOT CALLERS",
-        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
-      },
-      "artists": [
-        {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
-        }
-      ],
-      "duration_ms": 167652,
-      "name": "FaceTime",
-      "url": "https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "GOLDEN HOUR : Part.4",
         "url": "https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 219920,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "SHOT CALLERS",
+        "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 167652,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "GGUM",
-        "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
-      },
-      "artists": [
-        {
-          "name": "YEONJUN",
-          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
-        }
-      ],
-      "duration_ms": 151689,
-      "name": "GGUM",
-      "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 168106,
       "name": "POP!",
       "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "GGUM",
+        "url": "https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "duration_ms": 151689,
+      "name": "GGUM",
+      "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "play hard",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "minisode 3: TOMORROW",
         "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "HOT SAUCE",
-        "url": "https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW"
+        "name": "play hard",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
         }
       ],
-      "duration_ms": 147807,
-      "name": "HOT SAUCE",
-      "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
+        "name": "HOT SAUCE",
+        "url": "https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 147807,
+      "name": "HOT SAUCE",
+      "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
         "name": "The Action",
         "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
-        "name": "BOTH SIDES - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
-      },
-      "artists": [
-        {
-          "name": "NCT JNJM",
-          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "BOTH SIDES",
-      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
         "name": "GOLDEN HOUR : Part.1",
         "url": "https://open.spotify.com/album/37XJyd3MfDYOhmAaDY5gEU"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 172381,
       "name": "WORK",
       "url": "https://open.spotify.com/track/3VHD84tIdyxRTtRc167YSR"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
+        "name": "BOTH SIDES - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6bRPrpiUj5AFPkJLcIfMQh"
+      },
+      "artists": [
+        {
+          "name": "NCT JNJM",
+          "url": "https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "BOTH SIDES",
+      "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
     },
     {
       "added_at": "2026-03-16 09:50:34",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-03-16 09:50:34",
       "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2026-03-16 09:50:34",
+      "album": {
         "name": "Kill This Love",
         "url": "https://open.spotify.com/album/3qw2vm3uqKT3EIg95wbg83"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
-    },
-    {
-      "added_at": "2026-03-16 09:50:34",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "LALISA",
-      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
       "added_at": "2026-03-16 09:50:34",

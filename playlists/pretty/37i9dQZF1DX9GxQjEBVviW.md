@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,566 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,578 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 9 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
 | 10 | [Charlie Brown \- 2007 Remaster Stereo Single Version; Remastered](https://open.spotify.com/track/6t83zAQg9Efca1u1DPL930) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:21 |
 | 11 | [I Wonder Why \- Remastered](https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:18 |
-| 12 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 |
+| 12 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/39fE9541sKuRBOsf7UOifd) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
 | 13 | [I'm On The Outside \(Looking In\)](https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [I'm On The Outside \(Looking In\)](https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys) | 3:12 |
-| 14 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/39fE9541sKuRBOsf7UOifd) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
+| 14 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 |
 | 15 | [Searchin'](https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 2:39 |
 | 16 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
 | 17 | [Barbara Ann](https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x) | [The Regents](https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn) | [Barbara\-Ann](https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB) | 2:15 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 42 | [Don't Ask Me to Be Lonely](https://open.spotify.com/track/0AFnv5nhaov4aiWyl81Yb6) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [The Dubs Meet The Shells](https://open.spotify.com/album/66OAMu3Uhm62dda1U22OZQ) | 2:19 |
 | 43 | [At My Front Door](https://open.spotify.com/track/3htl5DFdHgU4Essw0aKS62) | [The El Dorados](https://open.spotify.com/artist/2a6TNADvz1rRCUfAcUSvww) | [A Taste Of Doo Wop, Vol\. 2](https://open.spotify.com/album/10UGIkT9Zzct1N28uG3n7M) | 2:38 |
 | 44 | [Lily Maebelle](https://open.spotify.com/track/0MQCvlztZS867JqudUmAML) | [The Valentines](https://open.spotify.com/artist/6gO9O0Iss2ipZuskVnmA9a) | [The Best Of The Valentines](https://open.spotify.com/album/5MDFQiAuvmYVJfhmN8jOTP) | 2:18 |
-| 45 | [Earth Angel](https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Original Hit Recording \- Earth Angel](https://open.spotify.com/album/42sz9A7lXIP7qmMkFh3sOQ) | 2:58 |
-| 46 | [You Belong To Me](https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [For Collectors Only](https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ) | 2:50 |
+| 45 | [You Belong To Me](https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [For Collectors Only](https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ) | 2:50 |
+| 46 | [Earth Angel](https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Original Hit Recording \- Earth Angel](https://open.spotify.com/album/42sz9A7lXIP7qmMkFh3sOQ) | 2:58 |
 | 47 | [Why Do Fools Fall In Love? \- Single Version](https://open.spotify.com/track/0QlHvmgHQ66FFaSbKkVYJM) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [American Graffiti](https://open.spotify.com/album/3ZQMECQRA5pu9YP6LtiiIC) | 2:19 |
 | 48 | [Sincerely](https://open.spotify.com/track/0a80x0s1pnRabaBIZgIZoT) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [GoodFellas \- Music From The Motion Picture](https://open.spotify.com/album/5MfaOJg3VO99QZxvyZC30B) | 3:08 |
 | 49 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 |
 | 50 | [Little Darlin'](https://open.spotify.com/track/0f7JTPN46BnWiRGb5A1fft) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/5zsNB8XxgBrMHJeQjYJ7QH) | 2:09 |
 
-Snapshot ID: `AAAAAIJj21mUHHGOeUkXtPSDTyLkyle7`
+Snapshot ID: `AAAAAMw9OsHOR39FiEKODugvHiOFOwtO`

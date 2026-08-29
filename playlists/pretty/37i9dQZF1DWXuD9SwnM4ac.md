@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: \#1 Dads
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,235 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,238 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [bathroom stalls](https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [bathroom stalls](https://open.spotify.com/album/4muZo3emWSPEYxEV0QHrXt) | 3:21 |
 | 100 | [to be free \- remastered](https://open.spotify.com/track/3lBg5NIvqTyTBEbwOxw1hy) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities \(Deluxe\)](https://open.spotify.com/album/7HX15HETUMcxtjGhDl0dxd) | 3:50 |
 
-Snapshot ID: `AAAAAFxU9PS+0vnh1FqFYiBmm+iRgFCM`
+Snapshot ID: `AAAAANtZ6zmJ/PQMDeHMG7aPhQyrgNX/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,508 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,512 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 99 | [HASKE](https://open.spotify.com/track/5it5DZNFHCOQlHXxVDll3S) | [Amasah](https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1), [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk) | [HASKE](https://open.spotify.com/album/1DCDoYPp7dMNgYxkWjboAL) | 3:13 |
 | 100 | [AGABA](https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys) | [Blessing Lopez](https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd) | [AGABA](https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT) | 2:43 |
 
-Snapshot ID: `AAAAAI5YRQ9s9kSAr3DaCKK374zfKnZC`
+Snapshot ID: `AAAAAL8Hi3cuiLPxFFLQ5PxSWdwwnnXD`

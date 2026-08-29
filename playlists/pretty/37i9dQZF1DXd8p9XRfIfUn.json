@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81336,
+  "num_followers": 81340,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADK3gdlq1O3z64dboHFo5CBGqAbi",
+  "snapshot_id": "AAAAAKIK5TaNdbJ0FUp49ynFYYtZUP6Z",
   "tracks": [
     {
       "added_at": "2025-09-18 23:00:14",
@@ -675,6 +675,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
+      },
+      "artists": [
+        {
+          "name": "OMAY",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "SokeThugPro",
+          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 195163,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
-      },
-      "artists": [
-        {
-          "name": "OMAY",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "SokeThugPro",
-          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
     },
     {
       "added_at": "2025-09-18 23:00:14",

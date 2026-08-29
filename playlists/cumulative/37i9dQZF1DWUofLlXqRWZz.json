@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "The Summer Portraits",
+        "url": "https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426520,
+      "name": "Pathos",
+      "url": "https://open.spotify.com/track/3DV69yyFV0bHhkBze5QrmB"
+    },
+    {
+      "album": {
         "name": "Pathos (Theme)",
         "url": "https://open.spotify.com/album/2w1GSTM5Yr61X7PpeDWl6h"
       },

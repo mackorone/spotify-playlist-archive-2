@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 110855,
+  "num_followers": 110862,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABEAFh/uGNFFuJD0i0pBdXU",
+  "snapshot_id": "ao9+AAAAAABdexlYLAvJPwNyFSVb2Hcw",
   "tracks": [
     {
       "added_at": null,
@@ -215,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Of Rory Live From Cork",
-        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
       },
       "artists": [
         {
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 283506,
-      "name": "Calling Card (Live)",
-      "url": "https://open.spotify.com/track/3MudtSQEXaKYCzco95uGVi"
+      "duration_ms": 400240,
+      "name": "Just 'Cos You Can Don't Mean You Should",
+      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ"
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 400240,
-      "name": "Just 'Cos You Can Don't Mean You Should",
-      "url": "https://open.spotify.com/track/2NqFYXn1io5bJuQYok0xin"
+      "duration_ms": 283506,
+      "name": "Calling Card (Live)",
+      "url": "https://open.spotify.com/track/3MudtSQEXaKYCzco95uGVi"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time Clocks",
+        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 377360,
+      "name": "Mind\u2019s Eye",
+      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/53kQpuZzu1Yd5gyBtfgvr6"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 262869,
       "name": "Broken & Blue",
       "url": "https://open.spotify.com/track/2aKN9fAyK08Ym70oMgfvwh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 377360,
-      "name": "Mind\u2019s Eye",
-      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Of Rory Live From Cork",
-        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Walk On Hot Coals (Live)",
-      "url": "https://open.spotify.com/track/1BmXSXVmXCxglY5QW8ArFR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
       },
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tales Of Time (Live)",
-        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
       },
       "artists": [
         {
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 511933,
-      "name": "The Heart That Never Waits - Live",
-      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
+      "duration_ms": 258799,
+      "name": "Walk On Hot Coals (Live)",
+      "url": "https://open.spotify.com/track/1BmXSXVmXCxglY5QW8ArFR"
     },
     {
       "added_at": null,
@@ -579,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues From The Heart Live (Live)",
-        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
       "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 349573,
-      "name": "Summertime - Live",
-      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits - Live",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": null,
@@ -631,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Of Rory Live From Cork",
-        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
       },
       "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Treat Her Right (Live)",
-      "url": "https://open.spotify.com/track/6kGgKlICjgQ406AwjtCW4W"
+      "duration_ms": 349573,
+      "name": "Summertime - Live",
+      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
       "duration_ms": 344853,
       "name": "Further On Up the Road - Live",
       "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Treat Her Right (Live)",
+      "url": "https://open.spotify.com/track/6kGgKlICjgQ406AwjtCW4W"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Of Rory Live From Cork",
-        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "Messin' With The Kid (Live)",
-      "url": "https://open.spotify.com/track/3e9qr0EnjQv47izUN77jcK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When Love Comes To Town",
         "url": "https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 251346,
       "name": "When Love Comes To Town",
       "url": "https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Spirit Of Rory Live From Cork",
+        "url": "https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "Messin' With The Kid (Live)",
+      "url": "https://open.spotify.com/track/3e9qr0EnjQv47izUN77jcK"
     },
     {
       "added_at": null,
@@ -855,22 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walking By Myself",
-        "url": "https://open.spotify.com/album/05Ye0sgcdBhVoYZSWA0YdE"
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
       "artists": [
         {
-          "name": "Bernie Marsden",
-          "url": "https://open.spotify.com/artist/677DC3rdbnijHQV1dg4j6c"
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
         },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 470813,
-      "name": "Walking By Myself - Live",
-      "url": "https://open.spotify.com/track/5Ni4FAAdUYYWW4Cef6xjri"
+      "duration_ms": 246306,
+      "name": "When Will I Let Her Go",
+      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

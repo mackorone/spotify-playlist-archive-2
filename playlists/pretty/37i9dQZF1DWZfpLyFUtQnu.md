@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,193 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,209 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 27 | [Voilà c'est fini](https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR) | [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [Bleu Blanc Vert](https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE) | 5:08 |
 | 28 | [Femmes..\. Je vous aime](https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 4:23 |
 | 29 | [Sublime & Silence](https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:56 |
-| 30 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
-| 31 | [Toi mon amour](https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [L'Heure D'Eté](https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh) | 3:34 |
+| 30 | [Toi mon amour](https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [L'Heure D'Eté](https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh) | 3:34 |
+| 31 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [Tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
 | 32 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
 | 33 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 |
 | 34 | [La liste](https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 3:13 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 46 | [Parce Qu'On Vient De Loin \(Version Acoustique\)](https://open.spotify.com/track/66BL8LOHoqwGgPzMOraqtW) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Parce qu'on vient de loin](https://open.spotify.com/album/5VMa7BgPzwjGfEPiGaJSPv) | 4:01 |
 | 47 | [Beau \(feat\. Julien Doré\) \- Version acoustique](https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Beau \(feat\. Julien Doré\) \[Version acoustique\]](https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht) | 2:33 |
 | 48 | [Sensualité](https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [The Songs \(Acoustic\)](https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ) | 3:51 |
-| 49 | [So Far Away from L.A.](https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ) | [Nicolas Peyrac](https://open.spotify.com/artist/5OGPLZXdTrhI3RMBjGi1rl) | [D'où venez\-vous ?](https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88) | 4:12 |
-| 50 | [Secret](https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Secret](https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw) | 3:10 |
+| 49 | [Secret](https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Secret](https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw) | 3:10 |
+| 50 | [So Far Away from L.A.](https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ) | [Nicolas Peyrac](https://open.spotify.com/artist/5OGPLZXdTrhI3RMBjGi1rl) | [D'où venez\-vous ?](https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88) | 4:12 |
 | 51 | [Quelques mots d'amour](https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Sanson comme ils l'imaginent](https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU) | 3:50 |
 | 52 | [Quand tu danses](https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [En passant](https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs) | 4:25 |
 | 53 | [Elle, tu l'aimes](https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 5:05 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 56 | [T'es Belle](https://open.spotify.com/track/3SnAZtodqwylc35c3tP0wZ) | [Volo](https://open.spotify.com/artist/11T4vCBbGWjL5boJmWeiw9) | [Jours Heureux](https://open.spotify.com/album/7jUVoBb0xFVgnqoBOVuvxX) | 2:29 |
 | 57 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
 | 58 | [Nous deux contre le reste du monde \- Version Acoustique](https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Les femmes idéales](https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO) | 2:51 |
-| 59 | [On fait comme si](https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [On fait comme si](https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll) | 4:11 |
-| 60 | [Dommage](https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe) | [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Erza Muqoli](https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g) | 4:47 |
+| 59 | [Dommage](https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe) | [Erza Muqoli](https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt) | [Erza Muqoli](https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g) | 4:47 |
+| 60 | [On fait comme si](https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [On fait comme si](https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll) | 4:11 |
 | 61 | [Si t'étais là](https://open.spotify.com/track/1iQ9W74bGFDAbiRIKn0PuH) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/1f1C1CjidKcWQyiIYcMvP2) | 2:33 |
 | 62 | [Manque d'Amour](https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie \(Edition Délice\)](https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N) | 3:06 |
 | 63 | [Paris\-Seychelles \- Piano\-Voix](https://open.spotify.com/track/5iHqNcItJyFeYsoFSMzT0I) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Piano SØLO](https://open.spotify.com/album/2it504tpH2sWxL1fJEnZa0) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [L’Épine](https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 2:57 |
 | 75 | [Ici et là](https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Âme fifties](https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85) | 3:05 |
 
-Snapshot ID: `AAAAAGChp3ITQXym4J68ykatewnjhGH9`
+Snapshot ID: `AAAAAC7TKBnqQO+UL86dVuuaW8QCvRxC`

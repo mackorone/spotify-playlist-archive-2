@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Bag's Theme",
+        "url": "https://open.spotify.com/album/0nQU2tt98HRM1rGtmjSXKP"
+      },
+      "artists": [
+        {
+          "name": "Gerald Situmorang",
+          "url": "https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260764,
+      "name": "Bag's Theme",
+      "url": "https://open.spotify.com/track/2UdPEqpMcvr2Z0PPsaYBPP"
+    },
+    {
+      "album": {
         "name": "Bankai",
         "url": "https://open.spotify.com/album/7IgD8vlQ7x2WZkPBsfooIH"
       },
@@ -814,6 +832,28 @@
       "duration_ms": 195644,
       "name": "Berdansa Sejenak",
       "url": "https://open.spotify.com/track/4wQc5aLDPH58ncFsv1EpnD"
+    },
+    {
+      "album": {
+        "name": "Berdua Saja",
+        "url": "https://open.spotify.com/album/1G9b6PVbdKJiY4PSFBTs5O"
+      },
+      "artists": [
+        {
+          "name": "Rifki Soeria",
+          "url": "https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT"
+        },
+        {
+          "name": "Keshya Valerie",
+          "url": "https://open.spotify.com/artist/3ioWvy85yCgiqmpyu4jEma"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Berdua Saja",
+      "url": "https://open.spotify.com/track/4hXyz3mJQNBllhn9nefmBZ"
     },
     {
       "album": {
@@ -1794,6 +1834,32 @@
       "duration_ms": 258510,
       "name": "Essence",
       "url": "https://open.spotify.com/track/43P2BUpH7mWjOx9nLZpC8C"
+    },
+    {
+      "album": {
+        "name": "Eternal Glow",
+        "url": "https://open.spotify.com/album/71UzcaEiWPG3eHkKM95B5q"
+      },
+      "artists": [
+        {
+          "name": "Monty Hasan",
+          "url": "https://open.spotify.com/artist/5ynw9wf1cMhlwLkrHGI9A1"
+        },
+        {
+          "name": "Fathan Maulana",
+          "url": "https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4"
+        },
+        {
+          "name": "Monica Karina",
+          "url": "https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326400,
+      "name": "Eternal Glow",
+      "url": "https://open.spotify.com/track/2Q7aVTspjoCKnjCcPolpdK"
     },
     {
       "album": {

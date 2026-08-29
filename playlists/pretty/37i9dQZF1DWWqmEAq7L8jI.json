@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 279233,
+  "num_followers": 279226,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACncieyO5zVxT/johH8ugMRZ1LDZ",
+  "snapshot_id": "AAAAAME+VMuanbkvdqMSaG66sPQJ5LnG",
   "tracks": [
     {
       "added_at": "2026-08-21 15:00:07",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "Calambre",
-        "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 240315,
-      "name": "BUENOS AIRES",
-      "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "Calambre",
+        "url": "https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 240315,
+      "name": "BUENOS AIRES",
+      "url": "https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "Morirme con vos",
-        "url": "https://open.spotify.com/album/3A8EQyuP4PHYsjBNEt6KAE"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        },
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 207735,
-      "name": "Morirme con vos",
-      "url": "https://open.spotify.com/track/68TQC7YHkhh0Vx2beqgvpu"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "Morirme con vos",
+        "url": "https://open.spotify.com/album/3A8EQyuP4PHYsjBNEt6KAE"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        },
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 207735,
+      "name": "Morirme con vos",
+      "url": "https://open.spotify.com/track/68TQC7YHkhh0Vx2beqgvpu"
     },
     {
       "added_at": "2026-08-21 15:00:07",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-08-21 15:00:07",
       "album": {
-        "name": "Mil disparos",
-        "url": "https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 211231,
-      "name": "Mil disparos",
-      "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
-    },
-    {
-      "added_at": "2026-08-21 15:00:07",
-      "album": {
         "name": "ACELERAO",
         "url": "https://open.spotify.com/album/44Fohjc2uXDEWFIKmqNeDZ"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 198813,
       "name": "cuerpo",
       "url": "https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0"
+    },
+    {
+      "added_at": "2026-08-21 15:00:07",
+      "album": {
+        "name": "Mil disparos",
+        "url": "https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 211231,
+      "name": "Mil disparos",
+      "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
     },
     {
       "added_at": "2026-08-21 15:00:07",

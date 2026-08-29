@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Jule X
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,069 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,070 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 | 49 | [stupid song](https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:29 |
 | 50 | [KILLY MANJARO](https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6) | [KILLY MANJARO](https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg) | 2:26 |
 
-Snapshot ID: `AAAAACvPxbAcqk940BuW3oaTdOmqp8To`
+Snapshot ID: `AAAAACAnFRMXuwlnIiWwjgkb7xaA87uy`

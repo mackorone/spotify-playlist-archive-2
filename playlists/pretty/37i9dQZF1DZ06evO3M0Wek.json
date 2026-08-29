@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 116994,
+  "num_followers": 117010,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAC3eHroazFHbaau8EdxzTHN",
+  "snapshot_id": "ao9+AAAAAAAyYeMTNYsqlmj/G6a0fzvY",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Sick Individual",
+      "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shatter Me (Deluxe)",
         "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Sick Individual",
-      "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vicious",
         "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halestorm (Deluxe)",
-        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 223213,
-      "name": "Bet U Wish U Had Me Back",
-      "url": "https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 273399,
       "name": "Fallen Star",
       "url": "https://open.spotify.com/track/5uIbZFaGgc8aYcXaIhPASi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halestorm (Deluxe)",
+        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 223213,
+      "name": "Bet U Wish U Had Me Back",
+      "url": "https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "What Sober Couldn't Say",
-      "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 254838,
       "name": "Rain Your Blood On Me",
       "url": "https://open.spotify.com/track/7dIuRuZCs8MeF8BjOsGW3l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "What Sober Couldn't Say",
+      "url": "https://open.spotify.com/track/3ONPIg5DWB6V0QFUwKq8jQ"
     },
     {
       "added_at": null,

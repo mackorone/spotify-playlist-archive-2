@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19881,
+  "num_followers": 19882,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAB7e1gQ1rxqvrsmx/nJn0+2",
+  "snapshot_id": "ao9+AAAAAAB30XpaCe7IOup32CdsYsPV",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Gaviota Traidora",
-      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 183993,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Gaviota Traidora",
+      "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Como T\u00fa",
-        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Recuerdo",
         "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 208902,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi M\u00edo",
-        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Te Enamores",
         "url": "https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 224586,
       "name": "\u00bfPor Qu\u00e9 Dejaste Que Te Amara?",
       "url": "https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi M\u00edo",
+        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt"
     },
     {
       "added_at": null,

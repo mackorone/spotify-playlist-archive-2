@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 14048,
+  "num_followers": 14049,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABdxGc8OoHvKV6LwSpJW3rx",
+  "snapshot_id": "ao9+AAAAAACiel5X8zQIIuXps7IB+zA7",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 294620,
-      "name": "Were Were",
-      "url": "https://open.spotify.com/track/38AJOtjMA9DgnWsTmnAAMf"
+      "duration_ms": 223415,
+      "name": "Tonton",
+      "url": "https://open.spotify.com/track/1Ci6xr5uTiao375hGTtqRS"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 223415,
-      "name": "Tonton",
-      "url": "https://open.spotify.com/track/1Ci6xr5uTiao375hGTtqRS"
+      "duration_ms": 294620,
+      "name": "Were Were",
+      "url": "https://open.spotify.com/track/38AJOtjMA9DgnWsTmnAAMf"
     },
     {
       "added_at": null,
@@ -615,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+        "name": "Djourou",
+        "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
       },
       "artists": [
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 235160,
-      "name": "Ekolo d'amour",
-      "url": "https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp"
+      "duration_ms": 332361,
+      "name": "Guelen",
+      "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
     },
     {
       "added_at": null,
@@ -651,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djourou",
-        "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
       "artists": [
-        {
-          "name": "Ballak\u00e9 Sissoko",
-          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
-        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 332361,
-      "name": "Guelen",
-      "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
+      "duration_ms": 235160,
+      "name": "Ekolo d'amour",
+      "url": "https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 361933,
-      "name": "Cono",
-      "url": "https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n"
+      "duration_ms": 289333,
+      "name": "Sina (Soumbouya)",
+      "url": "https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 289333,
-      "name": "Sina (Soumbouya)",
-      "url": "https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE"
+      "duration_ms": 361933,
+      "name": "Cono",
+      "url": "https://open.spotify.com/track/7cms6JQGv9q2iA2XN35V0n"
     },
     {
       "added_at": null,

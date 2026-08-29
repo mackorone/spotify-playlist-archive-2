@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: WILLOW, flowerovlove
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,205 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,220 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 89 | [The Boy with the Dragon Tattoo](https://open.spotify.com/track/4p9gfiV9YtYDXXGrWppdCp) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [The Boy with the Dragon Tattoo](https://open.spotify.com/album/7saJ1bFZzUceVcBmjQ0EQj) | 2:31 |
 | 90 | [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 |
 
-Snapshot ID: `AAAAAGVOOYmtYIAjNFTxI/iVS4F/GidC`
+Snapshot ID: `AAAAAP/naQcZBVv5Z82xb5bMi7U5iQrS`

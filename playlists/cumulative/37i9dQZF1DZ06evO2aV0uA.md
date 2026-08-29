@@ -4,7 +4,7 @@
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-149 songs - 10 hr 35 min
+150 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-05-30 |  |
 | [Contractor](https://open.spotify.com/track/26BpFV93BbQ07OierXsHqE) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:22 | 2022-05-30 | 2023-12-22 |
 | [Contractor](https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:22 | 2023-12-21 |  |
+| [Dead Seeds](https://open.spotify.com/track/3jadFJbzgsjaBcZyp8x5X6) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/1zbNLo00Ye1fqf1Pdk2GId) | 3:41 | 2026-08-29 |  |
 | [Dead Seeds](https://open.spotify.com/track/4KVfAs5lGzPHunOT1OZ5fG) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:41 | 2022-05-30 | 2024-01-16 |
-| [Dead Seeds](https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:41 | 2024-01-15 |  |
+| [Dead Seeds](https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:41 | 2024-01-15 | 2026-08-29 |
 | [Delusion Pandemic](https://open.spotify.com/track/2bBXQIFi0U3LQaQp2I5F0M) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 4:22 | 2022-06-04 | 2022-08-04 |
 | [Denial Mechanism](https://open.spotify.com/track/0cnDVHPSFnpw17rXs6yTSP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 2:37 | 2022-10-09 | 2022-10-12 |
 | [Denial Mechanism](https://open.spotify.com/track/2VjgDMPac8RDAaz2JH3UBs) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 2:37 | 2022-10-12 | 2022-10-14 |

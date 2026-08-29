@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "CALL ME",
+        "url": "https://open.spotify.com/album/0kuEYc7r5HsWu9v9avK9Wz"
+      },
+      "artists": [
+        {
+          "name": "LUMBERJVCK",
+          "url": "https://open.spotify.com/artist/4KGyomagqa7oWswreOlh3T"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "CALL ME",
+      "url": "https://open.spotify.com/track/7sG81qzdP3H3EdBVve8A3r"
+    },
+    {
+      "album": {
         "name": "Call Me On Your Way Home (feat. Alisa)",
         "url": "https://open.spotify.com/album/2GdaVuxuvnbvB1FxZtToO7"
       },
@@ -9476,6 +9494,28 @@
       "duration_ms": 171204,
       "name": "Running - Ookay Remix",
       "url": "https://open.spotify.com/track/0tNVqP7h2s2aUV9CfVfvim"
+    },
+    {
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1VcU4Cgu8fekQcySsD4o2w"
+      },
+      "artists": [
+        {
+          "name": "Castor & Pollux",
+          "url": "https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG"
+        },
+        {
+          "name": "Alan Krevo",
+          "url": "https://open.spotify.com/artist/2OCSKB9Ayw2jwxxZhVnw4z"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168580,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6vaAax6EztTdWznk7AP7gG"
     },
     {
       "album": {

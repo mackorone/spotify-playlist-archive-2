@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1026388,
+  "num_followers": 1026332,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQ+TnD1Dz32KSHUP74uF05wq26Z",
+  "snapshot_id": "AAAAAJrD4Yz2BHXEsev2FT/vmOcEpB1B",
   "tracks": [
     {
       "added_at": "2026-07-24 15:13:10",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
-        "name": "NI BORRACHO",
-        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "NI BORRACHO",
-      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 215600,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 191825,
-      "name": "Hora Loca",
-      "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -655,6 +635,26 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 191825,
+      "name": "Hora Loca",
+      "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
         "name": "El Amor En Los Tiempos Del Perreo",
         "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 211998,
       "name": "Tan Bonita",
       "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
-        "name": "TOTOTO (+4)",
-        "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 138994,
-      "name": "TOTOTO (+4)",
-      "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -707,6 +691,38 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
+        "name": "TOTOTO (+4)",
+        "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 138994,
+      "name": "TOTOTO (+4)",
+      "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
+        "name": "Tacones Rojos",
+        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
         "name": "CARACAS EN EL 2000",
         "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 227784,
       "name": "CARACAS EN EL 2000",
       "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
-        "name": "Tacones Rojos",
-        "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "ALMA",
-      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
         "name": "CANCI\u00d3N PARA REGRESAR",
         "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 254713,
       "name": "CANCI\u00d3N PARA REGRESAR",
       "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "ALMA",
+      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/11DqCI7qqSdScS5cOrFpwr"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 125482,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/7GzRxRiDEBBa42S6Nx3IHJ"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
         "name": "saman\u00e1",
         "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 160575,
       "name": "saman\u00e1",
       "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -1545,7 +1545,7 @@
         }
       ],
       "duration_ms": 161695,
-      "name": "KAWASAKI (&TEAM Remix)",
+      "name": "KAWASAKI - &TEAM Remix",
       "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
     },
     {

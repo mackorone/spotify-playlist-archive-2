@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 78808,
+  "num_followers": 78820,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAB8ogDMfoi2dHzhZOKG6CMB",
+  "snapshot_id": "ao9+AAAAAAAijCQVMvk1qxBzeaussv+q",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+        "name": "DILLAGENCE II",
+        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         },
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 282186,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
+      "duration_ms": 261426,
+      "name": "This Woman (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
     },
     {
       "added_at": null,
@@ -427,6 +427,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 282186,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -443,22 +467,6 @@
       "duration_ms": 299533,
       "name": "Ain't Nobody Home",
       "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best So Far",
-        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Heaven Must Be Like This",
-      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
     },
     {
       "added_at": null,
@@ -495,26 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DILLAGENCE II",
-        "url": "https://open.spotify.com/album/2FO2Y8abEsCT10uLce2Thh"
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
       },
       "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 261426,
-      "name": "This Woman (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/4gsr3Sbeh7q9zYrEvtWIdV"
+      "duration_ms": 252640,
+      "name": "Heaven Must Be Like This",
+      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
     },
     {
       "added_at": null,

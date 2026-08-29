@@ -1,33 +1,13 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40943,
+  "num_followers": 40948,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACBdwvRQVCTdor1UcWLRALV",
+  "snapshot_id": "ao9+AAAAAABcksfkJ1sUc5K/02V0jhOZ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Overthink (feat. Elmiene)",
-        "url": "https://open.spotify.com/album/1Abazm5IGrm9ibwtlYgJsy"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 207082,
-      "name": "Overthink (feat. Elmiene)",
-      "url": "https://open.spotify.com/track/09h9Sa4HE5iTij2tKVf9vw"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,22 +55,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nine Track Mind (Special Edition)",
-        "url": "https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ"
+        "name": "Overthink (feat. Elmiene)",
+        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 200106,
-      "name": "Marvin Gaye (feat. Wale) - Remix",
-      "url": "https://open.spotify.com/track/4LfkoDOt4mhrbo8Ndk37sQ"
+      "duration_ms": 207082,
+      "name": "Overthink (feat. Elmiene)",
+      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
     },
     {
       "added_at": null,
@@ -111,6 +91,26 @@
       "duration_ms": 213253,
       "name": "Lotus Flower Bomb (feat. Miguel)",
       "url": "https://open.spotify.com/track/3MAgQuClHcAV8E9CbeBS6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nine Track Mind (Special Edition)",
+        "url": "https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Marvin Gaye (feat. Wale) - Remix",
+      "url": "https://open.spotify.com/track/4LfkoDOt4mhrbo8Ndk37sQ"
     },
     {
       "added_at": null,
@@ -323,26 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambition",
-        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
       },
       "artists": [
         {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 302546,
-      "name": "Ambition (feat. Meek Mill & Rick Ross)",
-      "url": "https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB"
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
     },
     {
       "added_at": null,
@@ -363,6 +359,30 @@
       "duration_ms": 153935,
       "name": "City On Fire",
       "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambition",
+        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 302546,
+      "name": "Ambition (feat. Meek Mill & Rick Ross)",
+      "url": "https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB"
     },
     {
       "added_at": null,
@@ -407,6 +427,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 213954,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N.W.A",
+        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 230413,
+      "name": "N.W.A",
+      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Album About Nothing",
+        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 232661,
+      "name": "The Body (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/1cOi4OoRlpOznxiRa8FfHf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Folarin II",
         "url": "https://open.spotify.com/album/2hWG79pDHBFMCr5PQsCtF9"
       },
@@ -434,51 +510,15 @@
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 213954,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2r0dMcbpDjaopop0lwp5Ld"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Album About Nothing",
-        "url": "https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 232661,
-      "name": "The Body (feat. Jeremih)",
-      "url": "https://open.spotify.com/track/1cOi4OoRlpOznxiRa8FfHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N.W.A",
-        "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 230413,
-      "name": "N.W.A",
-      "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+      "duration_ms": 193631,
+      "name": "Like I (with Andra Day)",
+      "url": "https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv"
     },
     {
       "added_at": null,
@@ -499,26 +539,6 @@
       "duration_ms": 209182,
       "name": "FEELINGS ON SILENT (feat. Wale)",
       "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 193631,
-      "name": "Like I (with Andra Day)",
-      "url": "https://open.spotify.com/track/1oK8Eon2ItTpSabKRlbYXv"
     },
     {
       "added_at": null,
@@ -567,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 188205,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirit (feat. Wale)",
         "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
       },
@@ -583,22 +619,6 @@
       "duration_ms": 253178,
       "name": "Spirit (feat. Wale)",
       "url": "https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 188205,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/1pfEXj4djveb3DtBylxSDi"
     },
     {
       "added_at": null,
@@ -1039,26 +1059,6 @@
       "duration_ms": 249271,
       "name": "The Girls on Drugs",
       "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Feel the Love (feat. Wale)",
-      "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
     }
   ],
   "unique_name": "This Is Wale",

@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 130795,
+  "num_followers": 130808,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAACRifIVtarnqj7sfksNMfvG",
+  "snapshot_id": "ao9+AAAAAABaYKqfeLST6RYEQZhgLvDP",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estilo Fino",
+        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Infierno",
+      "url": "https://open.spotify.com/track/3frBPrmiJfJ8Oowb4kbRIb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TOP TOP (feat. MC Davo)",
         "url": "https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 362063,
       "name": "TOP TOP (feat. MC Davo)",
       "url": "https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estilo Fino",
-        "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Infierno",
-      "url": "https://open.spotify.com/track/3frBPrmiJfJ8Oowb4kbRIb"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA PARRANDHA",
-        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 238792,
-      "name": "LA PARRANDHA",
-      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MSD",
         "url": "https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 169500,
       "name": "MSD",
       "url": "https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA PARRANDHA",
+        "url": "https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 238792,
+      "name": "LA PARRANDHA",
+      "url": "https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ"
     },
     {
       "added_at": null,

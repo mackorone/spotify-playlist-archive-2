@@ -2021,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "2026",
+        "url": "https://open.spotify.com/album/6VANzyAP5IDX28q3IRaCEM"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218176,
+      "name": "2026",
+      "url": "https://open.spotify.com/track/1VWyUUj31HoE3BLCIAEvke"
+    },
+    {
+      "album": {
         "name": "20S",
         "url": "https://open.spotify.com/album/7d55M83JSccUsKp0KiH9G9"
       },
@@ -17669,11 +17687,11 @@
         },
         {
           "name": "Armageddon",
-          "url": "https://open.spotify.com/artist/770KUfsvpJLcWqFv96JgM6"
+          "url": "https://open.spotify.com/artist/1m8LYS7KgDBdAI8r1dhAYP"
         },
         {
           "name": "Anderson",
-          "url": "https://open.spotify.com/artist/1WrqscQTSOcBLyjIv5Qz6H"
+          "url": "https://open.spotify.com/artist/4J7UmEdjzftguZjIKlc1m6"
         }
       ],
       "date_added": "2026-08-28",

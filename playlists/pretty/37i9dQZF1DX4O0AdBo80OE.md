@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Suaaaaaaave 📸 Kanito Escalante, Gabito Ballesteros, El Bogueto y Calle 24
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,556 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,570 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 49 | [Astronauta de Tus Lunares](https://open.spotify.com/track/03K83Z46K5t8VlhLrh9l6v) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Eso Es](https://open.spotify.com/album/63AS1gi3b6PVi0HgIKZ1eq) | 2:36 |
 | 50 | [Callada](https://open.spotify.com/track/23VUbeTcVOHdW8OG5XEpPd) | [Tactos Valensuela](https://open.spotify.com/artist/5fc807yonjFCaoxXSAf6a0) | [Callada](https://open.spotify.com/album/6bp4wW5h2YUyVVqMD9vZsq) | 3:48 |
 
-Snapshot ID: `AAAAAM/VEETR45T/vD7tXZpI9TJHt0hy`
+Snapshot ID: `AAAAAFjVfpoqTj43VaefiER+luHKC/a/`

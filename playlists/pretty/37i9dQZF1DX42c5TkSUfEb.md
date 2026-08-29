@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,012 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,951 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 59 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
 | 60 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 |
 | 61 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 |
-| 62 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |
-| 63 | [H24](https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [H24](https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz) | 3:36 |
+| 62 | [H24](https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [H24](https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz) | 3:36 |
+| 63 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |
 | 64 | [i don’t want your garden](https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [i don’t want your garden](https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq) | 3:45 |
 | 65 | [Rupture \- Version acoustique](https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Rupture \(Version acoustique\)](https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun) | 2:30 |
 | 66 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 81 | [Brown Eyes](https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Brown Eyes](https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE) | 3:17 |
 | 82 | [HÂTE DE VIVRE](https://open.spotify.com/track/5WHBv4A7s71zPJEUBwh29v) | [Dajak](https://open.spotify.com/artist/4UzhGDGnyLajt5ZoeEciGh) | [SOLAR STEREO](https://open.spotify.com/album/63CNNQAFo5dLHPV70fU1ed) | 5:25 |
 | 83 | [echo](https://open.spotify.com/track/79GcoDCWzmUB64NukpaMhh) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Mixtape Telecom](https://open.spotify.com/album/5iuLIPxKzU0X9FjaQLwN9r) | 2:47 |
-| 84 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
-| 85 | [Helsinki](https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [My Name](https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w) | 5:07 |
-| 86 | [For Better and For Worse](https://open.spotify.com/track/3ankwuUT4iWTFhGEyC0k9Y) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [For Better and For Worse](https://open.spotify.com/album/2xeCYK4beWrE6uPOLW9e3F) | 3:32 |
+| 84 | [For Better and For Worse](https://open.spotify.com/track/3ankwuUT4iWTFhGEyC0k9Y) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [For Better and For Worse](https://open.spotify.com/album/2xeCYK4beWrE6uPOLW9e3F) | 3:32 |
+| 85 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
+| 86 | [Helsinki](https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [My Name](https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w) | 5:07 |
 | 87 | [Ose](https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Oser](https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC) | 3:22 |
 | 88 | [Still I Wait](https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Still I Wait](https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi) | 3:49 |
 | 89 | [Störm](https://open.spotify.com/track/2n5wsJzPnKaKi1YIsGRmbi) | [Black Lilys](https://open.spotify.com/artist/6dtP2BDEXa3dHhYo8u22pH) | [Störm](https://open.spotify.com/album/0EYirK4HFyP6UCLzf9SlR8) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [On dansera encore](https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [On dansera encore](https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo) | 3:02 |
 | 100 | [If Only](https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR) | [Aiden](https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma) | [If Only](https://open.spotify.com/album/7d05HveiLG4742vBLElcSE) | 3:06 |
 
-Snapshot ID: `AAAAAMhz9BvhthEXfJSXlvuvXQzojfcj`
+Snapshot ID: `AAAAAMyVKOpoqAuneWWxu3/hw2RzvrzW`

@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 22 | [Easy](https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:14 |
 | 23 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 24 | [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 |
-| 25 | [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 |
-| 26 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 |
+| 25 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 |
+| 26 | [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 |
 | 27 | [Crybaby](https://open.spotify.com/track/1g7pFO1WtclKCuIQiS8sNM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:01 |
 | 28 | [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 |
 | 29 | [Far](https://open.spotify.com/track/74NI58MQexwZjNu1Gu6GjT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 41 | [WAY IT IS](https://open.spotify.com/track/1r3uOHPoiIv89Xb6K9bDH4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:15 |
 | 42 | [BUTTERFLIES](https://open.spotify.com/track/5cfsQZEFf1IpQr8F9vI9le) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:13 |
 | 43 | [Arya](https://open.spotify.com/track/0BPLYT25SArsp2bswOHKjo) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/5DaFJffWkaDaDQbKJ1Zydi) | 2:42 |
-| 44 | [Everything](https://open.spotify.com/track/1hbnlGCWNVbRUmN5qBTnTN) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:46 |
-| 45 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
+| 44 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
+| 45 | [Everything](https://open.spotify.com/track/1hbnlGCWNVbRUmN5qBTnTN) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:46 |
 | 46 | [Porcelana](https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Dougie F](https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:08 |
 | 47 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 |
 | 48 | [Pensamientos Intrusivos](https://open.spotify.com/track/52x8HIGuk1gGTlvO8CuLNS) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:12 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 222 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 223 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcawPAAAAABfgiSBPOunJQFx82wMnEBj`
+Snapshot ID: `Aca1RgAAAAAXVDT0JjHQr9kkQknacMVT`

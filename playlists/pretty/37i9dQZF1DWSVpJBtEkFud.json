@@ -1,12 +1,12 @@
 {
   "description": "Pop favorites from today and yesterday",
-  "num_followers": 274301,
+  "num_followers": 274357,
   "original_name": "Pop Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMoKsPQoJkKKO+JF0+eaA57an4NG",
+  "snapshot_id": "AAAAANi+eFc6FXtTIDEfWE+60vBulOhH",
   "tracks": [
     {
       "added_at": "2024-12-09 17:46:14",
@@ -111,18 +111,22 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
         }
       ],
-      "duration_ms": 208786,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
+      "duration_ms": 242721,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -143,22 +147,18 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 242721,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 202534,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Shower",
-        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 221366,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 231233,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 238920,
       "name": "SOS",
       "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 181026,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
-        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "Unapologetic (Edited Version)",
         "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
       },
       "artists": [
         {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -1407,6 +1391,22 @@
       "duration_ms": 185773,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2024-12-09 17:46:14",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-12-09 17:46:14",
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 159735,
-      "name": "Good as Hell",
-      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
-    },
-    {
-      "added_at": "2024-12-09 17:46:14",
-      "album": {
         "name": "Overexposed",
         "url": "https://open.spotify.com/album/5x7JzoE4A3DwwU6FPt8qws"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 231386,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/1LmN9SSHISbtp9LoaR5ZVJ"
+    },
+    {
+      "added_at": "2024-12-09 17:46:14",
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
     }
   ],
   "unique_name": "Pop Road Trip",

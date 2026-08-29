@@ -1,12 +1,12 @@
 {
   "description": "Hity, kter\u00e9 t\u011b povzbud\u00ed a nalad\u00ed na vlnu dobr\u00e9 n\u00e1lady.",
-  "num_followers": 35697,
+  "num_followers": 35694,
   "original_name": "Vlna Radosti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALW1vX4mO7W7gXcYwkWy2sK256MX",
+  "snapshot_id": "AAAAAM71Orwf1KGkCRxzdq3IcFh4AOkI",
   "tracks": [
     {
       "added_at": "2026-01-16 15:27:38",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-01-16 15:27:38",
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2026-01-16 15:27:38",
+      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2026-01-16 15:27:38",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2026-01-16 15:27:38",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-01-16 15:27:38",
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2026-01-16 15:27:38",
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 144562,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2026-01-16 15:27:38",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2026-01-16 15:27:38",

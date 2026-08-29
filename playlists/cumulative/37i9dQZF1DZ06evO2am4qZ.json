@@ -2026,32 +2026,6 @@
     {
       "album": {
         "name": "Arcane League of Legends (The Remixes)",
-        "url": "https://open.spotify.com/album/3RUU7n2qtrKKDyjBnLXKkX"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "date_added": "2024-11-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151846,
-      "name": "Playground (from the series Arcane League of Legends) (Baby Tate Remix)",
-      "url": "https://open.spotify.com/track/24hmRlHbOk8vmvMBTVJbc6"
-    },
-    {
-      "album": {
-        "name": "Arcane League of Legends (The Remixes)",
         "url": "https://open.spotify.com/album/6LUMiog4suQdCv2F31U9pq"
       },
       "artists": [
@@ -2074,6 +2048,32 @@
       "duration_ms": 151846,
       "name": "Playground (from the series Arcane League of Legends) - Baby Tate Remix",
       "url": "https://open.spotify.com/track/2TRtAPADsGBBXaEmXEh7dt"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends (The Remixes)",
+        "url": "https://open.spotify.com/album/3RUU7n2qtrKKDyjBnLXKkX"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151846,
+      "name": "Playground - from the series Arcane League of Legends (Baby Tate Remix)",
+      "url": "https://open.spotify.com/track/24hmRlHbOk8vmvMBTVJbc6"
     },
     {
       "album": {

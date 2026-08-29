@@ -1,12 +1,12 @@
 {
   "description": "A relaxing atmosphere of Jazz piano sounds.",
-  "num_followers": 567715,
+  "num_followers": 567708,
   "original_name": "The Piano Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPL9vCM7FCyFUH45ZdrXMfEe9HZw",
+  "snapshot_id": "AAAAAMjL3r3Mgr5eFJ/mptSWhWDf/yeE",
   "tracks": [
     {
       "added_at": "2026-05-25 11:22:48",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 230050,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "There Will Be Better Days",
         "url": "https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 299349,
       "name": "There Will Be Better Days",
       "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 230050,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "The Fool That Fell For You",
-        "url": "https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R"
-      },
-      "artists": [
-        {
-          "name": "Most Iverson",
-          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
-        }
-      ],
-      "duration_ms": 270976,
-      "name": "The Fool That Fell For You",
-      "url": "https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "A Cookie For Marie",
         "url": "https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 206097,
       "name": "Maybe We Should Dance",
       "url": "https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "The Fool That Fell For You",
+        "url": "https://open.spotify.com/album/5uY11ROa2tDY8XYnD4cj2R"
+      },
+      "artists": [
+        {
+          "name": "Most Iverson",
+          "url": "https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2"
+        }
+      ],
+      "duration_ms": 270976,
+      "name": "The Fool That Fell For You",
+      "url": "https://open.spotify.com/track/6I55pPROwwFjd5rPTwMHlH"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Journeying",
-        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
-      },
-      "artists": [
-        {
-          "name": "The Don Mason Trio",
-          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
-        }
-      ],
-      "duration_ms": 231130,
-      "name": "Journeying",
-      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "Above All",
         "url": "https://open.spotify.com/album/4yHKNMO6qCHvJlj43fHGGQ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 182733,
       "name": "Above All",
       "url": "https://open.spotify.com/track/2K9iXW1SNMCRLhtG1CZKpV"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Journeying",
+        "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
+      },
+      "artists": [
+        {
+          "name": "The Don Mason Trio",
+          "url": "https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf"
+        }
+      ],
+      "duration_ms": 231130,
+      "name": "Journeying",
+      "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
-      },
-      "artists": [
-        {
-          "name": "Cara Myers Trio",
-          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "i've got a crush on you",
         "url": "https://open.spotify.com/album/3bdegMUGxFxJbgKocQE2G4"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 216759,
       "name": "i've got a crush on you",
       "url": "https://open.spotify.com/track/79S9Ea6Q347UAPTIWnLmV2"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
+        "name": "My Side Of Town",
+        "url": "https://open.spotify.com/album/0FbpuR6VWZJLaYxJbAKJqE"
+      },
+      "artists": [
+        {
+          "name": "The Southern Belle",
+          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+        }
+      ],
+      "duration_ms": 178352,
+      "name": "My Side Of Town",
+      "url": "https://open.spotify.com/track/03y18NhxeD2Nq4JqftAEdm"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
         "name": "Everytime We Say Goodbye",
         "url": "https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "My Side Of Town",
-        "url": "https://open.spotify.com/album/0FbpuR6VWZJLaYxJbAKJqE"
+        "name": "Sunset over Paris",
+        "url": "https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF"
       },
       "artists": [
         {
-          "name": "The Southern Belle",
-          "url": "https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV"
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
         }
       ],
-      "duration_ms": 178352,
-      "name": "My Side Of Town",
-      "url": "https://open.spotify.com/track/03y18NhxeD2Nq4JqftAEdm"
+      "duration_ms": 243174,
+      "name": "Sunset over Paris",
+      "url": "https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -971,18 +987,18 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Sunset over Paris",
-        "url": "https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF"
+        "name": "The Meadows",
+        "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
       },
       "artists": [
         {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+          "name": "Jaden Berry",
+          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
         }
       ],
-      "duration_ms": 243174,
-      "name": "Sunset over Paris",
-      "url": "https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe"
+      "duration_ms": 195587,
+      "name": "The Meadows",
+      "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "The Meadows",
-        "url": "https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6"
+        "name": "A Lucky Break",
+        "url": "https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d"
       },
       "artists": [
         {
-          "name": "Jaden Berry",
-          "url": "https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL"
+          "name": "Tore Lundblad",
+          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
         }
       ],
-      "duration_ms": 195587,
-      "name": "The Meadows",
-      "url": "https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je"
+      "duration_ms": 189204,
+      "name": "A Lucky Break",
+      "url": "https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1047,22 +1063,6 @@
       "duration_ms": 215000,
       "name": "The Lights",
       "url": "https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
-        "name": "A Lucky Break",
-        "url": "https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d"
-      },
-      "artists": [
-        {
-          "name": "Tore Lundblad",
-          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
-        }
-      ],
-      "duration_ms": 189204,
-      "name": "A Lucky Break",
-      "url": "https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Muddy Trail",
-        "url": "https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 220879,
-      "name": "Muddy Trail",
-      "url": "https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "Soulful Stroll",
         "url": "https://open.spotify.com/album/2HAfP5HvWcL2pByucZhUZL"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 230088,
       "name": "Soulful Stroll",
       "url": "https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Muddy Trail",
+        "url": "https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 220879,
+      "name": "Muddy Trail",
+      "url": "https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Lena",
-        "url": "https://open.spotify.com/album/4gTjYWSEJqiA0QIId5WdcU"
-      },
-      "artists": [
-        {
-          "name": "Eternal Time Trio",
-          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
-        }
-      ],
-      "duration_ms": 182561,
-      "name": "Lena",
-      "url": "https://open.spotify.com/track/69T2sTQtGwNnHl1nV9hSlj"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 211053,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Lena",
+        "url": "https://open.spotify.com/album/4gTjYWSEJqiA0QIId5WdcU"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "duration_ms": 182561,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/69T2sTQtGwNnHl1nV9hSlj"
     },
     {
       "added_at": "2026-05-25 11:22:48",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-05-25 11:22:48",
       "album": {
-        "name": "Part of the moment",
-        "url": "https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19"
-      },
-      "artists": [
-        {
-          "name": "Bridgerton Vail",
-          "url": "https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC"
-        }
-      ],
-      "duration_ms": 170145,
-      "name": "Part of the moment",
-      "url": "https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A"
-    },
-    {
-      "added_at": "2026-05-25 11:22:48",
-      "album": {
         "name": "Guess the difference?",
         "url": "https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 199923,
       "name": "Guess the difference?",
       "url": "https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf"
+    },
+    {
+      "added_at": "2026-05-25 11:22:48",
+      "album": {
+        "name": "Part of the moment",
+        "url": "https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19"
+      },
+      "artists": [
+        {
+          "name": "Bridgerton Vail",
+          "url": "https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC"
+        }
+      ],
+      "duration_ms": 170145,
+      "name": "Part of the moment",
+      "url": "https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A"
     },
     {
       "added_at": "2026-05-25 11:22:48",

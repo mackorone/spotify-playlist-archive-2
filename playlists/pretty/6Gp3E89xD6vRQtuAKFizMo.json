@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43303,
+  "num_followers": 43300,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAa0Y2As6lKFZSfnbpvHjnaQujAtHkz",
+  "snapshot_id": "AAAa1US65sH2tUoTvZU6E3HldI4Dg7Pn",
   "tracks": [
+    {
+      "added_at": "2026-08-28 11:41:29",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/1VcU4Cgu8fekQcySsD4o2w"
+      },
+      "artists": [
+        {
+          "name": "Castor & Pollux",
+          "url": "https://open.spotify.com/artist/6fHUILCpBvfSHB48AEciPG"
+        },
+        {
+          "name": "Alan Krevo",
+          "url": "https://open.spotify.com/artist/2OCSKB9Ayw2jwxxZhVnw4z"
+        }
+      ],
+      "duration_ms": 168580,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/6vaAax6EztTdWznk7AP7gG"
+    },
+    {
+      "added_at": "2026-08-28 11:43:28",
+      "album": {
+        "name": "CALL ME",
+        "url": "https://open.spotify.com/album/0kuEYc7r5HsWu9v9avK9Wz"
+      },
+      "artists": [
+        {
+          "name": "LUMBERJVCK",
+          "url": "https://open.spotify.com/artist/4KGyomagqa7oWswreOlh3T"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "CALL ME",
+      "url": "https://open.spotify.com/track/7sG81qzdP3H3EdBVve8A3r"
+    },
     {
       "added_at": "2026-08-21 12:48:19",
       "album": {

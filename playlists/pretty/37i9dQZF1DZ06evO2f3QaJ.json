@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABDwHJ+qtqmO6G3NkurjFBM",
+  "snapshot_id": "ao9+AAAAAAABUqmlx8ByAOe9vRs93YH8",
   "tracks": [
     {
       "added_at": null,
@@ -270,15 +270,11 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
         }
       ],
-      "duration_ms": 220574,
-      "name": "Tempo Ruim",
-      "url": "https://open.spotify.com/track/2I4To8M4JvYfhfbGkwbQIZ"
+      "duration_ms": 103820,
+      "name": "Sem Sono",
+      "url": "https://open.spotify.com/track/7qz472rDbqgJSUWVhUt0Bj"
     },
     {
       "added_at": null,
@@ -350,11 +346,15 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
         }
       ],
-      "duration_ms": 103820,
-      "name": "Sem Sono",
-      "url": "https://open.spotify.com/track/7qz472rDbqgJSUWVhUt0Bj"
+      "duration_ms": 220574,
+      "name": "Tempo Ruim",
+      "url": "https://open.spotify.com/track/2I4To8M4JvYfhfbGkwbQIZ"
     },
     {
       "added_at": null,
@@ -504,33 +504,25 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Nuvens",
-      "url": "https://open.spotify.com/track/7uO9qHPMCClOTgJv57Im6A"
+      "duration_ms": 170826,
+      "name": "O Dia Mais Quente do Ano",
+      "url": "https://open.spotify.com/track/4heODqOt9uK15OzVYgzIP7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vinhos & Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/1PBarGUYAMSwXOAouGVLDw"
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
       },
       "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Quero ser tua",
-      "url": "https://open.spotify.com/track/3Ttrqj3QfgzIslZ8RkICKI"
+      "duration_ms": 348097,
+      "name": "HORA DOURADA",
+      "url": "https://open.spotify.com/track/3tMYT2mytJrmAZMm2SMjlT"
     },
     {
       "added_at": null,
@@ -580,49 +572,33 @@
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 170826,
-      "name": "O Dia Mais Quente do Ano",
-      "url": "https://open.spotify.com/track/4heODqOt9uK15OzVYgzIP7"
+      "duration_ms": 168146,
+      "name": "Nuvens",
+      "url": "https://open.spotify.com/track/7uO9qHPMCClOTgJv57Im6A"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
+        "name": "Vinhos & Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/1PBarGUYAMSwXOAouGVLDw"
       },
       "artists": [
         {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348097,
-      "name": "HORA DOURADA",
-      "url": "https://open.spotify.com/track/3tMYT2mytJrmAZMm2SMjlT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banho de Folhas (Nyack Remix)",
-        "url": "https://open.spotify.com/album/4oMm4lyLphLCRKCVHv7QRb"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         },
         {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
         },
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 250458,
-      "name": "Banho de Folhas - Nyack Remix",
-      "url": "https://open.spotify.com/track/7Iop6KQKKaunEcvGIa4Z6w"
+      "duration_ms": 194181,
+      "name": "Quero ser tua",
+      "url": "https://open.spotify.com/track/3Ttrqj3QfgzIslZ8RkICKI"
     },
     {
       "added_at": null,
@@ -647,6 +623,30 @@
       "duration_ms": 250746,
       "name": "Um Acorde",
       "url": "https://open.spotify.com/track/2EF1OnmKAOPf5UqpdwkpZF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banho de Folhas (Nyack Remix)",
+        "url": "https://open.spotify.com/album/4oMm4lyLphLCRKCVHv7QRb"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 250458,
+      "name": "Banho de Folhas - Nyack Remix",
+      "url": "https://open.spotify.com/track/7Iop6KQKKaunEcvGIa4Z6w"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pref\u00e1cio",
-        "url": "https://open.spotify.com/album/0LiIVGTa0JclWDURzhPSC5"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 313020,
-      "name": "Pref\u00e1cio",
-      "url": "https://open.spotify.com/track/54mChBlXoN0ifo5KpRyDJX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "24hs",
         "url": "https://open.spotify.com/album/7CWUChdbiLrXe7ZYQH29na"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pref\u00e1cio",
+        "url": "https://open.spotify.com/album/0LiIVGTa0JclWDURzhPSC5"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 313020,
+      "name": "Pref\u00e1cio",
+      "url": "https://open.spotify.com/track/54mChBlXoN0ifo5KpRyDJX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zulu, Vol .1: De Onde Eu Possa Alcan\u00e7ar o C\u00e9u Sem Deixar o Ch\u00e3o",
         "url": "https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz"
       },
@@ -814,15 +814,11 @@
         {
           "name": "Zudizilla",
           "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        },
-        {
-          "name": "Manoela Fortuna",
-          "url": "https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb"
         }
       ],
-      "duration_ms": 263360,
-      "name": "Sem Distra\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
+      "duration_ms": 272010,
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/2N3YBhqs58ro7hF36IP8Og"
     },
     {
       "added_at": null,
@@ -871,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
-        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 248213,
-      "name": "SALVE",
-      "url": "https://open.spotify.com/track/6fnzv6cH0aiqM6riOitTas"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Fauve",
         "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
       },
@@ -899,6 +879,22 @@
       "duration_ms": 180000,
       "name": "Nervos de A\u00e7o",
       "url": "https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 248213,
+      "name": "SALVE",
+      "url": "https://open.spotify.com/track/6fnzv6cH0aiqM6riOitTas"
     },
     {
       "added_at": null,
@@ -951,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Fauve",
+        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 173285,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/1cSnXmpnBWrYLeXXVTDiHY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
         "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
       },
@@ -967,22 +979,6 @@
       "duration_ms": 270405,
       "name": "MATRIX",
       "url": "https://open.spotify.com/track/1rMVg1PXOVwy5bG9WSVVC4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Fauve",
-        "url": "https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm"
-      },
-      "artists": [
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 175934,
-      "name": "Blas\u00e9",
-      "url": "https://open.spotify.com/track/1iPWKFLGwc4z6giG1JhnDq"
     },
     {
       "added_at": null,

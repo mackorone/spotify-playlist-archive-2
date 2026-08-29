@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,696 songs - 10 day 13 hr 7 min
+4,700 songs - 10 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [ALTITUDE](https://open.spotify.com/track/5ptjJVf8s273uVhlNCDclm) | [Mak\_SA](https://open.spotify.com/artist/2CWE4miGaKOUcSyMLtfues), [Classic\_Myzar](https://open.spotify.com/artist/2TlnjJLYkyh0VUaMCrkpZz) | [ALTITUDE](https://open.spotify.com/album/3vT7EOjdXAFlRO589EbYbc) | 6:24 | 2025-06-05 |  |
 | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/track/5kqcCwru3Oz2lg7WdWQhhy) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/album/2YgS8QXiJs9yxOVDHTwZO7) | 2:36 | 2026-03-06 |  |
 | [Always](https://open.spotify.com/track/1n76KlBMMNrhShu9SbbBPz) | [Girl Venom](https://open.spotify.com/artist/2BQW3kmiIoIubGEHApdrUN) | [Always](https://open.spotify.com/album/6GF96G1DxeAc8soFd66iQt) | 5:17 | 2025-11-16 |  |
+| [Always The Best](https://open.spotify.com/track/0OXj73SVPdLAllhoPa0tVw) | [Gr!t](https://open.spotify.com/artist/3Wm8pFKXhnyxtVlW4npip2) | [House Star](https://open.spotify.com/album/67cjkHorallGw6UJ9tVGwl) | 6:48 | 2026-08-28 |  |
 | [Alza Le Mani](https://open.spotify.com/track/4TMGmpr0iuU0f5VnMQwNyn) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Alza Le Mani](https://open.spotify.com/album/3VbUhT0Tn6m6vcdPW3Z0Gt) | 3:43 | 2025-08-27 |  |
 | [AMAHIT](https://open.spotify.com/track/3GsapAiKC0nNg5UY9yjsJn) | [Prince MSK](https://open.spotify.com/artist/2uBjCmm2Y4L5UeYwe4JvL8), [Thokoza](https://open.spotify.com/artist/28mEM3nWxeF5CBz8DLiWkj), [Zainley](https://open.spotify.com/artist/6Ej1M9ib9lNpcApq2xxRV9), [Crazy Max](https://open.spotify.com/artist/4vFiFIFAuRHAaSJAjiseEF), [Junior Jay](https://open.spotify.com/artist/1TsSsOFAqFYUqbdeDK3veK) | [AMAHIT](https://open.spotify.com/album/79yttXnkQbrgP85ESTpfb7) | 4:07 | 2025-06-04 |  |
 | [Amanecer](https://open.spotify.com/track/2mbpjOVwM7dDfukfXmLjEI) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Tocar la lluvia](https://open.spotify.com/album/1YPCa52lWFtLNr16GgANuh) | 2:24 | 2026-04-12 |  |
@@ -2026,6 +2027,7 @@
 | [In a Room](https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [In a Room](https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me) | 3:46 | 2026-06-29 |  |
 | [In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF) | [smokedope2016](https://open.spotify.com/artist/3hGJ4nHdF99Vs0gQdXz5Nw) | [THE PEAK](https://open.spotify.com/album/41JwTf1V6YTn4adggC7sxN) | 2:21 | 2025-07-28 |  |
 | [In fondo al mondo](https://open.spotify.com/track/7vfDeck07Yq9N8fRqurXmx) | [Pietro Contenti \(Montecristo\)](https://open.spotify.com/artist/1hElnwNn7P1EbfblsN7SWA) | [In fondo al mondo](https://open.spotify.com/album/2zGdDkU1WRTy1pxrfiOGe5) | 3:05 | 2026-02-13 |  |
+| [In ogni cosa di buono](https://open.spotify.com/track/54QzBeGwcSPQOJLS7gBlq9) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [In ogni cosa di buono](https://open.spotify.com/album/1lxihRPr7maVHUy9XlRR44) | 4:44 | 2026-08-28 |  |
 | [In punta di mani \(domani\)](https://open.spotify.com/track/721H7OLyVCXjcHov1XsEeY) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [In punta di mani \(domani\)](https://open.spotify.com/album/1eC7il0qCMBFlmDuUujZdm) | 2:52 | 2025-03-16 |  |
 | [In the Air](https://open.spotify.com/track/0o51SFZkj5CAdCNg4qfFs3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:03 | 2025-09-17 |  |
 | [In the Air \(another\)](https://open.spotify.com/track/1Tsoup85qct2BxEM8cNg5X) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:44 | 2025-09-17 |  |
@@ -4102,9 +4104,11 @@
 | [The Witchs Curse](https://open.spotify.com/track/5WNoewxflFNpjB6mIcT2U6) | [Deadmemxry](https://open.spotify.com/artist/2pXlZlfVJ2IADMqAaazNlJ) | [DELIRIUM](https://open.spotify.com/album/10SAyyHbQ4pjSEELg8GEnB) | 3:49 | 2025-12-04 |  |
 | [The World](https://open.spotify.com/track/7dVGcsc7buzvVCZxmjRKdc) | [Felicita Brucato](https://open.spotify.com/artist/2G9Iqqr42GGuvipYA4vH56) | [The World](https://open.spotify.com/album/53Hv0nA1qvf38XMykM8877) | 3:26 | 2026-02-18 |  |
 | [Their Kin](https://open.spotify.com/track/36g2Yb2mid6mIIphz5rvYr) | [PaSK](https://open.spotify.com/artist/0ubHnI1tYSkVVxslIkr3gO) | [Their Kin](https://open.spotify.com/album/1bMP3gZgcSaprLd2zzBM5U) | 3:28 | 2025-06-11 |  |
+| [Therapy Is in Session](https://open.spotify.com/track/0tjGsj3kj6kAxcn3t3fYVa) | [Daysick](https://open.spotify.com/artist/1mnmYPlWBNM4hgWRsgaelX) | [Therapy Is in Session](https://open.spotify.com/album/2oppb5R3dGMpZnG0ouCB4c) | 4:14 | 2026-08-28 |  |
 | [There Goes Concorde Again](https://open.spotify.com/track/7sHuWXX3vTeb1byU2XBot6) | [...and the Native Hipsters](https://open.spotify.com/artist/4rv0B6KyCBBpV1xcNmqmCM) | [There Goes Concorde Again](https://open.spotify.com/album/4wJwa8jpvKSeQxSh0Sgb5s) | 6:43 | 2025-12-04 |  |
 | [There She Goes](https://open.spotify.com/track/5Y3wYkAVGMiUB3Wbq7f3EG) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Shotter's Nation](https://open.spotify.com/album/3riBfJ503oK9oDH4TRXWfF) | 3:35 | 2025-11-05 |  |
 | [They Don't Know](https://open.spotify.com/track/3hsEFgZCaDue9wXKckx1a4) | [Jay Get Em](https://open.spotify.com/artist/4YdLBeSM98c0HJeXNvbcVO) | [They Don't Know](https://open.spotify.com/album/6Nryzdyo2adLCP4ZGetgKB) | 2:04 | 2026-08-07 |  |
+| [They Suffocate](https://open.spotify.com/track/4jDKE3FnB2QyZAtw9Sl3oB) | [Barbarism.](https://open.spotify.com/artist/0YAuUyYQorYBXjGmU3iwte) | [They Suffocate](https://open.spotify.com/album/6NlINobYsDf7OnBvFEaYMu) | 3:25 | 2026-08-28 |  |
 | [Thin](https://open.spotify.com/track/2GTdC7LFqvWWoB3HAEK3eD) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Thin](https://open.spotify.com/album/6TSRiCfaBjgNCDj3vYlLut) | 2:50 | 2024-02-29 |  |
 | [Think that i\`m in love](https://open.spotify.com/track/1z4jj3igYn3iZ89Ay5wTe4) | [Twirlies](https://open.spotify.com/artist/1M0XUNd420W1qZ3YPtvm4M) | [Think that i\`m in love](https://open.spotify.com/album/6EKEe0orzdFHSyxpehLaLH) | 3:06 | 2025-05-23 |  |
 | [Third Line](https://open.spotify.com/track/2tzO97a9VB7momcD8xdbX4) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Third Line](https://open.spotify.com/album/76bo80UoLk0qN8QOFlNsjM) | 5:09 | 2025-07-03 |  |

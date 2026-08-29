@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,594 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,597 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 19 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 |
 | 20 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
 | 21 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
-| 22 | [Humdum](https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Humdum](https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku) | 3:01 |
-| 23 | [tere bina](https://open.spotify.com/track/6N5WkgPIDoTdbCXyyIIKAv) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [tere bina](https://open.spotify.com/album/1Us61dLUqSkclDwUyygBmJ) | 2:37 |
+| 22 | [tere bina](https://open.spotify.com/track/6N5WkgPIDoTdbCXyyIIKAv) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [tere bina](https://open.spotify.com/album/1Us61dLUqSkclDwUyygBmJ) | 2:37 |
+| 23 | [Humdum](https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Humdum](https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku) | 3:01 |
 | 24 | [Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Don't Even Text](https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb) | 2:59 |
 | 25 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 |
 | 26 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 49 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 | 50 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 |
 
-Snapshot ID: `AAAAAPzowj7/272fS/Y0IKdDLxWzBtVm`
+Snapshot ID: `AAAAAE4jX5cH09eMgGewmGQYcP7Qz57b`

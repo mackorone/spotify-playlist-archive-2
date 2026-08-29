@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Mucha variedad y rolitas chidas esta semana, DANNA y Belinda en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,682 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,235 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 4 | [Mi Nombre En Su Piel](https://open.spotify.com/track/3sScCWZisZEgq2fIriZ1GS) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Mi Nombre En Su Piel](https://open.spotify.com/album/6famfHssBpX4dqeVxIhNhD) | 2:50 |
 | 5 | [En Corto](https://open.spotify.com/track/1HFTl94Wuq1gKq2LZQMxlT) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [En Corto](https://open.spotify.com/album/5XOQUsYvfhl9TVoZG8EnCL) | 2:40 |
 | 6 | [MODO MAL DE AMORES](https://open.spotify.com/track/6QEu7qTYnPqsHeGRJZldnz) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [MODO MAL DE AMORES](https://open.spotify.com/album/3kH1fsTJoMAURalabw6muT) | 2:40 |
-| 7 | [PARAMICORAZON:](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON:](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
+| 7 | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
 | 8 | [Ojos Brujos](https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Ojos Brujos](https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH) | 4:10 |
 | 9 | [HOTEL](https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [HOTEL](https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl) | 2:33 |
 | 10 | [Sólo Un Día](https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Sólo Un Día](https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv) | 3:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 89 | [Más Allá](https://open.spotify.com/track/3HsXYSiXB9XVFisG8bFIMe) | [Ricardo Pérez](https://open.spotify.com/artist/3Qax4sJ7V7GoZMfFDqbuM2) | [Más Allá](https://open.spotify.com/album/2SsDqQiSLxuusD7qvZNmVV) | 2:33 |
 | 90 | [me brillan los ojos en el club](https://open.spotify.com/track/24n6510sCQfN6rP0PMz5Oi) | [TINU](https://open.spotify.com/artist/3yriZWDhMn67qxncQ0bpa8) | [me brillan los ojos en el club](https://open.spotify.com/album/75lXxlhpuZushnV9axC02b) | 3:01 |
 
-Snapshot ID: `AAAAACIz+ztVX2W+EB4cgylAaE37mPLV`
+Snapshot ID: `AAAAACHONfdr8rPw7ZqHO8pQuG8BTEUG`

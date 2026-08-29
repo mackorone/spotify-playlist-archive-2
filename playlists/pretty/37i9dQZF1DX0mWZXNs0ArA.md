@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,650 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,920,481 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 25 | [Bad Habit \- Sped Up](https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit \(Sped Up\)](https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T) | 3:11 |
 | 26 | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/track/6xjBgCWC0pgNDvJzTz9JcZ) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure \- Sped Up](https://open.spotify.com/album/1JezApQUnDj1SkWmZy1Sn3) | 3:03 |
 | 27 | [Si No Estás \- Sped Up](https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv) | [Formula Speed](https://open.spotify.com/artist/2nQICMBSbxi0lojZH8WB3b) | [Si No Estás \(Sped Up\)](https://open.spotify.com/album/4G9kPHRXsREM1Gd1feSyk3) | 2:19 |
-| 28 | [Belong Together \(Sped Up\)](https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4) | [Lucky Socks](https://open.spotify.com/artist/6xzw5aUZjoW4siq4PDB1QC) | [Belong Together \(Sped Up\)](https://open.spotify.com/album/63lyyB4lBh74i32hvTSwWr) | 2:08 |
+| 28 | [Belong Together \- Sped Up](https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4) | [Lucky Socks](https://open.spotify.com/artist/6xzw5aUZjoW4siq4PDB1QC) | [Belong Together \(Sped Up\)](https://open.spotify.com/album/63lyyB4lBh74i32hvTSwWr) | 2:08 |
 | 29 | [WASTE \- Sped Up Version](https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 1:40 |
 | 30 | [Pool \- Gravagerz Version \- Sped Up](https://open.spotify.com/track/0yQOKvmYpZDzMmOMS9qY1u) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Pool \(Gravagerz Version \- Sped Up & Slowed Down\)](https://open.spotify.com/album/0x2OZtWCIZP5tDBazcPdlJ) | 1:57 |
 | 31 | [eyes don't lie sped up](https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:09 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 82 | [Saturn \- Sped Up](https://open.spotify.com/track/6HCRvVvTrW0gXGOW8cbkqw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 2:39 |
 | 83 | [It's Called: Freefall \(Rainbow Kitten Surprise\) \- Sped Up Version](https://open.spotify.com/track/29xN2h4Cmzmt7lo5Ws1PlZ) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV) | [It’s Called: Freefall \(Rainbow Kitten Surprise\) \[Sped Up Version\]](https://open.spotify.com/album/0mk9wKYZseQHEdkHPyPVki) | 2:08 |
 | 84 | [3D \(feat\. Jack Harlow\) \(Sped Up\)](https://open.spotify.com/track/1ewYtP6BZlak8qokzZe4Bx) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 2:48 |
-| 85 | [kompa pasión \- sped up](https://open.spotify.com/track/4HtX5Hfk0jjiEmJTo6gkZz) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/5tORQTrDCEGbzXF7D6oQR3) | 2:07 |
-| 86 | [EYES CLOSED \(with ZAYN\) \- 2X](https://open.spotify.com/track/0IHmXRAKcRd00l50QW5pQU) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\) \[2X\]](https://open.spotify.com/album/0eNHq5zvwCafUZfPAEclIX) | 2:46 |
+| 85 | [EYES CLOSED \(with ZAYN\) \- 2X](https://open.spotify.com/track/0IHmXRAKcRd00l50QW5pQU) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\) \[2X\]](https://open.spotify.com/album/0eNHq5zvwCafUZfPAEclIX) | 2:46 |
+| 86 | [kompa pasión \- sped up](https://open.spotify.com/track/4HtX5Hfk0jjiEmJTo6gkZz) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/5tORQTrDCEGbzXF7D6oQR3) | 2:07 |
 | 87 | [af1 \(sped up\)](https://open.spotify.com/track/1HmUGju9HonKgT157b0DLB) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [af1 \(sped up\)](https://open.spotify.com/album/5n0OHA9uNQ6voLmTJJkg5B) | 1:58 |
 | 88 | [UNDERSTAND \- Sped Up](https://open.spotify.com/track/6DMI24muDgH74R3sT2ie4F) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [UNDERSTAND \(Sped Up Version\)](https://open.spotify.com/album/7y33ncIO49DOPfqM6xtAkC) | 2:05 |
 | 89 | [Paint The Town Red \- Sped Up](https://open.spotify.com/track/0Rjj6c6oThmuTeNu3EP3um) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Demons + Paint The Town Red](https://open.spotify.com/album/6nFN6jMhxevXL4Y7tuivv9) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [YOU'RE TOO SLOW \- Sped Up](https://open.spotify.com/track/28IsqKmZQyl6eGiIapyUNm) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [DOOR TO DUSK \(ODECORE MIX\)](https://open.spotify.com/album/0lzxP3FqDyCvbEL8jER5kX) | 1:39 |
 | 100 | [Blue Valentine \- Sped Up Ver.](https://open.spotify.com/track/4LiufIB6RRB2VaxjEOcnGF) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/6jy5700dqaCui8Wosnaaar) | 2:30 |
 
-Snapshot ID: `AAAAACoI1htT3ikedHQIwxb1Lcb6pU+/`
+Snapshot ID: `AAAAAEdFA6tYaAdYJZqivJgYMUzSovzX`

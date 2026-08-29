@@ -4,7 +4,7 @@
 
 > headows in cover della playlist con il futuro del rap italiano 📈
 
-2,584 songs - 4 day 12 hr 55 min
+2,585 songs - 4 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1472,7 +1472,7 @@
 | [MOISE KEAN](https://open.spotify.com/track/38NU5s6KSn5lUfnh8QUpyn) | [Saco](https://open.spotify.com/artist/7bAhUbvOceOdr0x2XU47R7) | [MOISE KEAN](https://open.spotify.com/album/4i3XpfOVIsVyI5ANiyiKRR) | 3:15 | 2025-05-27 | 2025-06-17 |
 | [Mollami](https://open.spotify.com/track/61nvdx8fAPqk90C8v0Pncm) | [Due G](https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba) | [Mollami](https://open.spotify.com/album/4CtqlMpuiMgKi4IrEOrP3f) | 2:58 | 2025-10-23 | 2025-11-21 |
 | [Molly](https://open.spotify.com/track/1oHPxuDHRpBrtVrVyrHAQ4) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Molly](https://open.spotify.com/album/71U89HHqx5ETCYvi4kKPcl) | 2:19 | 2024-06-06 | 2024-06-21 |
-| [MOLLY & PERCOCET](https://open.spotify.com/track/1tM8ONGcgmvt91bBd9DiVU) | [manueltime](https://open.spotify.com/artist/6N77V5lSWGy12nnqNmjYW0), [Almighty Brian](https://open.spotify.com/artist/0067CTZR9FIUo865ZSMpQw), [OGKAGE](https://open.spotify.com/artist/10EWS82AzwXYzLhaIf9wD3) | [MOLLY & PERCOCET](https://open.spotify.com/album/6Vy5FSOCSoZk65g4kM4qYu) | 1:43 | 2026-08-27 |  |
+| [MOLLY & PERCOCET](https://open.spotify.com/track/1tM8ONGcgmvt91bBd9DiVU) | [manueltime](https://open.spotify.com/artist/6N77V5lSWGy12nnqNmjYW0), [Almighty Brian](https://open.spotify.com/artist/0067CTZR9FIUo865ZSMpQw), [OGKAGE](https://open.spotify.com/artist/10EWS82AzwXYzLhaIf9wD3) | [MOLLY & PERCOCET](https://open.spotify.com/album/6Vy5FSOCSoZk65g4kM4qYu) | 1:40 | 2026-08-27 |  |
 | [MOLLY ROSA](https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [WE 2FLY](https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2) | 2:19 | 2024-08-01 | 2024-10-25 |
 | [Molly water](https://open.spotify.com/track/6Oinh0AY0RT5Wde98yart7) | [tretrempire](https://open.spotify.com/artist/4EHBbsN95ELZC8nHKxNOZn), [tretreaura](https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN), [Arson](https://open.spotify.com/artist/3w8E37Gzpxtp7X4Wuixeav), [Olli](https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi) | [Molly water](https://open.spotify.com/album/16osBFA2Iit6jjRfOFMVOj) | 2:35 | 2026-01-22 | 2026-02-06 |
 | [momento](https://open.spotify.com/track/05c1b9H2wzG1KsyGiKhyTw) | [Yxto](https://open.spotify.com/artist/0tJ0lez7iPTrdiupoNnVN1), [tretreaura](https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN), [Olli](https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi) | [momento](https://open.spotify.com/album/0oBCa1cv27p4rlRO8cIJic) | 1:42 | 2026-01-15 | 2026-01-30 |
@@ -1559,6 +1559,7 @@
 | [Niente Da Perdere](https://open.spotify.com/track/2lUti9Pis9z2IqP1IViXxF) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Niente Da Perdere](https://open.spotify.com/album/4VN7MdLoaXXwSqTjYWpl38) | 2:44 | 2022-05-10 | 2022-05-31 |
 | [Niente Esiste](https://open.spotify.com/track/09hTZ0uD59JDvmyPDu8iW6) | [Due G](https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba) | [Niente Esiste](https://open.spotify.com/album/5jCMfgXc5WE6OONqFHS8nk) | 2:35 | 2026-04-23 | 2026-06-12 |
 | [NIENTE MALE](https://open.spotify.com/track/3WR04nNxnDqQd39EG0axE2) | [b4ze](https://open.spotify.com/artist/6Mh1nUtD5kZghWvdso2SC8) | [NIENTE MALE](https://open.spotify.com/album/1j3q9WFGxjDsals37jWSsB) | 2:03 | 2026-04-02 | 2026-05-22 |
+| [NIENTE È PER SEMPRE](https://open.spotify.com/track/3Of5q3EjYuH6JQQVqUjyMV) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [NIENTE È PER SEMPRE](https://open.spotify.com/album/6f4GPyPHjgL4jOV6cNokXX) | 2:34 | 2026-08-28 |  |
 | [Night](https://open.spotify.com/track/2WD712u8LetfSJehnLTUnG) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu) | [Night](https://open.spotify.com/album/4s9DmabbpN3Ccmy7qPSixr) | 2:21 | 2025-03-13 | 2025-04-11 |
 | [Night](https://open.spotify.com/track/2Bvyca0aDAMdryhprXWLtb) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [HOOD LOVE EP](https://open.spotify.com/album/6Kfl6xvN8rcTKcZdlz2z5T) | 2:38 | 2024-03-07 | 2024-04-04 |
 | [NIKE \(feat\. Tony Boy, Digital Astro\)](https://open.spotify.com/track/5rKeKZlZ3u0bT7QvWMts7C) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 2:40 | 2023-05-11 | 2023-07-21 |

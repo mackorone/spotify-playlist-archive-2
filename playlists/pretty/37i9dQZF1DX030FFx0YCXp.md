@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 
 > Crowd\-pleasing favorites for an easy, carefree day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,285 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,315 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 21 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
 | 22 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 |
 | 23 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
-| 24 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:09 |
-| 25 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
-| 26 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 24 | [Night Moves](https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Night Moves](https://open.spotify.com/album/5QkOpsZupEPLq186YOrBNe) | 5:24 |
+| 25 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
+| 26 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:09 |
 | 27 | [Sister Golden Hair](https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo) | [Hearts](https://open.spotify.com/album/6Ef4yClroC8pMGktYOUd5n) | 3:19 |
 | 28 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 |
 | 29 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 41 | [Movin' Out \(Anthony's Song\)](https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:30 |
 | 42 | [Something Serious](https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:46 |
 | 43 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
-| 44 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
-| 45 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 |
+| 44 | [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 |
+| 45 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |
 | 46 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
 | 47 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
 | 48 | [You Can't Always Get What You Want](https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 7:28 |
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 77 | [Two Tickets to Paradise \(2022 Remaster\)](https://open.spotify.com/track/22CIOfLZB9z8He7WgHYAgH) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Eddie Money \(2022 Remaster\)](https://open.spotify.com/album/5gMrkmI53zEn98WDwU0iye) | 4:00 |
 | 78 | [Drift Away \- Single Version](https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Ultimate Collection: Dobie Gray](https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS) | 3:57 |
 | 79 | [Heartache Tonight \- 2013 Remaster](https://open.spotify.com/track/2bzgKuK3pVez40qUvo8sYr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:25 |
-| 80 | [In the Summertime](https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7) | 3:31 |
-| 81 | [Shambala \- Single Version](https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Cyan](https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK) | 3:24 |
-| 82 | [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 |
+| 80 | [Shambala \- Single Version](https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Cyan](https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK) | 3:24 |
+| 81 | [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 |
+| 82 | [In the Summertime](https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7) | 3:31 |
 | 83 | [I Saw the Light](https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 3:02 |
 | 84 | [My Old School](https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Countdown To Ecstasy](https://open.spotify.com/album/1oOpgDzHt6wl7kHbFFPzEc) | 5:39 |
 | 85 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX030FFx0YCXp.md) - [plain]
 | 99 | [Your Song](https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 6:30 |
 | 100 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
 
-Snapshot ID: `AAAAAPqwkPIcMjSkMkvmS+zzAu0jHhe5`
+Snapshot ID: `AAAAADj88gxFhwlWSaKEj9+0B0Jyi7Pr`

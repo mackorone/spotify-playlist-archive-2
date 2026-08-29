@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YbAFP6knzC.md) - [plain]
 
 > Get ready for the new documentary movie '<a href="https://cgv.co.kr/mShrtU/Cg2oX"> Stray Kids : The dominATE Experience</a>' with the setlist! \(셋리스트를 들으며 스트레이 키즈의 새로운 다큐멘터리 영화 'Stray Kids : The dominATE Experience' 를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,617 likes - 29 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,698 likes - 29 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YbAFP6knzC.md) - [plain]
 | 28 | [MIROH](https://open.spotify.com/track/2YqEJzDR8qI8qwaoi9khbB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/2mwbaIiCV1lfqiaX0y2Tjg) | 3:28 |
 | 29 | [Chk Chk Boom \(Festival Ver.\)](https://open.spotify.com/track/4d28DHHr8p1xbpEHaxdLfV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/0eQiSiMwLWDd1gxkMqkvuS) | 2:33 |
 
-Snapshot ID: `AAAAANTpZ7eohIRLiI3U5uQoTJkMlEdR`
+Snapshot ID: `AAAAAO9ZqtM7zkWirSQuXF1UKvOHlWnk`

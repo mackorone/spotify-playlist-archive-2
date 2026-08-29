@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Muse Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,562 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,580 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PREDESTINADA \(feat\. Nagalli\)](https://open.spotify.com/track/6I2Rp5BPCCEBoknjR2Cbx5) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 1:46 |
+| 1 | [PREDESTINADA](https://open.spotify.com/track/6I2Rp5BPCCEBoknjR2Cbx5) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 1:46 |
 | 2 | [01](https://open.spotify.com/track/27gnHanG3ba00UfkEdYYhi) | [Joana Black](https://open.spotify.com/artist/226S9LHSy8MpKuQ8sgObs6), [Gomesz](https://open.spotify.com/artist/64F5dm6rUZ1e80A7y7PZvw) | [01](https://open.spotify.com/album/2aCvyCTceOoKWkE8HGz7eA) | 3:11 |
 | 3 | [STAGE DIVING](https://open.spotify.com/track/6Ul0UJcOtYm6WmW6pkvLIa) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Necroez](https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ) | [DIÁRIO DE UMA GAROTA SUBVERSIVA \(DELUXE\)](https://open.spotify.com/album/1yq6Lc1lFmXLscGO6kvQ5z) | 2:59 |
 | 4 | [Foca em mim \- Spotify Singles](https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Foca em mim \- Spotify Singles](https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [Fitas](https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [JOTA](https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk) | [Nega Doce](https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8) | 2:29 |
 | 75 | [ZyZy](https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [ZyZy](https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En) | 2:29 |
 
-Snapshot ID: `AAAAAIHZz7/6oWLdrq4nILBagHwv/yE4`
+Snapshot ID: `AAAAABd1MAdtKVhTWBwaZ/DyKRPM1DIF`

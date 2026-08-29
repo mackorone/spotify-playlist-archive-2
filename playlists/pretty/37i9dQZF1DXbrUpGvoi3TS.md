@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,620,613 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,620,554 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 38 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
 | 39 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 |
 | 40 | [Little Do You Know](https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:05 |
-| 41 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
-| 42 | [Goodbye](https://open.spotify.com/track/5PihYbt4uNnVt68l5D1SGb) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Vanishing Race](https://open.spotify.com/album/1WVavkGT7qfAwjCRrgYLN5) | 4:02 |
+| 41 | [Goodbye](https://open.spotify.com/track/5PihYbt4uNnVt68l5D1SGb) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Vanishing Race](https://open.spotify.com/album/1WVavkGT7qfAwjCRrgYLN5) | 4:02 |
+| 42 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
 | 43 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 |
 | 44 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 |
 | 45 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 52 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 |
 | 53 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
 | 54 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 |
-| 55 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/7ArrTJ1LwcGAlEO65LUQ7i) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:21 |
-| 56 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 |
+| 55 | [Let It Go](https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/3G2kixP0Pi8L0KgmSYohb2) | 4:20 |
+| 56 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/7ArrTJ1LwcGAlEO65LUQ7i) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:21 |
 | 57 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 |
 | 58 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 59 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 91 | [Crazy in Love](https://open.spotify.com/track/5iJS04ZXjMkQZ5nS0PsIeY) | [Eden Project](https://open.spotify.com/artist/26plsJBmW5se3wurhwzaEK) | [Crazy in Love](https://open.spotify.com/album/0W1rDqIMNC2lg5Rtq7kn2H) | 4:25 |
 | 92 | [Anybody Else](https://open.spotify.com/track/5SR9WnrC9pGFfDld6xoil5) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 3:20 |
 | 93 | [Samson](https://open.spotify.com/track/2JAUBPBVkimRLc5BGhAkfJ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:09 |
-| 94 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 |
-| 95 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 |
+| 94 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 |
+| 95 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 |
 | 96 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 |
 | 97 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 |
 | 98 | [5AM](https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:17 |
 | 99 | [Losin Control](https://open.spotify.com/track/1jkIErXa3YNUX5QIyO6GGR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Losin Control](https://open.spotify.com/album/2Xn8a3z0UPKpgz8VpaGcRk) | 3:57 |
 | 100 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
 
-Snapshot ID: `AAAAAAV6TZOQZIRcPgYbqqz45nU9pig6`
+Snapshot ID: `AAAAAK/tQu9h450qgsvpqcEt3uk2zmy6`

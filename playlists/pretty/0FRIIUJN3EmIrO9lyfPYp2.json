@@ -1,13 +1,149 @@
 {
   "description": "updated with new <a href=\"https://youtube.com/c/dreamscapeyt\">youtube uploads</a>...",
-  "num_followers": 14867,
+  "num_followers": 14864,
   "original_name": "dreamscape uploads",
   "owner": {
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACpc1jhsYWU+SxH5ngnxa7H0GNWGsP",
+  "snapshot_id": "AAACpkyOSi9cpp5fg/2nzTu3D4P3axeM",
   "tracks": [
+    {
+      "added_at": "2026-08-28 22:14:24",
+      "album": {
+        "name": "#5469",
+        "url": "https://open.spotify.com/album/1UexlsVB0fs6W0tlzzRmaS"
+      },
+      "artists": [
+        {
+          "name": "d2s1",
+          "url": "https://open.spotify.com/artist/0l6f9cXGE0K2QbcK1ZBgCY"
+        }
+      ],
+      "duration_ms": 101959,
+      "name": "#5469",
+      "url": "https://open.spotify.com/track/7M2xRY5HmAFpHo80IOSjWI"
+    },
+    {
+      "added_at": "2026-08-28 22:14:24",
+      "album": {
+        "name": "vanish (slowed)",
+        "url": "https://open.spotify.com/album/2SlttnQd8CZbgdB0iGIP8J"
+      },
+      "artists": [
+        {
+          "name": "SilentWoods",
+          "url": "https://open.spotify.com/artist/0eL9roG367Vh9MthL18TmR"
+        }
+      ],
+      "duration_ms": 180532,
+      "name": "vanish (slowed)",
+      "url": "https://open.spotify.com/track/0LzZJHnDKieKLzYFglhUNF"
+    },
+    {
+      "added_at": "2026-08-28 22:14:24",
+      "album": {
+        "name": "after the warmth (forlorn remix)",
+        "url": "https://open.spotify.com/album/7bZyZbWicbV01BNmHHqqo8"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        },
+        {
+          "name": "forlorn",
+          "url": "https://open.spotify.com/artist/10URY9GmoJErCHAzo6jFyT"
+        }
+      ],
+      "duration_ms": 238206,
+      "name": "after the warmth (forlorn remix)",
+      "url": "https://open.spotify.com/track/7tyj0K5wWWXMEqDUiho5mY"
+    },
+    {
+      "added_at": "2026-08-28 22:14:24",
+      "album": {
+        "name": "i can't remember the last time i felt like this",
+        "url": "https://open.spotify.com/album/0pZHEoXIqaYFGVd8tjLeLL"
+      },
+      "artists": [
+        {
+          "name": "remind me",
+          "url": "https://open.spotify.com/artist/60xAlF5GiiiIY7uvQL9NxI"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "i can't remember the last time i felt like this",
+      "url": "https://open.spotify.com/track/0QBE7Aje71w9udKG0v3rBm"
+    },
+    {
+      "added_at": "2026-08-28 22:14:24",
+      "album": {
+        "name": "digital tapeloop",
+        "url": "https://open.spotify.com/album/3VRB8yFoDqHTXcHp1hQI0b"
+      },
+      "artists": [
+        {
+          "name": "statika",
+          "url": "https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 107571,
+      "name": "digital tapeloop",
+      "url": "https://open.spotify.com/track/1zpJOi9DDydjRxeICeWr76"
+    },
+    {
+      "added_at": "2026-08-28 22:14:24",
+      "album": {
+        "name": "Hide CS01 (Ambient Rework)",
+        "url": "https://open.spotify.com/album/4JGubmce3ab3V7QBdAGRIF"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Hide CS01 (Ambient Rework)",
+      "url": "https://open.spotify.com/track/7AG34rYXm9gdj4s0Ebxjl5"
+    },
+    {
+      "added_at": "2026-08-28 22:14:24",
+      "album": {
+        "name": "show you off",
+        "url": "https://open.spotify.com/album/33Y0sPvZrAMwZeUdXTpkzH"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "show you off",
+      "url": "https://open.spotify.com/track/2tuDM76L4ZElWSa95fwDg4"
+    },
+    {
+      "added_at": "2026-08-28 22:14:24",
+      "album": {
+        "name": "when everything slows down",
+        "url": "https://open.spotify.com/album/7IIlm6uUU3pNy2f4jxfcX5"
+      },
+      "artists": [
+        {
+          "name": "fade gently",
+          "url": "https://open.spotify.com/artist/535wS1IPD0eFBFvNSfldcC"
+        }
+      ],
+      "duration_ms": 142513,
+      "name": "when everything slows down",
+      "url": "https://open.spotify.com/track/62FkHn7ySwD91yQ2Ehc51Y"
+    },
     {
       "added_at": "2026-08-22 08:16:03",
       "album": {

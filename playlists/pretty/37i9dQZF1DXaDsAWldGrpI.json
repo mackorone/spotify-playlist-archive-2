@@ -1,12 +1,12 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143389,
+  "num_followers": 143388,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIdYbKBekFJ6K0gn6M/Gt44AhvtY",
+  "snapshot_id": "AAAAAOprQIuqwmH8lVkvpLPtQhXVizOX",
   "tracks": [
     {
       "added_at": "2026-04-15 17:00:10",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
+        "name": "Speak Now World Tour Live",
+        "url": "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 336826,
+      "name": "Sparks Fly - Live/2011",
+      "url": "https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
         "name": "Love On The Inside (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 254346,
       "name": "Life In A Northern Town - Live",
       "url": "https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Speak Now World Tour Live",
-        "url": "https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 336826,
-      "name": "Sparks Fly - Live/2011",
-      "url": "https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -649,7 +649,7 @@
         }
       ],
       "duration_ms": 287938,
-      "name": "Tennessee Whiskey (Live on the Grand Ole Opry, October 29th, 2016)",
+      "name": "Tennessee Whiskey - Live on the Grand Ole Opry, October 29th, 2016",
       "url": "https://open.spotify.com/track/78zsDmckb1IsaDJMofMKWP"
     },
     {
@@ -967,22 +967,18 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live in No Shoes Nation",
-        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
+        "name": "FISHIN' IN THE DARK (Live from the Road)",
+        "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
         }
       ],
-      "duration_ms": 285733,
-      "name": "You and Tequila (with Grace Potter) - Live",
-      "url": "https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P"
+      "duration_ms": 202865,
+      "name": "FISHIN' IN THE DARK - Live from the Road",
+      "url": "https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "FISHIN' IN THE DARK (Live from the Road)",
-        "url": "https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl"
+        "name": "Live in No Shoes Nation",
+        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
       },
       "artists": [
         {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
         }
       ],
-      "duration_ms": 202865,
-      "name": "FISHIN' IN THE DARK - Live from the Road",
-      "url": "https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im"
+      "duration_ms": 285733,
+      "name": "You and Tequila (with Grace Potter) - Live",
+      "url": "https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Live in No Shoes Nation",
-        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "Save It for a Rainy Day (with Old Dominion) - Live",
-      "url": "https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Live From 2025",
         "url": "https://open.spotify.com/album/3EGfky2LBE7t8mWKtHzNeg"
       },
@@ -1115,6 +1095,22 @@
       "duration_ms": 198173,
       "name": "Take Me Home, Country Roads - Live at the Universal Amphitheatre, Los Angeles, CA - August/September 1974",
       "url": "https://open.spotify.com/track/6sPWx6muyq4EQ7edBCqVTy"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Kenny Chesney Live",
+        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 285306,
+      "name": "Back Where I Come From - Live",
+      "url": "https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1151,22 +1147,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Kenny Chesney Live",
-        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 285306,
-      "name": "Back Where I Come From - Live",
-      "url": "https://open.spotify.com/track/3ib4ycdeIE13s5heRkMYNU"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Live EP 001",
         "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
       },
@@ -1179,22 +1159,6 @@
       "duration_ms": 231634,
       "name": "Straight and Narrow - Live",
       "url": "https://open.spotify.com/track/0q2ZwaD697dTrD2Fq5jcvU"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "No Horse To Ride (Live From Boston)",
-        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 226523,
-      "name": "No Horse To Ride - Live From Boston",
-      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1215,6 +1179,42 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
+        "name": "Live in No Shoes Nation",
+        "url": "https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "Save It for a Rainy Day (with Old Dominion) - Live",
+      "url": "https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "No Horse To Ride (Live From Boston)",
+        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 226523,
+      "name": "No Horse To Ride - Live From Boston",
+      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
       },
@@ -1227,26 +1227,6 @@
       "duration_ms": 198253,
       "name": "Forget About It - Live From The Louisville Palace, Kentucky / 2002",
       "url": "https://open.spotify.com/track/57ttBdIRG5KtdwJOZQtd9E"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
-        "name": "Kenny Chesney Live",
-        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        },
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "When The Sun Goes Down - Duet With Uncle Kracker (Live)",
-      "url": "https://open.spotify.com/track/7pQK5p4esbVIzuXI5dATaw"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1283,6 +1263,26 @@
       "duration_ms": 317168,
       "name": "Somethin' 'Bout A Woman - Live From Fenway Park",
       "url": "https://open.spotify.com/track/6pCBIdt549KZRupgHVLG02"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Kenny Chesney Live",
+        "url": "https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "When The Sun Goes Down - Duet With Uncle Kracker (Live)",
+      "url": "https://open.spotify.com/track/7pQK5p4esbVIzuXI5dATaw"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
-        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
-      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Hate How You Look (Live From London)",
         "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 203375,
       "name": "Hate How You Look - Live From London",
       "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
+        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
+      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
     },
     {
       "added_at": "2026-04-15 17:00:10",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-04-15 17:00:10",
       "album": {
-        "name": "On The Air: Her Best TV Performances",
-        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "She's Got You - Live",
-      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
-    },
-    {
-      "added_at": "2026-04-15 17:00:10",
-      "album": {
         "name": "Live from the Ryman",
         "url": "https://open.spotify.com/album/46kzMpUsEmPdoEDtUWLjDM"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 170466,
       "name": "Welcome to Hard Times - Live from the Ryman",
       "url": "https://open.spotify.com/track/4QxGtOtabeAuy4WJ6OqG5V"
+    },
+    {
+      "added_at": "2026-04-15 17:00:10",
+      "album": {
+        "name": "On The Air: Her Best TV Performances",
+        "url": "https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "She's Got You - Live",
+      "url": "https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw"
     },
     {
       "added_at": "2026-04-15 17:00:10",

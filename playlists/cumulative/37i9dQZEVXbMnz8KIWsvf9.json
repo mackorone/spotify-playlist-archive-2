@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 201000,
       "name": "Blingy",
       "url": "https://open.spotify.com/track/0EOAaYE4KAVp67jwtQvbmB"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Blingy",
       "url": "https://open.spotify.com/track/1sDnTmOcxJYeZx26MpJ1kg"
@@ -7787,6 +7787,24 @@
     },
     {
       "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/0T5efuqRjy0wuUeuxYj4Ru"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310736,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/5Sjh897ZdtbjuCdPWirjI9"
+    },
+    {
+      "album": {
         "name": "Kung Fu",
         "url": "https://open.spotify.com/album/2RAiyvUcSRHt0l4Sn3D8PV"
       },
@@ -10614,7 +10632,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 216000,
       "name": "One Of My Life",
       "url": "https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj"
@@ -15452,6 +15470,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "album": {
+        "name": "\u0e18\u0e32\u0e15\u0e38\u0e17\u0e2d\u0e07\u0e0b\u0e32\u0e27\u0e14\u0e4c",
+        "url": "https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235666,
+      "name": "TOO YOUNG 2 LOVE",
+      "url": "https://open.spotify.com/track/2MDwiy5E60hUKXUSN9ScLH"
     },
     {
       "album": {
@@ -21094,7 +21130,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 256946,
       "name": "\u0e1d\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e02\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/198pPjDG0juHRjechZrWer"
@@ -22716,7 +22752,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 197500,
       "name": "\u0e2a\u0e21\u0e14\u0e38\u0e25\u0e23\u0e31\u0e01 (Balance)",
       "url": "https://open.spotify.com/track/2luYdyxKSSxuC3cSW8N6A0"
@@ -23014,7 +23050,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-26",
+      "date_removed": null,
       "duration_ms": 289847,
       "name": "\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e21\u0e31\u0e19\u0e01\u0e33\u0e25\u0e31\u0e07\u0e40\u0e01\u0e34\u0e14 (feat. \u0e27\u0e07 PAUSE) - From \"\u0e2d\u0e31\u0e19\u0e42\u0e01\u0e30 \u0e01\u0e25\u0e23\u0e31\u0e01\u0e2a\u0e15\u0e23\u0e2d\u0e27\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e23\u0e35\u0e48\"",
       "url": "https://open.spotify.com/track/0JG4BZohRtuj6AE09xW7AC"

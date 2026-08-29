@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Twisted Teens
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,390 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,417 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Perennials](https://open.spotify.com/track/4oOXIvjBmaFyGRTlMgIx7a) | [Continental Breakfast Club](https://open.spotify.com/artist/6qxAaGbV0z4Eteqinyanp1) | [Perennials](https://open.spotify.com/album/0SKU0Z1SONpjkKPVPxew2F) | 3:58 |
 | 75 | [Kind of Girl I Am](https://open.spotify.com/track/2vmbWXnyrmCLI1usekZIEX) | [Trophy Wife](https://open.spotify.com/artist/7HcbQJiChdkCTU40v2tsvc) | [Kind of Girl I Am](https://open.spotify.com/album/18XwneodQZqn7N1we8ybgo) | 2:23 |
 
-Snapshot ID: `AAAAAGaZI0FyeEiR5qze7eFBN8i9qoOr`
+Snapshot ID: `AAAAABUQ6gw+MhBspK1QbA4NxWmUlD35`

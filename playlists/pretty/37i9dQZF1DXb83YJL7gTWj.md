@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,550 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,558 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 18 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 |
 | 19 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 20 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
-| 21 | [You're Still The One](https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You're Still The One](https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc) | 3:16 |
+| 21 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
 | 22 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 |
-| 23 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 |
+| 23 | [You're Still The One](https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You're Still The One](https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc) | 3:16 |
 | 24 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 |
 | 25 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:25 |
 | 26 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 97 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 |
 | 98 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
 | 99 | [The scientist](https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [The scientist](https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN) | 4:27 |
-| 100 | [Little Bit More](https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Little Bit More](https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF) | 3:00 |
+| 100 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 |
 
-Snapshot ID: `AAAAAKHjaTvrBqor2vz3Y/vbFZ68huzW`
+Snapshot ID: `AAAAAAdjjQI2X+aSMf/doigh46P2ocbV`

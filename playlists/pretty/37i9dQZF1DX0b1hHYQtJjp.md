@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,060 likes - 74 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,203 likes - 74 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 73 | [Damned If I Do](https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 3:37 |
 | 74 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
 
-Snapshot ID: `AAAAABgMUBOJWvc5pZCZInNfFmCNent/`
+Snapshot ID: `AAAAAIjPX9hiIqd4QXOsPli/Tkni9a3W`

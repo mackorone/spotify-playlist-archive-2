@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 
 > The songs of the 1960s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,704 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,739 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 18 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:11 |
 | 19 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops \- Second Album](https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O) | 2:40 |
 | 20 | [\(I Can't Get No\) Satisfaction \- Mono](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
-| 21 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
-| 22 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
+| 21 | [For Once In My Life](https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [For Once In My Life](https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ) | 2:49 |
+| 22 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
 | 23 | [It's Not Unusual](https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Jones](https://open.spotify.com/album/15rjWnMzpMTz2wJ67NzJRR) | 1:59 |
 | 24 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
 | 25 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 44 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 |
 | 45 | [It's My Party](https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [I'll Cry If I Want To](https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8) | 2:20 |
 | 46 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 |
-| 47 | [Groovin'](https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [Groovin' \(Mono\)](https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U) | 2:31 |
-| 48 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:27 |
+| 47 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:27 |
+| 48 | [Groovin'](https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [Groovin' \(Mono\)](https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U) | 2:31 |
 | 49 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 |
 | 50 | [\(You're The\) Devil in Disguise](https://open.spotify.com/track/0D1pEisM3QkiacGXJe5dmd) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:20 |
 | 51 | [House of the Rising Sun](https://open.spotify.com/track/3XC7Jd6SfrQYKZJ6inyRHK) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Most of the Animals](https://open.spotify.com/album/0Vhk3dVT59LnhwSHFXLIXA) | 4:29 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 72 | [Shakin' All Over](https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I) | [Johnny Kidd & The Pirates](https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ) | [The Complete Johnny Kidd Vol 1 & 2](https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1) | 2:21 |
 | 73 | [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 |
 | 74 | [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 |
-| 75 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
+| 75 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
 
-Snapshot ID: `AAAAABA8j+l8RGB0qN+slg/GyNQ5asNe`
+Snapshot ID: `AAAAAH7m/HGtFynNSA7mdsGskfYvwQcO`

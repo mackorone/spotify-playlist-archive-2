@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8270,
+  "num_followers": 8266,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAABwNA5hAOkqT+W1CuAzly2V",
+  "snapshot_id": "ao9+AAAAAAB1m0FpFQNsv6DlcYiN3d0k",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 234382,
-      "name": "Con La Tinta De Mi Sangre",
-      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
+      "duration_ms": 171816,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 171816,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
+      "duration_ms": 234382,
+      "name": "Con La Tinta De Mi Sangre",
+      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Vengo a Llevarte",
-      "url": "https://open.spotify.com/track/3ZkbdZPuWewYNzwhTumX2E"
+      "duration_ms": 148520,
+      "name": "Ven a Decirme",
+      "url": "https://open.spotify.com/track/6zSIQ8PfuZ542Pao4twQh8"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 148520,
-      "name": "Ven a Decirme",
-      "url": "https://open.spotify.com/track/6zSIQ8PfuZ542Pao4twQh8"
+      "duration_ms": 188773,
+      "name": "Vengo a Llevarte",
+      "url": "https://open.spotify.com/track/3ZkbdZPuWewYNzwhTumX2E"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Exitos Inmortales",
-        "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Falsa Ilusion",
-      "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Disco de Oro",
         "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 145417,
       "name": "Deseo de los Dos",
       "url": "https://open.spotify.com/track/6QHYsLjOmjSZkYEh9ooqpD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Falsa Ilusion",
+      "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos Del Norte En Vivo (Live)",
-        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Prieta Mojina - Live",
-      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Disco de Oro",
         "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 166351,
       "name": "Te Voy a Complacer",
       "url": "https://open.spotify.com/track/01b9QR2gAFqNBaIKFkUxYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Prieta Mojina - Live",
+      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 Exitos de Oro, vol. 2",
-        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Disco de Oro",
         "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
         "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 113606,
       "name": "Mi Talism\u00e1n",
       "url": "https://open.spotify.com/track/6HEo5xk1E0orU26VsdPyPS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Cruel Dolor",
-      "url": "https://open.spotify.com/track/2Jtbo4ClBvVEPuRFzG9SIu"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "Cruel Dolor",
+      "url": "https://open.spotify.com/track/2Jtbo4ClBvVEPuRFzG9SIu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Relampagos del Norte, Ram\u00f3n Ayala y Cornelio Reyna",
         "url": "https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq"
       },
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+        "name": "50 A\u00f1os de Exitos",
+        "url": "https://open.spotify.com/album/3CBgvvTeYBtuwfXtGN3Cot"
       },
       "artists": [
         {
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 211266,
-      "name": "El Espejo",
-      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos de los Rel\u00e1mpagos del Norte",
-        "url": "https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 168413,
-      "name": "Quiero besarte a la noche",
-      "url": "https://open.spotify.com/track/5peQlcnDpOFw2INz1lYA82"
+      "duration_ms": 140329,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/7glaORssesYaKDg1m8ehjc"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "El Espejo",
+      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Relampagazos",
         "url": "https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE"
       },
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
-        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+        "name": "20 Exitos de los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 173466,
-      "name": "Mujer de Cabaret",
-      "url": "https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB"
+      "duration_ms": 168413,
+      "name": "Quiero besarte a la noche",
+      "url": "https://open.spotify.com/track/5peQlcnDpOFw2INz1lYA82"
     },
     {
       "added_at": null,
@@ -740,9 +740,25 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 140329,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/7glaORssesYaKDg1m8ehjc"
+      "duration_ms": 184424,
+      "name": "Capullito de Rosa",
+      "url": "https://open.spotify.com/track/3rTHydUYiqkPiVmfPQ2QWt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Mujer de Cabaret",
+      "url": "https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB"
     },
     {
       "added_at": null,
@@ -787,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "50 A\u00f1os de Exitos",
-        "url": "https://open.spotify.com/album/3CBgvvTeYBtuwfXtGN3Cot"
+        "name": "Country Roland Vs. Los Relampagos",
+        "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
       "artists": [
+        {
+          "name": "Country Roland Band",
+          "url": "https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs"
+        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 184424,
-      "name": "Capullito de Rosa",
-      "url": "https://open.spotify.com/track/3rTHydUYiqkPiVmfPQ2QWt"
+      "duration_ms": 197734,
+      "name": "Pancha La Contrabandista",
+      "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
     }
   ],
   "unique_name": "This Is Los Relampagos Del Norte",

@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20444,
+  "num_followers": 20441,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbdq+7x0T+DIdCVosI39+c0Rrh0",
+  "snapshot_id": "AAAAAOW7H3JuGc4dfMat1nCcasy0MJOx",
   "tracks": [
     {
       "added_at": "2026-05-26 09:05:26",
@@ -251,6 +251,26 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Tak jak tutaj stoj\u0119",
+        "url": "https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y"
+      },
+      "artists": [
+        {
+          "name": "Wiktor Dydu\u0142a",
+          "url": "https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs"
+        },
+        {
+          "name": "Kasia Sienkiewicz",
+          "url": "https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH"
+        }
+      ],
+      "duration_ms": 159018,
+      "name": "Nie m\u00f3wi\u0119 tak, nie m\u00f3wi\u0119 nie",
+      "url": "https://open.spotify.com/track/3ThzTChpGTrx5avsgkd3GR"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 188352,
       "name": "zanim spadnie deszcz",
       "url": "https://open.spotify.com/track/2CQMeS3BX2GtRH1E04QFzB"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Tak jak tutaj stoj\u0119",
-        "url": "https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Dydu\u0142a",
-          "url": "https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs"
-        },
-        {
-          "name": "Kasia Sienkiewicz",
-          "url": "https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH"
-        }
-      ],
-      "duration_ms": 159018,
-      "name": "Nie m\u00f3wi\u0119 tak, nie m\u00f3wi\u0119 nie",
-      "url": "https://open.spotify.com/track/3ThzTChpGTrx5avsgkd3GR"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Obywatelka K.L.",
+        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
+      },
+      "artists": [
+        {
+          "name": "Kasia Lins",
+          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Sexy doll",
+      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "FUGAZI",
         "url": "https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 189554,
       "name": "sam na \u015bwiecie",
       "url": "https://open.spotify.com/track/21ls6f3Hx3C60odiucKf5E"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Obywatelka K.L.",
-        "url": "https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g"
-      },
-      "artists": [
-        {
-          "name": "Kasia Lins",
-          "url": "https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Sexy doll",
-      "url": "https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Radio Edit",
+        "url": "https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC"
+      },
+      "artists": [
+        {
+          "name": "Kuba Badach",
+          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
+        }
+      ],
+      "duration_ms": 209429,
+      "name": "Na drodze do wspomnie\u0144",
+      "url": "https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "Szeptucha",
         "url": "https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 202666,
       "name": "Motyle",
       "url": "https://open.spotify.com/track/4Yaz1ROIB410KmtOrvXlWY"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Radio Edit",
-        "url": "https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC"
-      },
-      "artists": [
-        {
-          "name": "Kuba Badach",
-          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
-        }
-      ],
-      "duration_ms": 209429,
-      "name": "Na drodze do wspomnie\u0144",
-      "url": "https://open.spotify.com/track/4jbwoNOFu6EvL6DMRK2eve"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Radio Edit",
+        "url": "https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC"
+      },
+      "artists": [
+        {
+          "name": "Kuba Badach",
+          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
+        }
+      ],
+      "duration_ms": 235637,
+      "name": "Uk\u0142ad otwarty",
+      "url": "https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "To dopiero pocz\u0105tek",
         "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 281663,
       "name": "Moja bestia",
       "url": "https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Radio Edit",
-        "url": "https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC"
-      },
-      "artists": [
-        {
-          "name": "Kuba Badach",
-          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
-        }
-      ],
-      "duration_ms": 235637,
-      "name": "Uk\u0142ad otwarty",
-      "url": "https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "The Shit Ov God",
-        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "The Shit Ov God",
-      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Tematy i wariacje",
         "url": "https://open.spotify.com/album/5oPLIlVa14HPuYNuZ7MSeT"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 293906,
       "name": "VValka o ka\u017cdy kolejny dzie\u0144",
       "url": "https://open.spotify.com/track/4odf0Poq48hNjNUDONrRbF"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "BUNT",
-        "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
-      },
-      "artists": [
-        {
-          "name": "Sad Smiles",
-          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
-        }
-      ],
-      "duration_ms": 326653,
-      "name": "Aport",
-      "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Boleros y Masecki",
         "url": "https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 291186,
       "name": "Amor sin esperanza",
       "url": "https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "BUNT",
+        "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
+      },
+      "artists": [
+        {
+          "name": "Sad Smiles",
+          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
+        }
+      ],
+      "duration_ms": 326653,
+      "name": "Aport",
+      "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1315,18 +1315,30 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "neurodivergent",
-        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
       },
       "artists": [
         {
-          "name": "Aga Derlak",
-          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
+          "name": "Mateusz Smoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
+        },
+        {
+          "name": "Dominik Wania",
+          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
+        },
+        {
+          "name": "Micha\u0142 Klauza",
+          "url": "https://open.spotify.com/artist/1jzmkyObn3lNRKbszuxKIQ"
+        },
+        {
+          "name": "Polish Radio Orchestra in Warsaw",
+          "url": "https://open.spotify.com/artist/1OTaslfOSJB1VjohbZDYFt"
         }
       ],
-      "duration_ms": 189475,
-      "name": "number 4",
-      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
+      "duration_ms": 188516,
+      "name": "Fallen Angel: IV. Fire",
+      "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1383,30 +1395,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
       },
       "artists": [
         {
-          "name": "Mateusz Smoczy\u0144ski",
-          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
-        },
-        {
-          "name": "Dominik Wania",
-          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
-        },
-        {
-          "name": "Micha\u0142 Klauza",
-          "url": "https://open.spotify.com/artist/1jzmkyObn3lNRKbszuxKIQ"
-        },
-        {
-          "name": "Polish Radio Orchestra in Warsaw",
-          "url": "https://open.spotify.com/artist/1OTaslfOSJB1VjohbZDYFt"
+          "name": "Aga Derlak",
+          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Fallen Angel: IV. Fire",
-      "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
+      "duration_ms": 189475,
+      "name": "number 4",
+      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "neurodivergent",
-        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
-      },
-      "artists": [
-        {
-          "name": "Aga Derlak",
-          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
-        }
-      ],
-      "duration_ms": 568547,
-      "name": "is it",
-      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Fryderyk LIS",
         "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
+      },
+      "artists": [
+        {
+          "name": "Karolina B\u0142achnia",
+          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
+        }
+      ],
+      "duration_ms": 470111,
+      "name": "Dawno I Nieprawda",
+      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "No Return No Karma",
         "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
       },
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Wsch\u00f3d",
-        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
       },
       "artists": [
         {
-          "name": "Karolina B\u0142achnia",
-          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
+          "name": "Aga Derlak",
+          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 470111,
-      "name": "Dawno I Nieprawda",
-      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
+      "duration_ms": 568547,
+      "name": "is it",
+      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
     }
   ],
   "unique_name": "Fryderyk 2026",

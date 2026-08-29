@@ -1,12 +1,12 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2776822,
+  "num_followers": 2776893,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPICiG/N3r8gdRUStY8+lO37u9T2",
+  "snapshot_id": "AAAAAFkAj1MmWa9T7G26uvsZ+KW1VaS9",
   "tracks": [
     {
       "added_at": "2026-06-17 16:23:02",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Led Zeppelin III (Remaster)",
-        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Immigrant Song - Remaster",
-      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 180266,
       "name": "Dance, Dance",
       "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
         "name": "Love For The Streets",
         "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "Give It Away",
-      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -1081,7 +1081,7 @@
         }
       ],
       "duration_ms": 216453,
-      "name": "I Believe in a Thing Called Love",
+      "name": "I Believe In A Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
         "name": "Devil Without a Cause",
         "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 265840,
       "name": "Bawitdaba",
       "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2026-06-17 16:23:02",

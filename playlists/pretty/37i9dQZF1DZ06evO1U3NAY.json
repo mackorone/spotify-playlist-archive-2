@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 170770,
+  "num_followers": 170781,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAADuuFq3M/9TXFateqhicgg1",
+  "snapshot_id": "ao9+AAAAAADWdQv6AxcOXdQB3uJ6AEJV",
   "tracks": [
     {
       "added_at": null,
@@ -207,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Earth",
-        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Dave Pirner",
+          "url": "https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN"
         }
       ],
-      "duration_ms": 322800,
-      "name": "Ice Queen",
-      "url": "https://open.spotify.com/track/140cSu65JC8smYw53nPP0q"
+      "duration_ms": 243213,
+      "name": "Whole World Is Watching (feat. Dave Pirner)",
+      "url": "https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d"
     },
     {
       "added_at": null,
@@ -255,28 +259,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
+        "name": "Mother Earth",
+        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Dave Pirner",
-          "url": "https://open.spotify.com/artist/0DGexM9UeEMijhLRbKetCN"
         }
       ],
-      "duration_ms": 243213,
-      "name": "Whole World Is Watching (feat. Dave Pirner)",
-      "url": "https://open.spotify.com/track/4KfTYPo9x23c4tuuRptg1d"
+      "duration_ms": 322800,
+      "name": "Ice Queen",
+      "url": "https://open.spotify.com/track/140cSu65JC8smYw53nPP0q"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 211045,
-      "name": "Entertain You",
-      "url": "https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk"
+      "duration_ms": 297413,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/0tUWRioloZrqmq95DAMsOK"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 297413,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/0tUWRioloZrqmq95DAMsOK"
+      "duration_ms": 211045,
+      "name": "Entertain You",
+      "url": "https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
       "duration_ms": 286680,
       "name": "Jillian (I'd Give My Heart)",
       "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Endless War",
+      "url": "https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8"
     },
     {
       "added_at": null,
@@ -387,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Endless War",
-      "url": "https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mother Earth",
         "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
       },
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Mercy Mirror",
+      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Q-Music Sessions",
         "url": "https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb"
       },
@@ -431,6 +447,22 @@
       "duration_ms": 246720,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/0tVxMtLxFlc6y4xSX41vKX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "The Purge",
+      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
     },
     {
       "added_at": null,
@@ -460,25 +492,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 229026,
-      "name": "Mercy Mirror",
-      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "The Purge",
-      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
+      "duration_ms": 336080,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
     },
     {
       "added_at": null,
@@ -499,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OPVS NOIR Vol. 1",
         "url": "https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6"
       },
@@ -515,38 +547,6 @@
       "duration_ms": 216653,
       "name": "Light Can Only Shine In The Darkness",
       "url": "https://open.spotify.com/track/2XvxeR6tniytTDVEPa3Agm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 336080,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Anders Friden",
-          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Raise Your Banner",
-      "url": "https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 270479,
       "name": "Shed My Skin",
       "url": "https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Raise Your Banner",
+      "url": "https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Q-Music Sessions",
-        "url": "https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/1H1U3PbWhxkUUG9HNEZEn7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Silent Force",
         "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 253506,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Q-Music Sessions",
+        "url": "https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/1H1U3PbWhxkUUG9HNEZEn7"
     },
     {
       "added_at": null,

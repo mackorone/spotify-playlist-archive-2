@@ -1,12 +1,12 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 148627,
+  "num_followers": 148624,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdFc6wkYJ1dW27pE7GLJn2Xfz4O",
+  "snapshot_id": "AAAAAJ9WrpgSsdD2Bt8sDycihwVFyW08",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:01",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "Hit the Wall",
-        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hit the Wall",
-      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
         "name": "Bling-Bang-Bang-Born",
         "url": "https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
+        "name": "Red Bottoms",
+        "url": "https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 186941,
+      "name": "Red Bottoms",
+      "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
         "name": "EYES CLOSED (with ZAYN)",
         "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 181375,
       "name": "EYES CLOSED (with ZAYN)",
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
-        "name": "Red Bottoms",
-        "url": "https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 186941,
-      "name": "Red Bottoms",
-      "url": "https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "Look at My Life",
-        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Look at My Life",
-      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
         "name": "SPECIALZ",
         "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
       },
@@ -1051,6 +1035,54 @@
       "duration_ms": 238986,
       "name": "SPECIALZ",
       "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 232375,
+      "name": "i wish i knew how to quit you",
+      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "First Born Daughter",
+        "url": "https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 225641,
+      "name": "First Born Daughter",
+      "url": "https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1075,54 +1107,6 @@
       "duration_ms": 150944,
       "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
       "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 232375,
-      "name": "i wish i knew how to quit you",
-      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
-        "name": "Is This Heaven? (Extended)",
-        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 169121,
-      "name": "Good At Leaving",
-      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
-        "name": "First Born Daughter",
-        "url": "https://open.spotify.com/album/0zPw8blGABiNHxDLfyLZ6J"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 225641,
-      "name": "First Born Daughter",
-      "url": "https://open.spotify.com/track/6y7KE9QqQfSaYsA3YqRt5c"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1179,6 +1163,38 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "ICONIC HEART",
+        "url": "https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "ICONIC HEART",
+      "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
         "name": "TIT FOR TAT",
         "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "Watch It Burn",
-        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Watch It Burn",
-      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
         "name": "\u9752\u306e\u3059\u307f\u304b",
         "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 196466,
       "name": "\u9752\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "Watch It Burn",
+        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Watch It Burn",
+      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1259,22 +1275,6 @@
       "duration_ms": 201000,
       "name": "Drive Safe",
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
-        "name": "ICONIC HEART",
-        "url": "https://open.spotify.com/album/337CTgSMpCJrrK6BihJmPW"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "ICONIC HEART",
-      "url": "https://open.spotify.com/track/1OLAjffdDJibTrUGAwApVk"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
+        "name": "\u898b\u77e5\u3089\u306c\u7cf8",
+        "url": "https://open.spotify.com/album/4VC9eBVetDJVqwfdGxGb35"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "\u898b\u77e5\u3089\u306c\u7cf8",
+      "url": "https://open.spotify.com/track/01Wc6RiaghdtkpJXV9WmAj"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
         "name": "Lost Boys",
         "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 254614,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
-        "name": "Wink Wink",
-        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 122685,
-      "name": "Wink Wink",
-      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "\u898b\u77e5\u3089\u306c\u7cf8",
-        "url": "https://open.spotify.com/album/4VC9eBVetDJVqwfdGxGb35"
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
       },
       "artists": [
         {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 251413,
-      "name": "\u898b\u77e5\u3089\u306c\u7cf8",
-      "url": "https://open.spotify.com/track/01Wc6RiaghdtkpJXV9WmAj"
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
+        "name": "SO CLOSE TO WHAT??? (deluxe)",
+        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 168134,
+      "name": "NOBODY'S GIRL",
+      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
         "name": "Break Up in Reverse",
         "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
       },
@@ -1443,6 +1459,22 @@
       "duration_ms": 205523,
       "name": "Break Up in Reverse",
       "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "Stay (If You Wanna Dance)",
+        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "Stay (If You Wanna Dance)",
+      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1463,34 +1495,18 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "SO CLOSE TO WHAT??? (deluxe)",
-        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+        "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 168134,
-      "name": "NOBODY'S GIRL",
-      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
-        "name": "Stay (If You Wanna Dance)",
-        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "Stay (If You Wanna Dance)",
-      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
+      "duration_ms": 288200,
+      "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+      "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
-      "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
         "name": "The Dead Dance",
         "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
       },
@@ -1543,6 +1543,26 @@
       "duration_ms": 228518,
       "name": "The Dead Dance",
       "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "Qu\u00e9 Andas Haciendo",
+        "url": "https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 199994,
+      "name": "Qu\u00e9 Andas Haciendo",
+      "url": "https://open.spotify.com/track/2Pv1g4OMtsdeQw3QF5v1it"
     },
     {
       "added_at": "2026-08-14 04:01:01",
@@ -1583,26 +1603,6 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "Qu\u00e9 Andas Haciendo",
-        "url": "https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 199994,
-      "name": "Qu\u00e9 Andas Haciendo",
-      "url": "https://open.spotify.com/track/2Pv1g4OMtsdeQw3QF5v1it"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
         "name": "GATHER",
         "url": "https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-08-14 04:01:01",
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
-    },
-    {
-      "added_at": "2026-08-14 04:01:01",
-      "album": {
         "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
         "url": "https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 226786,
       "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
       "url": "https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U"
+    },
+    {
+      "added_at": "2026-08-14 04:01:01",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
     },
     {
       "added_at": "2026-08-14 04:01:01",

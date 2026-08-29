@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,861 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,870 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 23 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
 | 24 | [BET YOU NEVER](https://open.spotify.com/track/1jhXnfRck8f08uzcFU21nh) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [OUTSPOKEN](https://open.spotify.com/album/5oUji37vIpvyDw1TlsKOLK) | 3:51 |
 | 25 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 |
-| 26 | [The Visit](https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Alt\-Mobeat](https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI) | 1:41 |
-| 27 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
+| 26 | [Pigeon Barron](https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 6:39 |
+| 27 | [The Visit](https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Alt\-Mobeat](https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI) | 1:41 |
 | 28 | [Data Passenger](https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Data Passenger EP](https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia) | 5:07 |
 | 29 | [ITSAME \[group hugg\]](https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [ITSAME](https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx) | 7:41 |
-| 30 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
-| 31 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
+| 30 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 |
+| 31 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
 | 32 | [Time to Leave](https://open.spotify.com/track/3guKL9FuFv1HgpHK7W4nhu) | [ŻYŃY](https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY) | [Time to Leave](https://open.spotify.com/album/62tdWlcufIf8xyRQswdmLh) | 4:52 |
 | 33 | [Wendorlan \- Original Mix](https://open.spotify.com/track/60pUN8FYqcux6VuOO9vmhF) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Dostrotime](https://open.spotify.com/album/7q2TYQUhAg9mzIjybDBpGI) | 6:19 |
 | 34 | [l'empelt](https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD) | 4:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 47 | [Probably Wizards](https://open.spotify.com/track/7aK2Wf6NLIvAzFyvDPYCpF) | [James Krivchenia](https://open.spotify.com/artist/4eEDUmQbFKt7p4UNEwuUUi), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Probably Wizards](https://open.spotify.com/album/6JChYhnQ9v2tfEf1BaqguZ) | 4:51 |
 | 48 | [realcopy](https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T) | [derek muro](https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY) | [chronopolis](https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q) | 3:13 |
 | 49 | [sueño Humedo](https://open.spotify.com/track/0UfMjiWGkD4Dbrk8mOUi2v) | [PATRAÑA](https://open.spotify.com/artist/5AmqzBw2eQ710pZBiDuFdS) | [sueño Humedo](https://open.spotify.com/album/7IZcgTz8D97bcpm18XyNmo) | 3:46 |
-| 50 | [Bliss](https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [More Truth](https://open.spotify.com/album/47KjErxlfKd7C4KO7Xhtg4) | 3:20 |
+| 50 | [La barna leve](https://open.spotify.com/track/2DQQe15WZLelM2exoYLC1n) | [ROSA FAENSKAP](https://open.spotify.com/artist/0VwAXdA6SAH89PAF4ZSFTX) | [Ingenting Forblir](https://open.spotify.com/album/1898t6IRJVcR5mxx3mfDuJ) | 4:37 |
 
-Snapshot ID: `AAAAADwnfD5CitC4WjrlSEczmbFv4XZ5`
+Snapshot ID: `AAAAABPoo1dsg4Y6KNy4QJhROl7R1Xu8`

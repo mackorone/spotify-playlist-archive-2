@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Les hits marocains du moment\. Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,706 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,881 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 |
 | 50 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
 
-Snapshot ID: `AAAAABKzRjVgeCen9xaQ+f9TTX3f8BPk`
+Snapshot ID: `AAAAAF/K+5X/Hn+o3mI/y+X95Ma9SjL1`

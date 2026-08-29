@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 476448,
+  "num_followers": 476494,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAB9mjcPRgnk+M0go4QoK8Sg",
+  "snapshot_id": "ao9+AAAAAADnMGM4FYNSlq/fCNwtrlmK",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "Millones de Besos",
-      "url": "https://open.spotify.com/track/1YIOScsBgvsOV7prw6mh8I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Morir y Existir En Vivo",
         "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 189920,
       "name": "Chavo Felix (En Vivo)",
       "url": "https://open.spotify.com/track/3jjySlPUK71LIWEZ9kfxi5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 114120,
+      "name": "El Primer Ministro",
+      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "Millones de Besos",
+      "url": "https://open.spotify.com/track/1YIOScsBgvsOV7prw6mh8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Andamos Recio",
         "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 152200,
       "name": "Andamos Recio",
       "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 114120,
-      "name": "El Primer Ministro",
-      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
     },
     {
       "added_at": null,

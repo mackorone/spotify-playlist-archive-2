@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Tb0hClhPz.md) - [plain]
 
 > These are the songs that have shaped Tobias Forge of <a href="spotify:artist:1Qp56T7n950O3EGMsSl81D">Ghost's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=b348e88a39a74578">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,204 likes - 36 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,259 likes - 36 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8Tb0hClhPz.md) - [plain]
 | 35 | [Immortal Rites](https://open.spotify.com/track/5hmek3mrSYvfSElBsPNbxo) | [Morbid Angel](https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw) | [Altars of Madness](https://open.spotify.com/album/2vWHACnDiSnFM52octEvY0) | 4:03 |
 | 36 | [RV](https://open.spotify.com/track/1ZSaFlJCo0ShPW5JFYDWKk) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 3:43 |
 
-Snapshot ID: `AAAAAH3GRwl/u/H5JV71C2IKJpZup0YA`
+Snapshot ID: `AAAAAIgTtqBsSKeINI6PRDJ/plcKyrI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Mica Sotera
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,178 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,101 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 16 | [Una Noche Más](https://open.spotify.com/track/7dAZanaXWRfcKxcumPacay) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Una Noche Más](https://open.spotify.com/album/4VMpgMcMBco980EcsHGkks) | 2:48 |
 | 17 | [Creo En Ti](https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Creo En Ti](https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v) | 3:22 |
 | 18 | [Qué Muere en Invierno](https://open.spotify.com/track/5UB1AXUpyQPgYrCexfnkE7) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo) | [Qué Muere en Invierno](https://open.spotify.com/album/4qTUKqm54oT9i9rD6K1L4q) | 3:20 |
-| 19 | [PARAMICORAZON:](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON:](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
+| 19 | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |
 | 20 | [Iridiscente \(Se Contagia\)](https://open.spotify.com/track/5iuUHLp94rjxfsjBvktUdb) | [Val Acosta](https://open.spotify.com/artist/27mmTV4E5hIwxznMdoOQSj), [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [Iridiscente \(Se Contagia\)](https://open.spotify.com/album/0nBUs8eygWvByXTEs3sd15) | 3:30 |
 | 21 | [partedemipartedeti](https://open.spotify.com/track/4idsvwxfLQuOr8PngnKhKx) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [partedemipartedeti](https://open.spotify.com/album/2qm8KUb1VIkBXwgwHn7y4z) | 3:36 |
 | 22 | [No Te Conozco](https://open.spotify.com/track/47lpbJAokaznKpJR1mgKlb) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [No Te Conozco](https://open.spotify.com/album/7kFnXieD32CbRbG0Y5BhRw) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Trapecistas](https://open.spotify.com/track/4mMjydyhotP1oaSXPPGsBb) | [Rafa Arreguín](https://open.spotify.com/artist/0j9ovuQB4NHk6e0Vn42mKJ) | [Trapecistas](https://open.spotify.com/album/4o5WVOati910rqmKINAdAZ) | 4:36 |
 | 50 | [Mujer de Nadie](https://open.spotify.com/track/0gVdIUEgaM5VrVZcTEOxsg) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Mujer de Nadie](https://open.spotify.com/album/2T9dB5gKYKVHb2kYY141yf) | 3:11 |
 
-Snapshot ID: `AAAAAOgdldLJXQB/pY5UWtCl0gmhkr3Y`
+Snapshot ID: `AAAAACh9Q1VqS3hmVvZLpCQug2nXDdMd`

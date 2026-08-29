@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,879 likes - 204 songs - 10 hr 41 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,881 likes - 215 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,5 +212,16 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 202 | [We're Here for a Reason](https://open.spotify.com/track/6uidH15Bo8DxMYTMmkZGNe) | [XAURAX](https://open.spotify.com/artist/5ABgbqKhlZ6OH5FLEKD8Nv) | [We're Here for a Reason](https://open.spotify.com/album/3DEwlvJidThYDo4q5p541N) | 2:08 |
 | 203 | [patterns](https://open.spotify.com/track/78keXLbFwFwqIqCsa5qiNz) | [Kirufae](https://open.spotify.com/artist/2pU0ecju0SfL0SCmQf8cwo) | [four dreams, one day](https://open.spotify.com/album/6KhQF2Z4X7cVTUQrMdU0GQ) | 3:18 |
 | 204 | [Trippin' on me \- Original Mix](https://open.spotify.com/track/6E2LD2PAM0ZtZVnxRAmSbB) | [Cem Bora](https://open.spotify.com/artist/599h0XndKKzTwvbmRLuIPs) | [Trippin' on me EP](https://open.spotify.com/album/3BkhC1r4SpVfGdLhC1NhUT) | 6:29 |
+| 205 | [Behind The Smile](https://open.spotify.com/track/4LG9dfsuhETu96ilshCGEg) | [Crispy Sounds](https://open.spotify.com/artist/2Mwu0Y0JYSk8ZrQBnXSifl) | [Behind The Smile](https://open.spotify.com/album/4VOsl8EVoTfbXoYgMCvKZa) | 3:11 |
+| 206 | [Sandcastles](https://open.spotify.com/track/5ZGKWGwU54Q5d5QlcqMsu3) | [Mick Overmere](https://open.spotify.com/artist/6XqFmDwHlTAPK2cn5Z69Jk) | [Sandcastles](https://open.spotify.com/album/5L9cG04SEISJ6jjR4w7jhD) | 2:42 |
+| 207 | [Killing Happiness](https://open.spotify.com/track/75BGR99RNILqpskPhYb1iJ) | [Bianca Dolabella](https://open.spotify.com/artist/73SoLITZTigXXOmil8hrF1) | [Killing Happiness](https://open.spotify.com/album/6eR341xxr47lFes7cAt18e) | 3:14 |
+| 208 | [Land Down Under \- Special Version](https://open.spotify.com/track/6IW0eV0J6SzGpI3P4O09dQ) | [Justin Delgado](https://open.spotify.com/artist/6GcWc8Xvmgx8SCpUhqDp3B) | [Land Down Under \(Special Version\)](https://open.spotify.com/album/0FMks3C8sHo0wJb8Qrwtuy) | 2:55 |
+| 209 | [Identity Search](https://open.spotify.com/track/5qNsNBntn0ayb10NG9BYCC) | [Dwayne](https://open.spotify.com/artist/4Fkrc3E27PvGz0ng0t3lrf) | [Identity Search](https://open.spotify.com/album/0SPeqEHkieoklFi9Prpbsf) | 4:13 |
+| 210 | [Hollywood](https://open.spotify.com/track/5mIC2serbv60vtTy02IMyU) | [EMMALISA](https://open.spotify.com/artist/0uAC20tdGcRDQMNvWTnZP0) | [Hollywood](https://open.spotify.com/album/0BX9XhyMCcJoON2qcF3wEF) | 3:48 |
+| 211 | [King of the Floor](https://open.spotify.com/track/6O5MkEl606zN7rhvzk4nAV) | [Sub Caesar](https://open.spotify.com/artist/5zD47gEADm7zAbTlhxzoxf) | [King of the Floor](https://open.spotify.com/album/1WXJV6ssESxzZ69ecf8us2) | 2:34 |
+| 212 | [Alien](https://open.spotify.com/track/4hSoxmPM2DQMVtAOY1Rztk) | [Aida the Myth](https://open.spotify.com/artist/6VqACte5xZHz5OEGIVWwAv) | [Alien](https://open.spotify.com/album/7mHxgdMMzUqjlQYCsOZSaF) | 2:22 |
+| 213 | [SUMMR](https://open.spotify.com/track/1530Jw4HeV0lbmCzJdwhDt) | [THE WILL](https://open.spotify.com/artist/7etmXBxkOJrs3IrSYc4y7r) | [SUMMR](https://open.spotify.com/album/1st0mbHQLv9Ag1jPTTRj48) | 3:19 |
+| 214 | [Boots By The Door](https://open.spotify.com/track/5LQbhEmHv93xstXC11j95K) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Boots By The Door](https://open.spotify.com/album/5DlaXWnCS75sNV0YQSQPmg) | 2:26 |
+| 215 | [Your Heavenly Peace](https://open.spotify.com/track/1kVnBXjBKsbb8XKOhrwp50) | [Art Papan Hope](https://open.spotify.com/artist/1nVTbgFyQ1Y77CrX1D6jzf) | [Your Heavenly Peace](https://open.spotify.com/album/53kZY9OJ13NtlVqYbHxX71) | 4:24 |
 
-Snapshot ID: `AAA7wESlwwCYSO7bJsT9Lsm9OKKQO/wt`
+Snapshot ID: `AAA7y7Y7vnkyG90G5ASzheJzru/r1f0g`

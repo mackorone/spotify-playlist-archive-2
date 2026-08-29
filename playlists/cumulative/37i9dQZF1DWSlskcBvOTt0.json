@@ -4993,6 +4993,28 @@
     },
     {
       "album": {
+        "name": "Confused",
+        "url": "https://open.spotify.com/album/7GbohRiHxa6fRUqxShJTCi"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Confused",
+      "url": "https://open.spotify.com/track/2xQjpWINHqfUkSQ0Ybi7p8"
+    },
+    {
+      "album": {
         "name": "Contesto",
         "url": "https://open.spotify.com/album/2EKQFEyR9kMnCZ52U8xPgA"
       },
@@ -11712,7 +11734,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 303296,
       "name": "La La La",
       "url": "https://open.spotify.com/track/0FIAB3qd9n8Va9rhmRjteH"
@@ -12600,6 +12622,28 @@
       "duration_ms": 200952,
       "name": "Little Darling - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
+    },
+    {
+      "album": {
+        "name": "LMHYS",
+        "url": "https://open.spotify.com/album/5yVSoJ9iBbHH5ABJ6Tf662"
+      },
+      "artists": [
+        {
+          "name": "KARABA",
+          "url": "https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy"
+        },
+        {
+          "name": "KMNI",
+          "url": "https://open.spotify.com/artist/2YXjkO5I6QIGTBMAHWLvL2"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181236,
+      "name": "LMHYS",
+      "url": "https://open.spotify.com/track/3mhYYznfOD7yqcHZFLwKeW"
     },
     {
       "album": {
@@ -15613,6 +15657,32 @@
     },
     {
       "album": {
+        "name": "Negra Soy",
+        "url": "https://open.spotify.com/album/6jkZytlx55qM8m45fDqsXf"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Zapapaya",
+          "url": "https://open.spotify.com/artist/2qDwLZAEADFu1KEpO3y126"
+        },
+        {
+          "name": "La Negra Hawkins",
+          "url": "https://open.spotify.com/artist/5E9yn6K79MjsBZ29ZW3J8u"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206557,
+      "name": "Negra Soy",
+      "url": "https://open.spotify.com/track/5ll38KqFaFr08MLWpv7Svb"
+    },
+    {
+      "album": {
         "name": "Netzwerk (Luch Rework)",
         "url": "https://open.spotify.com/album/1TqyZvgULVEdWaV505DrY6"
       },
@@ -17424,7 +17494,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 320597,
       "name": "Pans Of Death",
       "url": "https://open.spotify.com/track/7xcyrOG8Hx9qHbf7JRx31T"
@@ -23472,7 +23542,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 448024,
       "name": "Tripidi",
       "url": "https://open.spotify.com/track/0OulcccYk94SUQMbWqvbfL"

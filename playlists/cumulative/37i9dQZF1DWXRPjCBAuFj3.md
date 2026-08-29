@@ -4,7 +4,7 @@
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-1,090 songs - 2 day 7 hr 54 min
+1,092 songs - 2 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-01-24 | 2025-07-04 |
 | [50s](https://open.spotify.com/track/3xGMOMy5PeVOoIl8zjzxRN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s](https://open.spotify.com/album/5NB0lhneowD68OlfY44Ed0) | 2:39 | 2022-12-16 | 2023-01-25 |
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-22 | 2022-10-19 |
+| [6 AM](https://open.spotify.com/track/7x7rt6RiqZJyliFbQwc9Cw) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 3:08 | 2026-08-28 |  |
 | [64 BARRE DI TERRORE \(Red Bull 64 Bars\)](https://open.spotify.com/track/3mBdOTUyDnayURcWfUgrXH) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [64 BARRE DI TERRORE \(Red Bull 64 Bars\)](https://open.spotify.com/album/4PnI5eaXxjq92nlWpdifek) | 3:09 | 2026-06-25 |  |
 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 | 2025-07-21 | 2026-06-26 |
 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 | 2026-07-09 | 2026-08-28 |
@@ -686,6 +687,7 @@
 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 | 2024-10-03 | 2025-07-04 |
 | [NEW YORK](https://open.spotify.com/track/2a9BZHsbrUeOxEbatUdust) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [NEW YORK](https://open.spotify.com/album/0vOCi6Ur9juHEintKbSb98) | 3:18 | 2026-07-09 |  |
 | [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Status \(Inediti, Rarità & Live\)](https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq) | 3:46 | 2026-04-20 | 2026-08-28 |
+| [NIENTE È PER SEMPRE](https://open.spotify.com/track/3Of5q3EjYuH6JQQVqUjyMV) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Sinomine](https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr) | [NIENTE È PER SEMPRE](https://open.spotify.com/album/6f4GPyPHjgL4jOV6cNokXX) | 2:34 | 2026-08-28 |  |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-05-10 | 2024-02-02 |
 | [Niños Pequeños](https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Niños Pequeños](https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV) | 4:17 | 2023-03-25 | 2023-04-27 |
 | [No Estuviste En Lo Malo \- REMIX](https://open.spotify.com/track/5hyKw9bjqXCcIxAoDmAxMJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [No Estuviste En Lo Malo \(REMIX\)](https://open.spotify.com/album/494i7ANNVzcAf94KtyW2X5) | 4:28 | 2023-10-06 | 2024-01-19 |

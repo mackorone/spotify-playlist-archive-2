@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Bohemio y Yng Lucas 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,920 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,933 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 49 | [SOLO X BELLA](https://open.spotify.com/track/7qfmgahtktA5Nt0LOCC63S) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [STAR](https://open.spotify.com/album/5YH266XRF5JlrgqzvwIiGX) | 2:31 |
 | 50 | [Las Dos Me Duelen](https://open.spotify.com/track/32EC4e7ZA1UI9glgDuynIl) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Las Dos Me Duelen](https://open.spotify.com/album/5YG1FAdMuX2IqdQ65mPnCb) | 3:44 |
 
-Snapshot ID: `AAAAAKoam7lVSZn2xtki/QT51uQNN6PG`
+Snapshot ID: `AAAAABQkSFWGva8P7qxlUvbFyyWBbYRH`

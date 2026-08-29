@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,550 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,617 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 54 | [Siku Ya Mwisho](https://open.spotify.com/track/3nEFbbSfxFShykmjP1KlXD) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Siku Ya Mwisho](https://open.spotify.com/album/4SROmqULOdq2HBTjTqxIO3) | 3:06 |
 | 55 | [Searching for Love](https://open.spotify.com/track/0nkrOVuEuIXmTeM20SfPeA) | [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI) | [Searching for Love](https://open.spotify.com/album/7EgruAjgY7cV4YEbn4zZbK) | 2:50 |
 
-Snapshot ID: `AAAAAJR22WFl+rjWrcvZTw9Qni6LIdu6`
+Snapshot ID: `AAAAAGZYBQHFKCgxOZjxN+sbXRbDh2Gj`

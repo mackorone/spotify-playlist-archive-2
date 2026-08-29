@@ -6,8 +6,24 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFvrYJ7rgX8Hwj2Wz6H+QMfhkn0v3Q",
+  "snapshot_id": "AAAFwUp1S9WMOhsSE6NHdW6Rhi6EbBhp",
   "tracks": [
+    {
+      "added_at": "2026-08-29 03:31:06",
+      "album": {
+        "name": "(AGAIN)",
+        "url": "https://open.spotify.com/album/5mlD5eRizyOvq4TGOT2w2a"
+      },
+      "artists": [
+        {
+          "name": "Hi I'm Case",
+          "url": "https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt"
+        }
+      ],
+      "duration_ms": 462312,
+      "name": "Turn Back",
+      "url": "https://open.spotify.com/track/0sFk61kDNLWaEuGloyrOih"
+    },
     {
       "added_at": "2026-08-27 04:23:02",
       "album": {
@@ -123,6 +139,26 @@
       "duration_ms": 124496,
       "name": "forget about it!",
       "url": "https://open.spotify.com/track/1vW0igVORX0r1xfASD8Wq0"
+    },
+    {
+      "added_at": "2026-08-29 03:33:12",
+      "album": {
+        "name": "maybe in august",
+        "url": "https://open.spotify.com/album/0nUUhSQKKIadzZp3Tvn1wP"
+      },
+      "artists": [
+        {
+          "name": "bit depth",
+          "url": "https://open.spotify.com/artist/3ANWcrMiEHWt9CdQaLBRiZ"
+        },
+        {
+          "name": "Pulaski Day",
+          "url": "https://open.spotify.com/artist/0cjH3tvSwHec51yifCYT7n"
+        }
+      ],
+      "duration_ms": 332504,
+      "name": "maybe in august",
+      "url": "https://open.spotify.com/track/5jrnIUsdFRVmSSx037aUFW"
     },
     {
       "added_at": "2026-08-27 04:23:02",

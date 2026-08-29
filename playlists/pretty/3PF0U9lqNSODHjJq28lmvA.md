@@ -4,27 +4,36 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,644 likes - 18 songs - 1 hr 5 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,644 likes - 27 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Inga Människor Är Kvar](https://open.spotify.com/track/4hy58FMBZV5OqFG7kJ8OMT) | [Zini](https://open.spotify.com/artist/0jy5KbYexv9k3zx2KWxXYQ), [Filip Holm](https://open.spotify.com/artist/2O7FLjTvLWdWHDBgog9MPG) | [Inga Människor Är Kvar](https://open.spotify.com/album/1Z0iNmlDwFcf12DSPsZtAB) | 4:32 |
-| 2 | [2HOT](https://open.spotify.com/track/528Ro0jNqTWJoUKhrzk6On) | [HIFEELINGS](https://open.spotify.com/artist/4jGVWGtlgC4jbbE0H4hLQg), [COVERT](https://open.spotify.com/artist/26PkGV2uoeHhxSpHjfJBTy) | [2HOT](https://open.spotify.com/album/77wPspuTssKBGcVvG69SMy) | 2:44 |
-| 3 | [Quiet Place](https://open.spotify.com/track/1pJeFcxrmfwxG8My9a8g1j) | [Peter Saint Paul](https://open.spotify.com/artist/4iadmqrhLR7PBzLzAqyeZz) | [Quiet Place](https://open.spotify.com/album/566dkw4VWORzm9sjC2Skdc) | 3:53 |
-| 4 | [Rusty\-P](https://open.spotify.com/track/1CU1fewjKHjCqGA3HkEWvK) | [Lifeline](https://open.spotify.com/artist/6miBBdrR08y1kB00hZUF2i) | [Rusty\-P](https://open.spotify.com/album/7k10aAv0s8lPU07Xnk1BHK) | 3:15 |
-| 5 | [Löytyy huominen](https://open.spotify.com/track/2n7E5SvOtvwxIoZbRkULGZ) | [Jorma Fortune](https://open.spotify.com/artist/5tcgNLMcgUjZMvXqSgkIGb) | [EP 1](https://open.spotify.com/album/6RepFKvNKbQZ1E1axN3SmC) | 3:48 |
-| 6 | [Damaged Goods](https://open.spotify.com/track/1nK4C7ia4lGSc3Uf9CdibC) | [Mopery](https://open.spotify.com/artist/2ddgF1HPfhyGcazYGiflLa) | [Damaged Goods](https://open.spotify.com/album/012RRxCejg3ZOQ26rIWshQ) | 3:42 |
-| 7 | [Save Our Souls](https://open.spotify.com/track/4t6trOLpV85ESxcTqQla3u) | [Witchforce](https://open.spotify.com/artist/6zJIw8RGeBC04nDtvArTCi) | [Witchforce](https://open.spotify.com/album/3f8edYUcdS5fWc8lVAMTKJ) | 5:19 |
-| 8 | [Feeling](https://open.spotify.com/track/2M0ULFMQZh8WLMW3UHwShB) | [GABBSON](https://open.spotify.com/artist/0xAE7Hv1w2qaruerLhUmXq) | [Feeling](https://open.spotify.com/album/0883XqOGnvBHw1VWpqbJDm) | 3:10 |
-| 9 | [Ignition](https://open.spotify.com/track/1TGZXz6xhB1QzFP8SsZ4a2) | [TJ Lawton](https://open.spotify.com/artist/4iTVSjK2FlgNXtm0E9dsZA) | [Ignition](https://open.spotify.com/album/5Ck7Ny98BgS6NiTEy0TK43) | 5:03 |
-| 10 | [Over and Under](https://open.spotify.com/track/1e6DF9XjpMViZmqtbU1ehT) | [Alec Ferris](https://open.spotify.com/artist/0KKagT0pVpjFmRdDjKHpMV) | [Over and Under \(Radio Edit\)](https://open.spotify.com/album/3qEHd9CFp3KwlzCyIkIex8) | 3:58 |
-| 11 | [Aleina, Forlatt](https://open.spotify.com/track/3s1QSTTU5BqL5fsQ2QvMlT) | [Bård Halsne](https://open.spotify.com/artist/2kiGq6E8QSrvg2BPJ7Gqjp) | [Det Kan Eg Gjør Någe Me](https://open.spotify.com/album/092b6UXbhtILC6jwvhF3jJ) | 3:21 |
-| 12 | [Alone](https://open.spotify.com/track/5HS8t4ZqEZWNGnaZWOxxY4) | [Freaky Fizzix](https://open.spotify.com/artist/285dppoU3HNnPwex7MZaTi) | [Alone](https://open.spotify.com/album/76aobFb4m5uQ5ZZTcYWxYW) | 3:47 |
-| 13 | [daffodils](https://open.spotify.com/track/4D1eyouBmpxcxvYw2P5dpS) | [rchel](https://open.spotify.com/artist/26wnM2YSYsE3xg8mC6PvPK) | [public fruit](https://open.spotify.com/album/1DPMvVlkSM6h1HYEXA8nCx) | 2:45 |
-| 14 | [INNy](https://open.spotify.com/track/1yC6JMaE1pkn96ZApE9kPC) | [MAKS](https://open.spotify.com/artist/4lSKazS1CNfMbE4XIBoku6) | [INNy](https://open.spotify.com/album/1roPhfVuJhLVXSXUF7pg2v) | 2:22 |
-| 15 | [The World Can Wait](https://open.spotify.com/track/6KKlHYS2eejJfeF9Y6TPtf) | [Alice May](https://open.spotify.com/artist/45dEloXlio5OlIBAG1ahNF) | [The World Can Wait](https://open.spotify.com/album/0a9w5fqdo43nh6YPixffO5) | 4:38 |
-| 16 | [Pomodoro](https://open.spotify.com/track/45wU04mUbiJcKLDaIXguS4) | [Moni](https://open.spotify.com/artist/2eoOB2sKb3K3RZsiMZ1FJF) | [Pomodoro](https://open.spotify.com/album/0U8iFvJot1QqU7X6glIUjI) | 2:50 |
-| 17 | [Explorers, Like Us](https://open.spotify.com/track/1jG6elLRRdm9efhGpnPSOQ) | [Forcefield](https://open.spotify.com/artist/1jEgynrg5g8jvrOi27A5Ki) | [Explorers, Like Us](https://open.spotify.com/album/2bSOB3CzWabLC0N7yWadyt) | 3:57 |
-| 18 | [17/08](https://open.spotify.com/track/0RydVp3uRzhknMSrk7ri7q) | [Bobby Locke](https://open.spotify.com/artist/542lcHayd6xCroPBX3uJ3H) | [17/08](https://open.spotify.com/album/1arr08nE34nRCJjyEzSVrD) | 2:19 |
+| 1 | [Big Big Sleep](https://open.spotify.com/track/1jIUVSJk8nUT4fpYUQwtmd) | [Le Maine](https://open.spotify.com/artist/4Ry8vd24BRxmJqr1h2I8QC) | [Big Big Sleep](https://open.spotify.com/album/6J1umILN70vtXlZpCbvTWc) | 3:23 |
+| 2 | [Gelato](https://open.spotify.com/track/2RypsWQrKKpJio2UXbt5JI) | [Nightmare](https://open.spotify.com/artist/35v0Xp51aXcDm5PpX1OD5m) | [ASBO](https://open.spotify.com/album/3eLlFpJXOyuFqjFKYs9Vef) | 4:34 |
+| 3 | [MOTIONS](https://open.spotify.com/track/75KHCEfDujbC1H4vJrVuhM) | [MOTHER](https://open.spotify.com/artist/436LWqzQmrcjN6iI1WsYJg) | [MOTIONS](https://open.spotify.com/album/6am6U6rAU6cC2bDhqPKUDq) | 4:07 |
+| 4 | [Ear Worm](https://open.spotify.com/track/34rfXiiIdTvCR0KbVzvyY6) | [OST Fox](https://open.spotify.com/artist/6QsTaQJfaxuA25E2VHaLHw) | [Ear Worm](https://open.spotify.com/album/3Muuo8VGg3A5ulqSVexqUz) | 6:28 |
+| 5 | [no swing zone](https://open.spotify.com/track/7KNFfsMSlOzpIT0Vr7vZB6) | [touko](https://open.spotify.com/artist/2COU1tbZyozjUeGWBc1zn9) | [no swing zone!](https://open.spotify.com/album/6gyn3nnQ3hplkctFNs1IOr) | 3:32 |
+| 6 | [Go Crazy](https://open.spotify.com/track/65MqsZxM72RRW5CjMNorcE) | [TmmyX](https://open.spotify.com/artist/3UXkp40sWTRzgSTWBpJUBK) | [Go Crazy](https://open.spotify.com/album/1XKtuG2i0a859PuavVF4BN) | 2:46 |
+| 7 | [comme ci comme ça](https://open.spotify.com/track/3pmCSzvqn28OJqtFdfBBfP) | [Petit Ocean](https://open.spotify.com/artist/7AEN8ZkPQr7M45Sb3emoMf), [L.U:N.A](https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk) | [comme ci comme ça](https://open.spotify.com/album/26vyeYLMgimxUNBYznUI4z) | 2:15 |
+| 8 | [Crossed The Line](https://open.spotify.com/track/6iRXLySyBxOSRewLgs9mUk) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Crossed The Line](https://open.spotify.com/album/1GSUm60NbqH1eM5qeaY3pI) | 3:18 |
+| 9 | [Common Ground](https://open.spotify.com/track/3fHSefKapA4mZkCapmVY5h) | [Kaocide](https://open.spotify.com/artist/4zorf7dfOl2Xx1H18F0EXI) | [Common Ground](https://open.spotify.com/album/2CHeeY8AlyUkR4qAZk1h5H) | 3:43 |
+| 10 | [Hullua ja unelmaa](https://open.spotify.com/track/0D80cdEjEvB4PPDzGGMka3) | [Olli Helenius](https://open.spotify.com/artist/7GKUfB9z21AJzb2s48lepE) | [Hullua ja unelmaa](https://open.spotify.com/album/5WcxggGc2AKAV8xQEUhfr2) | 3:23 |
+| 11 | [Viimeinen kerta](https://open.spotify.com/track/5cgoffp8dznoygopqbxrLQ) | [Onni](https://open.spotify.com/artist/4C7Hk6wMYyugTkVyj3fXqh) | [Viimeinen kerta](https://open.spotify.com/album/2JEw00cnICfSqcdIWpqKTX) | 2:57 |
+| 12 | [Puotila](https://open.spotify.com/track/2BY5TyqfedAoxrtoTKOS1Y) | [Hamina](https://open.spotify.com/artist/5wPZpQd6Ejo6NSJ1EcMfin) | [Puotila](https://open.spotify.com/album/6zhLQlYVyVESmut6sDo6Vx) | 3:12 |
+| 13 | [För varje andetag](https://open.spotify.com/track/6ug5Qs3RenVHbfkjs0urgj) | [Pelle&Co](https://open.spotify.com/artist/1gV6JB05s97BiBpbv7AY5F) | [För varje andetag](https://open.spotify.com/album/5egbzXJPRNXOmICJHT5Y2n) | 3:50 |
+| 14 | [Open Vein](https://open.spotify.com/track/2f0VPa0mrRNg8sRxure07k) | [God Mother](https://open.spotify.com/artist/4m4mM8KMQd8gtIFC4SOGHL) | [Open Vein](https://open.spotify.com/album/6nOrTjmsNbo18zCXnSSEWV) | 1:04 |
+| 15 | [ELECTRA](https://open.spotify.com/track/0nRELu6uycebETjzski4TH) | [After Death Art](https://open.spotify.com/artist/5zhMspVqdOyFX1YFuDLr53) | [ELECTRA](https://open.spotify.com/album/235EAGys1izOgVnwh1F0GD) | 3:51 |
+| 16 | [Blackshold](https://open.spotify.com/track/1WdvaTZVgobwoohpNR7Nyk) | [CALAMER](https://open.spotify.com/artist/7InIQuycNznW35fnIHlHq9) | [Blackshold](https://open.spotify.com/album/7uNEbbNlwDT6rpLwgnGwLj) | 3:04 |
+| 17 | [It had to be You](https://open.spotify.com/track/48A88AtTifOPf2BTccgo9K) | [Derek B](https://open.spotify.com/artist/0If4PJua4iAR7N8GXUcF00), [Ella](https://open.spotify.com/artist/0gdRZmfLR6Qp6E410Ru89n) | [It had to be You](https://open.spotify.com/album/17gulT5q6GVHwsarMRlvwl) | 3:36 |
+| 18 | [Semi\-Charmed Life](https://open.spotify.com/track/4DG3jZTrxDy2RppYpRE3lh) | [JD Casper](https://open.spotify.com/artist/5Q0G3Qz3SZiB9OvGwaPMRL) | [90’s Grass](https://open.spotify.com/album/7uKxLW5zZEjEzOvSqr4PNi) | 4:32 |
+| 19 | [Closing Time](https://open.spotify.com/track/6VXwiFQ6jJTxZCh7k1lPC9) | [JD Casper](https://open.spotify.com/artist/5Q0G3Qz3SZiB9OvGwaPMRL) | [90’s Grass](https://open.spotify.com/album/7uKxLW5zZEjEzOvSqr4PNi) | 3:20 |
+| 20 | [In Her Hands](https://open.spotify.com/track/0VJJKFFbCr7QEgSdXpQqJH) | [Nephila](https://open.spotify.com/artist/5ZbjP0UFo6aonRXctRA4ju) | [HULDRA](https://open.spotify.com/album/205MRifd02P7GW14H6mLXf) | 3:19 |
+| 21 | [No Aguanto Más](https://open.spotify.com/track/6wlBiMW3dNUToLTsIbAGR9) | [Murió el Doctor](https://open.spotify.com/artist/0zpcT4TLVcexOv1WOjci2J) | [No Aguanto Más](https://open.spotify.com/album/22rQSTbtagET4Bfqgp6ZiQ) | 2:47 |
+| 22 | [DC](https://open.spotify.com/track/6n26gGgQ6YILDGTPsoIxuA) | [face the bass](https://open.spotify.com/artist/1Hwg0wzIH2L6iirUXAQ0g1) | [DC](https://open.spotify.com/album/0JoYB8m53KEF0JG3rRjLGG) | 4:42 |
+| 23 | [Bofink på min Balkong](https://open.spotify.com/track/2bt7oJ0oRC9tVEyvJxLglw) | [Jonas Tegnér](https://open.spotify.com/artist/2WOouZH4O5FGgrM0PypZIy) | [Bofink på min balkong](https://open.spotify.com/album/719KDBCP6HsQkJ5F7xnJVN) | 3:27 |
+| 24 | [This Year](https://open.spotify.com/track/19lgNfBozdyVBFSy9VM2cy) | [Drop Shadow](https://open.spotify.com/artist/5pFJt8Elph23Cwvdt7EfHX) | [This Year](https://open.spotify.com/album/4mMTb8vEkIadSAgVS2PvWD) | 4:27 |
+| 25 | [Apology Flowers](https://open.spotify.com/track/3gcKeqSrw7RlFTcfEFSp08) | [Saunder](https://open.spotify.com/artist/4G9C1r7GXgbYZYpe6BtQKd) | [Apology Flowers](https://open.spotify.com/album/2Jtd0ftNmncPIEl6xBB8He) | 4:42 |
+| 26 | [I'll Love You Anyway](https://open.spotify.com/track/2STaE1pT8OSkF6Wf0GaA8O) | [PJ Bushell](https://open.spotify.com/artist/3NQoxuvg7wTW7aUZUxGyHo) | [A Case For Chaos](https://open.spotify.com/album/5r32yGL7d3yaoVJXJZVZVy) | 2:57 |
+| 27 | [COSMIC CROSSROADS 2026 \- From "Subway Surfers"](https://open.spotify.com/track/4A0lYlJ5CYpeuJoHSFGFJp) | [Subway Surfers](https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ) | [COSMIC CROSSROADS 2026 \(From "Subway Surfers"\)](https://open.spotify.com/album/1HwMcuR7DxiXkn20WB7bAx) | 2:18 |
 
-Snapshot ID: `AAAF9+OWoR1Ybz4fiRgmCl2jV/NcgSZw`
+Snapshot ID: `AAAF+d8xNCRi7WIzIWWZ+jpEj1vHOfVw`

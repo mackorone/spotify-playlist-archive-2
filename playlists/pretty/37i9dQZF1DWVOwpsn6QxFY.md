@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,452 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,448 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 10 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 |
 | 11 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 |
 | 12 | [Falling Apart](https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:46 |
-| 13 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 |
-| 14 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 |
+| 13 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 |
+| 14 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 |
 | 15 | [But Not Kiss](https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:42 |
 | 16 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 |
 | 17 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 31 | [Crying Over U](https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:54 |
 | 32 | [How Can You Swallow So Much Sleep](https://open.spotify.com/track/214Cj6UAEJvq9rocjbXqK1) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [A Different Kind Of Fix](https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N) | 3:30 |
 | 33 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
-| 34 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
-| 35 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
+| 34 | [Dinosaur](https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Dinosaur](https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C) | 4:02 |
+| 35 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 36 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
 | 37 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 | 38 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 39 | [Garden of Eden](https://open.spotify.com/track/0NlYeYreqeP6OO5cYG2ALx) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:55 |
-| 40 | [Freazy](https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:14 |
-| 41 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
+| 40 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
+| 41 | [Freazy](https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:14 |
 | 42 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 43 | [Haircut](https://open.spotify.com/track/3UY4s7F4Ard3T6vm7xcJxQ) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Boy in Jeans](https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn) | 3:36 |
 | 44 | [Beautiful Soul](https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Return](https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0) | 3:16 |
 | 45 | [I Can't Get My Head Around You](https://open.spotify.com/track/72TRVAfkS1BeMgkbPPBa19) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 |
 | 46 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 |
 | 47 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 |
-| 48 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 |
-| 49 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
+| 48 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
+| 49 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 |
 | 50 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 |
 | 51 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
 | 52 | [Hide & Seek](https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Hide & Seek](https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU) | 3:41 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 61 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
 | 62 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
 | 63 | [Glastonbury](https://open.spotify.com/track/3bOZlwqkyzEJLVieXorDtZ) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [Cinematic Baby](https://open.spotify.com/album/3zR3tVqYP1dAL6uxGOaJUg) | 3:48 |
-| 64 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 |
-| 65 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 |
-| 66 | [Come Out](https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:48 |
+| 64 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 |
+| 65 | [Come Out](https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:48 |
+| 66 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 |
 | 67 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 |
 | 68 | [Carry On](https://open.spotify.com/track/7LKCXjugK9m71mt7miWltA) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:43 |
 | 69 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 |
 | 80 | [Dandelion](https://open.spotify.com/track/4PXkfv5sg0qAvW7ImFOglp) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Stereo Mind Game](https://open.spotify.com/album/5gajvB2An4u8FXXZHlGsh7) | 3:51 |
 
-Snapshot ID: `AAAAAGAcFOT/XOQS5L9AQNuQhEquDPYS`
+Snapshot ID: `AAAAAJqpOe3Tg/LdorpxCiBcUoFbyLPm`

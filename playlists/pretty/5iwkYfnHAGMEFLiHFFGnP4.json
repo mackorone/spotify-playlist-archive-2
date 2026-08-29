@@ -1,12 +1,12 @@
 {
   "description": "HITS 2026 \ud83d\udd25 All of today's top chart hits and hot new releases from around the world. Hit \u2661 to hear the biggest new songs first! Cover: Bruno Mars",
-  "num_followers": 646476,
+  "num_followers": 646555,
   "original_name": "HITS 2026 - Today's Top Songs",
   "owner": {
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "AAAbElkkinhJhwGv2Z9VryDGOTOYNRmI",
+  "snapshot_id": "AAAbFHJTU1uyEIRSbmSzvWqs2hwUJ6vX",
   "tracks": [
     {
       "added_at": "2026-08-25 14:46:05",
@@ -75,6 +75,22 @@
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "added_at": "2026-08-28 17:26:08",
+      "album": {
+        "name": "WILDCHILD",
+        "url": "https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 156856,
+      "name": "EMERALD EYES",
+      "url": "https://open.spotify.com/track/6Bd6dcMIg6EPfF7cYTWa36"
     },
     {
       "added_at": "2026-08-25 14:46:05",

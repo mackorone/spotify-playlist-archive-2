@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 
 > This is Elori Saxl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 27 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 26 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 | 4 | [The Most Special Place](https://open.spotify.com/track/3RWe9Gwus561ZMZ7hUSMXm) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Texada \(Original Score\)](https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5) | 3:18 |
 | 5 | [A Thousand Steps](https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:06 |
 | 6 | [Scale the Model](https://open.spotify.com/track/2q043oMJNvZJ9zYe1U3hw0) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 3:28 |
-| 7 | [Wave III](https://open.spotify.com/track/3CIKGoDrNvY3fdSGriRrX9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 3:41 |
+| 7 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 |
 | 8 | [It Happened Once](https://open.spotify.com/track/1PC3QnBq0vsi9ANqyoOtda) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Texada \(Original Score\)](https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5) | 2:30 |
-| 9 | [Seeing Is Forgetting](https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 3:36 |
+| 9 | [Reverence](https://open.spotify.com/track/3XiGOMIKcuPEpunKBq5Piv) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 6:18 |
 | 10 | [How We Got Here](https://open.spotify.com/track/3c4SGPUxFrVg0gEqsUxyvW) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 3:16 |
-| 11 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 |
+| 11 | [Wave III](https://open.spotify.com/track/3CIKGoDrNvY3fdSGriRrX9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 3:41 |
 | 12 | [It Will Be Gone](https://open.spotify.com/track/7wsLUmHLhrs74IfLvr2dil) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Texada \(Original Score\)](https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5) | 2:42 |
-| 13 | [Reverence](https://open.spotify.com/track/3XiGOMIKcuPEpunKBq5Piv) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 6:18 |
+| 13 | [Seeing Is Forgetting](https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 3:36 |
 | 14 | [Grows Along the River Slow](https://open.spotify.com/track/71ct1kTZ6O0PsWmCrClTjH) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:06 |
 | 15 | [Wave II](https://open.spotify.com/track/5ZCJVsOclucOcF3WjgqhHP) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 2:40 |
 | 16 | [Surfaces](https://open.spotify.com/track/3AOGToArEclNahkwA3k21d) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:46 |
@@ -34,6 +34,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44GTbm.md) - [plain]
 | 24 | [The Quarry](https://open.spotify.com/track/5PiKI2BYCbQmfPbvuVqnqE) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Texada \(Original Score\)](https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5) | 2:24 |
 | 25 | [Drifts II](https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 5:28 |
 | 26 | [Alternative Futures](https://open.spotify.com/track/5L9GKrpvOXHB9Zwk4TvWLh) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Earth Focus \(Original Score\)](https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA) | 2:18 |
-| 27 | [Drifts I](https://open.spotify.com/track/7Gp8T4YlNRpXUqgnJPupSz) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [Drifts and Surfaces](https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA) | 12:32 |
 
-Snapshot ID: `ao4sgAAAAADIQQfzDWqX22SnhfgYNlNb`
+Snapshot ID: `ao9+AAAAAADV1fRHgTEheU1Hm4Nqn/ja`

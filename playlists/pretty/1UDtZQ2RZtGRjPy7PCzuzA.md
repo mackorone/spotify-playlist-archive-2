@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > yk what else is massive
 
-[lia☀️](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,211 songs - 2 day 20 hr 27 min
+[lia☀️](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,233 songs - 2 day 21 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1219,5 +1219,27 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1209 | [Young & Dumb](https://open.spotify.com/track/5A8o4QlSYTe4OxSrNiImSc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/4OHcXYbEbip8iTE6WPU0XK) | 4:32 |
 | 1210 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/2TeX8rhHEbWA5u3FZZAxBX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/6arepQNAs2wdg2GoRB861m) | 4:46 |
 | 1211 | [Don't Let Me Go](https://open.spotify.com/track/4b3khTm3ufGRTyZwuYdasn) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:22 |
+| 1212 | [Wish I Didn't Love You](https://open.spotify.com/track/0Rt2l1jZY1l63z4XpRNzeH) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Wish I Didn't Love You](https://open.spotify.com/album/34vTtupIaQm34PykFukGsh) | 3:51 |
+| 1213 | [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 |
+| 1214 | [Saltwater](https://open.spotify.com/track/5YuEURgZBOYen79ebjJ3aq) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 2:55 |
+| 1215 | [Tokyo Witch](https://open.spotify.com/track/2Kp7DmEPQZQ1ru6OmoLJEo) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 3:42 |
+| 1216 | [Apple Orchard](https://open.spotify.com/track/4CIWv96Z5IIwVKYb24fTdr) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 4:31 |
+| 1217 | [Master of None](https://open.spotify.com/track/3stWWPN41byqp8loPdy92u) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 3:19 |
+| 1218 | [Auburn and Ivory](https://open.spotify.com/track/5cqaG09jwHAyDURuZXViwC) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 4:30 |
+| 1219 | [Childhood](https://open.spotify.com/track/6ILLaroecVqFHzgexrMhG6) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 3:35 |
+| 1220 | [Lovelier Girl](https://open.spotify.com/track/31L5UB9HKtadbvVEGhkLGp) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 3:02 |
+| 1221 | [House on the Hill](https://open.spotify.com/track/3MCTWjESizm3zWozv4DrR9) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 3:14 |
+| 1222 | [Heart and Lungs](https://open.spotify.com/track/3rB16JklUEwM9jIfuApB4W) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Beach House](https://open.spotify.com/album/32bJgeIOAFiNkucTCje5O5) | 7:50 |
+| 1223 | [Come And Play In The Milky Night \(Demo\)](https://open.spotify.com/track/5Aon86qtmerQqXTYyEx9Vh) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Cobra And Phases Group Play Voltage In The Milky Night \(Expanded Edition\)](https://open.spotify.com/album/4Amgy7JIX58geZLD6Wrz2r) | 2:01 |
+| 1224 | [You Can't Be Funky](https://open.spotify.com/track/43v9KODObXQjxm0ADkEuU6) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 2:45 |
+| 1225 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 |
+| 1226 | [Cowboys in Africa](https://open.spotify.com/track/6lLjgE7fG8PAXmy5lxKOvM) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Boom in the Night](https://open.spotify.com/album/5iITzVOKPgVCD0RsttHvkC) | 2:54 |
+| 1227 | [Chinese Afro](https://open.spotify.com/track/7MFQDVugl731qfZqU4DEyx) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Happy](https://open.spotify.com/album/77iXveePFgno0nf9EWGVpI) | 2:02 |
+| 1228 | [You Taste Like The Tropics](https://open.spotify.com/track/647K8piPiGm1h6vL9FsKrx) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Boom in the Night](https://open.spotify.com/album/5iITzVOKPgVCD0RsttHvkC) | 1:32 |
+| 1229 | [That's Us/Wild Combination](https://open.spotify.com/track/4Kh2MJAy65AfHFdGqBg1Jw) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Calling Out Of Context](https://open.spotify.com/album/0cJ39KJ52lQ2tnZUyy299i) | 6:58 |
+| 1230 | [Surrender \('88 Version\) \(2023 Remaster\)](https://open.spotify.com/track/784ypNcE0CXkfUxUiu0U9n) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [A Way of Life \(35th Anniversary Edition; 2023 Remaster\)](https://open.spotify.com/album/7B7zUoZNVdYgqzrGpxTJ0t) | 3:47 |
+| 1231 | [Brute Fury](https://open.spotify.com/track/6nNW1YsepRMkLGfH74B6Fb) | [Essential Logic](https://open.spotify.com/artist/1hJWecjPWroTl28fARuPd9) | [Fanfare in the Garden](https://open.spotify.com/album/0NUHRGkJQbBm7wjD2Aj0Qx) | 3:56 |
+| 1232 | [Wordy Rappinghood](https://open.spotify.com/track/3nKPh2KXbm4Jm0S4Y3GmZx) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club \- Deluxe Edition](https://open.spotify.com/album/0n4nGny616qpi5I087S8ur) | 6:28 |
+| 1233 | [Same Thing Twice](https://open.spotify.com/track/7tsY24hbksUhjezGueZ216) | [Vivien Goldman](https://open.spotify.com/artist/5qS1FvS2piwbC0YMEkXz0z) | [Resolutionary \(Songs 1979\-1982\)](https://open.spotify.com/album/2m5TBTAN0FD3usyySTsOZW) | 3:40 |
 
-Snapshot ID: `AAAMOpfaSYgFaG2B4TzjkkMHvvY+cx8M`
+Snapshot ID: `AAAMUqpt29UUO3MUpeeLrzlAu2ShAbxK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > Bien Chaka con Grupo Ajedrez & the hottest Corridos in the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,300 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,318 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 80 | [EN MI MUNDO](https://open.spotify.com/track/0lQogzZgV4XwuUTasz3nPL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 5:07 |
 | 81 | [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 |
 | 82 | [Sin Miedo \- En Vivo](https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd) | 3:30 |
-| 83 | [Yo Vengo De La Nada](https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Yo Vengo De La Nada](https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq) | 2:36 |
-| 84 | [Hoy Todo Cambio](https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Hoy Todo Cambio](https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy) | 3:23 |
+| 83 | [Hoy Todo Cambio](https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Hoy Todo Cambio](https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy) | 3:23 |
+| 84 | [Yo Vengo De La Nada](https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Yo Vengo De La Nada](https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq) | 2:36 |
 | 85 | [Voy Enfierrado](https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Voy Enfierrado](https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB) | 2:27 |
 | 86 | [CDN](https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 2:51 |
 | 87 | [ANDAMOS GANANDO](https://open.spotify.com/track/6TTGRjvzdhIg4eWYbHj4fI) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [ANDAMOS GANANDO](https://open.spotify.com/album/1HpR34HOatAt6OkrqxFOfx) | 2:42 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 91 | [Supreme](https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:49 |
 | 92 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
 | 93 | [LOU LOU](https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [LOU LOU](https://open.spotify.com/album/1sHlTAYqr45xrIUxcDrkmn) | 3:08 |
-| 94 | [Hasta Enfrente](https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Hasta Enfrente](https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD) | 2:44 |
+| 94 | [Pura Adrenalina](https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 2:42 |
 | 95 | [Rápido Soy](https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Rápido Soy](https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr) | 1:54 |
-| 96 | [Pura Adrenalina](https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 2:42 |
+| 96 | [Hasta Enfrente](https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Hasta Enfrente](https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD) | 2:44 |
 | 97 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 |
 | 98 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
 | 99 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 |
 | 100 | [Kalashnikov](https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Kalashnikov](https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY) | 2:09 |
 
-Snapshot ID: `AAAAAD5dX6+GV6ISfDFAB8y7nSSwLo6P`
+Snapshot ID: `AAAAAMBMqBkAMlncs4Pa0QWfBne8qQrn`

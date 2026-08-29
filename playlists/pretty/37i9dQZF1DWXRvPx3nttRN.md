@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,166 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,318 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 41 | [I Kissed a Girl](https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Derivatives](https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4) | 3:12 |
 | 42 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 |
 | 43 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 |
-| 44 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 |
+| 44 | [Good To Be \- Acoustic](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 |
 | 45 | [Wild Things \- Acoustic Version](https://open.spotify.com/track/3FAzlNPlVImGsbjnHHft6K) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:11 |
 | 46 | [Over My Head \(Cable Car\) \- Live at Sirius Radio, NYC, NY \- May 2006](https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Over My Head \(Cable Car\)](https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz) | 3:50 |
 | 47 | [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 63 | [Breakeven \(Acoustic\)](https://open.spotify.com/track/13KmiyueaRdBDC5SY4oxPI) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Unreleased \(EP\)](https://open.spotify.com/album/3pplGqCt5EYp1Mc9yv56td) | 3:25 |
 | 64 | [Under The Sun \- Acoustic](https://open.spotify.com/track/1YPx23eaxwbbQc8Ne6zSQq) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/0rGSRypl3i16bk9X5f2nDQ) | 3:10 |
 | 65 | [Forgive Me Friend \- Acoustic Version](https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Forgive Me Friend \(Acoustic Version\)](https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl) | 3:48 |
-| 66 | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\) \- Acoustic](https://open.spotify.com/track/7kStxK6rzxka5SRlg1lzhz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\) \[Acoustic\]](https://open.spotify.com/album/1v4bQwWWnsdfMhlHHKZumi) | 3:38 |
-| 67 | [Misery \- Acoustic Version](https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:46 |
+| 66 | [Misery \- Acoustic Version](https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Deluxe\)](https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k) | 3:46 |
+| 67 | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\) \- Acoustic](https://open.spotify.com/track/7kStxK6rzxka5SRlg1lzhz) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\) \[Acoustic\]](https://open.spotify.com/album/1v4bQwWWnsdfMhlHHKZumi) | 3:38 |
 | 68 | [Only Want You \- Live from Spotify Studios NYC](https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:22 |
 | 69 | [Nothing Matters \- Acoustic](https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters \(Acoustic\)](https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW) | 3:03 |
 | 70 | [You Come First \- Acoustic Version](https://open.spotify.com/track/07ybeC5DaFdryi4P2Bw1VN) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [You Come First \(Acoustic Version\)](https://open.spotify.com/album/5nOrUm1tHVgM6PqzEN1MLN) | 2:47 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 121 | [Recognise \- Acoustic Version](https://open.spotify.com/track/3InsMHQ7uECgOSGAe5ycXq) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Acoustic Version\)](https://open.spotify.com/album/5gdWwNy11VATD0CbTcRVjK) | 2:49 |
 | 122 | [Turn Out the Lights](https://open.spotify.com/track/3JFeaupbz1zMukrzCTURyB) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/0T5oDfLwS6oWPTrzVRmOFB) | 3:23 |
 
-Snapshot ID: `AAAAAGE5KatIl4x4XdwhkW+qdy2LxfJF`
+Snapshot ID: `AAAAAHXhv8yndR57y4UjSkskAQZRlAHT`

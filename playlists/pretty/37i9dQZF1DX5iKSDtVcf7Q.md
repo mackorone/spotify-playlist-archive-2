@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,946 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,952 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 24 | [Favorite Country Song](https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0) | 3:13 |
 | 25 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
 | 26 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
-| 27 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:28 |
+| 27 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
 | 28 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
-| 29 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
+| 29 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:28 |
 | 30 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 |
 | 31 | [Your Heart Or Mine](https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa) | 2:41 |
 | 32 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 56 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:33 |
 | 57 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 |
 | 58 | [Small Town USA](https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 3:38 |
-| 59 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 |
-| 60 | [Kick It In The Sticks](https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:45 |
+| 59 | [Kick It In The Sticks](https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:45 |
+| 60 | [half of my hometown \(feat\. Kenny Chesney\)](https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:51 |
 | 61 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 |
 | 62 | [Where Corn Don't Grow](https://open.spotify.com/track/6KFGzQWTcemjtFgjN9yCBf) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Restless Kind](https://open.spotify.com/album/4DAKrRaNrLQvATy0UO4SUJ) | 3:28 |
 | 63 | [American Country Love Song](https://open.spotify.com/track/0O1x2tRm8ZpfDbcpOWZp7z) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:17 |
-| 64 | [What Makes You Country](https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:55 |
-| 65 | [Country Must Be Country Wide](https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:34 |
+| 64 | [Country Must Be Country Wide](https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:34 |
+| 65 | [What Makes You Country](https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:55 |
 | 66 | [Give Me Back My Hometown](https://open.spotify.com/track/3MykNWa65IP2VN1Qa6B9yK) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:12 |
 | 67 | [Mayberry](https://open.spotify.com/track/04rZkq3ihHmGNfKPgBiTX1) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Melt](https://open.spotify.com/album/6kGMwYN1ChjX0yyhN7tDs2) | 4:32 |
 | 68 | [John Deere Green](https://open.spotify.com/track/2ZXsvL9DO2MPv43Ay1IxgR) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 99 | [Good Vibes](https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Good Vibes](https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett) | 2:45 |
 | 100 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
 
-Snapshot ID: `AAAAAACC22x4jWG0pmMEt2Fn2sEinUdn`
+Snapshot ID: `AAAAAPSLOExiz/XrhU4+BPaRO51yiYY9`

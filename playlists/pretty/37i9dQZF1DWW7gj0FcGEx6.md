@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,591 likes - 271 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,838 likes - 271 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 35 | [So kiss me and be damned\. \- from "Wuthering Heights" Original Motion Picture Score](https://open.spotify.com/track/2MWteImqZ4wqa57xHJ3gVo) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Wuthering Heights \(Original Motion Picture Score\)](https://open.spotify.com/album/2U28Fat0UFxXxTt7ZlGKpG) | 3:24 |
 | 36 | [Weekends with Tewkesbury](https://open.spotify.com/track/6SJze76GGynfjBK5ewrBCy) | [Aaron May](https://open.spotify.com/artist/5xePrZnEOHnveUMqzDsNPu), [David Ridley](https://open.spotify.com/artist/053ZuMYAo6RyVOEcFbcZ1r) | [Enola Holmes 3 \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3wpeDM7ROqwVhPvZlUMlHp) | 1:16 |
 | 37 | [It's Giving Diva Beetlejuice](https://open.spotify.com/track/6CY2kyCS7Z458antYNmdd5) | [Transcenders](https://open.spotify.com/artist/3TBJ2CQumYLSjZdgx369Yg) | [Survival of the Thickest: The Final Season \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/37jlzz8zkthLsSy7gNDoFf) | 1:19 |
-| 38 | [Contentious Environment \(From "The Invite"\)](https://open.spotify.com/track/6zLvibKh8GmZnzEAH9z6FY) | [Devonté Hynes](https://open.spotify.com/artist/0M1ImWN3uInxUCZVIE9uxa) | [Contentious Environment \(From "The Invite"\)](https://open.spotify.com/album/5gC7Jy2lyadGwSI9voznHH) | 3:04 |
+| 38 | [Contentious Environment \- From "The Invite"](https://open.spotify.com/track/6zLvibKh8GmZnzEAH9z6FY) | [Devonté Hynes](https://open.spotify.com/artist/0M1ImWN3uInxUCZVIE9uxa) | [Contentious Environment \(From "The Invite"\)](https://open.spotify.com/album/5gC7Jy2lyadGwSI9voznHH) | 3:04 |
 | 39 | [A New Republic](https://open.spotify.com/track/3fzhvVeR84TYPWOtrSHTeQ) | [John Dragonetti](https://open.spotify.com/artist/2QTjftZMiIxzvBBv97JEnn) | [The American Experiment \(Soundtrack from the Netflix Documentary Series\)](https://open.spotify.com/album/0eKloeaZUnzqJBDNfZT4ap) | 4:19 |
 | 40 | [Color Theories](https://open.spotify.com/track/7cDDky0Zsgeg3pRN1VUjTE) | [Lia Ouyang Rusli](https://open.spotify.com/artist/3yI0A9p0FOE8UFHuz4CUto) | [Color Theories \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RTx8bW1W5uylQbVZwh5Gc) | 1:09 |
 | 41 | [New Strength](https://open.spotify.com/track/6DdTsXtOUZHPlO7Spqjd0T) | [Bartek Gliniak](https://open.spotify.com/artist/0Io0czGd5ZOuqHSIqDZYWl) | [Lone Samurai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2EyC9mKZYD56CpdYY3NG2P) | 4:09 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 270 | [What it Takes](https://open.spotify.com/track/0KgcGvK9SCLEuV0ozk7cuo) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Lurker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zXA6U4tems3JZXHRR4JUg) | 2:17 |
 | 271 | [Inbred for Generations](https://open.spotify.com/track/511Lu6jf1y9dm5XtEVzg4B) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Joanne Higginbottom](https://open.spotify.com/artist/6jH2c4lJnHcaxM2iFEEhyk) | [Fixed \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0WtAJVbwQDgRTKnasRBtNN) | 1:44 |
 
-Snapshot ID: `AAAAALSTBun91LpvdTroaKQV5V/E77el`
+Snapshot ID: `AAAAANaiR2kBf+JLsFkT1FMIkL2sR/5/`

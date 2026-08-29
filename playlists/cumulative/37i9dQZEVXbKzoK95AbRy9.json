@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 156579,
       "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
@@ -5025,24 +5025,6 @@
     },
     {
       "album": {
-        "name": "Velhos H\u00e1bitos, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "date_added": "2026-07-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191154,
-      "name": "Dois Gumes (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
-    },
-    {
-      "album": {
         "name": "Dois Gumes (Ao Vivo)",
         "url": "https://open.spotify.com/album/4o1PjHRaJZI1FqRRsb8Oz4"
       },
@@ -5058,6 +5040,24 @@
       "duration_ms": 191154,
       "name": "Dois Gumes - Ao Vivo",
       "url": "https://open.spotify.com/track/39KwMv89TaEdaBrvk28AMC"
+    },
+    {
+      "album": {
+        "name": "Velhos H\u00e1bitos, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191154,
+      "name": "Dois Gumes - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
     },
     {
       "album": {
@@ -5646,7 +5646,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 170658,
       "name": "Eu Duvido - Ao Vivo",
       "url": "https://open.spotify.com/track/0qJQD081gspDHC6xCKwMlB"
@@ -5672,6 +5672,28 @@
       "duration_ms": 170658,
       "name": "Eu Duvido - Ao Vivo",
       "url": "https://open.spotify.com/track/2NKgvPdAy8FUC5p1l0YnKg"
+    },
+    {
+      "album": {
+        "name": "Deu Rolo No Barret\u00e3o",
+        "url": "https://open.spotify.com/album/2zRjb3y6rKfIQ5y7n2kwSl"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170658,
+      "name": "Eu Duvido - Ao Vivo",
+      "url": "https://open.spotify.com/track/3YppiISUkHejCcxEF75Tql"
     },
     {
       "album": {
@@ -6565,6 +6587,24 @@
     },
     {
       "album": {
+        "name": "Explodiuu BB - Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27PL0Yloi9GEmEPqWU1tzX"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Higor",
+          "url": "https://open.spotify.com/artist/5VZd327ttMeMCOBfNHged8"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157184,
+      "name": "Flash - Ao Vivo",
+      "url": "https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS"
+    },
+    {
+      "album": {
         "name": "Intenso, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ"
       },
@@ -6620,7 +6660,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 205586,
       "name": "Foi por Conveni\u00eancia",
       "url": "https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB"
@@ -6953,6 +6993,44 @@
     },
     {
       "album": {
+        "name": "\u00c9 O Iguinho Da CT",
+        "url": "https://open.spotify.com/album/1YtI1rFXKXmK4FBCMYyKhs"
+      },
+      "artists": [
+        {
+          "name": "Mc Iguinho Ct",
+          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
+        },
+        {
+          "name": "Dj Aladin GDB",
+          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433846,
+      "name": "GRWM",
+      "url": "https://open.spotify.com/track/4BcymWo7t3t27RNb9mbNFx"
+    },
+    {
+      "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
       },
@@ -7224,7 +7302,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179215,
-      "name": "Ignora (Ao Vivo)",
+      "name": "Ignora - Ao Vivo",
       "url": "https://open.spotify.com/track/7dNXSf4lS30n1lBfFavQK5"
     },
     {
@@ -10231,6 +10309,24 @@
     },
     {
       "album": {
+        "name": "Sabor HS 3.0",
+        "url": "https://open.spotify.com/album/1zAovKvahz5COTVcGkldnx"
+      },
+      "artists": [
+        {
+          "name": "Heitor Santos",
+          "url": "https://open.spotify.com/artist/2FQg4JX9rAIDnakUJb8hgj"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179356,
+      "name": "Noite Fracassada",
+      "url": "https://open.spotify.com/track/1JO3uqVDPWj5j2GlYmK7e0"
+    },
+    {
+      "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
       },
@@ -10742,6 +10838,32 @@
       "duration_ms": 176765,
       "name": "N\u00e3o \u00e9 o Lugar, \u00e9 a Pessoa",
       "url": "https://open.spotify.com/track/3WvQaS0tluzeCN1KR5tiFi"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o \u00e9 Pressa, \u00e9 Press\u00e3o",
+        "url": "https://open.spotify.com/album/0fkZZAJ0M0JvOqMZMHurWl"
+      },
+      "artists": [
+        {
+          "name": "Rincon",
+          "url": "https://open.spotify.com/artist/6bJJCcH6BM1tugUPZvGZE0"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "DJ BOSS",
+          "url": "https://open.spotify.com/artist/3R0OFXlmcA8co1QeT0tm8n"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "N\u00e3o \u00e9 Pressa, \u00e9 Press\u00e3o",
+      "url": "https://open.spotify.com/track/7DHAuCYRhuJVJPCwbFJA08"
     },
     {
       "album": {
@@ -11378,7 +11500,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 262158,
       "name": "Pacman de Panicat",
       "url": "https://open.spotify.com/track/2oh5HTG1Wv2a41P3xmlbvY"
@@ -13834,7 +13956,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 197533,
       "name": "Se Saudade Sentir (Se Prepara 3)",
       "url": "https://open.spotify.com/track/3lJMJl6alsAqw5OiXOOdVi"
@@ -14914,7 +15036,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -16214,7 +16336,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"

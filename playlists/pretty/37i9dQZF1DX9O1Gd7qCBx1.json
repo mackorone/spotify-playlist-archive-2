@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIYXr2TCi0cbu9scJ4PnXSls22Q3",
+  "snapshot_id": "AAAAACGvF8dvRiEQF0jrXMQ6fuNO70gI",
   "tracks": [
     {
       "added_at": "2026-06-24 20:03:44",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Tata Dios",
-      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Chavela Vargas. Sus 40 Grandes Canciones",
         "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 202359,
       "name": "Que te vaya bonito",
       "url": "https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Tata Dios",
+      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
-        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
-      },
-      "artists": [
-        {
-          "name": "\u00d3scar Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Trist\u00edsimo Pante\u00f3n",
-      "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Canciones de D\u00eda de Muertos",
         "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 187440,
       "name": "Ay Mexicanita",
       "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
+        "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Trist\u00edsimo Pante\u00f3n",
+      "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "Cantando Con la Muerte",
+        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
+      "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "La flauta ind\u00edgena Mexicana. Grabaciones de Campo de Ren\u00e9 Villanueva",
         "url": "https://open.spotify.com/album/0oPH8w1qMu6GgvpkOPP7RV"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Cantando Con la Muerte",
-        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
-      },
-      "artists": [
-        {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
-      "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Desarrollo de Personaje",
         "url": "https://open.spotify.com/album/5OnNnY2u8aExKg7bkxbYXl"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 185814,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1pYqkpBtG8zfOZ5dwQqUGj"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "D\u00eda de los Muertos: El Mariachi",
-        "url": "https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB"
-      },
-      "artists": [
-        {
-          "name": "Wilbert Pere y Mariachi Tanampa",
-          "url": "https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n"
-        }
-      ],
-      "duration_ms": 201247,
-      "name": "Que Me Importa Morir",
-      "url": "https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1311,6 +1295,22 @@
       "duration_ms": 138541,
       "name": "La Catr\u00edna Pobre",
       "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "D\u00eda de los Muertos: El Mariachi",
+        "url": "https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Pere y Mariachi Tanampa",
+          "url": "https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n"
+        }
+      ],
+      "duration_ms": 201247,
+      "name": "Que Me Importa Morir",
+      "url": "https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Dulce Muerte",
-        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
-      },
-      "artists": [
-        {
-          "name": "BuenRostro",
-          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Dulce Muerte",
-      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Los Versos de la Catrina",
         "url": "https://open.spotify.com/album/6g1URZ8B37vkNlBcyIqRAy"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 247453,
       "name": "Los Versos de la Catrina",
       "url": "https://open.spotify.com/track/6lWHsxRKV13KVilUNbbOIN"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Dulce Muerte",
+        "url": "https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA"
+      },
+      "artists": [
+        {
+          "name": "BuenRostro",
+          "url": "https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Dulce Muerte",
+      "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
     },
     {
       "added_at": "2026-06-24 20:03:44",

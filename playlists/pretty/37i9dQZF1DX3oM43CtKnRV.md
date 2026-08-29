@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 
 > These songs rocked the 00s\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,205,838 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,205,907 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 75 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 |
 | 76 | [Hysteria](https://open.spotify.com/track/7xyYsOvq5Ec3P4fr6mM9fD) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:47 |
 | 77 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 |
-| 78 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 78 | [I Believe In A Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 79 | [No One Knows](https://open.spotify.com/track/5VVuxxuQIJD0pjjFls1DKL) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [No One Knows \(International Version\)](https://open.spotify.com/album/05lAJqgSkDJwrgLJckTslD) | 4:15 |
 | 80 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 |
 | 81 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oM43CtKnRV.md) - [plain]
 | 99 | [One Armed Scissor](https://open.spotify.com/track/5UTYRC4IQLc7Jxc1sJapMl) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship of Command](https://open.spotify.com/album/0BPdEttNgcw9OMljXVAAJP) | 4:20 |
 | 100 | [In the End](https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory](https://open.spotify.com/album/2pKw6GERJVAD61449B1EEM) | 3:36 |
 
-Snapshot ID: `AAAAAKmKCB14cgcBgLIVwW6R7nRKR8Jj`
+Snapshot ID: `AAAAAJRvv+aXycTOR1wvCV9I2LqGx2bq`

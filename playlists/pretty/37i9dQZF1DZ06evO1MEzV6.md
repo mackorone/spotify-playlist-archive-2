@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 
 > This is beabadoobee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,687 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,707 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 7 | [Apple Cider](https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 2:58 |
 | 8 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 |
 | 9 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
-| 10 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 |
-| 11 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 |
+| 10 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 |
+| 11 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 |
 | 12 | [Ripples](https://open.spotify.com/track/0SIrEgMzTSWzFoT272mk2X) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:07 |
 | 13 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 |
 | 14 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 49 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:10 |
 | 50 | [Bobby](https://open.spotify.com/track/0mW58kig39aueBh99f6yGz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 3:25 |
 
-Snapshot ID: `ao4sgAAAAACW6VeYU+REiSg2tSPCjxfc`
+Snapshot ID: `ao9+AAAAAAAKrJ1moLEcKuU3sNip7O/v`

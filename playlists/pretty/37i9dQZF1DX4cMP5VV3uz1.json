@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166971,
+  "num_followers": 166967,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEAUXzuDKpEdL/BiCHYqpqLTcofW",
+  "snapshot_id": "AAAAADUozfPli86hfqBjnBza3Rxii/SZ",
   "tracks": [
     {
       "added_at": "2026-08-27 23:00:38",
@@ -427,26 +427,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Metaphors",
-        "url": "https://open.spotify.com/album/0gIYJrVFV8irAL4CQcZBio"
-      },
-      "artists": [
-        {
-          "name": "Benny L",
-          "url": "https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0"
-        },
-        {
-          "name": "Cleveland Watkiss",
-          "url": "https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc"
-        }
-      ],
-      "duration_ms": 570514,
-      "name": "Metaphors",
-      "url": "https://open.spotify.com/track/0RajrHrYkr0zHJMqyrvdSF"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Icarus",
         "url": "https://open.spotify.com/album/314646LBYORuz5JGXtHiB9"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 201379,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/3KWchIluByUzdoJfkwe0Kx"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Metaphors",
+        "url": "https://open.spotify.com/album/0gIYJrVFV8irAL4CQcZBio"
+      },
+      "artists": [
+        {
+          "name": "Benny L",
+          "url": "https://open.spotify.com/artist/5l4uVbRaFx2kxzudLXO2H0"
+        },
+        {
+          "name": "Cleveland Watkiss",
+          "url": "https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc"
+        }
+      ],
+      "duration_ms": 570514,
+      "name": "Metaphors",
+      "url": "https://open.spotify.com/track/0RajrHrYkr0zHJMqyrvdSF"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Legit",
         "url": "https://open.spotify.com/album/0Loed09SSf2Yz9hmbuE3UZ"
       },
@@ -735,6 +715,46 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "fondofme",
+        "url": "https://open.spotify.com/album/1caBJnGrPXT0eSzdNduS50"
+      },
+      "artists": [
+        {
+          "name": "4K",
+          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
+        },
+        {
+          "name": "Anjeli",
+          "url": "https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "fondofme",
+      "url": "https://open.spotify.com/track/0vAFaI4Dx0qdhRR1WmlIU7"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Frequency",
         "url": "https://open.spotify.com/album/170iWlGXwwBb1eAX0tnqqS"
       },
@@ -747,22 +767,6 @@
       "duration_ms": 226206,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/6Gkbg9A95px8Qr7LRV7jTE"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "Bad Taste",
-        "url": "https://open.spotify.com/album/0Sm2yAul9Ih7CSac3ipoMo"
-      },
-      "artists": [
-        {
-          "name": "Feed Me",
-          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Bad Taste",
-      "url": "https://open.spotify.com/track/38NXnnLe2lph2AWFOyuC1o"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -787,6 +791,22 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Bad Taste",
+        "url": "https://open.spotify.com/album/0Sm2yAul9Ih7CSac3ipoMo"
+      },
+      "artists": [
+        {
+          "name": "Feed Me",
+          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Bad Taste",
+      "url": "https://open.spotify.com/track/38NXnnLe2lph2AWFOyuC1o"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Paigons",
         "url": "https://open.spotify.com/album/6qIeN4g5UCz68STx536tqz"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 268800,
       "name": "Paigons",
       "url": "https://open.spotify.com/track/1SoOBEkddoZvhrEECTZKQM"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "fondofme",
-        "url": "https://open.spotify.com/album/1caBJnGrPXT0eSzdNduS50"
-      },
-      "artists": [
-        {
-          "name": "4K",
-          "url": "https://open.spotify.com/artist/4B5o3KYgu0h7jpphQsrDRP"
-        },
-        {
-          "name": "Anjeli",
-          "url": "https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC"
-        }
-      ],
-      "duration_ms": 203294,
-      "name": "fondofme",
-      "url": "https://open.spotify.com/track/0vAFaI4Dx0qdhRR1WmlIU7"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -991,30 +991,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "SHATTER",
-        "url": "https://open.spotify.com/album/1h6KIsgjXcPyA53MTIQMhO"
-      },
-      "artists": [
-        {
-          "name": "SEMPA",
-          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
-        },
-        {
-          "name": "FSHR",
-          "url": "https://open.spotify.com/artist/5Gr03VDrhCcPF1HAI8WpiE"
-        },
-        {
-          "name": "Trilla Jermaine Trilloski",
-          "url": "https://open.spotify.com/artist/1c1ppVMEkBrVj2jX4e6NbW"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "SHATTER",
-      "url": "https://open.spotify.com/track/4bZnUtYR7o9pEBI1yy496E"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Combat (feat. Gardna)",
         "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
       },
@@ -1035,18 +1011,26 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Run That",
-        "url": "https://open.spotify.com/album/1Gzh4s51F9Ly5cZOgxovIr"
+        "name": "SHATTER",
+        "url": "https://open.spotify.com/album/1h6KIsgjXcPyA53MTIQMhO"
       },
       "artists": [
         {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+          "name": "SEMPA",
+          "url": "https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ"
+        },
+        {
+          "name": "FSHR",
+          "url": "https://open.spotify.com/artist/5Gr03VDrhCcPF1HAI8WpiE"
+        },
+        {
+          "name": "Trilla Jermaine Trilloski",
+          "url": "https://open.spotify.com/artist/1c1ppVMEkBrVj2jX4e6NbW"
         }
       ],
-      "duration_ms": 194500,
-      "name": "Run That",
-      "url": "https://open.spotify.com/track/4sC1bIdUSHWMsdBOTdlmMo"
+      "duration_ms": 168000,
+      "name": "SHATTER",
+      "url": "https://open.spotify.com/track/4bZnUtYR7o9pEBI1yy496E"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Run That",
+        "url": "https://open.spotify.com/album/1Gzh4s51F9Ly5cZOgxovIr"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Run That",
+      "url": "https://open.spotify.com/track/4sC1bIdUSHWMsdBOTdlmMo"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Take Out Your Team",
         "url": "https://open.spotify.com/album/0bN4b10nR6LqR49LBx6GJP"
       },
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Original Style",
+        "url": "https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 154566,
+      "name": "Original Style",
+      "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Higher than Heaven",
         "url": "https://open.spotify.com/album/3miVC4lTPE9M1nwZY9NVlT"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 228000,
       "name": "Higher than Heaven",
       "url": "https://open.spotify.com/track/6CJuuNkd3c1Mzat7Xhhmn8"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "Original Style",
-        "url": "https://open.spotify.com/album/5IE1VPEhI3R17XvTdw1XLn"
-      },
-      "artists": [
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 154566,
-      "name": "Original Style",
-      "url": "https://open.spotify.com/track/62IL1Fj8GeneLQsmLu7ofk"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Ash Dem",
-        "url": "https://open.spotify.com/album/5TlfoLx6XSuFFfJAtDpXbL"
-      },
-      "artists": [
-        {
-          "name": "Asher",
-          "url": "https://open.spotify.com/artist/27rLoktmo5l6NQ5kSqB8X2"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        }
-      ],
-      "duration_ms": 137584,
-      "name": "Ash Dem",
-      "url": "https://open.spotify.com/track/5RIRxMzIWOxULw5pSiAqeG"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Thriller in Manila",
         "url": "https://open.spotify.com/album/1CfdYt2AYuBD9wGdshS5ko"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 168000,
       "name": "Thriller in Manila",
       "url": "https://open.spotify.com/track/2ir9VrFfUFq1AdOqKSKLPS"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Ash Dem",
+        "url": "https://open.spotify.com/album/5TlfoLx6XSuFFfJAtDpXbL"
+      },
+      "artists": [
+        {
+          "name": "Asher",
+          "url": "https://open.spotify.com/artist/27rLoktmo5l6NQ5kSqB8X2"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 137584,
+      "name": "Ash Dem",
+      "url": "https://open.spotify.com/track/5RIRxMzIWOxULw5pSiAqeG"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/5TyHRHPKoow6PMO0nzHGjS"
-      },
-      "artists": [
-        {
-          "name": "Primate",
-          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/7t4la9AACH1mc9MBCUzJrw"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Dread",
         "url": "https://open.spotify.com/album/3pdKDGrfS0On44kYIOo3tm"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 208206,
       "name": "Dread",
       "url": "https://open.spotify.com/track/0kkII5ZHyfreKz6smPyWJX"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/5TyHRHPKoow6PMO0nzHGjS"
+      },
+      "artists": [
+        {
+          "name": "Primate",
+          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/7t4la9AACH1mc9MBCUzJrw"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1571,6 +1571,46 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Send Dem Out (feat. Capo Lee)",
+        "url": "https://open.spotify.com/album/0zXNPqzgO9ZLI6R2n89XO5"
+      },
+      "artists": [
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 126500,
+      "name": "Send Dem Out (feat. Capo Lee)",
+      "url": "https://open.spotify.com/track/3L9fvHsAThgCBjfHaPcohn"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Buff Voltage",
+        "url": "https://open.spotify.com/album/37FOFewVm8DNBQJ2UU5Amp"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "The Swarm",
+      "url": "https://open.spotify.com/track/25ASFMHYeoyl6yrt3xoCsc"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/0G6B8ftsjom1AvlFT3qXnj"
       },
@@ -1587,26 +1627,6 @@
       "duration_ms": 208457,
       "name": "Mood",
       "url": "https://open.spotify.com/track/14pFCy9Wnkpt1SWJxQJZ6I"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
-      },
-      "artists": [
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Break",
-          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "Step Back (Break Remix)",
-      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1631,18 +1651,22 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Buff Voltage",
-        "url": "https://open.spotify.com/album/37FOFewVm8DNBQJ2UU5Amp"
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
       },
       "artists": [
         {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Break",
+          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
         }
       ],
-      "duration_ms": 311000,
-      "name": "The Swarm",
-      "url": "https://open.spotify.com/track/25ASFMHYeoyl6yrt3xoCsc"
+      "duration_ms": 203720,
+      "name": "Step Back (Break Remix)",
+      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1703,30 +1727,6 @@
       "duration_ms": 205500,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/3fhHPkavJa0mH5S3uDgYGe"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "Send Dem Out (feat. Capo Lee)",
-        "url": "https://open.spotify.com/album/0zXNPqzgO9ZLI6R2n89XO5"
-      },
-      "artists": [
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        },
-        {
-          "name": "Sir Spyro",
-          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 126500,
-      "name": "Send Dem Out (feat. Capo Lee)",
-      "url": "https://open.spotify.com/track/3L9fvHsAThgCBjfHaPcohn"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
-        "name": "Snakebite",
-        "url": "https://open.spotify.com/album/6VtiEiTYQ29acY098UhKrG"
-      },
-      "artists": [
-        {
-          "name": "Hugh Hardie",
-          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
-        },
-        {
-          "name": "Circumference",
-          "url": "https://open.spotify.com/artist/55WGXEp1qUerac8ChlL5Ii"
-        }
-      ],
-      "duration_ms": 223542,
-      "name": "Snakebite",
-      "url": "https://open.spotify.com/track/2qU8YCJQbCxPayPa8CZGHE"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/06nLUPKyyeAf9HChi6prrn"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 161641,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/2F5hNtbNmIFHE2c4hVKmiC"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/6VtiEiTYQ29acY098UhKrG"
+      },
+      "artists": [
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        },
+        {
+          "name": "Circumference",
+          "url": "https://open.spotify.com/artist/55WGXEp1qUerac8ChlL5Ii"
+        }
+      ],
+      "duration_ms": 223542,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/2qU8YCJQbCxPayPa8CZGHE"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Step Up",
+        "url": "https://open.spotify.com/album/30XK7hgmO5AI6o8xlX7hyU"
+      },
+      "artists": [
+        {
+          "name": "DJ Jackum",
+          "url": "https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX"
+        }
+      ],
+      "duration_ms": 238195,
+      "name": "Step Up",
+      "url": "https://open.spotify.com/track/0uayT2xFf4UQw4ltOglf0m"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "DAY ONE (Edits)",
         "url": "https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 211885,
       "name": "CHARGIE - Rendah Edit",
       "url": "https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "Step Up",
-        "url": "https://open.spotify.com/album/30XK7hgmO5AI6o8xlX7hyU"
-      },
-      "artists": [
-        {
-          "name": "DJ Jackum",
-          "url": "https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX"
-        }
-      ],
-      "duration_ms": 238195,
-      "name": "Step Up",
-      "url": "https://open.spotify.com/track/0uayT2xFf4UQw4ltOglf0m"
     },
     {
       "added_at": "2026-08-27 23:00:38",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2026-08-27 23:00:38",
       "album": {
+        "name": "Disrupt The Dancefloor",
+        "url": "https://open.spotify.com/album/7plZh3gSjoyuIDpkRMKw6g"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "duration_ms": 191724,
+      "name": "Disrupt The Dancefloor",
+      "url": "https://open.spotify.com/track/5PwAaf8G32y02SNbS04CHJ"
+    },
+    {
+      "added_at": "2026-08-27 23:00:38",
+      "album": {
         "name": "Full Power",
         "url": "https://open.spotify.com/album/2B8BsCBkGXwypoKCHP4kzq"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 182068,
       "name": "Full Power",
       "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
-    },
-    {
-      "added_at": "2026-08-27 23:00:38",
-      "album": {
-        "name": "Disrupt The Dancefloor",
-        "url": "https://open.spotify.com/album/7plZh3gSjoyuIDpkRMKw6g"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "Disrupt The Dancefloor",
-      "url": "https://open.spotify.com/track/5PwAaf8G32y02SNbS04CHJ"
     }
   ],
   "unique_name": "Proper Naughty ",

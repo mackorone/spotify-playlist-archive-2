@@ -1,12 +1,12 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 145267,
+  "num_followers": 145264,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEmL8R5laAp3Be8t1iEUvS1fqoa7",
+  "snapshot_id": "AAAAAMJcwqzlb0iwJBhZJKRNt/GkwY33",
   "tracks": [
     {
       "added_at": "2024-07-24 13:57:08",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 220476,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/0AlHwHvgbjkRKDaTI6YDHD"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 185620,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 220476,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/0AlHwHvgbjkRKDaTI6YDHD"
     },
     {
       "added_at": "2024-07-24 13:57:08",

@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1Av5gtBFJK3uLX1577WWLE"
+      },
+      "artists": [
+        {
+          "name": "Soothee",
+          "url": "https://open.spotify.com/artist/3LpjAkAAk6I05jTHoUs1al"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137799,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/4ZM2ZMmBFB28JP8FPz5syB"
+    },
+    {
+      "album": {
         "name": "4you to just love",
         "url": "https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq"
       },
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 136513,
       "name": "chez",
       "url": "https://open.spotify.com/track/1BTga4bUzAmES8zgeXAZVX"
@@ -6121,6 +6139,24 @@
     },
     {
       "album": {
+        "name": "Flave",
+        "url": "https://open.spotify.com/album/6OsJChadFmEpixefGaA6uw"
+      },
+      "artists": [
+        {
+          "name": "weightless minutes",
+          "url": "https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120020,
+      "name": "Flave",
+      "url": "https://open.spotify.com/track/69AT3zGrT8dl2hSQPActta"
+    },
+    {
+      "album": {
         "name": "Flavour",
         "url": "https://open.spotify.com/album/3JCKzZyp6umZDTKO8OWW1z"
       },
@@ -6746,7 +6782,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 133953,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z"
@@ -7248,7 +7284,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 127500,
       "name": "Gossamer Air",
       "url": "https://open.spotify.com/track/2KZWTQTdriCvqDAzbyvOZr"
@@ -7979,6 +8015,24 @@
     },
     {
       "album": {
+        "name": "Holding Summer",
+        "url": "https://open.spotify.com/album/3OYy4GjhWYBnSYV6AQm3Mz"
+      },
+      "artists": [
+        {
+          "name": "Cosmaze",
+          "url": "https://open.spotify.com/artist/2YDkCihFfpTg9FrAwuPlKP"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136418,
+      "name": "Holding Summer",
+      "url": "https://open.spotify.com/track/5ZUx78hm9XN1v70L8dCmyS"
+    },
+    {
+      "album": {
         "name": "Hollie Would",
         "url": "https://open.spotify.com/album/7z8CAYtyyKgjKdPwWOHAsP"
       },
@@ -8248,7 +8302,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 169411,
       "name": "hover",
       "url": "https://open.spotify.com/track/397RPoOLzzdDv1rvkABfnW"
@@ -15233,6 +15287,24 @@
     },
     {
       "album": {
+        "name": "Rain on Vinyl",
+        "url": "https://open.spotify.com/album/1MPg9OIXF6SKgStSCf2ifp"
+      },
+      "artists": [
+        {
+          "name": "Moonloop",
+          "url": "https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131462,
+      "name": "Rain on Vinyl",
+      "url": "https://open.spotify.com/track/269FwHXaSWfPZLGMJ6fux0"
+    },
+    {
+      "album": {
         "name": "Rainbow Dragon Waterfall",
         "url": "https://open.spotify.com/album/3mSSqe5wkfk6n18x9RWDBn"
       },
@@ -17678,7 +17750,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-29",
       "duration_ms": 145263,
       "name": "Sofa",
       "url": "https://open.spotify.com/track/3XfRoxDC6XdkOVpOVwcSEj"
@@ -17990,6 +18062,24 @@
       "duration_ms": 114270,
       "name": "Sounds From The Park",
       "url": "https://open.spotify.com/track/55uqa2dZDFoy45LNi2c0Da"
+    },
+    {
+      "album": {
+        "name": "sous les \u00e9toiles",
+        "url": "https://open.spotify.com/album/1g9h0ey3hCly7JWDjhf13p"
+      },
+      "artists": [
+        {
+          "name": "jean opal",
+          "url": "https://open.spotify.com/artist/4vSheQ1c3KW4v7MOrPE7ql"
+        }
+      ],
+      "date_added": "2026-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139130,
+      "name": "sous les \u00e9toiles",
+      "url": "https://open.spotify.com/track/5IZyLYK4zCxVMNkUnM2maJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,297 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,305 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 8 | [Stand By Your Man](https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Stand By Your Man](https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr) | 2:37 |
 | 9 | [Ring of Fire](https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:35 |
 | 10 | [Right Or Wrong](https://open.spotify.com/track/1FAtkmz8kFmbq4VmOf79fb) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:37 |
-| 11 | [Gentle On My Mind \- Remastered 2001](https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Gentle On My Mind \(Remastered\)](https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE) | 2:58 |
-| 12 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
+| 11 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
+| 12 | [Gentle On My Mind \- Remastered 2001](https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Gentle On My Mind \(Remastered\)](https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE) | 2:58 |
 | 13 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |
 | 14 | [Waiting Around to Die](https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Townes Van Zandt](https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue) | 2:45 |
 | 15 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 74 | [I'm So Lonesome I Could Cry](https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:37 |
 | 75 | [Talk Back Trembling Lips](https://open.spotify.com/track/2kc2v1biRvuHJaBozQzfqs) | [Ernest Ashworth](https://open.spotify.com/artist/4wThxGOdUJp05INkly6n0o) | [Greatest Hits](https://open.spotify.com/album/1s6BocSrXp9Gu4hv8fHgEk) | 2:40 |
 | 76 | [Yakety Axe](https://open.spotify.com/track/0Lo5YM7ZvIcUnbvnqLMUre) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [The Essential Chet Atkins](https://open.spotify.com/album/0lKXTFKRUH3eyflNhlSlQZ) | 2:03 |
-| 77 | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM) | 3:18 |
-| 78 | [Still \- Single Version](https://open.spotify.com/track/0Q7eey8NSPQEQ3ol75UAAx) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh) | [The Definitive Collection](https://open.spotify.com/album/2PEQef4Kfc2af6MqXRckrl) | 2:46 |
-| 79 | [We'll Get Ahead Someday](https://open.spotify.com/track/7mdB5GWRbuWJDxZ2CbarAv) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 1:57 |
+| 77 | [We'll Get Ahead Someday](https://open.spotify.com/track/7mdB5GWRbuWJDxZ2CbarAv) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 1:57 |
+| 78 | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM) | 3:18 |
+| 79 | [Still \- Single Version](https://open.spotify.com/track/0Q7eey8NSPQEQ3ol75UAAx) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh) | [The Definitive Collection](https://open.spotify.com/album/2PEQef4Kfc2af6MqXRckrl) | 2:46 |
 | 80 | [Burning Memories \- Single Version](https://open.spotify.com/track/569rWEzod8v8JX86gO2eX6) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Burning Memories](https://open.spotify.com/album/0menjprjsUXBN3jKjGk1XD) | 2:29 |
 | 81 | [Blue Kentucky Girl](https://open.spotify.com/track/0BD9I8rnTQC43yNwEuaHSL) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Gold](https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl) | 2:40 |
 | 82 | [Standing In The Shadows](https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [The Best Of Hank Williams, Jr\. 20th Century Masters The Millennium Collection](https://open.spotify.com/album/3UEsMApmagWq63RApvoAER) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/60LBZcuecM8zRwXmZm5bQs) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [25 All\-Time Greatest Hits](https://open.spotify.com/album/5hoikUKrQZkKm8tspRhwTS) | 2:53 |
 | 100 | [Leavin' On Your Mind \- Single Version](https://open.spotify.com/track/1UX3YnunUhblOJbdnX64F2) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sweet Dreams: Her Complete Decca Masters \(1960\-1963\)](https://open.spotify.com/album/42ClQwOX06MiqvPJ97yoNC) | 2:24 |
 
-Snapshot ID: `AAAAAHnrKO9x/l6kE8eEMZuSAMEdzqYA`
+Snapshot ID: `AAAAAOGEUneCB0YEsS0PfYsLsKXxBA+Q`

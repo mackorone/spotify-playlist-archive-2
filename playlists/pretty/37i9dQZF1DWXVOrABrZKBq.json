@@ -1,12 +1,12 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: La Mano 1.9, PLK",
-  "num_followers": 23416,
+  "num_followers": 23456,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOo354xEoIqxmckyuZi+z2jTE2//",
+  "snapshot_id": "AAAAAGbBT+pUuNV8taKppGSNbjy09HGN",
   "tracks": [
     {
       "added_at": "2026-08-28 04:03:34",
@@ -315,22 +315,22 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
-        "name": "SPA",
-        "url": "https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd"
+        "name": "Argent Sale - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
         },
         {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 183307,
-      "name": "SPA",
-      "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
+      "duration_ms": 164307,
+      "name": "Argent Sale - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
     },
     {
       "added_at": "2026-08-28 04:03:34",
@@ -379,22 +379,22 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
-        "name": "Argent Sale - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE"
+        "name": "SPA",
+        "url": "https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd"
       },
       "artists": [
         {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
         }
       ],
-      "duration_ms": 164307,
-      "name": "Argent Sale - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
+      "duration_ms": 183307,
+      "name": "SPA",
+      "url": "https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q"
     },
     {
       "added_at": "2026-08-28 04:03:34",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
-        "name": "MON B\u00c9B\u00c9",
-        "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "MON B\u00c9B\u00c9",
-      "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
-    },
-    {
-      "added_at": "2026-08-28 04:03:34",
-      "album": {
         "name": "Num\u00e9ro d'\u00e9crou",
         "url": "https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 141266,
       "name": "PARLU",
       "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
+    },
+    {
+      "added_at": "2026-08-28 04:03:34",
+      "album": {
+        "name": "MON B\u00c9B\u00c9",
+        "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "MON B\u00c9B\u00c9",
+      "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
     },
     {
       "added_at": "2026-08-28 04:03:34",
@@ -1075,6 +1075,30 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
+        "name": "Allo Doudou",
+        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
+      },
+      "artists": [
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "litleboy lsbeats767",
+          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
+        },
+        {
+          "name": "Miimii KDS",
+          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
+        }
+      ],
+      "duration_ms": 170681,
+      "name": "Allo Doudou",
+      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
+    },
+    {
+      "added_at": "2026-08-28 04:03:34",
+      "album": {
         "name": "Dans la temp\u00eate",
         "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
       },
@@ -1115,30 +1139,6 @@
       "duration_ms": 187826,
       "name": "FBI",
       "url": "https://open.spotify.com/track/25LmqV3caGgXzyQqmCRYAz"
-    },
-    {
-      "added_at": "2026-08-28 04:03:34",
-      "album": {
-        "name": "Allo Doudou",
-        "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "litleboy lsbeats767",
-          "url": "https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY"
-        },
-        {
-          "name": "Miimii KDS",
-          "url": "https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd"
-        }
-      ],
-      "duration_ms": 170681,
-      "name": "Allo Doudou",
-      "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
     },
     {
       "added_at": "2026-08-28 04:03:34",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2026-08-28 04:03:34",
       "album": {
+        "name": "LA VAR",
+        "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
+      },
+      "artists": [
+        {
+          "name": "Supremnova",
+          "url": "https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR"
+        },
+        {
+          "name": "Jemma's Palace",
+          "url": "https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ"
+        }
+      ],
+      "duration_ms": 102352,
+      "name": "LA VAR",
+      "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
+    },
+    {
+      "added_at": "2026-08-28 04:03:34",
+      "album": {
         "name": "BEAUX GAR\u00c7ONS",
         "url": "https://open.spotify.com/album/5rstd8cBg9dbCzEpS2KxQw"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 149120,
       "name": "BEAUX GAR\u00c7ONS",
       "url": "https://open.spotify.com/track/3Y0ZQODxCHm18NqJKaHrB5"
-    },
-    {
-      "added_at": "2026-08-28 04:03:34",
-      "album": {
-        "name": "En Attendant Int\u00e9gral 3",
-        "url": "https://open.spotify.com/album/3D0awOGU1eDPH0tTA21227"
-      },
-      "artists": [
-        {
-          "name": "Nahir",
-          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 166235,
-      "name": "Chocolat",
-      "url": "https://open.spotify.com/track/0FIaZBj6LZBC1e9iIFOhcD"
     }
   ],
   "unique_name": "Rap francophone",

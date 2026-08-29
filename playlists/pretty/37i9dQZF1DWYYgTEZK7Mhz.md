@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,352 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,374 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 32 | [Vamos a la Playa](https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:37 |
 | 33 | [24 mila baci](https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [24 mila baci \- Aulì\-Ulé \- Furore \- Movimento di Rock](https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF) | 2:18 |
 | 34 | [Sei Diventata Nera](https://open.spotify.com/track/2M1MmdF0Uz1mnwOwVwdLtD) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [I Marcellos Ferial](https://open.spotify.com/album/7Jib1N5PzwSylNrcgCc6jj) | 2:13 |
-| 35 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
-| 36 | [Pezzetini di bikini](https://open.spotify.com/track/7qNvDdwy8MhpdxIhfEY3Il) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Jolly LPJ 5018](https://open.spotify.com/album/1RR8kDBBb6wwYoOzTqv9VI) | 2:15 |
+| 35 | [Pezzetini di bikini](https://open.spotify.com/track/7qNvDdwy8MhpdxIhfEY3Il) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Jolly LPJ 5018](https://open.spotify.com/album/1RR8kDBBb6wwYoOzTqv9VI) | 2:15 |
+| 36 | [L'esercito del surf](https://open.spotify.com/track/0JceaCTWD2nVzPqA27yK9W) | [Catherine Spaak](https://open.spotify.com/artist/0GBQEo1KqJaRlPqO1UMLh2) | [Catherine Spaak](https://open.spotify.com/album/43kTmexEORoUruj66w0F4o) | 2:09 |
 | 37 | [Fotoromanza](https://open.spotify.com/track/5aqLXmh8SpcmR21finoww3) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Puzzle](https://open.spotify.com/album/55q2ylJP8PZ9XWiIILMImE) | 4:27 |
 | 38 | [Acapulco](https://open.spotify.com/track/6ljOLXDHJ7zPFfxZzG9vUM) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Le Canzoni La Nostra Storia](https://open.spotify.com/album/1knxIimFXSLzDsvgXwE7VY) | 3:46 |
 | 39 | [Sei come una lucertola](https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2) | [Jo Fedeli](https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:17 |
-| 40 | [Il mare nel cassetto](https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Milva: i più grandi successi](https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY) | 2:59 |
-| 41 | [Saint\-Tropez Twist](https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [Peppino Di Capri](https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec) | 2:17 |
+| 40 | [Saint\-Tropez Twist](https://open.spotify.com/track/0yzxnz8zp2ttEAWKgeD006) | [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [Peppino Di Capri](https://open.spotify.com/album/2jtQpCnF21YfepWwuM0tec) | 2:17 |
+| 41 | [Il mare nel cassetto](https://open.spotify.com/track/5kxbVnUHcv8TXWI2E0ilSs) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Milva: i più grandi successi](https://open.spotify.com/album/5c1BQIDJNweYbWfePtKKKY) | 2:59 |
 | 42 | [Ciao Ciao](https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Nostalgia Italiana \- 1965](https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb) | 2:56 |
 | 43 | [Self Control](https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Self control](https://open.spotify.com/album/7AYodrNIhuRvYAsMcfzBdP) | 3:58 |
 | 44 | [Kobra](https://open.spotify.com/track/6RyJ57TU2qJCw3GIv9Ag1B) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Donatella Rettore](https://open.spotify.com/album/2eGxIkMPIgcvthCOLYoQZU) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [Boys \(Summertime Love\)](https://open.spotify.com/track/05Vs9EV1E8HI2u0EzopMdP) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 3:52 |
 | 50 | [Bandiera gialla](https://open.spotify.com/track/1ANLC3r7DQ5KCH4WRBnUXq) | [Gianni Pettenati](https://open.spotify.com/artist/0nc6KCFosBCzuavMT94Ofo) | [I Grandi Successi degli anni '60 \[New Edition\]](https://open.spotify.com/album/1membNisSAiJIocUKBuvCz) | 2:28 |
 
-Snapshot ID: `AAAAAMFhTfOJK7snTXg4JI9RDH/iMtt6`
+Snapshot ID: `AAAAAD8KzqVEcILjrEw8aZx+BIIERViJ`

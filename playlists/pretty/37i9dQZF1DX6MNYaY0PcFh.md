@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Diffrent
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,251 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,273 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 49 | [Tek Time](https://open.spotify.com/track/1Y2ozORhzgDsltbTYwuSWm) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q) | [Tek Time](https://open.spotify.com/album/2BiqAVcRcqcD4SjaXtCo4L) | 2:41 |
 | 50 | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/album/38XV0JAqCJk6RRyrB1JIU0) | 3:01 |
 | 51 | [ur world](https://open.spotify.com/track/6sebQAJWYYNyRwHLIeDvko) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [ur world](https://open.spotify.com/album/0PYMW2KuyFzeeSThG5wAny) | 3:08 |
-| 52 | [90S](https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [90S](https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0) | 3:16 |
-| 53 | [Just The Way You Are \- Paige Tomlinson Remix](https://open.spotify.com/track/2tazKVVJBWqFOAAlFzfQe5) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Paige Tomlinson](https://open.spotify.com/artist/5ADZw92wug6Jlx6oxL3b66) | [Just The Way You Are \(Remixes Part Two\)](https://open.spotify.com/album/7IuJ75kkCYnCnXg5EBS2Fi) | 2:56 |
+| 52 | [Just The Way You Are \- Paige Tomlinson Remix](https://open.spotify.com/track/2tazKVVJBWqFOAAlFzfQe5) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Paige Tomlinson](https://open.spotify.com/artist/5ADZw92wug6Jlx6oxL3b66) | [Just The Way You Are \(Remixes Part Two\)](https://open.spotify.com/album/7IuJ75kkCYnCnXg5EBS2Fi) | 2:56 |
+| 53 | [90S](https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [90S](https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0) | 3:16 |
 | 54 | [Twizted](https://open.spotify.com/track/4hZ17ryjXAq6OjpoH3CSke) | [ATW](https://open.spotify.com/artist/69Nx0ikrUq0IMY7aJMt4V6), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [Twizted](https://open.spotify.com/album/6trB3dbxRummr0pcx1dUpz) | 4:44 |
-| 55 | [Closer \- Edit](https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [ADMNTi](https://open.spotify.com/artist/6OwHQoalPXIQtpqjzG4IgY) | [Closer \(Edit\)](https://open.spotify.com/album/1sNPmXsSDjuvgJgPPFi9iE) | 3:47 |
-| 56 | [Ur Way](https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Ur Way](https://open.spotify.com/album/3uXixh1r8lizDG33DgUUUu) | 3:18 |
+| 55 | [Ur Way](https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Ur Way](https://open.spotify.com/album/3uXixh1r8lizDG33DgUUUu) | 3:18 |
+| 56 | [Closer \- Edit](https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [ADMNTi](https://open.spotify.com/artist/6OwHQoalPXIQtpqjzG4IgY) | [Closer \(Edit\)](https://open.spotify.com/album/1sNPmXsSDjuvgJgPPFi9iE) | 3:47 |
 | 57 | [Pull Up](https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Pull Up](https://open.spotify.com/album/0cRikIMmmZbGnJiEHmWMmW) | 3:13 |
 | 58 | [Fino](https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Fino](https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr) | 2:40 |
 | 59 | [Sunset](https://open.spotify.com/track/5XmEceDuVQqzR9kINPTBvP) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Sunset](https://open.spotify.com/album/6HFWbYaXiwvKFewZ5D2Cik) | 3:16 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 66 | [Sunpetal](https://open.spotify.com/track/4eZ86BB6u2BZXj7ilo1mk4) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [SAGA004](https://open.spotify.com/album/5ggTXqpDKZIemTJHM9mEis) | 3:29 |
 | 67 | [Changes](https://open.spotify.com/track/2ZuUriBVIxjBqvPVESAZHM) | [Krafty Kuts](https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2) | [Changes](https://open.spotify.com/album/4Hebki4NfBurbLY2v9AyyW) | 3:24 |
 | 68 | [Cru](https://open.spotify.com/track/41Oa5fohSoOoJeAGXEFROw) | [TOM LECHEF](https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd) | [Cru](https://open.spotify.com/album/5de3SMpwYt1g6z2lam3cCU) | 3:30 |
-| 69 | [Naughties](https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Naughties](https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe) | 2:26 |
-| 70 | [SMOOTH](https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z) | [SMOOTH](https://open.spotify.com/album/2iaDVU4Xd8caSSlFJVgJbV) | 3:24 |
+| 69 | [Dip 'N Run](https://open.spotify.com/track/2zHUOTwJlXpxKc75z8owsh) | [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Dip 'N Run](https://open.spotify.com/album/7pFS3N0CZO5HKXcG9w1yeI) | 2:51 |
+| 70 | [Naughties](https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Naughties](https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe) | 2:26 |
 
-Snapshot ID: `AAAAAI7bfFk5T7r15DcXRkHxVEDxFHHX`
+Snapshot ID: `AAAAACzT46ypJKvJM3IWVvuJ/HvQyy7q`

@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol.",
-  "num_followers": 4253871,
+  "num_followers": 4253903,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxd+gdLT3ABgvuq/GqNgGSvGQ2m",
+  "snapshot_id": "AAAAACKYp8R4a11V8WeWCiI5+PV1eoTV",
   "tracks": [
     {
       "added_at": "2026-05-19 14:18:22",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Devu\u00e9lveme a mi chica",
-      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 250693,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Devu\u00e9lveme a mi chica",
+      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+        "name": "El Grito Del Tiempo",
+        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
         }
       ],
-      "duration_ms": 288600,
-      "name": "Afuera",
-      "url": "https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS"
+      "duration_ms": 235626,
+      "name": "En alg\u00fan lugar",
+      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -187,18 +187,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "El Grito Del Tiempo",
-        "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
       "artists": [
         {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 235626,
-      "name": "En alg\u00fan lugar",
-      "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
+      "duration_ms": 288600,
+      "name": "Afuera",
+      "url": "https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -235,18 +235,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -347,18 +347,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Programaton",
-        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Arrullo De Estrellas",
-      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
         "name": "La Vida Gacha",
         "url": "https://open.spotify.com/album/46qlKidNmBw0FSJzFpb8LM"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 245826,
       "name": "La Planta",
       "url": "https://open.spotify.com/track/2GggG2lQVYuus2aeAybe8M"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
+        "name": "Programaton",
+        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Arrullo De Estrellas",
+      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
-        "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 197320,
-      "name": "La Lola",
-      "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
+      "duration_ms": 240933,
+      "name": "Mirala Miralo",
+      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
+        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
+        "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
       },
       "artists": [
         {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
         }
       ],
-      "duration_ms": 240933,
-      "name": "Mirala Miralo",
-      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
+      "duration_ms": 197320,
+      "name": "La Lola",
+      "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
     },
     {
       "added_at": "2026-05-19 14:18:22",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-05-19 14:18:22",
       "album": {
+        "name": "Buenos Muchachos",
+        "url": "https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM"
+      },
+      "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Te Quiero Comer La Boca",
+      "url": "https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa"
+    },
+    {
+      "added_at": "2026-05-19 14:18:22",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
-    },
-    {
-      "added_at": "2026-05-19 14:18:22",
-      "album": {
-        "name": "Buenos Muchachos",
-        "url": "https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM"
-      },
-      "artists": [
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Te Quiero Comer La Boca",
-      "url": "https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa"
     },
     {
       "added_at": "2026-05-19 14:18:22",

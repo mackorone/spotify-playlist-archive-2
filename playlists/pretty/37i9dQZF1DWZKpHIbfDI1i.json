@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Charles Ans, Sabino, Yubeili, Caztro en portada",
-  "num_followers": 867863,
+  "num_followers": 868661,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGDR4ntzqzSkilPFyg0jaxH1la97",
+  "snapshot_id": "AAAAAOKlRuJRlkYSsZ5UDsCwzmidZ078",
   "tracks": [
     {
       "added_at": "2026-08-28 06:00:20",
@@ -43,7 +43,7 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "PARAMICORAZON:",
+        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
         "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
       },
       "artists": [
@@ -57,7 +57,7 @@
         }
       ],
       "duration_ms": 174545,
-      "name": "PARAMICORAZON:",
+      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
       "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
     },
     {
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
+        "name": "SUPERESTRELLA",
+        "url": "https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
         "name": "N\u00d3MADA",
         "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 233733,
       "name": "Adicci\u00f3n",
       "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
-        "name": "SUPERESTRELLA",
-        "url": "https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "SUPERESTRELLA",
-      "url": "https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "T\u00cdMIDA, SANTA Y PELIGROSA",
         "url": "https://open.spotify.com/album/5Mc458p3XeHN1pljpu8rUY"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 126722,
       "name": "T\u00cdMIDA, SANTA Y PELIGROSA",
       "url": "https://open.spotify.com/track/6yhlBas06D4GJ7hLWod9gH"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -823,8 +823,8 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "La Morrita",
-        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+        "name": "HD",
+        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
       },
       "artists": [
         {
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 154951,
-      "name": "La Morrita",
-      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+      "duration_ms": 193295,
+      "name": "HD",
+      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -915,8 +915,8 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "HD",
-        "url": "https://open.spotify.com/album/5EKxnTPqRJgagk80jG0WNC"
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
       },
       "artists": [
         {
@@ -924,13 +924,13 @@
           "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         },
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 193295,
-      "name": "HD",
-      "url": "https://open.spotify.com/track/6IH0VPpPDcXjxPflZEyzvo"
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Reminiscencia",
-        "url": "https://open.spotify.com/album/1iE4WOrDA6qhVTAYwgOrKK"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cuellar",
-          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
-        },
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 158487,
-      "name": "Reminiscencia",
-      "url": "https://open.spotify.com/track/7f1G5yfj2mcGEwKCHks3lm"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
         "name": "Es Triiste",
         "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 185567,
       "name": "Es Triiste",
       "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
+        "name": "Reminiscencia",
+        "url": "https://open.spotify.com/album/1iE4WOrDA6qhVTAYwgOrKK"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        },
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 158487,
+      "name": "Reminiscencia",
+      "url": "https://open.spotify.com/track/7f1G5yfj2mcGEwKCHks3lm"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
+        "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 141829,
+      "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4"
+    },
+    {
+      "added_at": "2026-08-28 06:00:20",
+      "album": {
         "name": "Dif\u00e1cil",
         "url": "https://open.spotify.com/album/0A4f9mzhedYSN6MWzNz8cf"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 176638,
       "name": "Dif\u00e1cil",
       "url": "https://open.spotify.com/track/6q7uGMbccdsCDwEL8pjsv3"
-    },
-    {
-      "added_at": "2026-08-28 06:00:20",
-      "album": {
-        "name": "Yo No Dije",
-        "url": "https://open.spotify.com/album/09jfMTx04SaHmWSB1Mq3Kl"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        },
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 215243,
-      "name": "Yo No Dije",
-      "url": "https://open.spotify.com/track/20a8C1jCjzelRsDfJUstty"
     },
     {
       "added_at": "2026-08-28 06:00:20",
@@ -1351,22 +1351,22 @@
     {
       "added_at": "2026-08-28 06:00:20",
       "album": {
-        "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/0aYVk0AmL8Tcg4kPdqdLkK"
+        "name": "Yo No Dije",
+        "url": "https://open.spotify.com/album/09jfMTx04SaHmWSB1Mq3Kl"
       },
       "artists": [
         {
-          "name": "Damaris Bojor",
-          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         },
         {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 141829,
-      "name": "Se Marchitan Las Flores - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/6lSIUwxV2kBgt4A3Hx3nW4"
+      "duration_ms": 215243,
+      "name": "Yo No Dije",
+      "url": "https://open.spotify.com/track/20a8C1jCjzelRsDfJUstty"
     },
     {
       "added_at": "2026-08-28 06:00:20",

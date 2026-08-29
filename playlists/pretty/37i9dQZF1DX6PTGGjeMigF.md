@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 
 > Enjoy the SEVENTEEN world tour \[RIGHT HERE\] LIVE SET including the voices of them on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 \[RIGHT HERE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,752 likes - 30 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,749 likes - 30 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PTGGjeMigF.md) - [plain]
 | 29 | [IF you leave me](https://open.spotify.com/track/0ilwFWjTwXszzwaG3XlNWj) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Face the Sun](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:32 |
 | 30 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
 
-Snapshot ID: `AAAAAEX8fxcm+aOWb+VzFhfNk9xAalzV`
+Snapshot ID: `AAAAADNR+PDLTgAinerIhDJd1xfUc57J`

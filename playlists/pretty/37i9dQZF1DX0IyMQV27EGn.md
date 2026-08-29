@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,424 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,681 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 50 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 |
 | 51 | [My Kink Is Karma](https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:42 |
 | 52 | [Criminal](https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 5:41 |
-| 53 | [sex money feelings die](https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 2:19 |
-| 54 | [National Anthem](https://open.spotify.com/track/2nvXyajLAAV9Iwy8K9EbUd) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:50 |
+| 53 | [National Anthem](https://open.spotify.com/track/2nvXyajLAAV9Iwy8K9EbUd) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:50 |
+| 54 | [sex money feelings die](https://open.spotify.com/track/0g4fzRkbLeCDUCoe5iUOcf) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 2:19 |
 | 55 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 56 | [Le temps de l'amour \- Stereo Mix](https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 2:24 |
 | 57 | [Femme Fatale](https://open.spotify.com/track/3PG7BAJG9WkmNOJOlc4uAo) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:39 |
-| 58 | [Glory And Gore](https://open.spotify.com/track/60jI0JgMLLj1VggHJVhtRs) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:30 |
-| 59 | [Money Power Glory](https://open.spotify.com/track/7Ms58r8G6Y0r1XLtpwoGxN) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:30 |
+| 58 | [Money Power Glory](https://open.spotify.com/track/7Ms58r8G6Y0r1XLtpwoGxN) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:30 |
+| 59 | [Glory And Gore](https://open.spotify.com/track/60jI0JgMLLj1VggHJVhtRs) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:30 |
 | 60 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 |
 | 61 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 |
 | 62 | [The Doll People](https://open.spotify.com/track/0UueyZtX0ogyXQWhg6Xkpz) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 3:26 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 64 | [...baby one more time](https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [...baby one more time](https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX) | 2:05 |
 | 65 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 |
 | 66 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 3:19 |
-| 67 | [for the night](https://open.spotify.com/track/5XnfNWIuyArQU732bZ6Nj1) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:08 |
-| 68 | [she calls me daddy](https://open.spotify.com/track/4nBsvvjN134KFVcvFMLWwK) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [she calls me daddy](https://open.spotify.com/album/2fKXo7qmQYw5u0DOeKhQoU) | 3:03 |
-| 69 | [Gangster's Wife](https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Sunny in London \(Acoustic\)](https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8) | 2:39 |
-| 70 | [Fuck Me Pumps](https://open.spotify.com/track/3ku4ScVEkZvurrcjmMrOAL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/664z6KAZKVhAY36vBCLmiN) | 3:20 |
+| 67 | [she calls me daddy](https://open.spotify.com/track/4nBsvvjN134KFVcvFMLWwK) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [she calls me daddy](https://open.spotify.com/album/2fKXo7qmQYw5u0DOeKhQoU) | 3:03 |
+| 68 | [for the night](https://open.spotify.com/track/5XnfNWIuyArQU732bZ6Nj1) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:08 |
+| 69 | [Fuck Me Pumps](https://open.spotify.com/track/3ku4ScVEkZvurrcjmMrOAL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/664z6KAZKVhAY36vBCLmiN) | 3:20 |
+| 70 | [Gangster's Wife](https://open.spotify.com/track/30vGqh1ELeYh6r4A6FIaya) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Sunny in London \(Acoustic\)](https://open.spotify.com/album/3rlOkmojjYLRFnAY9shUX8) | 2:39 |
 
-Snapshot ID: `AAAAAD1rsq2roODntlnwjfIg1ImsvV3S`
+Snapshot ID: `AAAAAM1qQVZBdFhgRmlzvQad10i2nS83`

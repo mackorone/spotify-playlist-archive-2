@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-504 songs - 23 hr 47 min
+505 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Cleared Minds](https://open.spotify.com/track/3mtc57f0uNe2l10030GdhY) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Cleared Minds](https://open.spotify.com/album/0NRTDJY07T7InXgDq35qJd) | 2:37 | 2026-04-03 |  |
 | [Clearing](https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab) | [dYb](https://open.spotify.com/artist/5J2i1y9d9QrAVdBi92SX3r) | [Clearing](https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw) | 3:46 | 2023-04-28 | 2026-04-02 |
 | [Clearing Away](https://open.spotify.com/track/3mT1CQmG7ndvpqDLidJ7rf) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Clearing Away](https://open.spotify.com/album/3ioIRza0mtQiHvBfnZnIqk) | 2:51 | 2026-04-03 | 2026-06-27 |
-| [Cloudgaze](https://open.spotify.com/track/4Ju8S5l7FJdgX6JYJKrCBd) | [Toni Ludwig\-Graphaüs](https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG) | [Cloudgaze](https://open.spotify.com/album/7yVLlGcIToRjLtR2aZxlSX) | 3:07 | 2026-07-03 |  |
+| [Cloudgaze](https://open.spotify.com/track/4Ju8S5l7FJdgX6JYJKrCBd) | [Toni Ludwig\-Graphaüs](https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG) | [Cloudgaze](https://open.spotify.com/album/7yVLlGcIToRjLtR2aZxlSX) | 3:07 | 2026-07-03 | 2026-08-29 |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2023-04-28 | 2025-05-22 |
 | [Condensation](https://open.spotify.com/track/4DOqRbz7WqlvueNRCkTdCZ) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Condensation](https://open.spotify.com/album/5FH8oQ5l8qq8Twv0kr20lp) | 2:30 | 2025-05-28 |  |
 | [Connection \(Nature\)](https://open.spotify.com/track/72psxjeHs75ZxMNbsCEwD7) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Connection](https://open.spotify.com/album/3vaTeBzkNTKF3hxABPlo04) | 2:48 | 2023-06-16 | 2025-03-23 |
@@ -202,6 +202,7 @@
 | [Glistening Creek](https://open.spotify.com/track/73GSYyBnRXNq5ZO0dhqzKF) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Glistening Creek](https://open.spotify.com/album/3xFWyfWNk038eJuIeN9C4n) | 2:09 | 2026-06-26 |  |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-04-28 | 2026-08-20 |
 | [Gloom](https://open.spotify.com/track/0KfCNOZ5t6pld3BPrsclKW) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Gloom](https://open.spotify.com/album/2oW7DPtkYty3pzxB5UsB3u) | 2:50 | 2024-12-12 |  |
+| [Glorious](https://open.spotify.com/track/4pFM5dsfUHF7AokwqcyMzM) | [Shaping Clouds](https://open.spotify.com/artist/0Bb5VKfNbEB7Vwd6hHWZfQ) | [Glorious](https://open.spotify.com/album/4CJQO7HJsNq9nmyfVSYNSO) | 2:59 | 2026-08-19 |  |
 | [Golden Feathers](https://open.spotify.com/track/2oSak1wBwlBR7AGDc0wO3T) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Golden Feathers](https://open.spotify.com/album/0rmGK1QUqNxXAPgVZermWj) | 2:47 | 2026-04-03 | 2026-06-27 |
 | [Golden Hour](https://open.spotify.com/track/5uOL8rOH6IS4L0NFbwpKei) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Golden Hour](https://open.spotify.com/album/6SHkCrdO9en2tc0QDex3pB) | 3:33 | 2025-12-17 | 2026-04-04 |
 | [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-04-28 | 2026-04-04 |

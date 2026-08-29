@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,183 songs - 5 day 2 hr 10 min
+2,185 songs - 5 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -778,7 +778,7 @@
 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 | 2025-11-21 | 2025-12-10 |
 | [Greedy](https://open.spotify.com/track/2EpfWYkOZPkXCqFvJXYlw5) | [I'd Rather Be](https://open.spotify.com/artist/4EETQElkLfuxxTydmWxpLS) | [Greedy](https://open.spotify.com/album/21vKeyIaOKGHc1G98mjAX7) | 2:14 | 2026-01-30 | 2026-03-03 |
 | [Green Dynamite](https://open.spotify.com/track/1ZD6uio5K3zI6K605c0IkW) | [Nexus\_0](https://open.spotify.com/artist/1DeTbdvBWontCdCJThnYV8) | [Green Dynamite](https://open.spotify.com/album/79l6J16R93JFWhOJi7uQxo) | 3:54 | 2026-03-02 | 2026-03-21 |
-| [Green Eyes](https://open.spotify.com/track/4ag9GBwaroCkmxut89trNR) | [The Spitting Pips](https://open.spotify.com/artist/7cLhcLnnXPatZWFwz81Huj) | [Green Eyes](https://open.spotify.com/album/3fspGuBdrcPdEgk5DsnXmL) | 3:12 | 2026-07-28 |  |
+| [Green Eyes](https://open.spotify.com/track/4ag9GBwaroCkmxut89trNR) | [The Spitting Pips](https://open.spotify.com/artist/7cLhcLnnXPatZWFwz81Huj) | [Green Eyes](https://open.spotify.com/album/3fspGuBdrcPdEgk5DsnXmL) | 3:12 | 2026-07-28 | 2026-08-29 |
 | [Grief](https://open.spotify.com/track/3TL3iXXd9qQtNtGp4x8epH) | [Empty Heir](https://open.spotify.com/artist/5veXx6ZBpLtll2gTE82ebb) | [Grief](https://open.spotify.com/album/1o8Il2VQoY77E71tvDbch5) | 2:48 | 2026-04-15 | 2026-05-08 |
 | [Groceries](https://open.spotify.com/track/3XchDQDHTVYGWEVBKGPe6N) | [Tired Cossack](https://open.spotify.com/artist/7LZt0YpmFcot7UQ7BqOQtq) | [Groceries](https://open.spotify.com/album/0Gy6SeuSqw6J5Zp2AddiJ0) | 2:40 | 2026-03-10 | 2026-04-11 |
 | [GROWING](https://open.spotify.com/track/33RszjKEEGkz8mvT2D6hcN) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/192wCJGiB81LgOfTQBxlpN) | 2:49 | 2026-03-19 | 2026-04-17 |
@@ -851,6 +851,7 @@
 | [Hollow](https://open.spotify.com/track/0uhGLwuCMClw1JXDj6HXTb) | [Sunkeeper](https://open.spotify.com/artist/7fzEHUb9cy0LIwlWXMZfUY) | [Hollow](https://open.spotify.com/album/0RVddq3xxMv7nyMPX7sMiP) | 4:12 | 2026-01-14 | 2026-02-03 |
 | [Hollow Sun](https://open.spotify.com/track/7pR4pIdtqjey4YdfGzQMZx) | [Tyson Dickert](https://open.spotify.com/artist/7DzMrRXO3rUkDzR32YaB2p) | [Hollow Sun](https://open.spotify.com/album/1LnVYOaVOONBK3Cl8wCs5n) | 5:06 | 2026-01-26 | 2026-02-24 |
 | [Hollow Temples](https://open.spotify.com/track/6FH6BLpRmqS7ndC0exBm8K) | [Haints](https://open.spotify.com/artist/5K3zms42vDfJY37pZEayS4) | [Hollow Temples](https://open.spotify.com/album/1k3AAdEFbKsRxrNspbOxk8) | 3:30 | 2026-05-27 | 2026-07-04 |
+| [Hollywood](https://open.spotify.com/track/5mIC2serbv60vtTy02IMyU) | [EMMALISA](https://open.spotify.com/artist/0uAC20tdGcRDQMNvWTnZP0) | [Hollywood](https://open.spotify.com/album/0BX9XhyMCcJoON2qcF3wEF) | 3:48 | 2026-08-28 |  |
 | [Holograms](https://open.spotify.com/track/74LgAGJ2EJiX4tm3uYPxH2) | [Clay Guccione](https://open.spotify.com/artist/3xVmv1dQqq0tREp3DyA4TX) | [Holograms](https://open.spotify.com/album/5OLMEB7BgkvEFoE9zGbo9i) | 5:35 | 2026-06-23 | 2026-07-18 |
 | [HOME](https://open.spotify.com/track/33gL9flzDBxg4Jl8eedW6L) | [rags.](https://open.spotify.com/artist/2my0CRbQIrgmT0qAAqcpuv) | [LUCKY](https://open.spotify.com/album/5Ot8d9ljJ1h1nxQf4wOZ2W) | 1:00 | 2026-03-30 | 2026-05-01 |
 | [Homebody](https://open.spotify.com/track/1oWVMlsltrtxzyht83O7Xi) | [Niamh Maclennan](https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv) | [Homebody](https://open.spotify.com/album/4tttBqAaMEt8Tant06Nvt6) | 2:52 | 2026-06-03 | 2026-07-04 |
@@ -1322,6 +1323,7 @@
 | [Oblivion](https://open.spotify.com/track/6o5S6TmTAt0PmxSLHhUPfy) | [Monashee](https://open.spotify.com/artist/3aRQ4wIrd9wOGqAY9dJMkI) | [Oblivion](https://open.spotify.com/album/6JxEAIvajQ93CAMEdmnR9E) | 3:41 | 2026-01-23 | 2026-02-24 |
 | [OBLIVION](https://open.spotify.com/track/5IlZAjdCbZMM3egsegWT1J) | [The Reckless](https://open.spotify.com/artist/3ipuwfDLR0d6qhr3zDOWkz) | [OBLIVION](https://open.spotify.com/album/46XReylm7S2uJ9HZehmmtw) | 1:33 | 2026-03-08 | 2026-04-09 |
 | [Ocean Blue](https://open.spotify.com/track/7AvxrXZVora0RLzC4YgVFK) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 3:01 | 2025-12-20 | 2026-01-15 |
+| [Ocean Call](https://open.spotify.com/track/3IkLqtO9o3iKzXBvyh17dG) | [The Walrus Project](https://open.spotify.com/artist/1jsbRhM9bwcvUq1wrpy9gD) | [from the couch](https://open.spotify.com/album/3jiUMmRTeEbw29xFVfym2B) | 2:30 | 2026-08-28 |  |
 | [Oceans](https://open.spotify.com/track/2MhpVRXC1iL0ChF3sFdlOD) | [Mathew Adekunle](https://open.spotify.com/artist/7M8CbEz2nm6Gyi4nNr4TDi) | [Oceans](https://open.spotify.com/album/6SUof92ImCfppQjarhmSrK) | 5:32 | 2026-08-13 |  |
 | [Ode to Cold Beer](https://open.spotify.com/track/4pcBKBM4tgclpBcQIsTRdV) | [D.J\. Burban](https://open.spotify.com/artist/3kpnYfWPAW54uRPI8Zti9Q) | [Ode to Cold Beer](https://open.spotify.com/album/6RTRbtYsVp0IBmXfWOEQPf) | 3:20 | 2026-02-04 | 2026-02-27 |
 | [Ode to Running](https://open.spotify.com/track/2pznrfJGtOOOj6BQQiIAFr) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Ode to Running](https://open.spotify.com/album/3R3xEtEs81EbDTamNKfqOW) | 4:09 | 2026-07-09 |  |

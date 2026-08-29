@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 301 songs - 15 hr 49 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 302 songs - 15 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,5 +309,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 299 | [La Coleta \- Remix](https://open.spotify.com/track/1b3ATDYZL3b30LjwPYha8I) | [Jey Z](https://open.spotify.com/artist/367smpzsBlOY72qM64QFFy), [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Bendecido por Dios](https://open.spotify.com/album/4L64bZD6wNZAHGWqtvnqWT) | 3:12 |
 | 300 | [empecemos devuelta](https://open.spotify.com/track/6F17ZOfEoSSHJeYXLrsnqI) | [amazing](https://open.spotify.com/artist/0mkweBNmdERTJdBeTCIJby), [octa](https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy) | [zetahayunosolo](https://open.spotify.com/album/4B6ynl0EHi4wVGidxfGzjp) | 2:21 |
 | 301 | [Ban2leros \#1](https://open.spotify.com/track/3FIZxxvk9GDlxiFlVFaibx) | [Mala Fama G](https://open.spotify.com/artist/6CmxGetOUMaZvdL2QQeLRY), [Migue Ceballos](https://open.spotify.com/artist/2J1JjCZxLNmw8CRKADx9qe) | [Ban2leros \#1](https://open.spotify.com/album/2moNJyy7a1uxT0CoRyWuDP) | 2:05 |
+| 302 | [All the Days](https://open.spotify.com/track/1JKMMx5g3ShrVa0R7vjdqU) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [All the Days](https://open.spotify.com/album/0Y08f2d57uXxG4dj1zIzHf) | 5:08 |
 
-Snapshot ID: `AAAWMxuRI3k2xjgzOoEjy4IQ1y+/Q9Om`
+Snapshot ID: `AAAWNAIRB04DmfzEqMLu7xNhDHf3Q5GE`

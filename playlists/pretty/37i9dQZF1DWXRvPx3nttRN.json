@@ -1,12 +1,12 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 619166,
+  "num_followers": 619318,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGE5KatIl4x4XdwhkW+qdy2LxfJF",
+  "snapshot_id": "AAAAAHXhv8yndR57y4UjSkskAQZRlAHT",
   "tracks": [
     {
       "added_at": "2026-01-26 17:25:39",
@@ -721,7 +721,7 @@
         }
       ],
       "duration_ms": 142440,
-      "name": "Good To Be (Acoustic)",
+      "name": "Good To Be - Acoustic",
       "url": "https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh"
     },
     {
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-01-26 17:25:39",
       "album": {
+        "name": "Hands All Over (Deluxe)",
+        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "Misery - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
+    },
+    {
+      "added_at": "2026-01-26 17:25:39",
+      "album": {
         "name": "Let Me Live (feat. Anne-Marie & Mr Eazi) [Acoustic]",
         "url": "https://open.spotify.com/album/1v4bQwWWnsdfMhlHHKZumi"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 218049,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi) - Acoustic",
       "url": "https://open.spotify.com/track/7kStxK6rzxka5SRlg1lzhz"
-    },
-    {
-      "added_at": "2026-01-26 17:25:39",
-      "album": {
-        "name": "Hands All Over (Deluxe)",
-        "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 226320,
-      "name": "Misery - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
     },
     {
       "added_at": "2026-01-26 17:25:39",

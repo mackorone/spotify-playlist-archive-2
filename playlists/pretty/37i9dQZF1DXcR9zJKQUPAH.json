@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPUZfQccbaJKe7frGnmmmdezuar8",
+  "snapshot_id": "AAAAAOZ2XVxIHBhJOhWtkJtbBQvhqvYe",
   "tracks": [
     {
       "added_at": "2024-03-18 13:08:31",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 233280,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 349452,
       "name": "oh baby",
       "url": "https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 233280,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "On Hold",
-      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Sunset Season",
-        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 237920,
-      "name": "Idle Town",
-      "url": "https://open.spotify.com/track/0cXRafInOlc1QH519RXltN"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 214533,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Sunset Season",
+        "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "Idle Town",
+      "url": "https://open.spotify.com/track/0cXRafInOlc1QH519RXltN"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Erratic Cinematic",
-        "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
-      },
-      "artists": [
-        {
-          "name": "Gerry Cinnamon",
-          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 186133,
       "name": "Astrovan",
       "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Erratic Cinematic",
+        "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
+      },
+      "artists": [
+        {
+          "name": "Gerry Cinnamon",
+          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 262231,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Goodpain",
         "url": "https://open.spotify.com/album/0tg6msTvhHx8glztrBii80"
       },
@@ -1451,8 +1435,24 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr"
       },
       "artists": [
         {
@@ -1460,25 +1460,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 262600,
-      "name": "Television / So Far So Good",
-      "url": "https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "No Shape",
-        "url": "https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 165329,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3"
+      "duration_ms": 262231,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1495,6 +1479,22 @@
       "duration_ms": 176760,
       "name": "You Say I'm in Love",
       "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "No Shape",
+        "url": "https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 165329,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1519,6 +1519,38 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Television / So Far So Good",
+      "url": "https://open.spotify.com/track/5OUTFH5acycdnf8OVo21Gv"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
       },
@@ -1531,22 +1563,6 @@
       "duration_ms": 181136,
       "name": "Iris",
       "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+        "name": "The Far Field",
+        "url": "https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
         }
       ],
-      "duration_ms": 357357,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI"
+      "duration_ms": 205586,
+      "name": "Ran",
+      "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "The Far Field",
-        "url": "https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Ran",
-      "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
+      "duration_ms": 357357,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI"
     }
   ],
   "unique_name": "Best of Indie 2017",

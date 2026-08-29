@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 
 > Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: NEXZ\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216,541 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216,413 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 3 | [Bloody Paradise](https://open.spotify.com/track/0r2JVOjI7H1jhXzXBOorKu) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [THE SIN : BLISS](https://open.spotify.com/album/2os46ReV779WlryAHPL6ko) | 2:11 |
 | 4 | [Love wave \(Remix\)](https://open.spotify.com/track/0vdAdZRCi8KR8wTFCWGtik) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [Love wave \(Remix\)](https://open.spotify.com/album/79Bf7purIdO87UtBecfuSG) | 3:23 |
 | 5 | [FLIRTY](https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [FLIRTY](https://open.spotify.com/album/2GIDfAsKGJVasFJ4BZdsX2) | 2:15 |
-| 6 | [LEMONADE \(Zedd Remix\)](https://open.spotify.com/track/3hoxvqaTCa2aeCDLZqlYJp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [LEMONADE \(Zedd Remix\)](https://open.spotify.com/album/4U3rMcsMqPoS2iGDaEczZ6) | 3:02 |
+| 6 | [LEMONADE \- Zedd Remix](https://open.spotify.com/track/3hoxvqaTCa2aeCDLZqlYJp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [LEMONADE \(Zedd Remix\)](https://open.spotify.com/album/4U3rMcsMqPoS2iGDaEczZ6) | 3:02 |
 | 7 | [Don’t Wake Me Up!](https://open.spotify.com/track/3Dj4kMRfZQKqU9wNvoNhAg) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [CORE](https://open.spotify.com/album/2aellk2HBrjc38bHfqXK9V) | 2:37 |
 | 8 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 |
 | 9 | [Ride or Die](https://open.spotify.com/track/2KQIWXg1oWdkbE04CqcE4E) | [EVAN](https://open.spotify.com/artist/3olOSNzFWX5z21YMEFFVMw) | [RIDE OR DIE](https://open.spotify.com/album/7BUNjTAZNdAbZ3GEhv7F25) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 49 | [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [NO TRAGEDY](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 |
 | 50 | [TNT](https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN](https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT) | 2:02 |
 
-Snapshot ID: `AAAAAI4//kuQF/RQ3eFrTaVHuxYgw+8m`
+Snapshot ID: `AAAAAKwA8/WjHDJ6LAzrKfQ5Eja7k//H`

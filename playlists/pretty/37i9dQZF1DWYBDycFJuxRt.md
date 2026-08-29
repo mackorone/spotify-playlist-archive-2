@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: SIX LOUNGE \*👉 <a href="https://spice.eplus.jp/articles/348490">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,174 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,160 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 98 | [XAOSX](https://open.spotify.com/track/3Jer1FyNllg9aGGOqjO5nG) | [XAOSX](https://open.spotify.com/artist/1icdbXnt6Se6sdCVHQBtgV) | [XAOSX](https://open.spotify.com/album/1e6L6YRrIiax06l2vkK7bG) | 2:55 |
 | 99 | [わたしの手のひらで](https://open.spotify.com/track/3edCwva4DUu5U1H5BuYoMk) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [わたしの手のひらで](https://open.spotify.com/album/30MEdFMJwQ0mVAwxpIWPwt) | 1:33 |
 
-Snapshot ID: `AAAAAF/N+fTWeIi0akGUW0Bjo8EjvYOM`
+Snapshot ID: `AAAAAGx/6ZR35bZPXWl0j/WtYANqVlcI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,732 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,730 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 42 | [Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:02 |
 | 43 | [Cannonball](https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Cannonball](https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm) | 3:55 |
 | 44 | [Alcohol \(with BRELAND\)](https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Alcohol \(with BRELAND\)](https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch) | 3:38 |
-| 45 | [Razor's Edge \(feat\. X Ambassadors\)](https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:33 |
-| 46 | [Free & Lonely](https://open.spotify.com/track/0aPN28xnhv6RMuxAPpygjR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Reason EP](https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ) | 4:08 |
+| 45 | [Free & Lonely](https://open.spotify.com/track/0aPN28xnhv6RMuxAPpygjR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Reason EP](https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ) | 4:08 |
+| 46 | [Razor's Edge \(feat\. X Ambassadors\)](https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:33 |
 | 47 | [torture \(with Earl St\. Clair\)](https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [torture \(with Earl St\. Clair\)](https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP) | 2:41 |
-| 48 | [CONFIDENCE \(feat\. K.Flay\)](https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 2:53 |
-| 49 | [Half\-Life](https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:13 |
+| 48 | [Half\-Life](https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 3:13 |
+| 49 | [CONFIDENCE \(feat\. K.Flay\)](https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [ORION](https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu) | 2:53 |
 | 50 | [Helium \(feat\. X Ambassadors\)](https://open.spotify.com/track/2ej8Av0xMTBQwNIt0QeLbS) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Helium](https://open.spotify.com/album/22N0FVAflIZLGdkCm7Np2U) | 2:48 |
 
-Snapshot ID: `ao4sgAAAAAAD+gkrllhivaDbD3hSoDK2`
+Snapshot ID: `ao9+AAAAAADyMGuznej1XgQ+GiZBPByu`

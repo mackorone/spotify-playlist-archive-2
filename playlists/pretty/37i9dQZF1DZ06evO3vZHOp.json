@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 380555,
+  "num_followers": 380572,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ao4sgAAAAAAr9ipJsrC28MlGE6bV+Sw7",
+  "snapshot_id": "ao9+AAAAAAAK4CLXtCvyWziVOWc213+/",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
       "artists": [
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 173524,
-      "name": "La Canci\u00f3n Feliz Del Disco",
-      "url": "https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY"
+      "duration_ms": 151627,
+      "name": "100 Conmigo",
+      "url": "https://open.spotify.com/track/4sMLOi2r2M2gJeO4qeZB7A"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
       "artists": [
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         }
       ],
-      "duration_ms": 151627,
-      "name": "100 Conmigo",
-      "url": "https://open.spotify.com/track/4sMLOi2r2M2gJeO4qeZB7A"
+      "duration_ms": 173524,
+      "name": "La Canci\u00f3n Feliz Del Disco",
+      "url": "https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 224845,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 130459,
       "name": "H.I.M.",
       "url": "https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 224845,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Vetements",
-      "url": "https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chosen Few New Generation II - Recharged",
         "url": "https://open.spotify.com/album/382jindm6my1i05NJfXQLr"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 201225,
       "name": "Salgo a Buscarte (feat. Ele A El Dominio)",
       "url": "https://open.spotify.com/track/2TzXxkRbz5fo31Crzn56mb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Vetements",
+      "url": "https://open.spotify.com/track/7DACCN4AceR9hgiP9s99PC"
     },
     {
       "added_at": null,

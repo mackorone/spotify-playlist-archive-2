@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,091 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,085 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 45 | [Devil In Disguise](https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA) | [BaggE](https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8) | [Devil In Disguise](https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07) | 3:08 |
 | 46 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |
 | 47 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
-| 48 | [Docs](https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [Docs](https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6) | 3:28 |
-| 49 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
+| 48 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
+| 49 | [Docs](https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [Docs](https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6) | 3:28 |
 | 50 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
 | 51 | [Moved On](https://open.spotify.com/track/1j7tAy1YjVd5pNwQDqU9pc) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Moved On](https://open.spotify.com/album/3hzx6bvmFZq9GQGFu4bNWT) | 1:51 |
 | 52 | [All the Way Down \(unplugged\)](https://open.spotify.com/track/6fGNH1hGQdo1ZH2MaKaVIc) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [In The Blue Light](https://open.spotify.com/album/2w1TWh1hbKQILEeEUzhICu) | 5:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 |
 | 60 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 |
 
-Snapshot ID: `AAAAAMkrvuDVspO09o24tkfK8TC/H5Ex`
+Snapshot ID: `AAAAAEZQpfXxvC9xDL0OS4uCsf6TI0iI`

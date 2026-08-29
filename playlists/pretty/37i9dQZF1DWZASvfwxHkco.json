@@ -1,12 +1,12 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Michael Bibi, KETTAMA",
-  "num_followers": 68613,
+  "num_followers": 68608,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACEYz8UNACN48iw2N4FORvjTIyaU",
+  "snapshot_id": "AAAAAH8Jqa2u5kyaGDrRV9kGMuZJRCWn",
   "tracks": [
     {
       "added_at": "2026-08-26 02:39:01",
@@ -967,6 +967,26 @@
     {
       "added_at": "2026-08-26 02:39:01",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/4Xqf8b22c4vUcl9PFEmy50"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 162888,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF"
+    },
+    {
+      "added_at": "2026-08-26 02:39:01",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 153750,
       "name": "Together",
       "url": "https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM"
-    },
-    {
-      "added_at": "2026-08-26 02:39:01",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/4Xqf8b22c4vUcl9PFEmy50"
-      },
-      "artists": [
-        {
-          "name": "Myles Lloyd",
-          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
-        },
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 162888,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF"
     },
     {
       "added_at": "2026-08-26 02:39:01",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2026-08-26 02:39:01",
       "album": {
+        "name": "Free (You Got To Live)",
+        "url": "https://open.spotify.com/album/0V07kae1K63UGyBDfiTDDU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Free (You Got To Live)",
+      "url": "https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO"
+    },
+    {
+      "added_at": "2026-08-26 02:39:01",
+      "album": {
         "name": "Never Going Home Tonight (feat. Madison Love)",
         "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
-    },
-    {
-      "added_at": "2026-08-26 02:39:01",
-      "album": {
-        "name": "Free (You Got To Live)",
-        "url": "https://open.spotify.com/album/0V07kae1K63UGyBDfiTDDU"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Free (You Got To Live)",
-      "url": "https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO"
     },
     {
       "added_at": "2026-08-26 02:39:01",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-08-26 02:39:01",
       "album": {
-        "name": "neck",
-        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "neck",
-      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
-    },
-    {
-      "added_at": "2026-08-26 02:39:01",
-      "album": {
         "name": "Beside Of Me",
         "url": "https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 207005,
       "name": "Beside Of Me",
       "url": "https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"
+    },
+    {
+      "added_at": "2026-08-26 02:39:01",
+      "album": {
+        "name": "neck",
+        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "neck",
+      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
     },
     {
       "added_at": "2026-08-26 02:39:01",
@@ -1547,6 +1547,30 @@
     {
       "added_at": "2026-08-26 02:39:01",
       "album": {
+        "name": "Recollect",
+        "url": "https://open.spotify.com/album/6IdC8Pr6SJL3lzeZXSBmKn"
+      },
+      "artists": [
+        {
+          "name": "Konomi Suzuki",
+          "url": "https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF"
+        },
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Re:ZERO Music",
+          "url": "https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ"
+        }
+      ],
+      "duration_ms": 190965,
+      "name": "Recollect",
+      "url": "https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL"
+    },
+    {
+      "added_at": "2026-08-26 02:39:01",
+      "album": {
         "name": "ALL THE TIME",
         "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
@@ -1571,26 +1595,22 @@
     {
       "added_at": "2026-08-26 02:39:01",
       "album": {
-        "name": "Recollect",
-        "url": "https://open.spotify.com/album/6IdC8Pr6SJL3lzeZXSBmKn"
+        "name": "Faded Eyes",
+        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
       },
       "artists": [
         {
-          "name": "Konomi Suzuki",
-          "url": "https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "Re:ZERO Music",
-          "url": "https://open.spotify.com/artist/78oRR9sySF2gaUSNJMADAJ"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 190965,
-      "name": "Recollect",
-      "url": "https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL"
+      "duration_ms": 177713,
+      "name": "Faded Eyes",
+      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
     },
     {
       "added_at": "2026-08-26 02:39:01",
@@ -1627,26 +1647,6 @@
       "duration_ms": 148500,
       "name": "Now Or Never",
       "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
-    },
-    {
-      "added_at": "2026-08-26 02:39:01",
-      "album": {
-        "name": "Faded Eyes",
-        "url": "https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 177713,
-      "name": "Faded Eyes",
-      "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
     },
     {
       "added_at": "2026-08-26 02:39:01",

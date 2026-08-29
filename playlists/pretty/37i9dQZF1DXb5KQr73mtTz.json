@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 22174,
+  "num_followers": 22179,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO1EF9Sdh6JhpSCHQ2BqCFc5zxTG",
+  "snapshot_id": "AAAAAI/UFUL6LQXxDx4nska2Zy9Ugbfe",
   "tracks": [
     {
       "added_at": "2026-04-29 09:21:42",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
-        "name": "EXchange4, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
+        "name": "EXchange4, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS"
     },
     {
       "added_at": "2026-04-29 09:21:42",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
-        "name": "Always You (Original Soundtrack from Recipe for Love, Pt. 6)",
-        "url": "https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP"
-      },
-      "artists": [
-        {
-          "name": "Kim Won Joo",
-          "url": "https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D"
-        }
-      ],
-      "duration_ms": 224602,
-      "name": "Always You",
-      "url": "https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 217040,
       "name": "Without U",
       "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
+        "name": "Always You (Original Soundtrack from Recipe for Love, Pt. 6)",
+        "url": "https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP"
+      },
+      "artists": [
+        {
+          "name": "Kim Won Joo",
+          "url": "https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D"
+        }
+      ],
+      "duration_ms": 224602,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe"
     },
     {
       "added_at": "2026-04-29 09:21:42",

@@ -1,12 +1,12 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1341356,
+  "num_followers": 1341656,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtvTZ5hSm541dYC8FDTy/4MkK6B",
+  "snapshot_id": "AAAAAD1u5b1MnYVBj0i8v5BztOeve+mp",
   "tracks": [
     {
       "added_at": "2026-08-25 10:19:13",
@@ -851,30 +851,6 @@
     {
       "added_at": "2026-08-25 10:19:13",
       "album": {
-        "name": "Kailasa",
-        "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
-      },
-      "artists": [
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        },
-        {
-          "name": "Paresh Kamath",
-          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
-        },
-        {
-          "name": "Naresh Kamath",
-          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
-        }
-      ],
-      "duration_ms": 323520,
-      "name": "Teri Deewani",
-      "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
-    },
-    {
-      "added_at": "2026-08-25 10:19:13",
-      "album": {
         "name": "Haseen",
         "url": "https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 174545,
       "name": "Haseen",
       "url": "https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI"
+    },
+    {
+      "added_at": "2026-08-25 10:19:13",
+      "album": {
+        "name": "Kailasa",
+        "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
+      },
+      "artists": [
+        {
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Paresh Kamath",
+          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "name": "Naresh Kamath",
+          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+        }
+      ],
+      "duration_ms": 323520,
+      "name": "Teri Deewani",
+      "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
     },
     {
       "added_at": "2026-08-25 10:19:13",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-08-25 10:19:13",
       "album": {
-        "name": "High On You",
-        "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
-      },
-      "artists": [
-        {
-          "name": "Jind Universe",
-          "url": "https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE"
-        }
-      ],
-      "duration_ms": 140250,
-      "name": "High On You",
-      "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
-    },
-    {
-      "added_at": "2026-08-25 10:19:13",
-      "album": {
         "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
         "url": "https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2026-08-25 10:19:13",
       "album": {
-        "name": "Raga of Revenge (From \"DC\")",
-        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
+        "name": "High On You",
+        "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Jind Universe",
+          "url": "https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Raga of Revenge (From \"DC\")",
-      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
+      "duration_ms": 140250,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
     },
     {
       "added_at": "2026-08-25 10:19:13",
@@ -987,6 +971,22 @@
       "duration_ms": 228000,
       "name": "Mann Mera - Original Version",
       "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
+    },
+    {
+      "added_at": "2026-08-25 10:19:13",
+      "album": {
+        "name": "Raga of Revenge (From \"DC\")",
+        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Raga of Revenge (From \"DC\")",
+      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
     },
     {
       "added_at": "2026-08-25 10:19:13",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-08-25 10:19:13",
       "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
+    },
+    {
+      "added_at": "2026-08-25 10:19:13",
+      "album": {
         "name": "Paro",
         "url": "https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 70400,
       "name": "Paro",
       "url": "https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT"
-    },
-    {
-      "added_at": "2026-08-25 10:19:13",
-      "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2026-08-25 10:19:13",
@@ -1415,8 +1415,8 @@
     {
       "added_at": "2026-08-25 10:19:13",
       "album": {
-        "name": "Laila Majnu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
+        "name": "O Saathi (From \"Baaghi 2\")",
+        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
       },
       "artists": [
         {
@@ -1424,13 +1424,13 @@
           "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         },
         {
-          "name": "Jyotica Tangri",
-          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
         }
       ],
-      "duration_ms": 281856,
-      "name": "O Meri Laila",
-      "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
+      "duration_ms": 251818,
+      "name": "O Saathi",
+      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
     },
     {
       "added_at": "2026-08-25 10:19:13",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2026-08-25 10:19:13",
       "album": {
-        "name": "O Saathi (From \"Baaghi 2\")",
-        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
+        "name": "Laila Majnu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
       },
       "artists": [
         {
@@ -1548,37 +1548,13 @@
           "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         },
         {
-          "name": "Arko",
-          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
         }
       ],
-      "duration_ms": 251818,
-      "name": "O Saathi",
-      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
-    },
-    {
-      "added_at": "2026-08-25 10:19:13",
-      "album": {
-        "name": "Mirzapur",
-        "url": "https://open.spotify.com/album/1m7HJi4LyJDQAUhFCoRRiC"
-      },
-      "artists": [
-        {
-          "name": "Anand Bhaskar",
-          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Ginny Diwan",
-          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
-        }
-      ],
-      "duration_ms": 350739,
-      "name": "Vaaroon",
-      "url": "https://open.spotify.com/track/4sgYmcu4FKb1ZC6qBlxMiw"
+      "duration_ms": 281856,
+      "name": "O Meri Laila",
+      "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
     },
     {
       "added_at": "2026-08-25 10:19:13",
@@ -1623,6 +1599,30 @@
       "duration_ms": 220800,
       "name": "Tere Bina Na Guzara E",
       "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
+    },
+    {
+      "added_at": "2026-08-25 10:19:13",
+      "album": {
+        "name": "Mirzapur",
+        "url": "https://open.spotify.com/album/1m7HJi4LyJDQAUhFCoRRiC"
+      },
+      "artists": [
+        {
+          "name": "Anand Bhaskar",
+          "url": "https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Ginny Diwan",
+          "url": "https://open.spotify.com/artist/4EZ6GDVebknxx5Funcp0X2"
+        }
+      ],
+      "duration_ms": 350739,
+      "name": "Vaaroon",
+      "url": "https://open.spotify.com/track/4sgYmcu4FKb1ZC6qBlxMiw"
     },
     {
       "added_at": "2026-08-25 10:19:13",

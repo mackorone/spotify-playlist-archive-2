@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 
 > Luz negra y estrobos\. Tinashe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,750 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,746 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 | 7 | [MIU MIU SKIRT](https://open.spotify.com/track/1eoD3jxrYCKBU23T06Bsmx) | [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [MIU MIU SKIRT](https://open.spotify.com/album/0uMBZHmaO0DLSnam78TwoV) | 2:18 |
 | 8 | [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
 | 9 | [Black Techno Guy](https://open.spotify.com/track/0GQ7Xh6mfh71Q0Az8sg3LT) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Techno Guy](https://open.spotify.com/album/3OO4Kb2Iw1qljp75qXh3hF) | 3:00 |
-| 10 | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
+| 10 | [Lucky Again \- The Magician Remix](https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lucky Again \(The Magician Remix\)](https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E) | 2:41 |
 | 11 | [CPR \- horsegiirL remix](https://open.spotify.com/track/7zqKqQAH2UNmlmMTxBFlvo) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [CPR \(horsegiirL remix\)](https://open.spotify.com/album/4lrANjEunaeYNOQDiUYgvC) | 3:21 |
 | 12 | [HBU](https://open.spotify.com/track/6ygKKiviQlrJgSOH7a3zbM) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [HBU](https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq) | 4:08 |
 | 13 | [SENDA](https://open.spotify.com/track/5fswOZtpTleF5VWtB4dfcP) | [DISHYPE](https://open.spotify.com/artist/2cVtX6cwi2dGV4WZDwU39q) | [SENDA](https://open.spotify.com/album/4y2NyjhWERqyrvA3uiJmOH) | 4:04 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 | 79 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/4s6PYL51msvsxDjME9i6OM) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/4YBSn85qXXKs13Rx5A0XsF) | 2:38 |
 | 80 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
 
-Snapshot ID: `AAAAAF2tHT3nXuSYPpqD1N766xA7NQ7Y`
+Snapshot ID: `AAAAAC2YbTrQ5KqxjBcPshqG2IJKyymU`
